@@ -9,8 +9,8 @@ import warnings
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-from nltk.tokenize import sent_tokenize
 import trafilatura
+import pytz  # pytz 라이브러리 추가
 
 # 경고 메시지 무시 설정
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -328,7 +328,6 @@ def save_articles_to_json(articles, filename='articles.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(articles, f, ensure_ascii=False, indent=4, default=datetime_to_string)
     print(f"{filename}에 저장되었습니다.")
-
 
 
 # 메인 실행 블록
