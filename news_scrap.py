@@ -20,8 +20,7 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 
 # 키워드 확장
 expanded_keywords = [
-    'OLED', 'LCD', '디스플레이', '폴더블', 'tandem',
-    '애플', '아이폰'
+    'OLED', 'LCD', '디스플레이', '폴더블', '애플'
 ]
 
 # Core keywords: 가장 중요하고 자주 등장하는 핵심 용어들
@@ -98,14 +97,14 @@ blacklist = {
 }
 
 
-def crawl_naver_news_api(keywords, days=2, client_id="", client_secret=""):
+def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     """
     네이버 뉴스 API를 사용하여 뉴스 기사를 크롤링하고,
-    주어진 기간 내의 기사 중복을 제거하여 반환합니다.
+    주어진 시간에 따라 기사 수집 시간 범위를 설정합니다.
 
     Args:
         keywords (list): 검색할 키워드 목록
-        days (int): 검색할 기간 (일 수)
+        now (datetime): 코드 실행 시간
         client_id (str): 네이버 API client_id
         client_secret (str): 네이버 API client_secret
 
@@ -114,8 +113,18 @@ def crawl_naver_news_api(keywords, days=2, client_id="", client_secret=""):
     """
 
     articles = []
-    end_date = datetime.now()
-    start_date = end_date - timedelta(days=days)
+    
+    hour = now.hour
+
+    if 7 <= hour < 13:  # 오전 7시 ~ 오후 1시
+        end_date = now.replace(hour=7, minute=0, second=0, microsecond=0)
+        start_date = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
+    elif 13 <= hour < 17:  # 오후 1시 ~ 오후 5시
+        end_date = now.replace(hour=13, minute=0, second=0, microsecond=0)
+        start_date = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
+    else:  # 오후 5시 이후
+        end_date = now.replace(hour=17, minute=0, second=0, microsecond=0)
+        start_date = now.replace(hour=17, minute=0, second=0, microsecond=0) - timedelta(days=1)
 
     for keyword in keywords:
         start = 1
@@ -321,21 +330,23 @@ def save_articles_to_json(articles, filename='articles.json'):
     print(f"{filename}에 저장되었습니다.")
 
 
+
 # 메인 실행 블록
 if __name__ == "__main__":
     load_dotenv()
-	client_id = os.getenv("CLIENT_ID") or os.getenv("client_id")  # GitHub Actions 또는 로컬 .env 파일에서 읽기
-	client_secret = os.getenv("CLIENT_SECRET") or os.getenv("client_secret")
+    client_id = os.getenv("CLIENT_ID") or os.getenv("client_id")
+    client_secret = os.getenv("CLIENT_SECRET") or os.getenv("client_secret")
 
     if not client_id or not client_secret:
-        print("Error: client_id or client_secret is not set in .env file.")
+        print("Error: client_id or client_secret is not set in .env file or environment variables.")
     else:
-        articles = crawl_naver_news_api(expanded_keywords, client_id=client_id,
+        now = datetime.now()
+        articles = crawl_naver_news_api(expanded_keywords, now, client_id=client_id,
                                            client_secret=client_secret)
-        print(f"총 {len(articles)}개의 기사를 수집했습니다.")
+        print(f"총 {len(articles)}개의 기사를 수집했습니다. (실행 시간: {now.strftime('%H:%M')})")
 
         filtered_articles = filter_articles(articles, threshold=25)
-        save_articles_to_json(filtered_articles, filename='articles_filtered.json')
+        save_articles_to_json(filtered_articles, filename=f'articles_filtered_{now.strftime("%H%M")}.json')
 
         print(f"총 {len(articles)}개의 기사 중 {len(filtered_articles)}개가 선별되었습니다.")
 
