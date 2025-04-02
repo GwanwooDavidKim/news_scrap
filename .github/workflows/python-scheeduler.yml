@@ -26,7 +26,7 @@ jobs:
           echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> $GITHUB_ENV
           echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> $GITHUB_ENV
       - name: Run Python script
-        run: news_scrap.py  # 실제 스크립트 이름으로 변경
+        run: python news_scrap.py  # 실제 스크립트 이름으로 변경
       - name: Commit results
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
