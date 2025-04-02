@@ -2,9 +2,7 @@ name: Python Script Scheduler
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # 매일 0시 (UTC) -> 한국 시간 09시
-    - cron: '4 4 * * *'    # 매일 4시 4분 (UTC) -> 한국 시간 13시 4분
-    - cron: '8 8 * * *'    # 매일 8시 8분 (UTC) -> 한국 시간 17시 8분
+    - cron: '*/5 * * * *'  # 매 5분마다 실행
   workflow_dispatch:
 
 jobs:
