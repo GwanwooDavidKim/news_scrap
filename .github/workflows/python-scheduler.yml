@@ -7,6 +7,9 @@ on:
     - cron: '0 08 * * *'  # 한국 시간 오후 5시 (UTC 08시)
   workflow_dispatch:
 
+permissions:
+  contents: write  # 쓰기 권한 부여
+
 jobs:
   run_python_script:
     runs-on: ubuntu-latest
