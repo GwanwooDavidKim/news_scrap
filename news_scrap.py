@@ -324,8 +324,8 @@ def save_articles_to_json(articles, filename='articles.json'):
 # 메인 실행 블록
 if __name__ == "__main__":
     load_dotenv()
-    client_id = os.getenv("client_id")
-    client_secret = os.getenv("client_secret")
+	client_id = os.getenv("CLIENT_ID") or os.getenv("client_id")  # GitHub Actions 또는 로컬 .env 파일에서 읽기
+	client_secret = os.getenv("CLIENT_SECRET") or os.getenv("client_secret")
 
     if not client_id or not client_secret:
         print("Error: client_id or client_secret is not set in .env file.")
