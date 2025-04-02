@@ -113,7 +113,7 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     """
 
     articles = []
-    
+    
     # KST 시간대 설정
     kst_timezone = pytz.timezone('Asia/Seoul')
     now_kst = now.astimezone(kst_timezone)  # now를 KST로 변환
