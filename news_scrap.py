@@ -104,7 +104,7 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
 
     Args:
         keywords (list): 검색할 키워드 목록
-        now (datetime): 코드 실행 시간
+        now (datetime): 코드 실행 시간 (KST)
         client_id (str): 네이버 API client_id
         client_secret (str): 네이버 API client_secret
 
@@ -115,17 +115,24 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     articles = []
     
     hour = now.hour
+    
+    # KST 시간대 설정
+    kst_timezone = pytz.timezone('Asia/Seoul')
 
     if 7 <= hour < 13:  # 오전 7시 ~ 오후 1시
-        end_date = now.replace(hour=7, minute=0, second=0, microsecond=0)
-        start_date = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
+        end_date_kst = now.replace(hour=7, minute=0, second=0, microsecond=0)
+        start_date_kst = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
     elif 13 <= hour < 17:  # 오후 1시 ~ 오후 5시
-        end_date = now.replace(hour=13, minute=0, second=0, microsecond=0)
-        start_date = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
+        end_date_kst = now.replace(hour=13, minute=0, second=0, microsecond=0)
+        start_date_kst = (now - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
     else:  # 오후 5시 이후
-        end_date = now.replace(hour=17, minute=0, second=0, microsecond=0)
-        start_date = now.replace(hour=17, minute=0, second=0, microsecond=0) - timedelta(days=1)
+        end_date_kst = now.replace(hour=17, minute=0, second=0, microsecond=0)
+        start_date_kst = now.replace(hour=17, minute=0, second=0, microsecond=0) - timedelta(days=1)
 
+    # KST 시간을 UTC 시간으로 변환
+    end_date_utc = end_date_kst.astimezone(pytz.utc)
+    start_date_utc = start_date_kst.astimezone(pytz.utc)
+    
     for keyword in keywords:
         start = 1
         while start <= 1000:  # Naver API 최대 결과 수
@@ -151,7 +158,8 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
 
                 for item in result['items']:
                     pub_date = datetime.strptime(item['pubDate'], '%a, %d %b %Y %H:%M:%S +0900')
-                    if start_date <= pub_date <= end_date:
+                    # UTC 기준으로 비교
+                    if start_date_utc <= pub_date <= end_date_utc:
                         content = extract_full_content(item['link'])
                         articles.append({
                             'title': item['title'].replace('<b>', '').replace('</b>', '').replace('&quot;', '').replace('&lt;', '<').replace('&gt;', '>'),
@@ -159,7 +167,7 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
                             'link': item['link'],
                             'content': content
                         })
-                    elif pub_date < start_date:
+                    elif pub_date < start_date_utc:
                         break
 
                 start += 100
@@ -339,13 +347,17 @@ if __name__ == "__main__":
     if not client_id or not client_secret:
         print("Error: client_id or client_secret is not set in .env file or environment variables.")
     else:
-        now = datetime.now()
-        articles = crawl_naver_news_api(expanded_keywords, now, client_id=client_id,
+        # KST 시간대 설정
+        kst_timezone = pytz.timezone('Asia/Seoul')
+        utc_now = datetime.utcnow()  # UTC 현재 시간 가져오기
+        kst_now = utc_now.replace(tzinfo=pytz.utc).astimezone(kst_timezone)  # UTC 시간을 KST로 변환
+
+        articles = crawl_naver_news_api(expanded_keywords, kst_now, client_id=client_id,
                                            client_secret=client_secret)
-        print(f"총 {len(articles)}개의 기사를 수집했습니다. (실행 시간: {now.strftime('%H:%M')})")
+        print(f"총 {len(articles)}개의 기사를 수집했습니다. (실행 시간: {kst_now.strftime('%H:%M')})")
 
         filtered_articles = filter_articles(articles, threshold=25)
-        save_articles_to_json(filtered_articles, filename=f'articles_filtered_{now.strftime("%H%M")}.json')
+        save_articles_to_json(filtered_articles, filename=f'articles_filtered_{kst_now.strftime("%H%M")}.json')
 
         print(f"총 {len(articles)}개의 기사 중 {len(filtered_articles)}개가 선별되었습니다.")
 
