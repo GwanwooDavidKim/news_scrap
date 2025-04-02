@@ -2,7 +2,7 @@ name: Python Script Scheduler
 
 on:
   schedule:
-    - cron: '22 0 * * *'    # 매일 0시 (UTC) -> 한국 시간 09시
+    - cron: '0 0 * * *'    # 매일 0시 (UTC) -> 한국 시간 09시
     - cron: '4 4 * * *'    # 매일 4시 4분 (UTC) -> 한국 시간 13시 4분
     - cron: '8 8 * * *'    # 매일 8시 8분 (UTC) -> 한국 시간 17시 8분
   workflow_dispatch:
@@ -20,6 +20,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Download NLTK data
+        run: |
+          python -m nltk.downloader punkt
       - name: Set environment variables
         run: |
           echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> $GITHUB_ENV
