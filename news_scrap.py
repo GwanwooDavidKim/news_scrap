@@ -270,7 +270,7 @@ def calculate_relevance_score(title, content):
     content_score -= sum(5 for word in content_words if word in blacklist)
 
     # 문장 단위 분석
-    sentences = sent_tokenize(content)
+    sentences = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s', content)
     sentence_score = sum(3 for sentence in sentences if any(word in sentence for word in core_keywords))
 
     # 총점 계산
