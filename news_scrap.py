@@ -119,8 +119,8 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     now_kst = now.astimezone(kst_timezone)  # now를 KST로 변환
     hour = now_kst.hour  # KST 시간 정보 추출
 
-    if 7 <= hour < 13:  # 오전 7시 ~ 오후 1시 (KST)
-        end_date_kst = now_kst.replace(hour=7, minute=0, second=0, microsecond=0)
+    if 6 <= hour < 13:  # 오전 7시 ~ 오후 1시 (KST)
+        end_date_kst = now_kst.replace(hour=6, minute=0, second=0, microsecond=0)
         start_date_kst = (now_kst - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
     elif 13 <= hour < 17:  # 오후 1시 ~ 오후 5시 (KST)
         end_date_kst = now_kst.replace(hour=13, minute=0, second=0, microsecond=0)
