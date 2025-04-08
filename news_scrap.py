@@ -331,6 +331,12 @@ def save_articles_to_json(articles, filename='articles.json'):
         json.dump(articles, f, ensure_ascii=False, indent=4, default=datetime_to_string)
     print(f"{filename}에 저장되었습니다.")
 
+    # 'title', 'date', 'link'만 추출하여 저장
+    filtered_articles = [{'title': article['title'], 'date': article['date'], 'link': article['link']} for article in articles]
+    with open('articles_filtered_link.json', 'w', encoding='utf-8') as f:
+        json.dump(filtered_articles, f, ensure_ascii=False, indent=4, default=datetime_to_string)
+    print("articles_filtered_link.json에 저장되었습니다.")
+
 
 # 메인 실행 블록
 if __name__ == "__main__":
@@ -351,7 +357,7 @@ if __name__ == "__main__":
         print(f"총 {len(articles)}개의 기사를 수집했습니다. (실행 시간: {kst_now.strftime('%H:%M')})")
 
         filtered_articles = filter_articles(articles, threshold=25)
-        save_articles_to_json(filtered_articles, filename=f'articles_filtered_{kst_now.strftime("%H%M")}.json')
+        save_articles_to_json(filtered_articles, filename='articles_filtered.json')  # 파일 이름 고정
 
         print(f"총 {len(articles)}개의 기사 중 {len(filtered_articles)}개가 선별되었습니다.")
 
