@@ -119,19 +119,13 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     now_kst = now.astimezone(kst_timezone)  # now를 KST로 변환
     hour = now_kst.hour  # KST 시간 정보 추출
 
-    if 6 <= hour < 13:  # 오전 6시 ~ 오후 1시 (KST)
-        end_date_kst = now_kst.replace(hour=6, minute=0, second=0, microsecond=0)
-        start_date_kst = (now_kst - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
-    elif 13 <= hour < 17:  # 오후 1시 ~ 오후 5시 (KST)
-        end_date_kst = now_kst.replace(hour=13, minute=0, second=0, microsecond=0)
-        start_date_kst = (now_kst - timedelta(days=1)).replace(hour=17, minute=0, second=0, microsecond=0)
-    else:  # 오후 5시 이후 (KST)
-        end_date_kst = now_kst.replace(hour=17, minute=0, second=0, microsecond=0)
-        start_date_kst = now_kst.replace(hour=17, minute=0, second=0, microsecond=0) - timedelta(days=1)
+    # 변경된 시간 범위 설정: 전일 오전 7시부터 금일 현재 시간까지
+    start_date_kst = (now_kst - timedelta(days=1)).replace(hour=7, minute=0, second=0, microsecond=0)
+    end_date_kst = now_kst.replace(minute=0, second=0, microsecond=0)
 
     # KST 시간을 datetime 객체로 변환
-    end_date = datetime(end_date_kst.year, end_date_kst.month, end_date_kst.day, end_date_kst.hour, end_date_kst.minute, end_date_kst.second)
     start_date = datetime(start_date_kst.year, start_date_kst.month, start_date_kst.day, start_date_kst.hour, start_date_kst.minute, start_date_kst.second)
+    end_date = datetime(end_date_kst.year, end_date_kst.month, end_date_kst.day, end_date_kst.hour, end_date_kst.minute, end_date_kst.second)
 
     for keyword in keywords:
         start = 1
