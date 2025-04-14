@@ -176,21 +176,25 @@ def crawl_naver_news_api(keywords, now, client_id="", client_secret=""):
     return remove_duplicates(articles)
 
 
+import requests
+import time
+
 def extract_full_content(url):
     """
     주어진 URL에서 뉴스 기사의 본문 내용을 추출합니다.
+    10초 이내에 응답이 없으면 None을 반환합니다.
 
     Args:
         url (str): 뉴스 기사 URL
 
     Returns:
-        str: 추출된 기사 본문 내용
+        str: 추출된 기사 본문 내용 (추출 실패 시 None)
     """
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        response = requests.get(url, headers=headers, verify=False)
+        response = requests.get(url, headers=headers, verify=False, timeout=10)  # 10초 타임아웃
         response.raise_for_status()  # HTTP 에러 발생 시 예외 발생
         html = response.text
         json_data = trafilatura.extract(html, output_format='json', include_comments=False,
@@ -211,6 +215,7 @@ def extract_full_content(url):
     except Exception as e:
         print(f"An unexpected error occurred while extracting content from {url}: {str(e)}")
         return None
+
 
 
 def remove_duplicates(articles):
