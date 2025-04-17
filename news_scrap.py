@@ -20,13 +20,13 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 
 # 키워드 확장
 expanded_keywords = [
-    'OLED', 'LCD', '디스플레이', '폴더블', '애플'
+    'OLED', 'LCD', '디스플레이', '폴더블', '애플', 'HMD'
 ]
 
 # Core keywords: 가장 중요하고 자주 등장하는 핵심 용어들
 core_keywords = {
     'OLED', 'LCD', 'AMOLED', 'MicroLED', 'QLED', 'QD-OLED',
-    'LTPO', 'LTPS', 'TFT', 'MLED',
+    'LTPO', 'LTPS', 'TFT', 'MLED', 'HMD',
     'Mini-LED', 'Micro-LED', 'WOLED', 'POLED',
     '폴더블', '롤러블', '스트레처블', '투명디스플레이', '폴더블폰',
     '퀀텀닷', '나노셀', '유기발광', '발광다이오드', '마이크로', '유기발광다이오드',
