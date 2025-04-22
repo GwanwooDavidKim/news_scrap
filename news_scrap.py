@@ -20,7 +20,7 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 
 # 키워드 확장
 expanded_keywords = [
-    'OLED', 'LCD', '디스플레이', '폴더블', '애플', 'HMD, '8K', Mini LED'
+    'OLED', 'LCD', '디스플레이', '폴더블', '애플', 'HMD', '8K', Mini LED'
 ]
 
 # Core keywords: 가장 중요하고 자주 등장하는 핵심 용어들
