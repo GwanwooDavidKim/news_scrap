@@ -1,5 +1,340 @@
 [
     {
+        "title": "코레일, 전국 역 창구서 '애플페이' 결제 된다",
+        "date": "2025-04-28 23:02",
+        "link": "https://www.wikitree.co.kr/articles/1046030"
+    },
+    {
+        "title": "엔터 기능 넘은 TV…삼성·LG, 'AI TV'로 프리미엄 시장 선도",
+        "date": "2025-04-28 20:30",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=87023"
+    },
+    {
+        "title": "애플, 인도서 아이폰 전량 생산 어려워...20주년 기념 모델 생산은 절대...",
+        "date": "2025-04-28 19:13",
+        "link": "https://www.newspim.com/news/view/20250428001185"
+    },
+    {
+        "title": "코레일, 전국 철도역서 애플페이 모바일 결제 서비스 시행",
+        "date": "2025-04-28 19:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=649133"
+    },
+    {
+        "title": "[단독] 애플ID 해킹으로 26만원 무단결제… 사이버 침해 공포 확산",
+        "date": "2025-04-28 18:58",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=244987"
+    },
+    {
+        "title": "삼성전자 삼성OLED, 대낮 햇빛 아래서도 선명한 화질… TV 한계 넘어 [Fn...",
+        "date": "2025-04-28 18:42",
+        "link": "https://n.news.naver.com/mnews/article/014/0005342536?sid=101"
+    },
+    {
+        "title": "코레일, 애플페이 승차권 결제 서비스 나서",
+        "date": "2025-04-28 18:03",
+        "link": "https://www.newspim.com/news/view/20250428001165"
+    },
+    {
+        "title": "갤 S25 인기에…삼성전자, 서유럽 프리미엄 판매비중 23%로 증가",
+        "date": "2025-04-28 18:02",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=793945"
+    },
+    {
+        "title": "코레일 전국 역 창구에 애플페이 모바일 결제 도입, 젊은 고객층 호응...",
+        "date": "2025-04-28 17:40",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393147"
+    },
+    {
+        "title": "코레일, 전국 철도역서 애플페이 결제 도입…연말까지 자동발매기도 지...",
+        "date": "2025-04-28 17:36",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=115227"
+    },
+    {
+        "title": "코레일, 승차권 애플페이 간편결제 시행",
+        "date": "2025-04-28 17:30",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2270526"
+    },
+    {
+        "title": "갤럭시 AI 전략 먹히나…삼성, 서유럽서 프리미엄 판매 비중 23%로 증가",
+        "date": "2025-04-28 17:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013211212?sid=105"
+    },
+    {
+        "title": "코레일, 전국 역창구 아이폰 간편결제 시행",
+        "date": "2025-04-28 17:04",
+        "link": "http://amenews.kr/news/view.php?idx=61867"
+    },
+    {
+        "title": "코레일, 전국 철도역서 아이폰 간편결제 서비스 시행",
+        "date": "2025-04-28 16:54",
+        "link": "https://idsn.co.kr/news/view/1065595876187426"
+    },
+    {
+        "title": "신보-기은, 비대면·디지털금융지원 협약…코레일, 열차표 애플페이 결...",
+        "date": "2025-04-28 16:48",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=170575"
+    },
+    {
+        "title": "전국 철도역 창구서 아이폰 간편결제 가능…자동발매기는 연말에",
+        "date": "2025-04-28 16:43",
+        "link": "https://n.news.naver.com/mnews/article/374/0000437657?sid=101"
+    },
+    {
+        "title": "아이폰으로 KTX 탄다…코레일, 전국 역에 '애플페이' 도입",
+        "date": "2025-04-28 16:42",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2044858"
+    },
+    {
+        "title": "코레일, 전국 역 창구서 애플페이 결제 서비스 개시",
+        "date": "2025-04-28 16:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=340080"
+    },
+    {
+        "title": "삼성전자 TV 사업부, 다음달 中 BOE 만난다 왜?",
+        "date": "2025-04-28 16:30",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35434"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·DB하이텍·대한전선·LS마린솔루션",
+        "date": "2025-04-28 16:30",
+        "link": "https://www.asiatime.co.kr/article/20250428500406"
+    },
+    {
+        "title": "코레일, 전국 역 창구서 애플페이 도입…NFC 가능 단말기로 교체",
+        "date": "2025-04-28 16:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013211096?sid=102"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입",
+        "date": "2025-04-28 16:25",
+        "link": "https://www.newspim.com/news/view/20250428001018"
+    },
+    {
+        "title": "이제, 애플페이(Apple Pay)로 승차권 결제하세요",
+        "date": "2025-04-28 16:17",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=230695"
+    },
+    {
+        "title": "코레일, 전국 철도 역창구서 '애플페이' 결제 서비스 시행",
+        "date": "2025-04-28 16:10",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=109417"
+    },
+    {
+        "title": "코레일 “앞으로 전국 역창구서 애플페이로 승차권 구매 가능”",
+        "date": "2025-04-28 16:09",
+        "link": "https://n.news.naver.com/mnews/article/005/0001772899?sid=102"
+    },
+    {
+        "title": "기차표 '애플페이로 결제'",
+        "date": "2025-04-28 16:06",
+        "link": "https://www.kukinews.com/article/view/kuk202504280183"
+    },
+    {
+        "title": "삼성전자, '터치 인터랙션 기능' 프리미엄 가정용 프로젝터 출시",
+        "date": "2025-04-28 15:50",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=441194"
+    },
+    {
+        "title": "LCD도 프리미엄…LG 'QNED', 삼성 'QLED'로 입지 강화",
+        "date": "2025-04-28 15:46",
+        "link": "https://www.asiatime.co.kr/article/20250428500362"
+    },
+    {
+        "title": "美 빅테크 잇달아 실적 발표…'AI 투자' 계속되나 최대 관심",
+        "date": "2025-04-28 15:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0008219465?sid=101"
+    },
+    {
+        "title": "코레일, 전국 철도 역창구서 아이폰 간편결제 시행",
+        "date": "2025-04-28 15:40",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594474937771"
+    },
+    {
+        "title": "이제부터 애플페이로 기차표 결제 가능…전국 역 창구서 시행",
+        "date": "2025-04-28 15:34",
+        "link": "https://n.news.naver.com/mnews/article/422/0000735429?sid=102"
+    },
+    {
+        "title": "Z플립 FE 아냐... 삼성 새 저가형 폴더블폰 이름은 이것",
+        "date": "2025-04-28 15:32",
+        "link": "https://www.betanews.net/article/view/beta202504280061"
+    },
+    {
+        "title": "기차표, 이젠 애플페이로 결제 가능해요",
+        "date": "2025-04-28 15:30",
+        "link": "http://www.dtnews24.com/news/articleView.html?idxno=789951"
+    },
+    {
+        "title": "[리뷰] 프로게이머의 선택에는 다 이유가 있는 법! 압도적 속도에 우유...",
+        "date": "2025-04-28 15:30",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799588"
+    },
+    {
+        "title": "경쟁 치열한 스마트폰 시장…삼성 ‘출시 가속·라인업 확대’ 승부수",
+        "date": "2025-04-28 15:22",
+        "link": "https://www.ekn.kr/web/view.php?key=20250428021341834"
+    },
+    {
+        "title": "삼성 갤럭시 S25, 서유럽 시장서 'AI 특화' 전략 통했다",
+        "date": "2025-04-28 15:22",
+        "link": "https://www.socialvalue.kr/news/view/1065593771569473"
+    },
+    {
+        "title": "코레일, 전국 역 '애플페이' 결제 서비스 시행 ...  젊은층·외국인 승차...",
+        "date": "2025-04-28 15:20",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=433082"
+    },
+    {
+        "title": "애플, 미중 무역 갈등 속 실적 발표 준비",
+        "date": "2025-04-28 15:16",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=797840"
+    },
+    {
+        "title": "코레일, 전국 철도 역 창구서 아이폰 간편결제 시행",
+        "date": "2025-04-28 15:16",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4027882"
+    },
+    {
+        "title": "애플페이(Apple Pay)로 열차 승차권 결제하세요",
+        "date": "2025-04-28 15:14",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=843574"
+    },
+    {
+        "title": "코레일, 전국 역 창구에 '애플페이 결제' 도입",
+        "date": "2025-04-28 15:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1660910"
+    },
+    {
+        "title": "삼성, 갤럭시 엣지·플립·폴드 출격 초읽기...점유율 1위 탈환 나선다",
+        "date": "2025-04-28 14:56",
+        "link": "https://www.mediapen.com/news/view/1011053"
+    },
+    {
+        "title": "삼성·LG전자, 프리미엄 LCD TV 시장서 ‘각축전’",
+        "date": "2025-04-28 14:56",
+        "link": "https://www.ekn.kr/web/view.php?key=20250428026361794"
+    },
+    {
+        "title": "애플페이로 기차표 산다 … 전국 철도역서 아이폰 간편결제 도입",
+        "date": "2025-04-28 14:56",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/28/2025042800281.html"
+    },
+    {
+        "title": "아이폰으로 KTX 탄다...코레일, 전국 역창구에 애플페이 도입",
+        "date": "2025-04-28 14:47",
+        "link": "https://n.news.naver.com/mnews/article/014/0005342293?sid=101"
+    },
+    {
+        "title": "어항케이스와 우드패널의 완벽한 조합, 마이크로닉스 WIZMAX 우드리안 MA...",
+        "date": "2025-04-28 14:44",
+        "link": "https://kbench.com/?q=node/266973"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입… 살콤에 정밀코팅 ...",
+        "date": "2025-04-28 14:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005186939?sid=101"
+    },
+    {
+        "title": "신작 모바일 배틀 게임 ‘펫펫고’, 출시 이틀만에 애플 앱스토어 인기...",
+        "date": "2025-04-28 14:38",
+        "link": "https://n.news.naver.com/mnews/article/666/0000071211?sid=101"
+    },
+    {
+        "title": "이제부터 KTX 결제, 애플페이도 가능",
+        "date": "2025-04-28 14:37",
+        "link": "https://n.news.naver.com/mnews/article/011/0004479270?sid=101"
+    },
+    {
+        "title": "코레일, 아이폰 '애플페이' 간편결제 시행",
+        "date": "2025-04-28 14:36",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1233526"
+    },
+    {
+        "title": "애플페이로 승차권 결제하세요 전국 철도역서 아이폰 간편결제",
+        "date": "2025-04-28 14:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0015356729?sid=101"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입",
+        "date": "2025-04-28 14:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013210620?sid=101"
+    },
+    {
+        "title": "애플페이로 기차표 산다…코레일, 전국 역 창구 간편결제 도입",
+        "date": "2025-04-28 14:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008219184?sid=101"
+    },
+    {
+        "title": "코레일, 전국 역 창구서 애플페이 결제 서비스 개시",
+        "date": "2025-04-28 14:30",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2339858"
+    },
+    {
+        "title": "코레일, 기차표 역 창구 결제시 애플페이 도입…자동발매기는 연말",
+        "date": "2025-04-28 14:27",
+        "link": "https://n.news.naver.com/mnews/article/082/0001323296?sid=101"
+    },
+    {
+        "title": "코레일, 전국 철도역 창구서 아이폰 간편결제 가능",
+        "date": "2025-04-28 14:20",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=826220"
+    },
+    {
+        "title": "코레일, 애플페이 결제 시작…아이폰·애플워치로 승차권 구매 가능",
+        "date": "2025-04-28 14:19",
+        "link": "https://n.news.naver.com/mnews/article/088/0000944577?sid=101"
+    },
+    {
+        "title": "코레일, 전국 철도 역창구서 아이폰 간편결제 시행…자동발매기는 연말",
+        "date": "2025-04-28 14:18",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=106667"
+    },
+    {
+        "title": "아이씨에이치, 애플 공급망 합류했다…인도 파트너사 살콤에 정밀코팅...",
+        "date": "2025-04-28 14:16",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=686042"
+    },
+    {
+        "title": "철도역 창구서 애플페이 쓴다…자동발매기는 순차 제공",
+        "date": "2025-04-28 14:16",
+        "link": "https://www.etoday.co.kr/news/view/2466105"
+    },
+    {
+        "title": "코레일, “‘애플페이’로 승차권 결제하세요”",
+        "date": "2025-04-28 14:16",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202504281410404312be44c0aacd_30"
+    },
+    {
+        "title": "코레일, 아이폰과 애플워치로 결제 가능한 애플페이 서비스 시작",
+        "date": "2025-04-28 14:14",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=140792"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입…살콤에 정밀코팅 필...",
+        "date": "2025-04-28 14:10",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=230677"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입...살콤에 정밀코팅 ...",
+        "date": "2025-04-28 14:04",
+        "link": "https://n.news.naver.com/mnews/article/014/0005342249?sid=101"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입",
+        "date": "2025-04-28 14:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=340015"
+    },
+    {
+        "title": "아이씨에이치, 애플 공급망 최초 진입 성공… 살콤에 정밀코팅 필름 공...",
+        "date": "2025-04-28 14:04",
+        "link": "http://www.globalepic.co.kr/view.php?ud=202504281400571403abe7dc9896_29"
+    },
+    {
+        "title": "아이씨에이치, 인도 생산기지 애플 공급망 첫 진입…살콤에 정밀코팅 ...",
+        "date": "2025-04-28 14:01",
+        "link": "https://n.news.naver.com/mnews/article/277/0005584794?sid=101"
+    },
+    {
         "title": "애플 스마트 글라스, 현실로 다가오나…2027년 출시 전망",
         "date": "2025-04-28 13:44",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=563739"
@@ -85,7 +420,7 @@
         "link": "https://www.vegannews.co.kr/news/article.html?no=106561"
     },
     {
-        "title": "'AI 늦깍이' 애플, D램 대폭 늘린다 … 포문은 삼성전자",
+        "title": "'AI 늦깍이' 애플, 아이폰 D램 대폭 늘린다 … 포문은 삼성전자",
         "date": "2025-04-28 10:44",
         "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/28/2025042800126.html"
     },
@@ -188,190 +523,5 @@
         "title": "삼성 갤럭시, 인도 시장서 중국에 밀렸다…1분기 점유율 2위로 하락",
         "date": "2025-04-28 07:00",
         "link": "https://www.ceoscoredaily.com/page/view/2025042517323120916"
-    },
-    {
-        "title": "'미국발 관세 충격'‥기술 경쟁력으로 돌파",
-        "date": "2025-04-28 06:47",
-        "link": "https://n.news.naver.com/mnews/article/214/0001420881?sid=102"
-    },
-    {
-        "title": "[주간경제일정] 애플, 아마존, MS 등 분기 실적 발표 공개 주목",
-        "date": "2025-04-28 06:45",
-        "link": "https://n.news.naver.com/mnews/article/374/0000437474?sid=101"
-    },
-    {
-        "title": "'국산 강자' 없는 10인치 미만 태블릿 시장, 외산이 점령",
-        "date": "2025-04-28 06:00",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025042713010054183b60030fa2_1/article.html"
-    },
-    {
-        "title": "IT 고객사 확대 나서는 삼성D, 상반기에만 3번째 해외행사 출격",
-        "date": "2025-04-28 05:45",
-        "link": "https://n.news.naver.com/mnews/article/029/0002950964?sid=101"
-    },
-    {
-        "title": "빅테크주 상승세 이어갈까...5월 1일 마이크로소프트 메타, 2일 애플 아...",
-        "date": "2025-04-28 01:00",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=2025042800473015582aaae0046f_30"
-    },
-    {
-        "title": "미국용 아이폰 ’100% 인도 생산' 계획은 비현실적",
-        "date": "2025-04-28 00:51",
-        "link": "https://n.news.naver.com/mnews/article/023/0003901952?sid=105"
-    },
-    {
-        "title": "기업들 탈중국 바람… ‘세계의 공장’ 타이틀 인도로 옮겨간다",
-        "date": "2025-04-28 00:22",
-        "link": "https://n.news.naver.com/mnews/article/005/0001772703?sid=101"
-    },
-    {
-        "title": "아이폰 17, 전 모델 RAM 대폭 확장…최대 12GB 탑재 예고",
-        "date": "2025-04-27 21:58",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530518"
-    },
-    {
-        "title": "애플 아이폰 조립공장, 중국서 인도로 이전?…비현실적",
-        "date": "2025-04-27 21:53",
-        "link": "https://n.news.naver.com/mnews/article/031/0000927869?sid=105"
-    },
-    {
-        "title": "'관세 충격' 기술 경쟁력으로 돌파/데스크",
-        "date": "2025-04-27 20:46",
-        "link": "https://tjmbc.co.kr/article/n1y6SX1RVigwwrTJQ1K"
-    },
-    {
-        "title": "하만(HARMAN)이 만들어가는 미래자동차 전장 기술력",
-        "date": "2025-04-27 18:22",
-        "link": "https://cwn.kr/article/1065604531705478"
-    },
-    {
-        "title": "애플, 무역전쟁에 脫중국 속도…인도서 美 판매용 아이폰 생산",
-        "date": "2025-04-27 18:13",
-        "link": "https://n.news.naver.com/mnews/article/015/0005124594?sid=104"
-    },
-    {
-        "title": "美판매 아이폰 인도서 생산 추진",
-        "date": "2025-04-27 17:56",
-        "link": "https://n.news.naver.com/mnews/article/009/0005483356?sid=101"
-    },
-    {
-        "title": "롯데하이마트, 모바일 특화매장 고덕점 '모토피아' 오픈",
-        "date": "2025-04-27 16:56",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=638783"
-    },
-    {
-        "title": "'체질 개선' 빛 본 정철동號 LGD…OLED 고도화로 연간 흑자 '정조준'",
-        "date": "2025-04-27 16:03",
-        "link": "https://n.news.naver.com/mnews/article/293/0000066621?sid=101"
-    },
-    {
-        "title": "[人사이트] 김보은 라온텍 대표 “'레도스'로 AR 글라스 개척 ”",
-        "date": "2025-04-27 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003307401?sid=105"
-    },
-    {
-        "title": "애플 中공장, 인도로 옮긴다고 해결 안돼…판매 타격 더 클 수도",
-        "date": "2025-04-27 14:37",
-        "link": "https://n.news.naver.com/mnews/article/421/0008216971?sid=104"
-    },
-    {
-        "title": "애플, 아이폰 조립공장 중국→인도 추진설···美 비현실적 계획",
-        "date": "2025-04-27 14:12",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=411328"
-    },
-    {
-        "title": "삼성전자, 2025 상반기 GSAT 실시",
-        "date": "2025-04-27 13:30",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=440982"
-    },
-    {
-        "title": "최고의 OLED TV⋯삼성전자 OLED TV, 美·英 매체 호평",
-        "date": "2025-04-27 12:46",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1287062"
-    },
-    {
-        "title": "삼성 OLED TV, 英·美 글로벌 테크 미디어서 연이어 '호평'",
-        "date": "2025-04-27 12:44",
-        "link": "http://www.metroseoul.co.kr/article/20250427500137"
-    },
-    {
-        "title": "“진짜 퀀텀닷은 삼성”…동남아·중남미에 QLED TV 차별성 알린다",
-        "date": "2025-04-27 12:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003307358?sid=105"
-    },
-    {
-        "title": "롯데하이마트, 모바일 경험 특화 매장 ‘고덕점’ 오픈",
-        "date": "2025-04-27 12:17",
-        "link": "https://n.news.naver.com/mnews/article/119/0002949951?sid=101"
-    },
-    {
-        "title": "[조현미의 잇템] 언제나 촉촉하게 착붙 토코보 '애플듀이핏쿠션'",
-        "date": "2025-04-27 12:02",
-        "link": "https://www.ajunews.com/view/20250426191546961"
-    },
-    {
-        "title": "아이폰 조립 공장 중국서 인도로 옮긴다?…이전 계획 비현실적",
-        "date": "2025-04-27 11:23",
-        "link": "https://n.news.naver.com/mnews/article/015/0005124476?sid=105"
-    },
-    {
-        "title": "'애플' 목표주가 33% 하향…中 조립공정 인도 이전 비현실적 전망",
-        "date": "2025-04-27 11:10",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15649881"
-    },
-    {
-        "title": "중국내 아이폰 조립 공정 인도 이전 계획 비현실적",
-        "date": "2025-04-27 10:14",
-        "link": "https://n.news.naver.com/mnews/article/001/0015354022?sid=104"
-    },
-    {
-        "title": "메이드인 인도 애플 아이폰 따라 구글 픽셀도 짐 싼다…美 관세 나비...",
-        "date": "2025-04-27 10:11",
-        "link": "https://n.news.naver.com/mnews/article/138/0002195387?sid=105"
-    },
-    {
-        "title": "닥터블릿, 식물성 다이어트 신소재 애플페논 함유 '푸응 애프터버닝' 출...",
-        "date": "2025-04-27 10:00",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=86361"
-    },
-    {
-        "title": "닥터블릿, 식물성 애플페논 함유 '푸응 애프터버닝' 출시",
-        "date": "2025-04-27 09:58",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=37315"
-    },
-    {
-        "title": "부품 '실종' 수리비 '폭탄'···수리할 '선택권' 닫힌 한국 가전",
-        "date": "2025-04-27 09:00",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2269839"
-    },
-    {
-        "title": "모바일 경험형 특화 매장 '롯데하이마트 고덕점' 오픈",
-        "date": "2025-04-27 08:22",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=260315"
-    },
-    {
-        "title": "애플, 美 판매 아이폰 전량 인도 생산 추진…中 당국, 제동 가능성도",
-        "date": "2025-04-27 08:10",
-        "link": "https://n.news.naver.com/mnews/article/030/0003307296?sid=105"
-    },
-    {
-        "title": "[칼럼] 현대건설-LG디스플레이, 턴 어라운드에 박수갈채 '중요한 건 꺾이...",
-        "date": "2025-04-27 08:02",
-        "link": "https://www.socialvalue.kr/news/view/1065563435114058"
-    },
-    {
-        "title": "[대만칩통신]아이폰 생산 비용도 줄였다…TSMC 최첨단 공정 연간 2조원...",
-        "date": "2025-04-27 08:01",
-        "link": "https://n.news.naver.com/mnews/article/277/0005584160?sid=101"
-    },
-    {
-        "title": "5.8mm 초슬림 갤S25 엣지, 2Q 흥행수표 될까",
-        "date": "2025-04-27 08:00",
-        "link": "https://n.news.naver.com/mnews/article/138/0002195375?sid=105"
-    },
-    {
-        "title": "[공모주달력]미스트 하나로 IPO 도전하는 '달바글로벌'",
-        "date": "2025-04-27 08:00",
-        "link": "https://n.news.naver.com/mnews/article/648/0000035664?sid=101"
     }
 ]
