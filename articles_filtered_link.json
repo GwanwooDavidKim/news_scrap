@@ -1,5 +1,730 @@
 [
     {
+        "title": "삼성전자, 1분기 '선방'…2분기, 성장성·수익성 확보 '총력'(종합)",
+        "date": "2025-04-30 12:58",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139038"
+    },
+    {
+        "title": "삼성전자, 사상 최대 분기 매출 79조1400억원..갤럭시 효과 톡톡",
+        "date": "2025-04-30 12:54",
+        "link": "http://www.breaknews.com/1113509"
+    },
+    {
+        "title": "삼성전자, 갤럭시 효과 1Q 영업익 6.7조…HBM·파운드리 희망(종합2보)",
+        "date": "2025-04-30 12:46",
+        "link": "https://n.news.naver.com/mnews/article/421/0008223758?sid=101"
+    },
+    {
+        "title": "'분기 최대 매출' 삼성전자, 2Q 최대 고비…캐시카우 모바일도 비수기",
+        "date": "2025-04-30 12:45",
+        "link": "https://n.news.naver.com/mnews/article/421/0008223756?sid=101"
+    },
+    {
+        "title": "갤럭시 S25 덕 봤다…삼성전자, 1분기 사상 최대 매출(종합)",
+        "date": "2025-04-30 12:36",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025043012194643997"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79.1조원, 영업이익 6.7조원…분기 사상 최대 매출",
+        "date": "2025-04-30 12:28",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000071349"
+    },
+    {
+        "title": "[종합] 삼성전자, 1분기 최대 매출 79조…갤럭시S25 잘 팔려 선방",
+        "date": "2025-04-30 12:24",
+        "link": "https://www.etoday.co.kr/news/view/2466927"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 신규 소재 'ETL·HBL' 양산 앞두고 프리미엄 IT 기...",
+        "date": "2025-04-30 12:22",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15652907"
+    },
+    {
+        "title": "삼성전자 HBM3E 샘플 공급 완료로봇·AI 등 신사업 추진도 속도 낸다",
+        "date": "2025-04-30 12:14",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=325073"
+    },
+    {
+        "title": "삼성전자 HBM4·폴더블 등 고부가 제품 확대로 경쟁력 강화(컨콜 종합...",
+        "date": "2025-04-30 12:10",
+        "link": "https://www.ajunews.com/view/20250430120343270"
+    },
+    {
+        "title": "갤S25 효과 톡톡… 삼성전자, 1분기 매출 79.1조원 '사상 최대'(종합)",
+        "date": "2025-04-30 12:08",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3264011"
+    },
+    {
+        "title": "땡큐 갤럭시S25…한숨 돌린 삼성전자, 다음 주자는 초슬림 '엣지'",
+        "date": "2025-04-30 12:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0002951347?sid=105"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조‧영업익 7조…사상 최대 분기 매출",
+        "date": "2025-04-30 11:58",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=89526"
+    },
+    {
+        "title": "갤럭시 S25 시리즈 선전…삼성전자, 사상 최대 분기 매출",
+        "date": "2025-04-30 11:56",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=184045"
+    },
+    {
+        "title": "탄탄대로 갤럭시S25 앞으로도 좋을까? [IT큐레이션]",
+        "date": "2025-04-30 11:54",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=694198"
+    },
+    {
+        "title": "[컨콜 종합] '고부가로 정면 돌파'…삼성전자, HBM3E·플래그십으로 하반...",
+        "date": "2025-04-30 11:50",
+        "link": "https://www.newspim.com/news/view/20250430000482"
+    },
+    {
+        "title": "삼성전자 1분기 실적 '스마트폰 호조, 반도체 저조'…매출 79조여원 사상...",
+        "date": "2025-04-30 11:38",
+        "link": "http://www.insidevina.com/news/articleView.html?idxno=30844"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 힘입어 1분기 매출 79조…역대 분기 최대 매출",
+        "date": "2025-04-30 11:36",
+        "link": "https://sateconomy.co.kr/news/view/1065579768861789"
+    },
+    {
+        "title": "삼성전자 MX 태블릿, 갤럭시 탭 S11 하반기 출시 추진[컨콜]",
+        "date": "2025-04-30 11:35",
+        "link": "https://n.news.naver.com/mnews/article/018/0006001939?sid=105"
+    },
+    {
+        "title": "[단독] 삼성전자, ‘엑시노스 2500’ 탑재 갤럭시Z 플립7 양산… 폴더블...",
+        "date": "2025-04-30 11:32",
+        "link": "https://n.news.naver.com/mnews/article/366/0001073553?sid=105"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 실적 분기 최대 매출 기록",
+        "date": "2025-04-30 11:24",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=89221"
+    },
+    {
+        "title": "삼성전자, 분기 '사상 최대 매출' 79.1조…모바일·가전이 견인",
+        "date": "2025-04-30 11:22",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=442781"
+    },
+    {
+        "title": "[컨콜] 삼성전자 폴더블 신규 폼팩터도 우위 점할 것",
+        "date": "2025-04-30 11:18",
+        "link": "https://www.ajunews.com/view/20250430111734234"
+    },
+    {
+        "title": "설빙, 애플망고·자몽·코코넛 담은 '자.망.코.설빙' 출시",
+        "date": "2025-04-30 11:18",
+        "link": "https://www.healthinnews.co.kr/view.php?ud=20250430104747487204ead0791_48"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6.7조…'갤럭시 인기'에 매출 사상 최대",
+        "date": "2025-04-30 11:18",
+        "link": "https://www.betanews.net/article/view/beta202504300039"
+    },
+    {
+        "title": "세무조사 받는 삼성전자, 올해 1분기 사상 최대 실적…영업이익 6.6조",
+        "date": "2025-04-30 11:16",
+        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=52973"
+    },
+    {
+        "title": "애플, 아이폰 17 시리즈에 새로운 '급 나누기' 전략... 일반형-고급형 모...",
+        "date": "2025-04-30 11:14",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799658"
+    },
+    {
+        "title": "삼성전자, 1분기 갤럭시 S25·서버 D램이 이끌었다… 실적 '깜짝 반등'",
+        "date": "2025-04-30 11:12",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=340609"
+    },
+    {
+        "title": "신형 '애플워치 SE 3' 더 커진 41mm·45mm 크기로 출시되나",
+        "date": "2025-04-30 11:10",
+        "link": "https://kbench.com/?q=node/267040"
+    },
+    {
+        "title": "삼성전자, '갤럭시 효과'에 1분기 호실적…매출 분기 기준 사상 최대(...",
+        "date": "2025-04-30 11:08",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=385969"
+    },
+    {
+        "title": "구독하면 혜택이 쏟아진다...삼성전자, 5월 한달간 'AI 구독 페스타'",
+        "date": "2025-04-30 11:08",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2084776"
+    },
+    {
+        "title": "[컨콜] 삼성전자 QLED 75인치 대형 TV 수요 지속 성장",
+        "date": "2025-04-30 11:06",
+        "link": "https://www.etoday.co.kr/news/view/2466902"
+    },
+    {
+        "title": "[컨콜] 삼성전자 고가 스마트폰 중심 판매 확대…폴더블 라인업 강화",
+        "date": "2025-04-30 11:06",
+        "link": "https://n.news.naver.com/mnews/article/119/0002951294?sid=105"
+    },
+    {
+        "title": "[컨콜] 삼성전자 QD-OLED 신제품 출시에 대형 디스플레이 수요 증가",
+        "date": "2025-04-30 11:05",
+        "link": "https://n.news.naver.com/mnews/article/119/0002951293?sid=101"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조1400억원…사상 최대 분기 매출 기록",
+        "date": "2025-04-30 11:04",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=635538"
+    },
+    {
+        "title": "삼성전자 1분기 매출 79조 돌파…갤럭시 S25 판매 호조",
+        "date": "2025-04-30 11:03",
+        "link": "https://n.news.naver.com/mnews/article/123/0002358155?sid=004"
+    },
+    {
+        "title": "삼성전자, 1Q 매출 79조원 달성 “역대 분기 최대 매출”",
+        "date": "2025-04-30 11:02",
+        "link": "http://www.fntimes.com/html/view.php?ud=2025043010555955737492587736_18"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 드디어 베일 벗었다... 상세 규격·디자인 담은 ...",
+        "date": "2025-04-30 11:02",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799654"
+    },
+    {
+        "title": "애플, 관세·공급망·AI 이슈 속 실적 발표 앞둬…투자자 관심 집중",
+        "date": "2025-04-30 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564160"
+    },
+    {
+        "title": "갤럭시S25, '실적 효자' 등극 … 삼성전자 MX, 반도체 부진 씻어냈다 [노...",
+        "date": "2025-04-30 11:00",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/30/2025043000162.html"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, 1분기 매출액 79.14조·영업익 6.7조···사상 최...",
+        "date": "2025-04-30 10:52",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=694180"
+    },
+    {
+        "title": "갤럭시 S25 흥행 효과 컸다…삼성폰, 1분기 영업익 22% 증가",
+        "date": "2025-04-30 10:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=266422"
+    },
+    {
+        "title": "'삼성전자' 1분기 매출 79조1천억…갤럭시 S25 효과로 사상 최대 실적",
+        "date": "2025-04-30 10:52",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15652806"
+    },
+    {
+        "title": "삼성전자, '갤럭시S25' 흥행에 1분기 매출 '역대급'",
+        "date": "2025-04-30 10:52",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7111032"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 실적 발표",
+        "date": "2025-04-30 10:48",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3602473"
+    },
+    {
+        "title": "삼성전자, 1분기 '갤럭시 S25' 판매 호조...반도체는 영업익 1.1조",
+        "date": "2025-04-30 10:44",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=237629"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 효과 ‘톡톡’… 1분기 ‘사상 최대’ 달성",
+        "date": "2025-04-30 10:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202504301021090650560"
+    },
+    {
+        "title": "애플, 트럼프 관세 압박에도 美 생산 이전 여전히 멀어",
+        "date": "2025-04-30 10:40",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025043010363586050c8c1c064d_1/article.html"
+    },
+    {
+        "title": "하이마트 상남점, 5월 2일 모토피아 동시 오픈",
+        "date": "2025-04-30 10:40",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1026227"
+    },
+    {
+        "title": "삼성전자 1분기 매출 79.14조…최대 분기 매출 기록",
+        "date": "2025-04-30 10:38",
+        "link": "https://byline.network/?p=9004111222563119"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25'가 다했다···1Q 매출 79조 사상 최대치",
+        "date": "2025-04-30 10:35",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2271390"
+    },
+    {
+        "title": "아이돌은 다 아이폰? BTS 진 ‘갤럭시 의리’는 진행 중…갤럭시S25, 1Q ...",
+        "date": "2025-04-30 10:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002465014?sid=101"
+    },
+    {
+        "title": "'갤럭시 효과' 삼성전자, AI·프리미엄 전략 앞세워 불확실성 파고 넘는...",
+        "date": "2025-04-30 10:30",
+        "link": "https://n.news.naver.com/mnews/article/293/0000066753?sid=101"
+    },
+    {
+        "title": "'갤럭시 S25 선전' 삼성전자, 1분기 매출 79.1조원…사상 최대",
+        "date": "2025-04-30 10:30",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=338287"
+    },
+    {
+        "title": "삼성전자 모바일 영업익만 4조3000억원…갤S25 호조에 실적견인",
+        "date": "2025-04-30 10:26",
+        "link": "https://n.news.naver.com/mnews/article/421/0008223096?sid=105"
+    },
+    {
+        "title": "화면 더 커진다…애플워치 SE3 디스플레이 생산 돌입",
+        "date": "2025-04-30 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564123"
+    },
+    {
+        "title": "삼성전자, 1분기 사상 최대 매출…갤럭시 S25 판매 호조 영향",
+        "date": "2025-04-30 10:20",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1234314"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79.14조 영업익 6.7조…사상 최대 분기 매출 달성",
+        "date": "2025-04-30 10:18",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=27959"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조원··· '갤럭시S25' 영향으로 사상 최대 실...",
+        "date": "2025-04-30 10:16",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=108530"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79.1조 '사상 최대 분기'…영업익 6.7조",
+        "date": "2025-04-30 10:14",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=43464"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79.1조 사상 최대· 영업익 6.7조",
+        "date": "2025-04-30 10:12",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=79683"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25로 1분기 영업익 6.7조…분기 매출은 79.1조로 사상...",
+        "date": "2025-04-30 10:12",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=244229"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6조 7,000억... 매출은 분기 최대 기록",
+        "date": "2025-04-30 10:12",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=48292"
+    },
+    {
+        "title": "삼성전자 1분기 매출 79조1천400억원…분기 기준 최대",
+        "date": "2025-04-30 10:10",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=119775"
+    },
+    {
+        "title": "[실적] 삼성전자, 1분기 매출 79조원",
+        "date": "2025-04-30 10:06",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3043853"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조원…사상 최대 분기 실적",
+        "date": "2025-04-30 10:06",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=155453"
+    },
+    {
+        "title": "애플 '아이폰18' 시리즈 성능 대폭 향상? 6채널 LPDDR5X 램 전환",
+        "date": "2025-04-30 10:06",
+        "link": "https://kbench.com/?q=node/267036"
+    },
+    {
+        "title": "'갤럭시 효과' 삼성전자, 1분기 영업익 6조6853억…작년보다 1.2%↑",
+        "date": "2025-04-30 10:06",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=746996"
+    },
+    {
+        "title": "삼성전자, 1분기 사상 최대 매출 기록…영업이익 6.7조원",
+        "date": "2025-04-30 10:04",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=282607"
+    },
+    {
+        "title": "[삼성전자 1Q IR] DX 영업익 4.7조원…갤S25 효과 '톡톡'",
+        "date": "2025-04-30 10:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661213"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조원 '사상 최대'...갤럭시S25 판매 호조 견인",
+        "date": "2025-04-30 10:02",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=108344"
+    },
+    {
+        "title": "삼성전자, 1분기 79.14조 매출 신기록…'하반기 성장' 자신감",
+        "date": "2025-04-30 10:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=245257"
+    },
+    {
+        "title": "삼성전자, 1분기 역대 최대 매출 79.14억 달성",
+        "date": "2025-04-30 10:00",
+        "link": "http://www.datanews.co.kr/news/article.html?no=138457"
+    },
+    {
+        "title": "'갤25'의 선전…삼성전자 1분기 영업익 6.7조, 반도체 부진 메웠다",
+        "date": "2025-04-30 09:59",
+        "link": "https://n.news.naver.com/mnews/article/079/0004019357?sid=101"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 '사상 최대' 79조1405억…연구개발비 9조 투입",
+        "date": "2025-04-30 09:58",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2092784"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조원 '사상 최대'...갤럭시S25·가전이 견인",
+        "date": "2025-04-30 09:58",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=340939"
+    },
+    {
+        "title": "삼성전자 1분기 매출 79조·영업익 6.7조…사상 최대 분기 매출 달성",
+        "date": "2025-04-30 09:58",
+        "link": "https://n.news.naver.com/mnews/article/666/0000071435?sid=101"
+    },
+    {
+        "title": "갤S25 효과 톡톡…삼성전자, 1분기 사상 최대 매출 달성(종합)",
+        "date": "2025-04-30 09:57",
+        "link": "https://n.news.naver.com/mnews/article/117/0003938336?sid=103"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 매출 79.14조원, 영업이익 6.7조원…사상 최대 ...",
+        "date": "2025-04-30 09:54",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=34793"
+    },
+    {
+        "title": "[종합] 삼성전자, 1분기 영업이익 6조7000억원···갤럭시 S25 효과 톡톡...",
+        "date": "2025-04-30 09:52",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=263136"
+    },
+    {
+        "title": "갤럭시 S25 효과…삼성전자, 1분기 매출 79.1조 '사상 최대'",
+        "date": "2025-04-30 09:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661216"
+    },
+    {
+        "title": "'갤럭시 효과' 삼성전자, 1Q MX·NW 영업익 4.3조…전년比 23%↑",
+        "date": "2025-04-30 09:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006001769?sid=105"
+    },
+    {
+        "title": "삼성전자, 1분기 영업이익 6조6853억...전년比 1.2%↑",
+        "date": "2025-04-30 09:52",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=230896"
+    },
+    {
+        "title": "갤럭시S25 잘팔려 선방…삼성전자 '사상 최대 분기 매출' [종합]",
+        "date": "2025-04-30 09:51",
+        "link": "https://n.news.naver.com/mnews/article/015/0005125936?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 실적 발표...영업익 6.7조",
+        "date": "2025-04-30 09:50",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=71789"
+    },
+    {
+        "title": "삼성전자, 올해 1분기 영업익 6조6853억…전년比 1.20%↑",
+        "date": "2025-04-30 09:50",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=79049"
+    },
+    {
+        "title": "삼성전자, 1Q 반도체 영업익 1.1兆···D램 선방",
+        "date": "2025-04-30 09:50",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=411405"
+    },
+    {
+        "title": "갤S25 효과…삼성전자 1Q 최대 매출 79조·영업익 6.7조",
+        "date": "2025-04-30 09:50",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661209"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 실적 발표…사상 최대 분기 매출 기록",
+        "date": "2025-04-30 09:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=212712"
+    },
+    {
+        "title": "[1분기 실적] 삼성전자, 1분기 영업이익 6.7조…매출은 분기 사상 최대 ...",
+        "date": "2025-04-30 09:48",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=71884"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 실적 발표",
+        "date": "2025-04-30 09:46",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=59957"
+    },
+    {
+        "title": "삼성전자, 갤럭시 효과에 1분기 영업익 6조6853억원 … 반도체 영업익 1...",
+        "date": "2025-04-30 09:46",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=67627"
+    },
+    {
+        "title": "삼성전자, 1분기 사상 최대 분기 매출…DX 호조·R&amp;D 최대 투자",
+        "date": "2025-04-30 09:46",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=56033"
+    },
+    {
+        "title": "삼성전자, 1분기 분기 최대 매출 달성…갤럭시S25 '선전'·HBM '고전'(상보...",
+        "date": "2025-04-30 09:46",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139032"
+    },
+    {
+        "title": "삼성전자, 1분기 영업이익 6조7천억원…사상 최대 분기 매출 경신",
+        "date": "2025-04-30 09:46",
+        "link": "http://www.thepowernews.co.kr/news/articleView.html?idxno=155156"
+    },
+    {
+        "title": "삼성전자, 1분기 사상 최대 매출 속 영업익 6.7조 '선방' … '갤럭시S25'...",
+        "date": "2025-04-30 09:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/30/2025043000103.html"
+    },
+    {
+        "title": "삼성전자, 구형 갤럭시Z 시리즈 폴더블폰 '원UI 7' 업데이트 개시",
+        "date": "2025-04-30 09:44",
+        "link": "https://kbench.com/?q=node/267035"
+    },
+    {
+        "title": "삼성전자, 2분기엔 그림자…핸드폰 수요↓, 불확실성↑",
+        "date": "2025-04-30 09:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0013214744?sid=101"
+    },
+    {
+        "title": "삼성전자, 1분기 반도체 영업익 1조1000억원…HBM 매출↓(상보)",
+        "date": "2025-04-30 09:42",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025043009300399816ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자, 1분기 영업이익 6.7조…매출 79조1400억 '분기 사상 최대'",
+        "date": "2025-04-30 09:42",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=86555"
+    },
+    {
+        "title": "삼성전자, 올 1분기 매출 79조원대 돌파…분기기준 역대 최대",
+        "date": "2025-04-30 09:42",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=188433"
+    },
+    {
+        "title": "갤럭시 S25, 1Q 삼성 호실적 이끌었다.. 2Q 비수기 극복 관건",
+        "date": "2025-04-30 09:41",
+        "link": "https://n.news.naver.com/mnews/article/014/0005343467?sid=105"
+    },
+    {
+        "title": "삼성전자, 1Q 영업익 6.7조원...전분기 대비 3%↑",
+        "date": "2025-04-30 09:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564111"
+    },
+    {
+        "title": "갤럭시 S25 활약에…삼성전자, 1Q 영업익 6.7조…분기 최대 매출",
+        "date": "2025-04-30 09:40",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4353703"
+    },
+    {
+        "title": "삼성전자, 분기 최대 매출 달성… 갤럭시 S25 실적 견인",
+        "date": "2025-04-30 09:40",
+        "link": "https://www.ajunews.com/view/20250430093737078"
+    },
+    {
+        "title": "삼성전자, 1Q 매출 79.14조…사상 최대 분기 매출 기록",
+        "date": "2025-04-30 09:38",
+        "link": "https://www.asiatime.co.kr/article/20250430500059"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6.7조원…전년 比 '소폭 증가'",
+        "date": "2025-04-30 09:38",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=111855"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신작 효과 톡톡...매출 사상 최대 기록",
+        "date": "2025-04-30 09:38",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=223460"
+    },
+    {
+        "title": "삼성전자, 1Q 매출 79조1400억원...스마트폰 판매 호조에 역대 최대",
+        "date": "2025-04-30 09:36",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=210971"
+    },
+    {
+        "title": "삼성전자, 1분기 사상 최대 분기 매출 기록…DS 실적은 하락",
+        "date": "2025-04-30 09:36",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=315954"
+    },
+    {
+        "title": "[종합] 삼성전자, 1분기 영업익 6.7조원…하반기 'AI·2나노'로 승부",
+        "date": "2025-04-30 09:36",
+        "link": "https://www.newspim.com/news/view/20250430000193"
+    },
+    {
+        "title": "삼성전자 1Q 영업익 6.7조 '기대 이상'…DS부문 1.1조 선방(상보)",
+        "date": "2025-04-30 09:35",
+        "link": "https://n.news.naver.com/mnews/article/421/0008222910?sid=101"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6조6천853억원…반도체 영업익 1.1조",
+        "date": "2025-04-30 09:35",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=691731"
+    },
+    {
+        "title": "'삼성전자의 힘' … '효자 갤럭시 S25'에 분기 사상 최대 매출",
+        "date": "2025-04-30 09:34",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=63467"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 사상 최대 79조…반도체는 25조",
+        "date": "2025-04-30 09:32",
+        "link": "https://n.news.naver.com/mnews/article/008/0005187996?sid=101"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6.7조원...매출 79조 달성 사상 최대 분기 매출...",
+        "date": "2025-04-30 09:32",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401242"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79.14조원…사상 최대 분기 매출",
+        "date": "2025-04-30 09:32",
+        "link": "http://theviewers.co.kr/View.aspx?No=3631692"
+    },
+    {
+        "title": "갤럭시 S25 흥행 효과 컸다…삼성폰, 1분기 영업익 22% 증가",
+        "date": "2025-04-30 09:31",
+        "link": "https://n.news.naver.com/mnews/article/003/0013214714?sid=105"
+    },
+    {
+        "title": "삼성전자, 사상 최대 분기 매출···반도체 부진 메꾼 갤S25 흥행",
+        "date": "2025-04-30 09:31",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=556089"
+    },
+    {
+        "title": "삼성전자, 1분기 영업이익 6조7000억원… 전년比 1.2%↑",
+        "date": "2025-04-30 09:30",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=525616"
+    },
+    {
+        "title": "[상보] 삼성전자, 1분기 매출 79조 사상 최대…반도체 영업익 1.1조",
+        "date": "2025-04-30 09:30",
+        "link": "https://www.etoday.co.kr/news/view/2466833"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6.7조원…전년比 1.2%↑",
+        "date": "2025-04-30 09:28",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=176151"
+    },
+    {
+        "title": "삼성전자, 1분기 영업이익 6.7조…매출 79조 '사상 최대'",
+        "date": "2025-04-30 09:28",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025043009253214120"
+    },
+    {
+        "title": "삼성전자, 2025년 1분기 사상 최대 매출...매출 79.14조원, 영업이익 6.7...",
+        "date": "2025-04-30 09:28",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1193798"
+    },
+    {
+        "title": "삼성전자, 1분기 영업익 6조6853억… 전년 대비 1.2%↑",
+        "date": "2025-04-30 09:27",
+        "link": "https://n.news.naver.com/mnews/article/417/0001074314?sid=101"
+    },
+    {
+        "title": "반도체 부진 메꾼 갤럭시 S25…삼성전자, 사상 최대 분기 매출",
+        "date": "2025-04-30 09:26",
+        "link": "https://n.news.naver.com/mnews/article/029/0002951687?sid=101"
+    },
+    {
+        "title": "삼성전자 1분기 매출 79조 영업이익 6조 7천억…역대 최대 분기 실적",
+        "date": "2025-04-30 09:24",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=842965"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조·영업이익 6조7000억원...분기 매출 '사상최...",
+        "date": "2025-04-30 09:20",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=419590"
+    },
+    {
+        "title": "삼성전자, 1분기 매출 79조원...역대 최대 분기 실적",
+        "date": "2025-04-30 09:19",
+        "link": "https://www.newspim.com/news/view/20250430000158"
+    },
+    {
+        "title": "피코아이앤시, DWIN 테크놀로지와 TFT LCD 공급계약… HMI UI 기능 탑재한...",
+        "date": "2025-04-30 09:18",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=315950"
+    },
+    {
+        "title": "[속보] 삼성디스플레이, 1분기 영업이익 5000억원… 전년比 47.1% 증가",
+        "date": "2025-04-30 09:18",
+        "link": "https://www.ajunews.com/view/20250430091651061"
+    },
+    {
+        "title": "삼성전자 반도체 1분기 영업익 1.1조 전년비 0.8%↓",
+        "date": "2025-04-30 09:16",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2084732"
+    },
+    {
+        "title": "삼성전자 1분기 영업이익 6.7조... 매출은 79조",
+        "date": "2025-04-30 09:10",
+        "link": "https://n.news.naver.com/mnews/article/023/0003902487?sid=105"
+    },
+    {
+        "title": "[더벨][뉴파워프라즈마 줌인]자회사 상장 미국 상호관세 타격 없다",
+        "date": "2025-04-30 09:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504260139319870104864"
+    },
+    {
+        "title": "원목 디자인 갖춘 듀얼 챔버 케이스 마이크로닉스 WIZMAX 우드리안 프로",
+        "date": "2025-04-30 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54191"
+    },
+    {
+        "title": "애플워치SE 3, 화면 더 커진다…올 가을 출시 전망",
+        "date": "2025-04-30 08:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002372690?sid=105"
+    },
+    {
+        "title": "[더벨][티로보틱스 줌인]삼성전자 출신 주축, AMR 기술력 고도화 박차",
+        "date": "2025-04-30 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504241711193040106944"
+    },
+    {
+        "title": "앱 개발자 인앱결제 가장 큰 문제는 과도한 수수료",
+        "date": "2025-04-30 08:10",
+        "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510967247"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 2026년 출시 예정",
+        "date": "2025-04-30 07:34",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=188417"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 2026년 출시 예정",
+        "date": "2025-04-30 07:34",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=798489"
+    },
+    {
+        "title": "탈중국 본격화, 삼성·애플·LG 등 인도로 대이동",
+        "date": "2025-04-30 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26055"
+    },
+    {
+        "title": "게이밍 노트북 새 기준 현존 최고 성능, 인텔 코어 울트라 9 285HX 프로...",
+        "date": "2025-04-30 06:44",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139622"
+    },
+    {
+        "title": "애플 최초 폴더블 아이폰 루머 총정리…가격·사양·출시일",
+        "date": "2025-04-30 06:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564014"
+    },
+    {
+        "title": "아이폰 17 전 모델, 12GB 램 탑재.. 갤럭시와 램 용량 같아지나 [1일IT...",
+        "date": "2025-04-30 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005343337?sid=105"
+    },
+    {
+        "title": "모건스탠리, 애플 실적 발표 앞두고 목표주가 상향…에버코어는 ‘마진...",
+        "date": "2025-04-30 05:50",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202504300318212958be84d87674_1/article.html"
+    },
+    {
         "title": "원하는 스크린 직접 선택…삼성 ‘무빙스타일’로 TV급 화질을 어디서나...",
         "date": "2025-04-30 05:00",
         "link": "https://www.etoday.co.kr/news/view/2466220"
@@ -160,14 +885,14 @@
         "link": "https://n.news.naver.com/mnews/article/243/0000077193?sid=101"
     },
     {
-        "title": "뉴큐브게임즈 '펫펫고' 출시 이틀만에 애플 앱스토어 인기 1위 달성",
-        "date": "2025-04-29 15:10",
-        "link": "http://gamefocus.co.kr/detail.php?number=165200"
-    },
-    {
         "title": "폴 바셋, 저칼로리 요거트 음료 3종 출시…애플망고·딸기·블루베리 구...",
         "date": "2025-04-29 15:10",
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=635485"
+    },
+    {
+        "title": "뉴큐브게임즈 '펫펫고' 출시 이틀만에 애플 앱스토어 인기 1위 달성",
+        "date": "2025-04-29 15:10",
+        "link": "http://gamefocus.co.kr/detail.php?number=165200"
     },
     {
         "title": "애플, AI폰 성능 강화…메모리 3사, D램 공급 더 치열해진다",
