@@ -1,5 +1,110 @@
 [
     {
+        "title": "삼성전자, '미션 임파서블'로 OLED 화질 알린다…SNS 이벤트도 진행",
+        "date": "2025-05-03 11:52",
+        "link": "http://www.metroseoul.co.kr/article/20250503500060"
+    },
+    {
+        "title": "美 UDC, 1분기 영업이익 전년比 11% 증가…“OLED 장기 성장 확신”",
+        "date": "2025-05-03 10:25",
+        "link": "https://n.news.naver.com/mnews/article/030/0003309350?sid=105"
+    },
+    {
+        "title": "시가총액 1위 애플 꺾고 'MS'로…관세에 희비 갈려",
+        "date": "2025-05-03 10:19",
+        "link": "https://n.news.naver.com/mnews/article/018/0006004747?sid=101"
+    },
+    {
+        "title": "퀄컴 수장 “삼성 스마트폰 75%에 우리 AP 탑재”…속타는 엑시노스 [강...",
+        "date": "2025-05-03 10:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004481341?sid=101"
+    },
+    {
+        "title": "애플, 美 칩 190억개 조달·印 아이폰 전면 확대…‘脫중국’ 속도낸다",
+        "date": "2025-05-03 09:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002195870?sid=105"
+    },
+    {
+        "title": "애플, 스포티파이 앱 업데이트 승인…미국 사용자도 외부 결제 가능",
+        "date": "2025-05-03 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564572"
+    },
+    {
+        "title": "애플 철옹성 ‘앱스토어 결제 강제’ 무너졌다…美 외부결제 전면 허용",
+        "date": "2025-05-03 09:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002195869?sid=105"
+    },
+    {
+        "title": "애플, 관세 우려에 3.7%↓…시총 1위 내줘",
+        "date": "2025-05-03 09:36",
+        "link": "https://n.news.naver.com/mnews/article/056/0011944560?sid=104"
+    },
+    {
+        "title": "애플, 코딩 혁신 예고… 앤트로픽과 Xcode 기반 AI 코딩 플랫폼 개발",
+        "date": "2025-05-03 09:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139922"
+    },
+    {
+        "title": "실적 공신 '갤S25' 유럽서도 선전...'1위' 삼성, 애플 추격 뿌리칠까",
+        "date": "2025-05-03 09:08",
+        "link": "https://news.mtn.co.kr/news-detail/2025050217122397430"
+    },
+    {
+        "title": "구형 TV 반납하면 보상…삼성전자, '삼성 OLED로 바꿔보상' 프로모션",
+        "date": "2025-05-03 08:36",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=261041"
+    },
+    {
+        "title": "애플, 앤트로픽 손잡고 'AI 코딩 도구' 개발?",
+        "date": "2025-05-03 08:12",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=146697"
+    },
+    {
+        "title": "실적 호재, MS 2.32%↑ 애플 꺾고 시총 1위 등극",
+        "date": "2025-05-03 07:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0008229388?sid=104"
+    },
+    {
+        "title": "실적 실망, 애플 4% 급락…시총 1위 탈락",
+        "date": "2025-05-03 07:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008229382?sid=104"
+    },
+    {
+        "title": "“OLED TV 경쟁 본격화”…1위 도전하는 ‘삼성’, 굳히는 ‘LG’",
+        "date": "2025-05-03 07:00",
+        "link": "https://www.etoday.co.kr/news/view/2467533"
+    },
+    {
+        "title": "애플, 외부 AI 업체들과 협력 탄력...앤트로픽과는 코딩 AI 제휴",
+        "date": "2025-05-03 06:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564555"
+    },
+    {
+        "title": "관세가 시총 1위자리 바꿨다...마이크로소프트(MS), 애플 제치고 시총 1...",
+        "date": "2025-05-03 06:18",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2025050306093289842aaae0046f_30"
+    },
+    {
+        "title": "[모닝 뉴스브리핑] 애플, 반독점법 판결 따라 NFT·암호화폐 규정 완화 ...",
+        "date": "2025-05-03 06:04",
+        "link": "https://www.tokenpost.kr/news/briefing/244021"
+    },
+    {
+        "title": "갤럭시 S25 흥행 이어 간다 삼성 모바일 2분기 전략 키워드는 '엣지'",
+        "date": "2025-05-03 06:00",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=108815"
+    },
+    {
+        "title": "[뉴욕증시] 미·중 무역협상 기대감 속 3대 지수 상승 지속…애플은 3.7...",
+        "date": "2025-05-03 05:56",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202505030523038882be84d87674_1/article.html"
+    },
+    {
+        "title": "애플, iOS 내 암호화폐 결제 제한 해제",
+        "date": "2025-05-03 05:30",
+        "link": "https://www.tokenpost.kr/news/breaking/244011"
+    },
+    {
         "title": "애플(AAPL), 관세 공포에 4% 급락…트럼프發 '중국 리스크' 재점화",
         "date": "2025-05-03 02:24",
         "link": "https://www.tokenpost.kr/news/market/243970"
@@ -407,12 +512,12 @@
     {
         "title": "삼성전자, 미션 임파서블 파이널 레코닝으로 삼성 OLED 화질 알린다",
         "date": "2025-05-02 09:18",
-        "link": "https://n.news.naver.com/mnews/article/421/0008227557?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/421/0008227556?sid=101"
     },
     {
         "title": "삼성전자, 미션 임파서블 파이널 레코닝으로 삼성 OLED 화질 알린다",
         "date": "2025-05-02 09:18",
-        "link": "https://n.news.naver.com/mnews/article/421/0008227556?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/421/0008227557?sid=101"
     },
     {
         "title": "초슬림 '갤럭시S25 엣지' 출시 앞서 전체 사양·가격 유출",
@@ -495,11 +600,6 @@
         "link": "http://www.newscape.co.kr/news/articleView.html?idxno=111905"
     },
     {
-        "title": "전국 삼성 스토어, OLED TV로 ‘미션 임파서블’ 예고편 상영",
-        "date": "2025-05-02 08:25",
-        "link": "https://n.news.naver.com/mnews/article/016/0002466068?sid=101"
-    },
-    {
         "title": "MS만 질주…미중 갈등 못 피한 애플·아마존 [글로벌마켓 A/S]",
         "date": "2025-05-02 08:22",
         "link": "https://n.news.naver.com/mnews/article/215/0001207940?sid=101"
@@ -512,12 +612,12 @@
     {
         "title": "삼성전자, '미션 임파서블: 파이널 레코닝'으로 OLED 화질 알린다",
         "date": "2025-05-02 08:15",
-        "link": "https://n.news.naver.com/mnews/article/001/0015365242?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015365244?sid=101"
     },
     {
         "title": "삼성전자, '미션 임파서블: 파이널 레코닝'으로 OLED 화질 알린다",
         "date": "2025-05-02 08:15",
-        "link": "https://n.news.naver.com/mnews/article/001/0015365244?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015365242?sid=101"
     },
     {
         "title": "“시리로 송금 가능?” 케이뱅크, 애플 인텔리전스 도입 [영상]",
