@@ -1,5 +1,95 @@
 [
     {
+        "title": "'애플' 아이폰 출시 일정 이원화…내년부터 프로·기본형 분리 공개",
+        "date": "2025-05-06 04:20",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15657222"
+    },
+    {
+        "title": "아이폰 출시 일정 이원화 전략…내년부터 봄·가을 두 차례",
+        "date": "2025-05-06 03:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0015370637?sid=104"
+    },
+    {
+        "title": "'애플' 주가 관세 부담 우려에 3% 하락…시총 3조 달러 다시 하회",
+        "date": "2025-05-06 02:22",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15657193"
+    },
+    {
+        "title": "애플, 관세 영향 우려에 주가 또 약세…3% 하락",
+        "date": "2025-05-06 01:44",
+        "link": "https://n.news.naver.com/mnews/article/001/0015370627?sid=104"
+    },
+    {
+        "title": "中 하이센스, QLED TV 허위 광고로 美서 또 집단소송",
+        "date": "2025-05-05 23:02",
+        "link": "https://n.news.naver.com/mnews/article/029/0002952479?sid=101"
+    },
+    {
+        "title": "아이폰 에어, 2027년 더 커진다…애플, 차세대 모델 준비 중",
+        "date": "2025-05-05 21:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564678"
+    },
+    {
+        "title": "게임, ‘프리미엄 TV’ 새 성장동력 됐다",
+        "date": "2025-05-05 20:52",
+        "link": "https://n.news.naver.com/mnews/article/032/0003367613?sid=101"
+    },
+    {
+        "title": "“아이폰17에어 덤벼”…5월 출시 앞둔 갤럭시 S25엣지의 놀라운 스펙",
+        "date": "2025-05-05 18:35",
+        "link": "https://n.news.naver.com/mnews/article/009/0005487359?sid=101"
+    },
+    {
+        "title": "中 하이센스 ‘QLED TV 허위 광고’로 美서 또 집단소송",
+        "date": "2025-05-05 18:08",
+        "link": "https://n.news.naver.com/mnews/article/021/0002707471?sid=105"
+    },
+    {
+        "title": "서학개미의 변심?…애플보다 ‘이 종목’ 더 샀다",
+        "date": "2025-05-05 18:06",
+        "link": "https://n.news.naver.com/mnews/article/243/0000077453?sid=101"
+    },
+    {
+        "title": "롯데하이마트, 가전 구독 서비스 론칭…애플·로보락·다이슨까지",
+        "date": "2025-05-05 16:30",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=386596"
+    },
+    {
+        "title": "가정의 달 5월, 더 풍성해진 전자제품 프로모션 열린다",
+        "date": "2025-05-05 16:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=649776"
+    },
+    {
+        "title": "TV, 게임까지 품다…프리미엄 시장 성장 동력 될까",
+        "date": "2025-05-05 15:40",
+        "link": "https://n.news.naver.com/mnews/article/032/0003367542?sid=101"
+    },
+    {
+        "title": "서학개미가 '픽'한 주식 팔란티어, 애플도 추월",
+        "date": "2025-05-05 15:07",
+        "link": "https://n.news.naver.com/mnews/article/088/0000945935?sid=101"
+    },
+    {
+        "title": "“中 BOE, 삼성 핵심 기술 탈취” 소송…누구 손 들까",
+        "date": "2025-05-05 15:01",
+        "link": "https://n.news.naver.com/mnews/article/005/0001774203?sid=101"
+    },
+    {
+        "title": "애플·아마존, '관세 리스크' 직면…MS·메타는 호실적 질주",
+        "date": "2025-05-05 14:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139949"
+    },
+    {
+        "title": "中 하이센스, QLED TV 허위 광고로 美서 또 집단소송",
+        "date": "2025-05-05 14:10",
+        "link": "https://n.news.naver.com/mnews/article/009/0005487197?sid=101"
+    },
+    {
+        "title": "서학개미, 애플보다 팔란티어 선호…주식 보관액 첫 역전",
+        "date": "2025-05-05 13:52",
+        "link": "https://n.news.naver.com/mnews/article/422/0000737579?sid=101"
+    },
+    {
         "title": "시그마인텔 올해 전세계 스마트폰 출하량 감소 전망...관세 탓",
         "date": "2025-05-05 12:56",
         "link": "http://www.thelec.kr/news/articleView.html?idxno=35609"
@@ -8,6 +98,11 @@
         "title": "서학개미 애플보다 팔란티어 선호…주식 보관액 첫 역전",
         "date": "2025-05-05 12:50",
         "link": "https://www.sentv.co.kr/article/view/sentv202505050008"
+    },
+    {
+        "title": "서학개미, 애플보다 팔란티어 선호…주식 보관액 첫 역전",
+        "date": "2025-05-05 11:11",
+        "link": "https://n.news.naver.com/mnews/article/016/0002466913?sid=101"
     },
     {
         "title": "전세계 게임 모니터 시장의 절대 강자는 누굴까",
@@ -88,145 +183,5 @@
         "title": "'AI 지연' 애플, 이번엔 '스크래치 방지 코팅' 개발 실패",
         "date": "2025-05-05 07:00",
         "link": "https://n.news.naver.com/mnews/article/421/0008231243?sid=105"
-    },
-    {
-        "title": "프리미엄 시장 흔드는 미니 LED TV…中 공세에 출하량 50% 급증 전망",
-        "date": "2025-05-05 06:20",
-        "link": "https://n.news.naver.com/mnews/article/001/0015369412?sid=101"
-    },
-    {
-        "title": "아이폰 출시 주기 변경설…프로 모델 9월, 일반 모델 내년 봄",
-        "date": "2025-05-05 05:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564636"
-    },
-    {
-        "title": "중저가TV 가격 인상에, OLED 출하량 역대최대 전망",
-        "date": "2025-05-05 03:02",
-        "link": "https://n.news.naver.com/mnews/article/020/0003632890?sid=101"
-    },
-    {
-        "title": "한국서 비싸게 판다고 욕먹더니…“결국 50% 파격 할인” 시끌벅적 ‘난...",
-        "date": "2025-05-04 21:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002466838?sid=105"
-    },
-    {
-        "title": "올해 OLED TV 출하 역대 최대 기록 전망…전년 대비 8%↑",
-        "date": "2025-05-04 21:28",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=270466"
-    },
-    {
-        "title": "결국 아이폰 '접는다' 삼성은 비상? 향후 잘 팔릴 폰은…",
-        "date": "2025-05-04 19:15",
-        "link": "https://n.news.naver.com/mnews/article/243/0000077433?sid=105"
-    },
-    {
-        "title": "AI 판치는 데 얇은 폰? '아이폰17 에어' 혁신과 퇴행 사이 [IT+]",
-        "date": "2025-05-04 18:36",
-        "link": "https://n.news.naver.com/mnews/article/665/0000004950?sid=105"
-    },
-    {
-        "title": "세경하이테크, 폴더블폰 성장 둔화에 1분기 '주춤'… 하지만 반전 카드...",
-        "date": "2025-05-04 17:06",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=341523"
-    },
-    {
-        "title": "프리미엄 TV 질주…올해 OLED 출하 ‘역대 최대’ 될듯",
-        "date": "2025-05-04 15:00",
-        "link": "https://n.news.naver.com/mnews/article/009/0005486915?sid=101"
-    },
-    {
-        "title": "“중국 없으면 손해가 막심”...1조원 이상 추가비용 발생한 애플, 시총...",
-        "date": "2025-05-04 14:38",
-        "link": "https://n.news.naver.com/mnews/article/009/0005486911?sid=101"
-    },
-    {
-        "title": "끝까지 버티던 애플도 결국 접는다…독주하던 삼성도 '초비상'",
-        "date": "2025-05-04 14:09",
-        "link": "https://n.news.naver.com/mnews/article/277/0005587771?sid=105"
-    },
-    {
-        "title": "애플, 시총 1위 내줘…“관세로 비용 9억 달러 늘 것” 전망 영향",
-        "date": "2025-05-04 13:26",
-        "link": "https://n.news.naver.com/mnews/article/028/0002744158?sid=101"
-    },
-    {
-        "title": "애플, 아이폰 판매 확대 승부수...올해 슬림형 아이폰·내년 폴더블폰 ...",
-        "date": "2025-05-04 12:08",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564614"
-    },
-    {
-        "title": "애플, 실적 예상치 상회…관세 영향 제한적",
-        "date": "2025-05-04 11:54",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15656162"
-    },
-    {
-        "title": "애플, 올해 말 신형 맥북 프로 출시할 듯",
-        "date": "2025-05-04 11:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=564613"
-    },
-    {
-        "title": "애플, 아이폰 출시 시기 이원화…2026 폴더블·2027 풀스크린 '예고'",
-        "date": "2025-05-04 11:46",
-        "link": "https://n.news.naver.com/mnews/article/138/0002195886?sid=105"
-    },
-    {
-        "title": "애플 자체 통신 모뎀 'C1' 성능? 팀 쿡 '자신감'",
-        "date": "2025-05-04 10:48",
-        "link": "https://n.news.naver.com/mnews/article/138/0002195880?sid=105"
-    },
-    {
-        "title": "삼성 OLED로 바꾸면 혜택이…삼성전자, 첫 보상 프로모션 실시",
-        "date": "2025-05-04 10:10",
-        "link": "http://www.metroseoul.co.kr/article/20250504500014"
-    },
-    {
-        "title": "애플-앤트로픽, '비밀동맹' 맺나…AI 기반 개발 플랫폼 구축",
-        "date": "2025-05-04 10:00",
-        "link": "https://n.news.naver.com/mnews/article/092/0002373130?sid=105"
-    },
-    {
-        "title": "1분기 스마트폰 매출 전년비 3% 성장…애플 42%·삼성 18%",
-        "date": "2025-05-04 09:39",
-        "link": "https://n.news.naver.com/mnews/article/119/0002952594?sid=105"
-    },
-    {
-        "title": "아이폰18 일반 모델 출시 연기… 폴더블·에어 먼저 나온다",
-        "date": "2025-05-04 09:24",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139931"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S25 효과 또 봤다…세계 1위 스마트폰 등극",
-        "date": "2025-05-04 09:22",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250502010000466"
-    },
-    {
-        "title": "OLED는 마지노선… 삼성·LG, 中 굴기에 디스플레이 '초격차' 속도",
-        "date": "2025-05-04 09:02",
-        "link": "https://www.ajunews.com/view/20250502135222509"
-    },
-    {
-        "title": "청정원, 저당·저칼로리 홍초 '레드애플', '레몬&amp;라임' 출시",
-        "date": "2025-05-04 08:46",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=640485"
-    },
-    {
-        "title": "관세 리스크 탈출 ‘대형 고객사’ 애플에 기대 거는 국내 부품사들",
-        "date": "2025-05-04 08:00",
-        "link": "https://www.etoday.co.kr/news/view/2464356"
-    },
-    {
-        "title": "출격 앞둔 초슬림 '갤럭시 S25 엣지'…예상 스펙은?",
-        "date": "2025-05-04 07:16",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025043017225070366"
-    },
-    {
-        "title": "삼성 폴더블폰도 ‘위태로운 1위’…“AI로 반등 노린다”",
-        "date": "2025-05-04 07:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2025050216585870630"
-    },
-    {
-        "title": "LTPS·올레드 기술 자신있다 LGD, 차량용 디스플레이 시장 본격 공략",
-        "date": "2025-05-04 07:00",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=244322"
     }
 ]
