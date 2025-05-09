@@ -1,5 +1,915 @@
 [
     {
+        "title": "'가장 얇은' 갤럭시 S25 엣지…코닝 신기술로 견고함도 역대급",
+        "date": "2025-05-09 12:54",
+        "link": "https://n.news.naver.com/mnews/article/011/0004483338?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지 신소재 ‘코닝 고릴라 글라스 세라믹2’ 탑재",
+        "date": "2025-05-09 12:52",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=754384"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 내구성 한층 강화된 '고릴라 글라스 세라믹 2' 탑...",
+        "date": "2025-05-09 12:20",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025050910512919606ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성 '비스포크 AI 콤보'·OLED TV, 호주서 '최고 혁신상' 수상",
+        "date": "2025-05-09 12:20",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025050910420957776ed0c62d49_1/article.html"
+    },
+    {
+        "title": "[오늘 뭐했니?] LG",
+        "date": "2025-05-09 12:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=34512"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 신규 코닝 글라스 세라믹 탑재",
+        "date": "2025-05-09 12:02",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=342594"
+    },
+    {
+        "title": "삼성전자, '비스포크 AI 콤보·OLED TV' 호주 최고 제품 선정",
+        "date": "2025-05-09 12:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139432"
+    },
+    {
+        "title": "LG유플러스, '갤럭시 버디4' 단독 출시…가성비 5G 스마트폰 시장 공략",
+        "date": "2025-05-09 11:50",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=715442"
+    },
+    {
+        "title": "LG유플러스, 30만원대 실속형 스마트폰 ‘갤럭시 버디4’ 출시",
+        "date": "2025-05-09 11:50",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=72148"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:46",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=96051"
+    },
+    {
+        "title": "LGU+, 30만원대 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:46",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=168198"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 신규 모바일용 글라스 세라믹 적용",
+        "date": "2025-05-09 11:46",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=96053"
+    },
+    {
+        "title": "LGU+, 실속형 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:44",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=80360"
+    },
+    {
+        "title": "이종혁 삼성디스플레이 부사장, 'SID 2025' 공로상 수상",
+        "date": "2025-05-09 11:34",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=406743"
+    },
+    {
+        "title": "TSMC 2나노 수요 초강세…삼성·인텔, 고객 유치 '사활'",
+        "date": "2025-05-09 11:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=266934"
+    },
+    {
+        "title": "애플 스마트안경 칩 개발 박차...2년 후 메타와 경쟁할 수도",
+        "date": "2025-05-09 11:33",
+        "link": "https://www.newspim.com/news/view/20250509000322"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, ‘코닝 고릴라 글라스 세라믹 2’ 탑재",
+        "date": "2025-05-09 11:32",
+        "link": "https://www.kukinews.com/article/view/kuk202505090075"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 신소재 '코닝® 고릴라® 글라스 세라믹 2' 탑재",
+        "date": "2025-05-09 11:30",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=80361"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:28",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=80359"
+    },
+    {
+        "title": "갤럭시 'S25 엣지', 출시 코앞에 두고 공식 이미지 대거 유출... 디자인...",
+        "date": "2025-05-09 11:26",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799854"
+    },
+    {
+        "title": "LGU+, 30만원대 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 11:25",
+        "link": "https://n.news.naver.com/mnews/article/016/0002468819?sid=105"
+    },
+    {
+        "title": "갤럭시S25 엣지, 견고함 더했다",
+        "date": "2025-05-09 11:25",
+        "link": "https://n.news.naver.com/mnews/article/016/0002468816?sid=105"
+    },
+    {
+        "title": "TSMC 2나노 수요 초강세…삼성·인텔, 고객 유치 '사활'",
+        "date": "2025-05-09 11:22",
+        "link": "https://n.news.naver.com/mnews/article/003/0013231130?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 내구성 강화 신소재 적용",
+        "date": "2025-05-09 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565254"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지' 견고함 높여…신규 코닝 글라스 세라믹 탑...",
+        "date": "2025-05-09 11:16",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=63874"
+    },
+    {
+        "title": "F 시리즈 중 가장 얇은 '갤럭시 F56' 인도에서 출시.. 가격 42만원부터",
+        "date": "2025-05-09 11:14",
+        "link": "https://kbench.com/?q=node/267278"
+    },
+    {
+        "title": "애플, 스마트 글래스용 칩 개발 진전…2027년 출시 목표",
+        "date": "2025-05-09 11:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565237"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 11:12",
+        "link": "https://www.cnbnews.com/news/article.html?no=724591"
+    },
+    {
+        "title": "79층서 즐기는 망빙, 시그니엘 서울 ‘애플망고 디저트 행사’",
+        "date": "2025-05-09 11:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002468763?sid=101"
+    },
+    {
+        "title": "LGU+, 갤럭시버디4 단독 출시...출고가 39만9300원",
+        "date": "2025-05-09 11:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373620?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘비스포크 AI 콤보·OLED TV’ 호주서 ‘최고 혁신상’ 수상",
+        "date": "2025-05-09 11:04",
+        "link": "https://www.news2day.co.kr/article/20250509500122"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:04",
+        "link": "https://www.fetv.co.kr/news/article.html?no=191549"
+    },
+    {
+        "title": "LG유플러스, 30만원대 실속폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 11:00",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=111234"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지', 코닝 고릴라 글라스 세라믹 2 적용",
+        "date": "2025-05-09 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250509101946"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시…'유플러스닷컴'서 선...",
+        "date": "2025-05-09 10:58",
+        "link": "http://www.100ssd.co.kr/news/articleView.html?idxno=121219"
+    },
+    {
+        "title": "LG유플러스, 30만원대 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:50",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=87092"
+    },
+    {
+        "title": "LG유플러스, 30만원대 중저가폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:50",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526118"
+    },
+    {
+        "title": "삼성전자, S25 엣지에 신소재 글라스 탑재…프리미엄 내구성 구현",
+        "date": "2025-05-09 10:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=228226"
+    },
+    {
+        "title": "삼성전자 ‘비스포크 AI 콤보’·‘OLED TV’, 호주서 최고 혁신상 수상",
+        "date": "2025-05-09 10:46",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=72142"
+    },
+    {
+        "title": "LGU+, 출고가 39만9300원 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:46",
+        "link": "https://n.news.naver.com/mnews/article/031/0000930816?sid=105"
+    },
+    {
+        "title": "‘카메라 탑재’ 에어팟·애플워치, 2027년 출시 전망",
+        "date": "2025-05-09 10:44",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373611?sid=105"
+    },
+    {
+        "title": "LGU+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:42",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3267497"
+    },
+    {
+        "title": "얇은데 안 깨진다고?···갤럭시 S25 엣지, 유리 아닌 '세라믹' 입었...",
+        "date": "2025-05-09 10:42",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2274636"
+    },
+    {
+        "title": "유니씨앤씨, 5월 9일 오전 11시, 삼성브랜드위크 갤럭시북5 프로 특가 L...",
+        "date": "2025-05-09 10:38",
+        "link": "https://kbench.com/?q=node/267277"
+    },
+    {
+        "title": "삼성 '엣지' 5.8mm 슬림폰 공개 임박…하반기 애플과 '두께 전쟁'",
+        "date": "2025-05-09 10:34",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1662045"
+    },
+    {
+        "title": "애플 '폴더블 아이폰'…삼성D 신공정 디스플레이 탑재",
+        "date": "2025-05-09 10:34",
+        "link": "https://kbench.com/?q=node/267261"
+    },
+    {
+        "title": "LG유플러스, 30만원대 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:32",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=228217"
+    },
+    {
+        "title": "'배당 효자' 돌아왔다 … LG디스플레이 호실적에 LG전자 재무 '숨통'",
+        "date": "2025-05-09 10:32",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/09/2025050900132.html"
+    },
+    {
+        "title": "갤럭시 S25 엣지에 내구성 강화된 코닝 신소재 적용",
+        "date": "2025-05-09 10:30",
+        "link": "https://www.kpinews.kr/newsView/1065576484525113"
+    },
+    {
+        "title": "LG유플러스, 30만원대 스마트폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 10:28",
+        "link": "https://www.newspim.com/news/view/20250509000311"
+    },
+    {
+        "title": "'출고가 39만9300원'...LG U+ '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:28",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2085375"
+    },
+    {
+        "title": "애플, 스마트 안경·AI 서버용 칩 등 신형 칩 다수 개발 중",
+        "date": "2025-05-09 10:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373608?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시S25 엣지' 코닝 고릴라 글라스 세라믹 2 탑재",
+        "date": "2025-05-09 10:24",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3267489"
+    },
+    {
+        "title": "애플, 지난해 앱스토어 수수료 수익 100억달러 돌파…개발자 반발 확산",
+        "date": "2025-05-09 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565192"
+    },
+    {
+        "title": "시그니엘에서 '망고 빙수'⋯애플망고 디저트 프로모션 운영",
+        "date": "2025-05-09 10:21",
+        "link": "https://n.news.naver.com/mnews/article/031/0000930792?sid=101"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:20",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=73632"
+    },
+    {
+        "title": "삼성전자 '비스포크 AI 콤보'·OLED TV, 호주서 '최고 혁신상' 수상",
+        "date": "2025-05-09 10:20",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=228214"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 신규 코닝 글라스 세라믹 탑재...‘내구성 강화...",
+        "date": "2025-05-09 10:18",
+        "link": "https://idsn.co.kr/news/view/1065575771860827"
+    },
+    {
+        "title": "애플, 스마트 글래스 및 AI 서버용 특수 반도체 칩 개발 중",
+        "date": "2025-05-09 10:18",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=232788"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, '고릴라 글라스 세라믹 2' 탑재…내구성·디자인...",
+        "date": "2025-05-09 10:18",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=128467"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 내구성 강화된 코닝 글라스 세라믹 탑재",
+        "date": "2025-05-09 10:16",
+        "link": "https://n.news.naver.com/mnews/article/117/0003941227?sid=105"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:14",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=56322"
+    },
+    {
+        "title": "롯데칠성음료, '핫식스 더킹 애플홀릭'",
+        "date": "2025-05-09 10:14",
+        "link": "http://www.bokuennews.com/news/article.html?no=259632"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 선보여",
+        "date": "2025-05-09 10:14",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3044188"
+    },
+    {
+        "title": "삼성전자 '비스포크 AI 콤보·OLED TV', 호주서 '최고 혁신상' 선정",
+        "date": "2025-05-09 10:10",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401485"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 신규 코닝 글라스 세라믹 탑재",
+        "date": "2025-05-09 10:10",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526095"
+    },
+    {
+        "title": "LG유플러스, 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:06",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=176608"
+    },
+    {
+        "title": "삼성전자 '비스포크 AI 콤보', 호주서 최고 혁신상 수상…OLED TV도 함께...",
+        "date": "2025-05-09 10:04",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=128463"
+    },
+    {
+        "title": "LGU+, '갤럭시 버디4' 단독 출시…출고가 39만9300원",
+        "date": "2025-05-09 10:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=266886"
+    },
+    {
+        "title": "LG U+, 30만원대 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 10:02",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202505090959051854a310e76584_30"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시...출고가 39만9300원",
+        "date": "2025-05-09 10:00",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401481"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:58",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=83667"
+    },
+    {
+        "title": "LG유플러스, '갤럭시 버디4' 단독 출시…중저가 라인업 확대",
+        "date": "2025-05-09 09:56",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=748359"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디 4' 단독 출시",
+        "date": "2025-05-09 09:52",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=646121"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 09:52",
+        "link": "http://www.it-b.co.kr/news/articleView.html?idxno=81722"
+    },
+    {
+        "title": "LG유플러스, 실속형 신제품 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:52",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=79778"
+    },
+    {
+        "title": "삼성 ‘비스포크 AI 콤보’·‘OLED TV’, 호주서 ‘최고 혁신상’ 선정",
+        "date": "2025-05-09 09:50",
+        "link": "https://www.ceoscoredaily.com/page/view/2025050909362425358"
+    },
+    {
+        "title": "삼성전자 QLED TV, 獨 '리얼 퀀텀닷 디스플레이' 인증 획득",
+        "date": "2025-05-09 09:48",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=261745"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시...출고가 39만93...",
+        "date": "2025-05-09 09:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=213105"
+    },
+    {
+        "title": "견고함 더했다..갤럭시 S25 엣지, '코닝 고릴라 글라스 세라믹 2' 탑재",
+        "date": "2025-05-09 09:48",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2085368"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션 운영",
+        "date": "2025-05-09 09:46",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526100"
+    },
+    {
+        "title": "LGU+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:45",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196174?sid=105"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화된 신소재 '코닝® 고릴라® 글라스 세라믹...",
+        "date": "2025-05-09 09:44",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=79773"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:44",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=259707"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:42",
+        "link": "https://www.betanews.net/article/view/beta202505090012"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:42",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=155943"
+    },
+    {
+        "title": "삼성전자 '비스포크 AI콤보' 'OLED TV' 호주서 '최고 혁신상'",
+        "date": "2025-05-09 09:40",
+        "link": "http://theviewers.co.kr/View.aspx?No=3640254"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션",
+        "date": "2025-05-09 09:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1213692"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화된 신소재 '코닝® 고릴라® 글라스 세라믹...",
+        "date": "2025-05-09 09:40",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=213099"
+    },
+    {
+        "title": "초슬림 '갤럭시S25 엣지' 내구성의 비밀.. 신소재 '코닝 고릴라 글라스...",
+        "date": "2025-05-09 09:40",
+        "link": "https://kbench.com/?q=node/267259"
+    },
+    {
+        "title": "삼성 갤럭시S25 엣지, 내구성 강화 신소재 탑재",
+        "date": "2025-05-09 09:38",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373583?sid=105"
+    },
+    {
+        "title": "'갤S25 엣지'에 '코닝 고릴라 글라스 세라믹 2' 적용…더 견고",
+        "date": "2025-05-09 09:36",
+        "link": "http://theviewers.co.kr/View.aspx?No=3640244"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지에 '고릴라 글래스 세라믹 2' 적용",
+        "date": "2025-05-09 09:36",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025050909345247505ed985c7c5_23"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화 신소재 '코닝 고릴라 글라스 세라믹 2' 탑...",
+        "date": "2025-05-09 09:34",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=87069"
+    },
+    {
+        "title": "LG유플러스, 실속형 전용 스마트폰 '갤럭시 버디4' 출시…갤럭시 A16 5G ...",
+        "date": "2025-05-09 09:34",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=46930"
+    },
+    {
+        "title": "LG유플러스, 가성비 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:32",
+        "link": "https://n.news.naver.com/mnews/article/417/0001075796?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 엣지에 코닝 고릴라 글라스 세라믹 2 탑재",
+        "date": "2025-05-09 09:30",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130146"
+    },
+    {
+        "title": "삼성전자 '비스포크 AI 콤보'·'OLED TV' , 호주 서'최고 혁신상' 선정",
+        "date": "2025-05-09 09:30",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2085364"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 전면 디스플레이에 신규 코닝 글라스 세라믹 적...",
+        "date": "2025-05-09 09:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=246134"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 신소재 '코닝 고릴라 글라스 세라믹 2' 탑재",
+        "date": "2025-05-09 09:28",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=237879"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:28",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=141162"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:26",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505090032"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션 진행",
+        "date": "2025-05-09 09:26",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=636146"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화된 신소재 '코닝® 고릴라® 글라스 세라믹...",
+        "date": "2025-05-09 09:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=387073"
+    },
+    {
+        "title": "삼성전자, 갤S25 엣지에 '코닝 글라스 세라믹2' 탑재…내구성 강화",
+        "date": "2025-05-09 09:25",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196168?sid=105"
+    },
+    {
+        "title": "LG유플러스, 30만원대 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:20",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112060"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지', 글라스 세라믹 적용…견고한 경험 제공",
+        "date": "2025-05-09 09:20",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=225924"
+    },
+    {
+        "title": "가성비 최고 LG U+, 30만원대 실속폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:18",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=225922"
+    },
+    {
+        "title": "LG유플러스, 30만원대 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:18",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=237878"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:18",
+        "link": "https://www.etoday.co.kr/news/view/2468900"
+    },
+    {
+        "title": "삼성전자, 초슬림 '갤럭시S25 엣지'에 내구성 강화 신소재 탑재",
+        "date": "2025-05-09 09:18",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=695115"
+    },
+    {
+        "title": "삼성, 초슬림 '갤럭시 S25 엣지'에 내구성 강화된 코닝 신규 글라스 세라...",
+        "date": "2025-05-09 09:16",
+        "link": "https://www.raonnews.com/news/article.html?no=47050"
+    },
+    {
+        "title": "LGU+,30만 원대 실속폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 09:16",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025050908400110060b8d776efa_1/article.html"
+    },
+    {
+        "title": "LGU+, 30만 원대 ‘갤럭시 버디4’ 출시",
+        "date": "2025-05-09 09:16",
+        "link": "https://n.news.naver.com/mnews/article/082/0001324910?sid=101"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:14",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=223922"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:14",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=650437"
+    },
+    {
+        "title": "갤럭시S25 엣지 전면 디스플레이는 '코닝 고릴라 세라믹 2'",
+        "date": "2025-05-09 09:14",
+        "link": "https://n.news.naver.com/mnews/article/031/0000930728?sid=105"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:14",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1199801"
+    },
+    {
+        "title": "LGU+, 실속형폰 ‘갤럭시 버디4’ 출시...가격 39만원",
+        "date": "2025-05-09 09:13",
+        "link": "https://n.news.naver.com/mnews/article/018/0006008717?sid=105"
+    },
+    {
+        "title": "LGU+, '갤럭시 버디4' 단독 출시…출고가 39만9300원",
+        "date": "2025-05-09 09:13",
+        "link": "https://n.news.naver.com/mnews/article/003/0013230689?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 신규 코닝 글라스 세라믹 탑재",
+        "date": "2025-05-09 09:12",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505090019"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 09:12",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316230"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:12",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211640"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지'에 신규 코닝 글라스 세라믹 적용",
+        "date": "2025-05-09 09:12",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=83638"
+    },
+    {
+        "title": "LG유플러스, 30만원대 폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571561546733"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:08",
+        "link": "https://www.viva100.com/article/20250509500108"
+    },
+    {
+        "title": "출고가 39만9300원…LG U+, 갤럭시 버디4 단독 출시",
+        "date": "2025-05-09 09:08",
+        "link": "https://n.news.naver.com/mnews/article/011/0004483208?sid=105"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션 진행",
+        "date": "2025-05-09 09:08",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=83639"
+    },
+    {
+        "title": "“MS·애플 양강구도에 균열?”…화웨이, 하모니OS 노트북 첫선",
+        "date": "2025-05-09 09:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005489412?sid=101"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지', '코닝 고릴라 글라스 세라믹 2' 탑재",
+        "date": "2025-05-09 09:06",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211637"
+    },
+    {
+        "title": "눈을 뜨면 꿈도 보인다…삼성 '무지개'의 30년 기적",
+        "date": "2025-05-09 09:06",
+        "link": "https://www.newspim.com/news/view/20250509000134"
+    },
+    {
+        "title": "삼성전자 비스포크 AI 콤보·OLED TV, 호주서 '최고 혁신상'",
+        "date": "2025-05-09 09:04",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=270680"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 코닝 글라스 세라믹 탑재…내구성 강화",
+        "date": "2025-05-09 09:04",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=176593"
+    },
+    {
+        "title": "LGU+, 실속형 스마트폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 09:02",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130139"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지', '코닝 고릴라 글라스 세라믹 2' 적용",
+        "date": "2025-05-09 09:02",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112057"
+    },
+    {
+        "title": "삼성전자 비스포크 AI 콤보·OLED TV, 호주서 '최고 혁신상' 선정",
+        "date": "2025-05-09 09:02",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211635"
+    },
+    {
+        "title": "LGU+, 30만원대 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002468607?sid=105"
+    },
+    {
+        "title": "2025 게이밍 기기 브랜드전",
+        "date": "2025-05-09 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54288"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:00",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60304"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 ‘갤럭시 버디4’ 단독 출시",
+        "date": "2025-05-09 09:00",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000071791"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=184611"
+    },
+    {
+        "title": "LG유플러스, 30만원대 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 09:00",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=16524"
+    },
+    {
+        "title": "LG U+, 갤럭시 A16 기반 '갤럭시 버디4' 단독 출시.. 39.93만원",
+        "date": "2025-05-09 09:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005347070?sid=105"
+    },
+    {
+        "title": "LGU+, 30만원대 실속형 스마트폰 '갤럭시 버디4' 출시",
+        "date": "2025-05-09 09:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008239385?sid=105"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 ‘갤럭시 버디4’ 출시…출고가 39만9300원",
+        "date": "2025-05-09 09:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002954055?sid=105"
+    },
+    {
+        "title": "삼성전자, 북미 시장 ‘갤럭시 S25’ 선제공급 확대, 관세 리스크 회피...",
+        "date": "2025-05-09 08:58",
+        "link": "https://www.socialvalue.kr/news/view/1065570744702572"
+    },
+    {
+        "title": "LG유플러스, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 08:56",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=420655"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디4' 단독 출시",
+        "date": "2025-05-09 08:54",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=241806"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지', 내구성 강화된 신소재 '코닝 고릴라 글라스...",
+        "date": "2025-05-09 08:54",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=67937"
+    },
+    {
+        "title": "삼성전자, 美 관세 불확실성에 갤럭시 S25 생산 80만 대 추가…미국 시...",
+        "date": "2025-05-09 08:52",
+        "link": "https://www.socialvalue.kr/news/view/1065570377667886"
+    },
+    {
+        "title": "갤럭시 S25 엣지, '코닝 고릴라 글라스 세라믹 2' 탑재",
+        "date": "2025-05-09 08:44",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=223917"
+    },
+    {
+        "title": "삼성 갤S25 엣지, 코닝 '고릴라 글라스 세라믹 2' 적용··· 내구성↑",
+        "date": "2025-05-09 08:40",
+        "link": "https://www.ajunews.com/view/20250509083643401"
+    },
+    {
+        "title": "갤럭시 S25 엣지, '코닝 고릴라 글라스 2' 적용 … 내구성 탁월",
+        "date": "2025-05-09 08:40",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/09/2025050900036.html"
+    },
+    {
+        "title": "“애플망고 맛보세요”…시그니엘 서울, ‘망고 프로모션’ 진행",
+        "date": "2025-05-09 08:39",
+        "link": "https://n.news.naver.com/mnews/article/018/0006008669?sid=101"
+    },
+    {
+        "title": "[Who Is ?] 신승영 에이텍 대표이사 회장",
+        "date": "2025-05-09 08:38",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394346"
+    },
+    {
+        "title": "'초슬림' 갤럭시S25 엣지, '코닝 고릴라 글라스 세라믹2' 탑재",
+        "date": "2025-05-09 08:37",
+        "link": "https://n.news.naver.com/mnews/article/008/0005191484?sid=105"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화된 신소재 '코닝® 고릴라® 글라스 세라믹...",
+        "date": "2025-05-09 08:36",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=420644"
+    },
+    {
+        "title": "지엘리서치 서울바이오시스, LED 원천 기술 중심 성장 전략 추진",
+        "date": "2025-05-09 08:36",
+        "link": "https://www.etoday.co.kr/news/view/2468876"
+    },
+    {
+        "title": "애플, 자체 모뎀 칩 개발 ‘퀄컴 대체 현실화’",
+        "date": "2025-05-09 08:35",
+        "link": "https://n.news.naver.com/mnews/article/123/0002358627?sid=004"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화 ‘신소재’ 입었다",
+        "date": "2025-05-09 08:32",
+        "link": "https://n.news.naver.com/mnews/article/016/0002468585?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지', 신규 코닝 글라스 세라믹 탑재",
+        "date": "2025-05-09 08:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015377376?sid=105"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 세라믹 입고 더 강해졌다",
+        "date": "2025-05-09 08:32",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26701"
+    },
+    {
+        "title": "삼성전자, 초슬림 'S25 엣지' 신소재 '코닝® 고릴라® 글라스 세라믹 2...",
+        "date": "2025-05-09 08:26",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401454"
+    },
+    {
+        "title": "가장 얇고 강한 갤럭시 S 등장, 삼성-코닝 차세대 '고릴라 글라스 세라...",
+        "date": "2025-05-09 08:24",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530890"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 내구성 강화된 신소재 '코닝® 고릴라® 글라스 세라믹...",
+        "date": "2025-05-09 08:22",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60293"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션",
+        "date": "2025-05-09 08:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0008239306?sid=101"
+    },
+    {
+        "title": "팀 쿡 애플 CEO 스마트안경 '집착'…전용칩 개발에 메타와 정면승부",
+        "date": "2025-05-09 08:15",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196160?sid=105"
+    },
+    {
+        "title": "'초슬림' 갤S25 엣지, 코닝 '고릴라 글라스 세라믹 2' 적용",
+        "date": "2025-05-09 08:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005589659?sid=105"
+    },
+    {
+        "title": "메타, 신형 스마트 안경에 '얼굴 인식' 기능 탑재 추진",
+        "date": "2025-05-09 08:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005589651?sid=105"
+    },
+    {
+        "title": "블룸버그 애플, 스마트 안경· AI 서버용 특수 칩 개발 중",
+        "date": "2025-05-09 08:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025050905545918373bc914ac71_1/article.html"
+    },
+    {
+        "title": "삼성 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
+        "date": "2025-05-09 08:00",
+        "link": "https://cwn.kr/article/1065601202084759"
+    },
+    {
+        "title": "애플, 조기 진단 시장 노린다…50만명 디지털 연구 착수",
+        "date": "2025-05-09 07:56",
+        "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=64230"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션 진행",
+        "date": "2025-05-09 07:50",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20250509074114650d3244b4fed_29"
+    },
+    {
+        "title": "시그니엘 서울, 여름시즌 '애플망고 디저트' 프로모션",
+        "date": "2025-05-09 07:38",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=641788"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 소재 사업부 매각 검토",
+        "date": "2025-05-09 07:16",
+        "link": "https://dealsite.co.kr/articles/141039"
+    },
+    {
+        "title": "롯데칠성음료, 사과 과즙 담은 에너지 음료 '핫식스 더킹 애플홀릭' 출...",
+        "date": "2025-05-09 07:14",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=636127"
+    },
+    {
+        "title": "[진격의 삼성디스플레이] 심화되는 중소형 OLED 경쟁…애플 '폴더블'로 ...",
+        "date": "2025-05-09 07:02",
+        "link": "https://dealsite.co.kr/articles/140939"
+    },
+    {
+        "title": "롯데하이마트, 기사회생 아이콘 되다...1분기 적자 폭 줄이며 반등 시...",
+        "date": "2025-05-09 07:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=446053"
+    },
+    {
+        "title": "【김형주, 장정민의 지속가능경영 스토리】이제는 선택이 아닌 필수...공...",
+        "date": "2025-05-09 06:58",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=15023"
+    },
+    {
+        "title": "더 얇고, 가볍다… 베일 벗는 ‘갤S25 엣지’",
+        "date": "2025-05-09 06:04",
+        "link": "https://n.news.naver.com/mnews/article/022/0004034009?sid=101"
+    },
+    {
+        "title": "구글·애플, 한국만 봉?…‘벼랑 끝’ 중소게임사, 인앱결제 수수료 인...",
+        "date": "2025-05-09 06:03",
+        "link": "https://n.news.naver.com/mnews/article/022/0004034000?sid=105"
+    },
+    {
+        "title": "美 관세 장벽에 中 디스플레이 공룡들 생산량 감축… 韓 기업에 호재 될...",
+        "date": "2025-05-09 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001075572?sid=105"
+    },
+    {
         "title": "“우리가 진짜 QLED TV”… 삼성전자, 獨서 인증 획득",
         "date": "2025-05-09 03:02",
         "link": "https://n.news.naver.com/mnews/article/020/0003633778?sid=101"
@@ -445,11 +1355,6 @@
         "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=325597"
     },
     {
-        "title": "이종혁 삼성디스플레이 부사장, 'SID 2025' 공로상 수상",
-        "date": "2025-05-08 14:14",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=406743"
-    },
-    {
         "title": "삼성전자 QLED TV, TUV '리얼 퀀텀닷 디스플레이' 인증",
         "date": "2025-05-08 14:10",
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2049094"
@@ -555,7 +1460,7 @@
         "link": "http://www.metroseoul.co.kr/article/20250508500191"
     },
     {
-        "title": "TSMC, 초기 수요 강세로 3나노 공정 안전 가동률 도달",
+        "title": "TSMC, 초기 수요 강세로 3나노 공정 완전 가동률 도달",
         "date": "2025-05-08 13:00",
         "link": "https://www.itbiznews.com/news/articleView.html?idxno=168011"
     },
@@ -1160,11 +2065,6 @@
         "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=246108"
     },
     {
-        "title": "아이폰 없는 세상 온다…에디 큐 애플 수석부사장, AI 검색에 구글이 수...",
-        "date": "2025-05-08 09:11",
-        "link": "https://n.news.naver.com/mnews/article/138/0002196044?sid=105"
-    },
-    {
         "title": "삼성전자 QLED TV, 독일 TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증",
         "date": "2025-05-08 09:10",
         "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=87225"
@@ -1178,11 +2078,6 @@
         "title": "삼성전자 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증",
         "date": "2025-05-08 09:10",
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=748062"
-    },
-    {
-        "title": "롯데칠성, '핫식스 더킹 애플홀릭' 출격",
-        "date": "2025-05-08 09:10",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26583"
     },
     {
         "title": "초박형 '갤럭시S25 엣지' 5월 13일 공개 확정.. 2억 화소 카메라 탑재 확...",
@@ -1227,12 +2122,12 @@
     {
         "title": "삼성전자 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
         "date": "2025-05-08 09:00",
-        "link": "http://thetracker.co.kr/View.aspx?No=3638698"
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=100603"
     },
     {
         "title": "삼성전자 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
         "date": "2025-05-08 09:00",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=100603"
+        "link": "http://thetracker.co.kr/View.aspx?No=3638698"
     },
     {
         "title": "삼성 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증",
@@ -1240,29 +2135,14 @@
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140084"
     },
     {
-        "title": "노안 만드는 긴 중안부, 애플리프팅으로 개선하자",
-        "date": "2025-05-08 09:00",
-        "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=47166"
-    },
-    {
         "title": "우리나라 최다 특허권자는 삼성전자…상표권자는 아모레퍼시픽",
         "date": "2025-05-08 09:00",
         "link": "https://n.news.naver.com/mnews/article/421/0008236725?sid=102"
     },
     {
-        "title": "롯데칠성음료, ‘핫식스 더킹 애플홀릭’ 선봬",
-        "date": "2025-05-08 08:58",
-        "link": "http://theviewers.co.kr/View.aspx?No=3638691"
-    },
-    {
         "title": "삼성전자 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
         "date": "2025-05-08 08:54",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1213050"
-    },
-    {
-        "title": "롯데칠성음료, '핫식스 더킹 애플홀릭' 출시",
-        "date": "2025-05-08 08:54",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=650186"
     },
     {
         "title": "삼성 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
@@ -1285,24 +2165,9 @@
         "link": "https://www.ajunews.com/view/20250508084905613"
     },
     {
-        "title": "롯데칠성음료, 사과 과즙 담은 '핫식스 더킹 애플홀릭' 출시",
-        "date": "2025-05-08 08:52",
-        "link": "https://n.news.naver.com/mnews/article/003/0013227958?sid=101"
-    },
-    {
         "title": "삼성전자 QLED TV, TUV 라인란드 '리얼 퀀텀닷 디스플레이' 인증 획득",
         "date": "2025-05-08 08:50",
         "link": "https://www.youthdaily.co.kr/news/article.html?no=184513"
-    },
-    {
-        "title": "사과 과즙 더한 에너지음료…롯데칠성, '핫식스 더킹 애플홀릭' 출시",
-        "date": "2025-05-08 08:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008236671?sid=101"
-    },
-    {
-        "title": "구글·애플 사파리 동맹 깨지나…애플 AI, 검색 엔진 대체할 것”",
-        "date": "2025-05-08 08:48",
-        "link": "https://n.news.naver.com/mnews/article/092/0002373388?sid=105"
     },
     {
         "title": "삼성전자 QLED TV, ‘리얼 퀀텀닷 디스플레이’ 인증 획득",
@@ -1330,19 +2195,9 @@
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211485"
     },
     {
-        "title": "롯데칠성음료, ‘핫식스 더킹 애플홀릭’ 출시",
-        "date": "2025-05-08 08:44",
-        "link": "https://news.mtn.co.kr/news-detail/2025050808420184408"
-    },
-    {
         "title": "삼성전자 QLED TV, ‘리얼 퀀텀닷 디스플레이’ 인증 획득",
         "date": "2025-05-08 08:43",
         "link": "https://n.news.naver.com/mnews/article/009/0005488641?sid=101"
-    },
-    {
-        "title": "롯데칠성음료, '핫식스 더킹 애플홀릭' 출시",
-        "date": "2025-05-08 08:42",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=241716"
     },
     {
         "title": "삼성전자 QLED TV, '리얼 퀀텀닷 디스플레이' 인증 획득",
@@ -1363,11 +2218,6 @@
         "title": "베일 벗는 '초슬림' 갤럭시…삼성전자, 갤S25 엣지 13일 공개",
         "date": "2025-05-08 08:39",
         "link": "https://n.news.naver.com/mnews/article/277/0005588942?sid=105"
-    },
-    {
-        "title": "롯데칠성음료, '핫식스 더킹 애플홀릭' 출시",
-        "date": "2025-05-08 08:38",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=244494"
     },
     {
         "title": "삼성전자 QLED TV, 獨 '리얼 퀀텀닷 디스플레이' 인증 획득",
@@ -1445,11 +2295,6 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015374681?sid=101"
     },
     {
-        "title": "애플 AI 검색, 결국 구글 대체할 것...사파리 검색량 첫 감소",
-        "date": "2025-05-08 08:04",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661837"
-    },
-    {
         "title": "[데이터뉴스]퀀텀닷, TV 이어 모니터·노트북으로 확산",
         "date": "2025-05-08 07:31",
         "link": "https://n.news.naver.com/mnews/article/030/0003310203?sid=105"
@@ -1470,29 +2315,9 @@
         "link": "https://dealsite.co.kr/articles/140857"
     },
     {
-        "title": "애플 AI가 검색엔진 대체할 것 ... 구글 모회사 알파벳 7% '폭락'",
-        "date": "2025-05-08 07:10",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=433562"
-    },
-    {
-        "title": "애플 임원 AI가 구글 등 검색엔진 대체할 것",
-        "date": "2025-05-08 07:06",
-        "link": "https://n.news.naver.com/mnews/article/293/0000066993?sid=105"
-    },
-    {
         "title": "LG디스플레이, 車 OLED ‘쾌속질주’…“車 OLED 대세, 3년내 3배로 키운...",
         "date": "2025-05-08 07:02",
         "link": "https://www.ceoscoredaily.com/page/view/2025050713531457651"
-    },
-    {
-        "title": "애플코리아, 역대 최고치 찍은 프리미엄 시장 강자",
-        "date": "2025-05-08 07:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=747814"
-    },
-    {
-        "title": "가성비 으뜸 샤오미, 삼성·애플 양강 구조 깰 수 있을까",
-        "date": "2025-05-08 07:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=747864"
     },
     {
         "title": "삼성 스마트폰, AI 혁신으로 시장 선도…하반기 성장 '청신호'",
