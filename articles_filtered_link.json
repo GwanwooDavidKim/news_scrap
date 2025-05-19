@@ -1,5 +1,765 @@
 [
     {
+        "title": "애스턴마틴, 아이폰 유저 위한 '애플 카플레이 울트라' 최초 탑재",
+        "date": "2025-05-19 13:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250519124858"
+    },
+    {
+        "title": "제니퍼룸, 여름 맞이 ‘폴더블 무선 선풍기’ 출시",
+        "date": "2025-05-19 12:57",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351455?sid=101"
+    },
+    {
+        "title": "美 정부 너네가 왜?...애플-알리바바 AI 제휴 우려",
+        "date": "2025-05-19 12:55",
+        "link": "https://www.newspim.com/news/view/20250519000590"
+    },
+    {
+        "title": "삼성전자, 2025 OLED TV '지싱크 호환' 인증",
+        "date": "2025-05-19 12:52",
+        "link": "https://n.news.naver.com/mnews/article/076/0004278206?sid=101"
+    },
+    {
+        "title": "고성능에 AI 경험까지 결합된 노트북 'MSI 벤처', 레드닷 디자인 수상",
+        "date": "2025-05-19 12:52",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182470"
+    },
+    {
+        "title": "유니씨앤씨, 5월 19일 오후 7시, 삼성전자 갤럭시북5 프로 아울렛위크 L...",
+        "date": "2025-05-19 12:40",
+        "link": "https://kbench.com/?q=node/267552"
+    },
+    {
+        "title": "Samsung Electronics OLED TV Receives NVIDIA G-Sync Compatibility Certific...",
+        "date": "2025-05-19 12:32",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=242590"
+    },
+    {
+        "title": "애스턴마틴, 아이폰 사용자 위한 ‘Apple CarPlay Ultra’ 최초 탑재",
+        "date": "2025-05-19 12:32",
+        "link": "https://kbench.com/?q=node/267550"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 12:30",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=263258"
+    },
+    {
+        "title": "이러다 노키아처럼… 1년전 AI 약속 어긴 애플, 내부서도 우려",
+        "date": "2025-05-19 12:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005195976?sid=104"
+    },
+    {
+        "title": "TSMC 2025년 웨이퍼 가격 인상으로 애플·삼성 영향",
+        "date": "2025-05-19 12:04",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=803489"
+    },
+    {
+        "title": "'베트남 국민기업' 삼성전자 1분기 실적 39% 급감..2016년 이후 최저",
+        "date": "2025-05-19 12:02",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351433?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증…게이밍 환경 최적화",
+        "date": "2025-05-19 12:00",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=44831"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-19 11:40",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=149064"
+    },
+    {
+        "title": "'애플 인텔리전스' 실패, 경영진 무관심과 프라이버시 정책이 발목",
+        "date": "2025-05-19 11:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566809"
+    },
+    {
+        "title": "삼성전자, '2025년형 OLED TV' 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 11:32",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=341883"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 ‘지싱크 호환’ 인증 획득",
+        "date": "2025-05-19 11:28",
+        "link": "https://www.hellot.net/news/article.html?no=101418"
+    },
+    {
+        "title": "삼성전자 '2025년형 OLED TV', 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 11:24",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=41107"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 연구, SID '올해의 우수논문' 선정",
+        "date": "2025-05-19 11:20",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=87565"
+    },
+    {
+        "title": "폴더블 아이폰 프로토타입, 터치ID 버전 테스트 중",
+        "date": "2025-05-19 11:14",
+        "link": "https://kbench.com/?q=node/267547"
+    },
+    {
+        "title": "[E Works] 삼성전자·LG전자·로보락",
+        "date": "2025-05-19 11:14",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=688935"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 11:12",
+        "link": "http://journal.kobeta.com/?post_type=post&p=59339"
+    },
+    {
+        "title": "폴더블 아이폰, 펀치 홀 카메라 탑재하나...내년 출시",
+        "date": "2025-05-19 11:12",
+        "link": "https://n.news.naver.com/mnews/article/030/0003313579?sid=104"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 11:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141012"
+    },
+    {
+        "title": "삼성전자, 25년형OLED TV '지싱크 호환' 인증···게이밍 경험 강화",
+        "date": "2025-05-19 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250519102806"
+    },
+    {
+        "title": "화면겹침·끊김 최소화로 게이밍↑ 삼성전자 OLED TV, 엔비디아 '지싱...",
+        "date": "2025-05-19 11:00",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=109348"
+    },
+    {
+        "title": "삼성·애플도 인정했다…IMEI 값만으론 복제폰 사용 불가",
+        "date": "2025-05-19 11:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005195904?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증…“최적의 게이밍 경험 제...",
+        "date": "2025-05-19 10:58",
+        "link": "https://www.kukinews.com/article/view/kuk202505190051"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-19 10:58",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=190253"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:56",
+        "link": "https://www.fetv.co.kr/news/article.html?no=192256"
+    },
+    {
+        "title": "제니퍼룸, 간편하게 접히는 '폴더블 선풍기' 출시",
+        "date": "2025-05-19 10:54",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=224559"
+    },
+    {
+        "title": "삼성전자, 스마트폰 외산 부품 탑재↑···카메라도 中 비중 늘어",
+        "date": "2025-05-19 10:52",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=411882"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:52",
+        "link": "https://n.news.naver.com/mnews/article/011/0004486937?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:52",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=87774"
+    },
+    {
+        "title": "애스턴마틴, 아이폰 사용자용 '애플 카플레이 울트라' 탑재",
+        "date": "2025-05-19 10:50",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316667"
+    },
+    {
+        "title": "삼성 OLED TV, 찢김·끊김 '최소화' 게이밍 '최적화'···지싱크 호환 인...",
+        "date": "2025-05-19 10:48",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2278446"
+    },
+    {
+        "title": "게이밍 최적화 삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증 받았다",
+        "date": "2025-05-19 10:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351351?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 순이익률 35% 육박 … OLED 투자 '속도전'",
+        "date": "2025-05-19 10:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/19/2025051900115.html"
+    },
+    {
+        "title": "보급형 강세 옛말?…동남아·중남미도 '프리미엄폰' 찾는다",
+        "date": "2025-05-19 10:40",
+        "link": "https://n.news.naver.com/mnews/article/015/0005133572?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:40",
+        "link": "https://www.cnbnews.com/news/article.html?no=726382"
+    },
+    {
+        "title": "애플은 왜 아직도 AI 혁명에서 뒤처지고 있는가",
+        "date": "2025-05-19 10:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006018049?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 ‘지싱크 호환’ 인증 획득…“게이밍 경험 강화...",
+        "date": "2025-05-19 10:34",
+        "link": "https://www.ceoscoredaily.com/page/view/2025051910062913223"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증 ... 티어링∙스...",
+        "date": "2025-05-19 10:32",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=68398"
+    },
+    {
+        "title": "삼성전자, 2025년형 OLED TV로 게이밍 강화…엔비디아 ‘지싱크 호환’ ...",
+        "date": "2025-05-19 10:28",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=177607"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:26",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=326557"
+    },
+    {
+        "title": "삼성전자, 역대 가장 슬림한 '갤럭시 S25 엣지' 공개…AI 성능 강화",
+        "date": "2025-05-19 10:22",
+        "link": "https://cwn.kr/article/1065575973745342"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:20",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526758"
+    },
+    {
+        "title": "애스턴마틴, 세계 최초로 ‘애플 카플레이 울트라’ 탑재한다",
+        "date": "2025-05-19 10:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006018032?sid=103"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 '지싱크' 획득…게이밍 성능 강화",
+        "date": "2025-05-19 10:14",
+        "link": "https://www.m-economynews.com/news/article.html?no=54586"
+    },
+    {
+        "title": "삼성전자 '2025년형 OLED TV' 엔비디아 지싱크 호환 인증 획득",
+        "date": "2025-05-19 10:14",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796242"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:10",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130350"
+    },
+    {
+        "title": "삼성전자, 2025년형 OLED TV 엔비디아 지싱크 호환 인증 획득",
+        "date": "2025-05-19 10:09",
+        "link": "https://n.news.naver.com/mnews/article/031/0000933232?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:09",
+        "link": "https://n.news.naver.com/mnews/article/421/0008258911?sid=101"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:09",
+        "link": "https://n.news.naver.com/mnews/article/421/0008258912?sid=101"
+    },
+    {
+        "title": "제니퍼룸, 여름 맞춤 '폴더블 무선 선풍기'로 감성 가전 시장 공략",
+        "date": "2025-05-19 10:08",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=716058"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증 획득...게이밍 환경...",
+        "date": "2025-05-19 10:06",
+        "link": "https://idsn.co.kr/news/view/1065574586246570"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:06",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3651866"
+    },
+    {
+        "title": "삼성전자, 정품 무한 잉크젯 복합기 'SL-T2170W' 카카오톡딜 진행",
+        "date": "2025-05-19 10:06",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54438"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증…게이밍 최적화",
+        "date": "2025-05-19 10:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196827?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 10:04",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401816"
+    },
+    {
+        "title": "락앤락 제니퍼룸, 실용성 겸비한 '폴더블 무선 선풍기' 출시",
+        "date": "2025-05-19 10:03",
+        "link": "https://www.newspim.com/news/view/20250519000244"
+    },
+    {
+        "title": "TSMC, 2025년 웨이퍼 가격 10% 인상…애플·삼성 영향권",
+        "date": "2025-05-19 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566757"
+    },
+    {
+        "title": "여름철 캠핑에 딱이네…제니퍼룸, 폴더블 선풍기 출시",
+        "date": "2025-05-19 09:59",
+        "link": "https://n.news.naver.com/mnews/article/003/0013250258?sid=101"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:56",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=421920"
+    },
+    {
+        "title": "삼성전자 OLED TV, '지싱크 호환' 인증 받아 게이밍 성능 강화",
+        "date": "2025-05-19 09:54",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574025483809"
+    },
+    {
+        "title": "삼성전자, 2025년형 OLED TV 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:54",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=80683"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:54",
+        "link": "https://www.mediapen.com/news/view/1016140"
+    },
+    {
+        "title": "삼성 올레드 TV, 엔비디아 지싱크 호환 인증…게이밍 최적화",
+        "date": "2025-05-19 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=267650"
+    },
+    {
+        "title": "알파스캔 Q27G4 시리즈 진화 완성판, 200Hz 프리미엄 게이밍 모니터 출시",
+        "date": "2025-05-19 09:52",
+        "link": "https://kbench.com/?q=node/267536"
+    },
+    {
+        "title": "삼성전자, OLED TV 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:50",
+        "link": "https://n.news.naver.com/mnews/article/215/0001209704?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 OLED TV에 엔비디아 지싱크 호환 인증 획득",
+        "date": "2025-05-19 09:48",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1240139"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV 엔비디아 '지싱크 호환' 인증, 게이밍 최적화",
+        "date": "2025-05-19 09:46",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395625"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 인증 … 게이밍 최적화",
+        "date": "2025-05-19 09:44",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54435"
+    },
+    {
+        "title": "삼성 OLED TV, 지싱크 호환 인증…게이밍 경쟁력 강화",
+        "date": "2025-05-19 09:44",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=845551"
+    },
+    {
+        "title": "써본 사람만 아는 시너지…로지텍·애플·삼성 등 3대 테크 페어링 추...",
+        "date": "2025-05-19 09:44",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=128837"
+    },
+    {
+        "title": "게임, 더 실감나게…삼성 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:43",
+        "link": "https://n.news.naver.com/mnews/article/008/0005195830?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 ‘게이밍 최적화’",
+        "date": "2025-05-19 09:42",
+        "link": "http://theviewers.co.kr/View.aspx?No=3649797"
+    },
+    {
+        "title": "제니퍼룸, '폴더블 선풍기' 출시",
+        "date": "2025-05-19 09:42",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212560"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:41",
+        "link": "https://n.news.naver.com/mnews/article/117/0003944518?sid=105"
+    },
+    {
+        "title": "삼성전자 '2025년형 OLED TV', 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:40",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=224528"
+    },
+    {
+        "title": "애스턴마틴, 세계 최초 '애플 카플레이 울트라' 탑재… 인포테인먼트 혁...",
+        "date": "2025-05-19 09:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531227"
+    },
+    {
+        "title": "하루 못 간다? 아이폰 17 에어, 충격적인 배터리 성능에 실사용성 논란",
+        "date": "2025-05-19 09:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531226"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:38",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202505190935349238a310e76584_30"
+    },
+    {
+        "title": "게이머를 잡아라…삼성전자, OLED TV '지싱크 호환' 인증",
+        "date": "2025-05-19 09:38",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139830"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:36",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=750059"
+    },
+    {
+        "title": "애플, WWDC 2025서 시리 AI 언급 최소화…재설계·새전략 '안간힘'",
+        "date": "2025-05-19 09:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196820?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:34",
+        "link": "http://www.datanews.co.kr/news/article.html?no=138693"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:34",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=109123"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:34",
+        "link": "https://n.news.naver.com/mnews/article/119/0002957749?sid=101"
+    },
+    {
+        "title": "“최적의 게이밍 환경”…삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:32",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955499?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:30",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3044582"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:26",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=696292"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:24",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=91085"
+    },
+    {
+        "title": "접히는 무선 선풍기…제니퍼룸, ‘폴더블 선풍기’ 출시",
+        "date": "2025-05-19 09:24",
+        "link": "https://n.news.naver.com/mnews/article/018/0006017950?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374742?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, ‘지싱크 호환’ 인증",
+        "date": "2025-05-19 09:22",
+        "link": "https://www.viva100.com/article/20250519500073"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 ‘지싱크 호환’ 인증… 게이밍 최적화",
+        "date": "2025-05-19 09:21",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078255?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:20",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=232759"
+    },
+    {
+        "title": "삼성전자 '2025년형 OLED TV', 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:20",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=644530"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:20",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051908352749876ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:20",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238191"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 지싱크 호환 인증…최적의 게이밍 경험 제공",
+        "date": "2025-05-19 09:18",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=101422"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 ‘지싱크 호환’ 인증 획득",
+        "date": "2025-05-19 09:16",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=72474"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:14",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2054060"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 09:12",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=84439"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:10",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177231"
+    },
+    {
+        "title": "최적의 게이밍 경험…삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:08",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=87554"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:08",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212534"
+    },
+    {
+        "title": "'갤럭시Z 폴드7' 초슬림 디자인 위해 S펜 디지타이저 빼고 티타늄 백플...",
+        "date": "2025-05-19 09:06",
+        "link": "https://kbench.com/?q=node/267530"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증…'최적의 게이밍 경...",
+        "date": "2025-05-19 09:04",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=271337"
+    },
+    {
+        "title": "삼성전자, OLED TV 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 09:04",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=81080"
+    },
+    {
+        "title": "삼성 올레드 TV, 엔비디아 지싱크 호환 인증…게이밍 최적화",
+        "date": "2025-05-19 09:03",
+        "link": "https://n.news.naver.com/mnews/article/003/0013250073?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-19 09:00",
+        "link": "http://thetracker.co.kr/View.aspx?No=3649742"
+    },
+    {
+        "title": "LG Display Wins Top Honor for OLED Research",
+        "date": "2025-05-19 09:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=242505"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:58",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=185413"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:58",
+        "link": "http://www.segyebiz.com/newsView/20250519503303?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:58",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1206614"
+    },
+    {
+        "title": "삼성 OLED TV, 게이머 사로잡는다..엔비디아·AMD 인증 동시 획득",
+        "date": "2025-05-19 08:56",
+        "link": "http://kpenews.com/View.aspx?No=3649727"
+    },
+    {
+        "title": "美 의회, 애플·알리바바 AI 협력에 강한 우려 표명",
+        "date": "2025-05-19 08:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566730"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 '지싱크' 인증 획득",
+        "date": "2025-05-19 08:54",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7112427"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증 획득…게이밍 경쟁력 강...",
+        "date": "2025-05-19 08:53",
+        "link": "https://www.newspim.com/news/view/20250519000056"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:50",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086160"
+    },
+    {
+        "title": "'삼성 파트너' 유티아이, 베트남 두 번째 생산거점 구축...글로벌 고객사...",
+        "date": "2025-05-19 08:50",
+        "link": "https://www.theguru.co.kr/news/article.html?no=87082"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증…'화면 끊김' 최소화",
+        "date": "2025-05-19 08:49",
+        "link": "https://n.news.naver.com/mnews/article/030/0003313457?sid=105"
+    },
+    {
+        "title": "삼성전자 'OLED TV', 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-19 08:48",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112318"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 '지싱크 호환' 인증...최적의 게이밍 경험 제공",
+        "date": "2025-05-19 08:42",
+        "link": "https://www.raonnews.com/news/article.html?no=47334"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:42",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000072367"
+    },
+    {
+        "title": "삼성전자 2025 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 08:40",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=450327"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=388306"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1217596"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3271068"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 '지싱크 호환' 인증…게임 '화면 끊김' 줄였다",
+        "date": "2025-05-19 08:32",
+        "link": "https://n.news.naver.com/mnews/article/277/0005594437?sid=101"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-19 08:32",
+        "link": "https://n.news.naver.com/mnews/article/417/0001077673?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 '지싱크 호환' 인증…게이밍 최적화",
+        "date": "2025-05-19 08:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015396615?sid=101"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증 획득",
+        "date": "2025-05-19 08:30",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226539"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 '지싱크 호환' 인증",
+        "date": "2025-05-19 08:28",
+        "link": "https://www.ajunews.com/view/20250519082445863"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 ‘지싱크 호환’ 인증 획득",
+        "date": "2025-05-19 08:24",
+        "link": "https://n.news.naver.com/mnews/article/016/0002472794?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 인증받았다…게이밍 최적화",
+        "date": "2025-05-19 08:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006017840?sid=101"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:22",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=647504"
+    },
+    {
+        "title": "삼성전자 OLED TV, 엔비디아 지싱크 호환 인증…게이밍 환경 최적화",
+        "date": "2025-05-19 08:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663213"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:20",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60754"
+    },
+    {
+        "title": "삼성 2025년형 OLED TV, 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:18",
+        "link": "https://www.etoday.co.kr/news/view/2471460"
+    },
+    {
+        "title": "삼성 OLED TV, 엔비디아 지싱크 호환 인증…게이밍 경험 최적화",
+        "date": "2025-05-19 08:14",
+        "link": "https://n.news.naver.com/mnews/article/421/0008258533?sid=101"
+    },
+    {
+        "title": "삼성 2025 OLED, AMD에 이어 엔비디아도 잡았다, '지싱크 호환' 공식 인증",
+        "date": "2025-05-19 08:14",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531211"
+    },
+    {
+        "title": "삼성전자, 2025년형 OLED TV '엔비디아 지싱크 호환' 인증",
+        "date": "2025-05-19 08:10",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3035124"
+    },
+    {
+        "title": "삼성전자, '2025년형 OLED TV' 엔비디아 지싱크 호환 인증",
+        "date": "2025-05-19 08:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=344921"
+    },
+    {
+        "title": "애플, '카플레이 울트라' 공식 출시…애스턴마틴 차량에 최초 적용",
+        "date": "2025-05-19 08:04",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=128816"
+    },
+    {
+        "title": "[모바일 On] 폴더블 아이폰, 내년 출시 앞두고 ‘펀치홀 카메라’ 탑재...",
+        "date": "2025-05-19 07:36",
+        "link": "https://kidd.co.kr/news/241617"
+    },
+    {
+        "title": "삼성 '갤워치8', 미국 FCC서 전파인증 획득…언팩서 공개",
+        "date": "2025-05-19 07:16",
+        "link": "https://dealsite.co.kr/articles/141649"
+    },
+    {
+        "title": "야스, 8세대 IT OLED 진입 초읽기…비전옥스 납품 기대",
+        "date": "2025-05-19 07:02",
+        "link": "https://dealsite.co.kr/articles/141573"
+    },
+    {
+        "title": "트럼프 불만에 시험대 오른 애플의 인도 러브스토리",
+        "date": "2025-05-19 06:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48114"
+    },
+    {
+        "title": "합천군, 당도 높은 ‘애플수박’ 본격 출하",
+        "date": "2025-05-19 05:02",
+        "link": "https://n.news.naver.com/mnews/article/662/0000068912?sid=102"
+    },
+    {
         "title": "기술의 K디스플레이, 프리미엄 IT 기기 파트너로 부상",
         "date": "2025-05-19 05:00",
         "link": "https://www.etoday.co.kr/news/view/2470796"
@@ -360,14 +1120,14 @@
         "link": "https://www.youthdaily.co.kr/news/article.html?no=185379"
     },
     {
-        "title": "LGD, 4세대 OLED 패널 연구 성과로 SID '올해의 우수논문' 선정",
-        "date": "2025-05-18 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212517"
-    },
-    {
         "title": "LG디스플레이, OLED 패널 신기술 연구 논문 '올해의 우수논문'선정",
         "date": "2025-05-18 10:00",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=91056"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 연구 성과로 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212517"
     },
     {
         "title": "LG디스플레이, 4세대 OLED 논문 'SID 우수논문' 선정",
