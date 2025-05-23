@@ -1,5 +1,820 @@
 [
     {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시...5.8mm 초슬림폰",
+        "date": "2025-05-23 12:52",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=452766"
+    },
+    {
+        "title": "[위키뉴스] 느좋 전시 그 자체 익선동 핫플로 떠오른 '애플 박물관을...",
+        "date": "2025-05-23 12:42",
+        "link": "https://www.wikitree.co.kr/articles/1052362"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 12:38",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=111563"
+    },
+    {
+        "title": "애플, 내년 말 '스마트 안경' 출시 계획…메타·구글과 경쟁 본격화",
+        "date": "2025-05-23 12:05",
+        "link": "https://n.news.naver.com/mnews/article/586/0000103943?sid=101"
+    },
+    {
+        "title": "카메라 탑재 애플워치 중단 애플, 내년 공개할 AI 기반 '스마트 글래스...",
+        "date": "2025-05-23 12:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531453"
+    },
+    {
+        "title": "애플, 인도에 2조원 공장 추진…공급망 탈중국 가속화",
+        "date": "2025-05-23 11:51",
+        "link": "https://n.news.naver.com/mnews/article/003/0013260917?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:40",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1064987"
+    },
+    {
+        "title": "[단독] 에이스PE가 투자한 DTK, 자동차 전장사업 나선다 [넘버스]",
+        "date": "2025-05-23 11:39",
+        "link": "https://n.news.naver.com/mnews/article/293/0000067717?sid=101"
+    },
+    {
+        "title": "애플, 내년 말 스마트 안경 출시..내비게이션 기능도 제공",
+        "date": "2025-05-23 11:36",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202505231107301638"
+    },
+    {
+        "title": "[재계는 지금] 삼성전자, '갤럭시 S25 엣지' 국내 출시 外",
+        "date": "2025-05-23 11:34",
+        "link": "https://dealsite.co.kr/articles/142008"
+    },
+    {
+        "title": "삼성전자, 초슬림 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:28",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=45246"
+    },
+    {
+        "title": "초슬림 ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002475419?sid=105"
+    },
+    {
+        "title": "스마트폰 다음은 안경? 애플, 내년말 출시…메타·삼성과 경쟁",
+        "date": "2025-05-23 11:25",
+        "link": "https://n.news.naver.com/mnews/article/008/0005198307?sid=104"
+    },
+    {
+        "title": "이상화, 땀 뻘뻘 인증샷 공개… ‘애플힙’ 만들려 집중하는 운동은?",
+        "date": "2025-05-23 11:21",
+        "link": "https://n.news.naver.com/mnews/article/346/0000092306?sid=103"
+    },
+    {
+        "title": "삼성전자, 초슬림 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:20",
+        "link": "http://www.mhj21.com/167101"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지' 국내 출시...5.8mm 초슬림·163g 초경량 디자...",
+        "date": "2025-05-23 11:18",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=71970"
+    },
+    {
+        "title": "삼성전자, 초슬림 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:18",
+        "link": "http://www.hg-times.com/news/articleView.html?idxno=272226"
+    },
+    {
+        "title": "기술 패권 시대 산업 기술 보호 어떻게 할 것인가 | 중국 BOE, 하이디스의...",
+        "date": "2025-05-23 11:18",
+        "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=C&nNewsNumb=202506100026"
+    },
+    {
+        "title": "'갤럭시 S25 엣지' 국내 출시···5.8㎜ 초슬림·163g 초경량",
+        "date": "2025-05-23 11:18",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=64424"
+    },
+    {
+        "title": "구글 스마트 안경 출격…‘마이크로 OLED’ 선익시스템 순매수 1위 [주식...",
+        "date": "2025-05-23 11:18",
+        "link": "https://n.news.naver.com/mnews/article/011/0004488874?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:12",
+        "link": "http://www.thepowernews.co.kr/news/articleView.html?idxno=156345"
+    },
+    {
+        "title": "쓰고 시리야 하면 실시간으로...베일 벗는 애플 '스마트 안경' [지금이...",
+        "date": "2025-05-23 11:11",
+        "link": "https://n.news.naver.com/mnews/article/052/0002196872?sid=104"
+    },
+    {
+        "title": "중국 소비자들이 온라인서 가장 선호하는 브랜드는?..'애플'",
+        "date": "2025-05-23 11:04",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=147648"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 11:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=396386"
+    },
+    {
+        "title": "'아재폰' 이미지 벗나...삼성전자, 초슬림 스마트폰 갤럭시 S25 엣지 공식...",
+        "date": "2025-05-23 10:54",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140103"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 출시…1030세대 구매 비중이 절반 이상",
+        "date": "2025-05-23 10:52",
+        "link": "http://www.it-b.co.kr/news/articleView.html?idxno=82006"
+    },
+    {
+        "title": "삼성전자, 갤럭시S25 엣지로 프리미엄 초슬림폰 시대 개막",
+        "date": "2025-05-23 10:52",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=327074"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:48",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=342157"
+    },
+    {
+        "title": "초슬림·초경량·내구성 다 잡았다…‘갤S25 엣지’ 공식 출격",
+        "date": "2025-05-23 10:45",
+        "link": "https://n.news.naver.com/mnews/article/022/0004037875?sid=101"
+    },
+    {
+        "title": "초슬림폰 시장 선점 나선다…'5.8㎜' 갤럭시S25 엣지 공식 출시",
+        "date": "2025-05-23 10:45",
+        "link": "https://n.news.naver.com/mnews/article/629/0000392476?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:44",
+        "link": "https://kbench.com/?q=node/267744"
+    },
+    {
+        "title": "삼성전자, 초슬림·초경량 '갤럭시 S25 엣지' 국내 출시...256GB 149만6000원",
+        "date": "2025-05-23 10:44",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=402051"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:44",
+        "link": "http://www.lawissue.co.kr/view.php?ud=2025052310425918739817d053b9_12"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:42",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=822225"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지' 국내 출시…브이로그 촬영에도 최적",
+        "date": "2025-05-23 10:40",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238420"
+    },
+    {
+        "title": "'가전 맞수' 삼성·LG, OLED TV 이어 세탁건조기 점유율 공방",
+        "date": "2025-05-23 10:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663854"
+    },
+    {
+        "title": "삼성전자, 7월 갤럭시 언팩에서 차기 폴더블폰 3종 발표하나?",
+        "date": "2025-05-23 10:36",
+        "link": "https://kbench.com/?q=node/267739"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 엣지 국내 출시...가장 인기 높은 색상 '티타늄 실...",
+        "date": "2025-05-23 10:32",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=245444"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=81185"
+    },
+    {
+        "title": "스마트 안경 글로벌 개발경쟁 '후끈'...메타·구글 이어 애플도 '도전장...",
+        "date": "2025-05-23 10:30",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=11341"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 ‘갤S25 엣지’ 국내 출시…149만원부터",
+        "date": "2025-05-23 10:28",
+        "link": "https://www.ceoscoredaily.com/page/view/2025052310165339743"
+    },
+    {
+        "title": "삼성전자, 초슬림·초경량 '갤럭시 S25 엣지' 국내 출시…1030세대 '인기...",
+        "date": "2025-05-23 10:26",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=637377"
+    },
+    {
+        "title": "삼성, 초슬림 ‘갤럭시 S25 엣지’ 국내 출시…티타늄 실버 인기",
+        "date": "2025-05-23 10:26",
+        "link": "https://www.ekn.kr/web/view.php?key=20250523026559742"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 사전 예약 마치고 공식 출시... '초슬림폰' 시장...",
+        "date": "2025-05-23 10:22",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800362"
+    },
+    {
+        "title": "애플, AI 탑재 스마트 안경 2026년 출시설…시리는 보고, 듣고, 말하게...",
+        "date": "2025-05-23 10:20",
+        "link": "https://www.cnet.co.kr/view/?no=20250523101228"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:14",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052309402852396ed0c62d49_1/article.html"
+    },
+    {
+        "title": "AI 시대 '킬러 디바이스' AR 글래스… 사피엔반도체, 마이크로OLED 기술력...",
+        "date": "2025-05-23 10:12",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=346322"
+    },
+    {
+        "title": "삼성전자, 갤럭시S25 엣지 출시···두께 줄였지만, 성능 그대로",
+        "date": "2025-05-23 10:11",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=558160"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:10",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=698505"
+    },
+    {
+        "title": "“AI 시대의 분기점” 애플은 멈췄고 구글은 달린다",
+        "date": "2025-05-23 10:10",
+        "link": "https://www.itworld.co.kr/article/3993658/ai-시대의-분기점-애플은-멈췄고-구글은-달린다.html"
+    },
+    {
+        "title": "시장조사업체 1분기 소형 OLED 출하량 역대 최고, 패널 가격 상승 전망...",
+        "date": "2025-05-23 10:08",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=396358"
+    },
+    {
+        "title": "역대 가장 얇다…삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 10:08",
+        "link": "http://www.datanews.co.kr/news/article.html?no=138800"
+    },
+    {
+        "title": "애플, 스마트 안경 개발 박차...내년 말 출시 계획",
+        "date": "2025-05-23 10:06",
+        "link": "https://www.ajunews.com/view/20250523095359160"
+    },
+    {
+        "title": "1분기 소형 OLED 출하량, 역대 최대...10.7%↑",
+        "date": "2025-05-23 10:05",
+        "link": "https://n.news.naver.com/mnews/article/014/0005353691?sid=101"
+    },
+    {
+        "title": "‘초슬림·초경량’ 삼성전자, ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 10:03",
+        "link": "https://n.news.naver.com/mnews/article/468/0001149262?sid=101"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 엣지로 아이폰 17 에어 출시 앞두고 슬림폰 시장 탐색",
+        "date": "2025-05-23 10:03",
+        "link": "https://n.news.naver.com/mnews/article/640/0000070647?sid=105"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 '갤럭시 S25 엣지' 국내 본격 출시",
+        "date": "2025-05-23 10:02",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=110586"
+    },
+    {
+        "title": "“소형 OLED 패널, 역대 1분기 최대 출하… 中 성장 가팔라”",
+        "date": "2025-05-23 10:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001079519?sid=105"
+    },
+    {
+        "title": "젊은 세대 잡았다…삼성전자 갤럭시 S25 엣지 국내 출시",
+        "date": "2025-05-23 10:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=697063"
+    },
+    {
+        "title": "삼성, 역대 초슬림 '갤럭시 S25 엣지' 23일 국내 공식 출시",
+        "date": "2025-05-23 10:00",
+        "link": "https://www.raonnews.com/news/article.html?no=47485"
+    },
+    {
+        "title": "스마트폰용 소형 OLED 패널 출하량, 역대 1분기 최대",
+        "date": "2025-05-23 10:00",
+        "link": "https://www.ajunews.com/view/20250523095619164"
+    },
+    {
+        "title": "샤오미, 첫 자체 스마트폰 칩 출시로 애플에 도전장",
+        "date": "2025-05-23 09:54",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052309510714580c8c1c064d_1/article.html"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:54",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=190415"
+    },
+    {
+        "title": "애플, 메타·구글과 스마트 안경 경쟁 돌입…2026년 출시 계획",
+        "date": "2025-05-23 09:52",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1220341"
+    },
+    {
+        "title": "'갤럭시 S25 시리즈' 라인업의 완성…삼성전자, '갤럭시 S25 엣지' 국내...",
+        "date": "2025-05-23 09:52",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=103592"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:52",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=224897"
+    },
+    {
+        "title": "'갤럭시 S25 엣지' 국내 출시…인기 색상은 티타늄 실버",
+        "date": "2025-05-23 09:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268177"
+    },
+    {
+        "title": "삼성전자, 5.8mm 갤럭시 S25 엣지 국내 출시",
+        "date": "2025-05-23 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567616"
+    },
+    {
+        "title": "30만원대인데 애플워치 울트라급 성능?…화웨이 신형 스마트워치 눈길",
+        "date": "2025-05-23 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567658"
+    },
+    {
+        "title": "샤오미 회장 경쟁상대는 애플...고성능 칩 휴대폰으로 아이폰과 경쟁",
+        "date": "2025-05-23 09:50",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=652600"
+    },
+    {
+        "title": "애플TV플러스 '리치 아메리칸 걸스' 시즌2, 예고편 공개",
+        "date": "2025-05-23 09:48",
+        "link": "https://m.entertain.naver.com/article/119/0002959894"
+    },
+    {
+        "title": "1030 사로잡았다…'초슬림+AI' 다잡은 삼성 '갤럭시S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:47",
+        "link": "https://n.news.naver.com/mnews/article/117/0003946158?sid=105"
+    },
+    {
+        "title": "MS, 윈도11에 크로스 디자이스 지원 강화…애플 핸드오프와 유사",
+        "date": "2025-05-23 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567642"
+    },
+    {
+        "title": "삼성전자, 초슬림 ‘갤럭시 S25 엣지’ 국내 출시…젊은층 공략",
+        "date": "2025-05-23 09:44",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=178115"
+    },
+    {
+        "title": "애플, 무선이어폰 시장 장악…中 샤오미, 삼성 제치고 2위",
+        "date": "2025-05-23 09:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567637"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시... 2억 화소 고화질 카메라부터...",
+        "date": "2025-05-23 09:42",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35036"
+    },
+    {
+        "title": "삼성전자 'S25 엣지' 구매고객 절반 '1030'…니치 전략 통해",
+        "date": "2025-05-23 09:42",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796896"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:40",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=120274"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:40",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=17139"
+    },
+    {
+        "title": "'초슬림에 AI까지 담다'…'갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:40",
+        "link": "https://www.m-economynews.com/news/article.html?no=54794"
+    },
+    {
+        "title": "삼성 초슬림폰 '갤S25 엣지' 23일 출시…149만원부터",
+        "date": "2025-05-23 09:39",
+        "link": "https://n.news.naver.com/mnews/article/031/0000934708?sid=105"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3273057"
+    },
+    {
+        "title": "세상에서 가장 얇은 스마트폰···삼성전자, '갤럭시 S25 엣지' 국내 ...",
+        "date": "2025-05-23 09:38",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=264486"
+    },
+    {
+        "title": "삼성전자, 역대 가장 얇은 ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 09:38",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=72673"
+    },
+    {
+        "title": "삼성, 5.8㎜ 초슬림폰 '갤럭시 S25 엣지' 출시",
+        "date": "2025-05-23 09:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006021279?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:32",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210271?sid=101"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 '갤럭시S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:30",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141396"
+    },
+    {
+        "title": "애플, 스마트 글래스 개발 가속…메타 레이밴에 도전장",
+        "date": "2025-05-23 09:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663841"
+    },
+    {
+        "title": "초슬림폰 '갤럭시 S25 엣지' 국내 출시…149만6000원부터",
+        "date": "2025-05-23 09:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197221?sid=105"
+    },
+    {
+        "title": "초슬림∙초경량… 삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:28",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3044829"
+    },
+    {
+        "title": "1분기 소형 OLED 2.4억대 출하…삼성·LG디스플레이, 하반기 애플 효과 ...",
+        "date": "2025-05-23 09:28",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197220?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 5.8mm 초슬림으로 젊은층 사로잡아",
+        "date": "2025-05-23 09:26",
+        "link": "http://kpenews.com/View.aspx?No=3655299"
+    },
+    {
+        "title": "삼성전자 첫 슬림형 '갤럭시S25 엣지' 23일부터 시판",
+        "date": "2025-05-23 09:26",
+        "link": "https://www.newstree.kr/newsView/ntr202505230001"
+    },
+    {
+        "title": "삼성전자, 초슬림·초경량폰 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:24",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202505230921244154be44c0aacd_30"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:24",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=233545"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 출시…5.8mm 초슬림으로 스마트폰 새 기준",
+        "date": "2025-05-23 09:24",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=109365"
+    },
+    {
+        "title": "갤럭시 S25 엣지, 오늘부터 출시…월 5900원에 구독도 가능",
+        "date": "2025-05-23 09:23",
+        "link": "https://n.news.naver.com/mnews/article/374/0000442148?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시…사전판매 인기 이어간다",
+        "date": "2025-05-23 09:22",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=271770"
+    },
+    {
+        "title": "오픈AI 합류한 '아이폰 디자인의 대부…내년 GPT 전용 기기 내놓나",
+        "date": "2025-05-23 09:22",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268155"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 S25 엣지’ 국내 판매 시작",
+        "date": "2025-05-23 09:22",
+        "link": "https://www.news2day.co.kr/article/20250523500054"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:20",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=84960"
+    },
+    {
+        "title": "삼성전자, 초슬림 전략폰 ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 09:20",
+        "link": "https://sateconomy.co.kr/news/view/1065572133406897"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시…젊은 세대 높은 관심",
+        "date": "2025-05-23 09:18",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=88124"
+    },
+    {
+        "title": "소형 OLED 패널 출하량 2억4300만대…역대 1분기 최대",
+        "date": "2025-05-23 09:18",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1220291"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시...젊은세대 선호도 ↑",
+        "date": "2025-05-23 09:16",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=213038"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 09:16",
+        "link": "http://theviewers.co.kr/View.aspx?No=3655276"
+    },
+    {
+        "title": "삼성 초슬림폰 `갤럭시S25 엣지` 출시…10·30세대 절반 이상 선택",
+        "date": "2025-05-23 09:14",
+        "link": "https://n.news.naver.com/mnews/article/029/0002956731?sid=105"
+    },
+    {
+        "title": "[K-VIBE] 노석준의 메타버스 세상…메타버스의 영역과 경계-②",
+        "date": "2025-05-23 09:13",
+        "link": "https://n.news.naver.com/mnews/article/001/0015406407?sid=105"
+    },
+    {
+        "title": "가성비 화이트 데스크 홈 게이밍 모니터, 제이씨현 UDEA EDGE ED2732PF 유케...",
+        "date": "2025-05-23 09:12",
+        "link": "https://kbench.com/?q=node/267717"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시...1030 인기",
+        "date": "2025-05-23 09:12",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=229489"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 ‘갤럭시 S25 엣지’ 국내 출시",
+        "date": "2025-05-23 09:10",
+        "link": "https://www.viva100.com/article/20250523500075"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 엣지 출시 … 슬림폰 흥행몰이",
+        "date": "2025-05-23 09:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/23/2025052300037.html"
+    },
+    {
+        "title": "애플, 2026년 스마트 안경 출시 계획…메타·구글과 기술 경쟁 본격화",
+        "date": "2025-05-23 09:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15675093"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:08",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=527174"
+    },
+    {
+        "title": "소형 OLED 1분기 출하량 2.4억대 '분기 사상 최고치'",
+        "date": "2025-05-23 09:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375419?sid=105"
+    },
+    {
+        "title": "삼성전자, 초슬림·초경량·성능甲 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:04",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112485"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:04",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=101878"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 09:04",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1210843"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시...초슬림∙초경량 승부",
+        "date": "2025-05-23 09:02",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=751176"
+    },
+    {
+        "title": "‘역대 가장 얇은 S시리즈’ 갤럭시S25 엣지 국내 출시",
+        "date": "2025-05-23 09:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002475217?sid=105"
+    },
+    {
+        "title": "삼성전자, 초슬림·AI 성능 갖춘 '갤럭시 S25 엣지' 23일 출시",
+        "date": "2025-05-23 09:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250523082607"
+    },
+    {
+        "title": "삼성, 초슬림 스마트폰 '갤럭시S25 엣지' 국내 정식 출시",
+        "date": "2025-05-23 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=169760"
+    },
+    {
+        "title": "삼성전자, '갤S25 엣지' 출격…노태문 초슬림 가치경험",
+        "date": "2025-05-23 08:58",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2056922"
+    },
+    {
+        "title": "초슬림 삼성 '갤럭시S25 엣지' 국내 출시...149만원부터",
+        "date": "2025-05-23 08:58",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375416?sid=105"
+    },
+    {
+        "title": "LG 올레드 TV, 유럽 판매 1천만 대 돌파...'12년 아성' 빛났다",
+        "date": "2025-05-23 08:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202505230845198436fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "애플, 내년에 스마트 안경 출시...메타와 직접 경쟁",
+        "date": "2025-05-23 08:56",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375414?sid=105"
+    },
+    {
+        "title": "1분기 소형 OLED 패널 출하, 역대 1분기 최대…中 업체들 성장",
+        "date": "2025-05-23 08:54",
+        "link": "https://n.news.naver.com/mnews/article/001/0015406372?sid=101"
+    },
+    {
+        "title": "2시간 전 '오픈런'도 하더니…1030세대, 초슬림폰 꽂혔다",
+        "date": "2025-05-23 08:54",
+        "link": "https://n.news.naver.com/mnews/article/015/0005135565?sid=105"
+    },
+    {
+        "title": "애플, AI 탑재 스마트 글라스로 메타에 도전장…내년 말 생산 돌입",
+        "date": "2025-05-23 08:52",
+        "link": "https://www.tokenpost.kr/news/tech/250545"
+    },
+    {
+        "title": "최상의 기술력 응집…삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:50",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=185778"
+    },
+    {
+        "title": "'갤럭시 S25 엣지' 국내 출시…인기 색상은 티타늄 실버",
+        "date": "2025-05-23 08:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0013260334?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 정식 출시",
+        "date": "2025-05-23 08:50",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1220255"
+    },
+    {
+        "title": "애플, 내년 말 스마트 안경 출시..내비게이션 기능도 제공",
+        "date": "2025-05-23 08:49",
+        "link": "https://n.news.naver.com/mnews/article/052/0002196797?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:48",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=81576"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:46",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=388991"
+    },
+    {
+        "title": "애플, 내년 AI 스마트글래스 출시...메타 레이밴과 경쟁[모닝폰]",
+        "date": "2025-05-23 08:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006021191?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:45",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000072722"
+    },
+    {
+        "title": "안경 쓰고 시리야...애플 신제품 내년 출시 계획",
+        "date": "2025-05-23 08:43",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210260?sid=004"
+    },
+    {
+        "title": "“애플, 2026년 말 스마트 안경 출시 계획”…메타·구글과 경쟁",
+        "date": "2025-05-23 08:39",
+        "link": "https://n.news.naver.com/mnews/article/056/0011957145?sid=104"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 엣지' 국내 출시..5.8㎜ 초슬림·163g 초경량",
+        "date": "2025-05-23 08:34",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086603"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:32",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=648393"
+    },
+    {
+        "title": "삼성전자, 5.8mm 초슬림폰 '갤럭시 S25 엣지' 출시",
+        "date": "2025-05-23 08:28",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663819"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시… 티타늄 프레임에 AI 기능 강화",
+        "date": "2025-05-23 08:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=346274"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시…젊은세대 뜨거운 관심",
+        "date": "2025-05-23 08:22",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226891"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:18",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=91638"
+    },
+    {
+        "title": "애플, 2026년 말 스마트 안경 출시 계획…메타·구글과 경쟁",
+        "date": "2025-05-23 08:17",
+        "link": "https://n.news.naver.com/mnews/article/001/0015406278?sid=104"
+    },
+    {
+        "title": "中 디스플레이, SID 2025에서 어떤 것 선보였나? ②TCL CSOT·Visionox",
+        "date": "2025-05-23 08:16",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326858"
+    },
+    {
+        "title": "[산업 이모저모] 카카오, 포털 다음 분사...양주일 신임 대표 선임",
+        "date": "2025-05-23 08:16",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326867"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 오늘 국내 출시",
+        "date": "2025-05-23 08:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005353601?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-23 08:14",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=61042"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 '갤럭시 S25 엣지' 출시…구독클럽도 운영",
+        "date": "2025-05-23 08:13",
+        "link": "https://n.news.naver.com/mnews/article/119/0002959828?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 국내 출시...가장 슬림한데 성능도 TOP",
+        "date": "2025-05-23 08:12",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=422551"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 출시...스키즈 필릭스 영상 1900만회 돌파",
+        "date": "2025-05-23 08:10",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=645751"
+    },
+    {
+        "title": "[클릭 e종목] 1Q 부진 선익시스템, 2Q부터 실적 반등",
+        "date": "2025-05-23 08:06",
+        "link": "https://n.news.naver.com/mnews/article/277/0005597092?sid=101"
+    },
+    {
+        "title": "[키-리포트] 메리츠 선익시스템, 2Q 가파른 성장 전망",
+        "date": "2025-05-23 07:48",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=84951"
+    },
+    {
+        "title": "애플, 2026년 AI 기반 스마트 글래스 공개...카메라 단 애플워치 개발은...",
+        "date": "2025-05-23 07:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567582"
+    },
+    {
+        "title": "中 샤오미도 모바일AP 독자 개발 탑재…퀄컴·삼성 이어 모바일AP 대전 ...",
+        "date": "2025-05-23 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025052214023184938"
+    },
+    {
+        "title": "청진기 대신 스마트폰... 애플아카데미서 2년째 앱 개발 중인 청년 의사",
+        "date": "2025-05-23 07:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000866340?sid=102"
+    },
+    {
+        "title": "[미리보는 오늘] 초슬림 스마트폰 삼성 '갤럭시 S25 엣지' 공개",
+        "date": "2025-05-23 06:54",
+        "link": "https://n.news.naver.com/mnews/article/052/0002196783?sid=102"
+    },
+    {
+        "title": "오픈AI, 애플 전설적 디자이너 조니 아이브와 AI 기기 혁신 선언",
+        "date": "2025-05-23 06:20",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=39844"
+    },
+    {
+        "title": "오픈AI 합류한 '아이폰 디자인의 대부…내년 GPT 전용 기기 내놓나",
+        "date": "2025-05-23 06:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013260163?sid=105"
+    },
+    {
+        "title": "OLED TV 1위 LG전자, 글로벌 TV 시장서는 경쟁 치열",
+        "date": "2025-05-23 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141278"
+    },
+    {
+        "title": "조텍, AI·게이밍·산업을 잇는 그래픽카드 비전 제시[컴퓨텍스 2025]",
+        "date": "2025-05-23 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141358"
+    },
+    {
         "title": "中 샤오미, 독자 개발 모바일칩 공개…애플과 경쟁 야심",
         "date": "2025-05-23 04:37",
         "link": "https://n.news.naver.com/mnews/article/374/0000442091?sid=104"
@@ -13,11 +828,6 @@
         "title": "올트먼, ‘아이폰 디자이너’ 영입… “전에 없던 AI 기기 개발”",
         "date": "2025-05-23 00:34",
         "link": "https://n.news.naver.com/mnews/article/023/0003906836?sid=105"
-    },
-    {
-        "title": "샤오미, 독자 개발한 모바일칩 공개…애플과 경쟁 야심",
-        "date": "2025-05-22 22:56",
-        "link": "https://n.news.naver.com/mnews/article/018/0006021065?sid=101"
     },
     {
         "title": "처음부터 애플 꺾진 못해도…샤오미, 독자개발 모바일칩 공개",
