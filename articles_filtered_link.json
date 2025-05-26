@@ -1,5 +1,635 @@
 [
     {
+        "title": "미래 핵심기술 확보... 현대모비스, 3년간 특허 7,500여건 출원",
+        "date": "2025-05-26 12:36",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=89933"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원",
+        "date": "2025-05-26 12:24",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=689933"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원…미래차 핵심 분야만 3000건",
+        "date": "2025-05-26 12:20",
+        "link": "https://hobbyen-news.com/news/view/1065583127633912"
+    },
+    {
+        "title": "카본슬림, 로이드인증원·SGS 동시 인증 획득",
+        "date": "2025-05-26 12:11",
+        "link": "https://www.venturesquare.net/970424"
+    },
+    {
+        "title": "현대모비스 최근 3년간 특허 7500여건 출원, 미래차 핵심 분야만 3천건...",
+        "date": "2025-05-26 12:06",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086799"
+    },
+    {
+        "title": "애플, 맥북 라인업 최초 'M3 울트라' 탑재 모델 출시하나",
+        "date": "2025-05-26 11:54",
+        "link": "https://kbench.com/?q=node/267779"
+    },
+    {
+        "title": "통신사,갤럭시 S25 지원금 상향...삼성 엣지 출시·7월 언팩에",
+        "date": "2025-05-26 11:50",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=83733"
+    },
+    {
+        "title": "1억대 팔겠다 샘 올트먼의 AI 하드웨어 도전장...애플 어쩌나",
+        "date": "2025-05-26 11:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140175"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원…미래차 원천기술 확보 가속",
+        "date": "2025-05-26 11:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202505261046126140566"
+    },
+    {
+        "title": "현대모비스, 3년간 신규 특허 7500건…미래 기술 선점",
+        "date": "2025-05-26 11:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268372"
+    },
+    {
+        "title": "[트럼프 스트레스] '미국산 아이폰·갤럭시'?…중고폰·중국폰 웃는다",
+        "date": "2025-05-26 11:37",
+        "link": "https://n.news.naver.com/mnews/article/119/0002960874?sid=105"
+    },
+    {
+        "title": "“현상유지가 기업 망하는 길”…출시 전부터 웃돈 ‘닌텐도 프리미엄...",
+        "date": "2025-05-26 11:33",
+        "link": "https://n.news.naver.com/mnews/article/009/0005498499?sid=104"
+    },
+    {
+        "title": "현대모비스, 방대한 특허 앞세워 R&amp;D 분야 주도",
+        "date": "2025-05-26 11:32",
+        "link": "http://autotimes.co.kr/detail.php?number=683105&thread=27"
+    },
+    {
+        "title": "'갤S25 대란' 격화된 지원금 경쟁…43만명 떠난 SKT도 승부수",
+        "date": "2025-05-26 11:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013264939?sid=105"
+    },
+    {
+        "title": "애플, 해도 너무하네…폭발한 국내 게임사, 최초로 칼 뺐다",
+        "date": "2025-05-26 11:28",
+        "link": "https://n.news.naver.com/mnews/article/015/0005136496?sid=105"
+    },
+    {
+        "title": "‘관세 25%’…7월 출시 삼성 신형 폴더블폰 직격탄",
+        "date": "2025-05-26 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476284?sid=105"
+    },
+    {
+        "title": "[위클리오늘] 현대모비스, 최근 3년간 특허 7500여건 출원···미래차 핵...",
+        "date": "2025-05-26 11:24",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=698826"
+    },
+    {
+        "title": "특허 쏟아내는 현대모비스…미래車 시장 '정조준'",
+        "date": "2025-05-26 11:22",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1664076"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원",
+        "date": "2025-05-26 11:21",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476263?sid=101"
+    },
+    {
+        "title": "스마트폰 관세…가격인상→판매감소→이익하락 불가피 [美, 삼성폰 25% 관...",
+        "date": "2025-05-26 11:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476255?sid=101"
+    },
+    {
+        "title": "켐토피아, 카본슬림 실측 기반 자동화로 글로벌 인증 동시 획득",
+        "date": "2025-05-26 11:20",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505260098"
+    },
+    {
+        "title": "美 공장 없는 갤럭시 가격 40% 오를듯 [美, 삼성폰 25% 관세]",
+        "date": "2025-05-26 11:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476260?sid=105"
+    },
+    {
+        "title": "“인도도 예외없다”…공급망 대격변 예고 [美, 삼성폰 25% 관세]",
+        "date": "2025-05-26 11:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476258?sid=105"
+    },
+    {
+        "title": "현대모비스, 3년간 7,500건 특허 출원…미래차 주도권 잡는다",
+        "date": "2025-05-26 11:20",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40015"
+    },
+    {
+        "title": "합천군 대표 과일 '애플수박' 싱가포르 첫 수출",
+        "date": "2025-05-26 11:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008273220?sid=102"
+    },
+    {
+        "title": "합천군, 애플수박 싱가포르 첫 수출…120박스 선적식",
+        "date": "2025-05-26 11:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0013264864?sid=102"
+    },
+    {
+        "title": "트럼프 “삼성·애플 스마트폰, 미국서 안 만들면 25% 관세”",
+        "date": "2025-05-26 11:18",
+        "link": "https://n.news.naver.com/mnews/article/024/0000097403?sid=101"
+    },
+    {
+        "title": "트럼프 6월, 스마트폰 관세 25%...삼성전자에 악재인가 호재인가?",
+        "date": "2025-05-26 11:08",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140158"
+    },
+    {
+        "title": "경남 합천군, 애플수박 싱가포르 첫 수출 선적식 가져",
+        "date": "2025-05-26 11:08",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=129131"
+    },
+    {
+        "title": "아이폰 17 에어, 강성 테스트 영상 유출... 놀라운 결과 보여줘!",
+        "date": "2025-05-26 11:06",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800403"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500건 출원…글로벌 경쟁력 강화 속도",
+        "date": "2025-05-26 11:06",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=797151"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원···사업 경쟁력 강화 '속도'",
+        "date": "2025-05-26 11:04",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=264594"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 출원 7500건…미래車 기술확보 가속화",
+        "date": "2025-05-26 11:02",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505260035"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원",
+        "date": "2025-05-26 11:02",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=243111"
+    },
+    {
+        "title": "3년간 특허 7500건 쏟아낸 현대모비스...미래차 기술 패권 주도",
+        "date": "2025-05-26 11:02",
+        "link": "https://www.ajunews.com/view/20250526100402283"
+    },
+    {
+        "title": "현대모비스, 3년간 신규특허 7500건...‘미래차 주도권’ 확보 박차",
+        "date": "2025-05-26 11:02",
+        "link": "https://www.news2day.co.kr/article/20250526500134"
+    },
+    {
+        "title": "레노버, 전국 대형마트 입점···인기 제품군 구매 가능",
+        "date": "2025-05-26 11:02",
+        "link": "https://www.cnet.co.kr/view/?no=20250526103354"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원…올해 투자액 2조원",
+        "date": "2025-05-26 11:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006024010?sid=103"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500건 출원…40%는 미래차 분야",
+        "date": "2025-05-26 11:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005354539?sid=101"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원…미래차 핵심 분야만 3000건",
+        "date": "2025-05-26 11:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476214?sid=101"
+    },
+    {
+        "title": "삼성·애플, 5mm대 초슬림으로…스마트폰 경량화 집중",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=115869"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원...미래차 핵심 분야만 3000건",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=422887"
+    },
+    {
+        "title": "현대모비스의 미래 모빌리티 전략은 '특허'… 최근 3년 동안 3000건",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001079182?sid=103"
+    },
+    {
+        "title": "현대모비스, 발명의 날 행사 개최...3년간 특허 7500여건 출원",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005199134?sid=101"
+    },
+    {
+        "title": "현대모비스, 3년간 특허만 7500건 … 미래차 핵심 분야 3000건 '든든'",
+        "date": "2025-05-26 11:00",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/26/2025052600121.html"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원..미래차 분야만 3000건!",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=57344"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원…'미래차 주도권' 정조준",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=245527"
+    },
+    {
+        "title": "현대모비스, 3년간 7,500건 특허 출원 '특허로 미래차 주도권 확보' 나선...",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531507"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여 건 출원 “미래차 주도권 확보”",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.etoday.co.kr/news/view/2473502"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건…미래車 주도권 확보 주력",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957186?sid=101"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원…핵심기술 확보",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210507?sid=101"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 '7500여건' 쌓았다… 기술경쟁력 확보",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002960841?sid=101"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 출원 7500여건…미래차 핵심 기술 40%",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005598159?sid=103"
+    },
+    {
+        "title": "현대모비스, 3년간 신규 특허 7500건…미래 기술 선점",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013264786?sid=101"
+    },
+    {
+        "title": "현대모비스 최근 3년간 특허 출원 7500건…미래차 분야만 3000건",
+        "date": "2025-05-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008273129?sid=101"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원",
+        "date": "2025-05-26 11:00",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7113138"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500여건 출원…미래차 핵심 분야만 3000건",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.newspim.com/news/view/20250526000067"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여건 출원…미래차 핵심 분야 집중",
+        "date": "2025-05-26 11:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052609584978988"
+    },
+    {
+        "title": "애플, AI 전쟁에서 낙오?…아이폰 혁신 한계 지적",
+        "date": "2025-05-26 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567925"
+    },
+    {
+        "title": "현대모비스, 3년간 특허 7500건 출원…미래차 핵심분야만 3000건",
+        "date": "2025-05-26 10:57",
+        "link": "http://thetracker.co.kr/View.aspx?No=3657285"
+    },
+    {
+        "title": "반도체 대신 모바일로 버틴 삼성… 트럼프 관세압박 골머리",
+        "date": "2025-05-26 10:55",
+        "link": "https://n.news.naver.com/mnews/article/374/0000442476?sid=101"
+    },
+    {
+        "title": "애플, 스마트홈 시장 도전? 연내 공개 가능성",
+        "date": "2025-05-26 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567908"
+    },
+    {
+        "title": "美 '관세폭탄'에 삼성 스마트폰 '흔들'…가격 최대 40% 인상 우려",
+        "date": "2025-05-26 10:54",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=83720"
+    },
+    {
+        "title": "트럼프, 미국산 아이폰 가능할까?…'작은 나사'도 걸림돌",
+        "date": "2025-05-26 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567920"
+    },
+    {
+        "title": "30% 수수료 과도해 韓 게임사, 애플 상대 美 법원 첫 소송",
+        "date": "2025-05-26 10:52",
+        "link": "https://n.news.naver.com/mnews/article/421/0008273113?sid=105"
+    },
+    {
+        "title": "트럼프 관세 다 내면 갤럭시 영업이익 1/3 증발 … 삼성전자 Z폴드 어쩌...",
+        "date": "2025-05-26 10:48",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/26/2025052600126.html"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7,500여건 출원…미래차 핵심 분야만 3,000...",
+        "date": "2025-05-26 10:46",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=695011"
+    },
+    {
+        "title": "관세 폭탄+인재 이탈+中판매↓ 애플 사면초가…팀 쿡 어쩌나",
+        "date": "2025-05-26 10:44",
+        "link": "https://n.news.naver.com/mnews/article/421/0008273077?sid=104"
+    },
+    {
+        "title": "합천군, 애플수박 싱가포르 첫 수출 선적식 가져",
+        "date": "2025-05-26 10:40",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3283553"
+    },
+    {
+        "title": "합천군, 애플수박 싱가포르 첫 수출 선적식 가져",
+        "date": "2025-05-26 10:38",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2057869"
+    },
+    {
+        "title": "합천군, 애플수박 싱가포르 첫 수출 선적식 열어",
+        "date": "2025-05-26 10:38",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20250526010007822"
+    },
+    {
+        "title": "삼성전자·애플을 향한 트럼프의 경고 25% 관세, 미국 생산해라",
+        "date": "2025-05-26 10:34",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=117936"
+    },
+    {
+        "title": "현대모비스, 최근 3년간 특허 7500여 건 출원",
+        "date": "2025-05-26 10:34",
+        "link": "https://n.news.naver.com/mnews/article/082/0001327458?sid=101"
+    },
+    {
+        "title": "트럼프, 애플·삼성에 관세 압박…아이폰 17 가격 인상 불가피?",
+        "date": "2025-05-26 10:30",
+        "link": "https://www.cnet.co.kr/view/?no=20250526102004"
+    },
+    {
+        "title": "미 공장 없는 갤럭시 관세 현실화 땐 가격 40% 인상 불가피",
+        "date": "2025-05-26 10:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476190?sid=105"
+    },
+    {
+        "title": "“인도도 소용없다” 스마트폰 공급망 대격변 예고",
+        "date": "2025-05-26 10:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476189?sid=105"
+    },
+    {
+        "title": "발등에 불…7월 출시 삼성 신형 폴더블폰 직격탄",
+        "date": "2025-05-26 10:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476188?sid=105"
+    },
+    {
+        "title": "삼성-LG, '효자' OLED 시장 중국에 뺏기나 … BOE, 8.6세대 생산 초읽기",
+        "date": "2025-05-26 10:28",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/26/2025052600099.html"
+    },
+    {
+        "title": "‘폴더블 UTG’ 도우인시스, 정정신고서 제출… 7월 초 상장 목표",
+        "date": "2025-05-26 10:24",
+        "link": "https://n.news.naver.com/mnews/article/009/0005498407?sid=101"
+    },
+    {
+        "title": "한국레노버 태블릿 판매 채널 확대하고 전국 각지 대형마트 입점",
+        "date": "2025-05-26 10:24",
+        "link": "http://gamefocus.co.kr/detail.php?number=165874"
+    },
+    {
+        "title": "레노버, 태블릿 판매 채널 확대…전국 각지 대형마트 입점",
+        "date": "2025-05-26 10:14",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=240218"
+    },
+    {
+        "title": "애플, iOS 19 '애플 인텔리전스' 기능 확대…WWDC에서 공식 발표 예정",
+        "date": "2025-05-26 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20250526100723"
+    },
+    {
+        "title": "애플 아이패드 로봇 개발 난항…AI 경쟁 밀리나",
+        "date": "2025-05-26 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567885"
+    },
+    {
+        "title": "애플워치 '곡면 디스플레이' 채택하나…새로운 특허 공개",
+        "date": "2025-05-26 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567878"
+    },
+    {
+        "title": "크로스오버존, 27인치 화이트 QHD 100Hz 멀티스탠드 모니터 이벤트 진행",
+        "date": "2025-05-26 10:02",
+        "link": "https://kbench.com/?q=node/267774"
+    },
+    {
+        "title": "애플, 美 텍사스 주지사에 '온라인 아동 안전법안' 거부권 행사 요청",
+        "date": "2025-05-26 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567865"
+    },
+    {
+        "title": "애플도 관세 내야 시총 3조달러 붕괴…얼마나 더 떨어지나",
+        "date": "2025-05-26 09:57",
+        "link": "https://n.news.naver.com/mnews/article/421/0008272827?sid=104"
+    },
+    {
+        "title": "레노버, 전국 대형마트서 태블릿 판매한다...프리미엄·게이밍까지 다양...",
+        "date": "2025-05-26 09:56",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=71976"
+    },
+    {
+        "title": "애플, 자체 AI 모델 대신 개발자 커뮤니티에 집중",
+        "date": "2025-05-26 09:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567858"
+    },
+    {
+        "title": "中 BOE, '12조원 투자' 8.6세대 AMOLED 생산공정 장비반입 개시",
+        "date": "2025-05-26 09:54",
+        "link": "https://www.theguru.co.kr/news/article.html?no=87382"
+    },
+    {
+        "title": "애플, 12년 만의 대수술…WWDC서 통합 UI ‘솔라리움’ 예고",
+        "date": "2025-05-26 09:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197319?sid=105"
+    },
+    {
+        "title": "삼성·애플도 예외 없다…갤럭시·아이폰에 25% 관세 경고한 트럼프",
+        "date": "2025-05-26 09:49",
+        "link": "https://n.news.naver.com/mnews/article/117/0003947019?sid=103"
+    },
+    {
+        "title": "글로벌 검증기관이 인정한 켐토피아 '카본슬림', ESG 선도 솔루션으로 ...",
+        "date": "2025-05-26 09:44",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=38307"
+    },
+    {
+        "title": "[테크크] 얇은 게 전부 아니다…‘갤럭시 S25 엣지’ 비기(技) 셋",
+        "date": "2025-05-26 09:34",
+        "link": "https://www.cnbnews.com/news/article.html?no=727526"
+    },
+    {
+        "title": "‘실적버팀목’ 삼성폰 관세부과…가격인상→판매감소→이익하락 불가...",
+        "date": "2025-05-26 09:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476114?sid=101"
+    },
+    {
+        "title": "트럼프, 해외 생산 '아이폰·갤럭시폰' 25% 관세 부과 예고",
+        "date": "2025-05-26 09:26",
+        "link": "https://kbench.com/?q=node/267767"
+    },
+    {
+        "title": "관세 +25%? … '삼성폰' 먹구름 [디지털포스트 모닝픽]",
+        "date": "2025-05-26 09:24",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54533"
+    },
+    {
+        "title": "애플의 AI 야심작 '탁상용 로봇' 언제 나오나",
+        "date": "2025-05-26 09:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375634?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 통신사 공시지원금 상향...얼마나 올랐을까?",
+        "date": "2025-05-26 09:14",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531508"
+    },
+    {
+        "title": "스마트폰 관세 압박 삼성전자...트럼프 6월 말부터 25% 관세",
+        "date": "2025-05-26 09:10",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=751506"
+    },
+    {
+        "title": "삼성전자, 23일 '갤럭시 S25 엣지' 국내 출시",
+        "date": "2025-05-26 09:06",
+        "link": "https://www.dailytw.kr/news/articleView.html?idxno=31025"
+    },
+    {
+        "title": "트럼프 해외 생산 스마트폰 관세 25%···글로벌 시장 영향은",
+        "date": "2025-05-26 09:06",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=558278"
+    },
+    {
+        "title": "레노버, 태블릿 판매 채널 확대… 전국 대형마트 입점",
+        "date": "2025-05-26 08:54",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3273749"
+    },
+    {
+        "title": "인앱 결제 수수료 과도…국내 게임사, 美서 애플 상대 첫 소송",
+        "date": "2025-05-26 08:34",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1664010"
+    },
+    {
+        "title": "켐토피아 탄소 관리 플랫폼 ‘카본슬림’, 2개 글로벌 인증 동시 획득",
+        "date": "2025-05-26 08:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005498332?sid=101"
+    },
+    {
+        "title": "애플, M3 울트라 칩 맥북 프로 테스트…초기 iOS18 코드 유출",
+        "date": "2025-05-26 08:29",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375620?sid=105"
+    },
+    {
+        "title": "트럼프 미국산 아니면 25% 관세...애플 아이폰 이어 삼성 갤럭시도 정...",
+        "date": "2025-05-26 08:14",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531499"
+    },
+    {
+        "title": "도우인시스, 본격적 공모 절차 돌입…7월초 코스닥 상장 목표",
+        "date": "2025-05-26 08:12",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=422763"
+    },
+    {
+        "title": "‘관세병’ 재발한 트럼프, “삼성전자도 25% 부과”에 개미들 파랗게 ...",
+        "date": "2025-05-26 08:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002476020?sid=101"
+    },
+    {
+        "title": "애플, 기존 정책 뒤집고 챗 GPT·제미나이로 기본 음성비서 교체 가능해...",
+        "date": "2025-05-26 07:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531497"
+    },
+    {
+        "title": "[모바일 On] 애플 아이폰 폴드, 핵심 사양 공개되면서 갤럭시Z폴드와 직...",
+        "date": "2025-05-26 07:40",
+        "link": "https://kidd.co.kr/news/241717"
+    },
+    {
+        "title": "[부자들의 투자노트] 美 자산운용사 애플 25% 관세, 나쁘지 않아",
+        "date": "2025-05-26 07:39",
+        "link": "https://n.news.naver.com/mnews/article/374/0000442428?sid=104"
+    },
+    {
+        "title": "[더벨]삼성, '원증회고'와의 결별",
+        "date": "2025-05-26 07:38",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505211227578520107233"
+    },
+    {
+        "title": "트럼프, 아이폰 25% 관세 확정...삼성도 포함",
+        "date": "2025-05-26 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=28035"
+    },
+    {
+        "title": "[비바100] 현실 위에 쌓는 기술⋯ XR, 일상과 산업을 넘나들다",
+        "date": "2025-05-26 06:38",
+        "link": "https://www.viva100.com/article/20250525500042"
+    },
+    {
+        "title": "27인치 모니터에 UHD급 화질 선보이니 게이머들 '열광'",
+        "date": "2025-05-26 06:31",
+        "link": "https://n.news.naver.com/mnews/article/011/0004489478?sid=105"
+    },
+    {
+        "title": "애플의 20년 동안 중국 투자, 중국의 '기술 굴기' 불러 와",
+        "date": "2025-05-26 06:26",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202505251936453264fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성 '갤럭시 S25 엣지' 출시, 통신사 지원금 인상으로 이어져",
+        "date": "2025-05-26 06:16",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=39980"
+    },
+    {
+        "title": "트럼프 6월1일부터 EU 50% 관세…삼성도 저격 [글로벌 뉴스픽]",
+        "date": "2025-05-26 06:10",
+        "link": "https://n.news.naver.com/mnews/article/374/0000442399?sid=104"
+    },
+    {
+        "title": "1분기 R&amp;D 투자 10% 줄인 LG디플…적자 메꾸기 '사활'",
+        "date": "2025-05-26 06:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052313462210826"
+    },
+    {
+        "title": "애플 혁신 디자이너가 올트먼의 손을 잡으면",
+        "date": "2025-05-26 06:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48177"
+    },
+    {
+        "title": "스냅드래곤 강점기 끝? 삼성 폴더블에 '엑시노스' 첫 탑재",
+        "date": "2025-05-26 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141440"
+    },
+    {
+        "title": "XR 시대 성큼 다가오는데…국내 디스플레이 업계 `준비 부족`",
+        "date": "2025-05-26 06:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957082?sid=101"
+    },
+    {
+        "title": "트럼프, 스마트폰 '메이드 인 USA' 압박… 삼성도, 애플도 '죽을 맛'",
+        "date": "2025-05-26 05:02",
+        "link": "https://www.ajunews.com/view/20250525165627051"
+    },
+    {
+        "title": "[관세 공포 재확산] 애플 이어 삼성까지 '최소 25% 관세'",
+        "date": "2025-05-26 05:02",
+        "link": "https://www.ajunews.com/view/20250525152203002"
+    },
+    {
+        "title": "트럼프, 美 원자력 용량 4배 늘린다…韓 원전 논란 불붙나 [글로벌 모닝...",
+        "date": "2025-05-26 05:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004489455?sid=104"
+    },
+    {
         "title": "[단독]삼성전자, 북미서 1분기 OLED TV 첫 '1위'",
         "date": "2025-05-26 04:01",
         "link": "https://n.news.naver.com/mnews/article/030/0003315572?sid=105"
@@ -18,6 +648,11 @@
         "title": "영업익 64% 떠받쳤는데… 삼성전자 모바일까지 빨간불",
         "date": "2025-05-26 00:51",
         "link": "https://n.news.naver.com/mnews/article/023/0003907249?sid=105"
+    },
+    {
+        "title": "“먼저 산 사람은 어쩌나” 삼성 최고폰 80만원 파격 할인…헐값 대란",
+        "date": "2025-05-26 00:17",
+        "link": "https://n.news.naver.com/mnews/article/016/0002475963?sid=105"
     },
     {
         "title": "“뉴욕 언팩 코앞인데” 삼성·애플 발목 잡는 ‘폰 25% 관세’",
