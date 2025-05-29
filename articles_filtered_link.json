@@ -1,5 +1,440 @@
 [
     {
+        "title": "[산업용PC] 신코즈, 혹독한 산업 환경에서도 신뢰성과 고성능 갖춘 임베...",
+        "date": "2025-05-29 13:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317276"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품수리 확대",
+        "date": "2025-05-29 12:56",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376241?sid=105"
+    },
+    {
+        "title": "닌텐도 이어 Z플립 칩도 공급… 삼성 파운드리 확대 속도낸다",
+        "date": "2025-05-29 12:05",
+        "link": "https://n.news.naver.com/mnews/article/021/0002712861?sid=101"
+    },
+    {
+        "title": "'뭐니뭐니 해도 애플… 아이폰16, 1분기 글로벌 스마트폰 판매 1위",
+        "date": "2025-05-29 12:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568589"
+    },
+    {
+        "title": "메타, 오프라인 매장 확대 계획…VR·스마트글래스 직접 체험한다",
+        "date": "2025-05-29 12:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568579"
+    },
+    {
+        "title": "애플TV 4K, 신제품 나오나…AI 지원 여부 '눈길'",
+        "date": "2025-05-29 12:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568557"
+    },
+    {
+        "title": "애플, 올해부터 이름 바꾼다…iOS 19 대신 'iOS 26'",
+        "date": "2025-05-29 12:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568555"
+    },
+    {
+        "title": "애플, 셀프 수리 대상 품목 확대…아이패드 포함 65개 제품 지원",
+        "date": "2025-05-29 11:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568545"
+    },
+    {
+        "title": "보령시-농업회사법인 애플우드804, 농특산물 유통 확대 협약",
+        "date": "2025-05-29 11:54",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1477826"
+    },
+    {
+        "title": "애플, 운영체제 리브랜딩 올 가을 'iOS 26' 출시",
+        "date": "2025-05-29 11:54",
+        "link": "https://kbench.com/?q=node/267915"
+    },
+    {
+        "title": "1분기 차량용 OLED 출하량 3배 증가…수요 계속 늘 것",
+        "date": "2025-05-29 11:53",
+        "link": "https://n.news.naver.com/mnews/article/374/0000443228?sid=101"
+    },
+    {
+        "title": "삼성 파운드리, 레거시·첨단 공정 검증대 올랐다",
+        "date": "2025-05-29 11:48",
+        "link": "https://n.news.naver.com/mnews/article/119/0002962496?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 '디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 11:46",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238620"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 수리비 줄인다…'디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 11:39",
+        "link": "https://n.news.naver.com/mnews/article/629/0000394226?sid=105"
+    },
+    {
+        "title": "어디가 가장 싸나?...갤럭시 S25 지원금 경쟁",
+        "date": "2025-05-29 11:36",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27422"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스 확대",
+        "date": "2025-05-29 11:28",
+        "link": "https://n.news.naver.com/mnews/article/031/0000936339?sid=105"
+    },
+    {
+        "title": "“이제 아이패드도 직접 고치세요”…애플, 셀프 수리 프로그램 확대",
+        "date": "2025-05-29 11:23",
+        "link": "https://n.news.naver.com/mnews/article/009/0005500581?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 AS센터 158곳 확대",
+        "date": "2025-05-29 11:22",
+        "link": "https://www.cnet.co.kr/view/?no=20250529105135"
+    },
+    {
+        "title": "애플 '아이폰16' 1분기 가장 많이 팔렸다…갤럭시S25 울트라 7위",
+        "date": "2025-05-29 11:08",
+        "link": "https://kbench.com/?q=node/267913"
+    },
+    {
+        "title": "오픈AI “화면없는 소형 AI 기기 내년 출시”",
+        "date": "2025-05-29 11:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002478115?sid=105"
+    },
+    {
+        "title": "애플 '아이폰 16' 1분기 가장 많이 팔린 스마트폰 석권...샤오미 톱10 진...",
+        "date": "2025-05-29 11:02",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140321"
+    },
+    {
+        "title": "유비리서치 1분기 중대형 OELD 출하량 12% 증가, 차량용 패널 2배 성장...",
+        "date": "2025-05-29 11:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=397166"
+    },
+    {
+        "title": "1분기 중대형 OLED 출하량 12% ↑...차랑용 3배 증가",
+        "date": "2025-05-29 10:59",
+        "link": "https://n.news.naver.com/mnews/article/031/0000936322?sid=105"
+    },
+    {
+        "title": "애플 앱스토어 외부결제 열렸다…‘웹숍’ 대응 눈길",
+        "date": "2025-05-29 10:54",
+        "link": "https://byline.network/?p=9004111222565886"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 수리센터 158곳 확대",
+        "date": "2025-05-29 10:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568590"
+    },
+    {
+        "title": "폴더블 AS 거점 늘린 삼성…애플은 '셀프 수리' 권장",
+        "date": "2025-05-29 10:48",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141751"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 센터 확대",
+        "date": "2025-05-29 10:46",
+        "link": "https://n.news.naver.com/mnews/article/008/0005200935?sid=101"
+    },
+    {
+        "title": "중대형 OLED 시장서 삼성·LGD 동시 '선방'…자동차·애플 효과",
+        "date": "2025-05-29 10:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376220?sid=105"
+    },
+    {
+        "title": "OLED 패널 시장 급성장…차량용 디스플레이 수요 폭발적 증가",
+        "date": "2025-05-29 10:42",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=828169"
+    },
+    {
+        "title": "삼성, 해외 판매 Z플립7에도 '엑시노스' … 성능 자신감 찾았나",
+        "date": "2025-05-29 10:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/29/2025052900144.html"
+    },
+    {
+        "title": "1분기 중대형 OLED 출하량 12% 뛰어…차량용 패널이 주도",
+        "date": "2025-05-29 10:36",
+        "link": "https://n.news.naver.com/mnews/article/029/0002958180?sid=101"
+    },
+    {
+        "title": "삼성전자서비스 '폴더블폰 디스플레이 단품 수리' 센터 11곳 확대",
+        "date": "2025-05-29 10:32",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=797656"
+    },
+    {
+        "title": "[N2 전자 정보통] 삼성전자서비스 ‘폴더블폰 디스플레이 단품 수리’ ...",
+        "date": "2025-05-29 10:26",
+        "link": "https://www.news2day.co.kr/article/20250529500095"
+    },
+    {
+        "title": "삼성전자서비스, ‘친환경’ 폴더블폰 디스플레이 단품 수리 센터 확대",
+        "date": "2025-05-29 10:25",
+        "link": "https://n.news.naver.com/mnews/article/366/0001081106?sid=105"
+    },
+    {
+        "title": "삼성, 폴더블폰 수리비 줄이고 친환경 챙겼다…디스플레이 ‘핀셋 수리...",
+        "date": "2025-05-29 10:17",
+        "link": "https://n.news.naver.com/mnews/article/022/0004039332?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시, 완성도 높은 AI로 MZ세대 '이목'",
+        "date": "2025-05-29 10:16",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2059963"
+    },
+    {
+        "title": "애플 OS 이름, 숫자 확 바뀐다…내년부터 'iOS 26'",
+        "date": "2025-05-29 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20250529100401"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대",
+        "date": "2025-05-29 10:10",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140315"
+    },
+    {
+        "title": "보령시-애플우드804, 대도시 유통망 본격 확대",
+        "date": "2025-05-29 10:08",
+        "link": "http://www.breaknews.com/1120761"
+    },
+    {
+        "title": "'미쿠'와 게이밍 기어의 만남, 에이수스 'TUF Gaming X 하츠네 미쿠' 컬래...",
+        "date": "2025-05-29 10:06",
+        "link": "http://gamefocus.co.kr/detail.php?number=166001"
+    },
+    {
+        "title": "아이패드도 '셀프 수리' 가능…애플, 서비스 대상 확대",
+        "date": "2025-05-29 10:04",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268694"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리센터 158곳 확대",
+        "date": "2025-05-29 10:02",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=823277"
+    },
+    {
+        "title": "갤럭시 폴더블폰 디스플레이 '단품 수리' 쉬워진다...서비스센터 158곳으...",
+        "date": "2025-05-29 09:56",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=245771"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 09:48",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=225266"
+    },
+    {
+        "title": "삼성전자, 스마트폰에 제미나이 날개…오픈AI는 8조원 들여 ‘단말 베팅...",
+        "date": "2025-05-29 09:46",
+        "link": "https://sateconomy.co.kr/news/view/1065612543262144"
+    },
+    {
+        "title": "보령 우수 농특산물 대도시 판로 확대…애플우드804와 협약",
+        "date": "2025-05-29 09:44",
+        "link": "https://n.news.naver.com/mnews/article/001/0015418491?sid=102"
+    },
+    {
+        "title": "“맥북, 아이폰 이어 3번째 핵심 기기”…오픈AI ‘소형 AI 기기’ 내년...",
+        "date": "2025-05-29 09:42",
+        "link": "https://n.news.naver.com/mnews/article/016/0002477984?sid=105"
+    },
+    {
+        "title": "2025년 1분기, 중대형 OLED 출하량 전년 동기 대비 12.2% ↑",
+        "date": "2025-05-29 09:36",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317236"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 센터 확대…전국 158곳...",
+        "date": "2025-05-29 09:33",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197562?sid=105"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 09:32",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=102324"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리센터 확대",
+        "date": "2025-05-29 09:30",
+        "link": "https://n.news.naver.com/mnews/article/029/0002958122?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 단품 수리 전국 158곳 확대",
+        "date": "2025-05-29 09:28",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=246940"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 '디스플레이 단품 수리' 전국 158곳으로 확대",
+        "date": "2025-05-29 09:22",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=129258"
+    },
+    {
+        "title": "“수리비 줄고 환경도 지키고”…삼성, 폴더블폰 단품 수리 158곳 확대",
+        "date": "2025-05-29 09:20",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=847344"
+    },
+    {
+        "title": "보령시-애플우드804, 중부권 대도시 유통 확대 맞손",
+        "date": "2025-05-29 09:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013272677?sid=102"
+    },
+    {
+        "title": "갤럭시 vs 아이폰…충성고객 소득 비교해 봤더니",
+        "date": "2025-05-29 09:13",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376174?sid=105"
+    },
+    {
+        "title": "애플 '아이폰16', 올해 1분기 글로벌 스마트폰 판매 1위",
+        "date": "2025-05-29 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=170320"
+    },
+    {
+        "title": "삼성전자, 친환경 폴더블폰 디스플레이 단품 수리 센터 확대",
+        "date": "2025-05-29 09:00",
+        "link": "https://n.news.naver.com/mnews/article/082/0001328122?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 전국 158곳으로 확대",
+        "date": "2025-05-29 08:58",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=157447"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 08:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1222808"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대",
+        "date": "2025-05-29 08:54",
+        "link": "https://www.newspim.com/news/view/20250529000110"
+    },
+    {
+        "title": "아이패드도 '셀프 수리' 가능…애플, 서비스 대상 확대",
+        "date": "2025-05-29 08:51",
+        "link": "https://n.news.naver.com/mnews/article/003/0013272567?sid=105"
+    },
+    {
+        "title": "1분기 중대형 OLED 출하량 12% 증가…차량용 패널은 3배↑",
+        "date": "2025-05-29 08:48",
+        "link": "https://n.news.naver.com/mnews/article/001/0015418261?sid=101"
+    },
+    {
+        "title": "애플, OS 이름도 바꾼다…iOS 19→iOS 26",
+        "date": "2025-05-29 08:37",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376162?sid=105"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 08:36",
+        "link": "http://theviewers.co.kr/View.aspx?No=3661033"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 센터 확대..147곳→15...",
+        "date": "2025-05-29 08:36",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=82065"
+    },
+    {
+        "title": "파인 다이닝 식탁 봤더니 '경악'…초슬림 삼성폰 '오감체험'",
+        "date": "2025-05-29 08:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005138008?sid=105"
+    },
+    {
+        "title": "산(産)과 학(學)에서의 메타버스 연구",
+        "date": "2025-05-29 08:30",
+        "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=400178"
+    },
+    {
+        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스센터 158곳으로...",
+        "date": "2025-05-29 08:28",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227288"
+    },
+    {
+        "title": "삼성전자, '친환경' 폴더블폰 디스플레이 단품 수리 센터 확대",
+        "date": "2025-05-29 08:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0015418196?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 센터 11곳 확대",
+        "date": "2025-05-29 08:26",
+        "link": "https://n.news.naver.com/mnews/article/421/0008280814?sid=101"
+    },
+    {
+        "title": "보령시, 애플우드804와 농특산물 유통 협약 체결",
+        "date": "2025-05-29 08:26",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20250529010009032"
+    },
+    {
+        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
+        "date": "2025-05-29 08:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005599985?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, ‘폴더블폰 디스플레이 단품 수리’ 158곳으로 확대",
+        "date": "2025-05-29 08:22",
+        "link": "https://n.news.naver.com/mnews/article/016/0002477889?sid=101"
+    },
+    {
+        "title": "아이폰에 25% 관세?… 미국 내 생산이 더 비싸다는 분석 나와",
+        "date": "2025-05-29 08:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531644"
+    },
+    {
+        "title": "4년 새 2배 '껑충'…둘째 LG디플 자리 넘보는 LG이노텍",
+        "date": "2025-05-29 07:58",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052814145116901"
+    },
+    {
+        "title": "[더벨]장덕현 삼성전기 사장 공급망 점검 중, 필요시 생산지 재편",
+        "date": "2025-05-29 07:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505281802017400102326"
+    },
+    {
+        "title": "2나노 양산 앞두고 삼성 파운드리 독립 가능성 솔솔",
+        "date": "2025-05-29 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568472"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-29 07:30",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=823223"
+    },
+    {
+        "title": "애플 아이폰·맥에 이어 아이패드도 '셀프 수리' 하세요",
+        "date": "2025-05-29 07:18",
+        "link": "https://n.news.naver.com/mnews/article/055/0001262038?sid=104"
+    },
+    {
+        "title": "애플, 아이폰·맥에 이어 아이패드도 셀프 수리 확대...한국 등 34개국 ...",
+        "date": "2025-05-29 07:17",
+        "link": "https://n.news.naver.com/mnews/article/052/0002199094?sid=104"
+    },
+    {
+        "title": "[산업 리그테이블]④LG그룹 '전통강자' 대신 '신성장축' 떴다",
+        "date": "2025-05-29 07:10",
+        "link": "https://n.news.naver.com/mnews/article/648/0000036573?sid=101"
+    },
+    {
+        "title": "삼성, 폴더블폰에 ‘엑시노스’ 첫 탑재…“모바일 AP 희망불씨 살리나...",
+        "date": "2025-05-29 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025052816582837561"
+    },
+    {
+        "title": "오픈AI 화면없는 AI 기기 내년 출시…하드웨어 생태계 도전장",
+        "date": "2025-05-29 07:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008280605?sid=105"
+    },
+    {
+        "title": "애플 “아이폰·맥 이어 아이패드도 ‘셀프 수리’ 확대”",
+        "date": "2025-05-29 06:31",
+        "link": "https://n.news.naver.com/mnews/article/025/0003444360?sid=104"
+    },
+    {
+        "title": "'엑시노스 탑재' 갤Z플립7, Z폴드7과 성능 차이 논란 불거질까 [1일IT템]",
+        "date": "2025-05-29 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005356211?sid=105"
+    },
+    {
+        "title": "'대륙의 늑대' 샤오미, 애플 제쳤다…4년만에 1위 탈환",
+        "date": "2025-05-29 05:29",
+        "link": "https://n.news.naver.com/mnews/article/008/0005200766?sid=105"
+    },
+    {
         "title": "애플, 아이패드도 '셀프 수리' 서비스 확대",
         "date": "2025-05-29 03:38",
         "link": "https://www.jemin.com/news/articleView.html?idxno=806681"
@@ -265,6 +700,11 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005499982?sid=105"
     },
     {
+        "title": "“물러설 곳 없다” 삼성전자 ‘스마트폰 두뇌’ 개발 총력전 이유는?",
+        "date": "2025-05-28 14:52",
+        "link": "https://www.ekn.kr/web/view.php?key=20250528021201362"
+    },
+    {
         "title": "진에어, 애플월렛 모바일 탑승권 서비스 개시",
         "date": "2025-05-28 14:50",
         "link": "https://n.news.naver.com/mnews/article/277/0005599710?sid=101"
@@ -288,11 +728,6 @@
         "title": "[기업진단] 트럼프, 스마트폰에도 관세 부과…삼성전자, 美공장 세울까",
         "date": "2025-05-28 14:38",
         "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=454802"
-    },
-    {
-        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
-        "date": "2025-05-28 14:38",
-        "link": "https://www.sentv.co.kr/article/view/sentv202505280120"
     },
     {
         "title": "진에어 모바일 탑승권, 이젠 애플월렛 앱에 보관하세요!",
@@ -645,49 +1080,9 @@
         "link": "http://www.e2news.com/news/articleView.html?idxno=320130"
     },
     {
-        "title": "애플, 게임 전용 앱 출시 예정…게임 허브 입지 강화",
-        "date": "2025-05-28 09:10",
-        "link": "https://n.news.naver.com/mnews/article/001/0015415370?sid=104"
-    },
-    {
-        "title": "애플, 사상 첫 게임 개발사 인수…독자 게임 생태계 육성 나선다",
-        "date": "2025-05-28 09:08",
-        "link": "https://www.theguru.co.kr/news/article.html?no=87498"
-    },
-    {
         "title": "솔루스첨단소재, 신규 발광소재 '그린인광 호스트' 양산 준비",
         "date": "2025-05-28 09:05",
         "link": "https://n.news.naver.com/mnews/article/001/0015415366?sid=105"
-    },
-    {
-        "title": "애플, '탈중국' 가속…4월 美수입 인도산 아이폰 76% 급증",
-        "date": "2025-05-28 08:59",
-        "link": "https://n.news.naver.com/mnews/article/277/0005599335?sid=101"
-    },
-    {
-        "title": "백악관 국가경제위원장 아이폰 관세, 애플 타격 의도 아냐 우려 일축",
-        "date": "2025-05-28 08:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568294"
-    },
-    {
-        "title": "계산기 두드려봐도 '이익 쥐꼬리'...불타올랐던 애플페이 도입 시큰둥",
-        "date": "2025-05-28 08:50",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1222055"
-    },
-    {
-        "title": "합천군, 애플수박 싱가포르 첫 수출 선적식 가져",
-        "date": "2025-05-28 08:44",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1243555"
-    },
-    {
-        "title": "애플, 4월 인도산 아이폰 300만대 미국으로 수입...전년比 76% ↑",
-        "date": "2025-05-28 08:43",
-        "link": "https://n.news.naver.com/mnews/article/023/0003907789?sid=101"
-    },
-    {
-        "title": "트럼프 관세 피해라 美수입 인도산 아이폰, 중국산 3배 넘어",
-        "date": "2025-05-28 08:27",
-        "link": "https://n.news.naver.com/mnews/article/008/0005200211?sid=104"
     },
     {
         "title": "애플, 아이폰에 2억 화소 카메라 테스트 중",
@@ -705,31 +1100,6 @@
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505261502388280103234"
     },
     {
-        "title": "[더벨][아이티켐 IPO]2000억대 밸류 예상, 설비투자 '최우선'",
-        "date": "2025-05-28 08:12",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505261502079280105259"
-    },
-    {
-        "title": "애플, 앱스토어 규정의 '보호 기능' 강조",
-        "date": "2025-05-28 08:10",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40122"
-    },
-    {
-        "title": "애플, 강제해온 '인앱결제 체제' 도전받자 이용자 보호 강조",
-        "date": "2025-05-28 08:08",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=61271"
-    },
-    {
-        "title": "애플, 강제해온 ‘인앱결제 체제’ 도전받자 이용자 보호기능 부각",
-        "date": "2025-05-28 08:08",
-        "link": "https://n.news.naver.com/mnews/article/056/0011960019?sid=104"
-    },
-    {
-        "title": "트럼프 '애플·삼성' 때리기…이러다 中스마트폰 기업만 키울판",
-        "date": "2025-05-28 08:02",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025052615402916639"
-    },
-    {
         "title": "출하 둔화에도 '거거익선'…삼성전자, 중대형 태블릿만 고집하는 이유",
         "date": "2025-05-28 08:02",
         "link": "https://www.newsway.co.kr/news/view?ud=2025052715282422894"
@@ -740,34 +1110,9 @@
         "link": "https://n.news.naver.com/mnews/article/031/0000935812?sid=105"
     },
     {
-        "title": "존 햄이 부자 이웃을 터는 이유... ‘프렌즈 &amp; 네이버스’ (애플TV+, 티빙...",
-        "date": "2025-05-28 07:55",
-        "link": "https://m.entertain.naver.com/article/438/0000073184"
-    },
-    {
-        "title": "4월 미국 수입 인도산 아이폰 76% 급증...중국산 아이폰의 3배 넘어",
-        "date": "2025-05-28 07:52",
-        "link": "https://n.news.naver.com/mnews/article/052/0002198730?sid=104"
-    },
-    {
         "title": "[더벨]삼성D vs BOE, 소송전 마침표 또는 장기화 '갈림길'",
         "date": "2025-05-28 07:48",
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505271201477600106631"
-    },
-    {
-        "title": "애플, 강제해온 '인앱결제 체제' 도전받자 이용자 보호기능 부각",
-        "date": "2025-05-28 07:42",
-        "link": "https://n.news.naver.com/mnews/article/001/0015415224?sid=104"
-    },
-    {
-        "title": "美텍사스, 앱 다운로드 연령확인 의무화…애플 저지 실패",
-        "date": "2025-05-28 07:36",
-        "link": "https://n.news.naver.com/mnews/article/029/0002957749?sid=104"
-    },
-    {
-        "title": "신한카드, 애플페이 도입 '갈림길'…박창훈 대표의 선택은?",
-        "date": "2025-05-28 07:30",
-        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=171533"
     },
     {
         "title": "[DDI사 점검] 갈길 먼 원익 DDI 시너지…삼성D 공급망 진입 관건",
@@ -778,10 +1123,5 @@
         "title": "삼성전자, 미국 고객 만족도 조사 '애플' 눌렀다... 5G 스마트폰 부문 '...",
         "date": "2025-05-28 07:00",
         "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=454474"
-    },
-    {
-        "title": "4월 美수입 인도산 아이폰 76% ↑…중국산 대비 3배 이상",
-        "date": "2025-05-28 07:00",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=822967"
     }
 ]
