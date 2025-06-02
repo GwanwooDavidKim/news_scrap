@@ -1,5 +1,225 @@
 [
     {
+        "title": "애플, EU집행위 제소…'아이폰 생태계' 개방 명령 부당",
+        "date": "2025-06-03 02:08",
+        "link": "https://n.news.naver.com/mnews/article/422/0000746170?sid=101"
+    },
+    {
+        "title": "애플, EU집행위 제소…'아이폰 생태계' 개방 명령 부당",
+        "date": "2025-06-03 02:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015428007?sid=104"
+    },
+    {
+        "title": "바이블 애플, 글로벌 버전 출시…국내 최초로 ESV·NASB 무료 제공",
+        "date": "2025-06-02 23:30",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=448154"
+    },
+    {
+        "title": "중남미 이어 안방서도 선두 유지… 보급형 '갤 A36' 뜬다",
+        "date": "2025-06-02 18:27",
+        "link": "https://n.news.naver.com/mnews/article/014/0005358278?sid=105"
+    },
+    {
+        "title": "애플, 오픈AI 맞먹는 150B 추론 모델 개발...출시는 미정",
+        "date": "2025-06-02 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=170969"
+    },
+    {
+        "title": "구글·애플 앱마켓 게임사 수수료 인하 美 집단조정 설명회 성료…100여...",
+        "date": "2025-06-02 17:58",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=186515"
+    },
+    {
+        "title": "공급망 타격 흔들리는 애플…AI 앞세워 치고나간 샤오미",
+        "date": "2025-06-02 17:49",
+        "link": "https://n.news.naver.com/mnews/article/011/0004492752?sid=104"
+    },
+    {
+        "title": "트럼프 관세에 스마트폰 희비… 아이폰 '미소' 갤럭시 '씁쓸'",
+        "date": "2025-06-02 17:44",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250603010000843"
+    },
+    {
+        "title": "중국산 ESP32 칩, 주요 암호화폐 지갑 노리는 심각한 보안 취약점 발견",
+        "date": "2025-06-02 17:28",
+        "link": "https://www.tokenpost.kr/news/blockchain/238864"
+    },
+    {
+        "title": "애플 EU의 '경쟁사 기기 호환' 명령에 항소, 개인정보와 지재권 침해 ...",
+        "date": "2025-06-02 17:08",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=397671"
+    },
+    {
+        "title": "비전옥스, IT 8세대 투자 우선순위 'ViP'로 선회...FMM 연기",
+        "date": "2025-06-02 16:58",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36653"
+    },
+    {
+        "title": "자바와 마이SQL 30주년, 서른 즈음에",
+        "date": "2025-06-02 16:46",
+        "link": "https://byline.network/?p=9004111222566269"
+    },
+    {
+        "title": "암호화폐 결제 플랫폼 메시, 애플페이 통합 기능 공개…2분기 후반 출시...",
+        "date": "2025-06-02 16:40",
+        "link": "https://www.tokenpost.kr/news/blockchain/243822"
+    },
+    {
+        "title": "애플 아이폰17e 준비 중…출시 전략 변화",
+        "date": "2025-06-02 16:37",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376765?sid=105"
+    },
+    {
+        "title": "에픽게임즈, 애플 상대로 승소...iOS 앱 내 암호화폐 결제 제한 해제 전...",
+        "date": "2025-06-02 16:30",
+        "link": "https://www.tokenpost.kr/news/blockchain/244364"
+    },
+    {
+        "title": "애플 AI 또 밀린다…건강 AI '멀버리'도 올해 WWDC엔 없을 것",
+        "date": "2025-06-02 16:16",
+        "link": "https://n.news.naver.com/mnews/article/421/0008290143?sid=105"
+    },
+    {
+        "title": "중남미 1위 지킨 삼성, 갤럭시 A36으로 韓 시장 방어 나선다",
+        "date": "2025-06-02 16:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005358147?sid=105"
+    },
+    {
+        "title": "삼성페이 3시간 넘게 일부 장애…“해킹 아닌 네트워크 문제”",
+        "date": "2025-06-02 15:58",
+        "link": "https://n.news.naver.com/mnews/article/011/0004492663?sid=105"
+    },
+    {
+        "title": "스마트홈도 AI 전환 11조 시장 잡아라",
+        "date": "2025-06-02 15:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006029854?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시링' 요술반지로 만든다, 노태문 XR부터 모바일·스마트...",
+        "date": "2025-06-02 15:46",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=397637"
+    },
+    {
+        "title": "관세 피한 삼성 '갤럭시 엣지' 美 상륙...새 폴더블의 운명은",
+        "date": "2025-06-02 15:43",
+        "link": "https://www.newspim.com/news/view/20250602000857"
+    },
+    {
+        "title": "[어바웃 C] '구원등판' 정철동 LGD 사장, '적자 탈출' 연간 턴어라운드 ...",
+        "date": "2025-06-02 15:32",
+        "link": "https://n.news.naver.com/mnews/article/293/0000068118?sid=101"
+    },
+    {
+        "title": "2나노 파운드리 경쟁 막오른다…내실 다지는 삼성",
+        "date": "2025-06-02 15:21",
+        "link": "https://n.news.naver.com/mnews/article/018/0006029805?sid=101"
+    },
+    {
+        "title": "구글, 10년 만에 스마트안경 '재도전'...경쟁자는 메타·애플",
+        "date": "2025-06-02 15:16",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=88481"
+    },
+    {
+        "title": "삼성전자, 엑시노스 품은 폴더블폰 출격…하반기 역전 노린다",
+        "date": "2025-06-02 15:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1224444"
+    },
+    {
+        "title": "[단독] 삼성 초슬림폰 갤S25 엣지는 '메이드 인 구미'",
+        "date": "2025-06-02 15:00",
+        "link": "https://n.news.naver.com/mnews/article/031/0000937214?sid=105"
+    },
+    {
+        "title": "[영상] 해성옵틱스, 올해 삼성전기향 매출 목표 40% 올린 이유",
+        "date": "2025-06-02 15:00",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36645"
+    },
+    {
+        "title": "FC 모바일 출시 5주년…애플과 협업으로 이용자경험 강화",
+        "date": "2025-06-02 14:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015426897?sid=105"
+    },
+    {
+        "title": "삼성전자, 하반기 신제품 '갤럭시 Z플립7·Z폴드7' 공개 임박",
+        "date": "2025-06-02 14:42",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=83881"
+    },
+    {
+        "title": "[특징주] 아이씨에이치, 애플 아이폰 공급망 확대 기대…美 친환경 인증...",
+        "date": "2025-06-02 14:34",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227518"
+    },
+    {
+        "title": "LG전자, TV '세계 1위' 수성 가능할까…'저가' 中업체 맹추격",
+        "date": "2025-06-02 14:28",
+        "link": "https://n.news.naver.com/mnews/article/117/0003949486?sid=105"
+    },
+    {
+        "title": "[공시속보] 영우디에스피, 삼성디스플레이와 339억원 장비공급 계약→매...",
+        "date": "2025-06-02 14:18",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15684962"
+    },
+    {
+        "title": "iOS 19 대신 26으로? 애플, 운영체제 작명법 전부 바꾼다",
+        "date": "2025-06-02 14:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531774"
+    },
+    {
+        "title": "애플워치 SE3·시리즈11·울트라3, 9월 출시 성능 변화는",
+        "date": "2025-06-02 13:52",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807837"
+    },
+    {
+        "title": "애플, 아이폰 연도 네이밍 가능성 낮아",
+        "date": "2025-06-02 13:50",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807836"
+    },
+    {
+        "title": "애플 앱스토어, 2024년 투명성 보고서 발표",
+        "date": "2025-06-02 13:46",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807834"
+    },
+    {
+        "title": "애플 글래스, 에어팟과 차별화된 사회적 수용성",
+        "date": "2025-06-02 13:42",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807830"
+    },
+    {
+        "title": "애플 WWDC 2025, AI 신기술 공개 예정",
+        "date": "2025-06-02 13:42",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807828"
+    },
+    {
+        "title": "애플 헬스케어 프로젝트 출시 연기",
+        "date": "2025-06-02 13:36",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807825"
+    },
+    {
+        "title": "게임사 대상 구글·애플 앱마켓 수수료 환수·인하 설명회 성황리 개최",
+        "date": "2025-06-02 13:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003318082?sid=101"
+    },
+    {
+        "title": "'물러설 수 없다' 삼성D-BOE 특허소송 격화",
+        "date": "2025-06-02 13:25",
+        "link": "https://n.news.naver.com/mnews/article/030/0003318075?sid=105"
+    },
+    {
+        "title": "인도냐? 미국이냐?...애플의 선택은",
+        "date": "2025-06-02 13:20",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202506021110187770"
+    },
+    {
+        "title": "애플, 2026년 이후 아이폰·아이패드·애플워치에 햅틱 버튼 도입 가능성",
+        "date": "2025-06-02 13:16",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807810"
+    },
+    {
+        "title": "아이폰의 매력, 안드로이드와 차별화된 생태계",
+        "date": "2025-06-02 13:08",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=807800"
+    },
+    {
         "title": "[新경영 잇는 NEW 삼성③] AI·반도체 다지고 '다시 초격차' 먹거리 발굴",
         "date": "2025-06-02 12:52",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1664961"
@@ -63,6 +283,11 @@
         "title": "“이 남자 때문에, 0%대 성장 폭삭”…전세계 스마트폰 시장에 ‘비상등...",
         "date": "2025-06-02 10:34",
         "link": "https://n.news.naver.com/mnews/article/009/0005502285?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤S26에 美스타트업 퍼플렉시티AI 탑재 검토",
+        "date": "2025-06-02 10:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004492527?sid=101"
     },
     {
         "title": "애플 글래스, 에어팟과 차별화된 강점…'사회적 수용성' 용이",
@@ -155,11 +380,6 @@
         "link": "https://news.dealsitetv.com/articles/154958"
     },
     {
-        "title": "삼성, 웨어러블 기기 폭풍성장 ‘돌풍’…“갤럭시워치·갤럭시핏 ‘듀...",
-        "date": "2025-06-02 07:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2025053013555977590"
-    },
-    {
         "title": "[핀포인트] [삼성디스플레이] 미국 관세 유탄 맞은 베트남 투자",
         "date": "2025-06-02 07:02",
         "link": "https://news.dealsitetv.com/articles/155035"
@@ -168,155 +388,5 @@
         "title": "[DDI사 점검] LX세미콘, 하반기 OLED 아이패드 납품 기대",
         "date": "2025-06-02 07:02",
         "link": "https://dealsite.co.kr/articles/142371"
-    },
-    {
-        "title": "대한출판문화협회, 미국서 애플 상대 집단소송...인앱강제로 800억원 피...",
-        "date": "2025-06-02 06:40",
-        "link": "https://n.news.naver.com/mnews/article/277/0005601623?sid=103"
-    },
-    {
-        "title": "LGD, 탠덤·LTPO 특허 출원 글로벌 1위…OLED로 턴어라운드 박차",
-        "date": "2025-06-02 06:05",
-        "link": "https://n.news.naver.com/mnews/article/008/0005202227?sid=101"
-    },
-    {
-        "title": "[광화문뷰] 韓 산업 미래를 비추는 힘 'K-디스플레이'",
-        "date": "2025-06-02 06:02",
-        "link": "https://www.ajunews.com/view/20250601085449019"
-    },
-    {
-        "title": "애플, OS 이름에 연도 붙인다… “오는 9월부터 iOS 26”",
-        "date": "2025-06-02 06:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003317902?sid=101"
-    },
-    {
-        "title": "트럼프發 관세 폭탄 예고에 삼성전자 '비상'… Z폴드7, 직격탄 불가피",
-        "date": "2025-06-02 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141845"
-    },
-    {
-        "title": "10년 만에 스마트폰 보조금 큰 장 선다",
-        "date": "2025-06-02 01:25",
-        "link": "https://n.news.naver.com/mnews/article/023/0003908684?sid=101"
-    },
-    {
-        "title": "인도냐? 미국이냐?...애플의 선택은",
-        "date": "2025-06-01 23:06",
-        "link": "https://n.news.naver.com/mnews/article/052/0002200631?sid=104"
-    },
-    {
-        "title": "AWE 2025, XR 생태계 대격돌…메타·애플·스냅 '미래 전략' 공개",
-        "date": "2025-06-01 22:58",
-        "link": "https://www.tokenpost.kr/news/tech/253266"
-    },
-    {
-        "title": "中 OLED 장비 수요 폭증에 韓 ‘특수’…그러나 리스크도 자란다",
-        "date": "2025-06-01 19:21",
-        "link": "https://n.news.naver.com/mnews/article/029/0002958796?sid=101"
-    },
-    {
-        "title": "'애플' 상대 집단소송 나선 출판업계···30% 수수료는 독점",
-        "date": "2025-06-01 18:45",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2284489"
-    },
-    {
-        "title": "관세전쟁에 올해 스마트폰 시장 성장률 뚝",
-        "date": "2025-06-01 18:16",
-        "link": "https://n.news.naver.com/mnews/article/018/0006029284?sid=105"
-    },
-    {
-        "title": "애플 '나의 찾기' 기능 도입되자 생긴 일... 에어팟 절도·횡령 고소 급...",
-        "date": "2025-06-01 17:42",
-        "link": "https://www.insight.co.kr/news/505378"
-    },
-    {
-        "title": "[이주의 게임포인트] 6·3 대선 게임정책 격돌… 구글·애플 인앱결제 집...",
-        "date": "2025-06-01 17:26",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=250654"
-    },
-    {
-        "title": "가격만 들어도 오싹! 15만원 찍은 애플망고·샴페인 '빙수대전'",
-        "date": "2025-06-01 16:47",
-        "link": "https://n.news.naver.com/mnews/article/025/0003445060?sid=101"
-    },
-    {
-        "title": "[자막뉴스] 트럼프 때문에 되는 일이 없네 궁지에 몰린 애플의 선택",
-        "date": "2025-06-01 16:06",
-        "link": "https://n.news.naver.com/mnews/article/052/0002200530?sid=104"
-    },
-    {
-        "title": "“초격차 기술 확보”...민관 무기발광(iLED) 디스플레이 구축사업 첫걸...",
-        "date": "2025-06-01 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003317866?sid=105"
-    },
-    {
-        "title": "애플·구글 '인앱결제'에 반기…출판·게임계 집단 소송 움직임",
-        "date": "2025-06-01 15:57",
-        "link": "https://n.news.naver.com/mnews/article/396/0000710918?sid=105"
-    },
-    {
-        "title": "삼성물산, ‘압구정2구역’ 위해 ‘애플 본사’ 설계 노만 포스터와 손...",
-        "date": "2025-06-01 15:32",
-        "link": "http://theviewers.co.kr/View.aspx?No=3664087"
-    },
-    {
-        "title": "아이폰16 프로로 즐기는 FC 모바일…넥슨, 애플과 손잡고 명동서 체험...",
-        "date": "2025-06-01 14:49",
-        "link": "https://n.news.naver.com/mnews/article/092/0002376607?sid=105"
-    },
-    {
-        "title": "“관세로 올 스마트폰 성장률 절반 이하로 뚝”",
-        "date": "2025-06-01 14:18",
-        "link": "https://n.news.naver.com/mnews/article/023/0003908582?sid=105"
-    },
-    {
-        "title": "[체험기] 손에 안든듯 가볍네…초슬림폰 `갤S25 엣지` 써보니 `로그비...",
-        "date": "2025-06-01 13:45",
-        "link": "https://n.news.naver.com/mnews/article/029/0002958719?sid=105"
-    },
-    {
-        "title": "출협, 애플 상대 집단소송…“인앱결제 수수료 과도”",
-        "date": "2025-06-01 13:10",
-        "link": "https://n.news.naver.com/mnews/article/021/0002713332?sid=103"
-    },
-    {
-        "title": "애플, 하반기 신형 애플 워치 예고…중국 제조사 상승세 꺾을까",
-        "date": "2025-06-01 12:37",
-        "link": "https://n.news.naver.com/mnews/article/138/0002197747?sid=105"
-    },
-    {
-        "title": "종잇장처럼 얇게…삼성·애플, 초슬림폰 경쟁",
-        "date": "2025-06-01 12:06",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025053015171130038"
-    },
-    {
-        "title": "삼성전자, AI 가전 3대장 에어컨·냉장고·세탁기 위치 공고히",
-        "date": "2025-06-01 11:00",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=456346"
-    },
-    {
-        "title": "'아이폰17' 타사 대비 약점 '카메라 강화'…‘메탈렌즈’ 전면 도입",
-        "date": "2025-06-01 09:11",
-        "link": "https://n.news.naver.com/mnews/article/138/0002197732?sid=105"
-    },
-    {
-        "title": "출협, 애플 상대로 집단소송… 앱 마켓 독점 막아야",
-        "date": "2025-06-01 09:02",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=503549"
-    },
-    {
-        "title": "벤큐 용도별 전용 모니터로 틈새 시장 선점",
-        "date": "2025-06-01 09:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002376573?sid=105"
-    },
-    {
-        "title": "[주간게임노트] 애플, 첫 게임사 인수에 통합 게임 앱까지… 게임 전략...",
-        "date": "2025-06-01 08:52",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=72959"
-    },
-    {
-        "title": "해조류 키우는 유리·냉매 없는 냉장고…신소재 힘주는 삼성·LG",
-        "date": "2025-06-01 07:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008287173?sid=101"
     }
 ]
