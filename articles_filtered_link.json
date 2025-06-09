@@ -1,5 +1,790 @@
 [
     {
+        "title": "애플, 폐쇄적 생태계 한계로 AI 역량 시험대 올라",
+        "date": "2025-06-09 13:00",
+        "link": "https://n.news.naver.com/mnews/article/123/0002360815?sid=004"
+    },
+    {
+        "title": "에스라이즈, HP 게이밍 노트북 일주일간 지마켓 빡세일 참여",
+        "date": "2025-06-09 12:56",
+        "link": "https://kbench.com/?q=node/268150"
+    },
+    {
+        "title": "아이패드부터 애플워치까지…우주로 간 애플 제품들",
+        "date": "2025-06-09 12:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569906"
+    },
+    {
+        "title": "탑런토탈솔루션, OLED 소재 업체 진웅산업 인수",
+        "date": "2025-06-09 12:15",
+        "link": "https://n.news.naver.com/mnews/article/030/0003319713?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 S 시리즈 카메라 업그레이드 최장 3년간 중단... 반도체 손...",
+        "date": "2025-06-09 11:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800852"
+    },
+    {
+        "title": "삼성 첫 3단 폴더블폰 '갤럭시 G 폴드' 중국 출시 확인",
+        "date": "2025-06-09 11:54",
+        "link": "https://kbench.com/?q=node/268140"
+    },
+    {
+        "title": "LG유플러스 '익시오', 지원 단말 확대...갤럭시 S21 이상",
+        "date": "2025-06-09 11:40",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=265862"
+    },
+    {
+        "title": "LG유플러스 , AI 통화 에이전트 '익시오' 갤럭시 S21 이상으로 지원 단말...",
+        "date": "2025-06-09 11:40",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35179"
+    },
+    {
+        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
+        "date": "2025-06-09 11:39",
+        "link": "https://n.news.naver.com/mnews/article/018/0006034728?sid=101"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상 지원 단말 확대",
+        "date": "2025-06-09 11:32",
+        "link": "https://www.betanews.net/article/view/beta202506090032"
+    },
+    {
+        "title": "탑런토탈솔루션, OLED 소재 전문 진웅산업 인수",
+        "date": "2025-06-09 11:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269347"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 S21 이상으로 '익시오' 지원 단말 확대",
+        "date": "2025-06-09 11:22",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=104578"
+    },
+    {
+        "title": "VR 게임은 죽지 않는다… 밸브의 ‘데커드’가 현실이 된다면",
+        "date": "2025-06-09 11:20",
+        "link": "https://www.itworld.co.kr/article/4003453/vr-게임은-죽지-않는다-밸브의-데커드가-현실이.html"
+    },
+    {
+        "title": "탑런토탈솔루션, 진웅산업 지분 60% 인수…OLED 진출 본격화",
+        "date": "2025-06-09 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569891"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 S21 이상으로 '익시오' 지원 단말 확대",
+        "date": "2025-06-09 11:14",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=638593"
+    },
+    {
+        "title": "[더벨][i-point]탑런토탈솔루션, 'OLED 소재 전문기업' 진웅산업 인수",
+        "date": "2025-06-09 11:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506091033172920105348"
+    },
+    {
+        "title": "신기술 도입하며 한국 주도 OLED 시장 침투하는 중국",
+        "date": "2025-06-09 11:12",
+        "link": "https://n.news.naver.com/mnews/article/023/0003909971?sid=105"
+    },
+    {
+        "title": "퀴즈노스, 6월 '이달의 Q' 여름 한정 콤보 출시…애플망고 리코타 샌드...",
+        "date": "2025-06-09 11:10",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2063725"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품 공개 한 달 앞으로...'초슬림·울트라'로 시장...",
+        "date": "2025-06-09 11:08",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214398"
+    },
+    {
+        "title": "엠씨넥스, 메타·삼성·애플의 격전지 '스마트 안경' 핵심 기술 개발한...",
+        "date": "2025-06-09 11:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005204767?sid=101"
+    },
+    {
+        "title": "애플, WWDC(세계 개발자 회의) 25서 공개할 'iOS 26' 어떻게 달라질까?",
+        "date": "2025-06-09 11:06",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800845"
+    },
+    {
+        "title": "애플 'iOS 26' 도입할 새로운 UI 이름은 '리퀴드 글래스'",
+        "date": "2025-06-09 11:04",
+        "link": "https://kbench.com/?q=node/268139"
+    },
+    {
+        "title": "'아이폰16 프로'로 찍었다…애플, 에스파 신곡 비디오 공개",
+        "date": "2025-06-09 11:03",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377352?sid=105"
+    },
+    {
+        "title": "에스파, 애플과 손잡았다…쇠맛 가득 신곡 ‘Dirty Work’ 퍼포먼스",
+        "date": "2025-06-09 11:03",
+        "link": "https://m.entertain.naver.com/article/609/0000995709"
+    },
+    {
+        "title": "밝은데서도 잘 보여...LG전자 OLED TV '퍼펙트' 화질 인증",
+        "date": "2025-06-09 11:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377350?sid=105"
+    },
+    {
+        "title": "동서식품, 애플사이다비니거 함유 '동서 애사비 콤부차' 3종 출시",
+        "date": "2025-06-09 11:02",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=111864"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 11:00",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=402584"
+    },
+    {
+        "title": "LG전자, OLED TV 실내조명 환경 화질 인증 '퍼펙트' 획득",
+        "date": "2025-06-09 11:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140623"
+    },
+    {
+        "title": "삼성전자, 3년 만에 美 뉴욕서 언팩…'초슬림 울트라 AI'",
+        "date": "2025-06-09 10:58",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025060910085067891"
+    },
+    {
+        "title": "LG U+ 갤럭시S21 이상 고객도 AI비서 '익시오'로 실시간 보이스피싱 차...",
+        "date": "2025-06-09 10:58",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=110101"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:56",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=65390"
+    },
+    {
+        "title": "LG유플러스, AI 통화 에이전트 '익시오' 지원 단말기 확대",
+        "date": "2025-06-09 10:56",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89171"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:54",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=179340"
+    },
+    {
+        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
+        "date": "2025-06-09 10:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=350100"
+    },
+    {
+        "title": "OLED 노리는 中 디스플레이…자체 기술로 삼성·LG 맹추격",
+        "date": "2025-06-09 10:50",
+        "link": "https://n.news.naver.com/mnews/article/029/0002959921?sid=101"
+    },
+    {
+        "title": "에스파 ‘더티 워크’ 애플과 손 잡았다",
+        "date": "2025-06-09 10:49",
+        "link": "https://m.entertain.naver.com/article/144/0001044982"
+    },
+    {
+        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
+        "date": "2025-06-09 10:48",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=28659"
+    },
+    {
+        "title": "LG유플러스 '익시오' AI 생태계 확대...갤럭시 S21 이상으로 지원 단말 ...",
+        "date": "2025-06-09 10:48",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=48943"
+    },
+    {
+        "title": "애플, 뉴진스 다음 선택은 '에스파'",
+        "date": "2025-06-09 10:48",
+        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=481462"
+    },
+    {
+        "title": "탑런토탈솔루션, OLED 소재 전문 진웅산업 인수",
+        "date": "2025-06-09 10:47",
+        "link": "https://n.news.naver.com/mnews/article/003/0013292202?sid=101"
+    },
+    {
+        "title": "애플, 이동통신사 프로모션 확대한다…아이폰 교체 조건 완화",
+        "date": "2025-06-09 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569874"
+    },
+    {
+        "title": "LG유플러스, '익시오' 지원 단말 확대… 갤럭시 S21 이상 가능",
+        "date": "2025-06-09 10:46",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227733"
+    },
+    {
+        "title": "에스파, 애플 아이폰 16 프로로 촬영한 ‘더티 워크’ 뮤비 공개",
+        "date": "2025-06-09 10:43",
+        "link": "https://n.news.naver.com/mnews/article/366/0001083696?sid=004"
+    },
+    {
+        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
+        "date": "2025-06-09 10:42",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=650615"
+    },
+    {
+        "title": "LG유플러스, AI 비서 ‘익시오’ 갤럭시 S21 이상까지 지원",
+        "date": "2025-06-09 10:41",
+        "link": "https://n.news.naver.com/mnews/article/144/0001044977?sid=105"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 위한 SME Week 개최",
+        "date": "2025-06-09 10:40",
+        "link": "https://n.news.naver.com/mnews/article/014/0005360480?sid=105"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:40",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202506091034003863a310e76584_30"
+    },
+    {
+        "title": "아이패드OS 26, 애플펜슬 리드 캘리그래피 기능 지원…서예 모드 탑재",
+        "date": "2025-06-09 10:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569852"
+    },
+    {
+        "title": "애플, AI 음성 모델 분석 강화…사람처럼 감정까지 분석",
+        "date": "2025-06-09 10:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569855"
+    },
+    {
+        "title": "LG유플러스, 지인 목소리 딥페이크 잡는 기능 탑재한다",
+        "date": "2025-06-09 10:39",
+        "link": "https://www.kpinews.kr/newsView/1065576927692688"
+    },
+    {
+        "title": "LG전자 OLED TV, 밝은 곳에서도 잘 보인다…'퍼펙트' 인증 획득",
+        "date": "2025-06-09 10:26",
+        "link": "https://n.news.naver.com/mnews/article/008/0005204722?sid=101"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:24",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=102911"
+    },
+    {
+        "title": "LG전자 OLED TV, 밝은 환경 화질 '퍼펙트' 등급 인증 획득",
+        "date": "2025-06-09 10:24",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3279065"
+    },
+    {
+        "title": "LG전자, 실내조명에서도 OLED TV '퍼펙트' 화질 입증",
+        "date": "2025-06-09 10:24",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130723"
+    },
+    {
+        "title": "1m 물 속에서 1000번 접고 펼 수 있다…최강 방수 폴더블폰 등장하나",
+        "date": "2025-06-09 10:22",
+        "link": "https://kbench.com/?q=node/268135"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상 지원 단말 확대",
+        "date": "2025-06-09 10:22",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=244030"
+    },
+    {
+        "title": "LGU+ AI 통화 에이전트 서비스 '익시오' 지원 확대...갤럭시 S21 이후 단...",
+        "date": "2025-06-09 10:22",
+        "link": "https://www.redian.org/news/articleView.html?idxno=253210"
+    },
+    {
+        "title": "LG유플러스, AI 에이전트 '익시오' 갤럭시 지원 단말 확대...S21까지 된다",
+        "date": "2025-06-09 10:20",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140619"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 지원 단말 대폭 확대",
+        "date": "2025-06-09 10:20",
+        "link": "https://n.news.naver.com/mnews/article/215/0001211937?sid=101"
+    },
+    {
+        "title": "애플, iOS 26 ‘액체 유리’ 전환 예고…20주년 아이폰 위한 전조",
+        "date": "2025-06-09 10:19",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198075?sid=105"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 시리즈 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:18",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=214814"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:18",
+        "link": "https://www.cnbnews.com/news/article.html?no=730277"
+    },
+    {
+        "title": "LG유플러스, AI서비스 '익시오' 이용 단말기 갤S21 이상으로 확대",
+        "date": "2025-06-09 10:16",
+        "link": "http://theviewers.co.kr/View.aspx?No=3670106"
+    },
+    {
+        "title": "위기의 애플, 'WWDC25'에서 반전 카드 꺼낼까",
+        "date": "2025-06-09 10:14",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140620"
+    },
+    {
+        "title": "아이폰으로 담은, 에스파…'더티 워크', 애플 캠페인",
+        "date": "2025-06-09 10:14",
+        "link": "https://m.entertain.naver.com/article/433/0000117197"
+    },
+    {
+        "title": "보조금 중단에 中 소비 '꽁꽁' … 삼성·LG, 전자부품 수출길도 '막막'",
+        "date": "2025-06-09 10:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/09/2025060900095.html"
+    },
+    {
+        "title": "통신 3사, 단통법 폐지·신제품 출시 맞춰 보조금 경쟁 본격화",
+        "date": "2025-06-09 10:10",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84020"
+    },
+    {
+        "title": "글로벌 인증 속속…삼성·LG, 프리미엄 TV 화질 경쟁 격화",
+        "date": "2025-06-09 10:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142222"
+    },
+    {
+        "title": "LGU+, AI 통화 비서 '익시오' 갤럭시 S21 이상까지 지원",
+        "date": "2025-06-09 10:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202506090067"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 10:04",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=97378"
+    },
+    {
+        "title": "한양대 정재경 교수, 수직 집적 가능한 ‘삼진로직소자’ 개발",
+        "date": "2025-06-09 10:03",
+        "link": "https://n.news.naver.com/mnews/article/016/0002481979?sid=102"
+    },
+    {
+        "title": "LG U+ AI 에이전트 '익시오', 지원 단말 확대한다",
+        "date": "2025-06-09 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=92990"
+    },
+    {
+        "title": "애플, '아이폰16 프로'로 촬영한 에스파 신곡 비디오 공개",
+        "date": "2025-06-09 10:00",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269310"
+    },
+    {
+        "title": "최대 23W 출력으로 3대 동시 사용에도 고속 충전 가능한 오토라 3in1 무선...",
+        "date": "2025-06-09 10:00",
+        "link": "https://news.appstory.co.kr/tech18120"
+    },
+    {
+        "title": "LG전자 OLED TV, '실내조명 환경 화질 인증' 최고 등급 '퍼펙트'",
+        "date": "2025-06-09 10:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251490"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:58",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=142127"
+    },
+    {
+        "title": "LG유플러스, AI 앱 ‘익시오’ 갤럭시S21 이후 출시 단말 지원",
+        "date": "2025-06-09 09:54",
+        "link": "https://n.news.naver.com/mnews/article/366/0001083671?sid=105"
+    },
+    {
+        "title": "Npay 포인트, 기아·삼성디스플레이 등 B2B로 확대",
+        "date": "2025-06-09 09:53",
+        "link": "https://n.news.naver.com/mnews/article/014/0005360428?sid=101"
+    },
+    {
+        "title": "LGU+ 갤럭시S25만 되던 AI비서 '익시오', '갤럭시S21 이상·갤럭시A시리...",
+        "date": "2025-06-09 09:50",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=327359"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:50",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317602"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:50",
+        "link": "http://www.fntimes.com/html/view.php?ud=2025060909473063847fd637f543_18"
+    },
+    {
+        "title": "LGU+ '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:46",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251501"
+    },
+    {
+        "title": "LG유플러스, 보이스피싱 잡는 AI 통화 서비스 '익시오' 단말기 확대",
+        "date": "2025-06-09 09:46",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=717340"
+    },
+    {
+        "title": "에스파 신곡 영상, 아이폰으로 찍었다…'더티 워크' 뮤비 공개",
+        "date": "2025-06-09 09:45",
+        "link": "https://n.news.naver.com/mnews/article/277/0005604421?sid=105"
+    },
+    {
+        "title": "LGU+ AI통화에이전트 '익시오' 지원 단말 확대",
+        "date": "2025-06-09 09:40",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=82752"
+    },
+    {
+        "title": "LG유플러스, '익시오' 적용 단말기 갤럭시 S21 이상으로 확대",
+        "date": "2025-06-09 09:38",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=528163"
+    },
+    {
+        "title": "LG유플러스, '익시오' 갤럭시 S21 이상으로 지원 단말 늘린다",
+        "date": "2025-06-09 09:38",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=265289"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:38",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=57645"
+    },
+    {
+        "title": "네이버페이(Npay) 포인트, 기아·삼성디스플레이 등 B2B로 사용처 확대",
+        "date": "2025-06-09 09:37",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198063?sid=101"
+    },
+    {
+        "title": "LG유플러스, '익시오' 지원 단말 확대",
+        "date": "2025-06-09 09:36",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3045447"
+    },
+    {
+        "title": "LG유플러스, 갤S21 이상 단말에 AI 통화 에이전트 '익시오' 지원",
+        "date": "2025-06-09 09:36",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=86124"
+    },
+    {
+        "title": "[다시 한번 K-인더스트리]④'AI폰 명가'로 K모바일 위상 되살릴 때",
+        "date": "2025-06-09 09:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198062?sid=105"
+    },
+    {
+        "title": "애플 아이폰 16 프로로 촬영한 에스파 '더티 워크' 뮤비 공개",
+        "date": "2025-06-09 09:33",
+        "link": "https://n.news.naver.com/mnews/article/001/0015438093?sid=105"
+    },
+    {
+        "title": "LGU+ AI 통화 에이전트 ‘익시오’, 갤S21까지 서비스 확대",
+        "date": "2025-06-09 09:32",
+        "link": "https://www.ceoscoredaily.com/page/view/2025060909305858843"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:32",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=649898"
+    },
+    {
+        "title": "'기업복지' 사용처 한계 허문다…Npay 포인트, 기아·삼성디스플레이로...",
+        "date": "2025-06-09 09:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006034564?sid=105"
+    },
+    {
+        "title": "[다시 한번 K-인더스트리] ② 中, OLED까지 넘보는데…韓 '성숙산업' 인...",
+        "date": "2025-06-09 09:31",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198060?sid=105"
+    },
+    {
+        "title": "갤럭시 S21부터 'AI 익시오' 쓴다…LGU+ 지원 단말 확대",
+        "date": "2025-06-09 09:30",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=261111"
+    },
+    {
+        "title": "애플, '아이폰16 프로'로 촬영한 에스파 신곡 비디오 공개",
+        "date": "2025-06-09 09:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013291845?sid=105"
+    },
+    {
+        "title": "애플 '아이폰 16 프로'로 촬영한 에스파 신곡 퍼포먼스 비디오 공개",
+        "date": "2025-06-09 09:30",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140610"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, ‘갤럭시 S21’ 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:28",
+        "link": "https://www.viva100.com/article/20250609500293"
+    },
+    {
+        "title": "애플-에스파, 아이폰 16 프로로 촬영한 신곡 비디오 공개",
+        "date": "2025-06-09 09:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002481927?sid=105"
+    },
+    {
+        "title": "애플, 뉴진스 대신 에스파 택했다.. 아이폰으로 찍은 뮤비 공개 [1일IT템...",
+        "date": "2025-06-09 09:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005360393?sid=105"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:26",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214360"
+    },
+    {
+        "title": "LG유플러스, 보이스피싱 탐지 AI '익시오' 갤럭시 지원모델 확대",
+        "date": "2025-06-09 09:22",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2087691"
+    },
+    {
+        "title": "LGU+ 갤럭시S21부터 AI 익시오 쓰세요",
+        "date": "2025-06-09 09:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377310?sid=105"
+    },
+    {
+        "title": "“OLED 시장도 노리는 왕서방” 중국 새 기술로 한국 아성에 도전",
+        "date": "2025-06-09 09:21",
+        "link": "https://n.news.naver.com/mnews/article/050/0000091947?sid=101"
+    },
+    {
+        "title": "LG유플러스 AI 에이전트 '익시오', 갤럭시 S21 이상까지 지원",
+        "date": "2025-06-09 09:20",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=178442"
+    },
+    {
+        "title": "애플 GUI 선구자 '빌 앳킨슨' 별세…PC 대중화 이끈 혁신가",
+        "date": "2025-06-09 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569840"
+    },
+    {
+        "title": "콤부차·애플사이다비니거 스틱 하나에…동서식품, 신제품 '동서 애사...",
+        "date": "2025-06-09 09:18",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89124"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:16",
+        "link": "https://www.etoday.co.kr/news/view/2477025"
+    },
+    {
+        "title": "LG유플러스, AI 통화비서 '익시오', 갤럭시 S21에도 탑재",
+        "date": "2025-06-09 09:16",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=186798"
+    },
+    {
+        "title": "LG U+, 갤럭시 S21까지 AI 통화 에이전트 '익시오' 지원",
+        "date": "2025-06-09 09:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006034531?sid=105"
+    },
+    {
+        "title": "LG유플러스. ‘익시오’ 이용 단말기 '갤럭시 S21' 이상으로 확대",
+        "date": "2025-06-09 09:14",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073527"
+    },
+    {
+        "title": "갤S21부터 실속형까지…LG유플 '익시오', 단말기 대폭 확대",
+        "date": "2025-06-09 09:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025060909052514840b8d776efa_1/article.html"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 S21 이상이면 '익시오' 사용 가능 ... 지원 단말기 ...",
+        "date": "2025-06-09 09:10",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=69290"
+    },
+    {
+        "title": "네이버페이, 'B2B 사업' 확장…기아·삼성디스플레이 등 포인트 사용처...",
+        "date": "2025-06-09 09:10",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=261102"
+    },
+    {
+        "title": "LG유플러스, AI 통화 에이전트 '익시오' 지원 단말기 확대",
+        "date": "2025-06-09 09:07",
+        "link": "https://www.newspim.com/news/view/20250609000074"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터, 'SME Week 중소기업 지원 프로그램' 개...",
+        "date": "2025-06-09 09:04",
+        "link": "https://n.news.naver.com/mnews/article/030/0003319548?sid=102"
+    },
+    {
+        "title": "韓 OLED 아성에 도전장…中, 'FMM-Free' 신기술로 추격 가속화",
+        "date": "2025-06-09 09:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665556"
+    },
+    {
+        "title": "LGU+, ‘익시오’ 적용 단말기 갤럭시 S21 이상으로 확대",
+        "date": "2025-06-09 09:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/09/2025060900044.html"
+    },
+    {
+        "title": "LG유플러스 AI에이전트 '익시오', 갤럭시S21 이후 모델도 지원",
+        "date": "2025-06-09 09:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003319543?sid=105"
+    },
+    {
+        "title": "LGU+ '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 09:00",
+        "link": "https://n.news.naver.com/mnews/article/031/0000938391?sid=105"
+    },
+    {
+        "title": "LG유플러스, AI 통화비서 '익시오' 갤럭시 S21 이상까지 지원",
+        "date": "2025-06-09 08:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015437985?sid=105"
+    },
+    {
+        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 08:58",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=300649"
+    },
+    {
+        "title": "LG유플러스 AI '익시오', 갤럭시S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 08:58",
+        "link": "https://n.news.naver.com/mnews/article/417/0001081677?sid=105"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상 지원 단말 확대",
+        "date": "2025-06-09 08:56",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7114513"
+    },
+    {
+        "title": "“삼성·LG 독점 깨질까…中, OLED 시장서 기술전 돌입”",
+        "date": "2025-06-09 08:54",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=186782"
+    },
+    {
+        "title": "동서식품, 신제품 '동서 애사비 콤부차' 3종 출시...콤부차와 애플사이...",
+        "date": "2025-06-09 08:50",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=82511"
+    },
+    {
+        "title": "LGU+ '익시오' 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 08:46",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3279029"
+    },
+    {
+        "title": "'기업복지' 넘보는 네이버페이, 기아·삼성디스플레이 등 B2B 확대 '분주...",
+        "date": "2025-06-09 08:46",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227701"
+    },
+    {
+        "title": "애플 연례 개발자 행사 코앞…'뒤쳐졌다' 오명 씻을까 [친절한 IT]",
+        "date": "2025-06-09 08:44",
+        "link": "https://n.news.naver.com/mnews/article/293/0000068298?sid=105"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 08:44",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=425057"
+    },
+    {
+        "title": "LG유플러스, 보이스피싱 막는 '익시오' 서비스 지원 단말기 확장",
+        "date": "2025-06-09 08:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=350010"
+    },
+    {
+        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
+        "date": "2025-06-09 08:40",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=61727"
+    },
+    {
+        "title": "애플, iOS 18.5 업데이트 후 메일 앱 오류 속출. 해결 방법은?",
+        "date": "2025-06-09 08:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531941"
+    },
+    {
+        "title": "구형 갤럭시폰 사용자도 LG유플러스 통화 에이전트 ‘익시오’ 쓴다",
+        "date": "2025-06-09 08:33",
+        "link": "https://n.news.naver.com/mnews/article/032/0003374868?sid=105"
+    },
+    {
+        "title": "애플, 획기적 '운영체제·AI 기능' 선보일까",
+        "date": "2025-06-09 08:32",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=148450"
+    },
+    {
+        "title": "LG유플러스, ‘익시오’ 지원 단말 확대..갤럭시 S21 이상 사용 가능",
+        "date": "2025-06-09 08:30",
+        "link": "http://kpenews.com/View.aspx?No=3669942"
+    },
+    {
+        "title": "LG유플러스 '익시오', 안드로이드 지원 단말 확대",
+        "date": "2025-06-09 08:28",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=82505"
+    },
+    {
+        "title": "애플 WWDC 2025, 기대와 우려 사이에서의 선택 [ 월가의 돈이 되는 트렌...",
+        "date": "2025-06-09 08:27",
+        "link": "https://n.news.naver.com/mnews/article/215/0001211905?sid=101"
+    },
+    {
+        "title": "[기업이슈] 신한카드 '애플페이' 하반기 출시…전자결제주 상승",
+        "date": "2025-06-09 08:24",
+        "link": "https://n.news.naver.com/mnews/article/374/0000444618?sid=101"
+    },
+    {
+        "title": "애플과 X도 스테이블코인 도입을 추진",
+        "date": "2025-06-09 08:18",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=810459"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블폰 '갤럭시Z 폴드7' 16GB + 1TB 버전 출시 되나...",
+        "date": "2025-06-09 08:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531936"
+    },
+    {
+        "title": "OLED 시장 노리는 中…자체기술 대거도입 침투율 확대",
+        "date": "2025-06-09 07:58",
+        "link": "https://n.news.naver.com/mnews/article/374/0000444615?sid=101"
+    },
+    {
+        "title": "[더벨][이사회 분석]김용관 삼성전자 사장, 계열사 입지 확대 '속도'",
+        "date": "2025-06-09 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506041335552400108356"
+    },
+    {
+        "title": "[더벨]LGD, 광저우 LCD 공장 매각대금 사용처 윤곽",
+        "date": "2025-06-09 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506051408453280105866"
+    },
+    {
+        "title": "OLED 시장 노리는 중국 디스플레이 업체…자체 기술 대거 도입",
+        "date": "2025-06-09 07:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015437887?sid=101"
+    },
+    {
+        "title": "애플페이로 돈 훔쳤어요…틱톡의 위험한 장난, 결국 체포로 이어져",
+        "date": "2025-06-09 07:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531932"
+    },
+    {
+        "title": "'초고화질' 마이크로 LED, 차세대 디스플레이 선봉장…XR·차량용으로도...",
+        "date": "2025-06-09 07:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004494542?sid=101"
+    },
+    {
+        "title": "“애플과 X도 스테이블코인 원한다” 서클 이틀간 247% 폭등",
+        "date": "2025-06-09 06:46",
+        "link": "https://n.news.naver.com/mnews/article/421/0008300654?sid=104"
+    },
+    {
+        "title": "갤럭시, 도난·분실에도 걱정 없다…“비번 알아도 ‘결제 기능’ 못 쓴...",
+        "date": "2025-06-09 06:10",
+        "link": "https://n.news.naver.com/mnews/article/022/0004041891?sid=105"
+    },
+    {
+        "title": "도우인시스 “폴더블폰 UTG 생산 확대…IT용도 준비”",
+        "date": "2025-06-09 06:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003319521?sid=105"
+    },
+    {
+        "title": "[주니어전자]IT 히어로 - “세상을 더 나은 곳으로”…팀 쿡 애플 CEO",
+        "date": "2025-06-09 06:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003319520?sid=102"
+    },
+    {
+        "title": "'다이어트' 맛들인 삼성, 갤Z폴드7도 초슬림 한계 넘는다",
+        "date": "2025-06-09 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142149"
+    },
+    {
+        "title": "돌아온 공짜폰 시대? 새 정부, 통신시장 혼란·소비자 불평등 어떻게 잡...",
+        "date": "2025-06-09 06:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002965651?sid=105"
+    },
+    {
+        "title": "[비즈마켓 VIEW] ‘적자 탈출’ LGD, 파주에 OLED 수천억 재투자",
+        "date": "2025-06-09 05:20",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202506071550310840007"
+    },
+    {
         "title": "삼성 vs 애플, 하드웨어에서 생태계로 ‘페이 전쟁’ 본격화",
         "date": "2025-06-09 05:00",
         "link": "https://www.etoday.co.kr/news/view/2476683"
