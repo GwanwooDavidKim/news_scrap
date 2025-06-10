@@ -1,5 +1,815 @@
 [
     {
+        "title": "하반기 전면전 앞둔 갤럭시Z7·아이폰17…트럼프 관세가 ‘찬물’",
+        "date": "2025-06-11 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2477559"
+    },
+    {
+        "title": "애플 수석 부사장이 WWDC25서 극찬한 국산 게임은?",
+        "date": "2025-06-11 03:23",
+        "link": "https://m.sports.naver.com/esports/article/347/0000186981"
+    },
+    {
+        "title": "애플, ‘리퀴드 글라스’ OS 첫선… AI 혁신은 안보여",
+        "date": "2025-06-11 03:03",
+        "link": "https://n.news.naver.com/mnews/article/020/0003640422?sid=101"
+    },
+    {
+        "title": "세일러 애플, 자사주 말고 '비트코인' 사라",
+        "date": "2025-06-11 02:02",
+        "link": "http://coinreaders.com/165718"
+    },
+    {
+        "title": "애플, AI 핵심기능 시리 업그레이드 또 1년 미뤄...투자자 실망에 주가 ...",
+        "date": "2025-06-11 01:50",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506101939512210fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "애플, WWDC25서 OS 디자인 개편…AI 혁신은 '실종'",
+        "date": "2025-06-11 01:24",
+        "link": "https://n.news.naver.com/mnews/article/293/0000068392?sid=105"
+    },
+    {
+        "title": "애플 ‘반투명 창’ 새 디자인 공개… “AI 부활은 아직 멀었다”",
+        "date": "2025-06-11 00:33",
+        "link": "https://n.news.naver.com/mnews/article/023/0003910294?sid=105"
+    },
+    {
+        "title": "기대 못 미친 애플 WWDC…투자자 실망, AI 전략 '점진적 개선'에 그쳐",
+        "date": "2025-06-11 00:26",
+        "link": "https://www.tokenpost.kr/news/tech/256252"
+    },
+    {
+        "title": "반투명 디자인만 선보인 애플… AI 혁신은 없었다",
+        "date": "2025-06-11 00:13",
+        "link": "https://n.news.naver.com/mnews/article/005/0001782294?sid=101"
+    },
+    {
+        "title": "애플 ‘반투명 디자인’ 첫 도입, 이번에도 혁신은 빠졌다",
+        "date": "2025-06-11 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003447109?sid=101"
+    },
+    {
+        "title": "인앱 결제 수수료 낮춰야 출협, 구글·애플 상대 집단소송",
+        "date": "2025-06-10 22:58",
+        "link": "https://n.news.naver.com/mnews/article/469/0000869636?sid=103"
+    },
+    {
+        "title": "애플 아이맥 결함 논란, 국내서도 터졌다...“제조 결함 가능성”",
+        "date": "2025-06-10 22:54",
+        "link": "https://wemakenews.co.kr/news/view.php?no=21878"
+    },
+    {
+        "title": "[캐리해볼까] 라인게임즈·스마게·크래프톤·웹젠·컴투스·네오위즈 외",
+        "date": "2025-06-10 22:16",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=691970"
+    },
+    {
+        "title": "레이저, 역대 가장 얇은 게이밍 노트북 출시",
+        "date": "2025-06-10 21:52",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=93271"
+    },
+    {
+        "title": "휴대성·성능·AI까지 잡았다 레이저, 초슬림 게이밍 노트북 '블레이드...",
+        "date": "2025-06-10 21:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532034"
+    },
+    {
+        "title": "[브리프]넥슨 넷마블 크래프톤 스마일게이트 카카오게임즈 컴투스 위메...",
+        "date": "2025-06-10 21:22",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=335370"
+    },
+    {
+        "title": "마이클 세일러 애플, 자사주 대신 비트코인($BTC) 사야…CNBC 비판 직후...",
+        "date": "2025-06-10 21:10",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/256168"
+    },
+    {
+        "title": "애플, 운영체제 대대적 개편…반투명 디자인 도입",
+        "date": "2025-06-10 21:10",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1486284"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 모금캠페인 동참",
+        "date": "2025-06-10 21:08",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=833073"
+    },
+    {
+        "title": "엑시노스의 귀환…다시 꿈꾸는 삼성전자",
+        "date": "2025-06-10 21:01",
+        "link": "https://n.news.naver.com/mnews/article/024/0000097745?sid=101"
+    },
+    {
+        "title": "‘아픈 손가락’ 불고 있는 LG 계열사들",
+        "date": "2025-06-10 21:01",
+        "link": "https://n.news.naver.com/mnews/article/024/0000097746?sid=101"
+    },
+    {
+        "title": "한국 출판업계, 애플·구글 인앱 결제 수수료 문제로 집단소송 제기",
+        "date": "2025-06-10 20:52",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=811721"
+    },
+    {
+        "title": "'AI 보다 디자인'...애플, 12년 만에 운영체제 바꿔도 시장은 '시큰둥'",
+        "date": "2025-06-10 20:49",
+        "link": "https://n.news.naver.com/mnews/article/052/0002204019?sid=104"
+    },
+    {
+        "title": "많이 팔릴 것 자신했는데…삼성, 이상 징후 포착에 '당황'",
+        "date": "2025-06-10 20:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005142982?sid=105"
+    },
+    {
+        "title": "‘리퀴드 글라스’ 반투명 디자인 도입한 애플…AI 혁신은 없었다",
+        "date": "2025-06-10 20:28",
+        "link": "https://n.news.naver.com/mnews/article/032/0003375339?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 임직원, 취약계층 아동 위한 후원금 1억 원 전달",
+        "date": "2025-06-10 20:27",
+        "link": "https://n.news.naver.com/mnews/article/656/0000135874?sid=102"
+    },
+    {
+        "title": "삼성디스플레이, 천안시에 1억원 기부",
+        "date": "2025-06-10 20:20",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=850008"
+    },
+    {
+        "title": "韓출판계 인앱 수수료 과도…애플 이어 구글 상대 美 집단소송",
+        "date": "2025-06-10 20:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442092?sid=103"
+    },
+    {
+        "title": "출판문화협회, 미국서 애플 이어 구글에도 집단 소송",
+        "date": "2025-06-10 20:08",
+        "link": "https://n.news.naver.com/mnews/article/422/0000748144?sid=103"
+    },
+    {
+        "title": "애플, '확산' 방식 대체할 첨단 이미지 모델 공개",
+        "date": "2025-06-10 19:44",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=171180"
+    },
+    {
+        "title": "에이서, 충남대 및 충북대서 엔비디아 RTX AI PC 캠퍼스 세미나 성료",
+        "date": "2025-06-10 19:23",
+        "link": "https://m.sports.naver.com/esports/article/442/0000183041"
+    },
+    {
+        "title": "갤럭시가 했던 건데… 애플 신기능 공개했는데 주가 빠진 이유",
+        "date": "2025-06-10 19:15",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005181?sid=105"
+    },
+    {
+        "title": "출협, 애플 이어 구글에도 집단소송...불공정 독점 행위 美 법원서 판단...",
+        "date": "2025-06-10 19:12",
+        "link": "https://n.news.naver.com/mnews/article/277/0005605570?sid=103"
+    },
+    {
+        "title": "마이클 세일러, 애플에 비트코인 매입 촉구",
+        "date": "2025-06-10 19:12",
+        "link": "https://www.tokenpost.kr/news/breaking/256138"
+    },
+    {
+        "title": "“애플 이용자 잡는다!” 하이브IM 대작 ‘아키텍트’, 애플 디바이스 ...",
+        "date": "2025-06-10 19:06",
+        "link": "https://m.sports.naver.com/esports/article/468/0001153179"
+    },
+    {
+        "title": "애플 WWDC25서 '애플 인텔리전스' 본격 시동…온디바이스 AI로 승부수",
+        "date": "2025-06-10 19:04",
+        "link": "https://www.bizhankook.com/bk/article/29765"
+    },
+    {
+        "title": "몰려오는 中폴더블폰… 삼성, 초슬림·보급형 '쌍끌이 방어전'",
+        "date": "2025-06-10 18:52",
+        "link": "https://n.news.naver.com/mnews/article/014/0005361449?sid=105"
+    },
+    {
+        "title": "레이저, 역대 가장 얇은 게이밍 노트북 블레이드 2025 출시",
+        "date": "2025-06-10 18:50",
+        "link": "https://m.sports.naver.com/esports/article/442/0000183038"
+    },
+    {
+        "title": "[AI 리뷰] AGI에 도달할 것이라는 낙관론에 경고!...애플 연구진, AI는 ...",
+        "date": "2025-06-10 18:48",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35200"
+    },
+    {
+        "title": "애플 AI 혁신 ‘혹평’…신제품 앞둔 갤럭시 호재될까",
+        "date": "2025-06-10 18:30",
+        "link": "https://www.sentv.co.kr/article/view/sentv202506100137"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 모금캠페인 동참",
+        "date": "2025-06-10 18:18",
+        "link": "http://www.bzeronews.com/news/articleView.html?idxno=714199"
+    },
+    {
+        "title": "WWDC서 사라진 애플 ‘AI 혁신’…삼성은 갤럭시Z7 반격 채비",
+        "date": "2025-06-10 18:10",
+        "link": "https://www.kukinews.com/article/view/kuk202506100192"
+    },
+    {
+        "title": "삼성전자·애플, AI 선두 향해 '기초부터 다시'…성과는",
+        "date": "2025-06-10 18:10",
+        "link": "https://www.kpinews.kr/newsView/1065602053470415"
+    },
+    {
+        "title": "미국발 관세로 스마트폰 생산량 감소할 것…삼성·애플 하반기 신제품...",
+        "date": "2025-06-10 18:08",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=273147"
+    },
+    {
+        "title": "출협 애플에 이어 구글 상대로도 인앱 수수료 집단소송",
+        "date": "2025-06-10 18:04",
+        "link": "https://n.news.naver.com/mnews/article/032/0003375303?sid=103"
+    },
+    {
+        "title": "아이폰 경험 맥에 확장…애플, 맥OS '타호 26' 공개",
+        "date": "2025-06-10 18:03",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377606?sid=105"
+    },
+    {
+        "title": "신한·KB국민카드, ‘애플페이’ 도입 추진… 수수료 부담 소비자 전가...",
+        "date": "2025-06-10 18:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506101603521122e30fcb1ba8_1/article.html"
+    },
+    {
+        "title": "Razer, 초슬림 프리미엄 게이밍 노트북 ‘Blade’ 신제품 출시",
+        "date": "2025-06-10 18:00",
+        "link": "https://cwn.kr/article/1065590879469469"
+    },
+    {
+        "title": "애플이 공개한 AI 모델, 성능 부족·미세조정 불가로 기대 안 돼",
+        "date": "2025-06-10 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=171186"
+    },
+    {
+        "title": "애플 아이폰, AI 시대엔 구닥다리...AI폰은 삼성 갤럭시폰이 '선두'",
+        "date": "2025-06-10 17:58",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=225890"
+    },
+    {
+        "title": "MS·구글 인공지능 잔치…애플은 “끼지도 못했다”",
+        "date": "2025-06-10 17:54",
+        "link": "https://n.news.naver.com/mnews/article/028/0002750305?sid=105"
+    },
+    {
+        "title": "출협 亞 최초로 구글·애플 불공정행위에 반기…국제적 주목",
+        "date": "2025-06-10 17:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008304702?sid=103"
+    },
+    {
+        "title": "출협, 애플 이어 구글과도 집단소송 인앱 결제 수수료 부당",
+        "date": "2025-06-10 17:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006035914?sid=103"
+    },
+    {
+        "title": "ASUS, RTX 5060과 QHD 165Hz 디스플레이 탑재 고성능 게이밍 노트북 출시",
+        "date": "2025-06-10 17:52",
+        "link": "https://kbench.com/?q=node/268235"
+    },
+    {
+        "title": "애플 12년만에 OS 디자인 바꿨지만…'혁신' 없었다",
+        "date": "2025-06-10 17:51",
+        "link": "https://n.news.naver.com/mnews/article/011/0004495380?sid=105"
+    },
+    {
+        "title": "애플, iOS 전면 개편 반투명 디자인 도입",
+        "date": "2025-06-10 17:51",
+        "link": "https://n.news.naver.com/mnews/article/009/0005506538?sid=105"
+    },
+    {
+        "title": "'WWDC 2025' 12년 만에 OS 개편하는 애플…혁신은 없었다",
+        "date": "2025-06-10 17:48",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250610010004409"
+    },
+    {
+        "title": "하이브IM '아키텍트', 애플 게임 유저 공략…디바이스 최적화",
+        "date": "2025-06-10 17:48",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665846"
+    },
+    {
+        "title": "애플 12년만에 새 iOS 공개...'리퀴드 글라스' 도입",
+        "date": "2025-06-10 17:48",
+        "link": "https://news.mtn.co.kr/news-detail/2025061016584517885"
+    },
+    {
+        "title": "애플·구글, 고속도로 통행료처럼 수수료 강탈…아시아 최초 소송",
+        "date": "2025-06-10 17:44",
+        "link": "https://www.ajunews.com/view/20250610162441587"
+    },
+    {
+        "title": "출판단체, 애플·구글 집단소송… “승소 땐 국내 앱 개발자 전반 수혜...",
+        "date": "2025-06-10 17:42",
+        "link": "https://n.news.naver.com/mnews/article/011/0004495367?sid=103"
+    },
+    {
+        "title": "애플, 12년 만에 운영체제 개편… 반투명 디자인 도입",
+        "date": "2025-06-10 17:41",
+        "link": "https://n.news.naver.com/mnews/article/082/0001329985?sid=101"
+    },
+    {
+        "title": "올해 스마트폰 생산량 1% 감소 전망…인도, 美 관세 수혜",
+        "date": "2025-06-10 17:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377600?sid=105"
+    },
+    {
+        "title": "애플社, 가이아나로부터 탄소배출권 10만개 구매",
+        "date": "2025-06-10 17:40",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=214478"
+    },
+    {
+        "title": "`기회는 이때` 갤럭시 AI 질주할까",
+        "date": "2025-06-10 17:39",
+        "link": "https://n.news.naver.com/mnews/article/029/0002960397?sid=105"
+    },
+    {
+        "title": "[기획] 시리야, AI는 어디있니?… 혁신도 감동도 실종된 애플",
+        "date": "2025-06-10 17:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0002960393?sid=105"
+    },
+    {
+        "title": "출판문화협회, 애플 이어 구글 상대로 미국법원에 집단소송 제기",
+        "date": "2025-06-10 17:31",
+        "link": "https://n.news.naver.com/mnews/article/025/0003447043?sid=103"
+    },
+    {
+        "title": "관세 영향 스마트폰 생산량 1% 감소…'탈 중국' 가속화 전망",
+        "date": "2025-06-10 17:30",
+        "link": "https://n.news.naver.com/mnews/article/088/0000952571?sid=101"
+    },
+    {
+        "title": "애플 '혁신 실종'…AI는 없고 디자인만 변경",
+        "date": "2025-06-10 17:30",
+        "link": "https://n.news.naver.com/mnews/article/015/0005142848?sid=105"
+    },
+    {
+        "title": "‘하드웨어 어디갔어?’ 신제품 없이 OS 디자인만 바꾼 애플",
+        "date": "2025-06-10 17:28",
+        "link": "https://n.news.naver.com/mnews/article/025/0003447040?sid=101"
+    },
+    {
+        "title": "애플 혁신의 숨은 주역, 별이 되다",
+        "date": "2025-06-10 17:26",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48429"
+    },
+    {
+        "title": "하이브IM '아키텍트: 랜드 오브 엑자일', 애플 디바이스 지원",
+        "date": "2025-06-10 17:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=754308"
+    },
+    {
+        "title": "WWDC 무대 오른 '인조이', Mac 생태계 진출로 글로벌 확장 시동",
+        "date": "2025-06-10 17:25",
+        "link": "https://m.sports.naver.com/esports/article/445/0000307205"
+    },
+    {
+        "title": "애플, WWDC에서 공개한 iOS 26 기본 배경화면",
+        "date": "2025-06-10 17:16",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=811543"
+    },
+    {
+        "title": "“구글·애플 ‘인앱결제’ 집단소송 개발자도 함께”…출판계가 첫 소...",
+        "date": "2025-06-10 17:16",
+        "link": "https://n.news.naver.com/mnews/article/028/0002750293?sid=103"
+    },
+    {
+        "title": "“매년 강제로 내는 수수료만 수조 원”…출협, 구글·애플에 집단소송",
+        "date": "2025-06-10 17:06",
+        "link": "https://n.news.naver.com/mnews/article/016/0002482909?sid=103"
+    },
+    {
+        "title": "애플, 12년 만에 디자인 개편한 ‘iOS 26’ 공개…AI 강화는 소폭에 그쳐",
+        "date": "2025-06-10 17:04",
+        "link": "https://it.donga.com/107070/"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기'에 1억 기부",
+        "date": "2025-06-10 17:02",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=497645"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 모금캠페인 동참",
+        "date": "2025-06-10 17:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1227374"
+    },
+    {
+        "title": "애플, ‘리퀴드 글래스’ 적용한 ‘iOS 26’ 공개",
+        "date": "2025-06-10 16:56",
+        "link": "https://n.news.naver.com/mnews/article/382/0001202639?sid=105"
+    },
+    {
+        "title": "잡플래닛, 6회차 플래그 개최… 애플·쿠팡·토스 출신 김유리 코치 연...",
+        "date": "2025-06-10 16:54",
+        "link": "https://www.venturesquare.net/972409"
+    },
+    {
+        "title": "신제품 없고 AI는 기대 이하…아쉬움 큰 WWDC 2025",
+        "date": "2025-06-10 16:52",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025061016021084913b60030fa2_1/article.html"
+    },
+    {
+        "title": "더 얇고 가볍고 튼튼하게…삼성전자, 갤럭시Z폴드7 기대감 '솔솔'",
+        "date": "2025-06-10 16:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140719"
+    },
+    {
+        "title": "출판문화협회, 애플 이어 구글 상대로도 집단소송 제기",
+        "date": "2025-06-10 16:46",
+        "link": "https://n.news.naver.com/mnews/article/022/0004042412?sid=103"
+    },
+    {
+        "title": "중국의 TV 굴기…프리미엄 시장도 넘본다",
+        "date": "2025-06-10 16:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006035845?sid=101"
+    },
+    {
+        "title": "'AI 보다 디자인'...애플, 12년 만에 운영체제 바꿔도 시장은 '시큰둥'",
+        "date": "2025-06-10 16:42",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202506101601400659"
+    },
+    {
+        "title": "하이브IM 기대작 '아키텍트', 애플 디바이스 최적화",
+        "date": "2025-06-10 16:41",
+        "link": "https://m.sports.naver.com/esports/article/241/0003443408"
+    },
+    {
+        "title": "반투명 아이폰 나오나... 애플, 12년 만에 운영체제 대대적 개편",
+        "date": "2025-06-10 16:38",
+        "link": "https://www.insight.co.kr/news/506467"
+    },
+    {
+        "title": "크래프톤 '인조이', 이제 애플 '맥북'에서도 즐긴다... 맥 버전 사전 예...",
+        "date": "2025-06-10 16:38",
+        "link": "https://www.insight.co.kr/news/506584"
+    },
+    {
+        "title": "애플, 12년 만에 OS 디자인 개편했지만···‘AI 한방’은 없었다",
+        "date": "2025-06-10 16:34",
+        "link": "https://n.news.naver.com/mnews/article/032/0003375276?sid=105"
+    },
+    {
+        "title": "애플, 12년만에 운영체제 전면 개편…시장 반응은 '미지근'",
+        "date": "2025-06-10 16:32",
+        "link": "http://www.metroseoul.co.kr/article/20250610500506"
+    },
+    {
+        "title": "맥 빠진 애플 개발자회의…이례적 AI 개발 지연 인정",
+        "date": "2025-06-10 16:32",
+        "link": "https://www.etoday.co.kr/news/view/2477608"
+    },
+    {
+        "title": "디자인으로 버티기 돌입한 애플 AI는 조금만 기다려 주겠니?..내년 정도...",
+        "date": "2025-06-10 16:28",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699194"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 모금캠페인 동참",
+        "date": "2025-06-10 16:26",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1247672"
+    },
+    {
+        "title": "[팩플] ‘유리인 듯 액체인 듯’ 디자인 바꾼 애플... AI 혁신은 없었다",
+        "date": "2025-06-10 16:23",
+        "link": "https://n.news.naver.com/mnews/article/025/0003447010?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 천안 취약계층 아동 위해 1억원 후원",
+        "date": "2025-06-10 16:20",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=247461"
+    },
+    {
+        "title": "출판문화협회, 애플 이어 구글 상대 집단소송…인앱결제 수수료 부당",
+        "date": "2025-06-10 16:17",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295652?sid=103"
+    },
+    {
+        "title": "애플 WWDC2025, OS 개편 속 AI 혁신은 침묵...경쟁력 저하 우려",
+        "date": "2025-06-10 16:16",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=342954"
+    },
+    {
+        "title": "애플, WWDC에서 맥 OS로 탄생한 국내 게임 대거 소개",
+        "date": "2025-06-10 16:16",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=327463"
+    },
+    {
+        "title": "삼성, 하반기 中 폴더블폰과 경쟁 심화.. 갤럭시 Z7 승부수",
+        "date": "2025-06-10 16:15",
+        "link": "https://n.news.naver.com/mnews/article/014/0005361327?sid=105"
+    },
+    {
+        "title": "애플 WWDC 실망에 LG이노텍 ‘긴장’",
+        "date": "2025-06-10 16:12",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1264643&inflow=N"
+    },
+    {
+        "title": "인앱결제 年800억 피해...韓 출판계, 구글·애플 집단소송",
+        "date": "2025-06-10 16:10",
+        "link": "https://www.etoday.co.kr/news/view/2477586"
+    },
+    {
+        "title": "하이브IM ‘아키텍트’, 애플 디바이스 최적화 출시",
+        "date": "2025-06-10 16:10",
+        "link": "https://n.news.naver.com/mnews/article/117/0003952027?sid=105"
+    },
+    {
+        "title": "WWDC서 빛난 K-게임…‘붉은사막’·‘인조이’, 애플 맥 생태계 합류",
+        "date": "2025-06-10 16:08",
+        "link": "https://www.ceoscoredaily.com/page/view/2025061015512943157"
+    },
+    {
+        "title": "크래프톤 신작 '인조이', 애플 맥북으로도 즐긴다",
+        "date": "2025-06-10 16:08",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=65497"
+    },
+    {
+        "title": "“어디서 본 것 같은데?”… 애플 ‘AI 신기능’에 삼성전자가 내놓은 ...",
+        "date": "2025-06-10 16:05",
+        "link": "https://n.news.naver.com/mnews/article/366/0001084137?sid=105"
+    },
+    {
+        "title": "애플, 12년 만에 디자인 개편…'리퀴드 글래스' 전 기기 적용",
+        "date": "2025-06-10 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320365?sid=105"
+    },
+    {
+        "title": "LCD 가격, 중국 패널 업체가 소폭 이익 남기는 수준서 유지",
+        "date": "2025-06-10 16:00",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36849"
+    },
+    {
+        "title": "크래프톤, '인조이' 맥 버전 사전 예약…김창한 애플 메탈 활용",
+        "date": "2025-06-10 16:00",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3035997"
+    },
+    {
+        "title": "[포토] 애플, iOS 26 '리퀴드 글래스' 혁명 선언",
+        "date": "2025-06-10 15:50",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320353?sid=105"
+    },
+    {
+        "title": "AI 빠진 애플 WWDC25…새 OS 기본 기능·게임 강화만 소개(종합)",
+        "date": "2025-06-10 15:46",
+        "link": "https://n.news.naver.com/mnews/article/421/0008304427?sid=105"
+    },
+    {
+        "title": "애플 실리콘 환경 최적화 '인조이' 맥버전 사전 예약 개시",
+        "date": "2025-06-10 15:44",
+        "link": "https://m.sports.naver.com/esports/article/425/0000166035"
+    },
+    {
+        "title": "대한출판문화협회, 애플 이어 구글 상대로도 집단 소송",
+        "date": "2025-06-10 15:44",
+        "link": "https://n.news.naver.com/mnews/article/052/0002203880?sid=103"
+    },
+    {
+        "title": "애플, 새로운 기본 배경화면 공개…iOS 26 맞이?",
+        "date": "2025-06-10 15:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570162"
+    },
+    {
+        "title": "하이브IM '아키텍트', 애플 디바이스 최적화 완료",
+        "date": "2025-06-10 15:34",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214571"
+    },
+    {
+        "title": "하이브IM ‘아키텍트’, 애플 기기 최적화…“아이폰·맥 유저에 새 경...",
+        "date": "2025-06-10 15:33",
+        "link": "https://n.news.naver.com/mnews/article/396/0000711857?sid=105"
+    },
+    {
+        "title": "삼성전자, 초슬림 ‘Z폴드7’로 승부수… 폴더블폰 주도권 쟁탈 본격화",
+        "date": "2025-06-10 15:30",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590878760418"
+    },
+    {
+        "title": "애플 WWDC, AI 대전환 선언…현실은 반쪽?",
+        "date": "2025-06-10 15:24",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=109863"
+    },
+    {
+        "title": "애플, iOS 디자인 확 바꿨지만...미미한 AI 성과에 시장 실망",
+        "date": "2025-06-10 15:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006035779?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 투자 시동…8.6세대엔 '신중'",
+        "date": "2025-06-10 15:18",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025061015062945461"
+    },
+    {
+        "title": "LG전자 73,400원 거래, OLED TV 품질 인증 확보",
+        "date": "2025-06-10 15:18",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=153142"
+    },
+    {
+        "title": "하이브IM, 애플 생태계 최적화…`아키텍트` 전 플랫폼 대응 예고",
+        "date": "2025-06-10 15:18",
+        "link": "https://n.news.naver.com/mnews/article/029/0002960301?sid=105"
+    },
+    {
+        "title": "'AI 기대 이하'로 애플 아이폰17 판매 감소 전망, 노태문 하반기 삼성전...",
+        "date": "2025-06-10 15:14",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=398485"
+    },
+    {
+        "title": "매출의 30% 떼가는 앱 마켓 수수료 낮아지나…게임사 수혜 기대",
+        "date": "2025-06-10 15:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665810"
+    },
+    {
+        "title": "하이브IM ‘아키텍트: 랜드 오브 엑자일’, 애플 디바이스 최적화로 전...",
+        "date": "2025-06-10 15:04",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377547?sid=105"
+    },
+    {
+        "title": "미중 무역전쟁 최대 희생양은 결국 애플…왜?",
+        "date": "2025-06-10 15:03",
+        "link": "https://n.news.naver.com/mnews/article/421/0008304229?sid=104"
+    },
+    {
+        "title": "중소형 및 대형 OLED 시장, 韓 점유율 높지만 中 턱밑까지 '추격'",
+        "date": "2025-06-10 15:00",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=266080"
+    },
+    {
+        "title": "[오늘의 게임·IT 소식] 빗썸, 투썸과 최대 8만원 상당 이벤트 진행 外",
+        "date": "2025-06-10 14:54",
+        "link": "https://dealsite.co.kr/articles/142785"
+    },
+    {
+        "title": "엔비디아·MS에 밀린 애플, AI 혁신 대신 '이것' 선보였다",
+        "date": "2025-06-10 14:50",
+        "link": "https://n.news.naver.com/mnews/article/215/0001212148?sid=101"
+    },
+    {
+        "title": "WWDC 2025, 펄어비스 '붉은사막' 애플 맥OS 게임 공식 발표",
+        "date": "2025-06-10 14:46",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=111913"
+    },
+    {
+        "title": "“옆집은 65인치로 바꿨다는데”…크면 클수록 좋다는 TV시장 전망은?",
+        "date": "2025-06-10 14:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005506311?sid=101"
+    },
+    {
+        "title": "[D리포트] 아이폰, 12년 만에 '얼굴은 새 단장'…AI는 아직",
+        "date": "2025-06-10 14:44",
+        "link": "https://n.news.naver.com/mnews/article/055/0001265270?sid=101"
+    },
+    {
+        "title": "'AI 시리' 빠진 애플 WWDC...시장 반응은 '싸늘'",
+        "date": "2025-06-10 14:42",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251843"
+    },
+    {
+        "title": "12년 만의 애플 디자인 개편에 AI 혁신은 어쩌고?...시장 반응은 싸늘",
+        "date": "2025-06-10 14:41",
+        "link": "https://n.news.naver.com/mnews/article/469/0000869521?sid=104"
+    },
+    {
+        "title": "제이씨현, 유디아 &amp; 배틀G 리얼 게이밍 모니터 최대 38% 특가전 진행",
+        "date": "2025-06-10 14:38",
+        "link": "https://kbench.com/?q=node/268219"
+    },
+    {
+        "title": "AI도 신제품도 없다…애플 WWDC25 '혁신 실종'",
+        "date": "2025-06-10 14:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320307?sid=105"
+    },
+    {
+        "title": "이제 에어팟으로 녹음하고 촬영도 한다... 애플이 업데이트한 에어팟 새...",
+        "date": "2025-06-10 14:34",
+        "link": "https://www.insight.co.kr/news/506500"
+    },
+    {
+        "title": "美 관세에 국가별 스마트폰 생산 비율 바뀔 듯… 中 지고 인도 뜬다",
+        "date": "2025-06-10 14:32",
+        "link": "https://n.news.naver.com/mnews/article/366/0001084077?sid=105"
+    },
+    {
+        "title": "대한출판문화협회, 대한민국 최초 미국 현지 구글 및 애플 집단소송",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295182?sid=103"
+    },
+    {
+        "title": "대한출판문화협회, 대한민국 최초 미국 현지 구글 및 애플 집단소송",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295183?sid=103"
+    },
+    {
+        "title": "대한민국 최초 미국 현지 구글 및 애플 집단소송 하는 대한출판문화협...",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295177?sid=103"
+    },
+    {
+        "title": "대한민국 최초 미국 현지 구글 및 애플 집단소송 하는 윤철호 회장",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295178?sid=103"
+    },
+    {
+        "title": "최초 미국 현지 구글 및 애플 집단소송 하는 대한출판문화협회",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295180?sid=103"
+    },
+    {
+        "title": "윤철호 회장, 대한민국 최초 미국 현지 구글 및 애플 집단소송 기자간담...",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295181?sid=103"
+    },
+    {
+        "title": "잡플래닛, 6회차 플래그 개최…애플·쿠팡·토스 출신 김유리 코치 연사...",
+        "date": "2025-06-10 14:18",
+        "link": "https://www.news2day.co.kr/article/20250610500169"
+    },
+    {
+        "title": "애플 2025 세계개발자회의...'리퀴드 글래스(Liquid Glass)' 전면 도입",
+        "date": "2025-06-10 14:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320261?sid=105"
+    },
+    {
+        "title": "AI 대신 '디자인' 강조한 애플, WWDC서 혁신은 없었다",
+        "date": "2025-06-10 14:02",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=754109"
+    },
+    {
+        "title": "레이저, 역대 가장 얇은 게이밍 노트북 블레이드 2025 출시",
+        "date": "2025-06-10 14:02",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54739"
+    },
+    {
+        "title": "“역대 가장 얇고 가볍다”…갤럭시Z 폴드7 2차 영상 공개",
+        "date": "2025-06-10 14:02",
+        "link": "https://n.news.naver.com/mnews/article/011/0004495215?sid=105"
+    },
+    {
+        "title": "게임 생태계 확장하는 애플... 붉은사막·인조이 등 WWDC서 대표 사례로...",
+        "date": "2025-06-10 14:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320254?sid=105"
+    },
+    {
+        "title": "애플 또 AI에서 뒤처져…주가 1%↓ 시총 3조달러 턱걸이",
+        "date": "2025-06-10 14:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008303941?sid=104"
+    },
+    {
+        "title": "레이저,초슬림형게이밍 노트북 블레이드 2025 선보여",
+        "date": "2025-06-10 13:40",
+        "link": "https://www.cnet.co.kr/view/?no=20250610132150"
+    },
+    {
+        "title": "애플, 리퀴드 글래스 도입…12년만에 운영체제 대규모 개편",
+        "date": "2025-06-10 13:36",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2064979"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 모금캠페인 동참",
+        "date": "2025-06-10 13:32",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1094347"
+    },
+    {
+        "title": "하이브IM '아키텍트', 애플 게이머 공략 디바이스 최적화",
+        "date": "2025-06-10 13:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269485"
+    },
+    {
+        "title": "애플, 운영체제 전면 개편…시리 업그레이드는 연기",
+        "date": "2025-06-10 13:26",
+        "link": "https://www.newspim.com/news/view/20250610000453"
+    },
+    {
+        "title": "'아키텍트: 랜드 오브 엑자일' 하이브IM, 애플 디바이스 최적화",
+        "date": "2025-06-10 13:22",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=811374"
+    },
+    {
+        "title": "애플, 가을부터 12년 만에 운영체제 디자인 변경...'반투명 유리'",
+        "date": "2025-06-10 13:20",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202506101106062493"
+    },
+    {
+        "title": "애플 소프트웨어 '대대적 개편'...냉담한 시장의 혹평 [지금이뉴스]",
+        "date": "2025-06-10 13:17",
+        "link": "https://n.news.naver.com/mnews/article/052/0002203802?sid=104"
+    },
+    {
+        "title": "하이브IM '아키텍트: 랜드 오브 엑자일', 애플 최적화 완료",
+        "date": "2025-06-10 13:16",
+        "link": "https://m.sports.naver.com/esports/article/347/0000186959"
+    },
+    {
+        "title": "[더벨][Sanction Radar]스마트폰 관세 가시화, 삼성·애플 협력사 '노심초...",
+        "date": "2025-06-10 13:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506051623118120106473"
+    },
+    {
+        "title": "시리는? 위기 맞선 애플의 AI 전략",
+        "date": "2025-06-10 13:02",
+        "link": "https://www.naeil.com/news/read/550543?ref=naver"
+    },
+    {
         "title": "아쉬운 라인업과 하위 호환... 닌텐도 스위치 2",
         "date": "2025-06-10 13:00",
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54728"
@@ -63,6 +873,11 @@
         "title": "TSMC, 공장 건설 지연에 아이폰17 AP 생산 차질 우려",
         "date": "2025-06-10 12:13",
         "link": "https://n.news.naver.com/mnews/article/123/0002360914?sid=004"
+    },
+    {
+        "title": "애플, 12년 만에 OS디자인 대변혁…'리퀴드 글래스' 뭐길래",
+        "date": "2025-06-10 12:04",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=691830"
     },
     {
         "title": "운전이 더 똑똑해진다… 애플 카플레이, 새 디자인·위젯 도입",
@@ -260,7 +1075,7 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003320180?sid=105"
     },
     {
-        "title": "하이브IM '아키텍트, 애플 기기 최적화···하반기 순차 선봬",
+        "title": "하이브IM '아키텍트', 애플 iOS와 맥OS 지원",
         "date": "2025-06-10 11:02",
         "link": "https://www.goodkyung.com/news/articleView.html?idxno=265392"
     },
@@ -447,7 +1262,7 @@
     {
         "title": "애플, 가을 업데이트로 ‘스팸 차단·실시간 번역’ 등 신기능 대거 추...",
         "date": "2025-06-10 10:02",
-        "link": "https://n.news.naver.com/mnews/article/123/0002360882?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/123/0002360882?sid=004"
     },
     {
         "title": "삶의 질 높여주는 모니터 조명, 벤큐 스크린바 헤일로 2",
@@ -588,11 +1403,6 @@
         "title": "애플, 12년 만에 대대적 OS 디자인 변화…'리퀴드 글래스' 도입",
         "date": "2025-06-10 09:16",
         "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112953"
-    },
-    {
-        "title": "[단독] 애플 아이맥 결함 논란, 국내서도 터졌다...“제조 결함 가능성...",
-        "date": "2025-06-10 09:12",
-        "link": "https://wemakenews.co.kr/news/view.php?no=21875"
     },
     {
         "title": "[WWDC25] 애플, 남은 건 '리퀴드 글래스'…AI, 삼성에 또 밀렸다 [종합]",
@@ -790,6 +1600,11 @@
         "link": "https://n.news.naver.com/mnews/article/277/0005604941?sid=105"
     },
     {
+        "title": "애플 WWDC, ‘AI 시리’는 없었다…“높은 기준 아직 도달 못해”",
+        "date": "2025-06-10 07:55",
+        "link": "http://www.jnilbo.com/77330287509"
+    },
+    {
         "title": "[종합] 아이폰 12년 만에 '대변신'… 애플, 운영체제 확 갈아엎었다",
         "date": "2025-06-10 07:54",
         "link": "https://www.ajunews.com/view/20250610074224743"
@@ -908,920 +1723,5 @@
         "title": "'1조' 미리 갚은 LG디스플레이, 3Q부터 흑자행진 '턴어라운드' 예약",
         "date": "2025-06-10 07:00",
         "link": "https://n.news.naver.com/mnews/article/421/0008302826?sid=101"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대혁신…반투명 '리퀴드 글래스' 도입",
-        "date": "2025-06-10 06:54",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15691875"
-    },
-    {
-        "title": "애플, 12년 만의 변화… 반투명 '리퀴드 글래스' 디자인 도입",
-        "date": "2025-06-10 06:54",
-        "link": "https://n.news.naver.com/mnews/article/025/0003446886?sid=105"
-    },
-    {
-        "title": "애플, '리퀴드 글래스' 도입으로 12년 만에 대대적 변화",
-        "date": "2025-06-10 06:48",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=504723"
-    },
-    {
-        "title": "애플, 앱 개발툴 엑스코드에 챗GPT 통합",
-        "date": "2025-06-10 06:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569991"
-    },
-    {
-        "title": "애플, '유리 디자인' 도입…12년 만의 대대적 운영체제 개편",
-        "date": "2025-06-10 06:44",
-        "link": "https://n.news.naver.com/mnews/article/277/0005604902?sid=105"
-    },
-    {
-        "title": "애플, 12년만에 `리퀴드 글래스`로 iOS 디자인 혁신…AI는 `글쎄`",
-        "date": "2025-06-10 06:35",
-        "link": "https://n.news.naver.com/mnews/article/029/0002960123?sid=105"
-    },
-    {
-        "title": "[IT썰]애플, 12년 만에 iOS 26에서 홈 화면 아이콘 완전 개편",
-        "date": "2025-06-10 06:33",
-        "link": "https://n.news.naver.com/mnews/article/008/0005205190?sid=105"
-    },
-    {
-        "title": "애플, 온디바이스 AI 개발자 사용모델 공개...“혁신은 부족”",
-        "date": "2025-06-10 06:28",
-        "link": "https://n.news.naver.com/mnews/article/018/0006035262?sid=105"
-    },
-    {
-        "title": "확 달라지는 애플...운영체제에 '파격 디자인' 도입",
-        "date": "2025-06-10 06:26",
-        "link": "https://n.news.naver.com/mnews/article/215/0001212053?sid=004"
-    },
-    {
-        "title": "애플, 10월부터 iOS 운영체제 대폭 개편…반투명 배경화면 도입",
-        "date": "2025-06-10 06:24",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665702"
-    },
-    {
-        "title": "[외신 헤드라인] 애플 WWDC '소문난 잔치' 그쳤다…신제품 없어",
-        "date": "2025-06-10 06:22",
-        "link": "https://n.news.naver.com/mnews/article/374/0000444816?sid=104"
-    },
-    {
-        "title": "애플 운영체제 확 바뀐다…반투명 디자인 '리퀴드 글래스' 도입",
-        "date": "2025-06-10 06:20",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=448345"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대대적 개편…반투명 디자인 도입(종합)",
-        "date": "2025-06-10 06:12",
-        "link": "https://n.news.naver.com/mnews/article/001/0015440022?sid=104"
-    },
-    {
-        "title": "'애플' 12년 만에 운영체제 전면 개편…반투명 '리퀴드 글래스' 디자인...",
-        "date": "2025-06-10 06:08",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15691830"
-    },
-    {
-        "title": "삼성·BOE 'OLED' 전면전…이제는 중국이 한국에 특허로 맞서",
-        "date": "2025-06-10 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142260"
-    },
-    {
-        "title": "애플, 운영체제(OS)에 반투명 디자인 도입…12년 만에 대대적 개편",
-        "date": "2025-06-10 06:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=171325"
-    },
-    {
-        "title": "애플, iOS 인터페이스 전면 개편…12년만",
-        "date": "2025-06-10 05:51",
-        "link": "https://n.news.naver.com/mnews/article/018/0006035246?sid=105"
-    },
-    {
-        "title": "애플, WWDC 첫날 주가 하락…”시리, 아직 시간 더 필요해”",
-        "date": "2025-06-10 05:50",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506100302347963be84d87674_1/article.html"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대대적 개편…반투명 디자인 도입",
-        "date": "2025-06-10 05:49",
-        "link": "https://n.news.naver.com/mnews/article/055/0001265078?sid=104"
-    },
-    {
-        "title": "[르포]AI 대신 디자인에 올인한 애플 WWDC... ‘리퀴드 글래스’ 뭐길래",
-        "date": "2025-06-10 05:37",
-        "link": "https://n.news.naver.com/mnews/article/023/0003910143?sid=105"
-    },
-    {
-        "title": "애플, 반투명 디자인의 '리퀴드 글래스'로 운영체제 대대적 개편",
-        "date": "2025-06-10 05:36",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=811095"
-    },
-    {
-        "title": "애플, iOS 26 공개…AI 시리 발표 연기에 기대감 '찜찜'",
-        "date": "2025-06-10 05:22",
-        "link": "https://www.tokenpost.kr/news/tech/255880"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대대적 개편…반투명 디자인 도입",
-        "date": "2025-06-10 05:17",
-        "link": "https://n.news.naver.com/mnews/article/001/0015439987?sid=104"
-    },
-    {
-        "title": "애플, 12년만의 '투명 디자인' 혁신… AI는 '지지부진' [윤민혁의 실리콘...",
-        "date": "2025-06-10 05:14",
-        "link": "https://n.news.naver.com/mnews/article/011/0004494962?sid=105"
-    },
-    {
-        "title": "AI 전략 지연에… 애플 WWDC 2025 '역대급 실망' 평가",
-        "date": "2025-06-10 05:10",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142274"
-    },
-    {
-        "title": "‘26’으로 통일한 애플, 올해 WWDC의 핵심은 “디자인 변화”",
-        "date": "2025-06-10 05:04",
-        "link": "https://byline.network/?p=9004111222566743"
-    },
-    {
-        "title": "OLED 모니터 시장 공략하는 中… 국내 업계 “세제 혜택·지원 절실”",
-        "date": "2025-06-10 05:03",
-        "link": "https://n.news.naver.com/mnews/article/081/0003547553?sid=101"
-    },
-    {
-        "title": "'시리 없는 WWDC 2025'…애플, AI 질주서 뒤처져",
-        "date": "2025-06-10 05:03",
-        "link": "https://n.news.naver.com/mnews/article/003/0013293822?sid=104"
-    },
-    {
-        "title": "폴더블 노트북 시장 뜬다… 화웨이ㆍ아마존 등 각축전",
-        "date": "2025-06-10 05:00",
-        "link": "https://www.etoday.co.kr/news/view/2473509"
-    },
-    {
-        "title": "애플 WWDC '소문난 잔치'…신제품 없었다",
-        "date": "2025-06-10 04:30",
-        "link": "https://n.news.naver.com/mnews/article/374/0000444801?sid=104"
-    },
-    {
-        "title": "애플 WWDC에서 '리퀴드 글래스' 공개",
-        "date": "2025-06-10 04:16",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=811068"
-    },
-    {
-        "title": "애플, 생성형 AI 승부수… '스타플로'로 이미지 생성 혁신 노린다",
-        "date": "2025-06-10 04:04",
-        "link": "https://www.tokenpost.kr/news/tech/255866"
-    },
-    {
-        "title": "애플, VisionOS 26 공개…PSVR2 연동으로 MR 게임 강화",
-        "date": "2025-06-10 03:38",
-        "link": "https://www.tokenpost.kr/news/tech/255857"
-    },
-    {
-        "title": "애플 12년만에 인터페이스 큰 변화 ‘리퀴드 글래스’ 공개",
-        "date": "2025-06-10 03:11",
-        "link": "https://n.news.naver.com/mnews/article/009/0005505943?sid=101"
-    },
-    {
-        "title": "애플, '게임즈 앱' 전격 공개…모바일 게임 생태계 대변화 예고",
-        "date": "2025-06-10 03:00",
-        "link": "https://www.tokenpost.kr/news/tech/255848"
-    },
-    {
-        "title": "애플, '애플 인텔리전스' 전격 개방… AI 생태계 확장 신호탄",
-        "date": "2025-06-10 02:46",
-        "link": "https://www.tokenpost.kr/news/tech/255846"
-    },
-    {
-        "title": "LG OLED TV 화질 ‘퍼펙트’ 등급",
-        "date": "2025-06-10 00:37",
-        "link": "https://n.news.naver.com/mnews/article/005/0001782015?sid=101"
-    },
-    {
-        "title": "중국, LCD 독식 이어 OLED까지 넘본다",
-        "date": "2025-06-10 00:31",
-        "link": "https://n.news.naver.com/mnews/article/023/0003910069?sid=105"
-    },
-    {
-        "title": "애플, 뉴진스 대신 에스파 택했다…'아이폰 16 프로'가 담은 ‘더티 워...",
-        "date": "2025-06-09 23:31",
-        "link": "https://n.news.naver.com/mnews/article/011/0004494939?sid=105"
-    },
-    {
-        "title": "애플망고 수확 한창... 농가 경쟁도 치열",
-        "date": "2025-06-09 20:54",
-        "link": "https://news.knn.co.kr/news/article/173663"
-    },
-    {
-        "title": "“이러면 다들 삼성폰 산다” 중국에 밀려 역대급 ‘추락’ 난리였는데...",
-        "date": "2025-06-09 20:40",
-        "link": "https://n.news.naver.com/mnews/article/016/0002482355?sid=105"
-    },
-    {
-        "title": "LGD 파주 OLED 투자, 확정된 사항 없어",
-        "date": "2025-06-09 19:42",
-        "link": "https://news.dealsitetv.com/articles/155343"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 6월 SME 위크 개최",
-        "date": "2025-06-09 18:58",
-        "link": "https://n.news.naver.com/mnews/article/030/0003319952?sid=105"
-    },
-    {
-        "title": "내달 9일 발표 유력 '갤럭시 폴드·플립7'…단통법 폐지에 '훈풍' 예고",
-        "date": "2025-06-09 18:46",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=798773"
-    },
-    {
-        "title": "밝은 시청 환경에서도 완벽 화질… LG OLED TV ‘퍼펙트’ 등급 인증 획...",
-        "date": "2025-06-09 18:42",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360826?sid=101"
-    },
-    {
-        "title": "中, 대형OLED 국제표준 추가…韓 독주 흔든다 [中, 차세대 디스플레이 공...",
-        "date": "2025-06-09 18:28",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360804?sid=102"
-    },
-    {
-        "title": "중국 OLED기술, 한국과 차별화.. 생산비용 줄이고 대중화에 초점 [中, 차...",
-        "date": "2025-06-09 18:23",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360798?sid=101"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 위한 SME 위크 개최",
-        "date": "2025-06-09 18:07",
-        "link": "https://n.news.naver.com/mnews/article/092/0002377443?sid=105"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…OLED 소재 사업 진출",
-        "date": "2025-06-09 17:58",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=36815"
-    },
-    {
-        "title": "삼성, 두 번 접는 ‘트리폴드폰’ 中 출격 ‘초읽기’…“화웨이와 맞대...",
-        "date": "2025-06-09 17:54",
-        "link": "https://www.ceoscoredaily.com/page/view/2025060913384761912"
-    },
-    {
-        "title": "애플 제품, 우주 탐사에서 활약",
-        "date": "2025-06-09 17:46",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=810832"
-    },
-    {
-        "title": "LG디스플레이, 파주에 7천억원 규모 OLED 설비 투자",
-        "date": "2025-06-09 17:36",
-        "link": "https://idsn.co.kr/news/view/1065595285339963"
-    },
-    {
-        "title": "글로벌 TV 지각변동…TCL 추격 속 삼성·LG '프리미엄 TV'로 수성",
-        "date": "2025-06-09 17:34",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=118705"
-    },
-    {
-        "title": "탑런토탈솔루션, '진웅산업' 인수",
-        "date": "2025-06-09 17:29",
-        "link": "https://www.newspim.com/news/view/20250609000896"
-    },
-    {
-        "title": "'WWDC 2025' 애플, iOS 중심 신제품 발표",
-        "date": "2025-06-09 17:28",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=810815"
-    },
-    {
-        "title": "아버지의 날을 위한 실속 있는 애플 제품 추천",
-        "date": "2025-06-09 17:22",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=810812"
-    },
-    {
-        "title": "LG디스플레이, 체질 개선 효과··· OLED 황금기 다시 연다",
-        "date": "2025-06-09 17:18",
-        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=302066"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 속도전",
-        "date": "2025-06-09 17:18",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=342905"
-    },
-    {
-        "title": "'10년만 국제 표준'...中, '韓 독주' OLED도 침범",
-        "date": "2025-06-09 17:17",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360767?sid=101"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 중소기업을 위한 SME Week 개최",
-        "date": "2025-06-09 16:48",
-        "link": "https://www.kbmaeil.com/article/20250609500595"
-    },
-    {
-        "title": "정철동 LG디스플레이 사장, OLED 체질개선 하반기 시험대",
-        "date": "2025-06-09 16:46",
-        "link": "http://www.fntimes.com/html/view.php?ud=2025060916294145367de3572ddd_18"
-    },
-    {
-        "title": "애플 R&amp;D센터, 중소기업 디지털 전환 교육 개최",
-        "date": "2025-06-09 16:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569971"
-    },
-    {
-        "title": "애플, 2026년 AI 스마트 글래스 출시 준비",
-        "date": "2025-06-09 16:34",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=810769"
-    },
-    {
-        "title": "트럼프 관세 여파 삼성·애플 '빨간불'…'줄라이 패키지' 해법 주목",
-        "date": "2025-06-09 16:33",
-        "link": "https://n.news.naver.com/mnews/article/117/0003951636?sid=103"
-    },
-    {
-        "title": "위협받는 ‘폴더블 왕좌’…삼성 ‘1위 사수’ 승부수 띄운다",
-        "date": "2025-06-09 16:30",
-        "link": "https://www.ekn.kr/web/view.php?key=20250609027294568"
-    },
-    {
-        "title": "아이폰 16프로로 찍었어요 애플 협업 에스파 뮤비 `더디 워크` 공개",
-        "date": "2025-06-09 16:28",
-        "link": "https://n.news.naver.com/mnews/article/029/0002960046?sid=105"
-    },
-    {
-        "title": "콤부차와 애플사이다비니거를 스틱 하나에… 동서식품, 신제품 '동서...",
-        "date": "2025-06-09 16:24",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=30430"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 위한 SME 위크 개최",
-        "date": "2025-06-09 16:18",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665673"
-    },
-    {
-        "title": "솔루스첨단소재, 녹색 인광 호스트 납품 타깃은 LGD의 저가 대형 OLED",
-        "date": "2025-06-09 15:56",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=36779"
-    },
-    {
-        "title": "LGU+, AI 통화 '익시오', 갤럭시 S 구형과 보급형에서도 이용 가능",
-        "date": "2025-06-09 15:52",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=246233"
-    },
-    {
-        "title": "LG유플러스, 안심 보상 요금제로 유해 사이트 접근 12만건 차단…익시오...",
-        "date": "2025-06-09 15:48",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=759425"
-    },
-    {
-        "title": "유니씨앤씨, 6월 9일 오후 7시, 삼성슈퍼위크 갤럭시북5 프로 '블루밍데...",
-        "date": "2025-06-09 15:46",
-        "link": "https://kbench.com/?q=node/268173"
-    },
-    {
-        "title": "[오늘 뭐했니?] LG유플러스",
-        "date": "2025-06-09 15:44",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35068"
-    },
-    {
-        "title": "애플 스마트 글래스, 메타 레이밴과 차별화 가능할까",
-        "date": "2025-06-09 15:42",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569963"
-    },
-    {
-        "title": "AI 늦은 애플, HBM 뒤처진 삼성...6월 행사서 대응책 나올까",
-        "date": "2025-06-09 15:36",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251643"
-    },
-    {
-        "title": "애플, 韓 중기 디지털 전환 위한 데이터·AI 전략 소개",
-        "date": "2025-06-09 15:36",
-        "link": "https://n.news.naver.com/mnews/article/031/0000938609?sid=101"
-    },
-    {
-        "title": "삼성 오디세이, 첫 단독행사 '언베일드'…'언팩'처럼 키운다",
-        "date": "2025-06-09 15:34",
-        "link": "https://n.news.naver.com/mnews/article/421/0008302175?sid=101"
-    },
-    {
-        "title": "국내 게임·IT기업, 구글·애플 상대 집단 소송…'인앱 결제' 공룡들, 꼬...",
-        "date": "2025-06-09 15:30",
-        "link": "https://n.news.naver.com/mnews/article/586/0000104945?sid=101"
-    },
-    {
-        "title": "디자인·생산성에 집중…애플 WWDC 2025, AI 대신 'OS 혁신'",
-        "date": "2025-06-09 15:28",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=71719"
-    },
-    {
-        "title": "내일 열리는 애플 WWDC, 어떤 변화 발표할까?",
-        "date": "2025-06-09 15:22",
-        "link": "https://byline.network/?p=9004111222566630"
-    },
-    {
-        "title": "[게시판] 애플 제조업 R&amp;D 지원센터, 중소기업 위한 SME 위크 개최",
-        "date": "2025-06-09 15:16",
-        "link": "https://n.news.naver.com/mnews/article/001/0015439286?sid=101"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…OLED 소재사업 확대",
-        "date": "2025-06-09 15:14",
-        "link": "http://amenews.kr/news/view.php?idx=62489"
-    },
-    {
-        "title": "아직은 한국이 꽉 잡고 있지만...중국이 틈새시장 파고든다는데",
-        "date": "2025-06-09 15:08",
-        "link": "https://n.news.naver.com/mnews/article/009/0005505606?sid=101"
-    },
-    {
-        "title": "샤오미, 8.8인치 컴팩트 게이밍 태블릿 포착.. 6월 중 공개 가능성",
-        "date": "2025-06-09 15:04",
-        "link": "https://kbench.com/?q=node/268170"
-    },
-    {
-        "title": "AI 혁신 없는 애플… 역대 가장 실망스러운 ‘WWDC’ 될까",
-        "date": "2025-06-09 15:00",
-        "link": "https://n.news.naver.com/mnews/article/366/0001083788?sid=105"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수...소부장 밸류체인 '가속'",
-        "date": "2025-06-09 14:56",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=425146"
-    },
-    {
-        "title": "애플 iOS 스크린타임, API로 활용도↑…웹 활용도 OK",
-        "date": "2025-06-09 14:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569934"
-    },
-    {
-        "title": "애플, 부진 해소할 청사진 내놓을까...WDCC 이목 집중",
-        "date": "2025-06-09 14:51",
-        "link": "https://www.newspim.com/news/view/20250609000581"
-    },
-    {
-        "title": "LG OLED TV, 밝은 시청 환경에서도 ‘퍼펙트’ 등급 화질 인증 획득",
-        "date": "2025-06-09 14:43",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360662?sid=101"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
-        "date": "2025-06-09 14:34",
-        "link": "https://www.the-stock.kr/news/articleView.html?idxno=30646"
-    },
-    {
-        "title": "OLED growth dims as Trump tariffs threaten smartphone sales",
-        "date": "2025-06-09 14:33",
-        "link": "https://n.news.naver.com/mnews/article/044/0000270940?sid=104"
-    },
-    {
-        "title": "밝은 실내서도 선명한 LG OLED TV… 업계 최초 ‘퍼펙트’ 등급",
-        "date": "2025-06-09 14:12",
-        "link": "https://n.news.naver.com/mnews/article/005/0001781881?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 파주 OLED 설비에 7000억원 투자하며 국내 복귀 본격화",
-        "date": "2025-06-09 14:10",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=106162"
-    },
-    {
-        "title": "라이프웍스, 게이밍 노트북 ‘HP 오멘 16’ 할인 이벤트 진행",
-        "date": "2025-06-09 14:08",
-        "link": "https://kbench.com/?q=node/268165"
-    },
-    {
-        "title": "LG유플러스 'ixi-O', 갤럭시 S21 이상으로 지원 단말 확대",
-        "date": "2025-06-09 14:04",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=172947"
-    },
-    {
-        "title": "검은색표현·명암대비서 높은평가 LG전자 OLED TV, 대낮 거실서도 '완...",
-        "date": "2025-06-09 14:02",
-        "link": "https://www.nbnews.kr/news/articleView.html?idxno=110119"
-    },
-    {
-        "title": "삼성 트리폴드폰, 中 인증 사이트에 등장…제품 사양은?",
-        "date": "2025-06-09 14:00",
-        "link": "https://n.news.naver.com/mnews/article/092/0002377393?sid=105"
-    },
-    {
-        "title": "英 '투명폰' 낫싱, 내달 차세대 플래그십 단말 '폰3' 공개",
-        "date": "2025-06-09 13:56",
-        "link": "https://n.news.naver.com/mnews/article/030/0003319753?sid=105"
-    },
-    {
-        "title": "실속과 감동을 동시에…부모님을 위한 애플 추천 제품 5가지",
-        "date": "2025-06-09 13:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569899"
-    },
-    {
-        "title": "애플 WWDC 2025, 이번엔 'iOS' 중심…신제품 발표 없다",
-        "date": "2025-06-09 13:48",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569897"
-    },
-    {
-        "title": "애플x에스파, 아이폰 16프로 찍은 ‘Dirty Work’ 영상 공개",
-        "date": "2025-06-09 13:47",
-        "link": "https://n.news.naver.com/mnews/article/018/0006034871?sid=105"
-    },
-    {
-        "title": "“모든 것은 홀로그램이 될 것”이라는 주커버그의 비전에 누가 동의하...",
-        "date": "2025-06-09 13:46",
-        "link": "https://www.itworld.co.kr/article/4003467/모든-것은-홀로그램이-될-것이라는-주커버그의.html"
-    },
-    {
-        "title": "LG유플 AI 통화 에이전트 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확...",
-        "date": "2025-06-09 13:41",
-        "link": "https://n.news.naver.com/mnews/article/009/0005505500?sid=105"
-    },
-    {
-        "title": "[기고] ‘Think Different!’, 공간도 다르게 생각하는 애플",
-        "date": "2025-06-09 13:26",
-        "link": "https://n.news.naver.com/mnews/article/020/0003640028?sid=105"
-    },
-    {
-        "title": "삼성전자 트리폴드폰 'G폴드', 중국 3C 인증...韓中 동시 출격 '신호탄'",
-        "date": "2025-06-09 13:24",
-        "link": "https://www.theguru.co.kr/news/article.html?no=87901"
-    },
-    {
-        "title": "애플 'WWDC'에 기대감 낮아...AI 주요 발표 없을 듯",
-        "date": "2025-06-09 13:18",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=171113"
-    },
-    {
-        "title": "[더벨][삼성전자 DX 시프트]20년 연속 'TV 1위' 수성 목표, OLED 비중 확대",
-        "date": "2025-06-09 13:08",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506051259317000102995"
-    },
-    {
-        "title": "[WWDC '25] 애플, 디바이스 확대보단 소프트웨어 고도화",
-        "date": "2025-06-09 13:06",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665600"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 지분 60% 인수",
-        "date": "2025-06-09 13:04",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=810612"
-    },
-    {
-        "title": "애플, 폐쇄적 생태계 한계로 AI 역량 시험대 올라",
-        "date": "2025-06-09 13:00",
-        "link": "https://n.news.naver.com/mnews/article/123/0002360815?sid=004"
-    },
-    {
-        "title": "에스라이즈, HP 게이밍 노트북 일주일간 지마켓 빡세일 참여",
-        "date": "2025-06-09 12:56",
-        "link": "https://kbench.com/?q=node/268150"
-    },
-    {
-        "title": "아이패드부터 애플워치까지…우주로 간 애플 제품들",
-        "date": "2025-06-09 12:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569906"
-    },
-    {
-        "title": "탑런토탈솔루션, OLED 소재 업체 진웅산업 인수",
-        "date": "2025-06-09 12:15",
-        "link": "https://n.news.naver.com/mnews/article/030/0003319713?sid=105"
-    },
-    {
-        "title": "삼성, 갤럭시 S 시리즈 카메라 업그레이드 최장 3년간 중단... 반도체 손...",
-        "date": "2025-06-09 11:56",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1800852"
-    },
-    {
-        "title": "삼성 첫 3단 폴더블폰 '갤럭시 G 폴드' 중국 출시 확인",
-        "date": "2025-06-09 11:54",
-        "link": "https://kbench.com/?q=node/268140"
-    },
-    {
-        "title": "LG유플러스 '익시오', 지원 단말 확대...갤럭시 S21 이상",
-        "date": "2025-06-09 11:40",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=265862"
-    },
-    {
-        "title": "LG유플러스 , AI 통화 에이전트 '익시오' 갤럭시 S21 이상으로 지원 단말...",
-        "date": "2025-06-09 11:40",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35179"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
-        "date": "2025-06-09 11:39",
-        "link": "https://n.news.naver.com/mnews/article/018/0006034728?sid=101"
-    },
-    {
-        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상 지원 단말 확대",
-        "date": "2025-06-09 11:32",
-        "link": "https://www.betanews.net/article/view/beta202506090032"
-    },
-    {
-        "title": "탑런토탈솔루션, OLED 소재 전문 진웅산업 인수",
-        "date": "2025-06-09 11:30",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=269347"
-    },
-    {
-        "title": "LG유플러스, 갤럭시 S21 이상으로 '익시오' 지원 단말 확대",
-        "date": "2025-06-09 11:22",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=104578"
-    },
-    {
-        "title": "VR 게임은 죽지 않는다… 밸브의 ‘데커드’가 현실이 된다면",
-        "date": "2025-06-09 11:20",
-        "link": "https://www.itworld.co.kr/article/4003453/vr-게임은-죽지-않는다-밸브의-데커드가-현실이.html"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 지분 60% 인수…OLED 진출 본격화",
-        "date": "2025-06-09 11:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569891"
-    },
-    {
-        "title": "LG유플러스, 갤럭시 S21 이상으로 '익시오' 지원 단말 확대",
-        "date": "2025-06-09 11:14",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=638593"
-    },
-    {
-        "title": "[더벨][i-point]탑런토탈솔루션, 'OLED 소재 전문기업' 진웅산업 인수",
-        "date": "2025-06-09 11:12",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506091033172920105348"
-    },
-    {
-        "title": "신기술 도입하며 한국 주도 OLED 시장 침투하는 중국",
-        "date": "2025-06-09 11:12",
-        "link": "https://n.news.naver.com/mnews/article/023/0003909971?sid=105"
-    },
-    {
-        "title": "퀴즈노스, 6월 '이달의 Q' 여름 한정 콤보 출시…애플망고 리코타 샌드...",
-        "date": "2025-06-09 11:10",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2063725"
-    },
-    {
-        "title": "삼성전자, 폴더블 신제품 공개 한 달 앞으로...'초슬림·울트라'로 시장...",
-        "date": "2025-06-09 11:08",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214398"
-    },
-    {
-        "title": "엠씨넥스, 메타·삼성·애플의 격전지 '스마트 안경' 핵심 기술 개발한...",
-        "date": "2025-06-09 11:06",
-        "link": "https://n.news.naver.com/mnews/article/008/0005204767?sid=101"
-    },
-    {
-        "title": "애플, WWDC(세계 개발자 회의) 25서 공개할 'iOS 26' 어떻게 달라질까?",
-        "date": "2025-06-09 11:06",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1800845"
-    },
-    {
-        "title": "애플 'iOS 26' 도입할 새로운 UI 이름은 '리퀴드 글래스'",
-        "date": "2025-06-09 11:04",
-        "link": "https://kbench.com/?q=node/268139"
-    },
-    {
-        "title": "'아이폰16 프로'로 찍었다…애플, 에스파 신곡 비디오 공개",
-        "date": "2025-06-09 11:03",
-        "link": "https://n.news.naver.com/mnews/article/092/0002377352?sid=105"
-    },
-    {
-        "title": "에스파, 애플과 손잡았다…쇠맛 가득 신곡 ‘Dirty Work’ 퍼포먼스",
-        "date": "2025-06-09 11:03",
-        "link": "https://m.entertain.naver.com/article/609/0000995709"
-    },
-    {
-        "title": "밝은데서도 잘 보여...LG전자 OLED TV '퍼펙트' 화질 인증",
-        "date": "2025-06-09 11:02",
-        "link": "https://n.news.naver.com/mnews/article/092/0002377350?sid=105"
-    },
-    {
-        "title": "동서식품, 애플사이다비니거 함유 '동서 애사비 콤부차' 3종 출시",
-        "date": "2025-06-09 11:02",
-        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=111864"
-    },
-    {
-        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
-        "date": "2025-06-09 11:00",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=402584"
-    },
-    {
-        "title": "LG전자, OLED TV 실내조명 환경 화질 인증 '퍼펙트' 획득",
-        "date": "2025-06-09 11:00",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=140623"
-    },
-    {
-        "title": "삼성전자, 3년 만에 美 뉴욕서 언팩…'초슬림 울트라 AI'",
-        "date": "2025-06-09 10:58",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025060910085067891"
-    },
-    {
-        "title": "LG U+ 갤럭시S21 이상 고객도 AI비서 '익시오'로 실시간 보이스피싱 차...",
-        "date": "2025-06-09 10:58",
-        "link": "https://www.nbnews.kr/news/articleView.html?idxno=110101"
-    },
-    {
-        "title": "LG유플러스 '익시오', 갤럭시 S21 이상으로 지원 단말 확대",
-        "date": "2025-06-09 10:56",
-        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=65390"
-    },
-    {
-        "title": "LG유플러스, AI 통화 에이전트 '익시오' 지원 단말기 확대",
-        "date": "2025-06-09 10:56",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89171"
-    },
-    {
-        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
-        "date": "2025-06-09 10:54",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=179340"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
-        "date": "2025-06-09 10:50",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=350100"
-    },
-    {
-        "title": "OLED 노리는 中 디스플레이…자체 기술로 삼성·LG 맹추격",
-        "date": "2025-06-09 10:50",
-        "link": "https://n.news.naver.com/mnews/article/029/0002959921?sid=101"
-    },
-    {
-        "title": "에스파 ‘더티 워크’ 애플과 손 잡았다",
-        "date": "2025-06-09 10:49",
-        "link": "https://m.entertain.naver.com/article/144/0001044982"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
-        "date": "2025-06-09 10:48",
-        "link": "https://www.newstof.com/news/articleView.html?idxno=28659"
-    },
-    {
-        "title": "LG유플러스 '익시오' AI 생태계 확대...갤럭시 S21 이상으로 지원 단말 ...",
-        "date": "2025-06-09 10:48",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=48943"
-    },
-    {
-        "title": "애플, 뉴진스 다음 선택은 '에스파'",
-        "date": "2025-06-09 10:48",
-        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=481462"
-    },
-    {
-        "title": "탑런토탈솔루션, OLED 소재 전문 진웅산업 인수",
-        "date": "2025-06-09 10:47",
-        "link": "https://n.news.naver.com/mnews/article/003/0013292202?sid=101"
-    },
-    {
-        "title": "애플, 이동통신사 프로모션 확대한다…아이폰 교체 조건 완화",
-        "date": "2025-06-09 10:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569874"
-    },
-    {
-        "title": "LG유플러스, '익시오' 지원 단말 확대… 갤럭시 S21 이상 가능",
-        "date": "2025-06-09 10:46",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227733"
-    },
-    {
-        "title": "에스파, 애플 아이폰 16 프로로 촬영한 ‘더티 워크’ 뮤비 공개",
-        "date": "2025-06-09 10:43",
-        "link": "https://n.news.naver.com/mnews/article/366/0001083696?sid=004"
-    },
-    {
-        "title": "탑런토탈솔루션, 진웅산업 인수…소부장 밸류체인 가속화",
-        "date": "2025-06-09 10:42",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=650615"
-    },
-    {
-        "title": "LG유플러스, AI 비서 ‘익시오’ 갤럭시 S21 이상까지 지원",
-        "date": "2025-06-09 10:41",
-        "link": "https://n.news.naver.com/mnews/article/144/0001044977?sid=105"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 위한 SME Week 개최",
-        "date": "2025-06-09 10:40",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360480?sid=105"
-    },
-    {
-        "title": "LG유플러스 ‘익시오’, 갤럭시 S21 이상으로 지원 단말 확대",
-        "date": "2025-06-09 10:40",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202506091034003863a310e76584_30"
-    },
-    {
-        "title": "아이패드OS 26, 애플펜슬 리드 캘리그래피 기능 지원…서예 모드 탑재",
-        "date": "2025-06-09 10:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569852"
-    },
-    {
-        "title": "애플, AI 음성 모델 분석 강화…사람처럼 감정까지 분석",
-        "date": "2025-06-09 10:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569855"
-    },
-    {
-        "title": "LG유플러스, 지인 목소리 딥페이크 잡는 기능 탑재한다",
-        "date": "2025-06-09 10:39",
-        "link": "https://www.kpinews.kr/newsView/1065576927692688"
-    },
-    {
-        "title": "LG전자 OLED TV, 밝은 곳에서도 잘 보인다…'퍼펙트' 인증 획득",
-        "date": "2025-06-09 10:26",
-        "link": "https://n.news.naver.com/mnews/article/008/0005204722?sid=101"
-    },
-    {
-        "title": "LG전자 OLED TV, 밝은 환경 화질 '퍼펙트' 등급 인증 획득",
-        "date": "2025-06-09 10:24",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3279065"
-    },
-    {
-        "title": "LG전자, 실내조명에서도 OLED TV '퍼펙트' 화질 입증",
-        "date": "2025-06-09 10:24",
-        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130723"
-    },
-    {
-        "title": "1m 물 속에서 1000번 접고 펼 수 있다…최강 방수 폴더블폰 등장하나",
-        "date": "2025-06-09 10:22",
-        "link": "https://kbench.com/?q=node/268135"
-    },
-    {
-        "title": "통신 3사, 단통법 폐지·신제품 출시 맞춰 보조금 경쟁 본격화",
-        "date": "2025-06-09 10:10",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84020"
-    },
-    {
-        "title": "글로벌 인증 속속…삼성·LG, 프리미엄 TV 화질 경쟁 격화",
-        "date": "2025-06-09 10:08",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142222"
-    },
-    {
-        "title": "한양대 정재경 교수, 수직 집적 가능한 ‘삼진로직소자’ 개발",
-        "date": "2025-06-09 10:03",
-        "link": "https://n.news.naver.com/mnews/article/016/0002481979?sid=102"
-    },
-    {
-        "title": "LG전자 OLED TV, '실내조명 환경 화질 인증' 최고 등급 '퍼펙트'",
-        "date": "2025-06-09 10:00",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251490"
-    },
-    {
-        "title": "Npay 포인트, 기아·삼성디스플레이 등 B2B로 확대",
-        "date": "2025-06-09 09:53",
-        "link": "https://n.news.naver.com/mnews/article/014/0005360428?sid=101"
-    },
-    {
-        "title": "네이버페이(Npay) 포인트, 기아·삼성디스플레이 등 B2B로 사용처 확대",
-        "date": "2025-06-09 09:37",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198063?sid=101"
-    },
-    {
-        "title": "[다시 한번 K-인더스트리]④'AI폰 명가'로 K모바일 위상 되살릴 때",
-        "date": "2025-06-09 09:35",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198062?sid=105"
-    },
-    {
-        "title": "'기업복지' 사용처 한계 허문다…Npay 포인트, 기아·삼성디스플레이로...",
-        "date": "2025-06-09 09:32",
-        "link": "https://n.news.naver.com/mnews/article/018/0006034564?sid=105"
-    },
-    {
-        "title": "[다시 한번 K-인더스트리] ② 中, OLED까지 넘보는데…韓 '성숙산업' 인...",
-        "date": "2025-06-09 09:31",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198060?sid=105"
-    },
-    {
-        "title": "“OLED 시장도 노리는 왕서방” 중국 새 기술로 한국 아성에 도전",
-        "date": "2025-06-09 09:21",
-        "link": "https://n.news.naver.com/mnews/article/050/0000091947?sid=101"
-    },
-    {
-        "title": "네이버페이, 'B2B 사업' 확장…기아·삼성디스플레이 등 포인트 사용처...",
-        "date": "2025-06-09 09:10",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=261102"
-    },
-    {
-        "title": "韓 OLED 아성에 도전장…中, 'FMM-Free' 신기술로 추격 가속화",
-        "date": "2025-06-09 09:02",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665556"
-    },
-    {
-        "title": "“삼성·LG 독점 깨질까…中, OLED 시장서 기술전 돌입”",
-        "date": "2025-06-09 08:54",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=186782"
-    },
-    {
-        "title": "'기업복지' 넘보는 네이버페이, 기아·삼성디스플레이 등 B2B 확대 '분주...",
-        "date": "2025-06-09 08:46",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227701"
-    },
-    {
-        "title": "삼성전자, 차세대 폴더블폰 '갤럭시Z 폴드7' 16GB + 1TB 버전 출시 되나...",
-        "date": "2025-06-09 08:04",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531936"
-    },
-    {
-        "title": "OLED 시장 노리는 中…자체기술 대거도입 침투율 확대",
-        "date": "2025-06-09 07:58",
-        "link": "https://n.news.naver.com/mnews/article/374/0000444615?sid=101"
-    },
-    {
-        "title": "[더벨][이사회 분석]김용관 삼성전자 사장, 계열사 입지 확대 '속도'",
-        "date": "2025-06-09 07:48",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506041335552400108356"
-    },
-    {
-        "title": "[더벨]LGD, 광저우 LCD 공장 매각대금 사용처 윤곽",
-        "date": "2025-06-09 07:48",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506051408453280105866"
-    },
-    {
-        "title": "OLED 시장 노리는 중국 디스플레이 업체…자체 기술 대거 도입",
-        "date": "2025-06-09 07:31",
-        "link": "https://n.news.naver.com/mnews/article/001/0015437887?sid=101"
-    },
-    {
-        "title": "'초고화질' 마이크로 LED, 차세대 디스플레이 선봉장…XR·차량용으로도...",
-        "date": "2025-06-09 07:01",
-        "link": "https://n.news.naver.com/mnews/article/011/0004494542?sid=101"
     }
 ]
