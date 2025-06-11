@@ -1,5 +1,985 @@
 [
     {
+        "title": "삼성전자, 갤럭시 A36 5G 국내 출시",
+        "date": "2025-06-11 12:50",
+        "link": "https://kbench.com/?q=node/268261"
+    },
+    {
+        "title": "애플, WWDC 2025에서 혁신 부족 논란",
+        "date": "2025-06-11 12:40",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=812067"
+    },
+    {
+        "title": "유니씨앤씨, 삼성슈퍼위크 LIVE에서 갤럭시북5 프로 선보여",
+        "date": "2025-06-11 12:40",
+        "link": "https://kbench.com/?q=node/268255"
+    },
+    {
+        "title": "애플, ‘애플 게임즈’ 앱 공개… “아이폰에서 모든 게임 관리”",
+        "date": "2025-06-11 12:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001084361?sid=105"
+    },
+    {
+        "title": "“시리 처음부터 다시 설계 중”…애플이 바라보는 AI 전략이란?",
+        "date": "2025-06-11 12:19",
+        "link": "https://n.news.naver.com/mnews/article/018/0006036379?sid=101"
+    },
+    {
+        "title": "삼성D·BOE 추격 LG디스플레이, 8.6세대 OLED 뛰어드나",
+        "date": "2025-06-11 12:18",
+        "link": "https://n.news.naver.com/mnews/article/119/0002966744?sid=101"
+    },
+    {
+        "title": "어드밴텍, 울트라 슬림 배젤 산업용 패널 PC PPC-300SW 시리즈 선봬",
+        "date": "2025-06-11 12:11",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320635?sid=105"
+    },
+    {
+        "title": "마이크로닉스 천장까지 투명한 케이스 'WIZMAX 루프탑' 출시",
+        "date": "2025-06-11 11:58",
+        "link": "http://gamefocus.co.kr/detail.php?number=166356"
+    },
+    {
+        "title": "삼성디스플레이, XR 공략 '잰걸음'…'올레도스' 경쟁력 공개",
+        "date": "2025-06-11 11:56",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140753"
+    },
+    {
+        "title": "애플 차기 '에어팟 프로3' 올 가을 출시 유력.. iOS 26 코드에서 이름 포...",
+        "date": "2025-06-11 11:54",
+        "link": "https://kbench.com/?q=node/268246"
+    },
+    {
+        "title": "갤럭시Z폴드7, 얇고 가벼워진 폴더블폰의 새로운 시대 열다",
+        "date": "2025-06-11 11:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=425636"
+    },
+    {
+        "title": "LG OLED TV, 밝은 곳에서도 잘 보인다…'퍼펙트' 인증 획득",
+        "date": "2025-06-11 11:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=425678"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 시장 1위 수성...점유율 51%",
+        "date": "2025-06-11 11:52",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=97533"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 시장 1위 유지…판매량 점유율 51%",
+        "date": "2025-06-11 11:49",
+        "link": "https://n.news.naver.com/mnews/article/277/0005605975?sid=101"
+    },
+    {
+        "title": "애플, 혁신보다 현실에 집중…WWDC 2025서 드러난 변화",
+        "date": "2025-06-11 11:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570387"
+    },
+    {
+        "title": "UI부터 정보 탐색까지… 전방위로 진화한 ‘맥OS 타호 26’ 미리보기",
+        "date": "2025-06-11 11:46",
+        "link": "https://www.itworld.co.kr/article/4004772/ui부터-정보-탐색까지-전방위로-진화한-맥os-타호-26.html"
+    },
+    {
+        "title": "어드밴텍, 울트라 슬림 산업용 패널 PC PPC-300SW 시리즈 선보여",
+        "date": "2025-06-11 11:40",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317756"
+    },
+    {
+        "title": "스케치소프트 3D 드로잉 앱 'Feather', 애플 디자인 어워드 수상",
+        "date": "2025-06-11 11:38",
+        "link": "https://platum.kr/archives/262885"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 시장 왕좌 지켜",
+        "date": "2025-06-11 11:32",
+        "link": "https://n.news.naver.com/mnews/article/079/0004033702?sid=101"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가",
+        "date": "2025-06-11 11:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002483324?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, AWE USA 2025 첫 참가…올레도스 기술 선봬",
+        "date": "2025-06-11 11:28",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=247517"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…올레도스 리더십 과시",
+        "date": "2025-06-11 11:24",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=75492"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전시 첫 참가…'올레도스' 분야 최신 기술...",
+        "date": "2025-06-11 11:24",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=734257"
+    },
+    {
+        "title": "시리는 왜 늦어졌나…애플, 지연된 기능 공개할까?",
+        "date": "2025-06-11 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570360"
+    },
+    {
+        "title": "LG, 북미 OLED TV 시장 '절반' 장악…1Q 판매 점유율 1위",
+        "date": "2025-06-11 11:21",
+        "link": "https://www.newspim.com/news/view/20250611000396"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 11:18",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=215018"
+    },
+    {
+        "title": "혹평 쏟아진 '애플 인텔리전스' … 삼성 갤럭시, AI 격차 벌린다",
+        "date": "2025-06-11 11:16",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/11/2025061100178.html"
+    },
+    {
+        "title": "세븐일레븐, 애플수박·복숭아 등 제철 과일 선봬",
+        "date": "2025-06-11 11:16",
+        "link": "https://www.cnbnews.com/news/article.html?no=730955"
+    },
+    {
+        "title": "LG전자 1분기 북미 OLED TV 점유율 51%로 1위, 13년 연속 선두 지킬까",
+        "date": "2025-06-11 11:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=398611"
+    },
+    {
+        "title": "LG전자, 1분기 美 OLED TV 점유율 51% 1위…2대 중 1대 LG",
+        "date": "2025-06-11 11:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0008305899?sid=101"
+    },
+    {
+        "title": "49만원대에 '6.7형' 대화면으로 유튜브 즐기세요 삼성전자 '갤럭시 A36...",
+        "date": "2025-06-11 11:06",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=110240"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 A36 5G’ 출시…가격 49만 9400원",
+        "date": "2025-06-11 11:06",
+        "link": "http://theviewers.co.kr/View.aspx?No=3673302"
+    },
+    {
+        "title": "삼성디스플레이 세계 최대 XR 전시회 참가, 올레도스 기술력 강조",
+        "date": "2025-06-11 11:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=398592"
+    },
+    {
+        "title": "삼성D, XR 시장 공략…전문 전시회서 올레도스 전시",
+        "date": "2025-06-11 11:02",
+        "link": "https://n.news.naver.com/mnews/article/030/0003320598?sid=105"
+    },
+    {
+        "title": "삼성전자, AI 탑재보급형 '갤럭시 A36 5G' 출시···판매가 49만원대",
+        "date": "2025-06-11 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250611102025"
+    },
+    {
+        "title": "마이크로닉스, 3면 강화유리 PC케이스 '위즈맥스 루프탑' 출시",
+        "date": "2025-06-11 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250611105000"
+    },
+    {
+        "title": "49만원에 'S급' 스펙 탑재...삼성, 올해 첫 중저가 '갤A36' 출격",
+        "date": "2025-06-11 10:57",
+        "link": "https://n.news.naver.com/mnews/article/008/0005205955?sid=105"
+    },
+    {
+        "title": "마이크로닉스, 천장까지 투명한 WIZMAX 루프탑 케이스 출시",
+        "date": "2025-06-11 10:54",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54750"
+    },
+    {
+        "title": "애플, 'WWDC25'에서 '게임 환경 강화' 선언... '게임즈' 앱 베타 버전 공...",
+        "date": "2025-06-11 10:50",
+        "link": "http://gamefocus.co.kr/detail.php?number=166346"
+    },
+    {
+        "title": "레노버,생산성·멀티태스킹 극대화한AI 데스크탑 및 모니터 출시",
+        "date": "2025-06-11 10:50",
+        "link": "https://www.cnet.co.kr/view/?no=20250611103629"
+    },
+    {
+        "title": "LG전자, 북미 OLED TV 판매 1위…“실제 소비자 구매 2대 중 1대는 LG”",
+        "date": "2025-06-11 10:50",
+        "link": "https://sateconomy.co.kr/news/view/1065576853473733"
+    },
+    {
+        "title": "한국레노버, 생산성·멀티태스킹 극대화 위한 차세대 AI 데스크탑 및 모...",
+        "date": "2025-06-11 10:48",
+        "link": "http://gamefocus.co.kr/detail.php?number=166341"
+    },
+    {
+        "title": "맥OS 27부터 애플 실리콘 전용… 인텔 맥, ‘타호 26’이 마지막",
+        "date": "2025-06-11 10:46",
+        "link": "https://www.itworld.co.kr/article/4004737/맥os-27부터-애플-실리콘-전용-인텔-맥-타호-26이-마.html"
+    },
+    {
+        "title": "삼성전자, 50만원대 가성비폰 '갤럭시 A36 5G' 12일 출시",
+        "date": "2025-06-11 10:46",
+        "link": "https://n.news.naver.com/mnews/article/031/0000939216?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지 판매 '호조'…주간 판매량 40% 급증",
+        "date": "2025-06-11 10:46",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84085"
+    },
+    {
+        "title": "삼성전자, 실속 더한 '갤럭시 A36 5G' 출시...49만9400원",
+        "date": "2025-06-11 10:44",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=402692"
+    },
+    {
+        "title": "삼성디스플레이, 美 XR 전시회 첫 참가…핵심 기술 '올레도스' 소개",
+        "date": "2025-06-11 10:42",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=246391"
+    },
+    {
+        "title": "올레도스로 XR 시장 공략…삼성디스플레이, 美 AWE 첫 참가",
+        "date": "2025-06-11 10:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005205936?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전시회 참가 배경은",
+        "date": "2025-06-11 10:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142331"
+    },
+    {
+        "title": "아이폰으로 게임 관리 한번에…애플, '애플 게임즈' 앱 공개",
+        "date": "2025-06-11 10:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269578"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…올레도스 기술력 공개",
+        "date": "2025-06-11 10:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269576"
+    },
+    {
+        "title": "마이클 세일러, 애플에 '비트코인 사라'고 권고",
+        "date": "2025-06-11 10:37",
+        "link": "https://n.news.naver.com/mnews/article/123/0002361008?sid=004"
+    },
+    {
+        "title": "삼성전자, 50만원 보급형 휴대폰 '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:34",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=754446"
+    },
+    {
+        "title": "'49만 9400원'..삼성전자, 보급형 '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:34",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2087919"
+    },
+    {
+        "title": "애플이 말하지 않은 WWDC 2025의 숨은 기능 10가지",
+        "date": "2025-06-11 10:26",
+        "link": "https://www.itworld.co.kr/article/4004717/애플이-말하지-않은-wwdc-2025의-숨은-기능-10가지.html"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:24",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=528367"
+    },
+    {
+        "title": "삼성D, '4K 3배' 몰입형 디스플레이 공개···'올레도스'로 확장현실 진...",
+        "date": "2025-06-11 10:22",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2288122"
+    },
+    {
+        "title": "GRT, 남사과기 업고 고성능 소재 '연평균 성장률 80%' 달성",
+        "date": "2025-06-11 10:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005605863?sid=101"
+    },
+    {
+        "title": "AI 기능 탑재한 '갤럭시 A36 5G' 출시... 가격은 49만원",
+        "date": "2025-06-11 10:22",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=48787"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전문 전시회 첫 참가···올레도스 리더...",
+        "date": "2025-06-11 10:18",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=235313"
+    },
+    {
+        "title": "‘워치OS 26’ 공개… 10년 차 애플 워치 전환점 맞이하는 대규모 개편",
+        "date": "2025-06-11 10:16",
+        "link": "https://www.itworld.co.kr/article/4004698/워치os-26-공개-10년-차-애플-워치에-새-생명-불어넣.html"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:16",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=82999"
+    },
+    {
+        "title": "[인터뷰] 애플 우수 앱 선정된 한국 스타트업 김용관 대표",
+        "date": "2025-06-11 10:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442924?sid=104"
+    },
+    {
+        "title": "'보급형' 갤럭시 A36 내놓은 삼성, A56·A26은 언제?",
+        "date": "2025-06-11 10:14",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142327"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 A36 5G’ 오는 12일 국내 출시",
+        "date": "2025-06-11 10:14",
+        "link": "https://idsn.co.kr/news/view/1065575420089786"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전시회서 '올레도스(OLEDoS)' 혁신 공개",
+        "date": "2025-06-11 10:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002377664?sid=105"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전문 전시회 'AWE USA 2025' 첫 참가",
+        "date": "2025-06-11 10:12",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214629"
+    },
+    {
+        "title": "삼성디스플레이, 미국 XR 전시회 첫 참가",
+        "date": "2025-06-11 10:12",
+        "link": "https://n.news.naver.com/mnews/article/215/0001212249?sid=101"
+    },
+    {
+        "title": "애플 게임즈 전면 탑재…맥·아이폰·아이패드에 ‘게임 허브’ 통합",
+        "date": "2025-06-11 10:12",
+        "link": "https://www.tokenpost.kr/news/tech/256411"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 시장 1위…판매량 점유율 51%",
+        "date": "2025-06-11 10:12",
+        "link": "https://n.news.naver.com/mnews/article/422/0000748276?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 A36 5G’ 국내 출시",
+        "date": "2025-06-11 10:12",
+        "link": "https://www.cnbnews.com/news/article.html?no=730909"
+    },
+    {
+        "title": "[산업워치] 삼성전자, '갤럭시 A36 5G' 국내 출시 外",
+        "date": "2025-06-11 10:12",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=71917"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시...대화면부터 카메라, 배터리까지...",
+        "date": "2025-06-11 10:12",
+        "link": "https://hobbyen-news.com/news/view/1065575344436036"
+    },
+    {
+        "title": "삼성전자, 보급형 스마트폰 '갤럭시 A36 5G' 국내 출시...49만9400원",
+        "date": "2025-06-11 10:11",
+        "link": "https://n.news.naver.com/mnews/article/108/0003336978?sid=004"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:11",
+        "link": "https://n.news.naver.com/mnews/article/215/0001212246?sid=101"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전문 전시회 첫 참가…올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 10:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=82835"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 점유율 51%…1위 수성",
+        "date": "2025-06-11 10:10",
+        "link": "https://n.news.naver.com/mnews/article/016/0002483176?sid=101"
+    },
+    {
+        "title": "“맥북을 버려도 좋을 듯” 생산성 툴로 재탄생한 아이패드OS",
+        "date": "2025-06-11 10:10",
+        "link": "https://www.itworld.co.kr/article/4004696/맥북을-버려도-좋을-듯-생산성-툴로-재탄생한-아.html"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…'올레도스' 기술력 소개",
+        "date": "2025-06-11 10:08",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699267"
+    },
+    {
+        "title": "삼성디스플레이, AWE 전시 첫 참가⋯ ‘올레도스’ 기술 선보여",
+        "date": "2025-06-11 10:08",
+        "link": "https://www.viva100.com/article/20250611500425"
+    },
+    {
+        "title": "한국레노버, 차세대 AI 데스크탑 및 모니터 출시",
+        "date": "2025-06-11 10:08",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3280118"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 자급제 출시",
+        "date": "2025-06-11 10:08",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=638845"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:04",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214623"
+    },
+    {
+        "title": "삼성디스플레이, 'AWE USA 2025' 참가…XR용 올레도스 기술력 공개 [소부...",
+        "date": "2025-06-11 10:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198262?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:02",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=82827"
+    },
+    {
+        "title": "삼성전자, 40만원대 보급형 '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 10:02",
+        "link": "https://n.news.naver.com/mnews/article/417/0001082275?sid=105"
+    },
+    {
+        "title": "한국레노버, 생산성·멀티태스킹 극대화 위한 차세대 AI 데스크탑 및 모...",
+        "date": "2025-06-11 10:02",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72090"
+    },
+    {
+        "title": "AI 늦어지는 애플 시리, 아직 만족할 품질 수준 도달 못해",
+        "date": "2025-06-11 10:02",
+        "link": "https://n.news.naver.com/mnews/article/421/0008305638?sid=105"
+    },
+    {
+        "title": "한국레노버, 차세대 AI 데스크탑 출시...AI 모델 훈련, 3D 설계, 데이터...",
+        "date": "2025-06-11 10:00",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35206"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 09:58",
+        "link": "http://thetracker.co.kr/View.aspx?No=3673202"
+    },
+    {
+        "title": "삼성 '갤럭시 A36 5G' 출시…AI·고화질 카메라 갖춘 가성비폰 등장",
+        "date": "2025-06-11 09:58",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1147383"
+    },
+    {
+        "title": "LG전자, 1분기 북미 OLED TV 시장 1위 지켜…판매량 점유율 51%",
+        "date": "2025-06-11 09:58",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442866?sid=101"
+    },
+    {
+        "title": "대상 ‘레드애플’, ‘레몬&amp;라임’ 기능성표시식품으로 전환",
+        "date": "2025-06-11 09:58",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202506110956104241204ead0791_12"
+    },
+    {
+        "title": "삼성, 50만원 보급형 폰 '갤럭시 A36' 출시…AI 탑재",
+        "date": "2025-06-11 09:56",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269540"
+    },
+    {
+        "title": "한국레노버, '씽크센터 M 시리즈 6세대'·'씽크비전 T 시리즈 모니터' 출...",
+        "date": "2025-06-11 09:56",
+        "link": "https://n.news.naver.com/mnews/article/014/0005361649?sid=105"
+    },
+    {
+        "title": "GRT, 고성능 소재 판매 연평균 80% 성장",
+        "date": "2025-06-11 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269539"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:50",
+        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=70304"
+    },
+    {
+        "title": "삼성디스플레이, 美 XR 전시회 'AWE USA' 참가...올레도스 출품",
+        "date": "2025-06-11 09:48",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=252035"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 12일 국내 출시",
+        "date": "2025-06-11 09:48",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=225959"
+    },
+    {
+        "title": "삼성전자, 갤럭시 A36 5G 국내 출시",
+        "date": "2025-06-11 09:48",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130787"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전문 전시회 첫 참가…올레도스 기술력 ...",
+        "date": "2025-06-11 09:46",
+        "link": "https://www.cnbnews.com/news/article.html?no=730881"
+    },
+    {
+        "title": "애플TV 리퀴드 글래스 인터페이스, 구형에선 제외",
+        "date": "2025-06-11 09:46",
+        "link": "https://www.itworld.co.kr/article/4004680/애플tv-리퀴드-글래스-ui-신형-모델만-해당.html"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 참가 … 올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 09:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/11/2025061100059.html"
+    },
+    {
+        "title": "삼성 '갤럭시 A36 5G' 국내 상륙…49만9400원",
+        "date": "2025-06-11 09:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1247840"
+    },
+    {
+        "title": "中 의존 대폭 축소 … 포스코퓨처엠, 탈중국 공급망 자립 첫발 [르포]",
+        "date": "2025-06-11 09:40",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/11/2025061100081.html"
+    },
+    {
+        "title": "삼성전자, 보급형 '갤럭시 A36 5G' 국내 출시…49만9400원",
+        "date": "2025-06-11 09:38",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699239"
+    },
+    {
+        "title": "'남사과기 등에 업은' GRT, 고성능 소재 '연평균 성장률 80%'",
+        "date": "2025-06-11 09:38",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=692011"
+    },
+    {
+        "title": "아이폰으로 게임 관리 한번에…애플, '애플 게임즈' 앱 공개",
+        "date": "2025-06-11 09:37",
+        "link": "https://n.news.naver.com/mnews/article/003/0013296676?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전문 전시회 첫 참가… 올레도스 리더십...",
+        "date": "2025-06-11 09:36",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3280096"
+    },
+    {
+        "title": "12년 만에 확 바꾼다고?…아이폰 OS 디자인 변천사",
+        "date": "2025-06-11 09:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269527"
+    },
+    {
+        "title": "iOS 26 베타에서 포착…애플, 에어팟 프로3 준비 중?",
+        "date": "2025-06-11 09:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570295"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…올레도스 기술력 공개",
+        "date": "2025-06-11 09:34",
+        "link": "https://n.news.naver.com/mnews/article/003/0013296648?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 12일 국내 출시…가격 49만9400원",
+        "date": "2025-06-11 09:34",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=86412"
+    },
+    {
+        "title": "삼성 갤럭시 A36 5G, 49만원대 국내 출시",
+        "date": "2025-06-11 09:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570291"
+    },
+    {
+        "title": "삼성디스플레이, 5000PPI 올레도스로 XR 시장 공략",
+        "date": "2025-06-11 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570303"
+    },
+    {
+        "title": "애플, ‘리퀴드 글래스’ 공개…모든 인터페이스 새롭게 재설계",
+        "date": "2025-06-11 09:26",
+        "link": "https://www.itworld.co.kr/article/4004665/애플-리퀴드-글래스-공개모든-인터페이스-새롭게.html"
+    },
+    {
+        "title": "실속형 스마트폰···삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:26",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=265455"
+    },
+    {
+        "title": "실속형 AI폰 나왔다…삼성전자 '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:24",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=88183"
+    },
+    {
+        "title": "삼성디스플레이, 천안시 '우리아이 수호천사 되어주기' 캠페인… 1억원...",
+        "date": "2025-06-11 09:22",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3280088"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:22",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=178623"
+    },
+    {
+        "title": "삼성전자, 보급형 스마트폰 ‘갤럭시 A36 5G’ 국내 출시",
+        "date": "2025-06-11 09:22",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=73234"
+    },
+    {
+        "title": "삼성전자, 40만원대 실속형 '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:20",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=246356"
+    },
+    {
+        "title": "삼성전자 '갤럭시 A36 5G' 국내 출시… 49만 9400원",
+        "date": "2025-06-11 09:18",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3280087"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시…가격 49만9400원",
+        "date": "2025-06-11 09:18",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89322"
+    },
+    {
+        "title": "티젠, 저당·저칼로리 '애플사이다비니거 젤리' 출시",
+        "date": "2025-06-11 09:18",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2025061109143460746a9e4dd7f_30"
+    },
+    {
+        "title": "티젠, 저당·저칼로리로 즐기는 ‘애플사이다비니거 젤리’ 출시",
+        "date": "2025-06-11 09:17",
+        "link": "https://n.news.naver.com/mnews/article/018/0006036178?sid=101"
+    },
+    {
+        "title": "손목시계 화면크기에 픽셀수는 4K TV 3배 삼성D, XR전시회서 '올레도스...",
+        "date": "2025-06-11 09:14",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=110219"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:14",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=235291"
+    },
+    {
+        "title": "삼성전자, 성능과 실속 다 잡은 '갤럭시 A36 5G' 12일 출시",
+        "date": "2025-06-11 09:14",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238990"
+    },
+    {
+        "title": "삼성D, 세계최대 XR 전문 전시회 첫 출격…올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 09:12",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2065421"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 출시…콘텐츠 감상에 최적화",
+        "date": "2025-06-11 09:12",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112998"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전시회 첫 참가…올레도스로 기술 리더십...",
+        "date": "2025-06-11 09:10",
+        "link": "https://www.socialvalue.kr/news/view/1065571452016213"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전문 전시회 첫 참가…올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 09:08",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139068"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:08",
+        "link": "https://www.kbsm.net/news/view.php?idx=478207"
+    },
+    {
+        "title": "마이클 세일러 애플, 비트코인 사들여야…자사주 매입 성과 부진",
+        "date": "2025-06-11 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570278"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:06",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=103108"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전문 전시회 'AWE USA 2025' 첫 참가",
+        "date": "2025-06-11 09:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=651036"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가… ‘올레도스’ 리더십 뽐낸다",
+        "date": "2025-06-11 09:03",
+        "link": "https://n.news.naver.com/mnews/article/366/0001084267?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 XR 전문 전시회 첫 참가…올레도스 리더십 ...",
+        "date": "2025-06-11 09:00",
+        "link": "https://www.etoday.co.kr/news/view/2477733"
+    },
+    {
+        "title": "콘텐츠 감상에 최적화…삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 09:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=187026"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…올레도스 리더십 뽐내",
+        "date": "2025-06-11 08:58",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1247802"
+    },
+    {
+        "title": "삼성디스플레이, XR 핵심 올레도스 전면에…AWE 첫 참가",
+        "date": "2025-06-11 08:58",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=178609"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 확장현실(XR)전시회 참가",
+        "date": "2025-06-11 08:58",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442674?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 확장현실(XR)전시회 참가",
+        "date": "2025-06-11 08:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442670?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 확장현실(XR)전시회 참가",
+        "date": "2025-06-11 08:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442667?sid=101"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 참가...올레도스 리더십 증명한다",
+        "date": "2025-06-11 08:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0002966580?sid=101"
+    },
+    {
+        "title": "애플, 혁신 없는 AI에 시장 반응 ‘미지근’…삼성 갤럭시, AI폰 경쟁 우...",
+        "date": "2025-06-11 08:54",
+        "link": "https://www.ceoscoredaily.com/page/view/2025061017520273837"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회서 `올레도스` 기술력 뽐낸다",
+        "date": "2025-06-11 08:52",
+        "link": "https://n.news.naver.com/mnews/article/029/0002960455?sid=101"
+    },
+    {
+        "title": "삼성D, 美 XR 전문 전시회서 '올레도스' 기술 선봬",
+        "date": "2025-06-11 08:48",
+        "link": "https://www.ajunews.com/view/20250611084305949"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시...판매가격 49만9400원",
+        "date": "2025-06-11 08:48",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073713"
+    },
+    {
+        "title": "삼성전자, AI 어썸 인텔리전스 탑재한 보급형 '갤럭시 A36 5G' 출시",
+        "date": "2025-06-11 08:48",
+        "link": "https://www.raonnews.com/news/article.html?no=47983"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 A36 5G’ 국내 출시...가격 49만9400원",
+        "date": "2025-06-11 08:47",
+        "link": "https://n.news.naver.com/mnews/article/018/0006036131?sid=105"
+    },
+    {
+        "title": "'제철과일' 충전한 세븐일레븐…애플수박·방울토마토 출시",
+        "date": "2025-06-11 08:44",
+        "link": "https://n.news.naver.com/mnews/article/277/0005605704?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 美 XR 전문 전시회 첫 참가…올레도스 기술력 과시",
+        "date": "2025-06-11 08:42",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1227583"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시… 고화질 카메라·AI기능 눈길",
+        "date": "2025-06-11 08:40",
+        "link": "https://www.ajunews.com/view/20250611082757922"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시 … AI 어썸 인텔리전스 탑재",
+        "date": "2025-06-11 08:38",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/11/2025061100044.html"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전문 전시회 첫 참가…올레도스 리더십 뽐낸다",
+        "date": "2025-06-11 08:37",
+        "link": "https://www.newspim.com/news/view/20250611000067"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 첫 참가…'올레도스' 리더십 뽐내",
+        "date": "2025-06-11 08:37",
+        "link": "https://n.news.naver.com/mnews/article/001/0015442629?sid=101"
+    },
+    {
+        "title": "애플 · 구글, 돈벌이 위해 암시장 방치했나 [Global]",
+        "date": "2025-06-11 08:37",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005182?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시...대화면부터 카메라, 배터리까지...",
+        "date": "2025-06-11 08:36",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=391347"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 A36 5G’ 국내 출시",
+        "date": "2025-06-11 08:35",
+        "link": "https://n.news.naver.com/mnews/article/082/0001330048?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 08:34",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=425557"
+    },
+    {
+        "title": "삼성D, 올레도스 新기술로 세계최대 XR 전시회 첫 참가",
+        "date": "2025-06-11 08:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002483049?sid=101"
+    },
+    {
+        "title": "올레도스 리더십 과시 삼성디스플레이, 세계 최대 XR 전문 전시회 첫...",
+        "date": "2025-06-11 08:32",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227853"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 참가···올레도스 기술력 소개",
+        "date": "2025-06-11 08:32",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=559691"
+    },
+    {
+        "title": "삼성, 50만원 보급형 폰 '갤럭시 A36' 출시…AI 탑재",
+        "date": "2025-06-11 08:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0013296471?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 08:32",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=651031"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시...대화면부터 배터",
+        "date": "2025-06-11 08:30",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=650469"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전시회 참가…올레도스 기술력 뽐낸다",
+        "date": "2025-06-11 08:29",
+        "link": "https://n.news.naver.com/mnews/article/421/0008305337?sid=101"
+    },
+    {
+        "title": "“AI 더한 실속형폰”…삼성전자, ‘갤럭시 A36 5G’ 국내 출시",
+        "date": "2025-06-11 08:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002483045?sid=105"
+    },
+    {
+        "title": "삼성D, XR 전시회 첫 참가…올레도스 잠재력 증명",
+        "date": "2025-06-11 08:26",
+        "link": "https://n.news.naver.com/mnews/article/018/0006036103?sid=101"
+    },
+    {
+        "title": "GRT, 고성능 소재 판매 연평균 80% 성장",
+        "date": "2025-06-11 08:26",
+        "link": "https://n.news.naver.com/mnews/article/003/0013296462?sid=101"
+    },
+    {
+        "title": "대화면부터 카메라·배터리까지…'갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 08:24",
+        "link": "https://www.sentv.co.kr/article/view/sentv202506110002"
+    },
+    {
+        "title": "삼성디스플레이, 천안 취약계층 아동 위해 1억 원 기부",
+        "date": "2025-06-11 08:20",
+        "link": "https://tjmbc.co.kr/article/1WORFZIyGRhEm9q6Zv"
+    },
+    {
+        "title": "[자막뉴스] 12년 만에 대변화...'한 방' 없던 애플에 싸늘한 반응",
+        "date": "2025-06-11 08:19",
+        "link": "https://n.news.naver.com/mnews/article/052/0002204160?sid=104"
+    },
+    {
+        "title": "똑똑한데 모두 담았다 삼성전자, '갤럭시 A36 5G'…12일 국내 출시",
+        "date": "2025-06-11 08:18",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=227850"
+    },
+    {
+        "title": "삼성D, 세계 최대 XR 전문 전시회 첫 참가…'올레도스 리더십' 뽐낸다",
+        "date": "2025-06-11 08:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005605677?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 출시",
+        "date": "2025-06-11 08:16",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=61891"
+    },
+    {
+        "title": "삼성전자, '갤럭시 A36 5G' 국내 가성비폰 출격",
+        "date": "2025-06-11 08:12",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=29608"
+    },
+    {
+        "title": "삼성전자, 보급형폰 '갤럭시 A36 5G' 국내 출시.. 49.94만원",
+        "date": "2025-06-11 08:10",
+        "link": "https://n.news.naver.com/mnews/article/014/0005361559?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 美 XR 전시회 참가…'올레도스' 기술 공개",
+        "date": "2025-06-11 08:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665867"
+    },
+    {
+        "title": "[인터뷰] 황철주 주성 회장 혁신은 규제 대상 아니다…온리원 기업 육...",
+        "date": "2025-06-11 08:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198236?sid=105"
+    },
+    {
+        "title": "잡플래닛, 오는 25일 6회차 플래그 개최…애플·쿠팡·토스 출신 김유리...",
+        "date": "2025-06-11 07:52",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=104785"
+    },
+    {
+        "title": "[부자들의 투자노트] 로스 거버 애플 WWDC25 실망스러워",
+        "date": "2025-06-11 07:46",
+        "link": "https://n.news.naver.com/mnews/article/374/0000445117?sid=104"
+    },
+    {
+        "title": "로스 거버 애플 WWDC25 실망스러워",
+        "date": "2025-06-11 07:44",
+        "link": "https://n.news.naver.com/mnews/article/374/0000445114?sid=104"
+    },
+    {
+        "title": "애플, 시리 이름 바꾸나… 인공지능 전략 전면 수정 가능성 제기",
+        "date": "2025-06-11 07:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532053"
+    },
+    {
+        "title": "애플스토어·약국·보석상까지…DTLA 심야 약탈에 시민 분노",
+        "date": "2025-06-11 07:06",
+        "link": "https://www.koreadaily.com/article/20250610150440550"
+    },
+    {
+        "title": "삼성전자, 中 맹추격에 ‘울트라급’ AI 폴더블폰 ‘맞불’",
+        "date": "2025-06-11 06:46",
+        "link": "https://www.viva100.com/article/20250610501182"
+    },
+    {
+        "title": "애플 이어 구글까지? 출판업계, 대형 플랫폼에 '칼' 뽑은 배경은?",
+        "date": "2025-06-11 06:30",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=504892"
+    },
+    {
+        "title": "출판업계 인앱 수수료 과도…애플 이어 구글에 집단소송",
+        "date": "2025-06-11 06:12",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=448395"
+    },
+    {
+        "title": "AI 대신 디자인 올인한 애플… 기술 초격차로 치고나가는 삼성",
+        "date": "2025-06-11 06:05",
+        "link": "https://n.news.naver.com/mnews/article/022/0004042577?sid=101"
+    },
+    {
+        "title": "12년 만에 확 바꾼다고?…아이폰 OS 디자인 변천사",
+        "date": "2025-06-11 06:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013296346?sid=105"
+    },
+    {
+        "title": "자금 숨통트인 LGD 정철동號, OLED 기술 차별화 묘수 고심",
+        "date": "2025-06-11 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142306"
+    },
+    {
+        "title": "OLED 커지자 진격하는 중국...'기회'보다 '위협'에 무게",
+        "date": "2025-06-11 06:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002966548?sid=101"
+    },
+    {
+        "title": "완성도 높은 밸런스 에이수스 ROG 제피러스 G14(2025) [리뷰]",
+        "date": "2025-06-11 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142300"
+    },
+    {
+        "title": "[판매농협이 간다] ‘애플수박’ 철저한 품질관리…판로 넓힌다",
+        "date": "2025-06-11 05:01",
+        "link": "https://n.news.naver.com/mnews/article/662/0000070493?sid=102"
+    },
+    {
         "title": "하반기 전면전 앞둔 갤럭시Z7·아이폰17…트럼프 관세가 ‘찬물’",
         "date": "2025-06-11 05:00",
         "link": "https://www.etoday.co.kr/news/view/2477559"
@@ -245,7 +1225,7 @@
         "link": "https://www.aitimes.com/news/articleView.html?idxno=171186"
     },
     {
-        "title": "애플 아이폰, AI 시대엔 구닥다리...AI폰은 삼성 갤럭시폰이 '선두'",
+        "title": "애플 아이폰, AI 시대엔 구닥다리...AI폰은 삼성 갤럭시폰 '대세'",
         "date": "2025-06-10 17:58",
         "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=225890"
     },
@@ -570,6 +1550,11 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570162"
     },
     {
+        "title": "[더벨][i-point]APS, 'Eco-Almag' 소재 기업 비트에 지분 투자",
+        "date": "2025-06-10 15:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506090842007680101583"
+    },
+    {
         "title": "하이브IM '아키텍트', 애플 디바이스 최적화 완료",
         "date": "2025-06-10 15:34",
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214571"
@@ -695,24 +1680,24 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013295182?sid=103"
     },
     {
-        "title": "대한출판문화협회, 대한민국 최초 미국 현지 구글 및 애플 집단소송",
-        "date": "2025-06-10 14:29",
-        "link": "https://n.news.naver.com/mnews/article/003/0013295183?sid=103"
-    },
-    {
         "title": "대한민국 최초 미국 현지 구글 및 애플 집단소송 하는 대한출판문화협...",
         "date": "2025-06-10 14:29",
         "link": "https://n.news.naver.com/mnews/article/003/0013295177?sid=103"
     },
     {
-        "title": "대한민국 최초 미국 현지 구글 및 애플 집단소송 하는 윤철호 회장",
+        "title": "대한출판문화협회, 대한민국 최초 미국 현지 구글 및 애플 집단소송",
         "date": "2025-06-10 14:29",
-        "link": "https://n.news.naver.com/mnews/article/003/0013295178?sid=103"
+        "link": "https://n.news.naver.com/mnews/article/003/0013295183?sid=103"
     },
     {
         "title": "최초 미국 현지 구글 및 애플 집단소송 하는 대한출판문화협회",
         "date": "2025-06-10 14:29",
         "link": "https://n.news.naver.com/mnews/article/003/0013295180?sid=103"
+    },
+    {
+        "title": "대한민국 최초 미국 현지 구글 및 애플 집단소송 하는 윤철호 회장",
+        "date": "2025-06-10 14:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013295178?sid=103"
     },
     {
         "title": "윤철호 회장, 대한민국 최초 미국 현지 구글 및 애플 집단소송 기자간담...",
@@ -723,6 +1708,11 @@
         "title": "잡플래닛, 6회차 플래그 개최…애플·쿠팡·토스 출신 김유리 코치 연사...",
         "date": "2025-06-10 14:18",
         "link": "https://www.news2day.co.kr/article/20250610500169"
+    },
+    {
+        "title": "애플 iOS 26, 스팸 전쟁 끝낼까…차단 기능 대폭 개선",
+        "date": "2025-06-10 14:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570148"
     },
     {
         "title": "애플 2025 세계개발자회의...'리퀴드 글래스(Liquid Glass)' 전면 도입",
@@ -1000,14 +1990,14 @@
         "link": "http://www.fntimes.com/html/view.php?ud=2025061011224845027492587736_18"
     },
     {
-        "title": "애플 tvOS 26 베타 공개…애플TV 4K 새 기능 예고",
-        "date": "2025-06-10 11:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570098"
-    },
-    {
         "title": "애플 '파운데이션 모델' 도입…개발자 AI 활용 폭 넓히나",
         "date": "2025-06-10 11:24",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570103"
+    },
+    {
+        "title": "애플 tvOS 26 베타 공개…애플TV 4K 새 기능 예고",
+        "date": "2025-06-10 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570098"
     },
     {
         "title": "인조이 맥으로 즐긴다…크래프톤, 애플 실리콘 최적화 버전 예약 시작",
@@ -1145,39 +2135,9 @@
         "link": "https://www.cnbnews.com/news/article.html?no=730657"
     },
     {
-        "title": "아키텍트: 랜드 오브 엑자일, 애플 디바이스 최적화 완료",
-        "date": "2025-06-10 10:40",
-        "link": "https://www.betanews.net/article/view/beta202506100030"
-    },
-    {
         "title": "'애플 AI 울상'인데…삼성, '갤럭시폴드7' 티저로 AI폴더블폰 기대감 높...",
         "date": "2025-06-10 10:38",
         "link": "https://n.news.naver.com/mnews/article/138/0002198177?sid=105"
-    },
-    {
-        "title": "“앱스토어와 다르다!” 애플, WWDC 2025에서 새로운 게임 서비스 앱 공...",
-        "date": "2025-06-10 10:34",
-        "link": "https://game.donga.com/117683/"
-    },
-    {
-        "title": "韓 게임사 기술력 빛났다… 애플이 주목한 펄어비스·크래프톤",
-        "date": "2025-06-10 10:30",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142284"
-    },
-    {
-        "title": "맥에서 즐기는 한국 게임…붉은사막·인조이, 애플 WWDC서 소개(종합)",
-        "date": "2025-06-10 10:29",
-        "link": "https://n.news.naver.com/mnews/article/001/0015440544?sid=105"
-    },
-    {
-        "title": "애플 'iOS 26' 개발자 베타 버전 출시.. 호환되는 기기는?",
-        "date": "2025-06-10 10:28",
-        "link": "https://kbench.com/?q=node/268191"
-    },
-    {
-        "title": "크래프톤 '인조이', 애플 맥 OS서도 즐긴다",
-        "date": "2025-06-10 10:28",
-        "link": "https://n.news.naver.com/mnews/article/648/0000036858?sid=105"
     },
     {
         "title": "삼성전자 제대로 칼 갈았다…'역대급 슬림 폴더블폰' 승부수 [영상]",
@@ -1185,29 +2145,9 @@
         "link": "https://n.news.naver.com/mnews/article/015/0005142580?sid=105"
     },
     {
-        "title": "UI부터 핵심 앱까지 전면 개편… iOS 26 핵심 변화 총정리",
-        "date": "2025-06-10 10:26",
-        "link": "https://www.itworld.co.kr/article/4003894/ui부터-핵심-앱까지-전면-개편-ios-26-핵심-변화-총정리.html"
-    },
-    {
         "title": "에이서, 엔비디아 RTX AI PC 캠퍼스 세미나 성료",
         "date": "2025-06-10 10:24",
         "link": "https://kbench.com/?q=node/268193"
-    },
-    {
-        "title": "하이브IM, '아키텍트: 랜드 오브 엑자일' 애플 디바이스 최적화한다",
-        "date": "2025-06-10 10:23",
-        "link": "https://n.news.naver.com/mnews/article/031/0000938801?sid=105"
-    },
-    {
-        "title": "AI 혁신은 어디에…WWDC2025, 애플의 '실망 잔치'",
-        "date": "2025-06-10 10:22",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=412408"
-    },
-    {
-        "title": "혁신 없이 '구식'만 남은 WWDC25, '삼성 비웃음' 산 애플",
-        "date": "2025-06-10 10:22",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=261184"
     },
     {
         "title": "LG Display President Jeong Cheoldong Faces Test of ‘OLED Transformation...",
@@ -1215,54 +2155,9 @@
         "link": "http://www.fntimes.com/html/view.php?ud=202506100732338356141825007d_18"
     },
     {
-        "title": "하이브IM, '아키텍트' 애플 디바이스 최적화로 전방위 공략",
-        "date": "2025-06-10 10:18",
-        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6900358"
-    },
-    {
-        "title": "애플 WWDC25, 신제품 등 '킬포' 없었다…AI 기능 추가도 '글쎄'",
-        "date": "2025-06-10 10:17",
-        "link": "https://n.news.naver.com/mnews/article/003/0013294307?sid=105"
-    },
-    {
-        "title": "삼성, 애플 WWDC에 '귀엽네' 조롱…우리가 이미 하던 건데",
-        "date": "2025-06-10 10:15",
-        "link": "https://n.news.naver.com/mnews/article/003/0013294300?sid=105"
-    },
-    {
-        "title": "크래프톤 ‘인조이’, 맥 버전 사전예약…애플 ‘WWDC 2025’서도 소개",
-        "date": "2025-06-10 10:15",
-        "link": "https://n.news.naver.com/mnews/article/009/0005506076?sid=101"
-    },
-    {
-        "title": "'아키텍트', 맥OS 본격 대응…애플 유저 공략",
-        "date": "2025-06-10 10:09",
-        "link": "https://m.sports.naver.com/esports/article/442/0000183025"
-    },
-    {
         "title": "삼성디스플레이, 천안 취약계층 아동 위해 1억원 기부",
         "date": "2025-06-10 10:08",
         "link": "https://n.news.naver.com/mnews/article/001/0015440461?sid=101"
-    },
-    {
-        "title": "애플, '리퀴드 글래스' 디자인 입은 iOS 26 공개",
-        "date": "2025-06-10 10:06",
-        "link": "https://kbench.com/?q=node/268189"
-    },
-    {
-        "title": "붉은사막, 인조이, 애플 WWDC에서 한국 게임 집중 조명",
-        "date": "2025-06-10 10:04",
-        "link": "https://game.donga.com/117679/"
-    },
-    {
-        "title": "애플, 맥OS 게임 생태계 강화…인조이·붉은사막 맥 버전 출시",
-        "date": "2025-06-10 10:02",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/20250610090441651c5fa75ef86_1/article.html"
-    },
-    {
-        "title": "애플, 가을 업데이트로 ‘스팸 차단·실시간 번역’ 등 신기능 대거 추...",
-        "date": "2025-06-10 10:02",
-        "link": "https://n.news.naver.com/mnews/article/123/0002360882?sid=004"
     },
     {
         "title": "삶의 질 높여주는 모니터 조명, 벤큐 스크린바 헤일로 2",
@@ -1270,59 +2165,9 @@
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54721"
     },
     {
-        "title": "애플 “생성형 AI, 아직 ‘진짜 지능’과는 거리가 멀다” 경고",
-        "date": "2025-06-10 10:00",
-        "link": "https://www.itworld.co.kr/article/4003883/애플-생성형-ai-아직-진짜-지능과는-거리가-멀다-경고.html"
-    },
-    {
-        "title": "크래프톤, ‘인조이’ 애플 맥 버전 사전 예약 시작",
-        "date": "2025-06-10 09:59",
-        "link": "https://n.news.naver.com/mnews/article/366/0001083953?sid=105"
-    },
-    {
-        "title": "구글·애플 '앱 마켓' 독점에 저항…국내 기업들 美서 집단소송",
-        "date": "2025-06-10 09:58",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84056"
-    },
-    {
         "title": "신축 디스플레이 늘림의 균일도(Even Stretching) 난제 해결",
         "date": "2025-06-10 09:58",
         "link": "http://www.veritas-a.com/news/articleView.html?idxno=557722"
-    },
-    {
-        "title": "[특징주] 미투온, 애플·X 주목한 美서클 USDC 활용 부각 강세",
-        "date": "2025-06-10 09:57",
-        "link": "https://n.news.naver.com/mnews/article/277/0005605133?sid=101"
-    },
-    {
-        "title": "애플, 신규 SW 디자인 '리퀴드 글래스' 선봬…iOS 전면 개편",
-        "date": "2025-06-10 09:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570061"
-    },
-    {
-        "title": "애플, 맥OS 타호 공개…아이폰·맥 연결성↑",
-        "date": "2025-06-10 09:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570058"
-    },
-    {
-        "title": "게임 시장 노리는 애플의 구애작전, 새 동반자는 K-게임?",
-        "date": "2025-06-10 09:48",
-        "link": "https://m.sports.naver.com/esports/article/439/0000030928"
-    },
-    {
-        "title": "크래프톤, '인조이' 애플 맥 버전 사전 예약 시작",
-        "date": "2025-06-10 09:48",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=269418"
-    },
-    {
-        "title": "애플 WWDC 2025, 디자인 중심·AI 부재에 실망감 고조",
-        "date": "2025-06-10 09:40",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84055"
-    },
-    {
-        "title": "크래프톤, 신작 '인조이' 맥 버전 사전 예약…애플 실리콘 최적화",
-        "date": "2025-06-10 09:40",
-        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=120660"
     },
     {
         "title": "삼성전자, 갤Z폴드7 2차 티저 공개…역대 시리즈 중 가장 얇고 가벼워...",
@@ -1335,59 +2180,14 @@
         "link": "https://n.news.naver.com/mnews/article/117/0003951853?sid=105"
     },
     {
-        "title": "애플 카플레이, iOS 26로 대대적 변화…위젯·탭백·디자인 혁신",
-        "date": "2025-06-10 09:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570053"
-    },
-    {
-        "title": "애플, 에어팟 카메라 제어 기능 도입…스튜디오급 녹음 기능도 추가",
-        "date": "2025-06-10 09:34",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570046"
-    },
-    {
-        "title": "'게이밍 머신' 꿈꾸는 애플, 개발자 지원 강화",
-        "date": "2025-06-10 09:30",
-        "link": "https://m.sports.naver.com/esports/article/442/0000183024"
-    },
-    {
-        "title": "애플 iOS 26, 라이트 모드 아이콘 지원…커스터마이징 가능해진다",
-        "date": "2025-06-10 09:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570028"
-    },
-    {
-        "title": "애플 인텔 맥 지원 2029년에 완전 중단",
-        "date": "2025-06-10 09:29",
-        "link": "https://n.news.naver.com/mnews/article/092/0002377466?sid=105"
-    },
-    {
-        "title": "애플, 신규 AI 기능 추가…애플 인텔리전스, 전화·문자 실시간 번역한...",
-        "date": "2025-06-10 09:28",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=269393"
-    },
-    {
         "title": "애플, 새 디자인 입힌 'iOS 26' 선봬…애플 인텔리전스 신기능은?",
         "date": "2025-06-10 09:28",
         "link": "https://www.widedaily.com/news/articleView.html?idxno=269394"
     },
     {
-        "title": "애플, 아이패드OS 26 공개…더 강력해진 멀티태스킹·파일 관리",
-        "date": "2025-06-10 09:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570037"
-    },
-    {
-        "title": "애플, 워치OS 26 발표…디자인 혁신·AI 피트니스 기능 강화",
-        "date": "2025-06-10 09:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570039"
-    },
-    {
         "title": "애플, 12년 만에 디자인 대격변…'리퀴드 글래스' 디자인 공개",
         "date": "2025-06-10 09:26",
         "link": "https://www.widedaily.com/news/articleView.html?idxno=269392"
-    },
-    {
-        "title": "'붉은사막'과 '인조이', 애플 WWDC에서 소개",
-        "date": "2025-06-10 09:24",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=811220"
     },
     {
         "title": "차기 '갤럭시 워치8 클래식' 프로토타입 이베이 등록.. 사각형 디자인 ...",
@@ -1400,26 +2200,6 @@
         "link": "https://n.news.naver.com/mnews/article/015/0005142510?sid=105"
     },
     {
-        "title": "애플, 12년 만에 대대적 OS 디자인 변화…'리퀴드 글래스' 도입",
-        "date": "2025-06-10 09:16",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=112953"
-    },
-    {
-        "title": "[WWDC25] 애플, 남은 건 '리퀴드 글래스'…AI, 삼성에 또 밀렸다 [종합]",
-        "date": "2025-06-10 09:10",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198146?sid=105"
-    },
-    {
-        "title": "애플 iOS 26…리퀴드 글래스부터 메시지 기능 확대까지",
-        "date": "2025-06-10 09:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570013"
-    },
-    {
-        "title": "크래프톤, '인조이' 맥 버전 사전예약 시작…메탈·코어 ML 등 애플 최신...",
-        "date": "2025-06-10 09:06",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=186916"
-    },
-    {
         "title": "삼성전자, `갤Z폴드7` 2차 티저 보니…가장 얇고 가벼운 폴더블폰",
         "date": "2025-06-10 09:05",
         "link": "https://n.news.naver.com/mnews/article/029/0002960141?sid=105"
@@ -1430,39 +2210,9 @@
         "link": "https://www.greened.kr/news/articleView.html?idxno=327424"
     },
     {
-        "title": "맥OS서 韓 게임 즐긴다…애플, WWDC서 붉은사막·인조이 소개",
-        "date": "2025-06-10 09:03",
-        "link": "https://n.news.naver.com/mnews/article/277/0005605019?sid=105"
-    },
-    {
-        "title": "애플 'WWDC' AI 발표에 혹평...사실상 AI 쉬어 가는 해",
-        "date": "2025-06-10 09:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=171154"
-    },
-    {
-        "title": "애플, 차세대 아이폰OS iOS 26 발표",
-        "date": "2025-06-10 09:00",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=811204"
-    },
-    {
-        "title": "애플, 12년 만에 OS 대대적 개편…AI·하드웨어 혁신은 부재",
-        "date": "2025-06-10 08:58",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142276"
-    },
-    {
-        "title": "맥OS로 '붉은사막'·'인조이' 즐겨요...애플, WWDC서 '게임센터' 띄웠다",
-        "date": "2025-06-10 08:56",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=140669"
-    },
-    {
         "title": "“가장 얇고, 가볍다” 삼성전자, 갤럭시 Z폴드7 2차 티저 공개",
         "date": "2025-06-10 08:56",
         "link": "https://n.news.naver.com/mnews/article/018/0006035371?sid=105"
-    },
-    {
-        "title": "크래프톤, '인조이' 애플 맥 버전 사전 예약 시작",
-        "date": "2025-06-10 08:55",
-        "link": "https://n.news.naver.com/mnews/article/003/0013294008?sid=105"
     },
     {
         "title": "더 얇고, 가볍고, 견고하게 – 폴더블의 새로운 시대를 여는 갤럭시 Z 시...",
@@ -1475,24 +2225,9 @@
         "link": "https://n.news.naver.com/mnews/article/016/0002482480?sid=105"
     },
     {
-        "title": "애플 WWDC에 펄어비스 붉은사막이?",
-        "date": "2025-06-10 08:50",
-        "link": "https://m.sports.naver.com/esports/article/439/0000030926"
-    },
-    {
         "title": "역대 가장 얇은 폴더블폰 나오나…삼성, 갤Z폴드7 2차 티저 공개",
         "date": "2025-06-10 08:49",
         "link": "https://n.news.naver.com/mnews/article/008/0005205229?sid=105"
-    },
-    {
-        "title": "애플, 12년만 iOS 대대적 개편...“시리 고도화 시간 필요”(종합)",
-        "date": "2025-06-10 08:46",
-        "link": "https://n.news.naver.com/mnews/article/018/0006035357?sid=105"
-    },
-    {
-        "title": "애플, '리퀴드 글래스' 공개…전 OS 동일 디자인 적용",
-        "date": "2025-06-10 08:45",
-        "link": "https://n.news.naver.com/mnews/article/421/0008303007?sid=105"
     },
     {
         "title": "삼성전자, 갤럭시 Z 폴드7 2차 티저 공개…'역대급 슬림' 예고",
@@ -1500,19 +2235,9 @@
         "link": "https://www.newspim.com/news/view/20250610000084"
     },
     {
-        "title": "애플, WWDC서 펄어비스 '붉은사막' 집중 조명…맥OS 버전 공개",
-        "date": "2025-06-10 08:42",
-        "link": "https://m.sports.naver.com/esports/article/442/0000183021"
-    },
-    {
         "title": "막오른 WWDC 2025…애플이 발표한 13가지",
         "date": "2025-06-10 08:40",
         "link": "https://n.news.naver.com/mnews/article/092/0002377453?sid=105"
-    },
-    {
-        "title": "애플 iOS 26, 카메라 인터페이스 대폭 개선…촬영 성능↑",
-        "date": "2025-06-10 08:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570010"
     },
     {
         "title": "'시총 3위' 내려앉은 애플, 한방은 없었다…AI 대신 '디자인' 강조 [송영...",
@@ -1520,44 +2245,14 @@
         "link": "https://n.news.naver.com/mnews/article/015/0005142478?sid=105"
     },
     {
-        "title": "애플, 가을부터 12년 만에 운영체제 디자인 변경...'반투명 유리'",
-        "date": "2025-06-10 08:36",
-        "link": "https://n.news.naver.com/mnews/article/052/0002203669?sid=104"
-    },
-    {
-        "title": "크래프톤 '인조이' 맥 버전 사전 예약 시작, 애플의 최신 기술 적용",
-        "date": "2025-06-10 08:36",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=398385"
-    },
-    {
-        "title": "애플 지도, iOS 26로 더 똑똑해진다…프라이버시 강화",
-        "date": "2025-06-10 08:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570002"
-    },
-    {
         "title": "삼성전자, 갤럭시 Z 폴드7 2차 티저 공개… “울트라 경험, 더 얇고 가벼...",
         "date": "2025-06-10 08:36",
         "link": "https://www.etoday.co.kr/news/view/2477345"
     },
     {
-        "title": "크래프톤, '인조이' 맥 버전 사전예약...애플 실리콘 환경 최적화",
-        "date": "2025-06-10 08:36",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=342913"
-    },
-    {
         "title": "삼성, 갤Z폴드7 2차 티저 공개…역대 가장 얇고 가벼워",
         "date": "2025-06-10 08:36",
         "link": "https://n.news.naver.com/mnews/article/421/0008302980?sid=105"
-    },
-    {
-        "title": "애플, 운영체제 12년 만에 전면 개편…‘리퀴드 글래스’ 도입",
-        "date": "2025-06-10 08:30",
-        "link": "https://n.news.naver.com/mnews/article/117/0003951829?sid=105"
-    },
-    {
-        "title": "크래프톤, '인조이' 맥 버전 사전예약…애플 최신 기술 적용",
-        "date": "2025-06-10 08:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665717"
     },
     {
         "title": "신축 디스플레이 늘림의 균일도(Even Stretching) 난제 해결",
@@ -1570,99 +2265,9 @@
         "link": "https://n.news.naver.com/mnews/article/014/0005360954?sid=105"
     },
     {
-        "title": "아이폰, 반투명 디자인 도입...운영체제도 대대적 개편",
-        "date": "2025-06-10 08:17",
-        "link": "https://n.news.naver.com/mnews/article/029/0002960133?sid=104"
-    },
-    {
-        "title": "애플, 12년 만에 SW 디자인 전면 개편...'AI 반격'은 없었다",
-        "date": "2025-06-10 08:08",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=140663"
-    },
-    {
-        "title": "애플페이, 국내 도입 ‘확산’…미래 충성고객 확보·수익성 개선 기대",
-        "date": "2025-06-10 08:02",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=186890"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 디자인 대변혁",
-        "date": "2025-06-10 08:00",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=811157"
-    },
-    {
-        "title": "맥에서 즐기는 한국 게임…붉은사막·인조이, 애플 WWDC서 소개",
-        "date": "2025-06-10 08:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015440074?sid=105"
-    },
-    {
-        "title": "전화 오면 AI가 먼저 확인…애플, '인텔리전스' 경쟁사보다 뒤쳐져",
-        "date": "2025-06-10 07:57",
-        "link": "https://n.news.naver.com/mnews/article/277/0005604941?sid=105"
-    },
-    {
-        "title": "애플 WWDC, ‘AI 시리’는 없었다…“높은 기준 아직 도달 못해”",
-        "date": "2025-06-10 07:55",
-        "link": "http://www.jnilbo.com/77330287509"
-    },
-    {
-        "title": "[종합] 아이폰 12년 만에 '대변신'… 애플, 운영체제 확 갈아엎었다",
-        "date": "2025-06-10 07:54",
-        "link": "https://www.ajunews.com/view/20250610074224743"
-    },
-    {
-        "title": "맥 못 추는 애플, 세계개발자컨퍼런스에도 주가 1.2% 하락…AI에 또 ‘발...",
-        "date": "2025-06-10 07:53",
-        "link": "https://n.news.naver.com/mnews/article/016/0002482431?sid=101"
-    },
-    {
-        "title": "애플, 12년 만에 대대적 운영체제 개편…'리퀴드 글래스' 도입",
-        "date": "2025-06-10 07:50",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40653"
-    },
-    {
-        "title": "[WWDC25] 삼성, 애플 인텔리전스에 '피식'… 이제야 AI 그 기능? 귀엽네...",
-        "date": "2025-06-10 07:49",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198145?sid=105"
-    },
-    {
-        "title": "[WWDC25] '애플 인텔리전스' 정면 승부에 실망감 팽배 '주가 하락'",
-        "date": "2025-06-10 07:48",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198144?sid=105"
-    },
-    {
-        "title": "[WWDC25] 애플 '연도 통일' OS 첫선…'리퀴드 글래스' UI 새단장",
-        "date": "2025-06-10 07:48",
-        "link": "https://n.news.naver.com/mnews/article/138/0002198143?sid=105"
-    },
-    {
-        "title": "삼성에 뒤처졌다…AI 혁신 없는 애플, WWDC 실망에 주가↓",
-        "date": "2025-06-10 07:47",
-        "link": "https://n.news.naver.com/mnews/article/008/0005205203?sid=105"
-    },
-    {
-        "title": "‘반투명’ 아이폰 나온다…애플, 12년 만에 운영체제 개편",
-        "date": "2025-06-10 07:46",
-        "link": "https://n.news.naver.com/mnews/article/016/0002482426?sid=105"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대대적 개편…반투명 디자인 도입",
-        "date": "2025-06-10 07:46",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=191074"
-    },
-    {
-        "title": "아열대 과일, 애플망고 수확 한창 '소득경쟁도 치열'",
-        "date": "2025-06-10 07:46",
-        "link": "https://news.knn.co.kr/news/article/173667"
-    },
-    {
         "title": "[WWDC '25] AI 대신 '투명 디자인'…혁신 부재에 '실망'",
         "date": "2025-06-10 07:46",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665706"
-    },
-    {
-        "title": "애플, 12년 만에 OS 대개편..‘리퀴드 글래스’로 전 제품 디자인 혁신",
-        "date": "2025-06-10 07:44",
-        "link": "http://kpenews.com/View.aspx?No=3671536"
     },
     {
         "title": "애플, 새 디자인 입힌 'iOS 26' 선봬…애플 인텔리전스 신기능은?",
@@ -1670,54 +2275,9 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013293896?sid=105"
     },
     {
-        "title": "애플, 신규 AI 기능 추가…애플 인텔리전스, 전화·문자 실시간 번역한...",
-        "date": "2025-06-10 07:39",
-        "link": "https://n.news.naver.com/mnews/article/003/0013293894?sid=105"
-    },
-    {
-        "title": "애플, iOS 26 공개…UI 대개편부터 AI 강화까지 아이폰 사용자 환경 대폭...",
-        "date": "2025-06-10 07:38",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531990"
-    },
-    {
         "title": "애플, 12년 만에 디자인 대격변…'리퀴드 글래스' 디자인 공개",
         "date": "2025-06-10 07:38",
         "link": "https://n.news.naver.com/mnews/article/003/0013293893?sid=105"
-    },
-    {
-        "title": "애플, 12년 만에 홈 화면 아이콘 개편… 반투명 디자인 도입",
-        "date": "2025-06-10 07:36",
-        "link": "https://news.mtn.co.kr/news-detail/2025061007234357293"
-    },
-    {
-        "title": "[르포] 애플 WWDC '깜짝발표' 없었다…시리, 높은 기준까진 시간필요",
-        "date": "2025-06-10 07:34",
-        "link": "https://n.news.naver.com/mnews/article/001/0015440056?sid=104"
-    },
-    {
-        "title": "애플, 12년만 운영체제 대대적 개편...반투명 디자인 도입",
-        "date": "2025-06-10 07:14",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=650123"
-    },
-    {
-        "title": "'AI 한방' 보여주지 못한 애플…12년만 디자인 전면 개편",
-        "date": "2025-06-10 07:13",
-        "link": "https://n.news.naver.com/mnews/article/018/0006035273?sid=101"
-    },
-    {
-        "title": "애플, 12년 만에 운영체제 대대적 개편…반투명 디자인 도입",
-        "date": "2025-06-10 07:10",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=825050"
-    },
-    {
-        "title": "애플, 차세대 아이폰OS iOS 26 발표...뭐가 달라졌나",
-        "date": "2025-06-10 07:02",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569993"
-    },
-    {
-        "title": "애플, 12년 만에 운영 체제 개편...반투명 디자인 도입했지만 새로운 제...",
-        "date": "2025-06-10 07:01",
-        "link": "https://n.news.naver.com/mnews/article/052/0002203646?sid=104"
     },
     {
         "title": "'1조' 미리 갚은 LG디스플레이, 3Q부터 흑자행진 '턴어라운드' 예약",
