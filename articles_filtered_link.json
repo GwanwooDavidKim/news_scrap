@@ -1,5 +1,180 @@
 [
     {
+        "title": "헤어플러스, 여름철 두피 고민 잡는 '오프레시 애플비니거' 라인 전격 출...",
+        "date": "2025-06-16 00:00",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40865"
+    },
+    {
+        "title": "2나노 시대 성큼…TSMC·삼성, 초미세 공정 주도권 경쟁 본격",
+        "date": "2025-06-15 23:58",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=335580"
+    },
+    {
+        "title": "동진쎄미켐, 세계 OLED 시장에 특허 수출...머크와 라이선스 체결",
+        "date": "2025-06-15 22:16",
+        "link": "https://www.hellot.net/news/article.html?no=102249"
+    },
+    {
+        "title": "이게 몰입이지…삼성, 英 '오디세이 3D' 행사 트위치 4만 동접",
+        "date": "2025-06-15 21:52",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3036225"
+    },
+    {
+        "title": "이러다 中에도 넘어가면 어쩌나…구글 이어 애플도 '고정밀 지도 데이...",
+        "date": "2025-06-15 20:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378198?sid=105"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이 3D' 글로벌 공개, 현장 반응 '폭발'",
+        "date": "2025-06-15 20:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532228"
+    },
+    {
+        "title": "TSMC·삼성전자 2나노 박차…주도권 경쟁 시작",
+        "date": "2025-06-15 19:56",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1265191&inflow=N"
+    },
+    {
+        "title": "CU, 국민 간식 이삭토스트와 콜라보 RMR 시리즈 출시",
+        "date": "2025-06-15 19:44",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89640"
+    },
+    {
+        "title": "스마트폰의 종말?…오픈AI '노스크린 AI'로 제2 혁명 이끈다[글로벌리포...",
+        "date": "2025-06-15 19:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363389?sid=101"
+    },
+    {
+        "title": "AI 혁신 가뜩이나 늦었는데 오픈AI 추격까지… 애플 어쩌나",
+        "date": "2025-06-15 19:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363390?sid=101"
+    },
+    {
+        "title": "독도 다케시마라 불렀던 애플, 구글 이어 '지도 내놓으라' 압박 한국이...",
+        "date": "2025-06-15 18:52",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699802"
+    },
+    {
+        "title": "‘반투명 아이콘’ 도입한다…애플 모바일 운영체제 12년 만에 개편",
+        "date": "2025-06-15 18:50",
+        "link": "https://n.news.naver.com/mnews/article/658/0000110368?sid=101"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이 게이밍 모니터' 글로벌 팬 행사 열어",
+        "date": "2025-06-15 18:50",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=235744"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 행사 진행",
+        "date": "2025-06-15 18:50",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=110357"
+    },
+    {
+        "title": "[단독] 통상갈등 틈탄 애플 지도반출 요구 가세[고정밀 지도 대응 시험...",
+        "date": "2025-06-15 18:32",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363346?sid=105"
+    },
+    {
+        "title": "구글 이어 애플까지···'고정밀 韓 지도' 해외 유출 논란 재점화",
+        "date": "2025-06-15 18:20",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2289982"
+    },
+    {
+        "title": "D램 주도권 탈환·美 관세… 삼성전자, 리스크 관리 초점",
+        "date": "2025-06-15 17:50",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250616010006924"
+    },
+    {
+        "title": "구글에 이어 애플까지…정부에 '고정밀 지도 데이터' 요구",
+        "date": "2025-06-15 17:42",
+        "link": "https://n.news.naver.com/mnews/article/015/0005144769?sid=105"
+    },
+    {
+        "title": "애플, 고정밀지도 반출 문의…구글 이어 韓 지도 노리나",
+        "date": "2025-06-15 17:39",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321772?sid=101"
+    },
+    {
+        "title": "삼성, 영국서 ‘오디세이’ 게이밍 모니터 팬들과 소통",
+        "date": "2025-06-15 17:34",
+        "link": "https://n.news.naver.com/mnews/article/382/0001203630?sid=105"
+    },
+    {
+        "title": "애플, 정부에 '고정밀 지도 데이터 국외 반출' 문의",
+        "date": "2025-06-15 17:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008312516?sid=101"
+    },
+    {
+        "title": "삼성·TSMC, 2나노 양산 카운트다운…GAA 경쟁 `2라운드`",
+        "date": "2025-06-15 17:10",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961405?sid=101"
+    },
+    {
+        "title": "中 태블릿도 OLED 전환 본격화…삼성·LGD 기회-위협 공존",
+        "date": "2025-06-15 17:09",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961404?sid=101"
+    },
+    {
+        "title": "이엘피, 마이크로 LED 타고 '훨훨'… 디스플레이 검사장비 시장 선도",
+        "date": "2025-06-15 16:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=351720"
+    },
+    {
+        "title": "비전옥스, '비(非) FMM' 상용화에 역량 집중",
+        "date": "2025-06-15 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321758?sid=105"
+    },
+    {
+        "title": "TSMC·삼성전자 하반기 2나노 양산 돌입…파운드리 주도권 경쟁",
+        "date": "2025-06-15 15:40",
+        "link": "https://n.news.naver.com/mnews/article/088/0000953368?sid=101"
+    },
+    {
+        "title": "[단독] 애플, '고정밀 지도 반출' 공세 가담하나",
+        "date": "2025-06-15 15:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363284?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 14:56",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84185"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 '오디세이 게이밍 모니터' 행사 개최",
+        "date": "2025-06-15 14:44",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=120798"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 개최",
+        "date": "2025-06-15 14:44",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=849850"
+    },
+    {
+        "title": "'3D모니터'서 'AI 가이드'까지…유럽서 첨단기술 뽐낸 삼성",
+        "date": "2025-06-15 14:43",
+        "link": "https://n.news.naver.com/mnews/article/011/0004497071?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 해외 팬들과 오디세이 게이밍 모니터 신제품 행사 진...",
+        "date": "2025-06-15 14:00",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1292635"
+    },
+    {
+        "title": "'페이 독점' 깨지나…애플페이, 이커머스로 확대",
+        "date": "2025-06-15 13:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321736?sid=101"
+    },
+    {
+        "title": "CU, 이삭토스트와 콜라보 RMR 시리즈 선보여",
+        "date": "2025-06-15 13:56",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073977"
+    },
+    {
+        "title": "삼성전자, 英 글로벌 팬과 오디세이 게이밍 모니터 판촉행사",
+        "date": "2025-06-15 13:53",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073976"
+    },
+    {
         "title": "삼성전자, 英서 '오디세이 게이밍 모니터' 신제품 체험 행사",
         "date": "2025-06-15 12:54",
         "link": "http://www.m-i.kr/news/articleView.html?idxno=1249194"
@@ -135,11 +310,6 @@
         "link": "https://www.webeconomy.co.kr/news/article.html?no=1226936"
     },
     {
-        "title": "삼성전자, 영국서 '게이밍 모니터' 신제품 체험 행사",
-        "date": "2025-06-15 10:24",
-        "link": "https://n.news.naver.com/mnews/article/421/0008311956?sid=101"
-    },
-    {
         "title": "삼성전자, 英서 오디세이 게이밍 모니터 신제품 체험 행사",
         "date": "2025-06-15 10:24",
         "link": "https://n.news.naver.com/mnews/article/421/0008311959?sid=101"
@@ -148,6 +318,11 @@
         "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
         "date": "2025-06-15 10:24",
         "link": "https://n.news.naver.com/mnews/article/421/0008311961?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 '게이밍 모니터' 신제품 체험 행사",
+        "date": "2025-06-15 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008311956?sid=101"
     },
     {
         "title": "삼성전자, 英서 글로벌 팬들과 오디세이 게이밍 모니터 행사",
@@ -378,140 +553,5 @@
         "title": "[특파원시선] 트럼프 대통령과 애플 무지개",
         "date": "2025-06-15 07:00",
         "link": "https://n.news.naver.com/mnews/article/001/0015449676?sid=104"
-    },
-    {
-        "title": "[신상NEWS] 이디야 ‘베랑 아이스 아메리카노’·파리바게뜨 ‘애플망고...",
-        "date": "2025-06-15 06:22",
-        "link": "https://www.news2day.co.kr/article/20250613500074"
-    },
-    {
-        "title": "[심층분석] AI 거물들의 '초지능' 예고... 연구자들 아직은 생각의 환상...",
-        "date": "2025-06-15 04:26",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506142022072645fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "제주산 애플망고 3종 세트 풀만서 즐기세요",
-        "date": "2025-06-15 00:00",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=191019"
-    },
-    {
-        "title": "역대 가장 얇은 폴더블폰 삼성전자, '갤럭시 Z 폴드7' 마케팅 디스플...",
-        "date": "2025-06-14 22:42",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532223"
-    },
-    {
-        "title": "AI 기능 대신 디자인 선택한 애플 감 잃었나 [IT+]",
-        "date": "2025-06-14 16:17",
-        "link": "https://n.news.naver.com/mnews/article/665/0000005204?sid=105"
-    },
-    {
-        "title": "맥OS 〈붉은사막〉 구동으로 본 애플의 게임정책",
-        "date": "2025-06-14 16:08",
-        "link": "https://www.globale.co.kr/news/articleView.html?idxno=33640"
-    },
-    {
-        "title": "위기의 애플, 노키아처럼 되지 않으려면",
-        "date": "2025-06-14 16:00",
-        "link": "https://www.etoday.co.kr/news/view/2478117"
-    },
-    {
-        "title": "컴투스 '서머너즈 워: 러쉬', 국내 애플 인기 1위 등극",
-        "date": "2025-06-14 15:52",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=69595"
-    },
-    {
-        "title": "[IPO 워치] 아이티켐, '몸값 2026억' 제시…공모가 산정 살펴보니",
-        "date": "2025-06-14 15:00",
-        "link": "https://n.news.naver.com/mnews/article/293/0000068556?sid=101"
-    },
-    {
-        "title": "퀄컴, 애플 앞서나? 차세대 스냅드래곤 8 엘리트 2, 아이폰17용 A19 프로...",
-        "date": "2025-06-14 14:50",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532219"
-    },
-    {
-        "title": "동서식품, 콤부차와 애플사이다비니거를 스틱 하나에!",
-        "date": "2025-06-14 14:10",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2067196"
-    },
-    {
-        "title": "갤럭시 Z 폴드7, 역대 가장 얇은 폴더블폰으로 출시",
-        "date": "2025-06-14 13:10",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=814013"
-    },
-    {
-        "title": "애플 WWDC25, 시장의 기대를 충족시키지 못하다",
-        "date": "2025-06-14 12:36",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=813987"
-    },
-    {
-        "title": "컴투스 '서머너즈 워: 러쉬', 국내 애플 인기 1위...구글 2위 유저 '호응...",
-        "date": "2025-06-14 12:19",
-        "link": "https://n.news.naver.com/mnews/article/109/0005328105?sid=105"
-    },
-    {
-        "title": "애플·구글·삼성, 750억 달러 와이파이 통화 독점 소송 당해",
-        "date": "2025-06-14 11:42",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506141115201492fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "최적화 그렇게 자랑하더니…AI에 발목 잡힌 애플",
-        "date": "2025-06-14 10:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013303230?sid=105"
-    },
-    {
-        "title": "AI PC 왜 필요하지? GPU와 어떻게 다르지? [AI PC 어디까지 왔나②]",
-        "date": "2025-06-14 10:22",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54474"
-    },
-    {
-        "title": "애플, WWDC25 종료, 시장 기대 충족시켰을까? 글쎄…",
-        "date": "2025-06-14 09:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570937"
-    },
-    {
-        "title": "OLED 시장 부상...디스플레이업계, 입지 강화 노려",
-        "date": "2025-06-14 08:44",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=343172"
-    },
-    {
-        "title": "서머너즈 워: 러쉬, 애플 앱스토어 1위",
-        "date": "2025-06-14 08:34",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3003326"
-    },
-    {
-        "title": "신한카드, 애플페이 도입 초읽기..1위 탈환 시동거나",
-        "date": "2025-06-14 08:06",
-        "link": "https://news.dealsitetv.com/articles/155527"
-    },
-    {
-        "title": "파리바게뜨, 여름 한정 '인생크림빵 애플망고' 선봬",
-        "date": "2025-06-14 08:00",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=158575"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드7, 더 얇아진다…마케팅 디스플레이 유출",
-        "date": "2025-06-14 08:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=570922"
-    },
-    {
-        "title": "킬 스위치 누를까?…도난 당한 스마트폰 속 내 정보 지킬 5가지 방법",
-        "date": "2025-06-14 07:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013303115?sid=105"
-    },
-    {
-        "title": "애플 vs 클로드, '사고하는 AI' 두고 정면 충돌…추론 LLM 평가 논쟁 격...",
-        "date": "2025-06-14 07:18",
-        "link": "https://www.tokenpost.kr/news/ai/257593"
-    },
-    {
-        "title": "[단독]삼성전자, '밀어서 잠금해제' 특허소송 합의",
-        "date": "2025-06-14 07:16",
-        "link": "http://thetracker.co.kr/View.aspx?No=3677419"
-    },
-    {
-        "title": "[6월13일] WWDC 후 남은 애플의 10가지 숙제...사상 최악의 위기",
-        "date": "2025-06-14 07:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=171284"
     }
 ]
