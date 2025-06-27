@@ -1,5 +1,595 @@
 [
     {
+        "title": "휘도·주사율·응답속도 잡았다…LGD, 4세대 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 13:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=173242"
+    },
+    {
+        "title": "LGD, 4세대 OLED 기술 적용한 ‘27인치 모니터용 패널’ 양산",
+        "date": "2025-06-27 12:54",
+        "link": "https://www.hellot.net/news/article.html?no=102684"
+    },
+    {
+        "title": "中 BOE, 연간 1억대 아이폰용 OLED 생산능력 확보",
+        "date": "2025-06-27 12:26",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37504"
+    },
+    {
+        "title": "“집에서 누리는 시네마 경험 디테일한 블랙의 표현력으로 완성되다”...",
+        "date": "2025-06-27 12:15",
+        "link": "https://m.entertain.naver.com/article/140/0000055493"
+    },
+    {
+        "title": "[ADVERTORIAL] LG OLED Meets HOLLYWOOD, 할리우드 로드쇼 현장",
+        "date": "2025-06-27 12:15",
+        "link": "https://m.entertain.naver.com/article/140/0000055491"
+    },
+    {
+        "title": "“필름 메이커가 의도한 색과 빛, LG OLED로 집 거실에서도 생생하게 구...",
+        "date": "2025-06-27 12:15",
+        "link": "https://m.entertain.naver.com/article/140/0000055492"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 12:06",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=91086"
+    },
+    {
+        "title": "애플 신형 M5아이패드프로, TSMC 3nm 공정 생산. OLED 디스플레이는 삼성...",
+        "date": "2025-06-27 11:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532742"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 ‘540HZ 주사율’ 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 11:32",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=73879"
+    },
+    {
+        "title": "LG Display begins mass production of 27-inch OLED panel with 4th-gen tech",
+        "date": "2025-06-27 11:31",
+        "link": "https://n.news.naver.com/mnews/article/044/0000271685?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 11:29",
+        "link": "https://n.news.naver.com/mnews/article/629/0000402394?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 11:28",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=95274"
+    },
+    {
+        "title": "LG디스플레이, '4세대 27인치 OLED 모니터용 패널' 양산",
+        "date": "2025-06-27 11:26",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=141499"
+    },
+    {
+        "title": "EU 압박에…애플 앱스토어 개발자 수수료 30%→10% 수준으로 낮췄다",
+        "date": "2025-06-27 11:26",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271016"
+    },
+    {
+        "title": "1500니트+540㎐+0.03㎳, LG OLED가 게임판 뒤집는다",
+        "date": "2025-06-27 11:26",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=66320"
+    },
+    {
+        "title": "LGD, 4세대 게이밍 OLED 패널 양산…세계최고 휘도•주사율•응답속도 ...",
+        "date": "2025-06-27 11:20",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2074586"
+    },
+    {
+        "title": "LG Display Achieves Mass Production of Cutting-Edge OLED Panels, Strength...",
+        "date": "2025-06-27 11:20",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=142884"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 11:18",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=76655"
+    },
+    {
+        "title": "LGD, ‘꿈의 4세대 기술’ 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 11:16",
+        "link": "https://n.news.naver.com/mnews/article/016/0002491304?sid=101"
+    },
+    {
+        "title": "LGD, 4세대 기술 ‘OLED 모니터용 패널’ 양산…최고 휘도·주사율",
+        "date": "2025-06-27 11:15",
+        "link": "https://n.news.naver.com/mnews/article/374/0000448343?sid=101"
+    },
+    {
+        "title": "R·G·B 4개층씩 쌓은기술로 '99.5%' 색재현율 LGD '27인치 OLED모니터용...",
+        "date": "2025-06-27 11:12",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=111092"
+    },
+    {
+        "title": "궁극의 게이밍 올레드…LGD, 프리미엄 모니터 패널 출시",
+        "date": "2025-06-27 11:10",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271015"
+    },
+    {
+        "title": "초슬림 '아이폰17 에어' 전면 카메라 위치 변경하나?",
+        "date": "2025-06-27 11:10",
+        "link": "https://kbench.com/?q=node/268815"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 기술로 프리미엄 시장 공략 속도",
+        "date": "2025-06-27 11:08",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7117273"
+    },
+    {
+        "title": "中 BOE, 아이폰용 패널 생산 연 1억대…삼성·LG와 격차↓",
+        "date": "2025-06-27 11:06",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271009"
+    },
+    {
+        "title": "中 BOE 대형 OLED '주춤'···삼성·LG디스플레이에 기회 될까",
+        "date": "2025-06-27 10:58",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=412893"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:58",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=701314"
+    },
+    {
+        "title": "중국 BOE 연간 1억대 아이폰용 OLED 생산력 확보, 삼성·LG 단가 협상에...",
+        "date": "2025-06-27 10:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=400915"
+    },
+    {
+        "title": "방통위, 삼성 갤럭시폰 '스튜디오' 앱 사실조사…이용자 선택권 제한",
+        "date": "2025-06-27 10:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271000"
+    },
+    {
+        "title": "LGD, 4세대 게이밍 OLED 패널 양산…최대 휘도·주사율 강점",
+        "date": "2025-06-27 10:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143200"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 '게이밍 올레드' 패널 양산",
+        "date": "2025-06-27 10:52",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=266516"
+    },
+    {
+        "title": "애플 '전략적 후퇴'...EU 디지털시장법(DMA) 압박에 앱스토어 규정 대폭...",
+        "date": "2025-06-27 10:48",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84506"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 모니터 패널 양산 시작",
+        "date": "2025-06-27 10:44",
+        "link": "https://n.news.naver.com/mnews/article/030/0003326020?sid=105"
+    },
+    {
+        "title": "LG디스플레이, '4세대 기술 적용' 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:40",
+        "link": "https://n.news.naver.com/mnews/article/215/0001214260?sid=101"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 테스트 단계 돌입.. 디스플레이·카메라 사양 유...",
+        "date": "2025-06-27 10:40",
+        "link": "https://kbench.com/?q=node/268809"
+    },
+    {
+        "title": "LG디스플레이, 27인치 OLED 모니터용 패널 양산",
+        "date": "2025-06-27 10:36",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506271025051538290c42db76_1/article.html"
+    },
+    {
+        "title": "기술 '마의 벽' 넘었다 LG디스플레이, 현존 최고 게이밍 OLED 양산",
+        "date": "2025-06-27 10:34",
+        "link": "https://n.news.naver.com/mnews/article/014/0005369136?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰 카메라, 이렇게 나온다",
+        "date": "2025-06-27 10:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002379907?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:32",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=245679"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=179757"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 ‘27인치 OLED 모니터용 패널’ 양산",
+        "date": "2025-06-27 10:30",
+        "link": "https://www.viva100.com/article/20250627500223"
+    },
+    {
+        "title": "BOE, 아이폰용 OLED '연간 1억대 생산' 능력 확보",
+        "date": "2025-06-27 10:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002379905?sid=105"
+    },
+    {
+        "title": "LGD, 4세대 기술 적용한 ‘27인치 OLED 모니터용 패널’ 양산",
+        "date": "2025-06-27 10:27",
+        "link": "https://n.news.naver.com/mnews/article/081/0003553009?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:26",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=227198"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:26",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2089152"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:26",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=142877"
+    },
+    {
+        "title": "中 BOE, 아이폰용 패널 생산 연 1억대…삼성·LG 위협",
+        "date": "2025-06-27 10:24",
+        "link": "https://n.news.naver.com/mnews/article/374/0000448329?sid=101"
+    },
+    {
+        "title": "LGD, 4세대 기술 적용 게이밍 OLED 패널 양산 최대 휘도·최고 주사율",
+        "date": "2025-06-27 10:20",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=247422"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 '27인치 OLED 모니터용 패널' 양산",
+        "date": "2025-06-27 10:20",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=113048"
+    },
+    {
+        "title": "삼성 갤럭시 ‘스튜디오 앱’ 삭제 제한…방통위, 사실조사 착수",
+        "date": "2025-06-27 10:20",
+        "link": "https://n.news.naver.com/mnews/article/028/0002753153?sid=105"
+    },
+    {
+        "title": "LGD, '27인치 OLED 모니터용 패널' 본격 양산",
+        "date": "2025-06-27 10:18",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=41806"
+    },
+    {
+        "title": "휘도·주사율·응답속도 세계 최고…LG디스플레이, 궁극의 게이밍 OLE...",
+        "date": "2025-06-27 10:16",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=88665"
+    },
+    {
+        "title": "LG디스플레이, '4세대 기술' 적용한 게이밍 OLED 패널 양산 돌입",
+        "date": "2025-06-27 10:14",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=341813"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 모니터 패널 양산…4세대 기술 적용",
+        "date": "2025-06-27 10:14",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1254072"
+    },
+    {
+        "title": "애플, 5억유로 EU 벌금 회피위해 새로운 앱스토어 시스템 공개",
+        "date": "2025-06-27 10:14",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4362317"
+    },
+    {
+        "title": "LGD, ‘꿈의 4세대 기술’ 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002491212?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:06",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=84703"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 모니터 패널 양산",
+        "date": "2025-06-27 10:06",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=87976"
+    },
+    {
+        "title": "LGD, '4세대 기술 적용' 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:06",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250627010014331"
+    },
+    {
+        "title": "4세대 기술 적용한 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:04",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200312"
+    },
+    {
+        "title": "LGD, 4세대 기술 적용 게이밍 OLED 패널 양산...세계 최고 수준",
+        "date": "2025-06-27 10:02",
+        "link": "https://n.news.naver.com/mnews/article/119/0002972730?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 세계 최고 '휘도·주사율·응답속도' 게이밍 OLED 패널 양...",
+        "date": "2025-06-27 10:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=400889"
+    },
+    {
+        "title": "LG디스플레이, 올 하반기 '4세대 OLED' 기술 적용된 게이밍 패널 양산",
+        "date": "2025-06-27 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002379896?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 업계 최고 ‘휘도·주사율·응답속도' 게이밍 OLED 패널 양...",
+        "date": "2025-06-27 10:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001088202?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=429675"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/374/0000448322?sid=101"
+    },
+    {
+        "title": "LG디스플레이, '궁극의 게이밍 OLED' 양산 돌입",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=31257"
+    },
+    {
+        "title": "LG디스플레이, 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139363"
+    },
+    {
+        "title": "LGD, 4세대 기술 적용 게이밍 OLED 패널 양산...시장 지배력 강화 나선다",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=216261"
+    },
+    {
+        "title": "LG디스플레이, '최대 휘도' OLED 모니터용 패널 양산…게임 화면 더 생...",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005614142?sid=101"
+    },
+    {
+        "title": "LGD, 세계 최고 휘도·주사율 'OLED 모니터 패널' 양산…게이밍 시장 정...",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002199506?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 '프라이머리 RGB 탠덤' 독자기술 첫 적용 OLED 모니...",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=228839"
+    },
+    {
+        "title": "LG디스플레이, '4세대 기술 적용' 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006050141?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 게이밍 모니터용 패널 본격 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1235400"
+    },
+    {
+        "title": "화면의 한계를 넘다…LGD, 세계 최고 OLED 모니터 양산 돌입",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.newspim.com/news/view/20250627000139"
+    },
+    {
+        "title": "“휘도·주사율·응답속도 세계 톱”…LGD, 4세대 ‘게이밍 OLED 패널’ ...",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002964335?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 세계최고 4세대 기술 적용한 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1238381"
+    },
+    {
+        "title": "LG디스플레이, 논쟁 '끝'…압도적 게이밍 OLED 패널 양산한다",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1668343"
+    },
+    {
+        "title": "LGD, 4세대 기술 적용한 '27인치 OLED 모니터용 패널' 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015473840?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 궁극의 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.etoday.co.kr/news/view/2482634"
+    },
+    {
+        "title": "LG디스플레이, 1500니트 OLED 모니터 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573460"
+    },
+    {
+        "title": "궁극의 게이밍 올레드…LGD, 프리미엄 모니터 패널 출시",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013328857?sid=101"
+    },
+    {
+        "title": "게임을 더 생생하게…LGD, '트리플 크라운' OLED 패널로 시장 공략",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005213586?sid=101"
+    },
+    {
+        "title": "독자 기술 적용…LG디스플, 세계 최고 OLED 모니터용 패널 양산 성공",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=188318"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용한 모니터용 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.ajunews.com/view/20250627085423945"
+    },
+    {
+        "title": "LGD, 현존 최고 휘도·주사율·응답속도 '트리플 크라운' 달성",
+        "date": "2025-06-27 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008336687?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차세대 게이밍 OLED 패널 양산…4세대 기술 적용",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025062709504489141"
+    },
+    {
+        "title": "LG디스플레이, 4세대 기술 적용 게이밍 OLED 패널 양산",
+        "date": "2025-06-27 10:00",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2025/06/27/2025062780024.html"
+    },
+    {
+        "title": "EU 압박에…애플 앱스토어 개발자 수수료 30%→10% 수준으로 낮췄다",
+        "date": "2025-06-27 09:57",
+        "link": "https://n.news.naver.com/mnews/article/003/0013328848?sid=105"
+    },
+    {
+        "title": "애플, EU 압박에 앱스토어 규정 개편‥개발자 수수료 대폭 인하",
+        "date": "2025-06-27 09:53",
+        "link": "https://n.news.naver.com/mnews/article/214/0001432807?sid=104"
+    },
+    {
+        "title": "'미국산'이라더니…트럼프 황금폰에서 슬쩍 빠진 이 문구",
+        "date": "2025-06-27 09:45",
+        "link": "https://n.news.naver.com/mnews/article/018/0006050126?sid=101"
+    },
+    {
+        "title": "中 BOE, 아이폰용 패널 생산 연 1억대…삼성·LG와 격차↓",
+        "date": "2025-06-27 09:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013328791?sid=101"
+    },
+    {
+        "title": "삼성 안방서 '의문의 진격' : 샤오미 실수인가 전략인가",
+        "date": "2025-06-27 09:38",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005296?sid=105"
+    },
+    {
+        "title": "아이폰18 에어·프로·폴드까지…애플 초프리미엄 라인업 전략",
+        "date": "2025-06-27 09:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573457"
+    },
+    {
+        "title": "AI 기능 탑재한 워치OS 26, 지원 모델은?…시리즈9 이상",
+        "date": "2025-06-27 09:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573455"
+    },
+    {
+        "title": "“삭제도 못 하는데 왜”…방통위, 삼성‧애플 ‘선탑재 앱’ 첫 사실조...",
+        "date": "2025-06-27 09:24",
+        "link": "https://www.kukinews.com/article/view/kuk202506270018"
+    },
+    {
+        "title": "방통위, 삼성 갤럭시폰 '스튜디오' 앱 사실조사…이용자 선택권 제한",
+        "date": "2025-06-27 09:22",
+        "link": "https://n.news.naver.com/mnews/article/003/0013328739?sid=105"
+    },
+    {
+        "title": "中BOE, 연간 1억대 아이폰용 OLED 패널 생산능력 확보",
+        "date": "2025-06-27 09:10",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1235353"
+    },
+    {
+        "title": "애플, EU 압박에 앱스토어 규정 개편…개발자 반발 조짐",
+        "date": "2025-06-27 09:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573426"
+    },
+    {
+        "title": "애플, EU 압박에 앱스토어 규정 손질…수수료 최대 15%로 낮춰",
+        "date": "2025-06-27 08:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=354935"
+    },
+    {
+        "title": "애플 'EU 집행위 압박'에 앱스토어 규정 개편…수수료 인하",
+        "date": "2025-06-27 08:50",
+        "link": "http://www.jnilbo.com/77561518298"
+    },
+    {
+        "title": "아이폰 화면, 5년 동안 이렇게 달라진다…이미지로 봤더니",
+        "date": "2025-06-27 08:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002379872?sid=105"
+    },
+    {
+        "title": "이청 삼성D 사장 무한 경쟁 속 차별화된 기술 경쟁력 갖추자",
+        "date": "2025-06-27 08:44",
+        "link": "https://n.news.naver.com/mnews/article/117/0003958157?sid=103"
+    },
+    {
+        "title": "애플, EU 과징금 압박에 일단 '항복'…앱스토어 규정 개편",
+        "date": "2025-06-27 08:29",
+        "link": "https://n.news.naver.com/mnews/article/018/0006050007?sid=101"
+    },
+    {
+        "title": "中 BOE, 아이폰용 OLED 생산능력 연 1억대… 삼성·LG 영향 줄 것",
+        "date": "2025-06-27 08:26",
+        "link": "https://www.ajunews.com/view/20250627082343921"
+    },
+    {
+        "title": "OLED마저 쫓는 中…삼성·LG OLED 고도화 승부수",
+        "date": "2025-06-27 08:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006049999?sid=101"
+    },
+    {
+        "title": "애플, 'EU 반독점 당국 압박'에 앱스토어 규정 개편 … 수수료도 인하",
+        "date": "2025-06-27 07:52",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/06/27/2025062700024.html"
+    },
+    {
+        "title": "애플 ‘EU 집행위 압박’에 앱스토어 규정 개편…수수료 인하",
+        "date": "2025-06-27 07:46",
+        "link": "https://n.news.naver.com/mnews/article/056/0011977990?sid=104"
+    },
+    {
+        "title": "애플, EU의 추가 과징금 압박에 '결국'…앱스토어 규정 개편",
+        "date": "2025-06-27 07:40",
+        "link": "https://n.news.naver.com/mnews/article/015/0005150312?sid=105"
+    },
+    {
+        "title": "'애플' EU 앱스토어 규정 개편…수수료 30%→15% 인하",
+        "date": "2025-06-27 07:36",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15710525"
+    },
+    {
+        "title": "에스파 내세운 '아이폰'의 뒷북?…삼성은 8개월 전 내놨다 [영상]",
+        "date": "2025-06-27 07:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005150310?sid=105"
+    },
+    {
+        "title": "애플, '항복'…수수료 인하·앱스토어 규정 개편",
+        "date": "2025-06-27 07:30",
+        "link": "https://n.news.naver.com/mnews/article/215/0001214219?sid=004"
+    },
+    {
+        "title": "삼성전자, '마이크론' S26용 LPDDR5X 샘플 테스트…굴욕 씻을까",
+        "date": "2025-06-27 07:16",
+        "link": "https://dealsite.co.kr/articles/143660"
+    },
+    {
+        "title": "애플 'EU 집행위 압박'에 앱스토어 규정 개편…수수료 인하",
+        "date": "2025-06-27 06:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015473518?sid=104"
+    },
+    {
+        "title": "비전프로 시즌2 될라…삼성 XR 야심작, 성능 높이고 생산량 줄인다",
+        "date": "2025-06-27 06:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013328497?sid=105"
+    },
+    {
+        "title": "‘가장 큰 발전’ ‘역대 최고 경험 선사’ 외신들 극찬…촛불 4천개 밝...",
+        "date": "2025-06-27 05:58",
+        "link": "https://n.news.naver.com/mnews/article/009/0005515657?sid=101"
+    },
+    {
+        "title": "‘염료 산업 개척’ 장수기업, 소재-장비로 사업 확대",
+        "date": "2025-06-27 05:36",
+        "link": "https://n.news.naver.com/mnews/article/020/0003644184?sid=101"
+    },
+    {
+        "title": "[기자수첩] 삼성 엑시노스에 거는 기대",
+        "date": "2025-06-27 05:30",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2073976"
+    },
+    {
         "title": "앱스토어 '철옹성' 흔들리나…애플, EU 벌금 회피 위한 새 수수료 시스...",
         "date": "2025-06-27 04:57",
         "link": "https://n.news.naver.com/mnews/article/374/0000448259?sid=104"
@@ -143,11 +733,6 @@
         "title": "삼성전자, 국내 OLED TV 시장 공략 강화",
         "date": "2025-06-26 16:58",
         "link": "https://www.consumuch.com/news/articleView.html?idxno=75511"
-    },
-    {
-        "title": "삼성 ‘갤Z폴드’ 공개 앞두고 中 샤오미·아너 ‘대공세’…“삼성, 폴...",
-        "date": "2025-06-26 16:50",
-        "link": "https://www.ceoscoredaily.com/page/view/2025062615503408759"
     },
     {
         "title": "[재계 투데이] 삼성 OLED TV 신규 광고 캠페인 시작 ​外",
@@ -348,11 +933,6 @@
         "title": "크로스오버, 34인치 21:9 165Hz 게이밍 모니터 34WG165Hz 특가 진행",
         "date": "2025-06-26 10:14",
         "link": "https://kbench.com/?q=node/268752"
-    },
-    {
-        "title": "삼성전자, OLED TV 대세화 정조준…신규 광고 캠페인 전개",
-        "date": "2025-06-26 10:12",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=181267"
     },
     {
         "title": "삼성전자, OLED 탑재한 스마트모니터 출시",
