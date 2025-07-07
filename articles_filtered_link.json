@@ -1,5 +1,275 @@
 [
     {
+        "title": "[디지키 테크리포트] 임베디드 시스템 및 디스플레이를 위한 RGB LED 표시...",
+        "date": "2025-07-07 13:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=318916"
+    },
+    {
+        "title": "iOS 26 속 ‘아이폰 17 에어’ 출시를 암시하는 단서 6가지",
+        "date": "2025-07-07 12:10",
+        "link": "https://www.itworld.co.kr/article/4017761/ios-26-속-아이폰-17-에어-출시를-암시하는-단서-6가지.html"
+    },
+    {
+        "title": "LG전자, 2Q 영업익 반토막...하반기 'B2B·구독'으로 승부(종합)",
+        "date": "2025-07-07 12:04",
+        "link": "https://n.news.naver.com/mnews/article/119/0002976364?sid=101"
+    },
+    {
+        "title": "“무선이어폰, 통화품질은 삼성·애플…가성비는 LG 우수”",
+        "date": "2025-07-07 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003328854?sid=105"
+    },
+    {
+        "title": "무선이어폰 노이즈캔슬링 성능 달라...삼성·애플 등 고가형 제품이 ...",
+        "date": "2025-07-07 12:00",
+        "link": "https://www.etoday.co.kr/news/view/2485401"
+    },
+    {
+        "title": "무선이어폰 10개 제품 비교…음향·소음제거·통화품질 성능과 가격 차...",
+        "date": "2025-07-07 12:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669483"
+    },
+    {
+        "title": "소비자원 “무선이어폰 통화품질, 제품별 격차…가격 최대 14.5배 차이”",
+        "date": "2025-07-07 12:00",
+        "link": "https://n.news.naver.com/mnews/article/056/0011984000?sid=101"
+    },
+    {
+        "title": "백승일 소비자원 팀장 무선이어폰 품질, 제품별 성능 '천차만별'",
+        "date": "2025-07-07 12:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669527"
+    },
+    {
+        "title": "LG전자 2분기 관세 여파 속 실적 둔화…하반기 '질적 성장' 반등 모색",
+        "date": "2025-07-07 11:57",
+        "link": "https://n.news.naver.com/mnews/article/008/0005217888?sid=101"
+    },
+    {
+        "title": "초슬림·초경량에 초고성능까지… 갤럭시 Z폴드7 ‘접는폰 왕좌’ 굳힌...",
+        "date": "2025-07-07 11:56",
+        "link": "https://n.news.naver.com/mnews/article/021/0002720860?sid=101"
+    },
+    {
+        "title": "LG전자, 2분기 '충격실적'…관세·경쟁 심화 '직격탄'(상보)",
+        "date": "2025-07-07 11:54",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=141848"
+    },
+    {
+        "title": "BOE, 아이폰17 디스플레이 공급 실패…애플-BOE 관계 흔들리나",
+        "date": "2025-07-07 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575196"
+    },
+    {
+        "title": "브라질 독점규제 당국 애플, iOS 생태계서 반경쟁 행위 유죄 권고",
+        "date": "2025-07-07 11:40",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381055?sid=105"
+    },
+    {
+        "title": "애플은 배터리, 삼성은 슬림… 아이폰17·갤럭시S26 전략 비교",
+        "date": "2025-07-07 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575197"
+    },
+    {
+        "title": "관세복병 글로벌 TV시장…‘수익성’에 속타는 삼성·LG [이슈&amp;뷰]",
+        "date": "2025-07-07 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002495709?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시S FE 모델에도 '플렉시블 OLED' 적용",
+        "date": "2025-07-07 11:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381047?sid=105"
+    },
+    {
+        "title": "[Y인사이트] 하나기술, UTG·OLED·TGV까지… 유리 가공 풀패키지 제시",
+        "date": "2025-07-07 11:08",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37823"
+    },
+    {
+        "title": "애플, 시리 개편 위해 오픈AI·앤트로픽과 LLM 협업 추진",
+        "date": "2025-07-07 11:00",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=107644"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체들로부터 연이은 호평",
+        "date": "2025-07-07 10:56",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=216595"
+    },
+    {
+        "title": "삼성 폴더블폰 '결전의 날' 9일...노태문 리더십 100일",
+        "date": "2025-07-07 10:40",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669525"
+    },
+    {
+        "title": "40만원짜리가 주말 새 '0원'…가입자 쟁탈전에 불붙은 통신사들",
+        "date": "2025-07-07 10:38",
+        "link": "https://n.news.naver.com/mnews/article/277/0005618647?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-07 10:30",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=215733"
+    },
+    {
+        "title": "ams오스람, 차량용 조명 애플리케이션 SYNIOS LED 3종 출시",
+        "date": "2025-07-07 10:24",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=82789"
+    },
+    {
+        "title": "대전시교육청, 교사 40명 구글·애플 본사서 AI 수업 역량 강화",
+        "date": "2025-07-07 10:20",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=507649"
+    },
+    {
+        "title": "아이폰 기술력의 비밀…애플, 내구성 테스트 연구소 공개",
+        "date": "2025-07-07 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575160"
+    },
+    {
+        "title": "영상통화 중 옷 벗으면 '경고'..애플, '이 기능' 시범 도입",
+        "date": "2025-07-07 10:11",
+        "link": "https://n.news.naver.com/mnews/article/014/0005373279?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 호평 속 북미 시장 1위 등극",
+        "date": "2025-07-07 10:08",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=182362"
+    },
+    {
+        "title": "크로스오버, 27인치 IPS 200Hz Ai게이밍 모니터 7월 롯데온세일 진행",
+        "date": "2025-07-07 10:00",
+        "link": "https://kbench.com/?q=node/269093"
+    },
+    {
+        "title": "베일 벗는 '갤Z플립·폴드7'…삼성, 역대급 '성능·두께'로 中 추격 따돌...",
+        "date": "2025-07-07 09:59",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069502?sid=101"
+    },
+    {
+        "title": "아이폰 '메이드인 아메리카' 왜 어렵나…포춘, 과거 구글 모토로라 '타...",
+        "date": "2025-07-07 09:52",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200095?sid=105"
+    },
+    {
+        "title": "[우상결] 삼성전자 빅딜 엔진 재가동…이재용의 ‘뉴삼성’ 가속화",
+        "date": "2025-07-07 09:48",
+        "link": "https://www.cnbnews.com/news/article.html?no=735011"
+    },
+    {
+        "title": "액스비스, 로봇 정밀도 검사 체계 확보… AMR 시장 정조준",
+        "date": "2025-07-07 09:46",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=66624"
+    },
+    {
+        "title": "제주 더 시에나리조트, 객실 예약 시 제주 애플망고 빙수 특전 행사 진...",
+        "date": "2025-07-07 09:42",
+        "link": "https://www.livesnews.com/news/article.html?no=52236"
+    },
+    {
+        "title": "서희건설 2세 소유기업 '애플이엔씨', 5년 만에 자산 100배...'아빠찬스...",
+        "date": "2025-07-07 09:38",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35572"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라 받아",
+        "date": "2025-07-07 09:38",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=238030"
+    },
+    {
+        "title": "토코보 ‘애플 듀이 핏 쿠션’ 신규 컬러 무신사 뷰티 단독 선론칭",
+        "date": "2025-07-07 09:34",
+        "link": "https://www.fashionbiz.co.kr/article/217696"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 잇따라 호평",
+        "date": "2025-07-07 09:24",
+        "link": "https://www.cnbnews.com/news/article.html?no=736296"
+    },
+    {
+        "title": "애플 아이폰17 에어, 새로운 '무채색' 블루 도입하나",
+        "date": "2025-07-07 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575107"
+    },
+    {
+        "title": "아이폰도 못 피했다…中 스마트폰 시장 5월 출하량 21.8% 감소",
+        "date": "2025-07-07 08:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575098"
+    },
+    {
+        "title": "마이크로 OLED로 난치성 뇌질환 치료'게임 체인저'기술 제시",
+        "date": "2025-07-07 08:42",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200485"
+    },
+    {
+        "title": "갤럭시, 7세대 폴더블폰 출격 앞두고 시장 '격랑'…가격·마케팅·관세 ...",
+        "date": "2025-07-07 08:30",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15721900"
+    },
+    {
+        "title": "챗GPT·제미나이 수준 애플, AI 코딩 모델 '디퓨코드' 출시. 오픈소스...",
+        "date": "2025-07-07 08:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533125"
+    },
+    {
+        "title": "삼성전자 LPDDR 공급망 변천사…'3등' 마이크론이 '1등'으로",
+        "date": "2025-07-07 08:22",
+        "link": "https://dealsite.co.kr/articles/144194"
+    },
+    {
+        "title": "[PE 포트폴리오] 스카이레이크 생인손 솔루스…OLED도 매각대상",
+        "date": "2025-07-07 08:22",
+        "link": "https://dealsite.co.kr/articles/144057"
+    },
+    {
+        "title": "LG전자, 세계 최초 4K 144Hz 무선 OLED TV 'M5' 시리즈 글로벌 출시",
+        "date": "2025-07-07 08:12",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533123"
+    },
+    {
+        "title": "난치성 뇌질환 치료하는 마이크로 OLED 장비 개발",
+        "date": "2025-07-07 08:10",
+        "link": "https://tjmbc.co.kr/article/kBINGlD1brOiZr"
+    },
+    {
+        "title": "국내 연구진, 마이크로 OLED로 난치성 뇌질환 치료 기술 제시",
+        "date": "2025-07-07 07:58",
+        "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=91100"
+    },
+    {
+        "title": "[더벨][Sanction Radar]삼성 '7세대 폴더블폰' 공개 임박, 관세 여파 안갯...",
+        "date": "2025-07-07 07:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507031413238600103387"
+    },
+    {
+        "title": "[더벨][갤럭시Z7 언팩 프리뷰]폴더블 '대중화' 꿈꾼다, 'Z 플립7 FE' 출격...",
+        "date": "2025-07-07 07:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507041319374800102995"
+    },
+    {
+        "title": "[더벨]LG이노텍, 애플 의존도 축소 키워드 '전장·로봇·우주'",
+        "date": "2025-07-07 07:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507041022360120105769"
+    },
+    {
+        "title": "애플 맥북 디스플레이 공급 지각변동! 중국 BOE, LG디스플레이 제치고 1...",
+        "date": "2025-07-07 07:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533117"
+    },
+    {
+        "title": "LG이노텍, 아이패드 COF 공급망 진입…매출 영향 '제한적'",
+        "date": "2025-07-07 07:12",
+        "link": "https://dealsite.co.kr/articles/144119"
+    },
+    {
+        "title": "삼성, 엔비디아 2nm GPU 칩 수주 '청신호'... TSMC 아성에 도전장",
+        "date": "2025-07-07 06:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507070651185175fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "폴드·플립7 공개 임박한 삼성, 초슬림·AI로 '접는 시장' 재장악",
+        "date": "2025-07-07 06:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002976142?sid=101"
+    },
+    {
         "title": "12년 전 구글도 포기했다 트럼프와 애플이 새겨야 할 교훈",
         "date": "2025-07-07 05:00",
         "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48860"
@@ -40,7 +310,7 @@
         "link": "https://www.nspna.com/news/?mode=view&newsid=764591"
     },
     {
-        "title": "중국 아직 멀었다…북미·유럽서 삼성·LG ‘OLED TV’ 극찬",
+        "title": "중국 아직 멀었다…북미·유럽서 LG·삼성 ‘OLED TV’ 극찬",
         "date": "2025-07-06 19:25",
         "link": "https://n.news.naver.com/mnews/article/029/0002966375?sid=101"
     },
@@ -452,17 +722,17 @@
     {
         "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
         "date": "2025-07-06 10:06",
-        "link": "https://n.news.naver.com/mnews/article/001/0015490213?sid=101"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
-        "date": "2025-07-06 10:06",
         "link": "https://n.news.naver.com/mnews/article/001/0015490212?sid=101"
     },
     {
         "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
         "date": "2025-07-06 10:06",
         "link": "https://n.news.naver.com/mnews/article/001/0015490211?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015490213?sid=101"
     },
     {
         "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
