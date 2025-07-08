@@ -1,5 +1,535 @@
 [
     {
+        "title": "메타, 애플 AI 수장도 영입…'인재 싹쓸이'",
+        "date": "2025-07-09 04:25",
+        "link": "https://n.news.naver.com/mnews/article/374/0000450419?sid=104"
+    },
+    {
+        "title": "미국, 중국산 스마트폰 수입 67%→8% 급감...관세 때문에 인도·베트남 ...",
+        "date": "2025-07-09 04:00",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507081719289262fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성전자, 갤Z7 '사전 구매' 알림 신청 16만명↑…언팩 열기 고조",
+        "date": "2025-07-09 01:38",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3037180"
+    },
+    {
+        "title": "애플, 메타에 AI책임자 빼앗겼다",
+        "date": "2025-07-09 00:30",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069586?sid=105"
+    },
+    {
+        "title": "메타, 실리콘밸리 AI인력 무섭게 빨아들인다",
+        "date": "2025-07-09 00:16",
+        "link": "https://n.news.naver.com/mnews/article/015/0005155240?sid=101"
+    },
+    {
+        "title": "애플, '워치OS 26 베타 3' 출시. 애플 노트 앱·리퀴드 글래스 등 신규 적...",
+        "date": "2025-07-09 00:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533193"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신제품 사전구매 알림 신청 '16만명' 돌파",
+        "date": "2025-07-08 23:46",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=111666"
+    },
+    {
+        "title": "실물보다 더 생생...엔하이픈 VR 콘서트 8월 8일 개봉",
+        "date": "2025-07-08 23:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381276?sid=105"
+    },
+    {
+        "title": "인텔 코어 울트라 탑재! 2025년형 갤럭시 북5·삼성 데스크탑 전격 출시...",
+        "date": "2025-07-08 22:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533200"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재 2025년형 갤럭시 북5·삼성 데스크탑 국내 ...",
+        "date": "2025-07-08 20:48",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=31275"
+    },
+    {
+        "title": "'1억달러 초대장' AI 인재 빨아들이는 메타…애플 AI 수장도 영입",
+        "date": "2025-07-08 20:34",
+        "link": "https://n.news.naver.com/mnews/article/008/0005218828?sid=104"
+    },
+    {
+        "title": "차세대 아이폰 화면에 '삼성 신기술' 담는다",
+        "date": "2025-07-08 19:42",
+        "link": "https://n.news.naver.com/mnews/article/009/0005521727?sid=103"
+    },
+    {
+        "title": "“애플도 저커버그의 메타에 ‘AI 두뇌’ 뺏겼다”",
+        "date": "2025-07-08 19:41",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966963?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신제품 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 19:10",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=70738"
+    },
+    {
+        "title": "'트럼프 관세 책사' 나바로, 애플 CEO에 아이폰 탈중국 느리다 채근",
+        "date": "2025-07-08 18:58",
+        "link": "https://n.news.naver.com/mnews/article/422/0000757597?sid=101"
+    },
+    {
+        "title": "아이폰 안 쓰면 '아재'?…이젠 갤럭시 안 쓰면 '아재'일지도",
+        "date": "2025-07-08 18:19",
+        "link": "https://n.news.naver.com/mnews/article/011/0004506689?sid=105"
+    },
+    {
+        "title": "AI 인재 블랙홀 된 메타…애플 핵심 임원까지 빼앗겼다",
+        "date": "2025-07-08 18:19",
+        "link": "https://n.news.naver.com/mnews/article/015/0005155154?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재한 2025년형 '갤럭시 북5'·'삼성 데스크탑'...",
+        "date": "2025-07-08 18:10",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286786587810"
+    },
+    {
+        "title": "삼성전자, 美헬스케어 '젤스' 전격 인수…갤럭시로 질병 예방하는 시대...",
+        "date": "2025-07-08 18:09",
+        "link": "https://n.news.naver.com/mnews/article/011/0004506679?sid=101"
+    },
+    {
+        "title": "더 시에나 리조트, 제주 애플망고 빙수 특전 행사 진행",
+        "date": "2025-07-08 18:08",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=31329"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신제품 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 18:06",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286840707032"
+    },
+    {
+        "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
+        "date": "2025-07-08 18:06",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286744519934"
+    },
+    {
+        "title": "삼성전자 갤럭시 신제품 사전알림 16만명 돌파",
+        "date": "2025-07-08 18:00",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=159556"
+    },
+    {
+        "title": "폴더블폰 시장 잡는다…아이비젼웍스, 비전검사 장비 공급 본격화",
+        "date": "2025-07-08 17:58",
+        "link": "https://www.hellot.net/news/article.html?no=103072"
+    },
+    {
+        "title": "메타, 애플 AI 수장 영입…인재 확보 경쟁 가속",
+        "date": "2025-07-08 17:48",
+        "link": "https://www.ajunews.com/view/20250708171604269"
+    },
+    {
+        "title": "펀키스, LCD 디스플레이 탑재 풀배열 독거미 AULA F108Pro 유무선 신규 출...",
+        "date": "2025-07-08 17:46",
+        "link": "https://kbench.com/?q=node/269185"
+    },
+    {
+        "title": "삼성전자, 2025년형 '갤럭시 북5∙삼성 데스크탑' 출시",
+        "date": "2025-07-08 17:42",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=75620"
+    },
+    {
+        "title": "삼성디스플레이, 여성 이사 없어도 여성 직원은 증가세",
+        "date": "2025-07-08 17:37",
+        "link": "https://n.news.naver.com/mnews/article/003/0013350803?sid=101"
+    },
+    {
+        "title": "삼성전자, 'One UI 8' 신규 보안 기능 공개",
+        "date": "2025-07-08 17:30",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=175592"
+    },
+    {
+        "title": "[재계 투데이] LS일렉트릭, 美 신재생발전소 1382억 규모 변압기 공급 外",
+        "date": "2025-07-08 17:28",
+        "link": "https://news.dealsitetv.com/articles/156482"
+    },
+    {
+        "title": "저커버그, AI인재 '싹쓸이 전략'…오픈AI, 애플 '비상'",
+        "date": "2025-07-08 17:24",
+        "link": "https://n.news.naver.com/mnews/article/374/0000450384?sid=104"
+    },
+    {
+        "title": "'갤럭시 신제품' 알림 신청 16만 돌파... 역대급 폴더블 공개",
+        "date": "2025-07-08 17:20",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=49060"
+    },
+    {
+        "title": "삼성전자, 'AI 기능 강화' 갤럭시 북5·데스크탑 3종 출시",
+        "date": "2025-07-08 17:18",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=336706"
+    },
+    {
+        "title": "갤럭시 폴드·플립 7 기대감 ↑…폴더블 사전 구매 신청에만 16만명 몰렸...",
+        "date": "2025-07-08 17:08",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966903?sid=105"
+    },
+    {
+        "title": "인재 공략 나선 메타, 애플 AI 핵심 임원 영입… 천문학적 보상 규모",
+        "date": "2025-07-08 17:07",
+        "link": "https://n.news.naver.com/mnews/article/417/0001088090?sid=104"
+    },
+    {
+        "title": "무선 이어폰 음질, 삼성·애플·소니·LG 등 뛰어나…아이리버는 “왜곡...",
+        "date": "2025-07-08 17:00",
+        "link": "https://mdtoday.co.kr/news/view/1065601306157396"
+    },
+    {
+        "title": "[투자 노하우] 삼성전자의 실적 개선…결국 HBM 양산이 관건?",
+        "date": "2025-07-08 16:56",
+        "link": "https://n.news.naver.com/mnews/article/374/0000450378?sid=101"
+    },
+    {
+        "title": "애플도 저커버그의 메타에 'AI 두뇌' 뺏겼다(종합)",
+        "date": "2025-07-08 16:56",
+        "link": "https://n.news.naver.com/mnews/article/001/0015495275?sid=104"
+    },
+    {
+        "title": "AI 인재 쓸어모으는 메타, 이번엔 애플 AI 수장 뺏었다",
+        "date": "2025-07-08 16:53",
+        "link": "https://n.news.naver.com/mnews/article/003/0013350684?sid=105"
+    },
+    {
+        "title": "“스마트폰 없는 삶은 없다”···70대 이상도 91% 도달",
+        "date": "2025-07-08 16:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006060446?sid=105"
+    },
+    {
+        "title": "삼성전자, One UI 8 신규 보안 기능 공개",
+        "date": "2025-07-08 16:46",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=238245"
+    },
+    {
+        "title": "[삼성 어닝 쇼크] '믿을 맨' 7세대 폴더블폰 출격...어깨 무거워진 노태...",
+        "date": "2025-07-08 16:42",
+        "link": "https://www.ajunews.com/view/20250708140506037"
+    },
+    {
+        "title": "삼성, 2025년형 갤럭시북5·데스크탑 출시…갤럭시AI 탑재",
+        "date": "2025-07-08 16:38",
+        "link": "https://n.news.naver.com/mnews/article/031/0000946967?sid=105"
+    },
+    {
+        "title": "中 오포, 2026년 1분기 출시 목표 차세대 폴더블폰 개발 중",
+        "date": "2025-07-08 16:30",
+        "link": "https://kbench.com/?q=node/269182"
+    },
+    {
+        "title": "삼성전자, 新 폴더블폰에 'ONE UI 8' 정식 버전 첫 탑재",
+        "date": "2025-07-08 16:26",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257004"
+    },
+    {
+        "title": "스마트폰 사용자 10명 중 7명 ‘갤럭시’…아이폰은 MZ세대에서 인기",
+        "date": "2025-07-08 16:23",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098376?sid=102"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신제품 사전 구매 알림 신청 16만 명 돌파",
+        "date": "2025-07-08 16:22",
+        "link": "https://idsn.co.kr/news/view/1065593605238325"
+    },
+    {
+        "title": "메타, AI 인재 쟁탈전 주도…애플 AI 모델 책임자도 영입",
+        "date": "2025-07-08 16:16",
+        "link": "https://www.etoday.co.kr/news/view/2485950"
+    },
+    {
+        "title": "이마트24, '서피비치 애플망고' 리큐르 단독 출시",
+        "date": "2025-07-08 16:12",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3806849"
+    },
+    {
+        "title": "애플 폴더블 아이폰 첫해 700만 판매, 삼성 갤럭시 폴더블폰 잡겠다.",
+        "date": "2025-07-08 16:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533226"
+    },
+    {
+        "title": "아이비젼웍스, '폴더블폰 소재 검사 시스템' 납품 완료",
+        "date": "2025-07-08 16:08",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507080125"
+    },
+    {
+        "title": "A18 프로 채택한 애플 저렴이 맥북…실제 성능 어떨까",
+        "date": "2025-07-08 16:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575556"
+    },
+    {
+        "title": "삼성전자, 갤Z 폴드7•플립7에 ‘One UI 8 탑재’",
+        "date": "2025-07-08 16:04",
+        "link": "https://www.viva100.com/article/20250708500171"
+    },
+    {
+        "title": "애플, 내년 봄 아이폰17e 출시한다",
+        "date": "2025-07-08 16:02",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37930"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI 탑재' 2025년형 PC 3종 출시…AI PC 시장 공략",
+        "date": "2025-07-08 16:02",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북5’와 2025년형 데스크톱 출시…AI PC 시장 본격 공...",
+        "date": "2025-07-08 16:00",
+        "link": "https://cwn.kr/article/1065586460215236"
+    },
+    {
+        "title": "3년 만에 뉴욕서 승부수 던지는 삼성, '접는 폰' 완성작 꺼낸다",
+        "date": "2025-07-08 16:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002976925?sid=101"
+    },
+    {
+        "title": "메타, 애플 핵심 AI 인재 영입…AGI 실현될까",
+        "date": "2025-07-08 16:00",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=234106"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·HCL테크·솔트룩스",
+        "date": "2025-07-08 15:56",
+        "link": "https://www.asiatime.co.kr/article/20250708500350"
+    },
+    {
+        "title": "이마트24, 리큐르 '서피비치 애플망고' 단독 판매",
+        "date": "2025-07-08 15:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1240402"
+    },
+    {
+        "title": "8000억 과징금 과도해…애플, EU에 소송 제기",
+        "date": "2025-07-08 15:52",
+        "link": "https://n.news.naver.com/mnews/article/011/0004506563?sid=104"
+    },
+    {
+        "title": "AI도 개인정보 못 넘본다…삼성전자, 폴더블에 '원 UI 8' 첫 적용",
+        "date": "2025-07-08 15:52",
+        "link": "http://www.metroseoul.co.kr/article/20250708500402"
+    },
+    {
+        "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
+        "date": "2025-07-08 15:52",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=403801"
+    },
+    {
+        "title": "베트남-미국 관세협상 종료… 한국 영향은?",
+        "date": "2025-07-08 15:50",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=659618"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 신제품 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 15:38",
+        "link": "https://n.news.naver.com/mnews/article/366/0001090883?sid=105"
+    },
+    {
+        "title": "고지 앞 물러난 애플…첫 시총 4조달러 기업은? 엔비디아 vs MS",
+        "date": "2025-07-08 15:38",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=760186"
+    },
+    {
+        "title": "삼성전자, 2분기 영업이익 '반토막'…'폴더블'로 반등 노린다",
+        "date": "2025-07-08 15:38",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=342458"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재한 2025년형 '갤럭시 북5·삼성 데스크탑' 9일...",
+        "date": "2025-07-08 15:32",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=269219"
+    },
+    {
+        "title": "삼성 갤럭시 신제품, 사전알림 16만명 돌파…폴더블·AI PC 신제품 동반...",
+        "date": "2025-07-08 15:30",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27729"
+    },
+    {
+        "title": "'트럼프 관세 책사' 나바로, 애플 CEO에 아이폰 탈중국 속도 느려",
+        "date": "2025-07-08 15:30",
+        "link": "https://www.ajunews.com/view/20250708152701143"
+    },
+    {
+        "title": "메타, AI 강화 위해 애플 핵심 임원 영입",
+        "date": "2025-07-08 15:24",
+        "link": "https://kbench.com/?q=node/269180"
+    },
+    {
+        "title": "SKT 사태에 통신사 '보조금 전쟁' 전운…속으로 웃는 삼성·애플",
+        "date": "2025-07-08 15:22",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271901"
+    },
+    {
+        "title": "삼성 갤럭시 언팩 'D-1'…더 얇고 가벼워진 폴더블폰 등장",
+        "date": "2025-07-08 15:18",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590393621978"
+    },
+    {
+        "title": "[신상NEWS] 이마트24 ‘서피비치 애플망고’·웅진 ‘하늘보리 한국 양궁...",
+        "date": "2025-07-08 15:04",
+        "link": "https://www.news2day.co.kr/article/20250708500176"
+    },
+    {
+        "title": "삼성전자, 美 ‘젤스’ 인수 성장 동력 확보…‘HBM·갤럭시’와 불황 ...",
+        "date": "2025-07-08 14:58",
+        "link": "https://www.etoday.co.kr/news/view/2485840"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 14:56",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74240"
+    },
+    {
+        "title": "[삼성 어닝 쇼크] 맏형 부진에 동생들도 긴장...전자 계열사 실적 희비",
+        "date": "2025-07-08 14:56",
+        "link": "https://www.ajunews.com/view/20250708144217091"
+    },
+    {
+        "title": "'역대급 변화' 예고하더니…16만명 줄세운 삼성 '신상폰'",
+        "date": "2025-07-08 14:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005154963?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 사전 알림 신청 16만명 돌파",
+        "date": "2025-07-08 14:40",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=248862"
+    },
+    {
+        "title": "삼성전자, 새 폴더블폰에 ‘One UI 8’ 탑재",
+        "date": "2025-07-08 14:28",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74236"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재한 '갤럭시 북5'∙'삼성 데스크탑' 출시",
+        "date": "2025-07-08 14:24",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160596"
+    },
+    {
+        "title": "삼성전자, 갤럭시 사전 알림 신청 16만 돌파",
+        "date": "2025-07-08 14:22",
+        "link": "https://enter.etoday.co.kr/news/view/280393"
+    },
+    {
+        "title": "삼성전자, 2025년형 '갤럭시 북5'∙'삼성 데스크탑' 2종 출시...갤럭시 A...",
+        "date": "2025-07-08 14:20",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=191255"
+    },
+    {
+        "title": "삼성 갤럭시 신제품 열풍에 ‘사전 알림’ 16만 명 돌파",
+        "date": "2025-07-08 14:20",
+        "link": "https://n.news.naver.com/mnews/article/082/0001334414?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 갤럭시 북5·삼성 데스크탑 국내 출시",
+        "date": "2025-07-08 14:14",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200537"
+    },
+    {
+        "title": "놓치면 손해! HP 게이밍 노트북, 일주일간 지마켓 빡세일 프로모션 참여",
+        "date": "2025-07-08 14:14",
+        "link": "https://kbench.com/?q=node/269175"
+    },
+    {
+        "title": "삼성전자, One UI 8의 신규 보안 기능 공개...개인화된 AI 경험 제공, 차...",
+        "date": "2025-07-08 14:14",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35573"
+    },
+    {
+        "title": "AI 패권서 멀어지는 애플…담당 임원도 메타에 빼앗겨",
+        "date": "2025-07-08 14:12",
+        "link": "https://n.news.naver.com/mnews/article/015/0005154935?sid=105"
+    },
+    {
+        "title": "갤럭시 신형 폴더블 폰 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 14:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533216"
+    },
+    {
+        "title": "애플 압박나선 트럼프 '관세 책사' … 아이폰, 탈중국 속도 느려",
+        "date": "2025-07-08 14:06",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/07/08/2025070800264.html"
+    },
+    {
+        "title": "삼성전자, 갤럭시 신제품 사전 구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 14:04",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507081318553866ed0c62d49_1/article.html"
+    },
+    {
+        "title": "새 갤럭시 폴더블 살래요...사전 알림신청 16만명 돌파",
+        "date": "2025-07-08 14:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381210?sid=105"
+    },
+    {
+        "title": "애플, 메타에 LLM 총괄 빼앗겨...AI 추격전에 타격",
+        "date": "2025-07-08 13:56",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200432"
+    },
+    {
+        "title": "삼성, 신형 폴더블폰에 강력 보안 '원 UI 8' 탑재",
+        "date": "2025-07-08 13:52",
+        "link": "http://www.jnilbo.com/77703275976"
+    },
+    {
+        "title": "이마트24, 리큐르 '서피비치 애플망고' 선봬",
+        "date": "2025-07-08 13:52",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=175556"
+    },
+    {
+        "title": "[이슈플러스] 2분기도 버팀목은 갤럭시…슬림 폴더블폰으로 하반기 반등...",
+        "date": "2025-07-08 13:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003329319?sid=105"
+    },
+    {
+        "title": "애사비 다이어트, 효능과 부작용 / 애플사이다비니거, 알고 먹어야",
+        "date": "2025-07-08 13:40",
+        "link": "http://topclass.chosun.com/news/articleView.html?idxno=34932"
+    },
+    {
+        "title": "삼성전자, One UI 8의 신규 보안 기능 공개…갤럭시 신제품 사전 구매 알...",
+        "date": "2025-07-08 13:38",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=764915"
+    },
+    {
+        "title": "[언팩 D-1] 사전알림 16만명 돌파, 폴더블 기대감 최고조",
+        "date": "2025-07-08 13:34",
+        "link": "https://n.news.naver.com/mnews/article/119/0002976828?sid=101"
+    },
+    {
+        "title": "서희건설, 오너 2세 소유기업 위한 '부당내부거래' 의혹",
+        "date": "2025-07-08 13:34",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35601"
+    },
+    {
+        "title": "이마트24, '서피비치 애플망고' 단독 판매",
+        "date": "2025-07-08 13:32",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=659503"
+    },
+    {
+        "title": "애플·중국 잡아라...삼성, 뉴욕서 '접는 폰' 승부수 띄우는 이유",
+        "date": "2025-07-08 13:30",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=357956"
+    },
+    {
+        "title": "애플 7월 7일 종가 209.95달러, 1.69% 하락",
+        "date": "2025-07-08 13:28",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15723601"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 사전 알림 16만명 돌파",
+        "date": "2025-07-08 13:10",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=853727"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품에 '원 UI 8' 탑재",
+        "date": "2025-07-08 13:10",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=830130"
+    },
+    {
+        "title": "삼성전자 갤럭시 신제품 사전구매 알림 신청 16만명 돌파",
+        "date": "2025-07-08 13:10",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=98902"
+    },
+    {
         "title": "삼성전자, 갤럭시 AI 탑재한 '갤럭시 북5'·'삼성 데스크탑' 출시",
         "date": "2025-07-08 13:00",
         "link": "https://www.kgnews.co.kr/news/article.html?no=853726"
@@ -25,7 +555,7 @@
         "link": "https://www.ziksir.com/news/articleView.html?idxno=96484"
     },
     {
-        "title": "삼성전자, 7세대 폴더블에 One UI 8 적용… 신규 보안 솔루션 '킵' 도입",
+        "title": "삼성전자, 7세대 폴더블에 One UI 8 적용…신규 보안 솔루션 '킵' 도입",
         "date": "2025-07-08 12:24",
         "link": "https://www.ajunews.com/view/20250708121628941"
     },
@@ -215,19 +745,24 @@
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217230"
     },
     {
-        "title": "애플, 폴더블 아이폰서 페이스아이디 제거하나…힌지 기술 최우선",
-        "date": "2025-07-08 10:34",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575453"
-    },
-    {
         "title": "삼성전자, 2025년형 갤럭시 북5∙데스크탑 국내 출시",
         "date": "2025-07-08 10:34",
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217229"
     },
     {
+        "title": "애플, 폴더블 아이폰서 페이스아이디 제거하나…힌지 기술 최우선",
+        "date": "2025-07-08 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575453"
+    },
+    {
         "title": "이마트24, 양양 서피비치 협업 리큐르 ‘애플망고’ 단독 출시",
         "date": "2025-07-08 10:34",
         "link": "https://www.kgnews.co.kr/news/article.html?no=853641"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 AI’ 품은 2025년형 ‘갤럭시 북5’와 ‘삼성 데스크...",
+        "date": "2025-07-08 10:32",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=182534"
     },
     {
         "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
@@ -260,14 +795,14 @@
         "link": "https://www.thepowernews.co.kr/view.php?ud=202507080945167312de3f0aa1be_7"
     },
     {
-        "title": "이마트24, 리큐르 '서피비치 애플망고'…국내 편의점 업계 단독으로 판...",
-        "date": "2025-07-08 10:24",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=91557"
-    },
-    {
         "title": "삼성전자, 갤럭시AI 탑재 2025년형 PC 3종 출시",
         "date": "2025-07-08 10:24",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575439"
+    },
+    {
+        "title": "이마트24, 리큐르 '서피비치 애플망고'…국내 편의점 업계 단독으로 판...",
+        "date": "2025-07-08 10:24",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=91557"
     },
     {
         "title": "5억유로 못 내지… 애플, EU 과징금 불복 소송 제기",
@@ -445,9 +980,9 @@
         "link": "https://n.news.naver.com/mnews/article/215/0001215425?sid=101"
     },
     {
-        "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
+        "title": "삼성전자, 보안 강화된 One UI 8 공개…AI 개인 데이터에 다른 앱의 접근...",
         "date": "2025-07-08 09:38",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=85978"
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=239956"
     },
     {
         "title": "삼성전자, 갤럭시 Z 플립·폴드7 탑재 ‘One UI 8’ 신규 보안 기능 공개",
@@ -455,9 +990,9 @@
         "link": "https://www.news2day.co.kr/article/20250708500069"
     },
     {
-        "title": "삼성전자, 보안 강화된 One UI 8 공개…AI 개인 데이터에 다른 앱의 접근...",
+        "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
         "date": "2025-07-08 09:38",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=239956"
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=85978"
     },
     {
         "title": "삼성 3단 폴더블폰 '갤럭시 G 폴드' 이렇게 생겼나?",
@@ -473,6 +1008,11 @@
         "title": "삼성전자 갤럭시 신제품 사전 구매 알림 신청 16만명 돌파",
         "date": "2025-07-08 09:34",
         "link": "http://www.4th.kr/news/articleView.html?idxno=2089990"
+    },
+    {
+        "title": "삼성전자, One UI 8에 양자 내성 암호로 보안 강화",
+        "date": "2025-07-08 09:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575399"
     },
     {
         "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
@@ -525,6 +1065,11 @@
         "link": "http://www.4th.kr/news/articleView.html?idxno=2089992"
     },
     {
+        "title": "AI 인재 쟁탈전…애플 임원, 메타로 이적",
+        "date": "2025-07-08 09:26",
+        "link": "https://www.newspim.com/news/view/20250708000066"
+    },
+    {
         "title": "‘갤럭시 16만 사전열풍’…실제 구매로 이어질까",
         "date": "2025-07-08 09:26",
         "link": "https://www.socialvalue.kr/news/view/1065572523672856"
@@ -543,11 +1088,6 @@
         "title": "아이비젼웍스, 폴더블폰 부품 비전 검사 장비 납품 완료",
         "date": "2025-07-08 09:24",
         "link": "http://www.newsprime.co.kr/news/article.html?no=695352"
-    },
-    {
-        "title": "삼성전자, 2025년형 '갤럭시 북5'∙'삼성 데스크탑' 국내 출시",
-        "date": "2025-07-08 09:24",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=105362"
     },
     {
         "title": "개별 앱 암호화로 금융정보 철통보호 삼성전자, 폴더블 신제품에 'One...",
@@ -697,12 +1237,12 @@
     {
         "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
         "date": "2025-07-08 08:54",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=432757"
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319025"
     },
     {
         "title": "삼성전자, One UI 8의 신규 보안 기능 공개",
         "date": "2025-07-08 08:54",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319025"
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=432757"
     },
     {
         "title": "삼성전자, 갤럭시 신제품 사전 구매 알림 신청 16만명 돌파",
@@ -913,575 +1453,5 @@
         "title": "10~40대 여성 아이폰 사용률 더 높아졌다.. 갤럭시는? [1일IT템]",
         "date": "2025-07-08 07:00",
         "link": "https://n.news.naver.com/mnews/article/014/0005373780?sid=105"
-    },
-    {
-        "title": "애플, 'EU 8000억원 과징금'에 소송…법적 범위 초과",
-        "date": "2025-07-08 06:39",
-        "link": "https://n.news.naver.com/mnews/article/008/0005218265?sid=104"
-    },
-    {
-        "title": "애플, EU의 8천억원 과징금에 소송…현행 법률 허용 범위 넘어",
-        "date": "2025-07-08 06:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669621"
-    },
-    {
-        "title": "베일 벗는 갤 Z폴드7… 최경량 내세워 ‘접는 폰 원조’ 승부수",
-        "date": "2025-07-08 06:04",
-        "link": "https://n.news.naver.com/mnews/article/022/0004049728?sid=101"
-    },
-    {
-        "title": "애플, 'EU 8천억 원 과징금'에 소송…법적 범위 초과",
-        "date": "2025-07-08 04:33",
-        "link": "https://n.news.naver.com/mnews/article/055/0001273123?sid=104"
-    },
-    {
-        "title": "애플, EU 제재에 소송제기…8천억원 과징금, 과도한 수준",
-        "date": "2025-07-08 04:15",
-        "link": "https://n.news.naver.com/mnews/article/374/0000450192?sid=104"
-    },
-    {
-        "title": "역대급으로 얇고 가볍다…삼성, 히든카드는 '트리폴드폰'?",
-        "date": "2025-07-08 04:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005218205?sid=105"
-    },
-    {
-        "title": "'애플' EU 과징금 8,000억 원 소송제기…앱스토어 운영방식 개입 논란",
-        "date": "2025-07-08 02:40",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15723162"
-    },
-    {
-        "title": "애플, 'EU 8천억원 과징금'에 소송…법적 범위 초과",
-        "date": "2025-07-08 02:09",
-        "link": "https://n.news.naver.com/mnews/article/001/0015493188?sid=104"
-    },
-    {
-        "title": "[초점] 폭스콘, 中 기술자 인도서 철수…미·중 갈등, '상품' 넘어 '인재...",
-        "date": "2025-07-08 01:46",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507071456358872fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "“무선이어폰, 통화품질은 삼성·애플, 가성비는 LG”",
-        "date": "2025-07-08 00:50",
-        "link": "https://n.news.naver.com/mnews/article/005/0001788230?sid=101"
-    },
-    {
-        "title": "삼성전자 7세대 폴더블폰 공개 임박, AI 얼마나 진화할까",
-        "date": "2025-07-08 00:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000405236?sid=105"
-    },
-    {
-        "title": "월가, 일부 투자의견 상향에도…애플 하반기 어려워 전망",
-        "date": "2025-07-07 23:43",
-        "link": "https://n.news.naver.com/mnews/article/015/0005154686?sid=101"
-    },
-    {
-        "title": "애플, EU의 '5억 유로' 과징금 항소…현행법 허용 범위 초과",
-        "date": "2025-07-07 20:35",
-        "link": "https://n.news.naver.com/mnews/article/003/0013348440?sid=105"
-    },
-    {
-        "title": "무선이어폰 10개 제품 테스트, 가격 14.5배·성능 3배 차이",
-        "date": "2025-07-07 20:00",
-        "link": "https://platum.kr/archives/265473"
-    },
-    {
-        "title": "[글로벌]애플, 유럽서 8000억 벌금에 항소",
-        "date": "2025-07-07 19:46",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=239944"
-    },
-    {
-        "title": "삼성 갤럭시 워치8 시리즈 3종 사양 유출… 가격 인상",
-        "date": "2025-07-07 19:20",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143745"
-    },
-    {
-        "title": "애플, EU 디지털시장법에 항소... “법적 권한 넘었다” 반발",
-        "date": "2025-07-07 18:39",
-        "link": "https://n.news.naver.com/mnews/article/009/0005521030?sid=105"
-    },
-    {
-        "title": "SK하이닉스 - 삼성전자 2분기 실적 희비 엇갈린다",
-        "date": "2025-07-07 18:22",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=37883"
-    },
-    {
-        "title": "[생활경제 이슈] 그래디언트, 프리미엄 이너뷰티 브랜드 ‘리앤핏’ 론...",
-        "date": "2025-07-07 18:08",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202507071806165865204ead0791_12"
-    },
-    {
-        "title": "스마트폰 사용자 99% 시대… 삼성 '점유율·재구매 의향' 모두 1위, 스마...",
-        "date": "2025-07-07 17:30",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15722765"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 잇따라 호평",
-        "date": "2025-07-07 17:26",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289215151170"
-    },
-    {
-        "title": "트럼프는 中 TV 때렸는데, 왜 LG가? 영업이익 반토막 쇼크",
-        "date": "2025-07-07 17:24",
-        "link": "https://n.news.naver.com/mnews/article/025/0003453450?sid=101"
-    },
-    {
-        "title": "가격 24,800원 vs 359,000원…무선이어폰 성능, 어떤 차이 있을까?",
-        "date": "2025-07-07 17:12",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=508017"
-    },
-    {
-        "title": "삼성디스플레이 '8.6세대 IT' LG디스플레이 '6세대 스마트폰', 엇갈리는...",
-        "date": "2025-07-07 17:06",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=402324"
-    },
-    {
-        "title": "[기로에 선 LGD ②] TV 철수 끝 아니었나 맥북도 흔들…LCD 지배력 '위험...",
-        "date": "2025-07-07 16:50",
-        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=41980"
-    },
-    {
-        "title": "애플 아이폰17 시리즈, 라벤더에 이어 '블루' 색상 나오나",
-        "date": "2025-07-07 16:50",
-        "link": "https://www.insight.co.kr/news/510267"
-    },
-    {
-        "title": "삼성D, BOE 등 상대 美 ITC 특허침해조사 항소",
-        "date": "2025-07-07 16:48",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=37848"
-    },
-    {
-        "title": "무선이어폰 품질 비교…가성비는 LG, 통화품질은 삼성·애플 우수",
-        "date": "2025-07-07 16:44",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180469"
-    },
-    {
-        "title": "[Y인사이트] 강소기업 씨엔원이 만든 R&amp;D용 ALD, 해외 연구소 줄세웠다",
-        "date": "2025-07-07 16:34",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=37860"
-    },
-    {
-        "title": "올해 삼성 언팩, 진짜 주인공은 이것?…‘두 번 접는’ G폴드에 쏠린 시...",
-        "date": "2025-07-07 16:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005520838?sid=101"
-    },
-    {
-        "title": "보급형 대공세 삼성전자, Z 플립7 FE 출격 임박… A17·탭 S10 라이트도...",
-        "date": "2025-07-07 16:22",
-        "link": "http://www.metroseoul.co.kr/article/20250707500426"
-    },
-    {
-        "title": "아이폰17 프로, 애플 로고 위치 바뀐다… 기존보다 하향",
-        "date": "2025-07-07 16:04",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143739"
-    },
-    {
-        "title": "中 미니LED 공세에…삼성·LG, OLED로 '맞불'",
-        "date": "2025-07-07 15:56",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=702485"
-    },
-    {
-        "title": "애플, 차세대 맥북·아이맥 로드맵 유출…M6 맥북 프로까지 등장",
-        "date": "2025-07-07 15:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575275"
-    },
-    {
-        "title": "[기자의 눈] 삼성 '엑시노스 2500'으로 시스템반도체·파운드리 부활 이...",
-        "date": "2025-07-07 15:42",
-        "link": "https://www.news2day.co.kr/article/20250707500188"
-    },
-    {
-        "title": "LG디스플레이, 맥북 최대 공급사 입지 '흔들'…BOE 첫 추월 전망",
-        "date": "2025-07-07 15:40",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1239751"
-    },
-    {
-        "title": "KAIST, 뇌 질환 치료용 초박막 마이크로 OLED 장비 개발",
-        "date": "2025-07-07 15:38",
-        "link": "https://n.news.naver.com/mnews/article/015/0005154464?sid=105"
-    },
-    {
-        "title": "삼성 버즈, 애플 에어팟 음질·소음 우수, LG는 가성비...소비자원 무선...",
-        "date": "2025-07-07 15:37",
-        "link": "https://n.news.naver.com/mnews/article/009/0005520764?sid=101"
-    },
-    {
-        "title": "애플, 초슬림 ‘아이폰17 에어’에 밝은 블루 색상 입힌다",
-        "date": "2025-07-07 15:34",
-        "link": "https://kbench.com/?q=node/269133"
-    },
-    {
-        "title": "토코보, '애플 듀이 핏 쿠션' 신규 컬러…무신사 단독 선런칭",
-        "date": "2025-07-07 15:32",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=655533"
-    },
-    {
-        "title": "정부가 “무선이어폰 가운데 가성비 가장 뛰어난 모델은...” 지목한 제...",
-        "date": "2025-07-07 15:28",
-        "link": "https://www.wikitree.co.kr/articles/1063090"
-    },
-    {
-        "title": "대전교육청, 생성형 AI 교육환경 대응... 구글·애플서 대전미래교육 방...",
-        "date": "2025-07-07 15:28",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=275376"
-    },
-    {
-        "title": "“무선이어폰 가성비 갑은 LG···통화 품질 갑은?”",
-        "date": "2025-07-07 15:24",
-        "link": "https://n.news.naver.com/mnews/article/032/0003381038?sid=101"
-    },
-    {
-        "title": "LG전자, 美 관세 영향 2분기 영업익 반토막…하반기 부진 불가피",
-        "date": "2025-07-07 15:20",
-        "link": "https://www.asiatime.co.kr/article/20250707500346"
-    },
-    {
-        "title": "中, 저렴한 LCD로 'OLED 일색' VR 시장 넘본다",
-        "date": "2025-07-07 15:16",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=413175"
-    },
-    {
-        "title": "삼성 3단 폴더블폰, 언팩에서 공개?",
-        "date": "2025-07-07 15:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003328976?sid=105"
-    },
-    {
-        "title": "토코보, '애플 듀이 핏 쿠션' 뉴컬러 무신사 뷰티 선론칭",
-        "date": "2025-07-07 14:58",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=658011"
-    },
-    {
-        "title": "일부 무선이어폰, 최대음량 안전기준 초과... 소비자 주의 필요",
-        "date": "2025-07-07 14:52",
-        "link": "https://www.ibabynews.com/news/articleView.html?idxno=135063"
-    },
-    {
-        "title": "韓기업 베트남→미국 수출 관세…최악 피했지만 품목별 희비",
-        "date": "2025-07-07 14:39",
-        "link": "https://n.news.naver.com/mnews/article/018/0006059483?sid=101"
-    },
-    {
-        "title": "[단독] 삼성전자, 중국산 폴더블폰 핵심소재 OCA 샘플 테스트 진행",
-        "date": "2025-07-07 14:34",
-        "link": "https://www.theguru.co.kr/news/article.html?no=89043"
-    },
-    {
-        "title": "“글로벌 OLED TV 1등은 나”⋯ 삼성•LG 치열해진 패권경쟁",
-        "date": "2025-07-07 14:22",
-        "link": "https://www.viva100.com/article/20250707500489"
-    },
-    {
-        "title": "“무선 이어폰 통화품질은 삼성·애플, 가성비는 LG”",
-        "date": "2025-07-07 14:18",
-        "link": "https://n.news.naver.com/mnews/article/449/0000314057?sid=101"
-    },
-    {
-        "title": "슬림 영상편집 노트북, 기가바이트 AERO X16 정식 출시 및 G마켓 단독 특...",
-        "date": "2025-07-07 14:08",
-        "link": "https://kbench.com/?q=node/269123"
-    },
-    {
-        "title": "삼성 더 얇게 vs 애플 더 강하게…스마트폰 전략 달라질까",
-        "date": "2025-07-07 14:05",
-        "link": "https://n.news.naver.com/mnews/article/092/0002381067?sid=105"
-    },
-    {
-        "title": "기술이 경쟁력…LG디스플레이, CoE·eLEAP로 OLED 새판짜기 [소부장디과...",
-        "date": "2025-07-07 14:03",
-        "link": "https://n.news.naver.com/mnews/article/138/0002200123?sid=105"
-    },
-    {
-        "title": "삼성전자 파운드리 2나노 퀄컴 수주 '진행 중', 엑시노스2600은 수율 '향...",
-        "date": "2025-07-07 13:56",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=402194"
-    },
-    {
-        "title": "무선 이어폰 기능 따져보니…삼성·소니·애플 '우수'",
-        "date": "2025-07-07 13:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008354654?sid=105"
-    },
-    {
-        "title": "발표 코앞 ‘갤럭시 워치8’ 디자인·스펙·가격 다 나왔다",
-        "date": "2025-07-07 13:42",
-        "link": "https://byline.network/?p=9004111222570033"
-    },
-    {
-        "title": "유니씨앤씨, 삼성 갤럭시북5 프로/올인원 프로 LIVE Summer Academy 혜택",
-        "date": "2025-07-07 13:22",
-        "link": "https://kbench.com/?q=node/269120"
-    },
-    {
-        "title": "에스라이즈, 쿠팡 와우 빅세일 시작 HP 게이밍 노트북 할인 진행",
-        "date": "2025-07-07 13:14",
-        "link": "https://kbench.com/?q=node/269118"
-    },
-    {
-        "title": "ASUS, 지마켓 빡세일 통해 인기 노트북 특별가 판매 진행",
-        "date": "2025-07-07 13:14",
-        "link": "https://kbench.com/?q=node/269117"
-    },
-    {
-        "title": "BOE, 애플 맥북 디스플레이 최대 공급업체로 부상…LG디스플레이 추월 ...",
-        "date": "2025-07-07 13:08",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=65057"
-    },
-    {
-        "title": "“무선이어폰 고가가 좋다?”..제품별 음향·소음·품질 천차만별",
-        "date": "2025-07-07 13:04",
-        "link": "http://www.breaknews.com/1130738"
-    },
-    {
-        "title": "알루미늄 디자인·애플 로고 재배치…새로운 '아이폰17 프로' 렌더링 유...",
-        "date": "2025-07-07 13:02",
-        "link": "https://kbench.com/?q=node/269109"
-    },
-    {
-        "title": "[디지키 테크리포트] 임베디드 시스템 및 디스플레이를 위한 RGB LED 표시...",
-        "date": "2025-07-07 13:00",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=318916"
-    },
-    {
-        "title": "iOS 26 속 ‘아이폰 17 에어’ 출시를 암시하는 단서 6가지",
-        "date": "2025-07-07 12:10",
-        "link": "https://www.itworld.co.kr/article/4017761/ios-26-속-아이폰-17-에어-출시를-암시하는-단서-6가지.html"
-    },
-    {
-        "title": "LG전자, 2Q 영업익 반토막...하반기 'B2B·구독'으로 승부(종합)",
-        "date": "2025-07-07 12:04",
-        "link": "https://n.news.naver.com/mnews/article/119/0002976364?sid=101"
-    },
-    {
-        "title": "“무선이어폰, 통화품질은 삼성·애플…가성비는 LG 우수”",
-        "date": "2025-07-07 12:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003328854?sid=105"
-    },
-    {
-        "title": "무선이어폰 노이즈캔슬링 성능 달라...삼성·애플 등 고가형 제품이 ...",
-        "date": "2025-07-07 12:00",
-        "link": "https://www.etoday.co.kr/news/view/2485401"
-    },
-    {
-        "title": "무선이어폰 10개 제품 비교…음향·소음제거·통화품질 성능과 가격 차...",
-        "date": "2025-07-07 12:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669483"
-    },
-    {
-        "title": "소비자원 “무선이어폰 통화품질, 제품별 격차…가격 최대 14.5배 차이”",
-        "date": "2025-07-07 12:00",
-        "link": "https://n.news.naver.com/mnews/article/056/0011984000?sid=101"
-    },
-    {
-        "title": "백승일 소비자원 팀장 무선이어폰 품질, 제품별 성능 '천차만별'",
-        "date": "2025-07-07 12:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669527"
-    },
-    {
-        "title": "LG전자 2분기 관세 여파 속 실적 둔화…하반기 '질적 성장' 반등 모색",
-        "date": "2025-07-07 11:57",
-        "link": "https://n.news.naver.com/mnews/article/008/0005217888?sid=101"
-    },
-    {
-        "title": "초슬림·초경량에 초고성능까지… 갤럭시 Z폴드7 ‘접는폰 왕좌’ 굳힌...",
-        "date": "2025-07-07 11:56",
-        "link": "https://n.news.naver.com/mnews/article/021/0002720860?sid=101"
-    },
-    {
-        "title": "LG전자, 2분기 '충격실적'…관세·경쟁 심화 '직격탄'(상보)",
-        "date": "2025-07-07 11:54",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=141848"
-    },
-    {
-        "title": "BOE, 아이폰17 디스플레이 공급 실패…애플-BOE 관계 흔들리나",
-        "date": "2025-07-07 11:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575196"
-    },
-    {
-        "title": "브라질 독점규제 당국 애플, iOS 생태계서 반경쟁 행위 유죄 권고",
-        "date": "2025-07-07 11:40",
-        "link": "https://n.news.naver.com/mnews/article/092/0002381055?sid=105"
-    },
-    {
-        "title": "애플은 배터리, 삼성은 슬림… 아이폰17·갤럭시S26 전략 비교",
-        "date": "2025-07-07 11:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575197"
-    },
-    {
-        "title": "관세복병 글로벌 TV시장…‘수익성’에 속타는 삼성·LG [이슈&amp;뷰]",
-        "date": "2025-07-07 11:26",
-        "link": "https://n.news.naver.com/mnews/article/016/0002495709?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시S FE 모델에도 '플렉시블 OLED' 적용",
-        "date": "2025-07-07 11:21",
-        "link": "https://n.news.naver.com/mnews/article/092/0002381047?sid=105"
-    },
-    {
-        "title": "[Y인사이트] 하나기술, UTG·OLED·TGV까지… 유리 가공 풀패키지 제시",
-        "date": "2025-07-07 11:08",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=37823"
-    },
-    {
-        "title": "애플, 시리 개편 위해 오픈AI·앤트로픽과 LLM 협업 추진",
-        "date": "2025-07-07 11:00",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=107644"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 테크 매체들로부터 연이은 호평",
-        "date": "2025-07-07 10:56",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=216595"
-    },
-    {
-        "title": "삼성 폴더블폰 '결전의 날' 9일...노태문 리더십 100일",
-        "date": "2025-07-07 10:40",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669525"
-    },
-    {
-        "title": "40만원짜리가 주말 새 '0원'…가입자 쟁탈전에 불붙은 통신사들",
-        "date": "2025-07-07 10:38",
-        "link": "https://n.news.naver.com/mnews/article/277/0005618647?sid=105"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
-        "date": "2025-07-07 10:30",
-        "link": "https://www.newspost.kr/news/articleView.html?idxno=215733"
-    },
-    {
-        "title": "ams오스람, 차량용 조명 애플리케이션 SYNIOS LED 3종 출시",
-        "date": "2025-07-07 10:24",
-        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=82789"
-    },
-    {
-        "title": "대전시교육청, 교사 40명 구글·애플 본사서 AI 수업 역량 강화",
-        "date": "2025-07-07 10:20",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=507649"
-    },
-    {
-        "title": "아이폰 기술력의 비밀…애플, 내구성 테스트 연구소 공개",
-        "date": "2025-07-07 10:12",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575160"
-    },
-    {
-        "title": "영상통화 중 옷 벗으면 '경고'..애플, '이 기능' 시범 도입",
-        "date": "2025-07-07 10:11",
-        "link": "https://n.news.naver.com/mnews/article/014/0005373279?sid=105"
-    },
-    {
-        "title": "크로스오버, 27인치 IPS 200Hz Ai게이밍 모니터 7월 롯데온세일 진행",
-        "date": "2025-07-07 10:00",
-        "link": "https://kbench.com/?q=node/269093"
-    },
-    {
-        "title": "베일 벗는 '갤Z플립·폴드7'…삼성, 역대급 '성능·두께'로 中 추격 따돌...",
-        "date": "2025-07-07 09:59",
-        "link": "https://n.news.naver.com/mnews/article/293/0000069502?sid=101"
-    },
-    {
-        "title": "아이폰 '메이드인 아메리카' 왜 어렵나…포춘, 과거 구글 모토로라 '타...",
-        "date": "2025-07-07 09:52",
-        "link": "https://n.news.naver.com/mnews/article/138/0002200095?sid=105"
-    },
-    {
-        "title": "[우상결] 삼성전자 빅딜 엔진 재가동…이재용의 ‘뉴삼성’ 가속화",
-        "date": "2025-07-07 09:48",
-        "link": "https://www.cnbnews.com/news/article.html?no=735011"
-    },
-    {
-        "title": "액스비스, 로봇 정밀도 검사 체계 확보… AMR 시장 정조준",
-        "date": "2025-07-07 09:46",
-        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=66624"
-    },
-    {
-        "title": "제주 더 시에나리조트, 객실 예약 시 제주 애플망고 빙수 특전 행사 진...",
-        "date": "2025-07-07 09:42",
-        "link": "https://www.livesnews.com/news/article.html?no=52236"
-    },
-    {
-        "title": "서희건설 2세 소유기업 '애플이엔씨', 5년 만에 자산 100배...'아빠찬스...",
-        "date": "2025-07-07 09:38",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35572"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라 받아",
-        "date": "2025-07-07 09:38",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=238030"
-    },
-    {
-        "title": "토코보 ‘애플 듀이 핏 쿠션’ 신규 컬러 무신사 뷰티 단독 선론칭",
-        "date": "2025-07-07 09:34",
-        "link": "https://www.fashionbiz.co.kr/article/217696"
-    },
-    {
-        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 잇따라 호평",
-        "date": "2025-07-07 09:24",
-        "link": "https://www.cnbnews.com/news/article.html?no=736296"
-    },
-    {
-        "title": "애플 아이폰17 에어, 새로운 '무채색' 블루 도입하나",
-        "date": "2025-07-07 08:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575107"
-    },
-    {
-        "title": "아이폰도 못 피했다…中 스마트폰 시장 5월 출하량 21.8% 감소",
-        "date": "2025-07-07 08:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=575098"
-    },
-    {
-        "title": "마이크로 OLED로 난치성 뇌질환 치료'게임 체인저'기술 제시",
-        "date": "2025-07-07 08:42",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200485"
-    },
-    {
-        "title": "갤럭시, 7세대 폴더블폰 출격 앞두고 시장 '격랑'…가격·마케팅·관세 ...",
-        "date": "2025-07-07 08:30",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15721900"
-    },
-    {
-        "title": "챗GPT·제미나이 수준 애플, AI 코딩 모델 '디퓨코드' 출시. 오픈소스...",
-        "date": "2025-07-07 08:26",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533125"
-    },
-    {
-        "title": "삼성전자 LPDDR 공급망 변천사…'3등' 마이크론이 '1등'으로",
-        "date": "2025-07-07 08:22",
-        "link": "https://dealsite.co.kr/articles/144194"
-    },
-    {
-        "title": "[PE 포트폴리오] 스카이레이크 생인손 솔루스…OLED도 매각대상",
-        "date": "2025-07-07 08:22",
-        "link": "https://dealsite.co.kr/articles/144057"
-    },
-    {
-        "title": "LG전자, 세계 최초 4K 144Hz 무선 OLED TV 'M5' 시리즈 글로벌 출시",
-        "date": "2025-07-07 08:12",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533123"
-    },
-    {
-        "title": "난치성 뇌질환 치료하는 마이크로 OLED 장비 개발",
-        "date": "2025-07-07 08:10",
-        "link": "https://tjmbc.co.kr/article/kBINGlD1brOiZr"
-    },
-    {
-        "title": "국내 연구진, 마이크로 OLED로 난치성 뇌질환 치료 기술 제시",
-        "date": "2025-07-07 07:58",
-        "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=91100"
-    },
-    {
-        "title": "[더벨][Sanction Radar]삼성 '7세대 폴더블폰' 공개 임박, 관세 여파 안갯...",
-        "date": "2025-07-07 07:52",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507031413238600103387"
-    },
-    {
-        "title": "[더벨][갤럭시Z7 언팩 프리뷰]폴더블 '대중화' 꿈꾼다, 'Z 플립7 FE' 출격...",
-        "date": "2025-07-07 07:52",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507041319374800102995"
-    },
-    {
-        "title": "애플 맥북 디스플레이 공급 지각변동! 중국 BOE, LG디스플레이 제치고 1...",
-        "date": "2025-07-07 07:26",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533117"
-    },
-    {
-        "title": "LG이노텍, 아이패드 COF 공급망 진입…매출 영향 '제한적'",
-        "date": "2025-07-07 07:12",
-        "link": "https://dealsite.co.kr/articles/144119"
     }
 ]
