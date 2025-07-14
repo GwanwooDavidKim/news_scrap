@@ -1,5 +1,720 @@
 [
     {
+        "title": "“설계부터 배치까지 싹 바꿨다”…삼성이 말하는 폴드7·플립7 혁신",
+        "date": "2025-07-14 12:47",
+        "link": "https://n.news.naver.com/mnews/article/032/0003382505?sid=105"
+    },
+    {
+        "title": "삼성전자 새 폴더블폰 '갤럭시 Z 폴드7·플립7', 사전판매 개시 D-1",
+        "date": "2025-07-14 12:38",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=275929"
+    },
+    {
+        "title": "SKT, 위약금 면제 종료 D-데이…‘Z갤럭시’ 사전예약으로 2라운드 격전...",
+        "date": "2025-07-14 12:26",
+        "link": "https://n.news.naver.com/mnews/article/119/0002978906?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 12:22",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71014"
+    },
+    {
+        "title": "유니씨앤씨, 삼성 갤럭시북·올인원 베스트 어워즈 LIVE 진행",
+        "date": "2025-07-14 12:22",
+        "link": "https://kbench.com/?q=node/269367"
+    },
+    {
+        "title": "갤럭시 Z·워치8, 지금 사면 혜택이 '펑펑'…어디서 사야할까",
+        "date": "2025-07-14 12:18",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=80980"
+    },
+    {
+        "title": "애플 맥OS 중심 생태계에 보안 경고…MaaS형 '아토믹 맥OS 스틸러' 위협...",
+        "date": "2025-07-14 12:06",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=234214"
+    },
+    {
+        "title": "대폭 업그레이드…대망의 아이폰 17 신상 공개 날짜 정해졌다",
+        "date": "2025-07-14 11:58",
+        "link": "https://www.wikitree.co.kr/articles/1064862"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 15일 사전 판매 시작…신제품·풍성...",
+        "date": "2025-07-14 11:58",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160985"
+    },
+    {
+        "title": "CJ온스타일·11번가·이마트, ‘갤럭시Z 플립7·Z 폴드7’ 특별 프로모션...",
+        "date": "2025-07-14 11:42",
+        "link": "https://www.news2day.co.kr/article/20250714500099"
+    },
+    {
+        "title": "백미당, 애플망고·수박 활용한 여름 시즌 음료·디저트 4종 출시",
+        "date": "2025-07-14 11:42",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=641734"
+    },
+    {
+        "title": "팀 쿡, AI 전략 실패에도 애플 신임 회장 추대 가능성 ↑... 후임 CEO는 존...",
+        "date": "2025-07-14 11:42",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802121"
+    },
+    {
+        "title": "더 얇은 폴더블은 '혁신'…내부 설계, 부품 배치까지 모든 걸 바꿨다",
+        "date": "2025-07-14 11:39",
+        "link": "https://n.news.naver.com/mnews/article/277/0005622066?sid=105"
+    },
+    {
+        "title": "내년 상반기 애플 신제품 쏟아진다...주목할 만한 제품은",
+        "date": "2025-07-14 11:36",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142093"
+    },
+    {
+        "title": "CJ올리브영 해태제과 코웨이 外(유통﻿家 이모저모)",
+        "date": "2025-07-14 11:28",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3046967"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z폴드7' 15일 자정부터 사전판매 시작",
+        "date": "2025-07-14 11:26",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=85678"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 사전 판매 15일 자정부터 시작",
+        "date": "2025-07-14 11:22",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=183094"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 11:20",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=135469"
+    },
+    {
+        "title": "백미당, 제주 애플망고·수박 담은 신메뉴 4종 출시",
+        "date": "2025-07-14 11:18",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=42104"
+    },
+    {
+        "title": "애플, 아이폰17 시리즈 발표 이벤트 9월 둘째 주 유력",
+        "date": "2025-07-14 11:14",
+        "link": "https://kbench.com/?q=node/269362"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드7·플립 7, 오는 15일부터 사전 판매",
+        "date": "2025-07-14 11:12",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=267446"
+    },
+    {
+        "title": "아이폰17 시리즈 가을 출시…2026년엔 아이폰17e 등 보급형 추가",
+        "date": "2025-07-14 11:10",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=160886"
+    },
+    {
+        "title": "갤럭시Z폴드7 더 얇아질 것…폼팩터 한계 돌파",
+        "date": "2025-07-14 11:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381908?sid=105"
+    },
+    {
+        "title": "백미당, 제주 애플망고·수박 활용한 여름 메뉴로 계절 공략에 성공할까...",
+        "date": "2025-07-14 11:06",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=386650"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 11:06",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=258047"
+    },
+    {
+        "title": "“업그레이드 아닙니다” 기획 담당이 밝힌 갤Z폴드·플립7의 비밀",
+        "date": "2025-07-14 11:03",
+        "link": "https://n.news.naver.com/mnews/article/022/0004051440?sid=101"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 ‘여름 과일 시리즈’ 4종 출시",
+        "date": "2025-07-14 11:03",
+        "link": "https://n.news.naver.com/mnews/article/241/0003452234?sid=101"
+    },
+    {
+        "title": "[갤럭시 언팩] 폴더블폰 완성체… 디자인·내구성·성능 '3박자 혁신'",
+        "date": "2025-07-14 11:02",
+        "link": "https://www.ajunews.com/view/20250714100338179"
+    },
+    {
+        "title": "삼성전자, '사용자 중심'에서 폴더블폰 미래 찾았다 [갤럭시 언팩]",
+        "date": "2025-07-14 11:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/14/2025071400084.html"
+    },
+    {
+        "title": "[갤럭시Z 언팩 2025] 폴드·플립7, 폴더블폰의 미래 재정의",
+        "date": "2025-07-14 11:02",
+        "link": "https://dealsite.co.kr/articles/144553"
+    },
+    {
+        "title": "아트뮤,고성능 노트북을 위한초고속 충전기5종 발매",
+        "date": "2025-07-14 11:02",
+        "link": "https://www.cnet.co.kr/view/?no=20250714104955"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·플립7, 폴더블폰 미래 재정의하는 제품",
+        "date": "2025-07-14 11:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005376520?sid=105"
+    },
+    {
+        "title": "“역대급 얇고 가볍다”…갤Z폴드7, 힌지·카메라·디스플레이 다 바꿨...",
+        "date": "2025-07-14 11:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002499070?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 폴드·플립7, 폴더블폰 미래 재정의",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015505325?sid=105"
+    },
+    {
+        "title": "단순 업그레이드 아니다…삼성, 폴더블 ‘완성형 진화’ 선언",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065277?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩]완벽한 혁신 이뤄낸 삼성전자…두께는 줄이고 내구성은 ...",
+        "date": "2025-07-14 11:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071021535700389"
+    },
+    {
+        "title": "‘갤Z폴드7’, S펜 뺀 이유?…벽돌폰에서 0.1㎜ 초슬림 혁신",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002967883?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 Z7, 획기적 진보…폴더블 혁신 지속",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001216147?sid=101"
+    },
+    {
+        "title": "“얇고 가볍게, 그러나 제대로”... 갤럭시 Z폴드7·플립7에 삼성 폴더블...",
+        "date": "2025-07-14 11:00",
+        "link": "https://www.etoday.co.kr/news/view/2486782"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7·플립7' 15일부터 1주일간 사전 판매",
+        "date": "2025-07-14 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250714104459"
+    },
+    {
+        "title": "[갤럭시 언팩] 갤럭시 Z 폴드7,플립 7에 스마트폰 미래 기술을 담았다",
+        "date": "2025-07-14 11:00",
+        "link": "https://www.newspim.com/news/view/20250710001164"
+    },
+    {
+        "title": "얇고 가벼움이 목표 아냐…동전 두께 폰 만든 삼성의 자신감",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005221105?sid=105"
+    },
+    {
+        "title": "얇아진 건 좋은데…갤폴드 S펜 더 이상 못쓰나",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013360444?sid=105"
+    },
+    {
+        "title": "성지에선 90만원대 ‘갤럭시 Z폴드7’ 등장…통신3사 마케팅 경쟁",
+        "date": "2025-07-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065276?sid=105"
+    },
+    {
+        "title": "11번가, '삼성 갤럭시 폴더블 신제품' 사전판매 라이브 방송",
+        "date": "2025-07-14 10:58",
+        "link": "https://www.fetv.co.kr/news/article.html?no=196635"
+    },
+    {
+        "title": "애플의 위기, AI 전략 부재에 흔들리는 기술 제국",
+        "date": "2025-07-14 10:56",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84858"
+    },
+    {
+        "title": "애플, 3나노 M5 칩 탑재한 신형 '맥북 프로' 시리즈 출시 준비... 디스플...",
+        "date": "2025-07-14 10:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802117"
+    },
+    {
+        "title": "[E Works] 삼성전자·LG전자",
+        "date": "2025-07-14 10:54",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=696053"
+    },
+    {
+        "title": "삼성전자, 더현대 서울에 ‘갤럭시 Z폴드7∙플립7’ 스튜디오 오픈",
+        "date": "2025-07-14 10:52",
+        "link": "https://www.m-economynews.com/news/article.html?no=57084"
+    },
+    {
+        "title": "‘아이폰17 프로’ 중국에서만 판다고?…BOE 패널로 중국 시장만 공략하...",
+        "date": "2025-07-14 10:49",
+        "link": "https://n.news.naver.com/mnews/article/009/0005524273?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 사전판매",
+        "date": "2025-07-14 10:48",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1259684"
+    },
+    {
+        "title": "냅킨에 그린 '세상에 없던' 車디스플레이, LGD가 해냈다",
+        "date": "2025-07-14 10:46",
+        "link": "https://www.newspim.com/news/view/20250714000364"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 스튜디오’ 오픈… 더현대 서울서 폴더블 신제품 체...",
+        "date": "2025-07-14 10:42",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=183089"
+    },
+    {
+        "title": "11번가, '갤럭시 Z 폴드7'과 '갤럭시 Z 플립7' 사전 판매 돌입",
+        "date": "2025-07-14 10:42",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=477586"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 신제품 사전 판매 돌입···AI 구독클럽 운영",
+        "date": "2025-07-14 10:34",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=413353"
+    },
+    {
+        "title": "11번가, 갤럭시 Z 폴드7·플립7 사전판매…15일 0시 라방 시작",
+        "date": "2025-07-14 10:34",
+        "link": "https://n.news.naver.com/mnews/article/117/0003964555?sid=103"
+    },
+    {
+        "title": "백미당, '여름 과일 시리즈' 4종 출시…제주 애플망고와 국내산 수박",
+        "date": "2025-07-14 10:32",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=49165"
+    },
+    {
+        "title": "11번가, 삼성 '갤럭시 Z폴드7·Z플립7' 사전 판매 라이브방송",
+        "date": "2025-07-14 10:30",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=96996"
+    },
+    {
+        "title": "크로스오버존, 게이밍 모니터 오늘의집 이벤트 진행",
+        "date": "2025-07-14 10:28",
+        "link": "https://kbench.com/?q=node/269357"
+    },
+    {
+        "title": "남양유업 백미당, 애플망고와 수박 담은 ‘여름 과일 시리즈 4종’ 출시",
+        "date": "2025-07-14 10:24",
+        "link": "https://www.cnbnews.com/news/article.html?no=737754"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 사전 판매 돌입…폴더블 신기준 ...",
+        "date": "2025-07-14 10:22",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27782"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 공개…AI 기능·카메라 대폭 강화",
+        "date": "2025-07-14 10:22",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=160829"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 체험공간 더현대 서울서 운영",
+        "date": "2025-07-14 10:18",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=233642"
+    },
+    {
+        "title": "삼성전자, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전 판매",
+        "date": "2025-07-14 10:18",
+        "link": "https://n.news.naver.com/mnews/article/031/0000948344?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 10:16",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=434474"
+    },
+    {
+        "title": "아이폰17 시리즈, 9월 둘째 주 공개…9·10일 유력",
+        "date": "2025-07-14 10:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381868?sid=105"
+    },
+    {
+        "title": "메타, 스마트폰 이후 세상 겨냥…XR과 AI에 집중",
+        "date": "2025-07-14 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576863"
+    },
+    {
+        "title": "애플 아이폰17e, 내년 봄 출시 예상…칩셋 업그레이드 기대",
+        "date": "2025-07-14 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576858"
+    },
+    {
+        "title": "삼성 '갤Z 폴드·플립7', 15일 자정부터 사전판매",
+        "date": "2025-07-14 10:00",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2082735"
+    },
+    {
+        "title": "11번가, ‘갤럭시 Z 폴드·플립7’ 사전판매 라이브 방송 진행",
+        "date": "2025-07-14 10:00",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74412"
+    },
+    {
+        "title": "[유통가 레이더] 개인카페 돕는다... 배달의민족, '우리동네 배민 레시...",
+        "date": "2025-07-14 09:59",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328720"
+    },
+    {
+        "title": "애플, M5 맥북 프로·12세대 아이패드 내년 초 동시 출격 준비",
+        "date": "2025-07-14 09:57",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200571?sid=105"
+    },
+    {
+        "title": "'갤럭시S26 울트라' 디스플레이 더 밝고 오래간다.. 차세대 CoE OLED 기술...",
+        "date": "2025-07-14 09:54",
+        "link": "https://kbench.com/?q=node/269349"
+    },
+    {
+        "title": "애플 M5 맥북 프로, 2026년 초 출시 전망…기대할만한 변화는",
+        "date": "2025-07-14 09:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576842"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7/Z 플립7 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 09:54",
+        "link": "https://kbench.com/?q=node/269353"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 사전 판매 15일 시작…25일 공식 출시",
+        "date": "2025-07-14 09:52",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202507140949469805de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드·플립7’ 15일 자정부터 사전 판매",
+        "date": "2025-07-14 09:52",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74407"
+    },
+    {
+        "title": "알파스캔, 27인치 Fast IPS QHD 180Hz 모니터 신제품 출시",
+        "date": "2025-07-14 09:52",
+        "link": "https://kbench.com/?q=node/269352"
+    },
+    {
+        "title": "애플 스마트홈 허브, 2026년 연기… ‘시리 지연’에 발목 잡혀",
+        "date": "2025-07-14 09:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200568?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·Z 플립7 15일 자정부터 사전 판매 개시",
+        "date": "2025-07-14 09:48",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=530840"
+    },
+    {
+        "title": "블룸버그 “애플, 내년 초 M5 맥북 프로 포함 신제품 대거 선보일 듯”",
+        "date": "2025-07-14 09:46",
+        "link": "https://www.itworld.co.kr/article/4021358/블룸버그-애플-내년-초-m5-맥북-프로-포함-신제품-대.html"
+    },
+    {
+        "title": "아이폰 17, 9월 9일 공개 유력… '초슬림 에어·카메라 혁신' 앞세운다",
+        "date": "2025-07-14 09:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200565?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z폴드·플립7' 15일 자정 사전판매 시작, 구독 월 7900원...",
+        "date": "2025-07-14 09:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=403213"
+    },
+    {
+        "title": "백미당, 제주 애플망고 등 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 09:36",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1068604"
+    },
+    {
+        "title": "'갤럭시 Z 폴드·플립 7' 오는 15일 사전 판매 시작",
+        "date": "2025-07-14 09:36",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180915"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z 폴드7·플립7' 15일부터 사전 판매",
+        "date": "2025-07-14 09:34",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2090399"
+    },
+    {
+        "title": "애플, '아이폰 17' 9월8일 발표하나",
+        "date": "2025-07-14 09:34",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65295"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 09:32",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=59436"
+    },
+    {
+        "title": "삼성전자, 15일 '갤럭시Z폴드7·Z 플립7' 사전 판매",
+        "date": "2025-07-14 09:32",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3046944"
+    },
+    {
+        "title": "삼성전자 '폴드7·플립7' 15일 자정부터 사전판매 돌입",
+        "date": "2025-07-14 09:30",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=803345"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙플립7 갤럭시 스튜디오' 더현대 서울서 오...",
+        "date": "2025-07-14 09:30",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=238761"
+    },
+    {
+        "title": "CJ온스타일, 갤럭시 Z 플립7∙Z 폴드7 사전예약 라방...SNL정이랑과 SML...",
+        "date": "2025-07-14 09:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=86622"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 오는 15일 자정부터 사전 판매 시...",
+        "date": "2025-07-14 09:26",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=86617"
+    },
+    {
+        "title": "삼성전자, 더현대 서울에 ‘갤럭시 Z 폴드7·플립7’ 체험 공간 오픈",
+        "date": "2025-07-14 09:26",
+        "link": "https://www.cnbnews.com/news/article.html?no=737737"
+    },
+    {
+        "title": "CJ온스타일, 갤럭시 Z 플립7∙Z 폴드7 사전예약 라방 진행",
+        "date": "2025-07-14 09:26",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228237"
+    },
+    {
+        "title": "삼성전자, 더현대서울에 ‘갤럭시 Z 폴드7·플립7’ 체험공간 오픈",
+        "date": "2025-07-14 09:24",
+        "link": "https://www.hellot.net/news/article.html?no=103237"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·Z 플립7’ 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 09:22",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139638"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일부터 사전 판매 시작",
+        "date": "2025-07-14 09:22",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=189675"
+    },
+    {
+        "title": "애플 스마트 홈 허브, 내년으로 출시 연기…시리 때문",
+        "date": "2025-07-14 09:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381852?sid=105"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 09:22",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=91965"
+    },
+    {
+        "title": "백미당, 제주 애플망고·수박 담은 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 09:18",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=89439"
+    },
+    {
+        "title": "백미당, 제주 애플망고·수박 활용 여름 신메뉴 4종 출시",
+        "date": "2025-07-14 09:18",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=854566"
+    },
+    {
+        "title": "CJ온스타일, 갤럭시 Z 플립7∙Z 폴드7 사전예약 라방",
+        "date": "2025-07-14 09:18",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180917"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매",
+        "date": "2025-07-14 09:16",
+        "link": "https://n.news.naver.com/mnews/article/119/0002978728?sid=105"
+    },
+    {
+        "title": "삼성전자, 15일 갤럭시 Z 폴드7·플립7 사전 판매 시작…더 얇고 강해졌...",
+        "date": "2025-07-14 09:16",
+        "link": "https://sateconomy.co.kr/news/view/1065571764285643"
+    },
+    {
+        "title": "인도, AR·VR 기술로 미래를 설계하다",
+        "date": "2025-07-14 09:15",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=231512"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전판매",
+        "date": "2025-07-14 09:15",
+        "link": "http://thetracker.co.kr/View.aspx?No=3710662"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드·플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 09:14",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=89435"
+    },
+    {
+        "title": "11번가, 갤럭시 Z 폴드7·플립7 사전판매 시작",
+        "date": "2025-07-14 09:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=233627"
+    },
+    {
+        "title": "백미당, 제주 애플망고∙수박 담은 여름 과일 디저트 4종 출시… 빙수...",
+        "date": "2025-07-14 09:10",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160947"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 사전 판매 15일 자정 시작",
+        "date": "2025-07-14 09:06",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217711"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드7·Z 플립7 사전 판매 시작",
+        "date": "2025-07-14 09:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576825"
+    },
+    {
+        "title": "‘AI 건강 비서’ 갤럭시 생태계에 합류[ICT]",
+        "date": "2025-07-14 09:05",
+        "link": "https://n.news.naver.com/mnews/article/021/0002722372?sid=101"
+    },
+    {
+        "title": "삼성전자, 15일부터 '갤럭시 Z 폴드7·플립7' 사전 판매",
+        "date": "2025-07-14 09:04",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=113912"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일부터 사전판매",
+        "date": "2025-07-14 09:01",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000075992"
+    },
+    {
+        "title": "백미당, 국내산 애플망고·수박 담은 '여름 과일 시리즈' 출시",
+        "date": "2025-07-14 08:56",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228230"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드·플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 08:52",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=660433"
+    },
+    {
+        "title": "맥북프로, 내년초 업데이트…OLED 기다릴까, 그냥 살까",
+        "date": "2025-07-14 08:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381847?sid=105"
+    },
+    {
+        "title": "신제품 '아이폰17', 9월 19일 美 첫 판매설 '솔솔'[모닝폰]",
+        "date": "2025-07-14 08:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065055?sid=105"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 08:50",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248422"
+    },
+    {
+        "title": "11번가, 삼성 '갤럭시 Z 폴드7 | Z 플립7' 사전판매 라이브 방송",
+        "date": "2025-07-14 08:44",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248420"
+    },
+    {
+        "title": "백미당, 제주 애플망고와 수박 담은 ‘여름 과일 시리즈’ 4종 출시",
+        "date": "2025-07-14 08:38",
+        "link": "http://theviewers.co.kr/View.aspx?No=3710619"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전판매",
+        "date": "2025-07-14 08:32",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=659826"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 15일 사전 판매 시작",
+        "date": "2025-07-14 08:32",
+        "link": "http://theviewers.co.kr/View.aspx?No=3710615"
+    },
+    {
+        "title": "[IT썰]애플, 아이폰 17e 내년 출시 전망…저가형 매년 내놓을 것",
+        "date": "2025-07-14 08:28",
+        "link": "https://n.news.naver.com/mnews/article/008/0005220971?sid=105"
+    },
+    {
+        "title": "제주 애플망고·수박 담았다…백미당, '여름 과일 시리즈' 4종 출시",
+        "date": "2025-07-14 08:28",
+        "link": "https://n.news.naver.com/mnews/article/421/0008367232?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7ㆍZ 플립7' 15일 자정부터 사전판매…공식 출...",
+        "date": "2025-07-14 08:20",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229670"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 08:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=396082"
+    },
+    {
+        "title": "11번가, '갤럭시 Z 폴드7·Z 플립7' 사전판매 라방...특별혜택",
+        "date": "2025-07-14 08:18",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=659818"
+    },
+    {
+        "title": "삼성전자, 더현대 서울에 '갤럭시 팝업스토어' 연다",
+        "date": "2025-07-14 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=359388"
+    },
+    {
+        "title": "11번가, 오늘 밤 갤럭시 Z 폴드7·플립7 사전판매 시작... 라이브 방송 ...",
+        "date": "2025-07-14 08:14",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=434386"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7•Z 플립7' 15일 자정부터 사전 판매 시작",
+        "date": "2025-07-14 08:08",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=63608"
+    },
+    {
+        "title": "접힌 두께 단 8.9mm! 갤럭시 Z 폴드7, 폴더블폰의 경계를 다시 쓰다",
+        "date": "2025-07-14 07:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533439"
+    },
+    {
+        "title": "삼성전자, '폴드7' 글로벌 마케팅 돌입…영국선 100일 환불 약속",
+        "date": "2025-07-14 07:43",
+        "link": "https://n.news.naver.com/mnews/article/031/0000948270?sid=105"
+    },
+    {
+        "title": "[더벨]삼성 파운드리, 가동률 저하 해법 '빅테크 수주'",
+        "date": "2025-07-14 07:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507110032061990104965"
+    },
+    {
+        "title": "[출근길 포인트] 李대통령, 본격 특사외교… EU 윤여준·佛 강금실·英 ...",
+        "date": "2025-07-14 07:30",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257885"
+    },
+    {
+        "title": "'두 번' 접는 폰, 곧 실물 영접?…더 확고해진 삼성의 자신감",
+        "date": "2025-07-14 07:20",
+        "link": "https://n.news.naver.com/mnews/article/648/0000037845?sid=101"
+    },
+    {
+        "title": "[바닥 찍은 삼성] 엑시노스 탑재하는 플립…MX사업부, 해피엔딩 맞을까",
+        "date": "2025-07-14 07:02",
+        "link": "https://news.dealsitetv.com/articles/156526"
+    },
+    {
+        "title": "교실에 확산되는 VR·AR, 메타버스 대중화의 물꼬 트나",
+        "date": "2025-07-14 07:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=761197"
+    },
+    {
+        "title": "우산 챙겨 댕댕이 자는 중 먼저 말 걸며 술술…눈치 100단 삼성 AI",
+        "date": "2025-07-14 07:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005220954?sid=105"
+    },
+    {
+        "title": "애플은 왜 AI 패권서 밀렸나",
+        "date": "2025-07-14 06:50",
+        "link": "https://n.news.naver.com/mnews/article/648/0000037843?sid=105"
+    },
+    {
+        "title": "[넥스트기어] 갤럭시 Z 폴드7, 두께 48% 감량의 비밀은?",
+        "date": "2025-07-14 06:22",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202507111039268110293"
+    },
+    {
+        "title": "[마감 후] 7세대 폴더블폰에 담긴 삼성의 진짜 메시지",
+        "date": "2025-07-14 05:02",
+        "link": "https://www.etoday.co.kr/news/view/2487183"
+    },
+    {
         "title": "삼성전자, 더현대 서울에 '갤Z7 핵심 기능' 체험 공간 열었다",
         "date": "2025-07-14 04:34",
         "link": "https://www.apnews.kr/news/articleView.html?idxno=3037355"
@@ -118,6 +833,11 @@
         "title": "삼성전자, 더 현대 서울서 '갤럭시 스튜디오' 오픈",
         "date": "2025-07-13 14:48",
         "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=31401"
+    },
+    {
+        "title": "‘갤럭시 Z7·워치8’ 체험공간, 더현대서울·홍대·강남에 오픈",
+        "date": "2025-07-13 14:48",
+        "link": "https://www.ekn.kr/web/view.php?key=20250713025045743"
     },
     {
         "title": "삼성전자, 갤럭시Z 폴드7 체험 스튜디오 오픈",
