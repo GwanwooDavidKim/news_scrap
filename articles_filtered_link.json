@@ -1,5 +1,945 @@
 [
     {
+        "title": "LGD, OLED 업고 실적 개선…하반기 재무건전성 '청신호'",
+        "date": "2025-07-25 13:00",
+        "link": "https://n.news.naver.com/mnews/article/293/0000070257?sid=101"
+    },
+    {
+        "title": "애플, 통합 보장 서비스 '애플케어 원' 공개…'가성비 vs 조건 까다로워...",
+        "date": "2025-07-25 13:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320052"
+    },
+    {
+        "title": "[CNB뉴스 위클리픽-전자] 삼성전자, ‘갤럭시 Z 폴드7·Z 플립7’ 사전판...",
+        "date": "2025-07-25 12:30",
+        "link": "https://www.cnbnews.com/news/article.html?no=740328"
+    },
+    {
+        "title": "‘폴더블 기록’ 갈아치운 갤럭시Z 7 시리즈…25일 정식 출시",
+        "date": "2025-07-25 12:09",
+        "link": "https://n.news.naver.com/mnews/article/011/0004513499?sid=101"
+    },
+    {
+        "title": "KAIST, 단 하나의 패킷으로 스마트폰 마비시키는 보안 취약점 발견",
+        "date": "2025-07-25 12:02",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4040408"
+    },
+    {
+        "title": "조작된 패킷 하나로 스마트폰 통신 마비 가능...KAIST, 보안 취약점 발견",
+        "date": "2025-07-25 11:58",
+        "link": "http://www.boannews.com/media/view.asp?idx=138349&kind="
+    },
+    {
+        "title": "삼성전자, 10개 제품 '2025 올해의 녹색상품' 선정",
+        "date": "2025-07-25 11:54",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=108806"
+    },
+    {
+        "title": "KAIST,스마트폰 마비시키는 보안 취약점 발견…보안 테스팅 표준화 입...",
+        "date": "2025-07-25 11:54",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=108803"
+    },
+    {
+        "title": "美서 무제한 수리 서비스 내놓은 애플…한국은?",
+        "date": "2025-07-25 11:53",
+        "link": "https://n.news.naver.com/mnews/article/374/0000453859?sid=101"
+    },
+    {
+        "title": "올 가을 공개 앞둔 '애플 iOS 26', 어떤 변화가 있을까?",
+        "date": "2025-07-25 11:52",
+        "link": "https://www.m-economynews.com/news/article.html?no=57710"
+    },
+    {
+        "title": "애플·삼성 등 스마트폰 보안 취약점 11개 발견…4개는 미해결",
+        "date": "2025-07-25 11:51",
+        "link": "https://n.news.naver.com/mnews/article/584/0000033553?sid=105"
+    },
+    {
+        "title": "[시사이슈] 삼성전자, 더 얇고 똑똑해진 '갤럭시 Z 폴드7·플립7'과 '워치...",
+        "date": "2025-07-25 11:50",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=70433"
+    },
+    {
+        "title": "‘OLED 올인’ 삼성·LG, 中 가성비 미니 LED 공세에 주춤",
+        "date": "2025-07-25 11:49",
+        "link": "https://n.news.naver.com/mnews/article/021/0002725249?sid=101"
+    },
+    {
+        "title": "KAIST, 스마트폰 통신 모뎀 심각한 보안 취약점 발견",
+        "date": "2025-07-25 11:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002505112?sid=105"
+    },
+    {
+        "title": "예판서 대박 난 삼성 갤럭시Z폴드7·플립7, 글로벌 시장 출격",
+        "date": "2025-07-25 11:38",
+        "link": "https://n.news.naver.com/mnews/article/629/0000410787?sid=105"
+    },
+    {
+        "title": "Samsung, LG tighten grip on high-end OLED market with iPhone 17 supply",
+        "date": "2025-07-25 11:34",
+        "link": "https://n.news.naver.com/mnews/article/044/0000272740?sid=104"
+    },
+    {
+        "title": "“첨단 디스플레이 기술 보러 가자”…디스플레이협회, ‘투명 OLED’ 특...",
+        "date": "2025-07-25 11:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025072511281279865"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z폴드7·Z플립7·워치8’ 국내 출시",
+        "date": "2025-07-25 11:28",
+        "link": "https://www.viva100.com/article/20250725500399"
+    },
+    {
+        "title": "갤럭시 S25 시리즈, 역대 최단 흥행 돌파",
+        "date": "2025-07-25 11:24",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=410067"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·Z 플립7’ 및 워치8 시리즈 국내 출시",
+        "date": "2025-07-25 11:22",
+        "link": "https://www.hellot.net/news/article.html?no=103647"
+    },
+    {
+        "title": "애플, '에어팟 프로2·에어팟4' 공개 베타 펌웨어 출시",
+        "date": "2025-07-25 11:22",
+        "link": "https://kbench.com/?q=node/269765"
+    },
+    {
+        "title": "단 1패킷에 스마트폰 무력화…카이스트, 통신 보안 취약점 발견",
+        "date": "2025-07-25 11:22",
+        "link": "https://byline.network/?p=9004111222572205"
+    },
+    {
+        "title": "대상다이브스 복음자리, ‘잼다운 잼 애플시나몬’ 출시",
+        "date": "2025-07-25 11:20",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=184443"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 폴드·플립7' '갤럭시 워치8·클래식' 국내 출시",
+        "date": "2025-07-25 11:18",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=121317"
+    },
+    {
+        "title": "갤럭시 Z 폴드·플립7·워치8 국내 상륙…'AI 폼팩터' 승부수",
+        "date": "2025-07-25 11:16",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=697638"
+    },
+    {
+        "title": "[박승찬의 차이나 포커스(68)] 제3회 중국 공급망 박람회 3대 관전 포인...",
+        "date": "2025-07-25 11:16",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=96130"
+    },
+    {
+        "title": "삼성, 104만대 ‘폴더블 열풍’ 재점화..Z 폴드7·플립7·워치8 동시 상...",
+        "date": "2025-07-25 11:08",
+        "link": "http://kpenews.com/View.aspx?No=3725107"
+    },
+    {
+        "title": "삼성 '갤 폴드·플립7' 정식 출시…'워치8' 동시 판매",
+        "date": "2025-07-25 11:08",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025072511064637075ed985c7c5_23"
+    },
+    {
+        "title": "KAIST, 단 하나의 패킷으로 스마트폰 마비시키는 보안 취약점 발견",
+        "date": "2025-07-25 11:08",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2308224"
+    },
+    {
+        "title": "삼성전자 최원준 사장 갤럭시S26에 '엑시노스2600' 탑재 평가중, 애플 ...",
+        "date": "2025-07-25 11:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404965"
+    },
+    {
+        "title": "KAIST·경희대, 스마트폰 통신 마비시키는 치명적 취약점 발견…모뎀 보...",
+        "date": "2025-07-25 11:06",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=168289"
+    },
+    {
+        "title": "'사전판매 흥행' 갤럭시 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 11:06",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85136"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드·플립7 국내 정식 출시",
+        "date": "2025-07-25 11:06",
+        "link": "https://n.news.naver.com/mnews/article/366/0001095530?sid=105"
+    },
+    {
+        "title": "디스플레이협회, 투명 OLED 대전 국립중앙과학관 특별 전시",
+        "date": "2025-07-25 11:03",
+        "link": "https://n.news.naver.com/mnews/article/008/0005226871?sid=101"
+    },
+    {
+        "title": "'사전판매 신기록' 삼성전자 갤럭시Z 폴드·플립7, 오늘 출시",
+        "date": "2025-07-25 11:02",
+        "link": "https://n.news.naver.com/mnews/article/079/0004049065?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 재무 건전성 개선...하반기 실적 반등 예고",
+        "date": "2025-07-25 11:00",
+        "link": "https://n.news.naver.com/mnews/article/031/0000951805?sid=105"
+    },
+    {
+        "title": "KAIST, 단 하나의 패킷으로 스마트폰 마비시키는 보안 취약점 발견",
+        "date": "2025-07-25 11:00",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2089398"
+    },
+    {
+        "title": "하나의 패킷만으로 통신 마비 가능 스마트폰 보안 취약점 발견",
+        "date": "2025-07-25 10:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015529253?sid=105"
+    },
+    {
+        "title": "디스플레이협회, 대전 국립중앙과학관서 '투명 OLED' 특별전시",
+        "date": "2025-07-25 10:57",
+        "link": "https://n.news.naver.com/mnews/article/277/0005628096?sid=101"
+    },
+    {
+        "title": "폴더블 전쟁 개막···갤럭시 Z 폴드7·플립7, 104만 대로 시작부터 '압...",
+        "date": "2025-07-25 10:56",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2308206"
+    },
+    {
+        "title": "갤Z폴드·플립7 글로벌 출격...삼성 '폴더블 리더십' 굳힌다",
+        "date": "2025-07-25 10:54",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671917"
+    },
+    {
+        "title": "'상반기 실적 개선' LG디스플레이, OLED로 4년 만에 흑자 전환 기대",
+        "date": "2025-07-25 10:54",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081906?sid=101"
+    },
+    {
+        "title": "삼성전자, 'Z 폴드·플립7' 국내 출시… 사전 판매 역대 최대",
+        "date": "2025-07-25 10:54",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=249794"
+    },
+    {
+        "title": "삼성 갤럭시 Z폴드7·Z 플립7 국내 출격…사전판매만 104만대",
+        "date": "2025-07-25 10:53",
+        "link": "https://n.news.naver.com/mnews/article/422/0000763790?sid=101"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z 폴드7·플립7', '워치8 시리즈' 정식 출시",
+        "date": "2025-07-25 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144687"
+    },
+    {
+        "title": "갤럭시 폴드·플립7·워치8 국내 정식 출시…사전판매 흥행 이어갈까",
+        "date": "2025-07-25 10:49",
+        "link": "https://n.news.naver.com/mnews/article/374/0000453821?sid=101"
+    },
+    {
+        "title": "삼성전자, 역대급 사전판매 ‘갤럭시Z 폴드7·플립7’ 국내 출시",
+        "date": "2025-07-25 10:49",
+        "link": "https://n.news.naver.com/mnews/article/005/0001791962?sid=101"
+    },
+    {
+        "title": "디스플레이協, 대전 국립중앙과학관에 투명 OLED 전시",
+        "date": "2025-07-25 10:48",
+        "link": "https://n.news.naver.com/mnews/article/030/0003335153?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7·Z 플립7' 및 '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 10:46",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72445"
+    },
+    {
+        "title": "투명 OLED, 국립중앙과학관서 실증 전시...디스플레이 신시장 개척",
+        "date": "2025-07-25 10:39",
+        "link": "https://n.news.naver.com/mnews/article/119/0002983594?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7·플립7·워치8 시리즈' 국내 출시...슬림 하드...",
+        "date": "2025-07-25 10:36",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=164214"
+    },
+    {
+        "title": "'104만대 사전판매' 삼성전자, 갤럭시 Z 폴드7·Z 플립7...국내 정식 출...",
+        "date": "2025-07-25 10:36",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35969"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7·워치8' 국내 출시",
+        "date": "2025-07-25 10:36",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=832951"
+    },
+    {
+        "title": "경상국립대 GADIST, '최신 디스플레이 및 에너지 기술 세미나' 개최",
+        "date": "2025-07-25 10:36",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=564873"
+    },
+    {
+        "title": "더 얇게 더 강하게, 갤럭시 Z7·워치8 나왔다",
+        "date": "2025-07-25 10:34",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=68010"
+    },
+    {
+        "title": "디스플레이협회, 대전 국립중앙과학관서 '투명 OLED' 특별전시",
+        "date": "2025-07-25 10:34",
+        "link": "https://n.news.naver.com/mnews/article/001/0015529170?sid=101"
+    },
+    {
+        "title": "구글·BMW코리아 등 국내 진출 글로벌기업 과세권 확보 나선다[세제, 이...",
+        "date": "2025-07-25 10:33",
+        "link": "https://n.news.naver.com/mnews/article/277/0005628078?sid=101"
+    },
+    {
+        "title": "투명 OLED로 미래 연다…디스플레이산업協, 실증 프로젝트 공개",
+        "date": "2025-07-25 10:32",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671912"
+    },
+    {
+        "title": "역대 최다 사전 판매…갤럭시Z 폴드7·플립7 국내 출시",
+        "date": "2025-07-25 10:32",
+        "link": "https://kbench.com/?q=node/269761"
+    },
+    {
+        "title": "디스플레이협회, 국립중앙과학관서 투명 OLED 특별 전시",
+        "date": "2025-07-25 10:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006073903?sid=101"
+    },
+    {
+        "title": "삼성전자, 슬림 하드웨어 혁신 '갤럭시Z폴드·플립7' 국내 출시",
+        "date": "2025-07-25 10:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404959"
+    },
+    {
+        "title": "정철동의 OLED 드라이브, LG디스플레이 실적 반전 이끌까",
+        "date": "2025-07-25 10:30",
+        "link": "https://hobbyen-news.com/news/view/1065575635804855"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·Z 플립7∙갤럭시 워치8 국내 출시",
+        "date": "2025-07-25 10:28",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38617"
+    },
+    {
+        "title": "폴더블 새 역사 쓸까… 갤Z폴드·플립7 국내 공식 출시",
+        "date": "2025-07-25 10:28",
+        "link": "https://n.news.naver.com/mnews/article/022/0004054685?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 국내 출시…사전판매 104만대 돌파",
+        "date": "2025-07-25 10:28",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=184417"
+    },
+    {
+        "title": "'사전 판매 흥행' 갤럭시 Z폴드7·Z플립7·워치8 국내 출시",
+        "date": "2025-07-25 10:28",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=72721"
+    },
+    {
+        "title": "LG디스플레이 적자에… LX·LB세미콘, 연쇄 피해 '눈덩이' [윤아름의 플...",
+        "date": "2025-07-25 10:28",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/25/2025072500105.html"
+    },
+    {
+        "title": "[특징주] LG디스플레이, OLED 중심 체질 개선 기대감에 8%대 '강세'",
+        "date": "2025-07-25 10:22",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=332426"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7∙Z 플립7∙워치8 국내 출시",
+        "date": "2025-07-25 10:16",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=83168"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 및 '갤럭시 워치8 시리즈' 국내",
+        "date": "2025-07-25 10:14",
+        "link": "https://www.fetv.co.kr/news/article.html?no=197574"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z7ㆍ워치8' 시리즈 신제품 국내 정식 출시",
+        "date": "2025-07-25 10:12",
+        "link": "https://www.etoday.co.kr/news/view/2491176"
+    },
+    {
+        "title": "'애플' iOS 26 공개 베타 출시…2013년 이후 최대 디자인 변화",
+        "date": "2025-07-25 10:10",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15746429"
+    },
+    {
+        "title": "'사전판매 신기록' 갤럭시 Z폴드·플립7, 오늘 국내 공식 출시",
+        "date": "2025-07-25 10:06",
+        "link": "https://n.news.naver.com/mnews/article/277/0005628029?sid=105"
+    },
+    {
+        "title": "삼성전자, '폴드7·플립7·워치8' 오늘 국내 상륙",
+        "date": "2025-07-25 10:06",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1269630&inflow=N"
+    },
+    {
+        "title": "1030 몰리더니 없어서 못 팔 수도…삼성 폴더블폰 '역대급 반응'",
+        "date": "2025-07-25 10:04",
+        "link": "https://n.news.naver.com/mnews/article/015/0005162623?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7·워치8 오늘부터 국내 출시",
+        "date": "2025-07-25 10:02",
+        "link": "https://n.news.naver.com/mnews/article/421/0008391990?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7·워치8' 국내 본격 출시...역대급 흥행...",
+        "date": "2025-07-25 10:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250725095146"
+    },
+    {
+        "title": "삼성, 갤럭시Z 폴드7·플립7 25일 국내 출시",
+        "date": "2025-07-25 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=175835"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, '갤럭시 Z 폴드7·Z 플립7' '갤럭시 워치8·워치...",
+        "date": "2025-07-25 09:58",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=712852"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 국내 출시",
+        "date": "2025-07-25 09:58",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=856652"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z폴드7·플립7' 국내 출시",
+        "date": "2025-07-25 09:54",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=86766"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·Z 플립7’·‘갤럭시 워치8’ 국내 출시…...",
+        "date": "2025-07-25 09:52",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202507250950324991de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 역대 최다 사전판매 갤럭시 폴드·플립7 국내 출시",
+        "date": "2025-07-25 09:50",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74865"
+    },
+    {
+        "title": "갤폴드·플립7 사전판매 104만대 팔렸다…오늘 정식 출시",
+        "date": "2025-07-25 09:48",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273413"
+    },
+    {
+        "title": "[포토 직썰] 삼성전자 '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8' 출시...",
+        "date": "2025-07-25 09:48",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=98366"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드·Z 플립7·워치8, 국내 출시",
+        "date": "2025-07-25 09:48",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=99820"
+    },
+    {
+        "title": "'갤럭시 Z7 시리즈' 오늘 국내 출시…하드웨어 혁신",
+        "date": "2025-07-25 09:46",
+        "link": "https://n.news.naver.com/mnews/article/215/0001217592?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7','갤럭시 워치8·워치8 클래식' 국내...",
+        "date": "2025-07-25 09:44",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202507250939013525be44c0aacd_30"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z폴드·플립7 워치8·클래식' 출시",
+        "date": "2025-07-25 09:44",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=260452"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 09:42",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3860433"
+    },
+    {
+        "title": "삼성전자, 역대 최다 사전판매 '갤럭시 Z 폴드7·플립7' 국내 출시",
+        "date": "2025-07-25 09:40",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3015699"
+    },
+    {
+        "title": "맥은 여전히 중요한가?",
+        "date": "2025-07-25 09:40",
+        "link": "https://www.itworld.co.kr/article/4028460/맥은-여전히-중요한가.html"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 09:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201371?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드7·Z 플립7, 갤럭시 워치8·워치8 클래식 국내 출시",
+        "date": "2025-07-25 09:38",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240620"
+    },
+    {
+        "title": "아이폰·아이패드·워치 통합 보장 '애플케어 원' 출시...한국은?",
+        "date": "2025-07-25 09:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003335099?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 09:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=88011"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z폴드·플립7과 워치8 국내 출시",
+        "date": "2025-07-25 09:34",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507250900525647290c42db76_1/article.html"
+    },
+    {
+        "title": "애플, 아이폰 새 소프트웨어 iOS 26 공개 테스트 버전 출시",
+        "date": "2025-07-25 09:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015528953?sid=104"
+    },
+    {
+        "title": "사전판매 기록 다시 쓴 '갤럭시 Z 폴드7·플립7' 국내 출시…폴더블 기...",
+        "date": "2025-07-25 09:30",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=737122"
+    },
+    {
+        "title": "LG디스플레이, 상반기 매출 11조6,523억 원, 영업손실 826억 원",
+        "date": "2025-07-25 09:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=106956"
+    },
+    {
+        "title": "‘사전 판매 흥행’ 갤럭시 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:30",
+        "link": "https://n.news.naver.com/mnews/article/081/0003560889?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z 폴드7·Z 플립7, 갤럭시 워치8 시리즈 국내 출시",
+        "date": "2025-07-25 09:28",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=531882"
+    },
+    {
+        "title": "삼성, 갤럭시 Z 폴드7·Z 플립7·워치8 시리즈 국내 출시",
+        "date": "2025-07-25 09:28",
+        "link": "https://n.news.naver.com/mnews/article/031/0000951734?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시Z폴드7·플립7 정식 출시...사전판매 104만대 인기",
+        "date": "2025-07-25 09:28",
+        "link": "https://n.news.naver.com/mnews/article/092/0002383476?sid=105"
+    },
+    {
+        "title": "사전예약 104만대 팔린 '갤럭시 Z 폴드·플립7', 오늘 국내 출시",
+        "date": "2025-07-25 09:27",
+        "link": "https://n.news.naver.com/mnews/article/119/0002983508?sid=101"
+    },
+    {
+        "title": "'역대급 신작' 삼성 Z폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:26",
+        "link": "https://www.newspim.com/news/view/20250725000112"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z폴드·플립7, 워치8·클래식' 국내 출시",
+        "date": "2025-07-25 09:22",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2091387"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블·갤럭시 워치8 시리즈 공식 출시",
+        "date": "2025-07-25 09:22",
+        "link": "https://www.m-economynews.com/news/article.html?no=57696"
+    },
+    {
+        "title": "삼성전자, 경량화 폴더블 '갤럭시 Z' 시리즈 출시",
+        "date": "2025-07-25 09:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579987"
+    },
+    {
+        "title": "역대 최다 사전판매… 삼성 갤럭시 Z 폴드7·플립7 국내 상륙",
+        "date": "2025-07-25 09:22",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3047380"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7·플립7·워치8' 국내 출시",
+        "date": "2025-07-25 09:20",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=90617"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7·갤럭시 워치8 시리즈' 국내 출시",
+        "date": "2025-07-25 09:20",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=92859"
+    },
+    {
+        "title": "판매 신기록 '폴드·플립7' 국내 출시…'워치8'도 동반 출격",
+        "date": "2025-07-25 09:20",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=804825"
+    },
+    {
+        "title": "본격 시판 삼성전자 갤럭시Z7 단통법 폐지로 가격 천차만별",
+        "date": "2025-07-25 09:20",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=333004"
+    },
+    {
+        "title": "삼성, ‘AI헬스코치’ 갤럭시 워치8 출시...41만9000원부터",
+        "date": "2025-07-25 09:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006073794?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7·플립7·워치8 시리즈' 국내 출시",
+        "date": "2025-07-25 09:16",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=240150"
+    },
+    {
+        "title": "사전판매 신기록 삼성전자, 갤Z 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=704914"
+    },
+    {
+        "title": "삼성전자, '사전 판매 흥행' 갤럭시 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:14",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=19776"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7'·'갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 09:12",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=78518"
+    },
+    {
+        "title": "'역대 최다 사전판매' 갤럭시 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:12",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=249305"
+    },
+    {
+        "title": "'덕후' 사로잡은  '갤럭시 Z 폴드7·Z 플립7' 대중 만나는 지금부터가 승...",
+        "date": "2025-07-25 09:11",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=702058"
+    },
+    {
+        "title": "'역대급 디자인' 삼성전자, 갤럭시 Z폴드7·Z 플립7·워치8 국내 출시",
+        "date": "2025-07-25 09:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/25/2025072500044.html"
+    },
+    {
+        "title": "KAIST “스마트폰 마비시키는 보안 취약점 발견”",
+        "date": "2025-07-25 09:10",
+        "link": "https://n.news.naver.com/mnews/article/011/0004513418?sid=105"
+    },
+    {
+        "title": "[더벨]삼성전자, 이례적 'Z폴드 흥행'의 양면성",
+        "date": "2025-07-25 09:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507230942240640108019"
+    },
+    {
+        "title": "[더벨][트럼프 스톰, 표류하는 전자업계]삼성전자, 품목관세 융단폭격 ...",
+        "date": "2025-07-25 09:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507211504406360104754"
+    },
+    {
+        "title": "삼성 '갤럭시Z폴드·플립7', '워치8' 국내 출시",
+        "date": "2025-07-25 09:06",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2089392"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 국내 출시",
+        "date": "2025-07-25 09:04",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=114287"
+    },
+    {
+        "title": "삼성전자, 역대급 사전판매 '폴드·플립7·워치8' 국내 출시",
+        "date": "2025-07-25 09:04",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=106958"
+    },
+    {
+        "title": "[더벨][IR Briefing]'2분기 적자' LGD, 하반기 '북미 효과' 믿는다",
+        "date": "2025-07-25 09:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507241458320720102227"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드 7·플립 7' 국내 출시",
+        "date": "2025-07-25 09:02",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=658641"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드·플립7'·'워치8' 국내 출시",
+        "date": "2025-07-25 09:02",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181922"
+    },
+    {
+        "title": "역대 최고 흥행 '갤럭시 Z 폴드7', 인기 비결은",
+        "date": "2025-07-25 09:02",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89458"
+    },
+    {
+        "title": "LG 디스플레이, 상반기 실적 개선 이어 하반기 성장 기대",
+        "date": "2025-07-25 09:02",
+        "link": "https://www.asiatime.co.kr/article/20250724500365"
+    },
+    {
+        "title": "삼성전자, 갤럭시 '폴드7·플립7'과 '워치8·워치8 클래식' 국내 출시",
+        "date": "2025-07-25 09:00",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139867"
+    },
+    {
+        "title": "단 하나 패킷 조작만으로 스마트폰 무력화…KAIST, '보안 취약점' 발견",
+        "date": "2025-07-25 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=175833"
+    },
+    {
+        "title": "'제스토리' 론칭…유기농 애플사이다비니거 스틱으로 시장 공략",
+        "date": "2025-07-25 09:00",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=509501"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7·Z 플립7·워치8' 국내 출시",
+        "date": "2025-07-25 08:58",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3297747"
+    },
+    {
+        "title": "카이스트, 스마트폰 마비시키는 심각한 '보안 취약점' 발견",
+        "date": "2025-07-25 08:58",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=262887"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:56",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=404635"
+    },
+    {
+        "title": "삼성전자, ‘역대급 흥행’ 갤Z폴드7·플립7 국내 출시",
+        "date": "2025-07-25 08:56",
+        "link": "https://n.news.naver.com/mnews/article/016/0002504849?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:54",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=437714"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:52",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534005"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7·Z 플립7·워치8' 국내 출시",
+        "date": "2025-07-25 08:48",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=190691"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7·플립7·워치8 시리즈' 국내 정식 출시",
+        "date": "2025-07-25 08:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1248515"
+    },
+    {
+        "title": "7월 24일 주식시장 주요공시",
+        "date": "2025-07-25 08:44",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=112399"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:44",
+        "link": "https://n.news.naver.com/mnews/article/014/0005382343?sid=105"
+    },
+    {
+        "title": "'사전 판매 흥행' 갤럭시 폴드·플립7·워치8 국내 출시",
+        "date": "2025-07-25 08:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0015528840?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z7 시리즈' 국내 정식 출시",
+        "date": "2025-07-25 08:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=362882"
+    },
+    {
+        "title": "삼성·애플·구글·샤오미 스마트폰 15종, “다 뚫렸다”…통신마비 ‘...",
+        "date": "2025-07-25 08:37",
+        "link": "https://n.news.naver.com/mnews/article/016/0002504829?sid=105"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드7·플립7 국내 공식 출시 ....역대 최다 사전판...",
+        "date": "2025-07-25 08:36",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71624"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:36",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000076728"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 및 '갤럭시 워치8 시리즈' 국내 출...",
+        "date": "2025-07-25 08:36",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=161950"
+    },
+    {
+        "title": "단 하나의 패킷으로 스마트폰 마비시키는 보안 취약점 발견",
+        "date": "2025-07-25 08:36",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200958"
+    },
+    {
+        "title": "KAIST, 단 하나의 패킷으로 스마트폰 마비시키는 보안 취약점 발견",
+        "date": "2025-07-25 08:36",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=564817"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 국내 출시",
+        "date": "2025-07-25 08:33",
+        "link": "http://thetracker.co.kr/View.aspx?No=3724817"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 국내 출시",
+        "date": "2025-07-25 08:30",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=218860"
+    },
+    {
+        "title": "삼성 차세대 폴더블폰 '갤Z폴드7·플립7' 국내 상륙",
+        "date": "2025-07-25 08:28",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1264114"
+    },
+    {
+        "title": "'갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국내 출시",
+        "date": "2025-07-25 08:28",
+        "link": "https://www.ajunews.com/view/20250725082230736"
+    },
+    {
+        "title": "갤폴드·플립7 사전판매 104만대 팔렸다…오늘 정식 출시",
+        "date": "2025-07-25 08:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013384112?sid=105"
+    },
+    {
+        "title": "삼성 '폴드7·플립7·워치8' 25일 국내 출시...역대급 흥행 예고",
+        "date": "2025-07-25 08:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005226761?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:26",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=64259"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=397721"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z폴드7·Z플립7, 워치8 시리즈 국내 출시",
+        "date": "2025-07-25 08:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=764111"
+    },
+    {
+        "title": "[더벨][이노테크 IPO]신규 고객사, SK하이닉스 확보 '공급망 확장'",
+        "date": "2025-07-25 08:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507231715263320104444"
+    },
+    {
+        "title": "폴더블 기술혁신 삼성전자, '갤럭시 Z 폴드7·Z 플립7'ㆍ'갤럭시 워치...",
+        "date": "2025-07-25 08:18",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=230373"
+    },
+    {
+        "title": "역대 최다 사전판매…삼성 갤럭시 Z 폴드7·플립7 국내 출시",
+        "date": "2025-07-25 08:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671879"
+    },
+    {
+        "title": "“중국의 허풍”…삼성 폰보다 얇다던 중국 폴더블폰 측정해보니 ‘과...",
+        "date": "2025-07-25 08:13",
+        "link": "https://n.news.naver.com/mnews/article/009/0005530899?sid=105"
+    },
+    {
+        "title": "KAIST 패킷 하나로도 스마트폰 마비, '보안 취약점' 발견",
+        "date": "2025-07-25 08:13",
+        "link": "https://n.news.naver.com/mnews/article/277/0005627872?sid=102"
+    },
+    {
+        "title": "삼성전자, '역대 최다 104만대 사전판매' 갤럭시 Z 폴드7·플립7 출시",
+        "date": "2025-07-25 08:12",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=50550"
+    },
+    {
+        "title": "삼성, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 출시",
+        "date": "2025-07-25 08:12",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=663283"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시Z 폴드7·Z 플립7·워치8’ 국내 출시",
+        "date": "2025-07-25 08:12",
+        "link": "http://theviewers.co.kr/View.aspx?No=3724802"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013384087?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013384088?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013384089?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7', '갤럭시 워치8·워치8 클래식' 국...",
+        "date": "2025-07-25 08:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013384086?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·Z 플립7·워치8 시리즈 국내 출시",
+        "date": "2025-07-25 08:10",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=34738"
+    },
+    {
+        "title": "LGD, OLED 체질 개선 가시화…연간 흑자 전환",
+        "date": "2025-07-25 08:02",
+        "link": "https://dealsite.co.kr/articles/145262"
+    },
+    {
+        "title": "ITC가 흔든 OLED 주도권···한국 '기회' vs 중국 '타격'",
+        "date": "2025-07-25 08:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2308054"
+    },
+    {
+        "title": "카이스트, '패킷 한개로 스마트폰 마비' 보안 취약점 발견",
+        "date": "2025-07-25 07:52",
+        "link": "https://news.mtn.co.kr/news-detail/2025072507450583595"
+    },
+    {
+        "title": "[코스피·코스닥, SK하이닉스 LG전자 현대차 크래프톤 국민은행 삼성중...",
+        "date": "2025-07-25 07:40",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=64249"
+    },
+    {
+        "title": "갤럭시Z 플립7에 자체 칩 투입한 삼성 전략 통할까?",
+        "date": "2025-07-25 07:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579424"
+    },
+    {
+        "title": "[이너써클] [삼성전자] '기술통' 전경훈, DX부문 차기 리더로 부상",
+        "date": "2025-07-25 07:02",
+        "link": "https://news.dealsitetv.com/articles/157022"
+    },
+    {
+        "title": "LGD 2분기 실적발표, 영업손실 1,160억원…전년비 영업손익 개선",
+        "date": "2025-07-25 07:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=175827"
+    },
+    {
+        "title": "TV에 모니터도 안 팔린다…수익성 강화·비용 통제 나선 가전업계",
+        "date": "2025-07-25 06:12",
+        "link": "https://n.news.naver.com/mnews/article/008/0005226739?sid=101"
+    },
+    {
+        "title": "[PLAY IT] '아재폰의 대반란' 갤Z폴드7…이러다 MZ폰 되겠네",
+        "date": "2025-07-25 06:11",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201358?sid=105"
+    },
+    {
+        "title": "코스피·코스닥 전 거래일(24일) 주요공시는?... LG전자, 자사주 602억원...",
+        "date": "2025-07-25 06:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=362835"
+    },
+    {
+        "title": "[코스피·코스닥 전 거래일(24일) 주요공시]",
+        "date": "2025-07-25 06:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0015528729?sid=101"
+    },
+    {
+        "title": "中 4대 폴더블 업체 싹 다 걸렸다…“실측이 더 두꺼워”",
+        "date": "2025-07-25 06:04",
+        "link": "https://n.news.naver.com/mnews/article/022/0004054625?sid=101"
+    },
+    {
         "title": "삼성폰보다 더 얇다더니…中폴더블폰, 낯 '두꺼운' 거짓말 들통",
         "date": "2025-07-25 05:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005226702?sid=105"
@@ -535,11 +1475,6 @@
         "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=117860"
     },
     {
-        "title": "LG디스플레이 2분기 적자 전환…영업손실 1160억원",
-        "date": "2025-07-24 15:18",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=697524"
-    },
-    {
         "title": "[컨콜] LG디스플레이 올해 OLED 모니터 비중 대형 내 10% 상회",
         "date": "2025-07-24 15:18",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1248206"
@@ -920,14 +1855,14 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003334883?sid=105"
     },
     {
-        "title": "LG디스플레이, 2분기 영업손실 1160억원...적자전환",
-        "date": "2025-07-24 13:49",
-        "link": "https://n.news.naver.com/mnews/article/119/0002983129?sid=101"
-    },
-    {
         "title": "LGD, 연간 턴어라운드 눈앞...中공장 매각에 2분기 8908억 흑자",
         "date": "2025-07-24 13:49",
         "link": "https://n.news.naver.com/mnews/article/029/0002970741?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 2분기 영업손실 1160억원...적자전환",
+        "date": "2025-07-24 13:49",
+        "link": "https://n.news.naver.com/mnews/article/119/0002983129?sid=101"
     },
     {
         "title": "대상다이브스 복음자리, 저칼로리 잼 신제품 애플시나몬 출시",
@@ -1095,14 +2030,14 @@
         "link": "https://kbench.com/?q=node/269713"
     },
     {
-        "title": "대상다이브스 복음자리, 신제품 '잼다운 잼 애플시나몬' 출시",
-        "date": "2025-07-24 09:52",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=98194"
-    },
-    {
         "title": "대상다이브스 복음자리, '잼다운 잼 애플시나몬' 출시...저칼로리 과일...",
         "date": "2025-07-24 09:52",
         "link": "http://www.popcornnews.net/news/articleView.html?idxno=87847"
+    },
+    {
+        "title": "대상다이브스 복음자리, 신제품 '잼다운 잼 애플시나몬' 출시",
+        "date": "2025-07-24 09:52",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=98194"
     },
     {
         "title": "대상다이브스 복음자리, 저당,저칼로리 ‘잼다운 잼 애플시나몬’ 선보...",
@@ -1153,6 +2088,11 @@
         "title": "애플 카플레이 울트라 확산 제동…BMW도 독자 시스템 고수",
         "date": "2025-07-24 09:04",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579528"
+    },
+    {
+        "title": "[더벨][아이티켐 IPO]공모가 밴드 상단 유력, 성장성에 투심 모였다",
+        "date": "2025-07-24 09:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507231607492880106874"
     },
     {
         "title": "관세 불확실성 지속…글로벌 스마트폰 시장 성장 '발목'",
