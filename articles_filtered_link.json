@@ -1,5 +1,100 @@
 [
     {
+        "title": "체험 마케팅, 더 재밌고 특이하게…삼성전자 '종이 캐릭터' vs LG전자 ...",
+        "date": "2025-08-03 13:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142804"
+    },
+    {
+        "title": "미디어 아트의 캔버스는 스크린…작품 위해 브라운관-OLED까지 수소문",
+        "date": "2025-08-03 13:29",
+        "link": "https://n.news.naver.com/mnews/article/020/0003652058?sid=103"
+    },
+    {
+        "title": "애플, 게임 구독 '아케이드' 라인업 확대",
+        "date": "2025-08-03 13:06",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=341385"
+    },
+    {
+        "title": "단통법 폐지에도 '보조금 전쟁' 잠잠… 번호이동도 차분",
+        "date": "2025-08-03 12:00",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3301090"
+    },
+    {
+        "title": "아이티켐 상장·삼양컴텍 공모[증시캘린더]",
+        "date": "2025-08-03 11:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006080395?sid=101"
+    },
+    {
+        "title": "中 맹추격에 위태로운 국내 TV 시장… 프리미엄 시장 확대로 돌파구",
+        "date": "2025-08-03 11:05",
+        "link": "https://n.news.naver.com/mnews/article/366/0001097615?sid=105"
+    },
+    {
+        "title": "알리바바 AI 스마트 안경 '쿼크 비전' 연내 출시… 中 AI 안경 시장 '판...",
+        "date": "2025-08-03 10:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=365135"
+    },
+    {
+        "title": "잘 나가는 마이크로소프트 대규모 '이익 해고', 무슨 일일까?",
+        "date": "2025-08-03 09:04",
+        "link": "https://www.newsverse.kr/news/articleView.html?idxno=8212"
+    },
+    {
+        "title": "자동차 시장서 존재감 커지는 OLED…삼성·LGD 공략 속도",
+        "date": "2025-08-03 08:13",
+        "link": "https://n.news.naver.com/mnews/article/092/0002384543?sid=105"
+    },
+    {
+        "title": "가격 얼마나 오를까? 애플 '아이폰17' 시리즈, 가격 최소 50달러 인상...",
+        "date": "2025-08-03 08:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534360"
+    },
+    {
+        "title": "삼성 폴더블폰, 미국서 '시장 완전 뒤집다'…역대급 흥행 돌풍",
+        "date": "2025-08-03 07:40",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508030732496994fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "HMD, FC 바르셀로나와 노키아 피처폰 中 출시…딥시크AI 탑재",
+        "date": "2025-08-03 07:10",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90103"
+    },
+    {
+        "title": "애플, 아이폰17 시리즈 가격 최소 7만원 인상할 것",
+        "date": "2025-08-03 07:09",
+        "link": "https://n.news.naver.com/mnews/article/015/0005166062?sid=104"
+    },
+    {
+        "title": "美 애플, 중국 시장서 굴욕 당해 [김규환의 핸디 차이나]",
+        "date": "2025-08-03 07:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0002986820?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 탭 S11 시리즈' 하반기 출시 가시화…S10 라이트로 중...",
+        "date": "2025-08-03 07:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201954?sid=105"
+    },
+    {
+        "title": "삼성 파운드리, 하반기 ‘제2의 테슬라’ 잭팟 터뜨릴까",
+        "date": "2025-08-03 06:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002508804?sid=101"
+    },
+    {
+        "title": "애플의 ‘인도산 아이폰’ 전략은 순항할 수 있을까[산업이지]",
+        "date": "2025-08-03 06:00",
+        "link": "https://n.news.naver.com/mnews/article/032/0003386951?sid=105"
+    },
+    {
+        "title": "中 맹추격에 위태로운 TV '초격차'…활로는 프리미엄 시장",
+        "date": "2025-08-03 06:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015545201?sid=101"
+    },
+    {
+        "title": "애플, 아이폰17 가격 올린다…최소 7만원 인상",
+        "date": "2025-08-03 05:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008407572?sid=105"
+    },
+    {
         "title": "[이슈플러스] 실적 반등 애플… AI·중국·공급망 '삼중고' 과제 산적",
         "date": "2025-08-03 02:54",
         "link": "https://n.news.naver.com/mnews/article/030/0003337422?sid=105"
