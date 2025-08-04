@@ -1,5 +1,210 @@
 [
     {
+        "title": "대만서도 새벽 3시에 줄섰다…관심 없다던 '아재폰'의 역습",
+        "date": "2025-08-04 13:45",
+        "link": "https://n.news.naver.com/mnews/article/015/0005166466?sid=105"
+    },
+    {
+        "title": "[K-VIBE] 노석준의 메타버스 세상…메타버스에 발전과 파괴를 묻다-②",
+        "date": "2025-08-04 13:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0015547529?sid=105"
+    },
+    {
+        "title": "'페이페이·골프장 예약까지' 삼성 월렛, 日 디지털 지갑 시장 공략 박차",
+        "date": "2025-08-04 13:34",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90143"
+    },
+    {
+        "title": "팀 쿡, AI 검색 승부수… 애플 '앤서'팀 구축 [윤민혁의 실리콘밸리View...",
+        "date": "2025-08-04 12:50",
+        "link": "https://n.news.naver.com/mnews/article/011/0004517023?sid=105"
+    },
+    {
+        "title": "애플, AI 경쟁력 강화를 위해 대규모 투자 단행…대형 AI 기업 인수도 ...",
+        "date": "2025-08-04 12:22",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98404"
+    },
+    {
+        "title": "서강대 강문성 교수, UNIST 김봉수 교수 연구팀, VR·AR용 OLED 마이크로...",
+        "date": "2025-08-04 11:56",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=92884"
+    },
+    {
+        "title": "애플, 자체 AI 검색엔진 개발 착수...'애플판 챗GPT' 준비 중",
+        "date": "2025-08-04 11:46",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=201199"
+    },
+    {
+        "title": "中TCL, 노트북에도 인쇄형 OLED 도입한다 중형 디스플레이, 큰 기회될 ...",
+        "date": "2025-08-04 11:32",
+        "link": "https://www.ajunews.com/view/20250804103448100"
+    },
+    {
+        "title": "애플, AI 챗봇 수요 과소평가…시리 발전 발목",
+        "date": "2025-08-04 11:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=582372"
+    },
+    {
+        "title": "이순희 강북구청장, 친환경 미래 농업 '애플수박' 스마트팜 재배단지 방...",
+        "date": "2025-08-04 11:20",
+        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=70758"
+    },
+    {
+        "title": "아이폰17 프로·프로맥스, 관세 영향에 50달러 인상 전망",
+        "date": "2025-08-04 11:19",
+        "link": "https://n.news.naver.com/mnews/article/123/0002365166?sid=004"
+    },
+    {
+        "title": "LGD 실적 반등 '날개'...車 디스플레이 시장서 OLED 독점 확대",
+        "date": "2025-08-04 11:18",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=53875"
+    },
+    {
+        "title": "삼성전자, AI폰 대중화 성공...북미·유럽시장 동시 공략 주효했다",
+        "date": "2025-08-04 11:06",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85322"
+    },
+    {
+        "title": "역대급 '초슬림' 아이폰 탄생? 아이폰17 에어 루머 총정리",
+        "date": "2025-08-04 10:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534452"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 정보 속속 유출...확 바뀐다",
+        "date": "2025-08-04 10:26",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=219750"
+    },
+    {
+        "title": "서강대-UNIST, 마이크로디스플레이 구현 '간접 광패터닝' 기술 개발",
+        "date": "2025-08-04 10:24",
+        "link": "https://n.news.naver.com/mnews/article/003/0013401880?sid=102"
+    },
+    {
+        "title": "서강대-UNIST 연구팀, 차세대 VR/AR 디스플레이 핵심 '간접 광패터닝' 기...",
+        "date": "2025-08-04 10:22",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=517761"
+    },
+    {
+        "title": "이엘피케이뉴, 4K UHD 솔루션 출시",
+        "date": "2025-08-04 10:22",
+        "link": "http://www.boannews.com/media/view.asp?idx=138514&kind="
+    },
+    {
+        "title": "서강대-UNIST 공동연구팀, 초고해상도 VR·AR용 OLED 구현 '간접 광패터...",
+        "date": "2025-08-04 10:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=365326"
+    },
+    {
+        "title": "[초점] 삼성전자, 인도서 폴더블폰 현지 생산…'핵심 거점' 투자 가속화",
+        "date": "2025-08-04 09:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508040956155740fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "서강대-UNIST 공동연구팀, 초고해상도 OLED 구현 '간접 광패터닝' 기술 ...",
+        "date": "2025-08-04 09:35",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2311571"
+    },
+    {
+        "title": "'챗봇 안해'했던 애플, 입장 바꿨다…내부 '엔써팀' 챗GPT처럼 정면승부...",
+        "date": "2025-08-04 09:34",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201983?sid=105"
+    },
+    {
+        "title": "美 국방수권법에 BOE 포함 여부 검토…삼성·LG디스플레이 반사이익 기...",
+        "date": "2025-08-04 09:32",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65884"
+    },
+    {
+        "title": "서강대 강문성 교수, UNIST 김봉수 교수 연구팀, VR/AR용 OLED 마이크로디...",
+        "date": "2025-08-04 09:08",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=565916"
+    },
+    {
+        "title": "애플, ‘챗GPT형 앱’ 개발 전담팀 신설",
+        "date": "2025-08-04 09:01",
+        "link": "https://n.news.naver.com/mnews/article/009/0005535559?sid=105"
+    },
+    {
+        "title": "가성비와 실용성 갖춘 AI 노트북, 에이수스 Vivobook S16 M3607KA",
+        "date": "2025-08-04 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55503"
+    },
+    {
+        "title": "애플, AI 포기 안 했다…챗GPT 대항마 개발 중",
+        "date": "2025-08-04 08:44",
+        "link": "https://n.news.naver.com/mnews/article/092/0002384595?sid=105"
+    },
+    {
+        "title": "롯데하이마트, 8월 '쿨링 휴가 페스타' 진행…에어컨·TV·냉장고 할인",
+        "date": "2025-08-04 08:42",
+        "link": "https://n.news.naver.com/mnews/article/003/0013401482?sid=101"
+    },
+    {
+        "title": "애플, 챗GPT 대항마 AI 챗봇 개발…시리 대체 가능성",
+        "date": "2025-08-04 08:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=582290"
+    },
+    {
+        "title": "애플, 챗GPT 닮은 'AI 검색 기능' 개발 나섰다",
+        "date": "2025-08-04 08:20",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=151572"
+    },
+    {
+        "title": "국내 점유율 0%…애플TV+, ‘F1더무비’로 반등할까[모닝폰]",
+        "date": "2025-08-04 08:09",
+        "link": "https://n.news.naver.com/mnews/article/018/0006080955?sid=105"
+    },
+    {
+        "title": "[더벨][캐시플로 모니터] 삼성전자, 삼성D 차입 연장 '캐파·M&amp;A 자금 필...",
+        "date": "2025-08-04 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508010923166880107885"
+    },
+    {
+        "title": "팀 쿡의 'AI 낙관론', 애플 위기 돌파 카드 될까 [친절한 IT]",
+        "date": "2025-08-04 07:41",
+        "link": "https://n.news.naver.com/mnews/article/293/0000070647?sid=105"
+    },
+    {
+        "title": "[부자들의 투자노트] 모펫네이선슨 애플 미래 불투명",
+        "date": "2025-08-04 07:37",
+        "link": "https://n.news.naver.com/mnews/article/374/0000455470?sid=104"
+    },
+    {
+        "title": "이제 폴더블로 넘어가셔도 됩니다…갤Z폴드7 2주간 써보니 [이동수는 이...",
+        "date": "2025-08-04 07:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004057013?sid=101"
+    },
+    {
+        "title": "플래그십, 그 이상의 개성 '에이수스 ROG 스트릭스 스카 16' [리뷰]",
+        "date": "2025-08-04 06:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145145"
+    },
+    {
+        "title": "AI폰 흥행에 잭팟 터진 삼성 MX사업부... ‘AI 대중화 전략’ 효과로 미...",
+        "date": "2025-08-04 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001097690?sid=105"
+    },
+    {
+        "title": "아이폰17 실물 색상 왜 이래? 감성의 애플 맞나 [1일IT템]",
+        "date": "2025-08-04 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005386458?sid=105"
+    },
+    {
+        "title": "2분기 적자전환 LGD…하반기 자신감 이유는",
+        "date": "2025-08-04 06:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=765908"
+    },
+    {
+        "title": "SNS서 웃음거리 된 아이폰 AI…‘깜짝 실적’에도 불안한 애플",
+        "date": "2025-08-04 05:41",
+        "link": "https://n.news.naver.com/mnews/article/011/0004516840?sid=101"
+    },
+    {
+        "title": "갤럭시 대신 '삼성' 새겼다…폴더블 자신감, '애플 텃밭' 일본 노린다",
+        "date": "2025-08-04 05:30",
+        "link": "https://n.news.naver.com/mnews/article/008/0005230812?sid=105"
+    },
+    {
         "title": "애플, 20스톱 '시네마급' 카메라 센서 개발...소니 독주에 '마침표' 찍나",
         "date": "2025-08-04 04:16",
         "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508031841162388fbbec65dfb_1/article.html"
