@@ -1,5 +1,880 @@
 [
     {
+        "title": "삼성, 애플 차세대 칩도 만든다…연이은 잭팟",
+        "date": "2025-08-08 04:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005233157?sid=101"
+    },
+    {
+        "title": "삼성, 美테슬라 이어 애플 칩 수주… ‘스마트폰 눈’ 소니 독점 깼다",
+        "date": "2025-08-08 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003652982?sid=101"
+    },
+    {
+        "title": "삼성은 ‘XR 올레도스’ LG는 ‘카멜레온 OLED’",
+        "date": "2025-08-08 00:56",
+        "link": "https://n.news.naver.com/mnews/article/025/0003460660?sid=101"
+    },
+    {
+        "title": "테슬라 이어 애플 뚫었다… 삼성, 반도체 부활 신호탄",
+        "date": "2025-08-08 00:42",
+        "link": "https://n.news.naver.com/mnews/article/005/0001794636?sid=101"
+    },
+    {
+        "title": "갤럭시의 얼굴 손흥민, 애플 로고 새겨진 유니폼 입었네?",
+        "date": "2025-08-08 00:10",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=239594"
+    },
+    {
+        "title": "머크, 중수소 OLED 원재료 공급망 안정적 확보",
+        "date": "2025-08-07 23:50",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39170"
+    },
+    {
+        "title": "여전히 접근 제한적 애플, AI 지원 에이전트 출시. 시리와 결합 안돼 ...",
+        "date": "2025-08-07 23:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534707"
+    },
+    {
+        "title": "[K-디스플레이] 스크린 너머의 혁신, K-디스플레이 2025가 그리는 미래",
+        "date": "2025-08-07 22:18",
+        "link": "https://www.hellot.net/news/article.html?no=104064"
+    },
+    {
+        "title": "어느 날, 애플과 삼성의 동거가 시작됐다[삶과 문화]",
+        "date": "2025-08-07 22:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000880473?sid=110"
+    },
+    {
+        "title": "삼성전자, 애플 이미지센서 수주…美 오스틴 공장서 생산",
+        "date": "2025-08-07 21:40",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508071119103100763"
+    },
+    {
+        "title": "삼성, 애플과 ‘아이폰 차세대 칩’ 납품 계약",
+        "date": "2025-08-07 21:12",
+        "link": "https://n.news.naver.com/mnews/article/032/0003388256?sid=101"
+    },
+    {
+        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
+        "date": "2025-08-07 20:50",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3898060"
+    },
+    {
+        "title": "관람객 앞에서 '접고 또 접고'‥폴더블폰 더 얇고 튼튼하게",
+        "date": "2025-08-07 20:44",
+        "link": "https://n.news.naver.com/mnews/article/214/0001441517?sid=101"
+    },
+    {
+        "title": "애플 주가, 급등… 트럼프 압박에 1000억 달러 투자",
+        "date": "2025-08-07 20:20",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1105914"
+    },
+    {
+        "title": "현대차-GM, 삼성전자-애플 협업…'오월동주' 활발해질 듯",
+        "date": "2025-08-07 20:13",
+        "link": "https://n.news.naver.com/mnews/article/057/0001901294?sid=101"
+    },
+    {
+        "title": "관세 폭격에 적이 동지로…삼성·애플 손 잡는다",
+        "date": "2025-08-07 19:50",
+        "link": "https://n.news.naver.com/mnews/article/449/0000317228?sid=101"
+    },
+    {
+        "title": "[르포] 미래 시장 선도할 디스플레이 기술 총집결한 'K-디스플레이 2025...",
+        "date": "2025-08-07 19:44",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89860"
+    },
+    {
+        "title": "“LCD서 세계 호령하던 전성기 다시 한 번”…AI OLED로 수놓은 코엑스",
+        "date": "2025-08-07 19:31",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974127?sid=101"
+    },
+    {
+        "title": "본격화된 디스플레이 기술 격돌...‘K-디스플레이’전이 제시하는 초격...",
+        "date": "2025-08-07 19:18",
+        "link": "https://www.hellot.net/news/article.html?no=104056"
+    },
+    {
+        "title": "[기획] 한미 '국대기업', 손잡고 관세벽 뚫는다",
+        "date": "2025-08-07 19:15",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974125?sid=101"
+    },
+    {
+        "title": "LG전자, 美 트와이스紙 선정 ‘슈퍼 VIP 어워드’ 영예",
+        "date": "2025-08-07 19:13",
+        "link": "https://www.bigtanews.co.kr/article/view/big202508060001"
+    },
+    {
+        "title": "아이폰 첨단칩 설계부터 생산까지…삼성, 10년만에 애플과 협력",
+        "date": "2025-08-07 19:04",
+        "link": "https://n.news.naver.com/mnews/article/009/0005537987?sid=101"
+    },
+    {
+        "title": "테슬라 이어 애플 수주... 삼성 반도체 반격 시동 [삼성 반도체 부활]",
+        "date": "2025-08-07 19:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005388791?sid=101"
+    },
+    {
+        "title": "삼성전자, 美 오스틴 공장서 '애플' 차세대 칩 생산…파운드리 실적 반...",
+        "date": "2025-08-07 18:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272558"
+    },
+    {
+        "title": "미국 내 140兆 추가 투자 애플 발표에 주가 5%대 고공행진",
+        "date": "2025-08-07 18:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272559"
+    },
+    {
+        "title": "디스플레이 수장들 OLED 혁신 이제 시작",
+        "date": "2025-08-07 18:38",
+        "link": "https://n.news.naver.com/mnews/article/014/0005388761?sid=101"
+    },
+    {
+        "title": "[재계는 지금] LG전자, 'AI 가전 오케스트라' 주제로 'IFA' 참가 外",
+        "date": "2025-08-07 18:38",
+        "link": "https://dealsite.co.kr/articles/146133"
+    },
+    {
+        "title": "2025 K-Display 들여다보니…3D·투명LED 눈길 잡더라",
+        "date": "2025-08-07 18:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=706651"
+    },
+    {
+        "title": "코스피, 애플 투자·삼전 계약 등 호재에 3200선 되찾아",
+        "date": "2025-08-07 18:28",
+        "link": "https://www.betanews.net/article/view/beta202508070090"
+    },
+    {
+        "title": "약속 깨면 다 계산해서 청구해! 핵심 참모들과 '중대 발표'…물가 상...",
+        "date": "2025-08-07 18:24",
+        "link": "https://n.news.naver.com/mnews/article/055/0001282137?sid=104"
+    },
+    {
+        "title": "테슬라 이어 추가 수주…삼성 시스템반도체 부활 '청신호'",
+        "date": "2025-08-07 18:23",
+        "link": "https://n.news.naver.com/mnews/article/015/0005168193?sid=101"
+    },
+    {
+        "title": "올레도스·스트레처블…中 압도할 'OLED 신기술' 쏟아졌다",
+        "date": "2025-08-07 18:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005168192?sid=101"
+    },
+    {
+        "title": "[르포] OLED·iLED가 ‘살 길’…삼성·LG디스플레이, 기술로 미래상 제...",
+        "date": "2025-08-07 18:20",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508071646406425290c42db76_1/article.html"
+    },
+    {
+        "title": "테슬라 이어 애플과 파트너십… 시스템반도체 1위 도약 ‘날개’ [뉴스...",
+        "date": "2025-08-07 18:20",
+        "link": "https://n.news.naver.com/mnews/article/022/0004058181?sid=101"
+    },
+    {
+        "title": "애플의 1천억$ 투자 선물은 트럼프에 바치는 ‘뇌물’? [이런뉴스]",
+        "date": "2025-08-07 18:19",
+        "link": "https://n.news.naver.com/mnews/article/056/0012004773?sid=121"
+    },
+    {
+        "title": "애플 '리쇼어링 결단'…1000억弗 추가 투자",
+        "date": "2025-08-07 18:13",
+        "link": "https://n.news.naver.com/mnews/article/015/0005168176?sid=104"
+    },
+    {
+        "title": "삼성, 10년만에 애플과 협력 … 아이폰 첨단칩 설계부터 생산까지",
+        "date": "2025-08-07 18:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005537960?sid=101"
+    },
+    {
+        "title": "적과의 동침…삼성, 애플 손잡고 트럼프 파고 넘는다?",
+        "date": "2025-08-07 18:09",
+        "link": "https://n.news.naver.com/mnews/article/374/0000456374?sid=101"
+    },
+    {
+        "title": "삼성 기술력 대체 불가 애플 돌변한 이유가…'파격 전망'",
+        "date": "2025-08-07 18:08",
+        "link": "https://n.news.naver.com/mnews/article/015/0005168166?sid=101"
+    },
+    {
+        "title": "관세에 부품값 오를듯 빅테크수주 노력 지속",
+        "date": "2025-08-07 18:08",
+        "link": "https://n.news.naver.com/mnews/article/009/0005537957?sid=101"
+    },
+    {
+        "title": "'대기줄' 생긴 LG, '탄성' 나온 삼성…K-OLED 기술력에 '와와~'",
+        "date": "2025-08-07 18:02",
+        "link": "https://n.news.naver.com/mnews/article/421/0008417474?sid=101"
+    },
+    {
+        "title": "[포토 종합] 'K-디스플레이' 전시회 참석한 이청-정철동",
+        "date": "2025-08-07 18:02",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302983"
+    },
+    {
+        "title": "테슬라 이어 애플과도 손잡은 삼성전자, 터널 끝 빛 보나",
+        "date": "2025-08-07 18:01",
+        "link": "https://n.news.naver.com/mnews/article/469/0000880446?sid=101"
+    },
+    {
+        "title": "SRT, 승차권 결제에 애플페이 도입해 이용 편의 확대",
+        "date": "2025-08-07 18:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=441364"
+    },
+    {
+        "title": "“2030년 TSMC 넘어선다”, ‘이재용의 꿈’ 현실화 되나…“테슬라 이...",
+        "date": "2025-08-07 17:52",
+        "link": "https://www.ceoscoredaily.com/page/view/2025080713470220023"
+    },
+    {
+        "title": "수조 적자에도 133조 투자 '뚝심'…소니 제치고 TSMC 맹추격",
+        "date": "2025-08-07 17:45",
+        "link": "https://n.news.naver.com/mnews/article/011/0004518548?sid=101"
+    },
+    {
+        "title": "'차세대 OLED' 격돌한 삼성·LG, 중국 LCD 견제엔 '원팀'",
+        "date": "2025-08-07 17:35",
+        "link": "https://n.news.naver.com/mnews/article/025/0003460601?sid=101"
+    },
+    {
+        "title": "삼성, 테슬라 이어 애플까지 뚫었다",
+        "date": "2025-08-07 17:35",
+        "link": "https://n.news.naver.com/mnews/article/011/0004518527?sid=101"
+    },
+    {
+        "title": "LG디스플레이, K-디스플레이 2025서 OLED 혁신 기술 공개",
+        "date": "2025-08-07 17:34",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=770472"
+    },
+    {
+        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
+        "date": "2025-08-07 17:32",
+        "link": "https://n.news.naver.com/mnews/article/088/0000963457?sid=101"
+    },
+    {
+        "title": "삼성전자, 애플도 뚫었다⋯美서 차세대 칩 생산",
+        "date": "2025-08-07 17:32",
+        "link": "https://www.etoday.co.kr/news/view/2495179"
+    },
+    {
+        "title": "[르포] K-OLED, 中에 추월 위기?…삼성·LG디스플레이의 해답은 '경험 혁...",
+        "date": "2025-08-07 17:30",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=216455"
+    },
+    {
+        "title": "삼성전자, 애플과도 파운드리 계약··· 테슬라 이은 연속 성과에 이재...",
+        "date": "2025-08-07 17:30",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=303264"
+    },
+    {
+        "title": "LG디스플레이가 쌓아온 OLED 기술 헤리티지는",
+        "date": "2025-08-07 17:28",
+        "link": "https://n.news.naver.com/mnews/article/031/0000955429?sid=105"
+    },
+    {
+        "title": "애플, 美에 140조원 투자…트럼프에 선물까지",
+        "date": "2025-08-07 17:26",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450362"
+    },
+    {
+        "title": "“테슬라 이어 애플까지”…삼성 파운드리 본궤도 시동",
+        "date": "2025-08-07 17:24",
+        "link": "https://www.sentv.co.kr/article/view/sentv202508070068"
+    },
+    {
+        "title": "트럼프 美투자 압박 속…삼성, 테슬라 이어 애플 뚫었다",
+        "date": "2025-08-07 17:21",
+        "link": "https://n.news.naver.com/mnews/article/018/0006084056?sid=101"
+    },
+    {
+        "title": "삼성·LG디스플레이, 차세대 OLED로 中 따돌린다…“4세대 OLED· XR용 OLED...",
+        "date": "2025-08-07 17:20",
+        "link": "https://www.ceoscoredaily.com/page/view/2025080716064567899"
+    },
+    {
+        "title": "현대차는 GM, 삼성은 애플…관세로 동맹 구축",
+        "date": "2025-08-07 17:19",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219289?sid=101"
+    },
+    {
+        "title": "삼성·LG, 디스플레이 리더십은 “내가 한수 위”",
+        "date": "2025-08-07 17:18",
+        "link": "https://www.ekn.kr/web/view.php?key=20250807028184438"
+    },
+    {
+        "title": "미니LED 워치·4세대 OLED…삼성·LG가 공개한 디스플레이 미래",
+        "date": "2025-08-07 17:15",
+        "link": "https://n.news.naver.com/mnews/article/008/0005233070?sid=101"
+    },
+    {
+        "title": "업계 1위 소니 따라잡나…애플이 선택한 삼성전자 이미지센서는",
+        "date": "2025-08-07 17:15",
+        "link": "https://n.news.naver.com/mnews/article/008/0005233069?sid=101"
+    },
+    {
+        "title": "[현장] 기억에서도 희미해진 스트레처블 디스플레이가 눈에 들어온 이유",
+        "date": "2025-08-07 17:13",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=603220"
+    },
+    {
+        "title": "[현장] 삼성전자, '손목 위 AI 의사' 갤럭시 워치 8 시리즈로 디지털 헬...",
+        "date": "2025-08-07 17:12",
+        "link": "https://www.news2day.co.kr/article/20250807500130"
+    },
+    {
+        "title": "적자 늪 빠졌던 시스템LSI·파운드리…삼성, ‘투톱’ 부활 신호탄",
+        "date": "2025-08-07 17:12",
+        "link": "https://www.etoday.co.kr/news/view/2495182"
+    },
+    {
+        "title": "[포토] 삼성D 올레도스 화질 체험하는 LGD 정철동",
+        "date": "2025-08-07 17:10",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302966"
+    },
+    {
+        "title": "한국머크, OLED 수명 2배 늘리는 '중수소 치환 기술' 선봬",
+        "date": "2025-08-07 17:10",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385284?sid=105"
+    },
+    {
+        "title": "애플 대규모 투자에 기술주 '화색'‥상승 마감",
+        "date": "2025-08-07 17:05",
+        "link": "https://n.news.naver.com/mnews/article/214/0001441471?sid=101"
+    },
+    {
+        "title": "막 오른 K 디스플레이 전시…삼성D·LGD에 소부장 기업도",
+        "date": "2025-08-07 17:04",
+        "link": "https://n.news.naver.com/mnews/article/417/0001094160?sid=101"
+    },
+    {
+        "title": "[현장] 'K-디스플레이 2025' 개막…삼성·LG 미래기술 격돌",
+        "date": "2025-08-07 17:01",
+        "link": "https://www.newspim.com/news/view/20250807001069"
+    },
+    {
+        "title": "LG디스플레이, 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
+        "date": "2025-08-07 16:58",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=490358"
+    },
+    {
+        "title": "접히고, 펼치고, 빛난다…K디스플레이 기술 '총집결'[ER현장]",
+        "date": "2025-08-07 16:56",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=706627"
+    },
+    {
+        "title": "'애플' 1천억달러 추가 투자 발표…뉴욕 증시서 5%↑ 마감",
+        "date": "2025-08-07 16:56",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15761754"
+    },
+    {
+        "title": "삼성·LG, 'K-디스플레이 2025'서 미래 디스플레이 기술 격돌",
+        "date": "2025-08-07 16:56",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89551"
+    },
+    {
+        "title": "코스피 3,220선 회복…애플 투자·관세 영향에 0.92% 상승",
+        "date": "2025-08-07 16:56",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15761757"
+    },
+    {
+        "title": "삼성·LGD, 국내 최대 디스플레이 전시회서 미래 OLED 기술 뽐내",
+        "date": "2025-08-07 16:54",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7123376"
+    },
+    {
+        "title": "“테슬라 이어 애플까지”…삼성, 美 대규모 수주로 ‘실적 부진’ 돌파...",
+        "date": "2025-08-07 16:52",
+        "link": "https://www.kukinews.com/article/view/kuk202508070153"
+    },
+    {
+        "title": "삼성전자, 테슬라 이어 애플서도 수주…실적 개선 청신호",
+        "date": "2025-08-07 16:52",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=73044"
+    },
+    {
+        "title": "삼성전자, 애플 차세대 칩 미국 오스틴 공장에서 생산",
+        "date": "2025-08-07 16:52",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15761742"
+    },
+    {
+        "title": "[현장] 2025 K-디스플레이 가보니…차세대 OLED·LED 기술의 향연",
+        "date": "2025-08-07 16:50",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=345841"
+    },
+    {
+        "title": "‘K-디스플레이’ 미래 한 눈에⋯ 삼성·LG 승부수는",
+        "date": "2025-08-07 16:48",
+        "link": "https://www.viva100.com/article/20250807501350"
+    },
+    {
+        "title": "중국, OLED도 LCD처럼 저가로 한국 무너뜨린다, 로봇·AR·웨어러블용...",
+        "date": "2025-08-07 16:46",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406731"
+    },
+    {
+        "title": "에스알, 애플페이 결제 도입…수요 반영",
+        "date": "2025-08-07 16:44",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=137276"
+    },
+    {
+        "title": "삼성디스플레이, ‘K-Display 2025’서 폴더블 OLED 신브랜드 ‘몽플렉스...",
+        "date": "2025-08-07 16:40",
+        "link": "https://kidd.co.kr/news/242754"
+    },
+    {
+        "title": "삼성전자, 애플 차세대 칩 美 파운드리서 생산",
+        "date": "2025-08-07 16:36",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183125"
+    },
+    {
+        "title": "애플, 美 제조에 1000억달러 추가 투자…트럼프 아이폰도 미국산 돼야...",
+        "date": "2025-08-07 16:30",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=16104"
+    },
+    {
+        "title": "애플, 1천억 추가 투자…트럼프에 '메이드 인 USA' 선물(종합2보)",
+        "date": "2025-08-07 16:28",
+        "link": "https://n.news.naver.com/mnews/article/001/0015554829?sid=104"
+    },
+    {
+        "title": "애플, 美 1000억달러 투자에…국내 협력사 주가 '들썩'",
+        "date": "2025-08-07 16:26",
+        "link": "https://www.ajunews.com/view/20250807161243732"
+    },
+    {
+        "title": "트럼프 앞에선 오월동주...삼성·애플, 반도체 100% 관세 부과 예고에 협...",
+        "date": "2025-08-07 16:26",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=390082"
+    },
+    {
+        "title": "삼성전자 반도체, 테슬라 이어 애플까지 대규모 수주…실적 개선 기대감...",
+        "date": "2025-08-07 16:25",
+        "link": "https://n.news.naver.com/mnews/article/629/0000414811?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장 美 반도체 관세로 단가 인하 압박 받을 듯",
+        "date": "2025-08-07 16:16",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025080716035473963"
+    },
+    {
+        "title": "[기업] 삼성전자, 애플 차세대 칩 미국 공장에서 생산",
+        "date": "2025-08-07 16:14",
+        "link": "https://n.news.naver.com/mnews/article/052/0002229880?sid=101"
+    },
+    {
+        "title": "[특징주] 핌스, 2분기 흑자전환에 14% 급등…디스플레이 업황 회복 기대",
+        "date": "2025-08-07 16:14",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=274678"
+    },
+    {
+        "title": "[포토] 삼성디스플레이 전시 부스 둘러보는 이청-정철동",
+        "date": "2025-08-07 16:10",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302905"
+    },
+    {
+        "title": "삼성디스플레이, 초고해상도 '올레도스' 체험 기회 제공",
+        "date": "2025-08-07 16:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=366441"
+    },
+    {
+        "title": "삼성·LGD 달려간 현대차 직원들…SDV 최적화 57인치 화면 ‘눈길’",
+        "date": "2025-08-07 16:05",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974047?sid=101"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 美 관세 영향 예의주시…폴더블시장 주도 자...",
+        "date": "2025-08-07 16:02",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000077686"
+    },
+    {
+        "title": "이청 디스플레이협회장 고객사 하반기 보수적 운영 걱정...美관세 영향",
+        "date": "2025-08-07 15:56",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39147"
+    },
+    {
+        "title": "[마감시황] 코스피, 카카오 호실적·애플 협력 기대감에 3200선 회복",
+        "date": "2025-08-07 15:56",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2096428"
+    },
+    {
+        "title": "삼성닷컴, 갤럭시 S25 시리즈 AI 기능 호응 속 최단기간 판매 신기록",
+        "date": "2025-08-07 15:52",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=167937"
+    },
+    {
+        "title": "삼성, 애플에 이미지센서 공급…테슬라 이어 '반도체 빅딜' 잇따라",
+        "date": "2025-08-07 15:50",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=508768"
+    },
+    {
+        "title": "'中 추격·美 관세' 이중고…이청 삼성D 사장 하반기 수요 둔화 예상",
+        "date": "2025-08-07 15:49",
+        "link": "https://n.news.naver.com/mnews/article/293/0000070844?sid=101"
+    },
+    {
+        "title": "[현장] LGD·삼성D, 디스플레이산업전시회서 기술력 격돌",
+        "date": "2025-08-07 15:48",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=490745"
+    },
+    {
+        "title": "테슬라 이어 애플도 삼성에 ‘반도체’ 손내밀었다",
+        "date": "2025-08-07 15:48",
+        "link": "https://www.ekn.kr/web/view.php?key=20250807027034571"
+    },
+    {
+        "title": "첨단 디스플레이 미래 엿본다…‘K-Display 2025’ 개막",
+        "date": "2025-08-07 15:46",
+        "link": "https://kidd.co.kr/news/242753"
+    },
+    {
+        "title": "산학관 손잡고 ‘디스플레이 아카데미’ 공식 출범…인력 3900명 양성",
+        "date": "2025-08-07 15:46",
+        "link": "https://www.etoday.co.kr/news/view/2495201"
+    },
+    {
+        "title": "이청 삼성D 사장 “관세 영향에 부품사 가격인하 압박 우려”",
+        "date": "2025-08-07 15:44",
+        "link": "https://n.news.naver.com/mnews/article/011/0004518476?sid=101"
+    },
+    {
+        "title": "'한국 디스플레이 아카데미' 공식 출범... 5년 내 전문 인력 3900명 양성",
+        "date": "2025-08-07 15:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231140"
+    },
+    {
+        "title": "이청 삼성D 사장 “美 관세 부담, 디스플레이 등 타 부품으로 전가 우려...",
+        "date": "2025-08-07 15:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339049?sid=105"
+    },
+    {
+        "title": "이청 삼성D 사장 美 관세 영향 예의주시…폴더블 주도 자신",
+        "date": "2025-08-07 15:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673635"
+    },
+    {
+        "title": "삼성전자, 테슬라 이어 애플에도 차세대 칩 공급...경쟁력 회복할까",
+        "date": "2025-08-07 15:42",
+        "link": "https://n.news.naver.com/mnews/article/028/0002760082?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 관세로 부품 단가 인하 압박 우려… 하반기 업황 불확...",
+        "date": "2025-08-07 15:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145430"
+    },
+    {
+        "title": "[포토] 'K-디스플레이' 전시회 관람하는 이청 삼성디스플레이 사장",
+        "date": "2025-08-07 15:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302874"
+    },
+    {
+        "title": "美에 1000억달러 추가 투자…트럼프 애플이 돌아오고 있다",
+        "date": "2025-08-07 15:37",
+        "link": "https://n.news.naver.com/mnews/article/015/0005167998?sid=104"
+    },
+    {
+        "title": "K-디스플레이 미래를 보다...삼성·LG·필옵틱스, 최첨단 기술 '총출동...",
+        "date": "2025-08-07 15:34",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=218933"
+    },
+    {
+        "title": "[포토] 이청 삼성D 사장과 대화하는 정철동 LGD 사장",
+        "date": "2025-08-07 15:32",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302870"
+    },
+    {
+        "title": "올레도스·마이크로LED·스트레처블…차세대 디스플레이 기술 총출동",
+        "date": "2025-08-07 15:30",
+        "link": "https://n.news.naver.com/mnews/article/015/0005167992?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 'K-디스플레이 2025' 참가…OLED 혁신 기술·제품 직접 체...",
+        "date": "2025-08-07 15:30",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=410606"
+    },
+    {
+        "title": "“50만번 접어도 OK”…K디스플레이 기술 대전",
+        "date": "2025-08-07 15:30",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1271020&inflow=N"
+    },
+    {
+        "title": "삼성전자, 애플 아이폰용 칩 생산키로…DS사업부 '반등 신호탄'",
+        "date": "2025-08-07 15:30",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113435"
+    },
+    {
+        "title": "美 관세·中 추격 속 만난 K-디스플레이 수장들 “결국 돌파구는 OLED”...",
+        "date": "2025-08-07 15:24",
+        "link": "https://n.news.naver.com/mnews/article/016/0002511320?sid=101"
+    },
+    {
+        "title": "OLED서 광학 필름까지…머크, 디스플레이 소재 전면 확장 [소부장디과장...",
+        "date": "2025-08-07 15:23",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202301?sid=105"
+    },
+    {
+        "title": "살아나는 삼성 반도체...이미지 센서 1위 소니 추격, 애플 협력도 강화",
+        "date": "2025-08-07 15:23",
+        "link": "https://n.news.naver.com/mnews/article/014/0005388624?sid=101"
+    },
+    {
+        "title": "테슬라 이어 애플까지…삼성, 아이폰에 이미지센서 첫 공급",
+        "date": "2025-08-07 15:23",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339038?sid=105"
+    },
+    {
+        "title": "삼성D·LGD 대표 디스플레이 캐즘? OLED로 돌파 자신감 피력",
+        "date": "2025-08-07 15:21",
+        "link": "https://n.news.naver.com/mnews/article/014/0005388620?sid=101"
+    },
+    {
+        "title": "‘한국 디스플레이 아카데미’ 출범…“5년간 3900명 전문 인력 배출”",
+        "date": "2025-08-07 15:21",
+        "link": "https://n.news.naver.com/mnews/article/016/0002511318?sid=101"
+    },
+    {
+        "title": "메타, 美 스탠퍼드대와 초박형 MR 디스플레이 개발...어지럼증까지 해결",
+        "date": "2025-08-07 15:20",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90325"
+    },
+    {
+        "title": "삼성전자, 테슬라 이어 애플까지⋯美 파운드리 공장서 아이폰 차세대 칩...",
+        "date": "2025-08-07 15:20",
+        "link": "https://www.asiatime.co.kr/article/20250807500312"
+    },
+    {
+        "title": "[AT 산업 단신] LG전자·삼성디스플레이·클라우데라·에임인텔리전스",
+        "date": "2025-08-07 15:20",
+        "link": "https://www.asiatime.co.kr/article/20250807500307"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 “미국 관세 영향 예의주시…가격 하락 압박...",
+        "date": "2025-08-07 15:16",
+        "link": "https://www.etoday.co.kr/news/view/2495177"
+    },
+    {
+        "title": "“애플, 미국 내 140조 원 투자 예정”…“반도체 100% 관세”",
+        "date": "2025-08-07 15:16",
+        "link": "https://n.news.naver.com/mnews/article/056/0012004675?sid=104"
+    },
+    {
+        "title": "미래 첨단기술 엿보는 ‘K-디스플레이 2025’ 개막",
+        "date": "2025-08-07 15:08",
+        "link": "https://n.news.naver.com/mnews/article/021/0002728051?sid=101"
+    },
+    {
+        "title": "LG전자, 유럽 안방 독일에 투명 OLED TV 출시",
+        "date": "2025-08-07 15:06",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=263567"
+    },
+    {
+        "title": "[AT현장] 'K-디스플레이 2025' 개막…'차세대 기술·역사' 한눈에",
+        "date": "2025-08-07 15:06",
+        "link": "https://www.asiatime.co.kr/article/20250807500296"
+    },
+    {
+        "title": "[현장에서] 문신학 산업차관 번창한 고향에 온 기분입니다",
+        "date": "2025-08-07 15:06",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4368800"
+    },
+    {
+        "title": "LG디스플레이, 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
+        "date": "2025-08-07 15:04",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=137254"
+    },
+    {
+        "title": "삼성디스플레이, K-디스플레이 2025 참가…초미세 올레도스 소개",
+        "date": "2025-08-07 15:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=660819"
+    },
+    {
+        "title": "[포토]삼성디스플레이, 초미세 올레도스 화질 체험존 운영",
+        "date": "2025-08-07 15:04",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250807010003664"
+    },
+    {
+        "title": "'삼성전자의 저력'… 이제 엔비디아 HBM 차례다",
+        "date": "2025-08-07 15:02",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=68301"
+    },
+    {
+        "title": "[포토]현대미술가 작품을 화면으로 감상...'삼성 OLED 갤러리'",
+        "date": "2025-08-07 14:58",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250807010003659"
+    },
+    {
+        "title": "OLED, 어디까지 진화했나…삼성·LG, 기술 한계에 도전장",
+        "date": "2025-08-07 14:56",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338182"
+    },
+    {
+        "title": "'OLED·마이크로LED'…K-디스플레이 현재와 미래 한 자리에",
+        "date": "2025-08-07 14:55",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339021?sid=105"
+    },
+    {
+        "title": "[포토]삼성디스플레이, 다중 축 스트레처블 디스플레이 공개",
+        "date": "2025-08-07 14:52",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250807010003643"
+    },
+    {
+        "title": "'사법 족쇄' 풀리자 글로벌이 움직였다... 이재용의 NEW삼성, 애플·테슬...",
+        "date": "2025-08-07 14:52",
+        "link": "https://www.insight.co.kr/news/514830"
+    },
+    {
+        "title": "이청 삼성D 사장 美 관세로 가격인하 압박… 소비 둔화 우려",
+        "date": "2025-08-07 14:48",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/07/2025080700262.html"
+    },
+    {
+        "title": "[종합] 'K-디스플레이', OLED 신기술로 혁신 선도··· 국가 경쟁력 상...",
+        "date": "2025-08-07 14:46",
+        "link": "https://www.ajunews.com/view/20250807143247600"
+    },
+    {
+        "title": "이청 삼성D 사장 美 관세로 부품가 압박 우려…폴더블은 앞으로 더 주...",
+        "date": "2025-08-07 14:46",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=137236"
+    },
+    {
+        "title": "이청 사장 반도체 관세, 디스플레이 '가격 인하 압박' 영향",
+        "date": "2025-08-07 14:46",
+        "link": "https://dealsite.co.kr/articles/146077"
+    },
+    {
+        "title": "[K-Display 2025] 최신 디스플레이 기술·제품을 한눈에…삼성D·LGD가 보...",
+        "date": "2025-08-07 14:42",
+        "link": "https://www.news2day.co.kr/article/20250807500166"
+    },
+    {
+        "title": "'K-디스플레이' 찾은 삼성·LG디스플레이, 차세대 OLED 기술력 뽐낸다",
+        "date": "2025-08-07 14:42",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1268717"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 부품가 하락 압박·수요 둔화 예상… 관세 ...",
+        "date": "2025-08-07 14:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302816"
+    },
+    {
+        "title": "삼성과 손잡은 애플, 美에 1000억 달러 추가 투자",
+        "date": "2025-08-07 14:37",
+        "link": "https://n.news.naver.com/mnews/article/469/0000880381?sid=104"
+    },
+    {
+        "title": "애플워치 울트라3, 2년 기다린 보람 있다…얼마나 달라졌길래",
+        "date": "2025-08-07 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=583656"
+    },
+    {
+        "title": "삼성전자, 테슬라 이어 애플과도 파운드리 계약 체결",
+        "date": "2025-08-07 14:36",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272496"
+    },
+    {
+        "title": "구글·애플도 증명했다…빅테크가 철학자 채용하는 이유",
+        "date": "2025-08-07 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=583652"
+    },
+    {
+        "title": "'XR·AI 기반 기술' 소개한 삼성D… 'OLED 대중화' 강조 LGD",
+        "date": "2025-08-07 14:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145423"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 美 관세 영향 예의주시…폴더블 역량 자신",
+        "date": "2025-08-07 14:31",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202287?sid=105"
+    },
+    {
+        "title": "삼성전자 테슬라 이어 애플 뚫었다, 이재용 파운드리·시스템LSI 적자 탈...",
+        "date": "2025-08-07 14:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406686"
+    },
+    {
+        "title": "삼성D, 'K-디스플레이'서 초미세 올레도스 기술 공개",
+        "date": "2025-08-07 14:28",
+        "link": "https://n.news.naver.com/mnews/article/417/0001094098?sid=101"
+    },
+    {
+        "title": "LGD, 'K-디스플레이 2025'서 OLED 기술의 현재와 미래 조명",
+        "date": "2025-08-07 14:28",
+        "link": "https://n.news.naver.com/mnews/article/417/0001094099?sid=101"
+    },
+    {
+        "title": "[데스크라인] 애플페이, 더는 늦출 이유 없다",
+        "date": "2025-08-07 14:27",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339000?sid=101"
+    },
+    {
+        "title": "'미국산 아니면 고관세' 압박에…애플, 138조 대미 투자 삼성과 협력",
+        "date": "2025-08-07 14:23",
+        "link": "https://n.news.naver.com/mnews/article/437/0000451817?sid=104"
+    },
+    {
+        "title": "삼성D, K-디스플레이 전시서 초미세 올레도스 기술력 선봬",
+        "date": "2025-08-07 14:21",
+        "link": "https://n.news.naver.com/mnews/article/031/0000955333?sid=105"
+    },
+    {
+        "title": "LGD 정철동 OLED 미래 무궁무진…끊임없이 진화",
+        "date": "2025-08-07 14:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006083865?sid=101"
+    },
+    {
+        "title": "트럼프 애플, 칩 관세 100% 면제",
+        "date": "2025-08-07 14:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145419"
+    },
+    {
+        "title": "[포토] 셀카와 작품이 만났다...삼성디스플레이 AI 셀피 체험",
+        "date": "2025-08-07 14:18",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55598"
+    },
+    {
+        "title": "[포토] LG의 스트레처블 마이크로 LED 디스플레이",
+        "date": "2025-08-07 14:17",
+        "link": "https://n.news.naver.com/mnews/article/030/0003338989?sid=105"
+    },
+    {
+        "title": "이청 삼성D IT·전장용 OLED 시장, 이제 시작…중요한 사업 축 될 것",
+        "date": "2025-08-07 14:14",
+        "link": "https://n.news.naver.com/mnews/article/031/0000955330?sid=105"
+    },
+    {
+        "title": "문신학 산업부 차관 “디스플레이, 경제 성장 이끌 전략 산업…전폭 지...",
+        "date": "2025-08-07 14:13",
+        "link": "https://n.news.naver.com/mnews/article/030/0003338982?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 코엑스서 '스마트폰 픽셀 8배' 올레도스 전시",
+        "date": "2025-08-07 14:11",
+        "link": "https://n.news.naver.com/mnews/article/008/0005232882?sid=101"
+    },
+    {
+        "title": "'터치'하면 확 바뀌는 디스플레이…LGD, 미래 혁신 제품 전시",
+        "date": "2025-08-07 14:08",
+        "link": "https://n.news.naver.com/mnews/article/008/0005232881?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장 관세 영향에 가격 오를 것… 수요 둔화 예상",
+        "date": "2025-08-07 14:08",
+        "link": "https://www.ajunews.com/view/20250807140339561"
+    },
+    {
+        "title": "이청 삼성D 사장 “하반기 보수적 운영 불가피”⋯ 빅테크 수주 도전 의...",
+        "date": "2025-08-07 14:06",
+        "link": "https://www.viva100.com/article/20250807500914"
+    },
+    {
+        "title": "LG디스플레이, 'K-디스플레이' 참가...OLED 혁신 기술 공개",
+        "date": "2025-08-07 14:04",
+        "link": "http://www.metroseoul.co.kr/article/20250807500310"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 품목 관세로 디스플레이도 가격 압박 우려",
+        "date": "2025-08-07 14:04",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508071350154094290c42db76_1/article.html"
+    },
+    {
         "title": "LG디스플레이, 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
         "date": "2025-08-07 14:00",
         "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=81548"
@@ -90,6 +965,11 @@
         "link": "https://www.newscj.com/news/articleView.html?idxno=3302783"
     },
     {
+        "title": "[포토] 취재진에 둘러싸인 이청 삼성디스플레이 사장",
+        "date": "2025-08-07 13:40",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3302778"
+    },
+    {
         "title": "[포토] 대답하는 이청 삼성디스플레이 사장",
         "date": "2025-08-07 13:40",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3302782"
@@ -98,11 +978,6 @@
         "title": "[포토] 질문에 답하는 이청 삼성디스플레이 사장",
         "date": "2025-08-07 13:40",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3302787"
-    },
-    {
-        "title": "[포토] 취재진에 둘러싸인 이청 삼성디스플레이 사장",
-        "date": "2025-08-07 13:40",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3302778"
     },
     {
         "title": "2030년까지 전문인력 3900명 양성…디스플레이 아카데미 출범",
@@ -670,6 +1545,11 @@
         "link": "https://n.news.naver.com/mnews/article/056/0012004493?sid=104"
     },
     {
+        "title": "“테슬라 이어 애플도 뚫었다”…삼성, 애플 차세대 칩 美 파운드리 공...",
+        "date": "2025-08-07 10:22",
+        "link": "https://www.ceoscoredaily.com/page/view/2025080710134603292"
+    },
+    {
         "title": "“테슬라 이어 애플까지”…삼성전자, 美 파운드리 공장 수주 낭보",
         "date": "2025-08-07 10:20",
         "link": "http://www.segyebiz.com/newsView/20250807505910?OutUrl=naver"
@@ -725,34 +1605,9 @@
         "link": "https://n.news.naver.com/mnews/article/366/0001098633?sid=105"
     },
     {
-        "title": "[종합] 애플·테슬라, 초대형 고객까지…美 삼성 파운드리 공장 ‘반사...",
-        "date": "2025-08-07 10:10",
-        "link": "https://www.etoday.co.kr/news/view/2495006"
-    },
-    {
-        "title": "삼성전자, 美 파운드리 공장서 '애플 차세대 칩' 생산 예정",
-        "date": "2025-08-07 10:10",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94028"
-    },
-    {
-        "title": "코스피 3,200대 제한적 상승…美 관세·애플 효과 혼재",
-        "date": "2025-08-07 10:10",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15761099"
-    },
-    {
         "title": "스마트폰보다 최대 10배 선명··· 삼성D, 초미세 올레도스 선봬",
         "date": "2025-08-07 10:06",
         "link": "https://www.ajunews.com/view/20250807100013331"
-    },
-    {
-        "title": "삼성전자, 美 파운드리 공장서 ‘애플 차세대 칩’ 생산…혁신 기술 개...",
-        "date": "2025-08-07 10:06",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065574111836268"
-    },
-    {
-        "title": "삼성 파운드리, 애플 차세대 칩 생산…테슬라 이어 빅테크 고객 확보",
-        "date": "2025-08-07 10:05",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=329671"
     },
     {
         "title": "코스피, 애플 대규모 투자소식에 3200선 회복",
@@ -765,14 +1620,9 @@
         "link": "https://www.fetv.co.kr/news/article.html?no=198516"
     },
     {
-        "title": "삼성, 테슬라 이어 '철통' 애플 벽도 뚫었다…아이폰 핵심부품 수주 '잭...",
+        "title": "美 관세 여파에 디스플레이 수요 둔화…내년이 분수령",
         "date": "2025-08-07 10:02",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231110"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 생산한다…테슬라 수주 이은 성과",
-        "date": "2025-08-07 10:02",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=75395"
+        "link": "https://dealsite.co.kr/articles/146047"
     },
     {
         "title": "넷마블, 삼성전자와 '게임스컴 2025'에서 '몬길: STAR DIVE' 알린다",
@@ -790,11 +1640,6 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006083659?sid=101"
     },
     {
-        "title": "차세대 칩 美서 생산 삼성전자, 테슬라 이어 애플도 잡았다",
-        "date": "2025-08-07 10:01",
-        "link": "https://n.news.naver.com/mnews/article/053/0000051564?sid=101"
-    },
-    {
         "title": "LG디스플레이, ‘K-디스플레이 2025’서 OLED 혁신 기술 공개",
         "date": "2025-08-07 10:00",
         "link": "https://www.sentv.co.kr/article/view/sentv202508070028"
@@ -803,11 +1648,6 @@
         "title": "삼성D·LGD, 'K-디스플레이'서 최신 올레드 기술 나란히 '공개'",
         "date": "2025-08-07 09:59",
         "link": "https://n.news.naver.com/mnews/article/003/0013408699?sid=101"
-    },
-    {
-        "title": "美 인도산 아이폰에 관세 부과할까…애플 노심초사",
-        "date": "2025-08-07 09:58",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=583446"
     },
     {
         "title": "그로쓰리서치 파인엠텍, 글로벌 폴더블 진입 모멘텀 보유",
@@ -820,44 +1660,9 @@
         "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=108010"
     },
     {
-        "title": "'이미지센서' 최강자 소니 따라잡나…중대 분수령[삼성전자·애플 맞손...",
-        "date": "2025-08-07 09:56",
-        "link": "https://n.news.naver.com/mnews/article/003/0013408666?sid=101"
-    },
-    {
         "title": "LG디스플레이, 코엑스 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
         "date": "2025-08-07 09:56",
         "link": "https://www.koreaittimes.com/news/articleView.html?idxno=144335"
-    },
-    {
-        "title": "삼성, 테슬라 이어 애플까지 뚫었다…글로벌 유일 혁신칩 제조",
-        "date": "2025-08-07 09:56",
-        "link": "https://n.news.naver.com/mnews/article/117/0003973497?sid=103"
-    },
-    {
-        "title": "테슬라 이어 '철통' 애플 벽도 뚫었다…삼성 반도체 반격 시동(종합)",
-        "date": "2025-08-07 09:56",
-        "link": "https://n.news.naver.com/mnews/article/001/0015553278?sid=105"
-    },
-    {
-        "title": "테슬라는 AI칩, 애플은 이미지센서…삼성 파운드리 연이은 '대형 수주'",
-        "date": "2025-08-07 09:56",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=806396"
-    },
-    {
-        "title": "삼성전자, 애플 '이미지센서' 내년 3월 첫 생산 유력",
-        "date": "2025-08-07 09:54",
-        "link": "https://dealsite.co.kr/articles/146060"
-    },
-    {
-        "title": "삼성전자, 미국 오스틴 파운드리 공장에서 애플 차세대 이미지센서 본격...",
-        "date": "2025-08-07 09:54",
-        "link": "https://www.daily365.news/2025/08/07/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%af%b8%ea%b5%ad-%ec%98%a4%ec%8a%a4%ed%8b%b4-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%ea%b3%b5%ec%9e%a5%ec%97%90%ec%84%9c-%ec%95%a0%ed%94%8c-%ec%b0%a8%ec%84%b8/"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 공장서 생산",
-        "date": "2025-08-07 09:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=583475"
     },
     {
         "title": "스마트폰 선명도 8~10배 삼성D, 초미세 올레도스로 '미래 XR' 화질 선보...",
@@ -865,84 +1670,9 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231099"
     },
     {
-        "title": "애플, 美에 800조 넘게 쏜다… '삼성' 포함 글로벌 협업 전면전",
-        "date": "2025-08-07 09:52",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=720685"
-    },
-    {
-        "title": "삼성전자 주주들 환호할 소식 미국서 터져... 삼성 파운드리, 애플 '차세...",
-        "date": "2025-08-07 09:52",
-        "link": "https://www.insight.co.kr/news/514733"
-    },
-    {
-        "title": "삼성전자, 美 파운드리 공장서 애플 차세대 칩 생산",
-        "date": "2025-08-07 09:52",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=137120"
-    },
-    {
-        "title": "'소니 10년 독점 깬다'…삼성, 애플 차세대 칩 美 오스틴 공장서 생산",
-        "date": "2025-08-07 09:50",
-        "link": "https://n.news.naver.com/mnews/article/293/0000070814?sid=101"
-    },
-    {
-        "title": "애플, 美에 1천억 달러 추가 투자…삼성과 오스틴서 협업",
-        "date": "2025-08-07 09:49",
-        "link": "https://n.news.naver.com/mnews/article/079/0004053476?sid=104"
-    },
-    {
-        "title": "애플, 美에 1천억달러 추가 투자…삼성과 협업 확대",
-        "date": "2025-08-07 09:48",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1173428"
-    },
-    {
-        "title": "[특징주] 테슬라 이어 애플도 수주..삼성전자 2%대 강세",
-        "date": "2025-08-07 09:46",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2092393"
-    },
-    {
-        "title": "애플, 미국에 140조 원 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 09:45",
-        "link": "https://n.news.naver.com/mnews/article/055/0001281932?sid=104"
-    },
-    {
-        "title": "삼성전자 반등 기지개 켜나···애플에 이미지센서 첫 공급",
-        "date": "2025-08-07 09:44",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414143"
-    },
-    {
-        "title": "애플, 미국에 1천억 달러 추가 투자 발표…삼성 등 글로벌 파트너와 협...",
-        "date": "2025-08-07 09:44",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=359760"
-    },
-    {
         "title": "LGD, 'K디스플레이 2025'서 OLED 혁신 기술 공개",
         "date": "2025-08-07 09:42",
         "link": "https://www.econovill.com/news/articleView.html?idxno=706539"
-    },
-    {
-        "title": "애플, 美에 4년간 6000억달러 투자...삼성 등 10개사와 협업 확대",
-        "date": "2025-08-07 09:42",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=122064"
-    },
-    {
-        "title": "“애플, 미국 내 140조 원 투자 예정”…“반도체 100% 관세”",
-        "date": "2025-08-07 09:41",
-        "link": "https://n.news.naver.com/mnews/article/056/0012004432?sid=104"
-    },
-    {
-        "title": "'애플', 미국에 1,000억 달러 추가 투자 발표…뉴욕증시서 5% 상승",
-        "date": "2025-08-07 09:40",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15761061"
-    },
-    {
-        "title": "애플, 미국산 아이폰 유리 전량 생산 선언…6000억 달러로 ‘글로벌 제...",
-        "date": "2025-08-07 09:38",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508070935177798fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "애플, 139조 美 투자 전격 발표···트럼프 관세 압박에 공급망 '선회'",
-        "date": "2025-08-07 09:37",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2313066"
     },
     {
         "title": "LGD, 'K-디스플레이 2025'서 차세대 OLED 기술 공개",
@@ -955,29 +1685,9 @@
         "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=229973"
     },
     {
-        "title": "애플, 미국에 140조 추가 투자…삼성 오스틴공장서 칩 생산",
-        "date": "2025-08-07 09:34",
-        "link": "https://www.ajunews.com/view/20250807093209294"
-    },
-    {
-        "title": "애플, 미국에 1000억달러 더 투자···협력 기업에 삼성전자도 포함",
-        "date": "2025-08-07 09:33",
-        "link": "https://n.news.naver.com/mnews/article/032/0003388017?sid=101"
-    },
-    {
-        "title": "삼성, 미국 파운드리 공장서 애플 신형 칩 제조 맡는다",
-        "date": "2025-08-07 09:33",
-        "link": "https://n.news.naver.com/mnews/article/055/0001281925?sid=101"
-    },
-    {
         "title": "삼성D, K-디스플레이서 '초미세 올레도스' 기술 선봬",
         "date": "2025-08-07 09:32",
         "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/07/2025080700041.html"
-    },
-    {
-        "title": "삼성전자, 애플 차세대칩 미국 텍사스 공장서 생산",
-        "date": "2025-08-07 09:32",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=99849"
     },
     {
         "title": "삼성D·LGD, K-디스플레이 전시회 참가…혁신 기술 한 자리에",
@@ -990,44 +1700,14 @@
         "link": "https://www.newscj.com/news/articleView.html?idxno=3302606"
     },
     {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리서 생산…이미지센서 추정",
-        "date": "2025-08-07 09:28",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=114698"
-    },
-    {
-        "title": "트럼프 “애플, 돌아오고 있다”… 쿡 애플 CEO “조립은 아직 불가”",
-        "date": "2025-08-07 09:27",
-        "link": "https://n.news.naver.com/mnews/article/123/0002365398?sid=104"
-    },
-    {
         "title": "삼성D, 'K디스플레이 전시회' 참가…초미세 올레도스 전시",
         "date": "2025-08-07 09:26",
         "link": "https://www.econovill.com/news/articleView.html?idxno=706527"
     },
     {
-        "title": "삼성전자, 애플 차세대 칩 미국 공장에서 생산",
-        "date": "2025-08-07 09:26",
-        "link": "https://n.news.naver.com/mnews/article/052/0002229638?sid=101"
-    },
-    {
-        "title": "삼성·애플 핵심 부품사 자화전자, 관세 리스크 해소에 주가 '훨훨'",
-        "date": "2025-08-07 09:24",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=366341"
-    },
-    {
         "title": "LG디스플레이, ‘K-디스플레이’ 참가…최고 주사율 OLED 모니터 공개",
         "date": "2025-08-07 09:22",
         "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508070912159361290c42db76_1/article.html"
-    },
-    {
-        "title": "애플의 눈, 테슬라의 뇌 책임진다 텍사스 동맹 설계자, 삼성",
-        "date": "2025-08-07 09:22",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=706526"
-    },
-    {
-        "title": "'테슬라 이어 애플까지' 호재 터졌다…삼전 개미들 '환호'",
-        "date": "2025-08-07 09:21",
-        "link": "https://n.news.naver.com/mnews/article/015/0005167798?sid=101"
     },
     {
         "title": "'K-디스플레이 2025' 삼성D, 스마트폰보다 8~10배 선명 '올레도스' 출격",
@@ -1040,29 +1720,9 @@
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2095937"
     },
     {
-        "title": "애플, 미국에 1천억달러 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 09:20",
-        "link": "https://n.news.naver.com/mnews/article/422/0000768226?sid=104"
-    },
-    {
-        "title": "삼성전자, 美 오스틴 공장서 '애플' 차세대 칩 위탁생산 돌입",
-        "date": "2025-08-07 09:20",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=235777"
-    },
-    {
-        "title": "삼성전자, 애플 계약에 장초반 2% 강세…'7만전자' 회복[핫종목]",
-        "date": "2025-08-07 09:20",
-        "link": "https://n.news.naver.com/mnews/article/421/0008415736?sid=101"
-    },
-    {
         "title": "[산업보고서] 애플도 갑니다 '폴더블'...수혜주는",
         "date": "2025-08-07 09:18",
         "link": "http://theviewers.co.kr/View.aspx?No=3739237"
-    },
-    {
-        "title": "애플, 미국에 1천억 달러 추가 투자…삼성과 협력 강화로 제조업 혁신 ...",
-        "date": "2025-08-07 09:18",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=835229"
     },
     {
         "title": "삼성디스플레이, ‘K-디스플레이 전시’서 초미세 올레도스 기술력 소개",
@@ -1075,26 +1735,6 @@
         "link": "https://n.news.naver.com/mnews/article/029/0002973889?sid=101"
     },
     {
-        "title": "삼성전자, 애플 차세대 칩 제조 협력…미국 공장서 생산",
-        "date": "2025-08-07 09:15",
-        "link": "https://n.news.naver.com/mnews/article/629/0000414533?sid=101"
-    },
-    {
-        "title": "애플, 美에 1000억달러 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 09:15",
-        "link": "https://n.news.naver.com/mnews/article/448/0000547886?sid=104"
-    },
-    {
-        "title": "삼성 파운드리, 테슬라 이어 애플 수주…美서 차세대 칩 생산",
-        "date": "2025-08-07 09:14",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1268506"
-    },
-    {
-        "title": "삼성, 테슬라 이어 애플 뚫었다…전세계 최초 혁신칩 제조",
-        "date": "2025-08-07 09:14",
-        "link": "https://n.news.naver.com/mnews/article/025/0003460461?sid=101"
-    },
-    {
         "title": "삼성D, 'K-디스플레이 전시'서 초미세 올레도스 기술력 선봬",
         "date": "2025-08-07 09:13",
         "link": "https://www.newspim.com/news/view/20250807000186"
@@ -1103,16 +1743,6 @@
         "title": "올레도스·마이크로LED…K-디스플레이 첨단기술 총망라(종합)",
         "date": "2025-08-07 09:12",
         "link": "https://n.news.naver.com/mnews/article/001/0015553124?sid=101"
-    },
-    {
-        "title": "애플, 美 투자 831조 원으로 대폭 확대... '미국 제조업 프로그램'으로 ...",
-        "date": "2025-08-07 09:12",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35954"
-    },
-    {
-        "title": "관세 리스크 누른 '애플 호재'…삼성전자 7만원 재돌파",
-        "date": "2025-08-07 09:12",
-        "link": "https://n.news.naver.com/mnews/article/008/0005232648?sid=101"
     },
     {
         "title": "LG디스플레이, 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
@@ -1125,21 +1755,6 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=366331"
     },
     {
-        "title": "삼성전자, 애플 벽 넘었다···차세대 칩 美 파운드리 공장서 양산",
-        "date": "2025-08-07 09:09",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2313019"
-    },
-    {
-        "title": "삼성전자, 테슬라 이어 애플 차세대 칩도 생산한다",
-        "date": "2025-08-07 09:06",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=122053"
-    },
-    {
-        "title": "삼성전자, 테슬라 이어 애플과도 계약…‘7만전자’ 회복[특징주]",
-        "date": "2025-08-07 09:06",
-        "link": "https://n.news.naver.com/mnews/article/018/0006083566?sid=101"
-    },
-    {
         "title": "“스마트폰보다 10배 선명”…삼성D, ‘K-디스플레이 전시’서 초미세 ...",
         "date": "2025-08-07 09:04",
         "link": "https://n.news.naver.com/mnews/article/029/0002973885?sid=101"
@@ -1150,21 +1765,6 @@
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1254193"
     },
     {
-        "title": "애플, 美에 1천억 달러 추가 투자…TI·AMAT·삼성 등과 협업",
-        "date": "2025-08-07 09:04",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=176887"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 09:04",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=706516"
-    },
-    {
-        "title": "애플, 美에 1천억달러 추가 투자…삼성 등과 협업 확대(종합)",
-        "date": "2025-08-07 09:01",
-        "link": "https://n.news.naver.com/mnews/article/001/0015553081?sid=104"
-    },
-    {
         "title": "강력한 하이엔드 OLED 게이밍 모니터, 에이수스 ROG STRIX OLED XG27UCDMG",
         "date": "2025-08-07 09:00",
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55584"
@@ -1173,11 +1773,6 @@
         "title": "최신 스마트폰보다 최대10배 선명 삼성D, XR용 '초미세 올레도스' 선봬",
         "date": "2025-08-07 09:00",
         "link": "https://www.nbnews.kr/news/articleView.html?idxno=113006"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 생산 나선다",
-        "date": "2025-08-07 09:00",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000000938"
     },
     {
         "title": "[K방산 뒤흔든 팔머 럭키①] VR 발명가에서 방산 혁신가로···美 무기체...",
@@ -1195,16 +1790,6 @@
         "link": "https://www.asiatoday.co.kr/view.php?key=20250807010003238"
     },
     {
-        "title": "애플, 미에 1천억 달러 추가 투자...삼성과 협업 확대",
-        "date": "2025-08-07 08:58",
-        "link": "https://n.news.naver.com/mnews/article/052/0002229628?sid=104"
-    },
-    {
-        "title": "테슬라 이어 '철통' 애플 벽도 뚫었다…삼성 반도체 반격 시동",
-        "date": "2025-08-07 08:58",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=828969"
-    },
-    {
         "title": "LG디스플레이, 'K-디스플레이 2025'서 OLED 혁신 기술 공개",
         "date": "2025-08-07 08:56",
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=441050"
@@ -1213,21 +1798,6 @@
         "title": "삼성전자, 스마트폰 시장 위상 재확인...'프리미엄 AI' 전략 대성공",
         "date": "2025-08-07 08:56",
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=345778"
-    },
-    {
-        "title": "“고객사 언급 불가” 삼성전자, 테슬라 이어 애플까지 줄줄이 파운드리...",
-        "date": "2025-08-07 08:56",
-        "link": "http://kpenews.com/View.aspx?No=3739216"
-    },
-    {
-        "title": "삼성전자, 미국 오스틴 파운드리 공장서 애플 차기 아이폰용 이미지센서...",
-        "date": "2025-08-07 08:54",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406606"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산한다",
-        "date": "2025-08-07 08:54",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=220098"
     },
     {
         "title": "삼성D, 'K-디스플레이 전시'서 초미세 올레도스 기술력 선보인다",
@@ -1240,34 +1810,9 @@
         "link": "https://www.newspim.com/news/view/20250807000063"
     },
     {
-        "title": "[서울데이터랩]빅테크 주식 상승세 지속 엔비디아와 애플 두각",
-        "date": "2025-08-07 08:47",
-        "link": "https://n.news.naver.com/mnews/article/081/0003564142?sid=101"
-    },
-    {
-        "title": "애플, 美에 1천억 달러 추가 투자…’미국 제조업 프로그램’ 시작",
-        "date": "2025-08-07 08:46",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385130?sid=105"
-    },
-    {
-        "title": "삼성전자, 테슬라 이어 애플 수주…아이폰 부품 美 생산[종합]",
-        "date": "2025-08-07 08:46",
-        "link": "https://n.news.naver.com/mnews/article/031/0000955170?sid=105"
-    },
-    {
-        "title": "삼성전자, 미국 오스틴서 애플 차세대 칩 만든다",
-        "date": "2025-08-07 08:46",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2095887"
-    },
-    {
         "title": "삼성·LG, K-디스플레이 2025서 OLED 기술 격돌",
         "date": "2025-08-07 08:45",
         "link": "https://n.news.naver.com/mnews/article/119/0002988370?sid=101"
-    },
-    {
-        "title": "삼성전자, 美파운드리 공장서 애플 차세대 칩 생산",
-        "date": "2025-08-07 08:45",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000077601"
     },
     {
         "title": "삼성디스플레이, 'K-디스플레이 전시'서 초미세 올레도스 전시",
@@ -1275,49 +1820,14 @@
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=766941"
     },
     {
-        "title": "애플 139조 대미 추가투자…삼성 공장서 새 아이폰 칩 만든다",
-        "date": "2025-08-07 08:44",
-        "link": "https://n.news.naver.com/mnews/article/008/0005232623?sid=104"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 08:44",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=405153"
-    },
-    {
         "title": "LGD, 'K-디스플레이 2025' 참가...OLED 혁신 기술 공개",
         "date": "2025-08-07 08:42",
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=220092"
     },
     {
-        "title": "삼성 반도체 부활 신호탄… 테슬라 이어 애플 차세대 칩 생산도 맡는다",
-        "date": "2025-08-07 08:42",
-        "link": "https://n.news.naver.com/mnews/article/366/0001098584?sid=105"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 오스틴 공장서 생산",
-        "date": "2025-08-07 08:42",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=191889"
-    },
-    {
-        "title": "삼성전자, 애플에 차세대 칩 납품…텍사스 공장서 만든다",
-        "date": "2025-08-07 08:41",
-        "link": "https://n.news.naver.com/mnews/article/020/0003652804?sid=101"
-    },
-    {
         "title": "‘OLED 강자’ 삼성D·LGD, K-디스플레이 2025서 혁신 기술 대거 공개",
         "date": "2025-08-07 08:40",
         "link": "https://www.etoday.co.kr/news/view/2494947"
-    },
-    {
-        "title": "애플, 美에 1000억달러 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 08:40",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1254150"
-    },
-    {
-        "title": "[속보] 삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 08:40",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3344570"
     },
     {
         "title": "애플, '메이드인 USA' 전환…삼성 택사스 팹 제외 韓 AMP 직접 영향권 밖...",
@@ -1345,24 +1855,9 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231082"
     },
     {
-        "title": "'애플', 美에 1천억달러 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 08:36",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15760965"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 08:34",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145382"
-    },
-    {
         "title": "1세대부터 4세대 OLED까지…LGD, 혁신 디스플레이 기술 선봬",
         "date": "2025-08-07 08:30",
         "link": "https://n.news.naver.com/mnews/article/018/0006083514?sid=101"
-    },
-    {
-        "title": "테슬라 이어 애플까지... 삼성전자에서 오늘(7일) 엄청난 소식 전해졌다",
-        "date": "2025-08-07 08:30",
-        "link": "https://www.wikitree.co.kr/articles/1071411"
     },
     {
         "title": "[기자수첩] 조용한 혁신, 삼성의 자신감",
@@ -1375,54 +1870,9 @@
         "link": "https://www.koit.co.kr/news/articleView.html?idxno=201202"
     },
     {
-        "title": "애플, 美 1000억 달러 추가 투자…삼성 등과 손 잡고 ‘AI·실리콘’ 제...",
-        "date": "2025-08-07 08:26",
-        "link": "https://n.news.naver.com/mnews/article/119/0002988363?sid=105"
-    },
-    {
-        "title": "삼성전자, 테슬라 이어 '애플'도 잡았다···파운드리 실적 개선 기대↑",
-        "date": "2025-08-07 08:26",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=603137"
-    },
-    {
-        "title": "삼성전자, 애플에 차세대 칩 공급…美텍사스 공장서 생산",
-        "date": "2025-08-07 08:26",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=250154"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 만든다… 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 08:26",
-        "link": "https://n.news.naver.com/mnews/article/417/0001093937?sid=101"
-    },
-    {
-        "title": "삼성전자, 애플에 이미지센서 첫 공급…美 오스틴 팹서 양산",
-        "date": "2025-08-07 08:24",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385124?sid=105"
-    },
-    {
-        "title": "애플 계약이 트럼프 관세 이겼다…삼전, 프리마켓서 2.6% 상승 [줍줍 리...",
-        "date": "2025-08-07 08:24",
-        "link": "https://n.news.naver.com/mnews/article/011/0004518262?sid=101"
-    },
-    {
-        "title": "삼성, 애플과 美 생산 협력…차세대 이미지센서 기술 협업",
-        "date": "2025-08-07 08:22",
-        "link": "https://n.news.naver.com/mnews/article/003/0013408379?sid=101"
-    },
-    {
-        "title": "아이폰17 프로, 더 비싸진다...기본 용량 늘리고 50달러 인상",
-        "date": "2025-08-07 08:21",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385123?sid=105"
-    },
-    {
         "title": "컬러·스펙·출시일 다 모았다 애플 '아이폰17 시리즈' 핵심 정보 총 ...",
         "date": "2025-08-07 08:20",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534632"
-    },
-    {
-        "title": "테슬라 이어 애플까지 삼성전자 美공장서 애플 차세대 칩 생산",
-        "date": "2025-08-07 08:20",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=766944"
     },
     {
         "title": "마스가 돛 단 HD현대, 美 MRO 첫 수주…구윤철 “3500억달러 대미 투자용...",
@@ -1430,19 +1880,9 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004518260?sid=101"
     },
     {
-        "title": "애플, 美 투자 6천억 달러로 확대…삼성과 '칩 동맹' 가속",
-        "date": "2025-08-07 08:16",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=366307"
-    },
-    {
         "title": "LG디스플레이, 'K-디스플레이 2025'서 차세대 기술 대거 공개",
         "date": "2025-08-07 08:14",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673522"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美파운드리 공장서 생산",
-        "date": "2025-08-07 08:10",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450341"
     },
     {
         "title": "[더벨]'애플이 온다' 삼성D, 폴더블 생태계 확장 속도",
@@ -1455,36 +1895,6 @@
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508061229408400107769"
     },
     {
-        "title": "애플 140조원 규모 대미 투자...‘협력사’에 삼성도 포함",
-        "date": "2025-08-07 08:07",
-        "link": "https://n.news.naver.com/mnews/article/023/0003921698?sid=105"
-    },
-    {
-        "title": "애플, 미국에 1천억달러 추가 투자…“삼성 등과 협업 확대”",
-        "date": "2025-08-07 08:07",
-        "link": "https://n.news.naver.com/mnews/article/056/0012004357?sid=104"
-    },
-    {
-        "title": "삼성전자 美 파운드리 공장에서 애플 칩 생산",
-        "date": "2025-08-07 08:06",
-        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=2881"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 08:06",
-        "link": "https://www.sentv.co.kr/article/view/sentv202508070016"
-    },
-    {
-        "title": "테슬라 이어 '철통' 애플 벽도 뚫었다…삼성 반도체 반격 시동",
-        "date": "2025-08-07 08:05",
-        "link": "https://n.news.naver.com/mnews/article/001/0015552987?sid=105"
-    },
-    {
-        "title": "삼성, 테슬라 이어 애플도 뚫었다...차세대 칩 美파운드리 공장서 생산",
-        "date": "2025-08-07 08:04",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1034190"
-    },
-    {
         "title": "그로쓰리서치 파인엠텍, 글로벌 폴더블 진입 모멘텀 보유",
         "date": "2025-08-07 08:04",
         "link": "https://n.news.naver.com/mnews/article/003/0013408362?sid=101"
@@ -1495,29 +1905,9 @@
         "link": "https://www.newswhoplus.com/news/articleView.html?idxno=35827"
     },
     {
-        "title": "“4년간 140조 쏜다” 애플 대규모 투자 소식에 5% 불기둥 [투자360]",
-        "date": "2025-08-07 08:01",
-        "link": "https://n.news.naver.com/mnews/article/016/0002510931?sid=101"
-    },
-    {
         "title": "삼성디스플레이 SI투자의 '명암'",
         "date": "2025-08-07 08:00",
         "link": "https://www.the-stock.kr/news/articleView.html?idxno=30913"
-    },
-    {
-        "title": "애플, 美에 1천억달러 추가 투자…삼성 등과 협업 확대",
-        "date": "2025-08-07 08:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015552977?sid=104"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 07:59",
-        "link": "https://n.news.naver.com/mnews/article/022/0004057977?sid=101"
-    },
-    {
-        "title": "삼성전자, 오스틴 공장에서 애플 차세대칩 생산",
-        "date": "2025-08-07 07:58",
-        "link": "https://news.mtn.co.kr/news-detail/2025080707431989309"
     },
     {
         "title": "삼성디스플레이, 'K-디스플레이 전시'서 초미세 올레도스 기술력 공개한...",
@@ -1525,1623 +1915,13 @@
         "link": "http://www.thebigdata.co.kr/view.php?ud=202508070728244859a3c244e1c9_23"
     },
     {
-        "title": "삼성전자, 美 오스틴 공장서 애플 차세대칩 양산",
-        "date": "2025-08-07 07:52",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338156"
-    },
-    {
-        "title": "삼성전자, 미국 오스틴 파운드리 공장서 애플 차세대 칩 생산",
-        "date": "2025-08-07 07:50",
-        "link": "https://www.etoday.co.kr/news/view/2494917"
-    },
-    {
-        "title": "테슬라 이어 애플 칩까지…삼성 '미국 파운드리' 넝쿨째 수주",
-        "date": "2025-08-07 07:50",
-        "link": "https://n.news.naver.com/mnews/article/008/0005232602?sid=101"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩을 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 07:50",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=100391"
-    },
-    {
-        "title": "팀 쿡이 트럼프에 건넨 ‘애플로고 유리+24K 금받침대’…의미는?[모닝...",
-        "date": "2025-08-07 07:47",
-        "link": "https://n.news.naver.com/mnews/article/018/0006083456?sid=105"
-    },
-    {
-        "title": "애플 차세대 칩 삼성이 만든다…美 파운드리 공장서 생산",
-        "date": "2025-08-07 07:45",
-        "link": "https://n.news.naver.com/mnews/article/015/0005167751?sid=101"
-    },
-    {
         "title": "화면 더 커진다 애플, iOS 26 베타서 '애플워치 울트라3' 디스플레이 ...",
         "date": "2025-08-07 07:44",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534570"
     },
     {
-        "title": "삼성전자, 美 파운드리 공장서 애플 차세대 칩 생산",
-        "date": "2025-08-07 07:44",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=262685"
-    },
-    {
-        "title": "애플 삼성 미국 공장이 아이폰 차세대 칩 공급할 것",
-        "date": "2025-08-07 07:43",
-        "link": "https://n.news.naver.com/mnews/article/241/0003458196?sid=105"
-    },
-    {
-        "title": "삼성, 테슬라 이어 애플도 뚫었다...혁신적인 칩 생산 돌입",
-        "date": "2025-08-07 07:42",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=43725"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 07:37",
-        "link": "https://n.news.naver.com/mnews/article/057/0001901095?sid=101"
-    },
-    {
-        "title": "삼성전자, 美 오스틴 공장에서 애플 차세대 칩 생산",
-        "date": "2025-08-07 07:36",
-        "link": "https://www.newspim.com/news/view/20250807000031"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 오스틴파운드리 팹에서 생산",
-        "date": "2025-08-07 07:36",
-        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=87848"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 수주…차기 아이폰용 이미지센서인듯",
-        "date": "2025-08-07 07:36",
-        "link": "https://n.news.naver.com/mnews/article/016/0002510926?sid=105"
-    },
-    {
-        "title": "테슬라 이어 애플 뚫었다…삼성, 美서 차세대 칩 양산",
-        "date": "2025-08-07 07:34",
-        "link": "https://n.news.naver.com/mnews/article/030/0003338748?sid=105"
-    },
-    {
         "title": "아이폰 비싸진다 반격 나선 삼성…'애플 잔칫날' 노린다",
         "date": "2025-08-07 07:31",
         "link": "https://n.news.naver.com/mnews/article/015/0005167745?sid=105"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 07:28",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=211303"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 美 파운드리 공장서 생산",
-        "date": "2025-08-07 07:28",
-        "link": "https://n.news.naver.com/mnews/article/014/0005388281?sid=101"
-    },
-    {
-        "title": "삼성·애플 협력…텍사스 공장에서 차세대 아이폰 칩 생산 시작",
-        "date": "2025-08-07 07:22",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=835204"
-    },
-    {
-        "title": "테슬라 이어 애플까지 삼성전자, 미국 파운드리 공장 수주 행진",
-        "date": "2025-08-07 07:21",
-        "link": "https://n.news.naver.com/mnews/article/050/0000094656?sid=101"
-    },
-    {
-        "title": "삼성전자 美 파운드리 공장서 애플 차세대 칩 생산한다(상보)",
-        "date": "2025-08-07 07:20",
-        "link": "https://n.news.naver.com/mnews/article/018/0006083442?sid=101"
-    },
-    {
-        "title": "“애플, 미국 내 140조 원 투자 예정”…“반도체 100% 관세”",
-        "date": "2025-08-07 07:19",
-        "link": "https://n.news.naver.com/mnews/article/056/0012004328?sid=104"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산한다",
-        "date": "2025-08-07 07:16",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=508640"
-    },
-    {
-        "title": "삼성전자 파운드리, 美 오스틴 팹서 애플 칩 생산(종합)",
-        "date": "2025-08-07 07:14",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4368642"
-    },
-    {
-        "title": "애플 삼성전자가 아이폰 차세대 칩 텍사스 파운드리 공장서 생산",
-        "date": "2025-08-07 07:12",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=664562"
-    },
-    {
-        "title": "삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산한다",
-        "date": "2025-08-07 07:05",
-        "link": "https://n.news.naver.com/mnews/article/422/0000768193?sid=101"
-    },
-    {
-        "title": "삼성 파운드리 또 해냈다…애플 차세대 칩 美오스틴 팹서 생산",
-        "date": "2025-08-07 07:04",
-        "link": "https://n.news.naver.com/mnews/article/421/0008415501?sid=101"
-    },
-    {
-        "title": "[속보] 삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산",
-        "date": "2025-08-07 07:02",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508070652414700698"
-    },
-    {
-        "title": "한국디스플레이산업전시회 개막…진짜 성장 이끌 전략 산업",
-        "date": "2025-08-07 06:01",
-        "link": "https://n.news.naver.com/mnews/article/031/0000955161?sid=105"
-    },
-    {
-        "title": "'첨단 디스플레이 한눈에'…한국디스플레이산업 전시회 개최",
-        "date": "2025-08-07 06:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015552872?sid=101"
-    },
-    {
-        "title": "'첨단 미래 디스플레이' 만난다…산업부, 코엑스서 전시회",
-        "date": "2025-08-07 06:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008415439?sid=101"
-    },
-    {
-        "title": "무안경 3D·홀로그램 한눈에…디스플레이 산업 미래, 코엑스에 뜬다",
-        "date": "2025-08-07 06:00",
-        "link": "https://www.etoday.co.kr/news/view/2494891"
-    },
-    {
-        "title": "‘갤럭시 vs 아이폰’⋯ 올 하반기 글로벌 스마트폰 시장 ‘빅매치’",
-        "date": "2025-08-07 05:42",
-        "link": "https://www.viva100.com/article/20250806500448"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 '플랫폼 통합' 게이밍 경험 제공한다",
-        "date": "2025-08-07 02:26",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038306"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가... 통합 게이밍 경험 제공",
-        "date": "2025-08-06 23:48",
-        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=411590"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가",
-        "date": "2025-08-06 22:42",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290308299171"
-    },
-    {
-        "title": "넷마블 '몬길', '게임스컴 2025' 참가...삼성전자와 맞손",
-        "date": "2025-08-06 20:38",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=108822"
-    },
-    {
-        "title": "CSOT 8세대 잉크젯 OLED 투자, 이르면 이달 발표",
-        "date": "2025-08-06 20:00",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=39099"
-    },
-    {
-        "title": "머크, 디스플레이 혁신 ‘머티리얼즈 인텔리전스’ 솔루션 소개",
-        "date": "2025-08-06 19:00",
-        "link": "http://amenews.kr/news/view.php?idx=63298"
-    },
-    {
-        "title": "한자리에 모인 글로벌 디스플레이…기술혁신·관세대응 전략 논의",
-        "date": "2025-08-06 18:16",
-        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=118194"
-    },
-    {
-        "title": "삼성·LG디스플레이 OLED 캐즘 뚫겠다",
-        "date": "2025-08-06 18:14",
-        "link": "https://n.news.naver.com/mnews/article/015/0005167639?sid=101"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2025' 참가...통합 게이밍 체험공간 선사",
-        "date": "2025-08-06 18:12",
-        "link": "https://www.m-economynews.com/news/article.html?no=58234"
-    },
-    {
-        "title": "넷마블X삼성전자, 독일 쾰른서 몬길 적극 알린다",
-        "date": "2025-08-06 18:06",
-        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=483939"
-    },
-    {
-        "title": "LGD OLED, 중고가 TV 시장 침투 확대 계획",
-        "date": "2025-08-06 17:58",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=39081"
-    },
-    {
-        "title": "[인터뷰] 트렌드포스 부사장 대형 TV서 OLED 성공 가능성 낮아, IT기기는...",
-        "date": "2025-08-06 17:40",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406575"
-    },
-    {
-        "title": "[크랩] 삼성 디스플레이 기술, 진짜 애플이 중국에 넘겼나?",
-        "date": "2025-08-06 17:26",
-        "link": "https://n.news.naver.com/mnews/article/056/0012003897?sid=105"
-    },
-    {
-        "title": "삼성·LG디스플레이, AI 융합으로 차세대 디스플레이 패러다임 전환 가...",
-        "date": "2025-08-06 17:20",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508060839595020543"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 17:18",
-        "link": "https://n.news.naver.com/mnews/article/029/0002973798?sid=105"
-    },
-    {
-        "title": "LG전자, 미 바이어 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 17:18",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2095754"
-    },
-    {
-        "title": "[브리프]넷마블 스마일게이트 엔씨소프트 컴투스 카카오게임즈",
-        "date": "2025-08-06 17:08",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338125"
-    },
-    {
-        "title": "삼성전자, 獨 최대 게임전시회 '게임스컴 2025' 참가…통합 게이밍 경험...",
-        "date": "2025-08-06 16:58",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272344"
-    },
-    {
-        "title": "TCL CSOT, 세계 유일 'IJT OLED' 양산 기업 눈도장",
-        "date": "2025-08-06 16:56",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=706447"
-    },
-    {
-        "title": "‘SKT 해킹 사태’로 삼성전자 조용히 웃었다… 갤S25 韓 판매량 300만대...",
-        "date": "2025-08-06 16:56",
-        "link": "https://n.news.naver.com/mnews/article/366/0001098517?sid=105"
-    },
-    {
-        "title": "“와, Z폴드7 진짜 미쳤어요”…삼성 철수했는데도 대박났다는 ‘이 나...",
-        "date": "2025-08-06 16:53",
-        "link": "https://n.news.naver.com/mnews/article/011/0004518046?sid=101"
-    },
-    {
-        "title": "앱코, 숫자키를 품은 초슬림 LP 무접점 키보드 LKN99 BT 출시",
-        "date": "2025-08-06 16:50",
-        "link": "https://kbench.com/?q=node/270113"
-    },
-    {
-        "title": "삼성전자, 독일 '게임스컴 2025'참가…'통합 게이밍 경험' 제공",
-        "date": "2025-08-06 16:46",
-        "link": "http://www.100ssd.co.kr/news/articleView.html?idxno=124309"
-    },
-    {
-        "title": "삼성·LG디스플레이, OLED 기술력으로 디스플레이 불황 극복한다",
-        "date": "2025-08-06 16:44",
-        "link": "https://www.etoday.co.kr/news/view/2494830"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가··· 넷마블 '몬길'과 협업도",
-        "date": "2025-08-06 16:38",
-        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=116703"
-    },
-    {
-        "title": "디스플레이도 캐즘에…삼성·LG 차세대 OLED 기술로 극복",
-        "date": "2025-08-06 16:37",
-        "link": "https://n.news.naver.com/mnews/article/014/0005388082?sid=101"
-    },
-    {
-        "title": "[뉴템] 레노버, 고성능 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 16:32",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202222?sid=105"
-    },
-    {
-        "title": "LG전자, 미국 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 16:32",
-        "link": "https://hobbyen-news.com/news/view/1065598146433911"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 선사",
-        "date": "2025-08-06 16:26",
-        "link": "http://www.segyebiz.com/newsView/20250806514368?OutUrl=naver"
-    },
-    {
-        "title": "OLED·차세대 디스플레이, AI와 만난다…삼성디스플레이·LGD의 미래 비...",
-        "date": "2025-08-06 16:24",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250806010002914"
-    },
-    {
-        "title": "캐즘 접어든 OLED TV…품질 혁신과 원가 절감 必",
-        "date": "2025-08-06 16:22",
-        "link": "https://dealsite.co.kr/articles/145997"
-    },
-    {
-        "title": "[게임가 엿보기] 엔씨소프트 리니지2M, 'ONE AND ONLY' 업데이트 예고",
-        "date": "2025-08-06 16:22",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=329649"
-    },
-    {
-        "title": "애플, 아이폰17 오는 9월 9일 공개 유력! 초슬림 '에어' 모델 최초 등장",
-        "date": "2025-08-06 16:20",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534625"
-    },
-    {
-        "title": "기업들 너도나도 ‘AI 혁신’",
-        "date": "2025-08-06 16:08",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1270880&inflow=N"
-    },
-    {
-        "title": "아바코, 2분기 영업이익 201억",
-        "date": "2025-08-06 16:03",
-        "link": "https://www.newspim.com/news/view/20250806000918"
-    },
-    {
-        "title": "LG전자, 미국 바이어가 뽑은 최고 AV·IT 브랜드...전 라인업 호평",
-        "date": "2025-08-06 15:56",
-        "link": "https://www.mediapen.com/news/view/1034557"
-    },
-    {
-        "title": "“OLED 캐즘 넘는다”…LG·삼성디스플레이, AI·저전력 기술로 승부수",
-        "date": "2025-08-06 15:54",
-        "link": "https://www.kukinews.com/article/view/kuk202508060170"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 2025 참가",
-        "date": "2025-08-06 15:54",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=489779"
-    },
-    {
-        "title": "아바코, 2분기 역대 최대 실적…中 OLED 수혜 본격화",
-        "date": "2025-08-06 15:52",
-        "link": "https://n.news.naver.com/mnews/article/003/0013407540?sid=101"
-    },
-    {
-        "title": "AI 플랫폼 강조한 삼성D, OLED TV 뚝심 드러낸 LGD [소부장디과장]",
-        "date": "2025-08-06 15:51",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202211?sid=105"
-    },
-    {
-        "title": "삼성전자, 세계 최대 규모 게임 전시회 '게임스컴 2025' 참가",
-        "date": "2025-08-06 15:50",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=40907"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 15:44",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=334188"
-    },
-    {
-        "title": "[현장] ‘캐즘’에 빠진 디스플레이…삼성D·LGD 대응법은 (종합)",
-        "date": "2025-08-06 15:43",
-        "link": "https://n.news.naver.com/mnews/article/117/0003973269?sid=105"
-    },
-    {
-        "title": "美 관세, 디스플레이에 '나비효과'…올해 수요 전망 2%↓",
-        "date": "2025-08-06 15:42",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4368582"
-    },
-    {
-        "title": "삼성전자, 세계 최대 게임전시회 참가…최신 게이밍 제품 공개",
-        "date": "2025-08-06 15:38",
-        "link": "https://n.news.naver.com/mnews/article/003/0013407485?sid=101"
-    },
-    {
-        "title": "삼성디스플레이 저전력·고화질 기술, AI로 혁신",
-        "date": "2025-08-06 15:38",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1253929"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가 게임 경험 향상 파트너십 소개",
-        "date": "2025-08-06 15:35",
-        "link": "https://n.news.naver.com/mnews/article/076/0004308742?sid=101"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 15:34",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=334185"
-    },
-    {
-        "title": "침체된 TV 시장…OLED·AI로 '캐즘' 돌파한다[ER현장]",
-        "date": "2025-08-06 15:30",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=706430"
-    },
-    {
-        "title": "삼성·LGD 초격차로 침체 극복…中 TCL 차세대 기술 자신",
-        "date": "2025-08-06 15:30",
-        "link": "https://n.news.naver.com/mnews/article/015/0005167464?sid=101"
-    },
-    {
-        "title": "고려대, OLED 제조 공정 단순화...단일분자 차세대 신소재 개발",
-        "date": "2025-08-06 15:30",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89395"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 15:28",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1070486"
-    },
-    {
-        "title": "디스플레이도 ‘캐즘’ 국면…LG·삼성 OLED와 AI로 돌파구 모색",
-        "date": "2025-08-06 15:20",
-        "link": "https://sateconomy.co.kr/news/view/1065593802106027"
-    },
-    {
-        "title": "[AT 산업 단신] 삼성전자·LG전자·삼성전기·파두",
-        "date": "2025-08-06 15:16",
-        "link": "https://www.asiatime.co.kr/article/20250806500279"
-    },
-    {
-        "title": "'캐즘' 직면한 디스플레이…LGD·삼성D 불황 극복 전략은",
-        "date": "2025-08-06 15:15",
-        "link": "https://n.news.naver.com/mnews/article/374/0000456077?sid=101"
-    },
-    {
-        "title": "OLED와 AI로 캐즘 넘는다···삼성D·LGD의 디스플레이 생존법",
-        "date": "2025-08-06 15:08",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=262564"
-    },
-    {
-        "title": "삼성·LG디스플레이, 고부가 제품 주력...하반기 실적 날개 달까",
-        "date": "2025-08-06 15:04",
-        "link": "https://www.mediapen.com/news/view/1034514"
-    },
-    {
-        "title": "삼성·LGD, 차세대 OLED·AI 혁신으로 디스플레이 '캐즘' 넘는다",
-        "date": "2025-08-06 14:58",
-        "link": "https://n.news.naver.com/mnews/article/018/0006083045?sid=101"
-    },
-    {
-        "title": "삼성디스플레이 AI 통해 친환경 제품 생산",
-        "date": "2025-08-06 14:58",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414117"
-    },
-    {
-        "title": "삼성D·LGD, AI 품고 진화…시장 정체 돌파구 모색",
-        "date": "2025-08-06 14:56",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=182946"
-    },
-    {
-        "title": "조성찬 삼성D 디스플레이, AI와 인간을 잇는 소통 창구로 진화할 것",
-        "date": "2025-08-06 14:55",
-        "link": "https://n.news.naver.com/mnews/article/031/0000955003?sid=105"
-    },
-    {
-        "title": "삼성전자, 세계 최대 게임전시회 '게임스컴 2025' 참가",
-        "date": "2025-08-06 14:48",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=177739"
-    },
-    {
-        "title": "넷마블, 삼성전자와 '게임스컴 2025' 출격",
-        "date": "2025-08-06 14:48",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=177743"
-    },
-    {
-        "title": "디스플레이 성장동력…삼성 “AI용 뉴폼팩터”, LG “대형 OLED 기회”",
-        "date": "2025-08-06 14:47",
-        "link": "https://n.news.naver.com/mnews/article/030/0003338614?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가⋯ 통합 게이밍 경험 제공",
-        "date": "2025-08-06 14:46",
-        "link": "https://www.viva100.com/article/20250806500166"
-    },
-    {
-        "title": "프리미엄 OLED, TV 시장 '캐즘' 극복에 나선다",
-        "date": "2025-08-06 14:44",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025080614000116519"
-    },
-    {
-        "title": "고래 싸움에 새우등? 트럼프發 특허료 인상에 삼성·LG 타격 [알짜배기...",
-        "date": "2025-08-06 14:44",
-        "link": "https://n.news.naver.com/mnews/article/277/0005633638?sid=105"
-    },
-    {
-        "title": "디스플레이 불황 타개 전략은?…LG OLED 대중화·삼성 고화질·저전력...",
-        "date": "2025-08-06 14:39",
-        "link": "https://n.news.naver.com/mnews/article/448/0000547743?sid=101"
-    },
-    {
-        "title": "게임 속으로 들어간다... 삼성, 쾰른 게임스컴서 '플레이 갤럭시' 세계...",
-        "date": "2025-08-06 14:38",
-        "link": "https://www.insight.co.kr/news/514662"
-    },
-    {
-        "title": "“OLED TV 캐즘 직면”… 삼성D·LGD, AI·프리미엄 전략으로 돌파구 마련",
-        "date": "2025-08-06 14:36",
-        "link": "https://n.news.naver.com/mnews/article/366/0001098443?sid=105"
-    },
-    {
-        "title": "삼성전자, S25·폴더블 판매 호조…3분기 동력 확보",
-        "date": "2025-08-06 14:36",
-        "link": "https://www.asiatime.co.kr/article/20250806500251"
-    },
-    {
-        "title": "삼성전자, '게임스컴2025'서 모바일 게임 토너먼트 진행",
-        "date": "2025-08-06 14:36",
-        "link": "https://hobbyen-news.com/news/view/1065591161661301"
-    },
-    {
-        "title": "넷마블, 삼성전자와 손잡고 신작 '몬길: STAR DIVE' 게임스컴 출품",
-        "date": "2025-08-06 14:34",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=834762"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시…게이머 위한 고성능 스펙 제...",
-        "date": "2025-08-06 14:32",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=218851"
-    },
-    {
-        "title": "통합 게이밍 경험 제공…삼성전자, '게임스컴 2025' 참가",
-        "date": "2025-08-06 14:28",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250806010002477"
-    },
-    {
-        "title": "S. Korean display giants aim to overcome stagnant growth through OLED, AI",
-        "date": "2025-08-06 14:25",
-        "link": "https://n.news.naver.com/mnews/article/001/0015552004?sid=104"
-    },
-    {
-        "title": "고려대, OLED 성능 개선할 단일분자 기반 신소재 세계 최초 개발",
-        "date": "2025-08-06 14:24",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=640122"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 참여..게이밍 모니터 '오디세...",
-        "date": "2025-08-06 14:20",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=90196"
-    },
-    {
-        "title": "[브리프] 삼성전자 LG전자 삼성전기 LG유플러스 S-OIL 한화시스템 外",
-        "date": "2025-08-06 14:14",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338113"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가...통합 게이밍 경험 제공",
-        "date": "2025-08-06 14:12",
-        "link": "http://www.metroseoul.co.kr/article/20250806500351"
-    },
-    {
-        "title": "LGD TV 시장 '캐즘' 극복…AI, 모든 분야에 적용",
-        "date": "2025-08-06 14:12",
-        "link": "https://n.news.naver.com/mnews/article/008/0005232306?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공한다",
-        "date": "2025-08-06 14:07",
-        "link": "https://n.news.naver.com/mnews/article/022/0004057758?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 기술·원가 '투트랙'…OLED로 TV시장 캐즘 극복",
-        "date": "2025-08-06 14:04",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673419"
-    },
-    {
-        "title": "삼성·LG디스플레이, 'TV 캐즘' 넘을 무기는 AI·신기술",
-        "date": "2025-08-06 14:02",
-        "link": "https://www.newspim.com/news/view/20250806000715"
-    },
-    {
-        "title": "삼성·LG 초격차 확대 vs TCL 잉크젯 양산…OLED 한중 '신경전'",
-        "date": "2025-08-06 14:01",
-        "link": "https://n.news.naver.com/mnews/article/421/0008414464?sid=101"
-    },
-    {
-        "title": "삼성, 세계 최대 게임쇼 참가…'무안경' 3D모니터 주목",
-        "date": "2025-08-06 14:00",
-        "link": "https://n.news.naver.com/mnews/article/011/0004517963?sid=101"
-    },
-    {
-        "title": "LG디스플레이 OLED TV, 원가혁신·대중화로 캐즘 넘어야",
-        "date": "2025-08-06 13:56",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1253777"
-    },
-    {
-        "title": "“‘더 똑똑해진’ 기술로 디스플레이 패러다임 전환…AI 시대 확장성 무...",
-        "date": "2025-08-06 13:56",
-        "link": "https://n.news.naver.com/mnews/article/016/0002510645?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 13:54",
-        "link": "https://www.fetv.co.kr/news/article.html?no=198406"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 '최고 TV·AV·IT 제품' 석권",
-        "date": "2025-08-06 13:54",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038272"
-    },
-    {
-        "title": "아이폰17 vs 갤럭시S26 차세대 플래그십 주도권 경쟁 예고",
-        "date": "2025-08-06 13:50",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=122010"
-    },
-    {
-        "title": "한국레노버, '리전 게이밍 모니터' 7종 출시",
-        "date": "2025-08-06 13:46",
-        "link": "https://n.news.naver.com/mnews/article/030/0003338557?sid=105"
-    },
-    {
-        "title": "LG전자 ‘TV·AV·IT 제품’, 美 바이어가 뽑은 ‘최고 제품’ 휩쓸어",
-        "date": "2025-08-06 13:44",
-        "link": "https://www.viva100.com/article/20250806500189"
-    },
-    {
-        "title": "아바코 주가 다시 움직이나... 중국 OLED 투자 훈풍 타고 실적 신기록 가...",
-        "date": "2025-08-06 13:40",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=366108"
-    },
-    {
-        "title": "애플, ‘아이폰17 시리즈’ 공개일 내달 9일 베일 벗나",
-        "date": "2025-08-06 13:40",
-        "link": "https://www.m-economynews.com/news/article.html?no=58203"
-    },
-    {
-        "title": "LG전자, 美 유통 바이어가 뽑은 '최고 TV·AV·IT 제품' 석권",
-        "date": "2025-08-06 13:38",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272342"
-    },
-    {
-        "title": "황상근 LGD 상무 “디스플레이 캐즘, OLED로 돌파”",
-        "date": "2025-08-06 13:36",
-        "link": "https://n.news.naver.com/mnews/article/029/0002973691?sid=101"
-    },
-    {
-        "title": "디스플레이도 캐즘에 빠졌다…LGD·삼성D, OLED·AI로 돌파구 모색",
-        "date": "2025-08-06 13:34",
-        "link": "https://www.socialvalue.kr/news/view/1065587492277571"
-    },
-    {
-        "title": "넷마블, '게임스컴 2025'서 신작 '몬길: 스타다이브' 선보인다",
-        "date": "2025-08-06 13:34",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202192?sid=105"
-    },
-    {
-        "title": "LG디스플레이 “더 커지는 OLED TV 프리미엄 시장, 전방위 집중 공략”",
-        "date": "2025-08-06 13:28",
-        "link": "https://www.viva100.com/article/20250806500761"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 13:26",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3892271"
-    },
-    {
-        "title": "기조연설 하는 조성찬 삼성디스플레이 부사장",
-        "date": "2025-08-06 13:26",
-        "link": "https://n.news.naver.com/mnews/article/001/0015551878?sid=101"
-    },
-    {
-        "title": "고려대, 복잡한 'OLED 제조'를 간단하게···새로운 단일분자 소재 개발",
-        "date": "2025-08-06 13:25",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2312719"
-    },
-    {
-        "title": "조성찬 삼성D 부사장 “디스플레이 시장, AI로 퀀텀점프”",
-        "date": "2025-08-06 13:25",
-        "link": "https://n.news.naver.com/mnews/article/029/0002973687?sid=101"
-    },
-    {
-        "title": "LG디스플레이 황상근 OLED TV 시장 캐즘 직면...극복 방안 고민해야",
-        "date": "2025-08-06 13:20",
-        "link": "https://n.news.naver.com/mnews/article/119/0002988092?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 13:20",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508061231396176ed0c62d49_1/article.html"
-    },
-    {
-        "title": "삼성디스플레이 조성찬 새 전환점 맞아...AI로 초연결 시대 선도",
-        "date": "2025-08-06 13:20",
-        "link": "https://n.news.naver.com/mnews/article/119/0002988093?sid=101"
-    },
-    {
-        "title": "LG디스플레이 OLED TV 정체기, 프리미엄 TV 원가 혁신해야 돼",
-        "date": "2025-08-06 13:17",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385038?sid=105"
-    },
-    {
-        "title": "통합 게이밍 경험 제공한다…삼성전자, 게임스컴 '출사표'",
-        "date": "2025-08-06 13:16",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1268086"
-    },
-    {
-        "title": "고려대 연구팀, OLED 제조 공정 단순화하고 성능 높인 차세대 신소재 개...",
-        "date": "2025-08-06 13:16",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=518792"
-    },
-    {
-        "title": "디스플레이도 캐즘 직면…LGD·삼성D 불황 극복 전략은",
-        "date": "2025-08-06 13:14",
-        "link": "https://n.news.naver.com/mnews/article/001/0015551848?sid=101"
-    },
-    {
-        "title": "[더벨][LG전자·IT 패러다임 시프트] '역사 속으로' 사라진 휴대폰, 대안...",
-        "date": "2025-08-06 13:12",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508041644542640109531"
-    },
-    {
-        "title": "고려대, 복잡한 OLED 제조를 간단하게… 새로운 단일분자 소재 개발",
-        "date": "2025-08-06 13:00",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=93043"
-    },
-    {
-        "title": "레노버, 리전 게이밍 모니터 7종 출시···고성능·몰입감·편의성 강화",
-        "date": "2025-08-06 13:00",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2312622"
-    },
-    {
-        "title": "넷마블, 삼성전자 맞손...'게임스컴 2025' 출격",
-        "date": "2025-08-06 12:58",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36196"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…넷마블과 게이밍 경험 제공",
-        "date": "2025-08-06 12:56",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=770114"
-    },
-    {
-        "title": "한국레노버, 리전(Legion) 게이밍 모니터 7종 출시… 다양한 게이밍 환...",
-        "date": "2025-08-06 12:54",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1802837"
-    },
-    {
-        "title": "넷마블, 게임스컴 2025에서 삼성전자와 함께 '몬길: STAR DIVE' 시연",
-        "date": "2025-08-06 12:52",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72217"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 신제품 7종 출시",
-        "date": "2025-08-06 12:51",
-        "link": "https://n.news.naver.com/mnews/article/014/0005387912?sid=105"
-    },
-    {
-        "title": "황상근 LGD 상무 기술·원가 혁신으로 OLED TV 수요 둔화 극복",
-        "date": "2025-08-06 12:50",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145330"
-    },
-    {
-        "title": "넷마블, 세계 최대 규모 게임 행사 '게임스컴 2025'서 '몬길: STAR DIVE' 공...",
-        "date": "2025-08-06 12:46",
-        "link": "https://www.insight.co.kr/news/514623"
-    },
-    {
-        "title": "조성찬 삼성D 부사장 AI로 친환경·고성능 디스플레이 구현",
-        "date": "2025-08-06 12:46",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145329"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 선봬",
-        "date": "2025-08-06 12:42",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=706404"
-    },
-    {
-        "title": "[리뷰] 존재감 발군의 게이밍 노트북, 에이수스 ROG 스트릭스 G18",
-        "date": "2025-08-06 12:20",
-        "link": "https://n.news.naver.com/mnews/article/020/0003652638?sid=105"
-    },
-    {
-        "title": "고려대 복잡한 OLED 제조를 간단하게… 새로운 단일분자 소재 개발",
-        "date": "2025-08-06 12:16",
-        "link": "http://www.veritas-a.com/news/articleView.html?idxno=566345"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 12:14",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=182995"
-    },
-    {
-        "title": "레노버, 스냅드래곤 X 탑재 AI PC '아이디어패드 슬림 3x' 출시",
-        "date": "2025-08-06 12:08",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=109404"
-    },
-    {
-        "title": "넷마블 '몬길: STAR DIVE', 삼성전자 손잡고 '게임스컴 2025' 출격",
-        "date": "2025-08-06 12:00",
-        "link": "https://hobbyen-news.com/news/view/1065581923995155"
-    },
-    {
-        "title": "[현장] 조성찬 삼성D 부사장 “AI, 디스플레이의 핵심 키워드”",
-        "date": "2025-08-06 11:58",
-        "link": "https://n.news.naver.com/mnews/article/117/0003973213?sid=105"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 11:58",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=32177"
-    },
-    {
-        "title": "LG디스플레이, OLED 투 트랙 전략으로 'TV 캐즘' 극복",
-        "date": "2025-08-06 11:53",
-        "link": "https://www.newspim.com/news/view/20250806000632"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 참가... '몬길: STAR DIVE' 알린...",
-        "date": "2025-08-06 11:50",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113326"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025' 참가… 통합 게이밍 경험 전면에",
-        "date": "2025-08-06 11:48",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=218837"
-    },
-    {
-        "title": "[현장] LG디스플레이 황상근 OLED TV 캐즘 극복 가능, 미니LED보다 기술...",
-        "date": "2025-08-06 11:42",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406491"
-    },
-    {
-        "title": "넷마블, 게임스컴서 삼성전자와 '몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 11:40",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038257"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 11:36",
-        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=100330"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 11:36",
-        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=83364"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 ‘게임스컴 2025’ 출격…'몬길: STAR DIVE' 출격",
-        "date": "2025-08-06 11:35",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000077560"
-    },
-    {
-        "title": "LG전자, 美바이어가 뽑은 최고 TV·AV·IT 제품 석권했다는데",
-        "date": "2025-08-06 11:32",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000077558"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 ‘최고의 TV·IT 브랜드’…트와이스 어워드...",
-        "date": "2025-08-06 11:28",
-        "link": "https://www.kukinews.com/article/view/kuk202508060075"
-    },
-    {
-        "title": "[위클리오늘] LG전자, 美 바이어가 뽑은 최고 TV·AV·IT 제품 석권",
-        "date": "2025-08-06 11:26",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=715103"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 11:24",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53333"
-    },
-    {
-        "title": "넷마블, 삼성전자와 함께 '게임스컴 2025'서 '몬길: STAR DIVE' 선보인다",
-        "date": "2025-08-06 11:20",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241015"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 11:20",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=81426"
-    },
-    {
-        "title": "넷마블, 삼성전자와 '게임스컴 2025' 출격…'몬길: STAR DIVE' 선봬",
-        "date": "2025-08-06 11:16",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=334141"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 11:12",
-        "link": "https://n.news.naver.com/mnews/article/417/0001093754?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…최신 제품으로 게임 체험",
-        "date": "2025-08-06 11:08",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=269343"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 11:06",
-        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=122224"
-    },
-    {
-        "title": "머크, K-Display서 디스플레이·광전자 미래 기술 선보인다",
-        "date": "2025-08-06 11:06",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=144295"
-    },
-    {
-        "title": "[위클리오늘] 넷마블-삼성전자, '게임스컴 2025' 출격···'몬길: STAR DI...",
-        "date": "2025-08-06 11:06",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=715050"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 출격…원삼성 통합 게이밍 경험제공",
-        "date": "2025-08-06 11:02",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2095408"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…“안경 없는 3D 모니터 체험”",
-        "date": "2025-08-06 11:02",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=75347"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 11:00",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=99751"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 11:00",
-        "link": "https://gamefocus.co.kr/detail.php?number=168040"
-    },
-    {
-        "title": "LG디플 OLED TV 캐즘 극복 위해 원가 혁신해야",
-        "date": "2025-08-06 11:00",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4368522"
-    },
-    {
-        "title": "한켐, OLED 발광층 소재 매출 '성장세'",
-        "date": "2025-08-06 10:58",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=489847"
-    },
-    {
-        "title": "넷마블-삼성전자, 게임스컴 '몬길 스타 다이브' 선봬",
-        "date": "2025-08-06 10:58",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=489836"
-    },
-    {
-        "title": "[위클리오늘] 삼성전자, 게임스컴 2025 참가···통합 게이밍 경험 제공",
-        "date": "2025-08-06 10:56",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=715094"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 10:54",
-        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72539"
-    },
-    {
-        "title": "차세대 애플워치 울트라3, 디스플레이 더 커진다…iOS 26 베타서 유출",
-        "date": "2025-08-06 10:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=583154"
-    },
-    {
-        "title": "Z폴드7·3D 모니터로 몰입 극대화…삼성전자, 게임스컴 출격",
-        "date": "2025-08-06 10:51",
-        "link": "https://n.news.naver.com/mnews/article/629/0000414223?sid=101"
-    },
-    {
-        "title": "레노버, 고성능 스펙 갖춘 리전 게이밍 모니터 7종 선보여",
-        "date": "2025-08-06 10:50",
-        "link": "https://www.cnet.co.kr/view/?no=20250806103224"
-    },
-    {
-        "title": "삼성전자, 게임스컴 참가···'오디세이3D' 체험 기회",
-        "date": "2025-08-06 10:50",
-        "link": "https://www.cnet.co.kr/view/?no=20250806100100"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 10:49",
-        "link": "https://n.news.naver.com/mnews/article/092/0002384997?sid=105"
-    },
-    {
-        "title": "한국레노버, 고성능 스펙의 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 10:42",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=50639"
-    },
-    {
-        "title": "넷마블, 삼성전자와 게임스컴 2025 참가…몬길 스타 다이브 공개",
-        "date": "2025-08-06 10:42",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=858493"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 10:40",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1298576"
-    },
-    {
-        "title": "한국머크, K-Display 2025 참가…광전자기술 혁신 주도",
-        "date": "2025-08-06 10:40",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673391"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:40",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320634"
-    },
-    {
-        "title": "넷마블, 독일 '게임스컴'에서 신작 '몬길: STAR DIVE' 공개",
-        "date": "2025-08-06 10:38",
-        "link": "https://www.kpinews.kr/newsView/1065576055656286"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025서 무안경 3D 게이밍 공개",
-        "date": "2025-08-06 10:36",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3019183"
-    },
-    {
-        "title": "넷마블, 삼성과 함께 게임스컴 2025에서 '몬길: STAR DIVE' 공개",
-        "date": "2025-08-06 10:36",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=50638"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…게임사 협업 체험존 운영",
-        "date": "2025-08-06 10:34",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=167321"
-    },
-    {
-        "title": "넷마블, '게임스컴 2025'서 신작 '몬길: STAR DIVE' 공개",
-        "date": "2025-08-06 10:34",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3019187"
-    },
-    {
-        "title": "넷마블-삼성전자 게임스컴 출격…'몬길' 신작 알린다",
-        "date": "2025-08-06 10:34",
-        "link": "https://www.news2day.co.kr/article/20250806500082"
-    },
-    {
-        "title": "[N2 전자 정보통] LG전자, 美서 앞선 기술력·압도적 제품 경쟁력 증명…...",
-        "date": "2025-08-06 10:30",
-        "link": "https://www.news2day.co.kr/article/20250806500113"
-    },
-    {
-        "title": "S펜 빼고 슬림하게 나올까? 갤럭시 S26 시리즈 예상 스펙·출시일 눈길",
-        "date": "2025-08-06 10:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534588"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 ‘게임스컴 2025’ 출격…'몬길: 스타 다이브'...",
-        "date": "2025-08-06 10:30",
-        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=215723"
-    },
-    {
-        "title": "'접는 기술의 정상' 선언… 삼성디스플레이, 'MONT FLEX' 선보인다",
-        "date": "2025-08-06 10:28",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338096"
-    },
-    {
-        "title": "삼성전자, 세계 최대 규모 게임전시회 '게임스컴 2025' 참가… 통합 게이...",
-        "date": "2025-08-06 10:28",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=79247"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 최고 TV·AV·IT제품 최다 수상…'슈퍼 VIP 어워...",
-        "date": "2025-08-06 10:28",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=79245"
-    },
-    {
-        "title": "삼성전자 독일 쾰른 '게임스컴 2025' 참가, 통합 게이밍 경험 제공",
-        "date": "2025-08-06 10:26",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406465"
-    },
-    {
-        "title": "넷마블-삼성전자, 게임스컴 2025서 신작 시연...올 하반기 출시 목표",
-        "date": "2025-08-06 10:26",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=51719"
-    },
-    {
-        "title": "넷마블, 삼성전자와 '게임스컴 2025' 출격'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 10:24",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2092314"
-    },
-    {
-        "title": "LG디스플레이, 전 사업 AI 전환(AX) 생산성 혁신 가속화",
-        "date": "2025-08-06 10:24",
-        "link": "https://www.handmk.com/news/articleView.html?idxno=31883"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 최고 TV·AV·IT 제품 석권",
-        "date": "2025-08-06 10:24",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=99741"
-    },
-    {
-        "title": "애플워치 울트라 3, 화면 더 커진다",
-        "date": "2025-08-06 10:20",
-        "link": "https://n.news.naver.com/mnews/article/092/0002384985?sid=105"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 최고 TV·AV·IT 제품 석권",
-        "date": "2025-08-06 10:20",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3302218"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT 제품 석권",
-        "date": "2025-08-06 10:20",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=248916"
-    },
-    {
-        "title": "LG디스플레이, AI로 생산성 극대화…정철동 전사 차원 AX 확산 [재계 동...",
-        "date": "2025-08-06 10:18",
-        "link": "https://www.newspost.kr/news/articleView.html?idxno=216418"
-    },
-    {
-        "title": "LG전자, 美 트와이스 VIP 어워드 '최다 수상'…TV·AV·IT 경쟁력 입증",
-        "date": "2025-08-06 10:18",
-        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89797"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 통합 게이밍 경험 소개",
-        "date": "2025-08-06 10:16",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201188"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 10:16",
-        "link": "https://www.eroun.net/news/articleView.html?idxno=60787"
-    },
-    {
-        "title": "한국레노버, '리전' 게이밍 모니터 신제품 7종 출시",
-        "date": "2025-08-06 10:14",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=142930"
-    },
-    {
-        "title": "몬길 스타다이브, '게임스컴 2025' 삼성과 손잡고 간다",
-        "date": "2025-08-06 10:10",
-        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=100322"
-    },
-    {
-        "title": "LG전자, 美바이어 선정 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:08",
-        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=87766"
-    },
-    {
-        "title": "[오늘의 전자] 삼성전자·LG전자",
-        "date": "2025-08-06 10:02",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36184"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT 석권",
-        "date": "2025-08-06 10:02",
-        "link": "https://www.sentv.co.kr/article/view/sentv202508060002"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 참가",
-        "date": "2025-08-06 10:02",
-        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=87761"
-    },
-    {
-        "title": "LG전자, 프리미엄 TV·AV·IT 시장 경쟁력 '입증'…美서 최고 제품 싹쓸...",
-        "date": "2025-08-06 10:02",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=191775"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권…압도적인 경...",
-        "date": "2025-08-06 10:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=202508060835409018a3c244e1c9_23"
-    },
-    {
-        "title": "파인원㈜, 설계부터 조립까지 디스플레이 토탈 솔루션 제공 [경기도 혁...",
-        "date": "2025-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/666/0000080487?sid=101"
-    },
-    {
-        "title": "LG전자 TV·AV·IT 기기, 美 바이어가 뽑은 '최고 제품' 석권",
-        "date": "2025-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/018/0006082777?sid=101"
-    },
-    {
-        "title": "삼성전자와 LG전자, TV 가전 기술 격돌…OLED와 QLED의 자존심 대결",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.socialvalue.kr/news/view/1065571666559353"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 2025 참가…게이밍 모니터·폴더블 폰 출격",
-        "date": "2025-08-06 10:00",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2025080609560115935ed985c7c5_23"
-    },
-    {
-        "title": "LG 올레드 TV, 美 바이어가 뽑은 '최고의 OLED' 전 세계 평가도 휩쓸어",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534583"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=93913"
-    },
-    {
-        "title": "LG전자, 美바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=93888"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT 제품 석권",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.etoday.co.kr/news/view/2494545"
-    },
-    {
-        "title": "LG전자, 美 바이어 투표 '트와이스 VIP 어워드'서 5개 제품 최고상",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240998"
-    },
-    {
-        "title": "LG전자, 美 가전 어워드 최다 수상…5개 제품 선정",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.newspim.com/news/view/20250806000078"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:00",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=64795"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=440748"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 최고 TV·AV·IT제품 대거 선정",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=219957"
-    },
-    {
-        "title": "LG전자, 美 바이어가 뽑은 최고 TV·AV·IT 제품 최다 수상",
-        "date": "2025-08-06 10:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008413645?sid=101"
-    },
-    {
-        "title": "LG전자, 美서 TV·AV·IT제품 석권... '슈퍼 VIP 어워드' 영예",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=405105"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 10:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89299"
-    },
-    {
-        "title": "넷마블-삼성전자, 게임스컴 2025에 '몬길: STAR DIVE' 시연 공간 마련",
-        "date": "2025-08-06 10:00",
-        "link": "https://www.onews.tv/news/articleView.html?idxno=254133"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 선정",
-        "date": "2025-08-06 10:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=766651"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025' 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:56",
-        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=87758"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 참가...오디세이 3D·Z폴드7 선봬",
-        "date": "2025-08-06 09:54",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=262508"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2025' 참가…통합 게이밍 경험 선봬",
-        "date": "2025-08-06 09:51",
-        "link": "https://n.news.naver.com/mnews/article/092/0002384975?sid=105"
-    },
-    {
-        "title": "LG전자, 美 바이어가 직접 뽑은 최고 TV·AV·IT제품 석권",
-        "date": "2025-08-06 09:50",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72203"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시",
-        "date": "2025-08-06 09:48",
-        "link": "https://kbench.com/?q=node/270096"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴' 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 09:46",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=532876"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:44",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89308"
-    },
-    {
-        "title": "넷마블, 삼성전자와 손잡고 '게임스컴 2025'에 '몬길: STAR DIVE' 출품",
-        "date": "2025-08-06 09:44",
-        "link": "https://gamefocus.co.kr/detail.php?number=168034"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:42",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=766687"
-    },
-    {
-        "title": "넷마블, 삼성전자와 함께 '게임스컴 2025'에 '몬길: STAR DIVE' 선봬",
-        "date": "2025-08-06 09:40",
-        "link": "https://www.pressman.kr/news/articleView.html?idxno=92642"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…3D 게이밍모니터·Z폴드7 전시",
-        "date": "2025-08-06 09:37",
-        "link": "https://n.news.naver.com/mnews/article/277/0005633394?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가.. 통합 게이밍 경험 제공한다",
-        "date": "2025-08-06 09:36",
-        "link": "https://n.news.naver.com/mnews/article/014/0005387772?sid=105"
-    },
-    {
-        "title": "삼성전자, 세계 최대 규모 게임 전시회 ‘게임스컴 2025’ 참가",
-        "date": "2025-08-06 09:34",
-        "link": "https://www.cnbnews.com/news/article.html?no=742582"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 ‘게임스컴 2025’ 출격",
-        "date": "2025-08-06 09:34",
-        "link": "http://www.lawissue.co.kr/view.php?ud=2025080609332770809817d053b9_12"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가...통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:32",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=440754"
-    },
-    {
-        "title": "삼성전자, 게임스컴2025 참가...Z폴드7·오디세이3D 체험존 운영",
-        "date": "2025-08-06 09:30",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=345751"
-    },
-    {
-        "title": "아이폰은 곧 접는데…계속 펴져있는 아이패드",
-        "date": "2025-08-06 09:26",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=274410"
-    },
-    {
-        "title": "넷마블 ‘몬길’, 게임스컴서 ‘3D 모니터·갤Z폴드7’으로 만난다",
-        "date": "2025-08-06 09:26",
-        "link": "https://n.news.naver.com/mnews/article/396/0000717367?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:24",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=93895"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:24",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202508060921001978be44c0aacd_30"
-    },
-    {
-        "title": "삼성전자, 게임스컴 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:24",
-        "link": "http://thetracker.co.kr/View.aspx?No=3737720"
-    },
-    {
-        "title": "‘게임스컴 출격’ 넷마블 ‘몬길’, 삼성전자 제품서 즐긴다",
-        "date": "2025-08-06 09:24",
-        "link": "http://www.fntimes.com/html/view.php?ud=2025080609193633967492587736_18"
-    },
-    {
-        "title": "넷마블, 삼성전자와 손잡고 ‘게임스컴 2025’ 출격",
-        "date": "2025-08-06 09:24",
-        "link": "https://www.viva100.com/article/20250806500233"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:22",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320628"
-    },
-    {
-        "title": "넷마블, 삼성전자와 ‘게임스컴 2025’ 출격…‘몬길’ 알린다",
-        "date": "2025-08-06 09:22",
-        "link": "http://theviewers.co.kr/View.aspx?No=3737699"
-    },
-    {
-        "title": "LG전자, 美 바이어 선정 '2025 트와이스 VIP 어워드' 5개 '최고 제품' 선...",
-        "date": "2025-08-06 09:22",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3019147"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:20",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240997"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025' 참가…넷마블과 협업 체험존 운영",
-        "date": "2025-08-06 09:20",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=91611"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:16",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=241327"
-    },
-    {
-        "title": "오디세이 3D·갤Z폴드7으로 게임 즐긴다…삼성, 獨 게임스컴 참가",
-        "date": "2025-08-06 09:16",
-        "link": "https://n.news.naver.com/mnews/article/421/0008413461?sid=105"
-    },
-    {
-        "title": "넷마블-삼성전자, ‘게임스컴 2025’ 참가",
-        "date": "2025-08-06 09:16",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571884491717"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:14",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673348"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…무안경 3D 게이밍 체험존 운영",
-        "date": "2025-08-06 09:14",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=858450"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…게임사 협업 체험존 운영",
-        "date": "2025-08-06 09:14",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202152?sid=105"
-    },
-    {
-        "title": "삼성전자 獨 게임스컴 2025 참가..통합 게이밍 경험 제공",
-        "date": "2025-08-06 09:12",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2092299"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시…게이머 위한 고성능 스펙 제...",
-        "date": "2025-08-06 09:12",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320619"
-    },
-    {
-        "title": "무안경 3D 모니터로 게임 체험…삼성, 게임스컴 참가",
-        "date": "2025-08-06 09:09",
-        "link": "https://n.news.naver.com/mnews/article/001/0015551037?sid=105"
-    },
-    {
-        "title": "통합 게이밍 경험 제공…삼성전자, '게임스컴 2025' 참가",
-        "date": "2025-08-06 09:08",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=191766"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '원삼성' 게이밍 생태계 공개",
-        "date": "2025-08-06 09:08",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113307"
-    },
-    {
-        "title": "넷마블, 삼성전자와 '게임스컴 2025'서 '몬길: STAR DIVE' 선보인다",
-        "date": "2025-08-06 09:08",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=144286"
-    },
-    {
-        "title": "넷마블 삼성전자와 '게임스컴 2025' 참가, '몬길: 스타 다이브' 선보여",
-        "date": "2025-08-06 09:08",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406437"
-    },
-    {
-        "title": "레노버, 리전 게이밍 모니터 신제품 7종 선 보여",
-        "date": "2025-08-06 09:06",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=640041"
-    },
-    {
-        "title": "삼성전자, 세계 최대 규모 게임전시회 독일 '게임스컴 2025' 참가 … 통합...",
-        "date": "2025-08-06 09:06",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72198"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 ‘게임스컴 2025’ 출격…‘몬길: STAR DIVE’ 알...",
-        "date": "2025-08-06 09:02",
-        "link": "https://n.news.naver.com/mnews/article/243/0000082590?sid=105"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 게임스컴 출격…‘몬길’ 신작 알린다",
-        "date": "2025-08-06 09:02",
-        "link": "https://n.news.naver.com/mnews/article/016/0002510343?sid=105"
-    },
-    {
-        "title": "관세 불안 속 2분기 전세계 스마트폰 시장 1천억 달러 도달",
-        "date": "2025-08-06 09:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=176712"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 7종 출시… 사용자 편의 향상",
-        "date": "2025-08-06 08:58",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3302182"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…통합 게이밍 경험 제공",
-        "date": "2025-08-06 08:58",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=532855"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2025 참가…오디세이 3D·Z 폴드7로 몰입형 게임 경...",
-        "date": "2025-08-06 08:58",
-        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89776"
-    },
-    {
-        "title": "무안경 3D 모니터에 폴더블까지…삼성, 쾰른서 게이머 몰입 체험장 연다",
-        "date": "2025-08-06 08:56",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145309"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 2025 참가…'오디세이 3D'·'Z 폴드7' 전시",
-        "date": "2025-08-06 08:54",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=806247"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025'서 대형 게임 체험 공간 마련",
-        "date": "2025-08-06 08:52",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=114656"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격…'몬길: STAR DIVE' 선보인...",
-        "date": "2025-08-06 08:52",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=440707"
-    },
-    {
-        "title": "넷마블, ‘몬길:STAR DIVE’ 삼성 ‘오디세이 3D’로 최적의 경험 제공",
-        "date": "2025-08-06 08:49",
-        "link": "https://n.news.naver.com/mnews/article/009/0005536793?sid=105"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025' 참가…향상 게이밍 경험 제공",
-        "date": "2025-08-06 08:48",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=263444"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 갤럭시·오디세이3D 연동 체험존 운영",
-        "date": "2025-08-06 08:48",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1253551"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 獨 게임 행사 ‘게임스컴’ 참가 … ‘몬길: S...",
-        "date": "2025-08-06 08:48",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/06/2025080600045.html"
-    },
-    {
-        "title": "넷마블, 삼성전자와 '게임스컴 2025'서 신작 공개",
-        "date": "2025-08-06 08:48",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7123063"
-    },
-    {
-        "title": "넷마블, 삼성과 손잡고 '게임스컴'서 '몬길: 스타 다이브' 공개",
-        "date": "2025-08-06 08:45",
-        "link": "https://www.newspim.com/news/view/20250806000083"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2025' 참가… 통합 게이밍 경험 제공",
-        "date": "2025-08-06 08:44",
-        "link": "https://www.ajunews.com/view/20250806084052433"
-    },
-    {
-        "title": "[게임스컴 2025] 넷마블, 삼성 게이밍 모니터로 '몬길: 스타 다이브' 알...",
-        "date": "2025-08-06 08:43",
-        "link": "https://n.news.naver.com/mnews/article/119/0002987884?sid=105"
-    },
-    {
-        "title": "넷마블-삼성전자 게임스컴 출격…'몬길' 신작 알린다",
-        "date": "2025-08-06 08:33",
-        "link": "https://n.news.naver.com/mnews/article/018/0006082633?sid=105"
-    },
-    {
-        "title": "[게임스컴 2025] 넷마블, 삼성전자 손잡고 출격…'몬길: STAR DIVE' 알린다",
-        "date": "2025-08-06 08:32",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231011"
-    },
-    {
-        "title": "'몬길: STAR DIVE' 알린다…넷마블, 삼성전자 손잡고 '게임스컴 2025' 출격",
-        "date": "2025-08-06 08:30",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=191754"
-    },
-    {
-        "title": "넷마블, 삼성전자 손잡고 게임스컴서 '몬길: 스타 다이브' 알린다",
-        "date": "2025-08-06 08:24",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=219960"
-    },
-    {
-        "title": "넷마블, 삼성전자와 함께 '게임스컴 2025' 참가…'몬길: STAR DIVE' 글로벌...",
-        "date": "2025-08-06 08:22",
-        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=54339"
-    },
-    {
-        "title": "넷마블, 삼성과 '몬길: STAR DIVE' 게임스컴 출격",
-        "date": "2025-08-06 08:12",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=35706"
-    },
-    {
-        "title": "갤폴드7 흥행에 애플 참전까지…'폴더블폰' 시장 훈풍",
-        "date": "2025-08-06 08:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673288"
-    },
-    {
-        "title": "삼성전자, 갤S25 최단기간 300만대 '신기록'…AI 기능 주효",
-        "date": "2025-08-06 07:22",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038247"
-    },
-    {
-        "title": "커지는 ‘폴더블’ 꽉 잡는다… 이청號 삼성D, 매출 30조 열쇠",
-        "date": "2025-08-06 07:10",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250805010002202"
-    },
-    {
-        "title": "[핀포인트] [삼성디스플레이] 애플 전담 품질팀 인력 수십명 충원, 왜",
-        "date": "2025-08-06 07:02",
-        "link": "https://news.dealsitetv.com/articles/157573"
-    },
-    {
-        "title": "시작 늦었지만 따라잡는다…삼성·LG·SK AX 속도전 본격화",
-        "date": "2025-08-06 07:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008413169?sid=101"
     }
 ]
