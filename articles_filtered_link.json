@@ -1,5 +1,940 @@
 [
     {
+        "title": "호주 법원, 앱스토어 수수료는 경쟁 제한… 애플·구글에 수천억 배상 ...",
+        "date": "2025-08-13 04:42",
+        "link": "https://www.tokenpost.kr/news/tech/276168"
+    },
+    {
+        "title": "머스크 애플, 챗GPT만 편애하고 그록 차별…소송 예고",
+        "date": "2025-08-13 04:30",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457231?sid=104"
+    },
+    {
+        "title": "“TV 광원소자 더 작게 더 밝게” 기술로 中 따돌린다",
+        "date": "2025-08-13 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003653882?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시",
+        "date": "2025-08-13 02:14",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2006501"
+    },
+    {
+        "title": "머스크,애플 앱스토어 챗GPT에만 유리,반독점 소송하겠다",
+        "date": "2025-08-13 00:59",
+        "link": "https://n.news.naver.com/mnews/article/015/0005170080?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 세계 첫 출시",
+        "date": "2025-08-13 00:33",
+        "link": "https://n.news.naver.com/mnews/article/023/0003922743?sid=105"
+    },
+    {
+        "title": "삼성의 초격차, 세계 최초 ‘마이크로 RGB TV’ 출시",
+        "date": "2025-08-13 00:14",
+        "link": "https://n.news.naver.com/mnews/article/005/0001795489?sid=101"
+    },
+    {
+        "title": "빛·색 정밀 제어로 초격차…삼성전자, '마이크로 RGB TV'로 프리미엄 시...",
+        "date": "2025-08-13 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000416234?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 23:26",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=412065"
+    },
+    {
+        "title": "머스크, 애플 상대 반독점 위반 소송 예고… 애플, 챗GPT만 편애",
+        "date": "2025-08-12 20:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145687"
+    },
+    {
+        "title": "‘3색’ 정밀 제어…삼성, 세계 최초 ‘마이크로 RGB TV’ 출시",
+        "date": "2025-08-12 20:28",
+        "link": "https://n.news.naver.com/mnews/article/032/0003389111?sid=101"
+    },
+    {
+        "title": "저가부터 프리미엄까지 중국 공세…삼성, 기술 격차로 20년 TV 왕좌 지킨...",
+        "date": "2025-08-12 19:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005540534?sid=101"
+    },
+    {
+        "title": "머스크, 애플 상대 반독점 소송 예고…챗GPT만 편애",
+        "date": "2025-08-12 19:33",
+        "link": "https://n.news.naver.com/mnews/article/422/0000769948?sid=104"
+    },
+    {
+        "title": "세계 최초로 삼성전자가 내놓은 '마이크로 RGB TV' 가격은",
+        "date": "2025-08-12 19:26",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=835679"
+    },
+    {
+        "title": "'다시 찾는 성경 앱' 바이블애플…재사용률 95% 업계 평균 훌쩍 넘어",
+        "date": "2025-08-12 19:10",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450473"
+    },
+    {
+        "title": "머스크, 애플 제소 “앱스토어 그록 부당 대우”…“정치질 하냐” 분노",
+        "date": "2025-08-12 19:05",
+        "link": "https://n.news.naver.com/mnews/article/029/0002975028?sid=104"
+    },
+    {
+        "title": "머스크 애플, 챗GPT만 편애…그록 차별, 소송 낼 것",
+        "date": "2025-08-12 18:48",
+        "link": "https://n.news.naver.com/mnews/article/277/0005636369?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 출시...색상·명암 정밀하게 표현",
+        "date": "2025-08-12 18:46",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346053"
+    },
+    {
+        "title": "삼성전자, ‘세계 최초’ 마이크로 RGB TV로 中 LCD 추격한다",
+        "date": "2025-08-12 18:42",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508121622281769290c42db76_1/article.html"
+    },
+    {
+        "title": "[이슈] 초소형 LED로 색·명암 완벽 구현…삼성전자, '마이크로 RGB TV'...",
+        "date": "2025-08-12 18:40",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=242081"
+    },
+    {
+        "title": "삼성전자, ‘마이크로 RGB TV’ 세계 첫 출시…中 추격 따돌린다",
+        "date": "2025-08-12 18:26",
+        "link": "https://www.kukinews.com/article/view/kuk202508120198"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시…AI 기술로 화질 경쟁력 강...",
+        "date": "2025-08-12 18:24",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=278445"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 18:14",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113718"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 18:14",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=829483"
+    },
+    {
+        "title": "삼성전자 '마이크로 RGB TV' 출시...새로운 카테고리 만들 것",
+        "date": "2025-08-12 18:11",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=329860"
+    },
+    {
+        "title": "머스크 “애플, 앱스토어서 챗GPT 편애하고 ‘그록’ 차별…소송 낼 것...",
+        "date": "2025-08-12 18:11",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099850?sid=105"
+    },
+    {
+        "title": "삼성 '마이크로 RGB TV' 세계 첫 출시",
+        "date": "2025-08-12 18:08",
+        "link": "https://n.news.naver.com/mnews/article/009/0005540496?sid=101"
+    },
+    {
+        "title": "애플, 차세대 시리 테스트 본격화…유튜브·페이스북 등 서드파티 앱 연...",
+        "date": "2025-08-12 18:06",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=169034"
+    },
+    {
+        "title": "[카드뉴스] 카이스트 연구진, 착용만으로 망막 검사하는 OLED 콘택트렌즈...",
+        "date": "2025-08-12 18:06",
+        "link": "http://www.biotimes.co.kr/news/articleView.html?idxno=23298"
+    },
+    {
+        "title": "삼성 '초대형 프리미엄' TV 내놨다…초격차로 정체기 돌파",
+        "date": "2025-08-12 18:05",
+        "link": "https://n.news.naver.com/mnews/article/014/0005390687?sid=101"
+    },
+    {
+        "title": "머스크 애플, 앱스토어서 그록 차별…법적 조치 나설 것",
+        "date": "2025-08-12 18:04",
+        "link": "https://www.ajunews.com/view/20250812170315313"
+    },
+    {
+        "title": "LCD 시대 저물고 IT OLED 각축전···삼성디스플레이, 선봉에 섰다",
+        "date": "2025-08-12 18:03",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2315006"
+    },
+    {
+        "title": "애플, 1천억 규모 '미국 제조 프로그램(AMP)' 발표",
+        "date": "2025-08-12 18:02",
+        "link": "https://www.irobotnews.com/news/articleView.html?idxno=41773"
+    },
+    {
+        "title": "삼성전자, 차세대 기술 집약 '마이크로 RGB TV' 출시..손태용 부사장 TV...",
+        "date": "2025-08-12 18:00",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=90350"
+    },
+    {
+        "title": "애플, '앱 인텐트'로 시리 대폭 업그레이드…외부 앱 테스트 진행 중",
+        "date": "2025-08-12 17:58",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98479"
+    },
+    {
+        "title": "머스크, 애플 앱스토어 운영 방식 비판…xAI 법적 대응 예고",
+        "date": "2025-08-12 17:58",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98480"
+    },
+    {
+        "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시…프리미엄 TV의 새 기준",
+        "date": "2025-08-12 17:56",
+        "link": "http://www.segyebiz.com/newsView/20250812516622?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시… 프리미엄 TV 기술의 새 기...",
+        "date": "2025-08-12 17:54",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338459"
+    },
+    {
+        "title": "삼성전자, 첫 '마이크로 RGB TV' 출시…초프리미엄 시장 공략",
+        "date": "2025-08-12 17:54",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4006658"
+    },
+    {
+        "title": "中, 프리미엄TV 넘보지 마 삼성 초격차로 1위 수성",
+        "date": "2025-08-12 17:52",
+        "link": "https://n.news.naver.com/mnews/article/009/0005540439?sid=101"
+    },
+    {
+        "title": "초프리미엄 시장 공략...삼성전자 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 17:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006088279?sid=101"
+    },
+    {
+        "title": "화웨이, 2세대 3단 폴더블폰 9월 10일 발표하나",
+        "date": "2025-08-12 17:50",
+        "link": "https://kbench.com/?q=node/270266"
+    },
+    {
+        "title": "세계 최초 OLED 콘택트렌즈로 망막검사 개발",
+        "date": "2025-08-12 17:44",
+        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=927859"
+    },
+    {
+        "title": "KAIST, 착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 17:42",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4042802"
+    },
+    {
+        "title": "“애플, 정치질 하는 거냐”...‘그록 차별’이라며 열받은 일론 머스크",
+        "date": "2025-08-12 17:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002513493?sid=104"
+    },
+    {
+        "title": "삼성전자, 차세대 디스플레이 기술의 정수 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 17:38",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7124006"
+    },
+    {
+        "title": "'손흥민 이적' 애플 설레는데…4200억 쓴 쿠팡 뼈아프다, 왜 [팩플]",
+        "date": "2025-08-12 17:35",
+        "link": "https://n.news.naver.com/mnews/article/025/0003461527?sid=105"
+    },
+    {
+        "title": "“TV 광원소자 더 작고 더 밝게”…기술로 中 따돌린다",
+        "date": "2025-08-12 17:33",
+        "link": "https://n.news.naver.com/mnews/article/020/0003653818?sid=101"
+    },
+    {
+        "title": "1등 삼성전자, 超프리미엄 TV 리더십 굳히기",
+        "date": "2025-08-12 17:32",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=96395"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 17:30",
+        "link": "https://www.etoday.co.kr/news/view/2496484"
+    },
+    {
+        "title": "다음 도발 상대는 애플…머스크, 반독점법 위반 소송 예고",
+        "date": "2025-08-12 17:30",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219832?sid=104"
+    },
+    {
+        "title": "삼성전자, ‘마이크로 RGB TV’ 세계 최초 선봬",
+        "date": "2025-08-12 17:28",
+        "link": "https://idsn.co.kr/news/view/1065598912210199"
+    },
+    {
+        "title": "'스마트폰·태블릿' 관세 발표 임박···삼성·LG '긴장' 고조",
+        "date": "2025-08-12 17:26",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236253"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 공개... 프리미엄 TV 새 기준",
+        "date": "2025-08-12 17:22",
+        "link": "https://www.insight.co.kr/news/515589"
+    },
+    {
+        "title": "삼성, 갤럭시 A17 변종 모델 'F17·M17' 개발 중",
+        "date": "2025-08-12 17:20",
+        "link": "https://kbench.com/?q=node/270265"
+    },
+    {
+        "title": "삼성전자, 세계 첫 ‘마이크로 RGB TV’…초프리미엄 화질 승부수",
+        "date": "2025-08-12 17:18",
+        "link": "https://www.viva100.com/article/20250812500908"
+    },
+    {
+        "title": "머스크 애플, 챗GPT만 편애하고 그록 차별…소송 낼 것",
+        "date": "2025-08-12 17:12",
+        "link": "https://n.news.naver.com/mnews/article/057/0001902052?sid=104"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시… 프리미엄 TV 격차 벌린다...",
+        "date": "2025-08-12 17:10",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=303342"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 17:08",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=178250"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 17:08",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236264"
+    },
+    {
+        "title": "갤럭시Z7 폴더블폰, 국내 VS 해외 엇갈리는 평가…이유는",
+        "date": "2025-08-12 17:08",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183459"
+    },
+    {
+        "title": "분당서울대병원, OLED 기반 콘택트랜즈 기술 개발",
+        "date": "2025-08-12 17:08",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=178300"
+    },
+    {
+        "title": "폴더블폰처럼 접는 '임시 주택' 등장",
+        "date": "2025-08-12 17:04",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=228128"
+    },
+    {
+        "title": "애플의 챗GPT 편애?…뿔난 머스크 소송 낼 것",
+        "date": "2025-08-12 17:02",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219829?sid=101"
+    },
+    {
+        "title": "파인원, 3년 연속상으로 'Good-R&amp;D Award' 수상",
+        "date": "2025-08-12 17:01",
+        "link": "https://n.news.naver.com/mnews/article/008/0005235023?sid=101"
+    },
+    {
+        "title": "[김태열의 생생건강S펜] “착용만으로 망막 검사 가능한 OLED 콘택트렌즈...",
+        "date": "2025-08-12 16:59",
+        "link": "https://n.news.naver.com/mnews/article/016/0002513485?sid=101"
+    },
+    {
+        "title": "'싸움꾼' 일론 머스크, 이번엔 애플에 선전포고, 독금법 위반 주장",
+        "date": "2025-08-12 16:58",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534895"
+    },
+    {
+        "title": "삼성전자, 세계 첫 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 16:56",
+        "link": "https://n.news.naver.com/mnews/article/015/0005169880?sid=101"
+    },
+    {
+        "title": "삼성·LG, 프리미엄 TV로 中 추격 뿌리친다...초고화질·AI엔진 탑재",
+        "date": "2025-08-12 16:54",
+        "link": "http://www.metroseoul.co.kr/article/20250812500431"
+    },
+    {
+        "title": "머스크, 애플 상대로 반독점 소송 예고…오픈AI 편애로 그록 차별",
+        "date": "2025-08-12 16:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=367827"
+    },
+    {
+        "title": "머스크 “애플, 앱스토어서 AI 회사 부당 대우…소송 낼 것”",
+        "date": "2025-08-12 16:50",
+        "link": "https://n.news.naver.com/mnews/article/056/0012007434?sid=104"
+    },
+    {
+        "title": "머스크 애플, 앱스토어서 그록 부당하게 대우…소송 낼 것",
+        "date": "2025-08-12 16:48",
+        "link": "https://n.news.naver.com/mnews/article/055/0001283281?sid=104"
+    },
+    {
+        "title": "프리미엄 TV의 새 기준...삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 16:46",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=405370"
+    },
+    {
+        "title": "Samsung releases cutting-edge 115-inch Micro RGB TV with eye-watering pri...",
+        "date": "2025-08-12 16:46",
+        "link": "https://n.news.naver.com/mnews/article/640/0000074912?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시...명암 표현 대폭 향상",
+        "date": "2025-08-12 16:44",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=100661"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시… 프리미엄 TV 기술 리더십...",
+        "date": "2025-08-12 16:44",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=70179"
+    },
+    {
+        "title": "머스크, 트럼프 다음 '격렬한 도발' 상대는 애플",
+        "date": "2025-08-12 16:44",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457183?sid=104"
+    },
+    {
+        "title": "삼성, 세계 최초 '마이크로 RGB TV' 출시… 프리미엄TV 새 기준 제시",
+        "date": "2025-08-12 16:42",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=192574"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 16:40",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289276657337"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 출시…프리미엄 TV 새 기준",
+        "date": "2025-08-12 16:40",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202508121639042478de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 'LCD 제품' 115인치 마이크로 RGB TV 출시...4500만원",
+        "date": "2025-08-12 16:38",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39382"
+    },
+    {
+        "title": "中 압도할 '화질 끝판왕'…프리미엄TV 새 지평 연 삼성",
+        "date": "2025-08-12 16:36",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520184?sid=101"
+    },
+    {
+        "title": "삼성 '마이크로 RGB TV' 첫 출시… 독보적 색감으로 승부",
+        "date": "2025-08-12 16:36",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250812010005780"
+    },
+    {
+        "title": "머스크 애플, 앱스토어서 그록 부당하게 대우…소송 낼 것",
+        "date": "2025-08-12 16:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0015562361?sid=105"
+    },
+    {
+        "title": "애플, 개발자용 iOS 26 베타 6 출시",
+        "date": "2025-08-12 16:34",
+        "link": "https://kbench.com/?q=node/270263"
+    },
+    {
+        "title": "KB국민카드, 상반기 신규회원 유입 1위…하반기엔 애플페이 효과 기대",
+        "date": "2025-08-12 16:30",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=230288"
+    },
+    {
+        "title": "삼성전자, 세계 첫 '마이크로 RGB TV' 출시…'차세대 디스플레이 기술' ...",
+        "date": "2025-08-12 16:24",
+        "link": "http://www.100ssd.co.kr/news/articleView.html?idxno=124496"
+    },
+    {
+        "title": "삼성전자, 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-12 16:20",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=169009"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 세계 최초 출시",
+        "date": "2025-08-12 16:18",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363700458"
+    },
+    {
+        "title": "노트북 출하량 3년 만에 ‘최대’ 찍었지만… 제조사들 “오히려 속 탄...",
+        "date": "2025-08-12 16:16",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099809?sid=105"
+    },
+    {
+        "title": "용인특례시, 아열대작물 애플망고 품평회 개최",
+        "date": "2025-08-12 16:14",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=771136"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 출시…중국 추격 뿌리친다",
+        "date": "2025-08-12 16:06",
+        "link": "https://dealsite.co.kr/articles/146337"
+    },
+    {
+        "title": "울산테크노파크, 친환경 점착제로 글로벌 시장 공략",
+        "date": "2025-08-12 16:02",
+        "link": "https://www.viva100.com/article/20250812501320"
+    },
+    {
+        "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시… 초대형·프리미엄 시장 공...",
+        "date": "2025-08-12 16:00",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099807?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시…프리미엄 TV 기술 리더섭...",
+        "date": "2025-08-12 16:00",
+        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=313688"
+    },
+    {
+        "title": "[영상]4490만원 프리미엄 TV…삼성전자 '마이크로 RGB TV' 공개",
+        "date": "2025-08-12 16:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94467"
+    },
+    {
+        "title": "재난·재해시 ‘체육관 생활’ 이제 그만…7일 만에 짓는 '폴더블 모듈...",
+        "date": "2025-08-12 15:59",
+        "link": "https://n.news.naver.com/mnews/article/666/0000081043?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 승부수…中과 격차 벌린다",
+        "date": "2025-08-12 15:58",
+        "link": "https://n.news.naver.com/mnews/article/421/0008424512?sid=101"
+    },
+    {
+        "title": "삼성전자,'초정밀 컬러' LCD TV 세계 첫 출시...출고가 4490만원",
+        "date": "2025-08-12 15:52",
+        "link": "https://n.news.naver.com/mnews/article/108/0003356163?sid=004"
+    },
+    {
+        "title": "도우인시스, 삼성ㆍ애플도 관심갖는 '하이브리드 UTG 기술' 개발...글로...",
+        "date": "2025-08-12 15:50",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231350"
+    },
+    {
+        "title": "[현장] 삼성, 세계 첫 '마이크로 RGB TV' 공개…초프리미엄 TV 판도 재편",
+        "date": "2025-08-12 15:50",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36318"
+    },
+    {
+        "title": "삼성전자, 세계 첫 '마이크로 RGB TV' 선봬",
+        "date": "2025-08-12 15:46",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1070846"
+    },
+    {
+        "title": "KAIST 연구팀, 망막 검사 가능한 OLED 콘택트렌즈 개발",
+        "date": "2025-08-12 15:38",
+        "link": "https://www.hellot.net/news/article.html?no=104181"
+    },
+    {
+        "title": "용인특례시, 아열대작물 애플망고 품평회 개최",
+        "date": "2025-08-12 15:36",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160276008257204"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB TV, 첨단 AI와 초미세 RGB 기술로 차세대 화질 기...",
+        "date": "2025-08-12 15:36",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=390591"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 15:34",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1299273"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 공개…프리미엄 TV 새 기준 제...",
+        "date": "2025-08-12 15:34",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28011"
+    },
+    {
+        "title": "삼성 TV 초격차 강화...세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 15:32",
+        "link": "http://thetracker.co.kr/View.aspx?No=3744884"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV'로 초프리미엄 시장 재정의…미니·마이크로...",
+        "date": "2025-08-12 15:28",
+        "link": "http://www.munhaknews.com/news/articleView.html?idxno=81587"
+    },
+    {
+        "title": "세계 최초 '마이크로 RGB TV' 공개! 삼성, 프리미엄 TV 새 역사 쓴다",
+        "date": "2025-08-12 15:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534879"
+    },
+    {
+        "title": "빛과 색 한계 돌파 삼성전자, '마이크로 RGB'로 超프리미엄 TV 개척",
+        "date": "2025-08-12 15:26",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025081215100571874"
+    },
+    {
+        "title": "[유통가 레이더] 이마트, 2분기 영업이익 216억원 '흑자전환'...가격·공...",
+        "date": "2025-08-12 15:23",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=329844"
+    },
+    {
+        "title": "KAIST, 착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 15:22",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1106682"
+    },
+    {
+        "title": "머스크 애플 앱스토어 순위서 챗GPT만 우대…xAI, 소송 낼 것",
+        "date": "2025-08-12 15:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0008424317?sid=104"
+    },
+    {
+        "title": "삼성 'TV 초격차' 실현, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 15:18",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=122368"
+    },
+    {
+        "title": "TV 가격이 그랜저급…삼성전자 115인치 프리미엄 모델 출시",
+        "date": "2025-08-12 15:14",
+        "link": "https://n.news.naver.com/mnews/article/028/0002760764?sid=101"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 15:10",
+        "link": "https://www.monews.co.kr/news/articleView.html?idxno=405706"
+    },
+    {
+        "title": "분당서울대병원 ‘착용만으로 망막 검사 가능 OLED 콘택트렌즈’ 최초 ...",
+        "date": "2025-08-12 15:10",
+        "link": "https://www.kyeongin.com/article/1748854"
+    },
+    {
+        "title": "세계 첫 ‘OLED 콘택트렌즈’로 눈 감고도 망막 검사 구현",
+        "date": "2025-08-12 15:10",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202508121506343868de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 세계 최초 마이크로 RGB TV 내놓고 중국 따돌린다",
+        "date": "2025-08-12 15:08",
+        "link": "https://n.news.naver.com/mnews/article/023/0003922664?sid=105"
+    },
+    {
+        "title": "[영상] 용인특례시, 애플망고 품평회 개최...아열대작물 실증재배 첫 결...",
+        "date": "2025-08-12 15:08",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=242013"
+    },
+    {
+        "title": "기술 우위 자신…삼성전자, '마이크로 RGB'로 中 추격 따돌린다",
+        "date": "2025-08-12 15:06",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=707178"
+    },
+    {
+        "title": "'새판 짜기' 삼성, 마이크로 RGB TV 앞세워 세계 1등 지킨다",
+        "date": "2025-08-12 15:02",
+        "link": "https://n.news.naver.com/mnews/article/293/0000071038?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 14:58",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=661506"
+    },
+    {
+        "title": "삼성, 첫 '마이크로 RGB TV' 출시…中 추격에 프리미엄 LCD로 승부",
+        "date": "2025-08-12 14:56",
+        "link": "https://n.news.naver.com/mnews/article/025/0003461469?sid=101"
+    },
+    {
+        "title": "프리미엄 TV의 새 기준…삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 14:56",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272897"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시 [영상]",
+        "date": "2025-08-12 14:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005169787?sid=101"
+    },
+    {
+        "title": "렌즈 착용만으로 '망막검사'…'OLED 콘택트렌즈' 첫 개발",
+        "date": "2025-08-12 14:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013417526?sid=102"
+    },
+    {
+        "title": "[AT현장] 삼성전자 세계 최초 '마이크로 RGB TV'…색 재현력 다르다",
+        "date": "2025-08-12 14:48",
+        "link": "https://www.asiatime.co.kr/article/20250812500276"
+    },
+    {
+        "title": "삼성, 차세대 RGB 마이크로 LED TV 공개…中 추격에 프리미엄 승부수",
+        "date": "2025-08-12 14:46",
+        "link": "https://www.mediapen.com/news/view/1035618"
+    },
+    {
+        "title": "美 스마트폰 '관세 폭탄' 터지나…삼성전자,애플과 달리 가격경쟁력에 ...",
+        "date": "2025-08-12 14:44",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85548"
+    },
+    {
+        "title": "“렌즈 착용만으로 망막 검사”…초박막 OLED 콘택트렌즈 선봬",
+        "date": "2025-08-12 14:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974903?sid=105"
+    },
+    {
+        "title": "아이폰17 크기 비교하세요 애플, '아이폰17' 시리즈 액정 보호 필름 이...",
+        "date": "2025-08-12 14:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534874"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 출시…빛과 색을 가장 정교하게 [HK영상]",
+        "date": "2025-08-12 14:37",
+        "link": "https://n.news.naver.com/mnews/article/015/0005169776?sid=101"
+    },
+    {
+        "title": "삼성전자 내년 마이크로 RGB TV 라인업 다양화",
+        "date": "2025-08-12 14:36",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1256448"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 세계 최초 출시",
+        "date": "2025-08-12 14:36",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1155293"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 출시…초격차 TV 재시동",
+        "date": "2025-08-12 14:32",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=75580"
+    },
+    {
+        "title": "[줌-in] 삼성전자 '마이크로 RGB', 중국 공세 견제 브리지 초격차 기술",
+        "date": "2025-08-12 14:30",
+        "link": "https://hobbyen-news.com/news/view/1065587293526256"
+    },
+    {
+        "title": "삼성, 세계 최초 '마이크로 RGB TV' 출시…프리미엄TV 시장 정조준",
+        "date": "2025-08-12 14:26",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=177259"
+    },
+    {
+        "title": "삼성전자, 세계최초 '마이크로 RGB TV' 출시…기술 우위 자신",
+        "date": "2025-08-12 14:24",
+        "link": "https://n.news.naver.com/mnews/article/079/0004054994?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 차세대 '마이크로 RGB TV 115형' 첫선",
+        "date": "2025-08-12 14:24",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=152125"
+    },
+    {
+        "title": "삼성전자, 초대형 '마이크로 RGB TV'로 中 미니 LED에 '맞불'",
+        "date": "2025-08-12 14:22",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414314"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 출시",
+        "date": "2025-08-12 14:22",
+        "link": "http://journal.kobeta.com/?post_type=post&p=60063"
+    },
+    {
+        "title": "아이폰 17 프로, 안테나 위치 바뀐다…신호 품질 개선 기대",
+        "date": "2025-08-12 14:22",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320943"
+    },
+    {
+        "title": "삼성, ‘초격차’ LCD TV ‘승부수’…중국 추격 따돌린다",
+        "date": "2025-08-12 14:20",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1271451&inflow=N"
+    },
+    {
+        "title": "[산업워치] 삼성전자, 세계 최초 '마이크로 RGB TV' 출시 外",
+        "date": "2025-08-12 14:20",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=72576"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 세계 최초 출시",
+        "date": "2025-08-12 14:20",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201310"
+    },
+    {
+        "title": "일론 머스크 애플이 AI 앱 순위 조작…법적 대응 예고",
+        "date": "2025-08-12 14:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584678"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 개발",
+        "date": "2025-08-12 14:18",
+        "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=91594"
+    },
+    {
+        "title": "착용만으로 망막검사 가능한 'OLED 콘택트렌즈' 세계 최초 구현",
+        "date": "2025-08-12 14:16",
+        "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=53112"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 14:16",
+        "link": "http://www.hg-times.com/news/articleView.html?idxno=274484"
+    },
+    {
+        "title": "삼성전자, 세계 첫 '마이크로 RGB TV' 출시...생생한 화질로 몰입감 강...",
+        "date": "2025-08-12 14:14",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=168923"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시… 더 선명하고 더 생생하...",
+        "date": "2025-08-12 14:14",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=132338"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 14:12",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219790?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 14:08",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000001602"
+    },
+    {
+        "title": "하루 1대도 안 팔린다…각성한 모토로라, '갤럭시Z 플립'보다 50만원 ...",
+        "date": "2025-08-12 14:06",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520092?sid=101"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 14:02",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=211668"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 개발",
+        "date": "2025-08-12 14:00",
+        "link": "http://www.whosaeng.com/163140"
+    },
+    {
+        "title": "렌즈만으로 '망막 검사'…국내 연구진, 세계 첫 '웨어러블 망막진단' 구...",
+        "date": "2025-08-12 14:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005234831?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 13:58",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=108418"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 13:54",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=492478"
+    },
+    {
+        "title": "귀에 꽂으면 '실시간 번역'?…애플 에어팟에 담길 신기능",
+        "date": "2025-08-12 13:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275037"
+    },
+    {
+        "title": "삼성 '마이크로 RGB TV' 中 추격 따돌린다",
+        "date": "2025-08-12 13:53",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340177?sid=105"
+    },
+    {
+        "title": "삼성, 세계 첫 ‘마이크로 RGB TV’ 출시..LED로 색재현력 혁신",
+        "date": "2025-08-12 13:52",
+        "link": "http://kpenews.com/View.aspx?No=3744679"
+    },
+    {
+        "title": "삼성전자, '4490만원' 그랜저 한 대 값 TV 내놨다...초프리미엄·초격차...",
+        "date": "2025-08-12 13:51",
+        "link": "https://n.news.naver.com/mnews/article/014/0005390485?sid=101"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 세계 최초 출시",
+        "date": "2025-08-12 13:50",
+        "link": "https://n.news.naver.com/mnews/article/241/0003459433?sid=105"
+    },
+    {
+        "title": "삼성, 세계 최초 '마이크로 RGB TV' 출시...프리미엄 TV '새 기준'",
+        "date": "2025-08-12 13:48",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=641054"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 세계 최초 출시…프리미엄 시장 공략",
+        "date": "2025-08-12 13:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385856?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시…색재현력·명암 표현력 ...",
+        "date": "2025-08-12 13:44",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3020920"
+    },
+    {
+        "title": "'TV 시장 주춤'…삼성, 마이크로 RGB TV로 세계 1등 사수전",
+        "date": "2025-08-12 13:41",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202583?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 13:38",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=114856"
+    },
+    {
+        "title": "프리미엄 TV 새판 짠다…삼성전자, 세계 최초 ‘마이크로 RGB TV’ 공개",
+        "date": "2025-08-12 13:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005540150?sid=101"
+    },
+    {
+        "title": "세계 최초 착용형 '무선 OLED 콘택트렌즈'로 망막검사 혁신",
+        "date": "2025-08-12 13:30",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=835611"
+    },
+    {
+        "title": "삼성전자 세계 최초 '마이크로 RGB TV' 출시, 프리미엄 리더십 강화",
+        "date": "2025-08-12 13:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=407277"
+    },
+    {
+        "title": "머스크 애플, 챗GPT 편애하고 그록 차별…법적조치 할 것",
+        "date": "2025-08-12 13:30",
+        "link": "https://n.news.naver.com/mnews/article/008/0005234799?sid=104"
+    },
+    {
+        "title": "삼성, 세계 최초 ‘마이크로 RGB TV’ 출시…AI 등 차세대 기술 집약",
+        "date": "2025-08-12 13:28",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065586219241932"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시…프리미엄 TV 리더십 강화",
+        "date": "2025-08-12 13:24",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=269866"
+    },
+    {
+        "title": "프리미엄 TV의 새 기준...삼성전자, '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 13:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=367703"
+    },
+    {
+        "title": "KAIST, 세계 최초 '착용형 OLED 콘택트렌즈'로 망막 검사 구현",
+        "date": "2025-08-12 13:24",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=110565"
+    },
+    {
+        "title": "용인특례시, 첫 애플망고 수확 품평회…아열대작물 재배 성과 공유",
+        "date": "2025-08-12 13:24",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1070823"
+    },
+    {
+        "title": "색 재현력 135% 향상⋯삼성전자, '마이크로 RGB TV'로 프리미엄 시장 ...",
+        "date": "2025-08-12 13:20",
+        "link": "https://www.etoday.co.kr/news/view/2496343"
+    },
+    {
+        "title": "[현장] 삼성전자, 中 잡는 프리미엄 LCD TV 끝판왕 출격",
+        "date": "2025-08-12 13:12",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674183"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시...4990만원",
+        "date": "2025-08-12 13:12",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=442365"
+    },
+    {
+        "title": "프리미엄 TV 새 기준… 삼성전자 '마이크로 RGB TV'",
+        "date": "2025-08-12 13:12",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3047855"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 출시",
+        "date": "2025-08-12 13:06",
+        "link": "http://www.breaknews.com/1139773"
+    },
+    {
+        "title": "일론 머스크 애플 xAI 차별, 챗GPT만 편애...반독점 제소",
+        "date": "2025-08-12 13:06",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=665310"
+    },
+    {
+        "title": "KAIST, 착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-12 13:02",
+        "link": "http://www.gocj.net/news/articleView.html?idxno=141747"
+    },
+    {
         "title": "'마이크로 RGB TV' 승부수 띄운 삼성, '맹추격' 中업체와 격차 벌린다",
         "date": "2025-08-12 12:56",
         "link": "http://www.thebigdata.co.kr/view.php?ud=2025081208342176865ed985c7c5_23"
@@ -45,7 +980,7 @@
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=768118"
     },
     {
-        "title": "삼성, LCD TV ‘끝판왕’ 선보인다…“중국 미니 LED TV 따돌릴 것”",
+        "title": "삼성전자, 中 따돌릴 초격차 카드…세계 첫 ‘마이크로 RGB TV’ 공개",
         "date": "2025-08-12 12:20",
         "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508121050130160419"
     },
@@ -63,11 +998,6 @@
         "title": "삼성전자 세계 최초 '마이크로 RGB TV'…中 제품과 비교 불가",
         "date": "2025-08-12 12:02",
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=806954"
-    },
-    {
-        "title": "“프리미엄 TV 최강자 우뚝 선다”…삼성, 세계 최초 ‘마이크로 RGB TV’...",
-        "date": "2025-08-12 12:00",
-        "link": "https://www.ceoscoredaily.com/page/view/2025081211584694661"
     },
     {
         "title": "삼성전자, '마이크로 RGB TV' 출시…초프리미엄 시장 공략 가속",
@@ -272,17 +1202,17 @@
     {
         "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시",
         "date": "2025-08-12 11:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423688?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시",
+        "date": "2025-08-12 11:21",
         "link": "https://n.news.naver.com/mnews/article/421/0008423686?sid=101"
     },
     {
         "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시",
         "date": "2025-08-12 11:21",
         "link": "https://n.news.naver.com/mnews/article/421/0008423687?sid=101"
-    },
-    {
-        "title": "삼성전자, 세계 최초 마이크로 RGB TV 출시",
-        "date": "2025-08-12 11:21",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423688?sid=101"
     },
     {
         "title": "삼성전자, 115형 '마이크로RGB TV' 출시···출고가는 4490만원",
@@ -313,11 +1243,6 @@
         "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
         "date": "2025-08-12 11:18",
         "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72473"
-    },
-    {
-        "title": "삼성전자, 세계 최초 ‘마이크로 RGB TV’ 공개…출고가 4억 4900만 원",
-        "date": "2025-08-12 11:18",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=186171"
     },
     {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시…새로운 카테고리",
@@ -405,14 +1330,14 @@
         "link": "https://n.news.naver.com/mnews/article/374/0000457068?sid=101"
     },
     {
+        "title": "삼성, '세계 최초' 마이크로 RGB TV 공개…초대형·초프리미엄 라인업 확...",
+        "date": "2025-08-12 11:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90488"
+    },
+    {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시… 3원색 정밀 제어 '초격차...",
         "date": "2025-08-12 11:02",
         "link": "https://www.ajunews.com/view/20250812102333888"
-    },
-    {
-        "title": "삼성, '세계 최초' 마이크로 RGB TV 공개…출고가 4490만원 '중형차 뺨친...",
-        "date": "2025-08-12 11:02",
-        "link": "https://www.theguru.co.kr/news/article.html?no=90488"
     },
     {
         "title": "中 빅3 공세 떨쳐낸다… 삼성, 마이크로 RGB TV로 승부수",
@@ -535,49 +1460,14 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674123"
     },
     {
-        "title": "'마이크로 RGB TV' 출시 브리핑하는 이종포 상무",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416774?sid=101"
-    },
-    {
-        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416760?sid=101"
-    },
-    {
-        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416758?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV'의 마이크로 RGB 기술을 만나보세요",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416753?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV', 더 선명하고 더 생생하게",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416756?sid=101"
-    },
-    {
         "title": "'마이크로 RGB TV', '마이크로 RGB AI 엔진'으로 더 생생하게",
         "date": "2025-08-12 11:00",
         "link": "https://n.news.naver.com/mnews/article/003/0013416766?sid=101"
     },
     {
-        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
+        "title": "'마이크로 RGB TV', 더 선명하고 더 생생하게",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416762?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV' 출시 브리핑하는 이종포 상무",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416761?sid=101"
-    },
-    {
-        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416752?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/003/0013416756?sid=101"
     },
     {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
@@ -590,14 +1480,44 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013416763?sid=101"
     },
     {
+        "title": "'마이크로 RGB TV' 출시 브리핑하는 이종포 상무",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416761?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416762?sid=101"
+    },
+    {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시 미디어 브리핑",
         "date": "2025-08-12 11:00",
         "link": "https://n.news.naver.com/mnews/article/003/0013416773?sid=101"
     },
     {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416752?sid=101"
+    },
+    {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013416770?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/003/0013416758?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV'의 마이크로 RGB 기술을 만나보세요",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416753?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416760?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV' 출시 브리핑하는 이종포 상무",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416774?sid=101"
     },
     {
         "title": "삼성전자, 세계 최초 '마이크로 RGB TV'로 차별화",
@@ -615,6 +1535,11 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013416757?sid=101"
     },
     {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013416770?sid=101"
+    },
+    {
         "title": "Samsung unveils new Micro RGB TV with AI-backed resolution",
         "date": "2025-08-12 11:00",
         "link": "https://n.news.naver.com/mnews/article/001/0015561098?sid=104"
@@ -622,22 +1547,12 @@
     {
         "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561101?sid=101"
-    },
-    {
-        "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561102?sid=101"
-    },
-    {
-        "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561100?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015561109?sid=101"
     },
     {
         "title": "마이크로 RGB TV 소개하는 이종포 상무",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561107?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015561097?sid=101"
     },
     {
         "title": "마이크로 RGB TV 소개하는 이종포 상무",
@@ -652,12 +1567,47 @@
     {
         "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561109?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015561101?sid=101"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015561102?sid=101"
     },
     {
         "title": "마이크로 RGB TV 소개하는 이종포 상무",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561097?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015561107?sid=101"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB TV 소개하는 이종포 상무",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015561100?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV가 가진 특징은?'",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423600?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV의 모습은?'",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423595?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 출시",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423601?sid=101"
+    },
+    {
+        "title": "이게 바로 '마이크로 RGB TV'",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015561114?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV의 특징은?'",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423588?sid=101"
     },
     {
         "title": "선명함 자랑하는 마이크로 RGB TV",
@@ -675,29 +1625,24 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015561115?sid=101"
     },
     {
+        "title": "삼성전자, 마이크로 RGB 컬러 백라이트 적용한 TV 출시",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423597?sid=101"
+    },
+    {
+        "title": "'마이크로 RGB TV에 적용된 기술은?'",
+        "date": "2025-08-12 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008423589?sid=101"
+    },
+    {
         "title": "'마이크로 RGB TV의 특징은?'",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423588?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/421/0008423594?sid=101"
     },
     {
-        "title": "이게 바로 '마이크로 RGB TV'",
+        "title": "'마이크로 RGB TV의 특징은?'",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015561114?sid=101"
-    },
-    {
-        "title": "삼성전자, 마이크로 RGB TV 출시",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423601?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV가 가진 특징은?'",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423600?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV의 모습은?'",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423595?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/421/0008423596?sid=101"
     },
     {
         "title": "삼성전자, '마이크로 RGB TV' 출시",
@@ -715,39 +1660,19 @@
         "link": "https://n.news.naver.com/mnews/article/421/0008423602?sid=101"
     },
     {
-        "title": "'마이크로 RGB TV가 가진 특징은?'",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423598?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV의 특징은?'",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423596?sid=101"
-    },
-    {
         "title": "이게 바로 '마이크로 RGB TV'",
         "date": "2025-08-12 11:00",
         "link": "https://n.news.naver.com/mnews/article/001/0015561111?sid=101"
     },
     {
-        "title": "'마이크로 RGB TV에 적용된 기술은?'",
+        "title": "'마이크로 RGB TV가 가진 특징은?'",
         "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423589?sid=101"
-    },
-    {
-        "title": "'마이크로 RGB TV의 특징은?'",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423594?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/421/0008423598?sid=101"
     },
     {
         "title": "삼성전자, 마이크로 RGB TV 출시",
         "date": "2025-08-12 11:00",
         "link": "https://n.news.naver.com/mnews/article/421/0008423587?sid=101"
-    },
-    {
-        "title": "삼성전자, 마이크로 RGB 컬러 백라이트 적용한 TV 출시",
-        "date": "2025-08-12 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008423597?sid=101"
     },
     {
         "title": "니토옵티칼 백혈병 산재 인정…애플·LGD 공급망 윤리 검증 압박",
@@ -1028,455 +1953,5 @@
         "title": "[더벨][K-Display 2025]솔루스첨단소재 그린 호스트·고분자재료 고도화...",
         "date": "2025-08-12 07:32",
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508081510502800107535"
-    },
-    {
-        "title": "용인특례시, 아열대작물 애플망고 품평회 개최",
-        "date": "2025-08-12 06:46",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=263456"
-    },
-    {
-        "title": "화웨이 새 트라이폴드폰, 내달 10일 공개.. 아이폰17과 맞불 [1일IT템]",
-        "date": "2025-08-12 06:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005390192?sid=105"
-    },
-    {
-        "title": "영업익 반토막 삼성전자…부진 탈출은 애플과 함께?",
-        "date": "2025-08-12 06:00",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=108300"
-    },
-    {
-        "title": "태블릿엔 디멘시티, 폰엔 스냅드래곤·엑시노스…삼성의 AP 삼원화 전략",
-        "date": "2025-08-12 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145608"
-    },
-    {
-        "title": "[르포] 글로벌 ‘효자’ 삼성 갤럭시, 여전히 높은 중국 벽",
-        "date": "2025-08-12 05:00",
-        "link": "https://www.etoday.co.kr/news/view/2495943"
-    },
-    {
-        "title": "애플페이, 현대카드 '독주' 장기화…후발 주자 '관망' 지속 이유",
-        "date": "2025-08-12 00:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000415839?sid=101"
-    },
-    {
-        "title": "“한국서 하루 1대도 안 팔려” 충격 받은 모토로라…50만원 싼 ‘접는...",
-        "date": "2025-08-11 23:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002512885?sid=105"
-    },
-    {
-        "title": "삼성·LG전자, '잘파세대' 잡는다… 체험·예술 결합한 마케팅 전면전",
-        "date": "2025-08-11 22:04",
-        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=303317"
-    },
-    {
-        "title": "용인시, 과학영농시설서 아열대작물 바나나에 이어 애플망고 첫 수확",
-        "date": "2025-08-11 21:34",
-        "link": "https://www.wikitree.co.kr/articles/1072431"
-    },
-    {
-        "title": "용인시, 아열대작물 애플망고 첫 수확... 품평회 열어",
-        "date": "2025-08-11 20:56",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3347816"
-    },
-    {
-        "title": "“에스파인데 왜 이래? 이건 충격” 완전 망했다…삼성에 눌린 아이폰 ...",
-        "date": "2025-08-11 20:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002512871?sid=105"
-    },
-    {
-        "title": "용인시서 바나나 이어 애플망고 수확 …이상일 1년 만에 결실 뜻깊어",
-        "date": "2025-08-11 20:10",
-        "link": "https://n.news.naver.com/mnews/article/003/0013415913?sid=102"
-    },
-    {
-        "title": "애플, 내년 봄 시리에 '앱 인텐트' 탑재...기기 제어·앱 작업까지 음성...",
-        "date": "2025-08-11 18:44",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=201430"
-    },
-    {
-        "title": "AR·VR 기기 안경처럼 가볍게···빛 자유자재 조절 메타렌즈, 대량생...",
-        "date": "2025-08-11 18:30",
-        "link": "http://www.hellodd.com/news/articleView.html?idxno=108850"
-    },
-    {
-        "title": "[메이드인 차이나 가전현장 가다] 삼성 스마트폰·워치, 中시장 끼어들...",
-        "date": "2025-08-11 18:12",
-        "link": "https://www.ekn.kr/web/view.php?key=20250811028505532"
-    },
-    {
-        "title": "[메이드인 차이나 가전현장 가다] 크고 싸지만 다 갖췄다…中TV ‘압도...",
-        "date": "2025-08-11 18:12",
-        "link": "https://www.ekn.kr/web/view.php?key=20250811025525786"
-    },
-    {
-        "title": "Z 폴드8, 폴더블폰 최대문제 해결한다",
-        "date": "2025-08-11 18:08",
-        "link": "https://www.betanews.net/article/view/beta202508110086"
-    },
-    {
-        "title": "삼성, 차세대 맥북에 OLED 패널 공급",
-        "date": "2025-08-11 17:59",
-        "link": "https://n.news.naver.com/mnews/article/009/0005539762?sid=101"
-    },
-    {
-        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 호평 이어져",
-        "date": "2025-08-11 17:50",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281557306212"
-    },
-    {
-        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파",
-        "date": "2025-08-11 17:46",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281170933910"
-    },
-    {
-        "title": "[기고] 위기의 K디스플레이, 재도약 기회 잡으려면",
-        "date": "2025-08-11 17:33",
-        "link": "https://n.news.naver.com/mnews/article/009/0005539678?sid=110"
-    },
-    {
-        "title": "韓 회사들과 손잡고 '스마트 캐빈' 혁신기술 개발",
-        "date": "2025-08-11 17:19",
-        "link": "https://n.news.naver.com/mnews/article/009/0005539652?sid=101"
-    },
-    {
-        "title": "애플·알파벳…자사주 사들이는 美기업 ‘역대 최대 규모’",
-        "date": "2025-08-11 17:17",
-        "link": "https://n.news.naver.com/mnews/article/011/0004519741?sid=104"
-    },
-    {
-        "title": "MSI x 인텔 게이머데이, 최신 게이밍 노트북 파격 혜택",
-        "date": "2025-08-11 17:10",
-        "link": "https://kbench.com/?q=node/270218"
-    },
-    {
-        "title": "삼성·LG, OLED로 옮겨간 게이밍 모니터서 정면 승부",
-        "date": "2025-08-11 16:46",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385714?sid=105"
-    },
-    {
-        "title": "애플페이 티머니, 중복결제 오류?…시스템 결함 없다",
-        "date": "2025-08-11 16:30",
-        "link": "https://www.consumuch.com/news/articleView.html?idxno=75907"
-    },
-    {
-        "title": "애플도 구글 모회사도‥미국 기업 자사주 매입 러시",
-        "date": "2025-08-11 16:28",
-        "link": "https://n.news.naver.com/mnews/article/214/0001442088?sid=104"
-    },
-    {
-        "title": "애플, AI 기반 '시리' 내년 봄 출시 목표…외부 앱까지 성능 시험",
-        "date": "2025-08-11 16:24",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145602"
-    },
-    {
-        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만 명 돌파…카카오, '편의점...",
-        "date": "2025-08-11 16:10",
-        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=174243"
-    },
-    {
-        "title": "삼성 갤럭시 폴드·플립7 잘파세대 공략 1030세대 점유율 확대",
-        "date": "2025-08-11 16:08",
-        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=497264"
-    },
-    {
-        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 10만명 방문",
-        "date": "2025-08-11 16:04",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=770892"
-    },
-    {
-        "title": "현실적인 고성능 게이밍 노트북 조합, 에이서 프레데터 헬리오스 네오 ...",
-        "date": "2025-08-11 15:58",
-        "link": "https://kbench.com/?q=node/270088"
-    },
-    {
-        "title": "트럼프가 뒤흔드는 특허 수수료…한국 기업 부담 9.9배 증가",
-        "date": "2025-08-11 15:53",
-        "link": "https://n.news.naver.com/mnews/article/015/0005169292?sid=105"
-    },
-    {
-        "title": "美 자사주 매입액 역대 최고…구글, 애플, JP모건 등 금융사",
-        "date": "2025-08-11 15:52",
-        "link": "https://n.news.naver.com/mnews/article/374/0000456917?sid=104"
-    },
-    {
-        "title": "애플도 구글 모회사도…미국 기업 자사주 매입 러시",
-        "date": "2025-08-11 15:45",
-        "link": "https://n.news.naver.com/mnews/article/001/0015559826?sid=101"
-    },
-    {
-        "title": "삼성D '미래 기술'·LGD '상용 기술'…계속되는 엇갈린 전시 전략",
-        "date": "2025-08-11 15:43",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=329792"
-    },
-    {
-        "title": "청주, 아열대 작물 애플망고 수확 시작",
-        "date": "2025-08-11 15:42",
-        "link": "http://www.nongup.net/news/articleView.html?idxno=31194"
-    },
-    {
-        "title": "레노버 씽크북 플러스 롤러블 리뷰 | 타협할 가치가 충분한 롤러블 노트...",
-        "date": "2025-08-11 15:30",
-        "link": "https://www.itworld.co.kr/article/4037248/레노버-씽크북-플러스-롤러블-리뷰-타협할-가치가-충.html"
-    },
-    {
-        "title": "[디지키 테크리포트] '매터(Matter)'를 통한 스마트홈 상호 연결성 표준...",
-        "date": "2025-08-11 15:00",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=320680"
-    },
-    {
-        "title": "게이머 맞춤형 HP 게이밍노트북 오멘16 빅터스, G마켓 ‘빡세일’ 프로...",
-        "date": "2025-08-11 14:56",
-        "link": "https://kbench.com/?q=node/270208"
-    },
-    {
-        "title": "삼성 갤럭시탭, 美中 압박에 점유율 사수 '경고등'",
-        "date": "2025-08-11 14:50",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1255819"
-    },
-    {
-        "title": "위기의 삼성 TV, ‘RGB LED’로 중저가·고가 TV 시장 ‘두마리 토끼’ ...",
-        "date": "2025-08-11 14:43",
-        "link": "https://n.news.naver.com/mnews/article/366/0001099532?sid=105"
-    },
-    {
-        "title": "美 품목관세 발표 임박…디스플레이·전자부품도 '초긴장'",
-        "date": "2025-08-11 14:06",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=767818"
-    },
-    {
-        "title": "삼성전자 스마트 모니터 M9, 美 IT 매체 '현존 최고의 모니터' 극찬",
-        "date": "2025-08-11 14:04",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=52053"
-    },
-    {
-        "title": "애플 차세대 시리 어떤 모습?…유튜브·스레드 등과 AI 연동 추진",
-        "date": "2025-08-11 13:52",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=274911"
-    },
-    {
-        "title": "[핀포인트] [삼성디스플레이] 테슬라·BYD서 문 두드린다…전장 사업 가...",
-        "date": "2025-08-11 13:38",
-        "link": "https://news.dealsitetv.com/articles/157802"
-    },
-    {
-        "title": "LG디스플레이 '구원투수' 정철동, 절반의 성공?",
-        "date": "2025-08-11 13:20",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36284"
-    },
-    {
-        "title": "삼성전자 스마트 모니터 M9, 美 IT 매체서 '현존 최고의 모니터' 극찬",
-        "date": "2025-08-11 12:34",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=219151"
-    },
-    {
-        "title": "'메이드 인 USA' 아이폰은 가능할까",
-        "date": "2025-08-11 12:26",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=143120"
-    },
-    {
-        "title": "글로벌웨이퍼스, 美 공장서 '애플 실리콘 웨이퍼' 생산",
-        "date": "2025-08-11 12:20",
-        "link": "https://www.theguru.co.kr/news/article.html?no=90453"
-    },
-    {
-        "title": "삼성전자, 장 줄리앙과 협업한 '갤럭시 폴더블 체험존' 방문객 10만 돌파",
-        "date": "2025-08-11 12:12",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=219147"
-    },
-    {
-        "title": "삼성전자 코엑스 갤럭시 폴더블 체험존, 방문객 10만명 돌파",
-        "date": "2025-08-11 12:04",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241157"
-    },
-    {
-        "title": "삼성전자 '갤럭시 Z 폴드7∙Z 플립7' 젊은 열풍, 연예계는 이미 알고 있...",
-        "date": "2025-08-11 11:56",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=703738"
-    },
-    {
-        "title": "OLED 탑재 '맥북 프로' 출시 지연…2027년 등장 전망",
-        "date": "2025-08-11 11:56",
-        "link": "https://kbench.com/?q=node/270190"
-    },
-    {
-        "title": "애플 차세대 시리 어떤 모습?…유튜브·스레드 등과 AI 연동 추진",
-        "date": "2025-08-11 11:32",
-        "link": "https://n.news.naver.com/mnews/article/003/0013414441?sid=105"
-    },
-    {
-        "title": "프리미엄폰 잇단 흥행… 삼성전자 모바일사업부, 하반기 실적도 책임진...",
-        "date": "2025-08-11 11:10",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/11/2025081100118.html"
-    },
-    {
-        "title": "잇단 수주에 삼성전자 신바람… 美 공장 존재감 커진다",
-        "date": "2025-08-11 11:06",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/11/2025081100116.html"
-    },
-    {
-        "title": "애플, 유튜브·페이스북 앱에 개인화된 시리 테스트 중",
-        "date": "2025-08-11 11:06",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385637?sid=105"
-    },
-    {
-        "title": "[초점] 美 항소법원, LG전자 특허소송 최종 승소 판결",
-        "date": "2025-08-11 11:04",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508111101204894fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "애플, LLM 처리 속도 5배 끌어올려…코딩·수학 두각 나타내",
-        "date": "2025-08-11 10:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584313"
-    },
-    {
-        "title": "美서 잘 나가는데 삼성만 밀릴라…'스마트폰 관세' 어쩌나",
-        "date": "2025-08-11 10:48",
-        "link": "https://n.news.naver.com/mnews/article/015/0005169119?sid=105"
-    },
-    {
-        "title": "애플, 229.35달러 4.24% 급등 장 마감",
-        "date": "2025-08-11 10:46",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15765335"
-    },
-    {
-        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체들로부터 연이은 호평",
-        "date": "2025-08-11 10:40",
-        "link": "https://www.cnbnews.com/news/article.html?no=743375"
-    },
-    {
-        "title": "아트뮤,명함크기 초슬림 콤팩트 '멀티허브독' 출시",
-        "date": "2025-08-11 10:40",
-        "link": "https://www.cnet.co.kr/view/?no=20250811102857"
-    },
-    {
-        "title": "아너 차기 폴더블폰 '매직 V 플립2'… 엣지 투 엣지 커버 디스플레이 탑...",
-        "date": "2025-08-11 10:34",
-        "link": "https://kbench.com/?q=node/270182"
-    },
-    {
-        "title": "덕산네오룩스, 2분기 실적 기대치 하회… 하반기 반등 '청신호'",
-        "date": "2025-08-11 10:34",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=367269"
-    },
-    {
-        "title": "삼성전자 폴더블 체험존 방문객 10만명 돌파",
-        "date": "2025-08-11 10:24",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=168434"
-    },
-    {
-        "title": "애플, 앞으로 어떤 제품 내놓을까…팀 쿡이 던진 암시들",
-        "date": "2025-08-11 10:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584287"
-    },
-    {
-        "title": "애플 'iOS 26' 최종 버전, 오픈AI 최신 AI 모델 'GPT-5' 통합",
-        "date": "2025-08-11 10:10",
-        "link": "https://kbench.com/?q=node/270179"
-    },
-    {
-        "title": "“시리가 못하는 건 다 한다” 아이폰에서 챗GPT 200% 활용하기",
-        "date": "2025-08-11 10:06",
-        "link": "https://www.itworld.co.kr/article/4037111/시리가-못하는-건-다-한다-아이폰에서-챗gpt-200-활용.html"
-    },
-    {
-        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
-        "date": "2025-08-11 09:58",
-        "link": "https://www.cnbnews.com/news/article.html?no=743343"
-    },
-    {
-        "title": "'꽃피는 봄' 기다리는 애플, 우버·유튜브 등 서드파티 앱 시리 연동 가...",
-        "date": "2025-08-11 09:41",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202455?sid=105"
-    },
-    {
-        "title": "삼성전자, 장 줄리앙 협업 ‘갤럭시 폴더블 체험존’ 10만 명 돌파",
-        "date": "2025-08-11 09:40",
-        "link": "https://www.hinews.co.kr/view.php?ud=202508110928235190dacad9caa0_48"
-    },
-    {
-        "title": "삼성전자 '더 갤럭시 언폴더스' 체험존, 15일 만에 '10만명' 돌파",
-        "date": "2025-08-11 09:40",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=236066"
-    },
-    {
-        "title": "애플 고소 '읽씹'? … 존 프로서, 이번엔 '아이폰 17 프로' 공개 [디지털...",
-        "date": "2025-08-11 09:24",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55618"
-    },
-    {
-        "title": "[미국주식] 눈물겨운 애플의 사투, 빛을 보나?",
-        "date": "2025-08-11 08:58",
-        "link": "https://www.itooza.com/common/iview.php?no=2025081108521679647"
-    },
-    {
-        "title": "애플 OLED 맥북 프로 출시 2027년 연기 가능성…M6 탑재 시기 관건",
-        "date": "2025-08-11 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584228"
-    },
-    {
-        "title": "애플, 모바일 웹 브라우저 독점 벽 깨지나…일본 규제 발표",
-        "date": "2025-08-11 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584202"
-    },
-    {
-        "title": "애플, 고객 서비스에 AI 도입…응대 방식 변화 물망",
-        "date": "2025-08-11 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584222"
-    },
-    {
-        "title": "애플 시리 업그레이드 전망…애플, AI 강화 예고",
-        "date": "2025-08-11 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584216"
-    },
-    {
-        "title": "OLED 탑재 맥북 프로, 출시 미뤄질까",
-        "date": "2025-08-11 08:42",
-        "link": "https://n.news.naver.com/mnews/article/092/0002385576?sid=105"
-    },
-    {
-        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 호평",
-        "date": "2025-08-11 08:28",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=405252"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S시리즈 재편…'플러스' 모델 '엣지'로 대체",
-        "date": "2025-08-11 08:12",
-        "link": "https://dealsite.co.kr/articles/146224"
-    },
-    {
-        "title": "애플, 메타에 또 빼앗겼다…AI 인재 추가 이탈 '위기'",
-        "date": "2025-08-11 08:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584200"
-    },
-    {
-        "title": "개인화된 시리 언제쯤? 애플, 유튜브·스레드 앱 테스트[모닝폰]",
-        "date": "2025-08-11 08:09",
-        "link": "https://n.news.naver.com/mnews/article/018/0006086851?sid=105"
-    },
-    {
-        "title": "[더벨]디스플레이 '캐즘'은 없다",
-        "date": "2025-08-11 07:38",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508071733390600107884"
-    },
-    {
-        "title": "삼성, 애플 이미지센서 美서 생산…소니 10년 독점 깨고 '빅딜' 성사",
-        "date": "2025-08-11 07:30",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=36069"
-    },
-    {
-        "title": "[모바일 On] 애플 아이폰17, 이르면 9월 9일 모습 드러낸다",
-        "date": "2025-08-11 07:26",
-        "link": "https://kidd.co.kr/news/242783"
-    },
-    {
-        "title": "애플 '과열' 신호탄에…월가 이 종목에 주목하라",
-        "date": "2025-08-11 07:18",
-        "link": "https://n.news.naver.com/mnews/article/215/0001219558?sid=101"
-    },
-    {
-        "title": "[IT썰] 애플, 고소하지 마 lol…이번엔 '아이폰17 프로' 렌더링 떡하니",
-        "date": "2025-08-11 07:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005233912?sid=105"
     }
 ]
