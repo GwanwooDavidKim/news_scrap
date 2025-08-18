@@ -1,5 +1,535 @@
 [
     {
+        "title": "[그래픽] 2025년 상반기 글로벌 스마트폰 판매량 상위 10위",
+        "date": "2025-08-18 13:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025081810563211392"
+    },
+    {
+        "title": "펀키스, 커스터마이징 끝판왕! LED 패널·LCD 스크린 탑재 유무선 기계식...",
+        "date": "2025-08-18 12:58",
+        "link": "https://kbench.com/?q=node/270385"
+    },
+    {
+        "title": "DGIST, QLED 핵심소재 '단단히 붙잡아' 효율‧수명 동시에 확보",
+        "date": "2025-08-18 12:20",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=93545"
+    },
+    {
+        "title": "갤럭시만 14년 쓴 중년의 '애플 이민', 14개월 후 벌어진 일",
+        "date": "2025-08-18 12:06",
+        "link": "https://n.news.naver.com/mnews/article/047/0002484789?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 17 시리즈와 함께 '애플워치 SE' 출시한다... 3년 만에 돌아...",
+        "date": "2025-08-18 12:00",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803107"
+    },
+    {
+        "title": "'폴더블폰 효과 톡톡' 삼성, 美 스마트폰 점유율 31%로 급등…애플은 주...",
+        "date": "2025-08-18 11:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=273303"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 미국 시장 공략… 애플 점유율 하락세",
+        "date": "2025-08-18 11:42",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=836329"
+    },
+    {
+        "title": "DGIST, QLED 효율 25.7%·수명 66배 늘린 신소재 개발",
+        "date": "2025-08-18 11:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585511"
+    },
+    {
+        "title": "CNBC 삼성,폴더블폰으로 美 시장점유율 애플 추격",
+        "date": "2025-08-18 11:34",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85647"
+    },
+    {
+        "title": "애플 아이폰 전략 변화…티타늄·다이나믹 아일랜드 단계적 폐기",
+        "date": "2025-08-18 11:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585550"
+    },
+    {
+        "title": "스티브 워즈니악, '애플 주식 팔지 말걸' 댓글에 돈보다 행복이 중요",
+        "date": "2025-08-18 11:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585548"
+    },
+    {
+        "title": "삼성, 갤럭시 S26 시리즈에 '프로' 모델 첫선... 배터리·디스플레이 등...",
+        "date": "2025-08-18 11:24",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803102"
+    },
+    {
+        "title": "청도산 애플망고가 나왔다고?",
+        "date": "2025-08-18 11:08",
+        "link": "https://www.kbmaeil.com/article/20250818500121"
+    },
+    {
+        "title": "폴더블폰의 힘...삼성, 美서 애플 바짝 추격",
+        "date": "2025-08-18 11:04",
+        "link": "https://n.news.naver.com/mnews/article/009/0005542871?sid=101"
+    },
+    {
+        "title": "커세어, 커스텀 가능한 수냉쿨러 '노틸러스 RS LCD' 발매",
+        "date": "2025-08-18 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250818101801"
+    },
+    {
+        "title": "착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구현",
+        "date": "2025-08-18 10:56",
+        "link": "http://www.brainmedia.co.kr/Trend/24955"
+    },
+    {
+        "title": "구글·애플 떨고 있니…D2C 웹스토어 앱차지, 한국 지사 설립",
+        "date": "2025-08-18 10:56",
+        "link": "https://news.mtn.co.kr/news-detail/2025081810513346156"
+    },
+    {
+        "title": "경북 청도에서 피어난 명품 과일, '청도 애플망고' 인기",
+        "date": "2025-08-18 10:52",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=138196"
+    },
+    {
+        "title": "애플 아이폰 17, 9월 발표 유력…가격 인상·디자인 변화 예고?",
+        "date": "2025-08-18 10:50",
+        "link": "https://www.cnet.co.kr/view/?no=20250818104749"
+    },
+    {
+        "title": "삼성, 신형 폴더블로 애플과 점유율 격차 좁혀... 美서 갤럭시 스마트폰...",
+        "date": "2025-08-18 10:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803099"
+    },
+    {
+        "title": "커세어, 올인원 CPU 쿨러 '노틸러스 RS LCD' 정식 출시",
+        "date": "2025-08-18 10:48",
+        "link": "https://gamefocus.co.kr/detail.php?number=168386"
+    },
+    {
+        "title": "아이폰17 앞둔 애플 주춤 삼성 갤럭시 폴더블로 미국 시장 추격",
+        "date": "2025-08-18 10:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=443463"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 MOU…백라이트 모듈 공동 개발",
+        "date": "2025-08-18 10:38",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=30955"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 앞세워 美서 애플 추격…점유율 8%p 상승",
+        "date": "2025-08-18 10:36",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=807585"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 美서 애플 맹추격… 점유율 확대",
+        "date": "2025-08-18 10:34",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3306487"
+    },
+    {
+        "title": "“세계의 공장”을 넘보다: 인도 EMS 산업, 글로벌 허브로 도약",
+        "date": "2025-08-18 10:30",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=232830"
+    },
+    {
+        "title": "CNBC 삼성, 폴더블폰으로 미국 시장점유율 애플 추격",
+        "date": "2025-08-18 10:28",
+        "link": "https://n.news.naver.com/mnews/article/055/0001284622?sid=104"
+    },
+    {
+        "title": "CNBC 삼성전자 폴더블폰으로 美 시장점유율↑",
+        "date": "2025-08-18 10:22",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=117528"
+    },
+    {
+        "title": "디지스트, QLED 핵심소재'단단히 붙잡아'효율·수명 동시에 확보",
+        "date": "2025-08-18 10:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003341340?sid=102"
+    },
+    {
+        "title": "이게 되네…280만원 삼성 폴더블폰, 美서 '초대박', 점유율 급등",
+        "date": "2025-08-18 10:20",
+        "link": "https://n.news.naver.com/mnews/article/011/0004521998?sid=101"
+    },
+    {
+        "title": "DGIST, 차세대 QLED 수명 66배 늘린 고결합 에너지 소재 개발",
+        "date": "2025-08-18 10:20",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2316472"
+    },
+    {
+        "title": "파인엠텍, 글로벌 폴더블 시장 진입 '청신호'",
+        "date": "2025-08-18 10:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=368998"
+    },
+    {
+        "title": "삼성, AI 경쟁에서 애플 압도…美 점유율 격차 10%대로 좁혀",
+        "date": "2025-08-18 10:18",
+        "link": "https://n.news.naver.com/mnews/article/117/0003977412?sid=103"
+    },
+    {
+        "title": "[더벨][i-point]미래컴퍼니, 초고해상도 OLEDoS 본딩 기술 개발 착수",
+        "date": "2025-08-18 10:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508180938122200102880"
+    },
+    {
+        "title": "애플워치 시리즈11, 혈압 측정·5G 지원…AI 기능도 강화",
+        "date": "2025-08-18 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585489"
+    },
+    {
+        "title": "K-Display 2025에서 살펴본 디스플레이의 미래",
+        "date": "2025-08-18 10:10",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=81690"
+    },
+    {
+        "title": "비전 프로, 콘텐츠 부족 논란 지속…애플 속내는 따로 있다",
+        "date": "2025-08-18 10:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585502"
+    },
+    {
+        "title": "2026년 출시 애플워치 시리즈, 혈압 감지 기능 먼저 추가",
+        "date": "2025-08-18 10:06",
+        "link": "https://kbench.com/?q=node/270368"
+    },
+    {
+        "title": "청도 '반시' 이어 새롭게 부상하는 청도 '애플망고'",
+        "date": "2025-08-18 10:06",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=278698"
+    },
+    {
+        "title": "디지스트 연구진 수명·효율 끌어올린 QLED 소재 개발",
+        "date": "2025-08-18 10:03",
+        "link": "https://n.news.naver.com/mnews/article/005/0001796440?sid=102"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 애플 美 시장점유율 추격",
+        "date": "2025-08-18 10:02",
+        "link": "https://n.news.naver.com/mnews/article/448/0000550248?sid=104"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 맞손...백라이트 모듈 개발",
+        "date": "2025-08-18 10:00",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=29955"
+    },
+    {
+        "title": "CNBC 삼성 폴더블폰 인기로, 애플 미 점유율 급락",
+        "date": "2025-08-18 09:58",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=666012"
+    },
+    {
+        "title": "아이폰 美 점유율 과반 깨졌다… 삼성전자 갤럭시 추격 속도",
+        "date": "2025-08-18 09:56",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/18/2025081800074.html"
+    },
+    {
+        "title": "삼성 휴대폰, Z시리즈 출시 영향 등 미 점유율 31%...전년비 23% 업",
+        "date": "2025-08-18 09:54",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241338"
+    },
+    {
+        "title": "DGIST, QLED 핵심소재 ‘단단히 붙잡아’ 효율·수명 동시 확보",
+        "date": "2025-08-18 09:52",
+        "link": "https://n.news.naver.com/mnews/article/021/0002730006?sid=102"
+    },
+    {
+        "title": "삼성, 폴더블폰 돌풍에 美 시장 31%…애플과 격차 확 좁혀",
+        "date": "2025-08-18 09:48",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=360614"
+    },
+    {
+        "title": "CNBC 애플, 美시장서 삼성 '약진' 맞서 폴더블폰 출시 준비",
+        "date": "2025-08-18 09:44",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=836274"
+    },
+    {
+        "title": "DGIST, QLED 핵심소재'단단히 붙잡아'효율 / 수명 동시에 확보!",
+        "date": "2025-08-18 09:44",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=567597"
+    },
+    {
+        "title": "미국서 애플과 격차 좁혔다…JP모건 내년 폴더블폰 경쟁 예상",
+        "date": "2025-08-18 09:41",
+        "link": "https://n.news.naver.com/mnews/article/215/0001220346?sid=101"
+    },
+    {
+        "title": "청도 햇살이 빚은 애플망고 맛보세요",
+        "date": "2025-08-18 09:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0015570578?sid=101"
+    },
+    {
+        "title": "삼성, 인도서 노트북 생산 개시",
+        "date": "2025-08-18 09:40",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=66212"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 백라이트 모듈 공동 개발 MOU",
+        "date": "2025-08-18 09:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275354"
+    },
+    {
+        "title": "청도 햇살이 빚은 애플망고 맛보세요",
+        "date": "2025-08-18 09:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0015570571?sid=101"
+    },
+    {
+        "title": "삼성전자, 폴더블 흥행에 美 점유율 확대…애플과 격차 좁혀",
+        "date": "2025-08-18 09:33",
+        "link": "https://www.newspim.com/news/view/20250818000195"
+    },
+    {
+        "title": "삼성·애플, 미국 스마트폰 시장에서 ‘폴더블’ 맞대결 예고",
+        "date": "2025-08-18 09:30",
+        "link": "https://sateconomy.co.kr/news/view/1065570748819745"
+    },
+    {
+        "title": "'접히는 스마트폰', 美 시장 판도 바꾼다…삼성, 애플 턱밑 추격",
+        "date": "2025-08-18 09:30",
+        "link": "https://www.daily365.news/2025/08/18/%ec%a0%91%ed%9e%88%eb%8a%94-%ec%8a%a4%eb%a7%88%ed%8a%b8%ed%8f%b0-%e7%be%8e-%ec%8b%9c%ec%9e%a5-%ed%8c%90%eb%8f%84-%eb%b0%94%ea%be%bc%eb%8b%a4%ec%82%bc%ec%84%b1-%ec%95%a0%ed%94%8c/"
+    },
+    {
+        "title": "삼성, 美 스마트폰 시장서 애플 바짝 추격…폴더블폰 승부수",
+        "date": "2025-08-18 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585460"
+    },
+    {
+        "title": "[더벨][i-point]탑런토탈솔루션, 멤스룩스와 MOU 체결",
+        "date": "2025-08-18 09:28",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508180909348680102044"
+    },
+    {
+        "title": "삼성 폴더블폰, 美서 아이폰 점유율 뺏어…애플, 10년 만에 흔들",
+        "date": "2025-08-18 09:17",
+        "link": "https://n.news.naver.com/mnews/article/003/0013426273?sid=104"
+    },
+    {
+        "title": "'폴더블폰 돌풍' 삼성 미국 점유율 23%→ 31%로 확대",
+        "date": "2025-08-18 09:03",
+        "link": "https://n.news.naver.com/mnews/article/417/0001095815?sid=105"
+    },
+    {
+        "title": "[영상] “애플·테슬라 계약은 삼성전자 반전의 터닝 포인트”",
+        "date": "2025-08-18 09:01",
+        "link": "https://n.news.naver.com/mnews/article/037/0000036823?sid=101"
+    },
+    {
+        "title": "DGIST, QLED 디스플레이 수명·효율 높이는 소재 개발",
+        "date": "2025-08-18 08:58",
+        "link": "https://n.news.naver.com/mnews/article/003/0013426227?sid=102"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 업무협약 체결",
+        "date": "2025-08-18 08:46",
+        "link": "https://www.newspim.com/news/view/20250818000023"
+    },
+    {
+        "title": "美 스마트폰 시장서 삼성 '약진'…내년 첫 폴더블 아이폰 출시 전망",
+        "date": "2025-08-18 08:44",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674780"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 인기에 미국서 애플 점유율 잠식 [친절한 IT]",
+        "date": "2025-08-18 08:41",
+        "link": "https://n.news.naver.com/mnews/article/293/0000071234?sid=105"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 '차세대 백라이트 모듈' 공동 개발 업무협...",
+        "date": "2025-08-18 08:40",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=700457"
+    },
+    {
+        "title": "“아재폰의 대반전”...삼성 갤럭시, 아이폰 맹추격",
+        "date": "2025-08-18 08:40",
+        "link": "https://n.news.naver.com/mnews/article/050/0000095067?sid=101"
+    },
+    {
+        "title": "삼성, 폴더블 신제품에 美 시장점유율 31%로 ↑..애플도 내년 폴더블 가...",
+        "date": "2025-08-18 08:34",
+        "link": "https://n.news.naver.com/mnews/article/014/0005392605?sid=101"
+    },
+    {
+        "title": "8월 14일 주식시장 주요공시",
+        "date": "2025-08-18 08:32",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=113221"
+    },
+    {
+        "title": "애플워치, 내년에 디자인 바뀐다...센서도 2배로",
+        "date": "2025-08-18 08:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386468?sid=105"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 美 시장서 애플 추격…점유율 23%→31%",
+        "date": "2025-08-18 08:24",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=250775"
+    },
+    {
+        "title": "애플, 애플워치 혈중산소 측정 기능 복원",
+        "date": "2025-08-18 08:22",
+        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=927957"
+    },
+    {
+        "title": "삼성, 폴더블 앞세워 美점유율 31%로 급상승…SK하이닉스 곳간, 반 년만...",
+        "date": "2025-08-18 08:20",
+        "link": "https://n.news.naver.com/mnews/article/011/0004521922?sid=101"
+    },
+    {
+        "title": "자화전자, 애플 '아이폰17' 내 점유율 '확대'…기대 이상 매출 성장에 ...",
+        "date": "2025-08-18 08:18",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=700453"
+    },
+    {
+        "title": "탑런토탈솔루션, 멤스룩스와 백라이트 모듈 공동 개발 MOU",
+        "date": "2025-08-18 08:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013426117?sid=101"
+    },
+    {
+        "title": "삼성, 폴더블 신작 힘에 美 점유율 31%… 애플은 49%로 하락",
+        "date": "2025-08-18 08:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=368892"
+    },
+    {
+        "title": "삼성 추격에 아이폰17 초슬림 '에어'로 반격할까[모닝폰]",
+        "date": "2025-08-18 08:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006092304?sid=101"
+    },
+    {
+        "title": "삼성전자, 美 스마트폰 점유율 8% 상승…'폴더블폰' 흥행",
+        "date": "2025-08-18 08:12",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=662106"
+    },
+    {
+        "title": "[더벨][Company Watch]'실적 서프라이즈' 선익시스템, 하반기 랠리 예고",
+        "date": "2025-08-18 08:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508141451490800103772"
+    },
+    {
+        "title": "네이버 “사우디서 글로벌 B2B기업으로 도약”…국방도 소버린AI 시대, ...",
+        "date": "2025-08-18 08:05",
+        "link": "https://n.news.naver.com/mnews/article/011/0004521914?sid=101"
+    },
+    {
+        "title": "스마트폰 격돌 재점화 삼성, 폴더블폰으로 美 점유율 31% 증가. 애플 흔...",
+        "date": "2025-08-18 08:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535069"
+    },
+    {
+        "title": "CNBC 삼성 스마트폰, 미 시장 점유율 애플 추격",
+        "date": "2025-08-18 07:56",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=122640"
+    },
+    {
+        "title": "애플워치 지금 사면 후회한다 9월 아이폰17 이어 '시리즈11·울트라3·...",
+        "date": "2025-08-18 07:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535068"
+    },
+    {
+        "title": "CNBC 삼성, 폴더블폰으로 美 시장점유율 애플 추격",
+        "date": "2025-08-18 07:44",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=194138"
+    },
+    {
+        "title": "삼전 폴더블폰 덕분에 美시장점유율 급증…23%→31%",
+        "date": "2025-08-18 07:44",
+        "link": "https://n.news.naver.com/mnews/article/421/0008432263?sid=104"
+    },
+    {
+        "title": "[부자들의 투자노트] 댄 아이브스 애플, AI 기업 인수해야 할 것",
+        "date": "2025-08-18 07:40",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457964?sid=104"
+    },
+    {
+        "title": "[더벨][LG전자·IT 패러다임 시프트]'중국 두렵다' 경영진의 속내, 견제...",
+        "date": "2025-08-18 07:28",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508111451236880103047"
+    },
+    {
+        "title": "[이 시각 세계] 삼성, 폴더블폰으로 미국 시장 점유율 확대",
+        "date": "2025-08-18 07:22",
+        "link": "https://n.news.naver.com/mnews/article/214/0001443320?sid=104"
+    },
+    {
+        "title": "댄 아이브스 애플, AI 기업 인수해야 할 것",
+        "date": "2025-08-18 07:21",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457957?sid=104"
+    },
+    {
+        "title": "삼성 폴더블폰 열풍에 내년 첫 '폴더블 아이폰' 나올 듯",
+        "date": "2025-08-18 07:12",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/08/18/2025081800009.html"
+    },
+    {
+        "title": "삼성, 테슬라 ‘옵티머스’ 로봇 얼굴용 OLED 공급…차세대 기술 경쟁...",
+        "date": "2025-08-18 07:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508180639459260fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성, 중저가 AI폰 ‘갤럭시 A’가 일냈다…“세계 스마트폰 톱10 ‘싹쓸...",
+        "date": "2025-08-18 07:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025081413541517983"
+    },
+    {
+        "title": "“삼성, 폴더블폰 업고 미국서 애플 추격…애플도 내년 출시”",
+        "date": "2025-08-18 06:47",
+        "link": "https://n.news.naver.com/mnews/article/009/0005542721?sid=101"
+    },
+    {
+        "title": "CNBC “삼성전자, 관세에도 美 시장점유율 애플 추격”",
+        "date": "2025-08-18 06:43",
+        "link": "https://n.news.naver.com/mnews/article/366/0001100870?sid=104"
+    },
+    {
+        "title": "美 삼성 스마트폰 점유율 급상승, 애플도 '폴더블폰' 맞불?",
+        "date": "2025-08-18 06:42",
+        "link": "https://n.news.naver.com/mnews/article/014/0005392584?sid=101"
+    },
+    {
+        "title": "10년 전 격전 재연한다…'애플왕국' 맹공하는 삼성전자",
+        "date": "2025-08-18 06:42",
+        "link": "https://n.news.naver.com/mnews/article/015/0005171733?sid=101"
+    },
+    {
+        "title": "삼성 폴더블폰 이 정도 일 줄이야…애플 안방이 흔들린다",
+        "date": "2025-08-18 06:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006092259?sid=101"
+    },
+    {
+        "title": "[외신 헤드라인] 삼성, 폴더블 흥행 업고 美 시장 애플 위협",
+        "date": "2025-08-18 06:21",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457936?sid=104"
+    },
+    {
+        "title": "CNBC 삼성, 폴더블폰으로 미국 시장점유율 애플 추격",
+        "date": "2025-08-18 06:04",
+        "link": "https://n.news.naver.com/mnews/article/055/0001284532?sid=104"
+    },
+    {
+        "title": "샤오미·LCD는 되고, 삼성LG·OLED는 안된다는 이것[기자수첩-산업]",
+        "date": "2025-08-18 06:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002991753?sid=101"
+    },
+    {
+        "title": "추격 무섭네…280만원 삼성 스마트폰 美서 '초대박'",
+        "date": "2025-08-18 05:58",
+        "link": "https://n.news.naver.com/mnews/article/215/0001220325?sid=101"
+    },
+    {
+        "title": "CNBC 삼성, 폴더블폰으로 애플 추격...애플도 내년 출시",
+        "date": "2025-08-18 05:38",
+        "link": "https://n.news.naver.com/mnews/article/052/0002234022?sid=104"
+    },
+    {
+        "title": "삼성·구글의 동맹은 어떻게 애플을 흔들었나 [손엄지의 IT살롱]",
+        "date": "2025-08-18 05:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008432168?sid=105"
+    },
+    {
+        "title": "CNBC “삼성, 폴더블폰 출시로 美 점유율 급등…애플 추격”",
+        "date": "2025-08-18 05:22",
+        "link": "https://www.kukinews.com/article/view/kuk202508180001"
+    },
+    {
+        "title": "'삼성전자' 美 스마트폰 점유율 31%로 상승…폴더블 신제품 효과",
+        "date": "2025-08-18 05:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15772012"
+    },
+    {
         "title": "삼성폰 반도체 관세 독박?…애플과 격차 벌어질 수도",
         "date": "2025-08-18 05:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005236907?sid=105"
@@ -135,9 +665,9 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005236817?sid=105"
     },
     {
-        "title": "애플의 AI 대반격 ‘책상 위 로봇’",
-        "date": "2025-08-17 13:52",
-        "link": "https://kookbang.dema.mil.kr/newsWeb/20250818/1/ATCE_CTGR_0020020001/view.do"
+        "title": "[단독]삼성전자, 印 노이다 공장서 노트북 생산 개시",
+        "date": "2025-08-17 10:44",
+        "link": "http://thetracker.co.kr/View.aspx?No=3748734"
     },
     {
         "title": "중국에 얻어맞은 삼성·LG TV…평균가 나란히 떨어졌다",
