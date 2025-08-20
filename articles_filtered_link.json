@@ -1,5 +1,820 @@
 [
     {
+        "title": "구글, 애플 겨냥 AI 탑재 '픽셀10' 스마트폰 시리즈 출시",
+        "date": "2025-08-21 04:52",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=666628"
+    },
+    {
+        "title": "구글 '픽셀10 시리즈' AI 기능 강화…애플보다 앞서 美시장 공략",
+        "date": "2025-08-21 04:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15776018"
+    },
+    {
+        "title": "커지는 사이버 위협에… 애플-삼성 ‘보안 강화’ 승부수",
+        "date": "2025-08-21 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003655506?sid=101"
+    },
+    {
+        "title": "AI 시대, 늘리고 비틀 수 있는 ‘유연 디스플레이’가 대세로",
+        "date": "2025-08-21 02:46",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=305343"
+    },
+    {
+        "title": "애플은 왜 인도를 택했나…아이폰17 전 모델 생산, 역대 처음",
+        "date": "2025-08-21 01:54",
+        "link": "https://n.news.naver.com/mnews/article/025/0003463327?sid=104"
+    },
+    {
+        "title": "보이스피싱 아이폰이 막는다…애플, iOS26 보안 강화",
+        "date": "2025-08-21 01:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002387017?sid=105"
+    },
+    {
+        "title": "“OLED라고 다 같은 OLED가 아니네”",
+        "date": "2025-08-21 00:37",
+        "link": "https://n.news.naver.com/mnews/article/023/0003924254?sid=105"
+    },
+    {
+        "title": "‘프리미엄 아니어도 인기’… 태블릿PC 중저가 경쟁",
+        "date": "2025-08-21 00:19",
+        "link": "https://n.news.naver.com/mnews/article/005/0001797125?sid=101"
+    },
+    {
+        "title": "게임스컴 2025에 삼성전자·현대자동차가 참가...왜?",
+        "date": "2025-08-21 00:06",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=264315"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025 참가… OLED, AI 시대 가장 적합한 디스플레이...",
+        "date": "2025-08-20 23:32",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3308021"
+    },
+    {
+        "title": "애플, 개인정보는 '내 손 안에'…기기 중심 보안 기술 선보여",
+        "date": "2025-08-20 23:12",
+        "link": "https://www.tokenpost.kr/news/tech/278617"
+    },
+    {
+        "title": "플래그십보다 비싼 보급형?...삼성전자 '버즈 3 FE' 매력 있나",
+        "date": "2025-08-20 23:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=265008"
+    },
+    {
+        "title": "삼성D·LGD, AI시대 디스플레이 ‘진검승부’",
+        "date": "2025-08-20 22:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004061632?sid=101"
+    },
+    {
+        "title": "“이거 실화? 삼성 무슨 일이야?”…MZ 사이에서 난리난 ‘OLED 캠페인’",
+        "date": "2025-08-20 22:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002517102?sid=105"
+    },
+    {
+        "title": "“보험료 환급 사기 거른다?” 애플 발표 살펴보니",
+        "date": "2025-08-20 21:52",
+        "link": "https://n.news.naver.com/mnews/article/123/0002366323?sid=004"
+    },
+    {
+        "title": "AI 시대엔 늘리고 비틀기도 가능한 디스플레이가 대세 될 것",
+        "date": "2025-08-20 21:01",
+        "link": "https://n.news.naver.com/mnews/article/469/0000882617?sid=101"
+    },
+    {
+        "title": "삼성·LG, '게이밍 모니터'에 투자 가속…프리미엄 시장 선점 나선다",
+        "date": "2025-08-20 20:30",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=90165"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2025 참가",
+        "date": "2025-08-20 19:36",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290793866283"
+    },
+    {
+        "title": "삼성D, IMID 2025 논문 최다 발표… 30%가 AI 연구",
+        "date": "2025-08-20 19:34",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=411122"
+    },
+    {
+        "title": "“아이폰이 낯선 전화 걸러준다”… 애플, ‘빗장’ 더 강화",
+        "date": "2025-08-20 19:21",
+        "link": "https://n.news.naver.com/mnews/article/005/0001797092?sid=101"
+    },
+    {
+        "title": "쓸수록 돌려받는 '상생페이백'···간편결제는 삼성·애플페이만 [뉴스...",
+        "date": "2025-08-20 19:00",
+        "link": "https://www.ktv.go.kr/content/view?content_id=735362"
+    },
+    {
+        "title": "애플, 아이폰17 전 모델 인도 생산…미국 공급·중국 의존도 낮춘다",
+        "date": "2025-08-20 18:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369914"
+    },
+    {
+        "title": "[게임스컴] 삼성전자, 역대 최대 전시…글로벌 대작 함께한다",
+        "date": "2025-08-20 18:28",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038760"
+    },
+    {
+        "title": "삼성 게이밍 모니터, 세계최대 게임쇼 출격",
+        "date": "2025-08-20 18:27",
+        "link": "https://n.news.naver.com/mnews/article/014/0005394367?sid=105"
+    },
+    {
+        "title": "닮은 꼴 페이커·윙 출연에…삼성 OLED 캠페인 '화제'",
+        "date": "2025-08-20 18:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025082013213527576ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성D·LGD, 'IMID 2025' 참가…앞선 기술력·디스플레이 미래 제시",
+        "date": "2025-08-20 18:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025082009502447616ed0c62d49_1/article.html"
+    },
+    {
+        "title": "기후변화 속 '용인산 애플망고' 첫 수확",
+        "date": "2025-08-20 18:08",
+        "link": "https://news.skbroadband.com/news/articleView.html?idxno=207572"
+    },
+    {
+        "title": "현대차·삼성, '게임스컴 2025'서 미래 모빌리티·게이밍 혁신 선봬",
+        "date": "2025-08-20 18:06",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508201128514213fe8821aee_1/article.html"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 시대 최적돠된 디스플레이 미래상 제시",
+        "date": "2025-08-20 18:00",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=270492"
+    },
+    {
+        "title": "삼성디스플레이, 'IMID 2025'서 기술 논문 최다 발표",
+        "date": "2025-08-20 17:58",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=270494"
+    },
+    {
+        "title": "“애플도 모름” 사용자 계정·비번 알길 없다…올 가을 iOS26 진화 [MOVIE...",
+        "date": "2025-08-20 17:56",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203091?sid=105"
+    },
+    {
+        "title": "LG디스플레이 IMID 2025 참가...기조연설서 AI혁신 주도할 디스플레이의...",
+        "date": "2025-08-20 17:52",
+        "link": "https://idsn.co.kr/news/view/1065599222824424"
+    },
+    {
+        "title": "[브리프] 삼성전자 현대차 LG전자 SKT 현대모비스 한화큐셀 外",
+        "date": "2025-08-20 17:48",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338794"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 시대 최적 디스플레이는 OLED 선언",
+        "date": "2025-08-20 17:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236902"
+    },
+    {
+        "title": "獨 머크 “AI 시대 겨냥 OLED 재료 중수소화 추진”",
+        "date": "2025-08-20 17:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003342389?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 'IMID 2025'에서 최다 논문 발표",
+        "date": "2025-08-20 17:46",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236882"
+    },
+    {
+        "title": "삼성전자, 머크서 미국 QD 특허 53건 매입",
+        "date": "2025-08-20 17:44",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39654"
+    },
+    {
+        "title": "IMID 2025, 삼성D·LGD ‘AI 시대 기술력’ 공개",
+        "date": "2025-08-20 17:44",
+        "link": "https://www.viva100.com/article/20250820501402"
+    },
+    {
+        "title": "[재계·산업 업계동향]“위기 속 전략” 세아제강·포스코…관세 폭탄 ...",
+        "date": "2025-08-20 17:44",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=772509"
+    },
+    {
+        "title": "[재계는 지금] LGD, AI 혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 17:38",
+        "link": "https://dealsite.co.kr/articles/146781"
+    },
+    {
+        "title": "LG디스플레이, 올해 IMID 참가…OLED, AI시대 가장 적합",
+        "date": "2025-08-20 17:35",
+        "link": "https://n.news.naver.com/mnews/article/374/0000458608?sid=101"
+    },
+    {
+        "title": "AI 소통의 창은 OLED...LG디스플레이, IMID서 미래 디스플레이 청사진...",
+        "date": "2025-08-20 17:34",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338811"
+    },
+    {
+        "title": "LG디스플레이 OLED, AI 확산 주도하는 전환점",
+        "date": "2025-08-20 17:32",
+        "link": "https://n.news.naver.com/mnews/article/277/0005639828?sid=101"
+    },
+    {
+        "title": "위기의 K-디스플레이, OLED 등 차세대 디스플레이 기술로 재도약한다",
+        "date": "2025-08-20 17:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025082015311372530"
+    },
+    {
+        "title": "KB증권, 탑런토탈솔루션 OLED 사업다각화 적자 전환 경고",
+        "date": "2025-08-20 17:28",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=511925"
+    },
+    {
+        "title": "LG디스플레이 IMID 2025 참가…OLED, AI 시대에 가장 적합",
+        "date": "2025-08-20 17:23",
+        "link": "https://n.news.naver.com/mnews/article/448/0000550984?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2025서 논문 69편 발표...참가 기업 중 최다",
+        "date": "2025-08-20 17:22",
+        "link": "https://www.mediapen.com/news/view/1037439"
+    },
+    {
+        "title": "삼성전자 게임스컴 승부수는 ‘게이밍 모니터’",
+        "date": "2025-08-20 17:22",
+        "link": "https://www.ekn.kr/web/view.php?key=20250820029578450"
+    },
+    {
+        "title": "삼성디스플레이, 디스플레이학술대회서 논문 69건 발표...참가 기업 중 ...",
+        "date": "2025-08-20 17:18",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=770121"
+    },
+    {
+        "title": "애플, 다음 달 출시 아이폰17 전 모델 인도서 생산",
+        "date": "2025-08-20 17:12",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202508201653185459"
+    },
+    {
+        "title": "LGD AI 시대 최적화된 디스플레이는 OLED…미래 비전 제시",
+        "date": "2025-08-20 17:11",
+        "link": "https://n.news.naver.com/mnews/article/008/0005238591?sid=101"
+    },
+    {
+        "title": "‘모르는 번호’ 전화, 아이폰이 대신 받고 통화 목적 묻는다",
+        "date": "2025-08-20 17:09",
+        "link": "https://n.news.naver.com/mnews/article/032/0003390766?sid=101"
+    },
+    {
+        "title": "[데스크 칼럼]애플은 왜 폴더블 폰을 6년째 만들지 못할까?",
+        "date": "2025-08-20 17:08",
+        "link": "http://www.segyebiz.com/newsView/20250820514813?OutUrl=naver"
+    },
+    {
+        "title": "삼성디스플레이, 'IMID 2025'서 최다 논문 발표…R&amp;D역량 증명",
+        "date": "2025-08-20 17:06",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=708160"
+    },
+    {
+        "title": "최현철 LGD 부사장 AI다루는 인간의도·감정 정확하게 표현하는데 'OLED...",
+        "date": "2025-08-20 17:06",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=113412"
+    },
+    {
+        "title": "삼성 게이밍 모니터 '오디세이' 신모델 선봬",
+        "date": "2025-08-20 16:58",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363701068"
+    },
+    {
+        "title": "최현철 LGD 부사장 “AI 시대 최적 디스플레이는 OLED”",
+        "date": "2025-08-20 16:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003342353?sid=105"
+    },
+    {
+        "title": "모르는 번호 전화오면 아이폰이 알아서 차단… 내달 배포 ‘iOS26’, 보안...",
+        "date": "2025-08-20 16:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002976704?sid=105"
+    },
+    {
+        "title": "[산업 브리핑] LG디스플레이·한화솔루션·쏘카",
+        "date": "2025-08-20 16:54",
+        "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=87359"
+    },
+    {
+        "title": "“오늘만 특별금리 대출 1억까지” 지긋지긋한 스팸 전화, 아이폰 쓰면...",
+        "date": "2025-08-20 16:53",
+        "link": "https://n.news.naver.com/mnews/article/016/0002517037?sid=105"
+    },
+    {
+        "title": "[이슈딜] 삼성전자 하반기 반등?…SK하이닉스 독주 끝날까",
+        "date": "2025-08-20 16:52",
+        "link": "https://news.dealsitetv.com/articles/158244"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:52",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=772474"
+    },
+    {
+        "title": "바나나·애플망고·파파야 다 납니다!...동남아 된 수도권 [앵커리포트...",
+        "date": "2025-08-20 16:51",
+        "link": "https://n.news.naver.com/mnews/article/052/0002235473?sid=102"
+    },
+    {
+        "title": "특검도 열지 못한 尹 잠금화면…아이폰 보안기능 더 세진다는데",
+        "date": "2025-08-20 16:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0013432731?sid=105"
+    },
+    {
+        "title": "삼성전자, 獨 '게임스컴 2025'에서 게이밍 모니터 신제품 선보여",
+        "date": "2025-08-20 16:48",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=495635"
+    },
+    {
+        "title": "LG디스플레이 OLED가 AI 디스플레이 최적",
+        "date": "2025-08-20 16:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=586378"
+    },
+    {
+        "title": "사용자 추적 막고, 보이스피싱 예방…애플, 개인정보 보호 힘준다",
+        "date": "2025-08-20 16:42",
+        "link": "https://n.news.naver.com/mnews/article/277/0005639808?sid=105"
+    },
+    {
+        "title": "AI 시대 가장 적합한 디스플레이는 OLED",
+        "date": "2025-08-20 16:38",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201475"
+    },
+    {
+        "title": "LG디스플레이 학술대회 IMID서 디스플레이 미래상 제시, OLED가 AI 시대 ...",
+        "date": "2025-08-20 16:38",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=408399"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:38",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=68023"
+    },
+    {
+        "title": "LGD, IMID 2025서 'AI 시대 디스플레이 미래상' 제시",
+        "date": "2025-08-20 16:34",
+        "link": "https://n.news.naver.com/mnews/article/031/0000958655?sid=105"
+    },
+    {
+        "title": "삼성 게이밍 모니터 '오디세이', '게임스컴 2025'서 글로벌 대작 게임 체...",
+        "date": "2025-08-20 16:28",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=178772"
+    },
+    {
+        "title": "'보급형 아이폰' 아이폰 17e, 노치 버리고 '다이내믹 아일랜드' 적용... ...",
+        "date": "2025-08-20 16:26",
+        "link": "https://www.insight.co.kr/news/516598"
+    },
+    {
+        "title": "LG디스플레이, 'IMID 2025' 참가...OLED가 AI 시대에 가장 적합",
+        "date": "2025-08-20 16:24",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=80065"
+    },
+    {
+        "title": "애플 발표 전인데 사전예약...아이폰17, 단통법 폐지 시장 달굴까",
+        "date": "2025-08-20 16:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386972?sid=105"
+    },
+    {
+        "title": "모르는 번호는 아이폰이 대신 받는다… 보안 철학 강조한 애플",
+        "date": "2025-08-20 16:20",
+        "link": "https://n.news.naver.com/mnews/article/366/0001101670?sid=105"
+    },
+    {
+        "title": "모르는 번호로 온 전화, 아이폰이 검토·차단…보안강화 내세운 애플",
+        "date": "2025-08-20 16:19",
+        "link": "https://n.news.naver.com/mnews/article/008/0005238524?sid=105"
+    },
+    {
+        "title": "[영상] BOE 미 수출금지 한국 반사이익, 애플에 달렸다",
+        "date": "2025-08-20 16:14",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39655"
+    },
+    {
+        "title": "[산업워치] LG전자, 공기질 전문가와 손잡고 공기청정 센서·필터 개발한...",
+        "date": "2025-08-20 16:10",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=72622"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:10",
+        "link": "https://hobbyen-news.com/news/view/1065585950528409"
+    },
+    {
+        "title": "애플 “사용자 정보, 우리도 못 본다”…개인정보 보호 원칙 공개",
+        "date": "2025-08-20 16:07",
+        "link": "https://n.news.naver.com/mnews/article/011/0004523096?sid=101"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2025 참가...게이밍 모니터 신제품 공개",
+        "date": "2025-08-20 16:06",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346419"
+    },
+    {
+        "title": "DisplayPort 2.1(UHBR20)을 지원하는 GIGABYTE AORUS FO32U2P 모니터 재입고",
+        "date": "2025-08-20 16:04",
+        "link": "https://kbench.com/?q=node/270494"
+    },
+    {
+        "title": "삼성·LG, 부산 국제디스플레이학회에서 기술력 뿜뿜",
+        "date": "2025-08-20 16:04",
+        "link": "https://n.news.naver.com/mnews/article/658/0000117373?sid=101"
+    },
+    {
+        "title": "삼성‧LG디스플레이, ‘IMID 2025’서 AI 분야 연구개발 역량 증명 外 SK...",
+        "date": "2025-08-20 16:02",
+        "link": "https://www.kukinews.com/article/view/kuk202508200106"
+    },
+    {
+        "title": "LG디스플레이 “AI 시대 가장 적합한 디스플레이는 OLED”",
+        "date": "2025-08-20 16:02",
+        "link": "https://n.news.naver.com/mnews/article/119/0002993060?sid=101"
+    },
+    {
+        "title": "[N2 전자 정보통] 부산서 열린 ‘IMID 2025’…韓 디스플레이 ‘기술 리...",
+        "date": "2025-08-20 16:02",
+        "link": "https://www.news2day.co.kr/article/20250820500064"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI시대 OLED 중요성 발표",
+        "date": "2025-08-20 16:02",
+        "link": "https://www.ajunews.com/view/20250820092231236"
+    },
+    {
+        "title": "LG디스플레이, 'IMID 2025'참가...AI혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:02",
+        "link": "http://www.metroseoul.co.kr/article/20250820500376"
+    },
+    {
+        "title": "LGD OLED, AI 확산 주도하는 전환점될 것",
+        "date": "2025-08-20 16:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006094441?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 기술력 증명…디스플레이 대상 수상",
+        "date": "2025-08-20 16:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006094440?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 'IMID 2025'서 AI 혁신 주도할 OLED 미래상 제시",
+        "date": "2025-08-20 16:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386969?sid=105"
+    },
+    {
+        "title": "LG디스플레이 “OLED가 AI 시대 가장 적합한 기술”",
+        "date": "2025-08-20 16:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004523093?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, 'IMID2025' 참가…OLED 주도권 '강조'",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143479"
+    },
+    {
+        "title": "LG·삼성D, IMID서 최신 기술·연구성과 강조",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1272170&inflow=N"
+    },
+    {
+        "title": "삼성D, IMID '올해의 디스플레이 대상' 수상…LGD, OLED 미래 비전 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330129"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 AI 적용 패널 신기술 맞대결",
+        "date": "2025-08-20 16:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146104"
+    },
+    {
+        "title": "LG디스플레이, AI 시대 OLED 비전 제시···슬라이더블·스트레처블 공...",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2317609"
+    },
+    {
+        "title": "삼성·LG디스플레이, IMID 2025서 AI 기술 리더십 뽐내",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/629/0000418312?sid=101"
+    },
+    {
+        "title": "삼성·LG디스플레이, 국내 최대 학술대회서 AIㆍOLED 저력 과시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.etoday.co.kr/news/view/2498475"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도 OLED 미래상 발표",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=52980"
+    },
+    {
+        "title": "OLED, AI 시대 최적…LGD, AI 혁신 주도할 디스플레이 미래 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008438355?sid=101"
+    },
+    {
+        "title": "최현철 LGD 사업부장 AI 시대 가장 적합한 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001096449?sid=101"
+    },
+    {
+        "title": "LGD AI 시대 최적화된 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=708044"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 OLED 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=37192"
+    },
+    {
+        "title": "LGD AI 시대 적합한 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001220720?sid=101"
+    },
+    {
+        "title": "LGD, IMID 2025서 디스플레이 미래상 제시...OLED가 AI 시대 최적",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=221255"
+    },
+    {
+        "title": "LG디스플레이 AI 시대 가장 적합한 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=92695"
+    },
+    {
+        "title": "OLED가 AI 시대 디스플레이 산업 혁신 주도 전환점 될 것",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2093283"
+    },
+    {
+        "title": "LG디스플레이 IMID 2025 참가…OLED, AI 시대에 가장 적합",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015576518?sid=101"
+    },
+    {
+        "title": "AI와 소통하는 창은 OLED…LG디스플레이, IMID 2025서 미래상 제시 [소...",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203068?sid=105"
+    },
+    {
+        "title": "LG디스플레이, AI 시대 최적 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.newspim.com/news/view/20250820000256"
+    },
+    {
+        "title": "LGD AI 시대 가장 적합한 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250820010009265"
+    },
+    {
+        "title": "화면 넘어 인지 인터페이스로…LGD, 차세대 OLED 비전 공개",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1675160"
+    },
+    {
+        "title": "LGD “디스플레이는 인간-AI 소통 창구… OLED로 혁신 주도”",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002976674?sid=101"
+    },
+    {
+        "title": "LGD, 'IMID 2025' 참가…AI 시대 최적의 디스플레이는 OLED",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=230653"
+    },
+    {
+        "title": "LGD AI 시대, 디스플레이 역할 어느 때보다 중요",
+        "date": "2025-08-20 16:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005394210?sid=101"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1259649"
+    },
+    {
+        "title": "LG디스플레이, IMID서 'AI 시대 디스플레이 미래상' 제시",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183962"
+    },
+    {
+        "title": "[IMID 2025] 최현철 LG디스플레이 사업부장 AI시대 가장 적합한 디스플...",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231655"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=90859"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도할 디스플레이 기술 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202508200824446946a3c244e1c9_23"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 AI 혁신 주도할 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=101212"
+    },
+    {
+        "title": "삼성·LG디스플레이, 'IMID 2025' 참가…최신 기술·성과 공개",
+        "date": "2025-08-20 16:00",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1272659"
+    },
+    {
+        "title": "LG디스플레이, IMID 2025서 디스플레이 미래상 제시",
+        "date": "2025-08-20 16:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=249871"
+    },
+    {
+        "title": "[기자수첩] 삼성의 프로젝트 무한, 애플의 비전프로...비싸고 쓸데없는...",
+        "date": "2025-08-20 15:59",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330140"
+    },
+    {
+        "title": "보안 강화하는 애플… 아이폰이 모르는 전화 걸러준다",
+        "date": "2025-08-20 15:59",
+        "link": "https://n.news.naver.com/mnews/article/023/0003924168?sid=105"
+    },
+    {
+        "title": "삼성전자, 게임스컴서 신형 오디세이 게이밍 모니터 공개",
+        "date": "2025-08-20 15:52",
+        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=313782"
+    },
+    {
+        "title": "삼성전자 '게임스컴 2025' 차세대 게이밍 모니터 공개",
+        "date": "2025-08-20 15:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236857"
+    },
+    {
+        "title": "삼성, 게임스컴 2025서 게이밍 모니터 '오디세이' 선봬",
+        "date": "2025-08-20 15:46",
+        "link": "https://www.sentv.co.kr/article/view/sentv202508200110"
+    },
+    {
+        "title": "“애플, 새 아이폰 인도서 전부 생산” 미중 관세 불확실성 여파",
+        "date": "2025-08-20 15:44",
+        "link": "https://n.news.naver.com/mnews/article/449/0000318404?sid=104"
+    },
+    {
+        "title": "이엠앤아이, 화학·OLED 기술력으로 로봇 시장 뛰어든다",
+        "date": "2025-08-20 15:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369838"
+    },
+    {
+        "title": "삼성전자, 게임스컴 출격…게이밍 모니터 선봬",
+        "date": "2025-08-20 15:22",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1272731"
+    },
+    {
+        "title": "스팸도 걸러주고, GPT-5도 쓴다... iOS 26, 다음 달 출격",
+        "date": "2025-08-20 15:22",
+        "link": "https://www.insight.co.kr/news/516588"
+    },
+    {
+        "title": "애플 RCS 종단간 암호화 지원 준비…iOS 26 반영 주목",
+        "date": "2025-08-20 15:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=586342"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2025서 ‘오디세이 3D’ 공개… 프리미엄 게임시장...",
+        "date": "2025-08-20 15:12",
+        "link": "https://www.tokenpost.kr/news/game/278485"
+    },
+    {
+        "title": "'올레도스, 청색인광'…삼성·LG, IMID서 차세대 디스플레이 기술 공개",
+        "date": "2025-08-20 15:04",
+        "link": "https://n.news.naver.com/mnews/article/030/0003342289?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2025서 최다 논문 발표",
+        "date": "2025-08-20 15:02",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=335296"
+    },
+    {
+        "title": "삼성전자, ‘게임스컴 2025’서 초대형 게이밍 모니터 공개…글로벌 게...",
+        "date": "2025-08-20 15:00",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28073"
+    },
+    {
+        "title": "中 '이구환신' 보조금, 디스플레이 수요 당겨쓰나…한국 밸류체인 리스...",
+        "date": "2025-08-20 14:59",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330130"
+    },
+    {
+        "title": "삼성전자, ‘게임스컴 2025’ 참가… 게이밍 모니터 신제품 전시",
+        "date": "2025-08-20 14:52",
+        "link": "https://www.viva100.com/article/20250820500930"
+    },
+    {
+        "title": "[AT 산업 단신] LG전자·삼성전자·오디오테크니카",
+        "date": "2025-08-20 14:48",
+        "link": "https://www.asiatime.co.kr/article/20250820500273"
+    },
+    {
+        "title": "5K2K 첫 적용·3D 협업 확대... 삼성, 프리미엄 게이밍 모니터 신기원 열...",
+        "date": "2025-08-20 14:44",
+        "link": "https://www.insight.co.kr/news/516568"
+    },
+    {
+        "title": "'애플 中 협력사' 럭스쉐어, 홍콩 상장 추진",
+        "date": "2025-08-20 14:44",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90786"
+    },
+    {
+        "title": "삼성전자, '게임스컴 2025'에서 대형 게이밍 모니터 선보여",
+        "date": "2025-08-20 14:42",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=604326"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2025서 논문 69편 발표..업계 최다",
+        "date": "2025-08-20 14:40",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346401"
+    },
+    {
+        "title": "애플 백도어 요구 철회…英정부, 사용자 사생활 침해 논란 후퇴",
+        "date": "2025-08-20 14:40",
+        "link": "https://www.tokenpost.kr/news/tech/278479"
+    },
+    {
+        "title": "애플, 인도서 아이폰17 모델 4종 모두 생산...中 공급망 의존 축소",
+        "date": "2025-08-20 14:37",
+        "link": "https://www.newspim.com/news/view/20250820000645"
+    },
+    {
+        "title": "아이폰17, 전 모델 '메이드 인 인디아'로 미국 상륙",
+        "date": "2025-08-20 14:32",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=44369"
+    },
+    {
+        "title": "애플, 이용률 저조 '카메라 컨트롤'…아이폰18에서 제거 루머",
+        "date": "2025-08-20 14:28",
+        "link": "https://kbench.com/?q=node/270483"
+    },
+    {
+        "title": "삼성, 獨 '게임스컴 2025' 출격…대형 게이밍 모니터 라인업 공개",
+        "date": "2025-08-20 14:20",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=177949"
+    },
+    {
+        "title": "삼성디스플레이, 'IMID 2025'서 69건 논문 발표 '최다'",
+        "date": "2025-08-20 14:16",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=117836"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2025서 게이밍 모니터 공개",
+        "date": "2025-08-20 14:10",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=138577"
+    },
+    {
+        "title": "삼성 모니터 '오디세이'로 게임스컴 2025서 글로벌 대작 즐긴다",
+        "date": "2025-08-20 14:00",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1300127"
+    },
+    {
+        "title": "中 지리 자동차 EX5에 '애플 카플레이' 탑재된다",
+        "date": "2025-08-20 14:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146109"
+    },
+    {
+        "title": "삼성전자, 獨 게임스컴 2025서 게이밍 모니터 신제품 선봬",
+        "date": "2025-08-20 13:58",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=110232"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2025서 37형·40형 오디세이 G7 선봬",
+        "date": "2025-08-20 13:56",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201462"
+    },
+    {
+        "title": "LG디스플레이 OLED, AI 시대 가장 적합한 디스플레이",
+        "date": "2025-08-20 13:56",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241446"
+    },
+    {
+        "title": "[E Works] 삼성전자·LG전자·로보락",
+        "date": "2025-08-20 13:54",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=700882"
+    },
+    {
+        "title": "애플, 보안 관련 기자간담회…보안이 기본값 강조",
+        "date": "2025-08-20 13:50",
+        "link": "https://n.news.naver.com/mnews/article/055/0001285452?sid=101"
+    },
+    {
+        "title": "삼성D, 'IMID'서 최다 논문 발표…폴더블 올레드 '대상'",
+        "date": "2025-08-20 13:48",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275674"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2025서 69편 논문 발표",
+        "date": "2025-08-20 13:38",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=250806"
+    },
+    {
+        "title": "내년 등장할 폴더블 아이폰, 폴더블폰 보급률 2배 키운다",
+        "date": "2025-08-20 13:10",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275654"
+    },
+    {
         "title": "아이폰 17e, 싼 거 맞아?…애플 가성비 전략 '갈팡질팡'",
         "date": "2025-08-20 12:52",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=586228"
@@ -120,6 +935,11 @@
         "link": "http://www.sisacast.kr/news/articleView.html?idxno=80014"
     },
     {
+        "title": "논문 69편·수상 성과까지…삼성디스플레이, 글로벌 디스플레이 리더십...",
+        "date": "2025-08-20 11:20",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338778"
+    },
+    {
         "title": "삼성전자, '게임스컴 2025' 참가…게이밍 모니터 신제품 공개",
         "date": "2025-08-20 11:19",
         "link": "https://n.news.naver.com/mnews/article/215/0001220671?sid=101"
@@ -193,11 +1013,6 @@
         "title": "애플, 폴더블 가세로 폴더블폰 대중화 가속",
         "date": "2025-08-20 11:03",
         "link": "https://n.news.naver.com/mnews/article/123/0002366274?sid=004"
-    },
-    {
-        "title": "獨 머크 “AI 시대 중수소·비탠덤 OLED 재료 개발 집중”",
-        "date": "2025-08-20 11:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003342147?sid=105"
     },
     {
         "title": "삼성전자, '게임스컴 2025' 참가...게이밍 모니터 신제품 공개",
@@ -390,7 +1205,7 @@
         "link": "https://www.cnbnews.com/news/article.html?no=744980"
     },
     {
-        "title": "“AI 기술력 입증”…삼성D, ‘IMID 2025’서 최다 논문 발표",
+        "title": "“AI 기술력 입증”… 삼성D, ‘IMID 2025’서 최다 논문 발표",
         "date": "2025-08-20 10:17",
         "link": "https://n.news.naver.com/mnews/article/029/0002976511?sid=101"
     },
@@ -415,12 +1230,12 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231650"
     },
     {
-        "title": "삼성전자, 獨 쾰른 '게임스컴 2025'서 게이밍 모니터 신제품 선보여",
+        "title": "오디세이 G7 모니터… 몰입감 넘치는 게이밍 체험",
         "date": "2025-08-20 10:14",
         "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1156002"
     },
     {
-        "title": "삼성전자 '게임스컴'서 오디세이 신제품 선보여, 게임사와 3D 협력 강화",
+        "title": "삼성전자 게임쇼 '게임스컴'서 게임 모니터 신제품 선보여, 게임사와 3D...",
         "date": "2025-08-20 10:14",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=408295"
     },
@@ -730,19 +1545,19 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369694"
     },
     {
-        "title": "“넷마블 신작 3D로 체험”…삼성전자, 獨 게임쇼서 게이밍 모니터 신제...",
+        "title": "삼성전자, 새 게이밍 모니터로 유럽 공략",
         "date": "2025-08-20 09:19",
         "link": "https://n.news.naver.com/mnews/article/029/0002976482?sid=101"
-    },
-    {
-        "title": "삼성 게이밍 모니터 '오디세이'로 게임스컴 2025서 글로벌 대작 게임 즐...",
-        "date": "2025-08-20 09:18",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94958"
     },
     {
         "title": "삼성 게이밍 모니터 '오디세이'로 '게임스컴 2025'서 대작 게임 시연",
         "date": "2025-08-20 09:18",
         "link": "http://www.4th.kr/news/articleView.html?idxno=2093285"
+    },
+    {
+        "title": "삼성 게이밍 모니터 '오디세이'로 게임스컴 2025서 글로벌 대작 게임 즐...",
+        "date": "2025-08-20 09:18",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94958"
     },
     {
         "title": "삼성전자, 게임스컴 2025 참가…게이밍 모니터 '오디세이' 신제품 출시",
@@ -835,7 +1650,7 @@
         "link": "https://n.news.naver.com/mnews/article/366/0001101464?sid=105"
     },
     {
-        "title": "애플, 아이폰17 전 모델 인도서 생산한다",
+        "title": "애플, ‘신상’ 아이폰17 전 모델 인도서 생산키로",
         "date": "2025-08-20 08:55",
         "link": "https://n.news.naver.com/mnews/article/029/0002976470?sid=105"
     },
@@ -998,615 +1813,5 @@
         "title": "삼성, 감 다 살았네…페이커·윙 출연 'OLED 캠페인' 화제",
         "date": "2025-08-20 07:00",
         "link": "https://n.news.naver.com/mnews/article/001/0015574730?sid=101"
-    },
-    {
-        "title": "버는 족족 AP 샀다…삼성 엑시노스 절실",
-        "date": "2025-08-20 06:58",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025081915341354537"
-    },
-    {
-        "title": "美 압박에 英, 애플에 ‘백도어’ 요구 철회…종단간 암호화 논쟁 ‘전...",
-        "date": "2025-08-20 06:39",
-        "link": "https://n.news.naver.com/mnews/article/018/0006093934?sid=101"
-    },
-    {
-        "title": "애플 iOS 26의 리퀴드 글래스, 아이폰 디자인 대격변 예고편일까",
-        "date": "2025-08-20 06:01",
-        "link": "https://n.news.naver.com/mnews/article/003/0013430677?sid=105"
-    },
-    {
-        "title": "아너에 구글, 애플까지...격화되는 폴더블 스마트폰 시장 경쟁",
-        "date": "2025-08-20 06:00",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=264194"
-    },
-    {
-        "title": "中 공세에 TV 속수무책…'억대급' 마이크로 LED 대중화 언제쯤",
-        "date": "2025-08-20 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146060"
-    },
-    {
-        "title": "75, 86인치 넘어 100인치 TV 시대 '성큼'",
-        "date": "2025-08-20 06:00",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=264225"
-    },
-    {
-        "title": "지원 종료 직면, 교체 대상 된 '10년전' 기기들 [권용만의 긱랩]",
-        "date": "2025-08-20 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146072"
-    },
-    {
-        "title": "할인 쿠폰 미리 받으세요…아이폰17 출시 앞둔 이통3사 사전 마케팅 '...",
-        "date": "2025-08-20 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013430669?sid=105"
-    },
-    {
-        "title": "삼성전자, 하반기 ‘풀 라인업’ 신제품 투입…S25 FE·트라이폴드·XR 헤...",
-        "date": "2025-08-20 05:00",
-        "link": "https://www.etoday.co.kr/news/view/2497096"
-    },
-    {
-        "title": "메타, 첫 '화면 탑재' 스마트 안경 내달 출시",
-        "date": "2025-08-20 04:21",
-        "link": "https://n.news.naver.com/mnews/article/374/0000458419?sid=104"
-    },
-    {
-        "title": "애플, 아이폰17 모델 4종 모두 인도서 만든다",
-        "date": "2025-08-20 04:16",
-        "link": "https://n.news.naver.com/mnews/article/374/0000458417?sid=104"
-    },
-    {
-        "title": "메타, 디스플레이 탑재 첫 스마트안경 내달 공개",
-        "date": "2025-08-20 03:02",
-        "link": "https://n.news.naver.com/mnews/article/020/0003655245?sid=101"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-20 00:10",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=662521"
-    },
-    {
-        "title": "QLED 수명 '66배' 늘리는 소재 개발",
-        "date": "2025-08-19 21:34",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=520472"
-    },
-    {
-        "title": "메타, 첫 ‘화면 탑재’ 스마트 안경 내달 출시",
-        "date": "2025-08-19 21:16",
-        "link": "https://n.news.naver.com/mnews/article/032/0003390572?sid=101"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 20:52",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=605860"
-    },
-    {
-        "title": "삼성전자 AI폰, 폴더블이 스마트폰 시장의 판도를 바꿀까",
-        "date": "2025-08-19 20:35",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=330099"
-    },
-    {
-        "title": "美 스마트폰 시장, 삼성·애플 격차 축소…주도권 전쟁 점화",
-        "date": "2025-08-19 20:20",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346350"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드 7이 아디다스를 만난다? W컨셉이 선보인 이색 화보...",
-        "date": "2025-08-19 19:26",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535167"
-    },
-    {
-        "title": "[리뷰] 갤럭시 Z 폴드7, 15년차 아이폰 유저가 사용하면 어떨까",
-        "date": "2025-08-19 18:18",
-        "link": "https://it.donga.com/107426/"
-    },
-    {
-        "title": "‘명품폰’ 대접받는 삼성 폴더블폰… 인니·베트남서도 ‘엄지 척’ [...",
-        "date": "2025-08-19 18:10",
-        "link": "https://n.news.naver.com/mnews/article/014/0005393702?sid=105"
-    },
-    {
-        "title": "삼성전자, XR 헤드셋 10월 출시 애플·메타와 '격돌'…스마트 안경에도...",
-        "date": "2025-08-19 18:02",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=807752"
-    },
-    {
-        "title": "'바이블 애플' 일상 필수앱 됐다…사용률 동종업계 3배 이상",
-        "date": "2025-08-19 18:00",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450673"
-    },
-    {
-        "title": "애플 아이폰17 시리즈 4종 인도에서 생산, 중국 공급망 의존 축소 일환",
-        "date": "2025-08-19 17:08",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=408213"
-    },
-    {
-        "title": "스마트폰 넘어 AI 안경… 메타·삼성·구글·애플, XR 시장 격돌",
-        "date": "2025-08-19 17:04",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=81729"
-    },
-    {
-        "title": "애플, 인도서 아이폰17 모델 4종 모두 생산…중국 의존도 탈피 나서",
-        "date": "2025-08-19 16:58",
-        "link": "https://www.etoday.co.kr/news/view/2498302"
-    },
-    {
-        "title": "메타, AR 안경 '하이퍼노바' 내달 공개...저가 전략으로 돌아온다",
-        "date": "2025-08-19 16:52",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=769741"
-    },
-    {
-        "title": "LG디스플레이, 상반기 로열티 수익 급증…전년 실적 초과",
-        "date": "2025-08-19 16:48",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183840"
-    },
-    {
-        "title": "상반기 영업익 소폭 개선...2분기 부진에 어두워진 하반기(종합)",
-        "date": "2025-08-19 16:46",
-        "link": "https://n.news.naver.com/mnews/article/018/0006093713?sid=101"
-    },
-    {
-        "title": "[기자수첩]OLED, 국내 디스플레이의 산업의 보루",
-        "date": "2025-08-19 16:40",
-        "link": "http://www.metroseoul.co.kr/article/20250819500426"
-    },
-    {
-        "title": "美 스마트폰 시장서 점유율 높이는 삼성...AI·폴더블 경쟁 심화",
-        "date": "2025-08-19 16:36",
-        "link": "http://www.metroseoul.co.kr/article/20250819500418"
-    },
-    {
-        "title": "인하대 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 16:34",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20250819010006002"
-    },
-    {
-        "title": "아이폰 17e, 다이내믹 아일랜드·A19 칩셋 탑재한다",
-        "date": "2025-08-19 16:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003341985?sid=104"
-    },
-    {
-        "title": "“애플도 내년 접는다…폴더블폰, 2027년 3% 돌파”",
-        "date": "2025-08-19 16:27",
-        "link": "https://n.news.naver.com/mnews/article/119/0002992587?sid=105"
-    },
-    {
-        "title": "아이폰, 다음 iOS 업데이트서 더 빨라진 무선 고속 충전 지원 예정",
-        "date": "2025-08-19 16:18",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535182"
-    },
-    {
-        "title": "삼성, 폴더블폰으로 美 시장 판도 흔든다...스마트폰 점유율 8%p ↑",
-        "date": "2025-08-19 16:16",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=273519"
-    },
-    {
-        "title": "2026년 아이폰 18 기본형 모델 제외. 아이폰 17e·폴더블 아이폰으로 전...",
-        "date": "2025-08-19 16:12",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535180"
-    },
-    {
-        "title": "LG디스플레이, 노트북용 LTPO 기반 탠덤 OLED 기술력 'UP'",
-        "date": "2025-08-19 16:08",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1259293"
-    },
-    {
-        "title": "지금 애플 제품 구매한다면…아이폰부터 맥북까지 추천 '총집합'",
-        "date": "2025-08-19 16:08",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585992"
-    },
-    {
-        "title": "제이씨현시스템, UDEA 27형 240Hz FHD 게이밍 모니터 'LK2736PA' 출시",
-        "date": "2025-08-19 16:08",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55696"
-    },
-    {
-        "title": "삼성전자, 갤럭시 버즈3 FE 출시… 통역부터 제미나이 호출까지 한 번에",
-        "date": "2025-08-19 16:02",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338732"
-    },
-    {
-        "title": "W컨셉, 삼성전자ㆍ아디다스 협업 패션 화보 공개",
-        "date": "2025-08-19 15:58",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=178659"
-    },
-    {
-        "title": "애플, 일부 버그 수정한 'iOS 18.6.2' 마이너 업데이트 출시하나",
-        "date": "2025-08-19 15:40",
-        "link": "https://kbench.com/?q=node/270438"
-    },
-    {
-        "title": "'실수'로 정보 노출?... 기술 유출로 전략 바꾼 애플 [지금이뉴스]",
-        "date": "2025-08-19 15:33",
-        "link": "https://n.news.naver.com/mnews/article/052/0002234865?sid=004"
-    },
-    {
-        "title": "메타, '하이퍼노바' 스마트 안경 출시 예고...가격 파격 인하",
-        "date": "2025-08-19 15:32",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=44306"
-    },
-    {
-        "title": "[AT 산업 단신] SK하이닉스·LG전자·삼성전자·소니코리아·디지털 리얼...",
-        "date": "2025-08-19 15:28",
-        "link": "https://www.asiatime.co.kr/article/20250819500312"
-    },
-    {
-        "title": "美서 '폴더블' 날개 단 삼성, 트럼프發 관세에 발목 잡히나",
-        "date": "2025-08-19 15:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369437"
-    },
-    {
-        "title": "기회의 서울반도체, 중국 공세 넘는다···전장·마이크로 LED로 '턴어라...",
-        "date": "2025-08-19 15:08",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2317212"
-    },
-    {
-        "title": "삼성전자, ‘갤럭시 버즈3 FE’ 9월 글로벌 출시…AI와 오디오 성능 강화",
-        "date": "2025-08-19 15:06",
-        "link": "https://www.todayeconomic.com/news/article.html?no=28057"
-    },
-    {
-        "title": "“혁신 기술·전력 소비·성능 최적화?” 애플·삼성의 차세대 칩 협업...",
-        "date": "2025-08-19 15:04",
-        "link": "https://it.donga.com/107423/"
-    },
-    {
-        "title": "폴더블 시장 판 키우는 삼성 '갤럭시Z5' 중고폰 판매",
-        "date": "2025-08-19 14:41",
-        "link": "https://n.news.naver.com/mnews/article/030/0003341894?sid=105"
-    },
-    {
-        "title": "삼성디스플레이 공장 노동자 '백혈병' 진단…법원, 산재 인정 판결",
-        "date": "2025-08-19 14:22",
-        "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=16803"
-    },
-    {
-        "title": "中 BOE, 美 OLED 시장서 퇴출…국내 기업 반사이익은 제한적",
-        "date": "2025-08-19 14:14",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=769640"
-    },
-    {
-        "title": "아이폰18, 2026년 가을 출시 제외되나…애플 '프리미엄 전략' 예고",
-        "date": "2025-08-19 14:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585842"
-    },
-    {
-        "title": "Samsung, LG stand to benefit as BOE faces US OLED ban",
-        "date": "2025-08-19 14:04",
-        "link": "https://n.news.naver.com/mnews/article/044/0000273629?sid=104"
-    },
-    {
-        "title": "영국, 애플에 '백도어' 요구 결국 철회…美 압박에 한발 물러서",
-        "date": "2025-08-19 14:02",
-        "link": "https://n.news.naver.com/mnews/article/003/0013429556?sid=104"
-    },
-    {
-        "title": "W컨셉, 삼성전자∙아디다스 협업 패션 화보 공개",
-        "date": "2025-08-19 14:00",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2093246"
-    },
-    {
-        "title": "9월 애플 이벤트, 아이폰 17과 함께 애플워치 SE3 공개",
-        "date": "2025-08-19 13:58",
-        "link": "https://n.news.naver.com/mnews/article/030/0003341864?sid=104"
-    },
-    {
-        "title": "갤Z폴드7, 삼성 '상저하고' 키워드 될까…초도 흥행, 글로벌 시장서 판...",
-        "date": "2025-08-19 13:52",
-        "link": "https://n.news.naver.com/mnews/article/138/0002202973?sid=105"
-    },
-    {
-        "title": "메타, 800달러 스마트안경 9월 출시…디스플레이 탑재",
-        "date": "2025-08-19 13:28",
-        "link": "https://n.news.naver.com/mnews/article/366/0001101261?sid=105"
-    },
-    {
-        "title": "용인서 아열대작물 재배...바나나에 애플망고까지",
-        "date": "2025-08-19 13:22",
-        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202508191106053014"
-    },
-    {
-        "title": "백혈병 걸린 삼성디스플레이 노동자...1심 산재 인정",
-        "date": "2025-08-19 13:22",
-        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202508191123079332"
-    },
-    {
-        "title": "W컨셉, 삼성전자∙아디다스 손잡았다 컬래버 화보 공개",
-        "date": "2025-08-19 13:16",
-        "link": "https://www.fashionbiz.co.kr/article/218677"
-    },
-    {
-        "title": "탁월한 성능과 휴대성의 조화, R7 260 탑재한 기가바이트 게이밍 A16 3VH ...",
-        "date": "2025-08-19 13:12",
-        "link": "https://kbench.com/?q=node/270433"
-    },
-    {
-        "title": "삼성디스플레이 백혈병 노동자 ‘산재’",
-        "date": "2025-08-19 13:10",
-        "link": "https://www.naeil.com/news/read/558395?ref=naver"
-    },
-    {
-        "title": "'미친 폭염' 난리지만... 이제 용인에서 바나나·애플망고 재배",
-        "date": "2025-08-19 13:04",
-        "link": "https://www.insight.co.kr/news/516384"
-    },
-    {
-        "title": "엑스로메다, 알파서클과 업무협약 체결",
-        "date": "2025-08-19 12:59",
-        "link": "https://www.venturesquare.net/1000254"
-    },
-    {
-        "title": "‘백혈병’ 삼성디스플레이 노동자, 1심서 산재 인정",
-        "date": "2025-08-19 12:38",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1272020&inflow=N"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 12:38",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=93655"
-    },
-    {
-        "title": "[Interview] 'AR will be killer app of AI,' Merck OLED head says",
-        "date": "2025-08-19 12:02",
-        "link": "https://www.koreatimes.co.kr/path/A2025081511100002823"
-    },
-    {
-        "title": "노치 디자인 안쓴다 애플, 보급형 '아이폰 17e'에 다이내믹 아일랜드...",
-        "date": "2025-08-19 11:46",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535157"
-    },
-    {
-        "title": "안방 지키고 美 시장 흔들고…삼성 스마트폰 연이은 희소식",
-        "date": "2025-08-19 11:43",
-        "link": "https://n.news.naver.com/mnews/article/629/0000417808?sid=105"
-    },
-    {
-        "title": "애플, iOS 26 베타7 출시… “혈중 산소 측정 및 적응형 전력 제공”",
-        "date": "2025-08-19 11:19",
-        "link": "https://n.news.naver.com/mnews/article/030/0003341762?sid=104"
-    },
-    {
-        "title": "애플, 내년에도 아이폰 라인업 개편하나? 기본 모델 대신 폴더블 추가",
-        "date": "2025-08-19 11:12",
-        "link": "https://kbench.com/?q=node/270422"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 11:10",
-        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=36460"
-    },
-    {
-        "title": "[더벨]저스템, OLED 정전기 제어장비 수출…해외 공략 본격화",
-        "date": "2025-08-19 11:08",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508190846285300102860"
-    },
-    {
-        "title": "아이폰 17e, '갓성비' 기대…업그레이드는 아쉬울 듯",
-        "date": "2025-08-19 11:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585908"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 10:56",
-        "link": "http://www.kyosu.net/news/articleView.html?idxno=141538"
-    },
-    {
-        "title": "애플, 사용자 경험 확대한 'iOS 26 베타7' 공개. 어댑터 전원 알림·혈중...",
-        "date": "2025-08-19 10:50",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535156"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 씨, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 10:32",
-        "link": "http://www.incheonnews.com/news/articleView.html?idxno=428342"
-    },
-    {
-        "title": "청도군, 지역 특산 ‘애플망고’ 명품 브랜드 육성",
-        "date": "2025-08-19 10:28",
-        "link": "http://www.metroseoul.co.kr/article/20250818500611"
-    },
-    {
-        "title": "인하대 이한빈 학생, 영국왕립화학회 ‘우수 포스터상’",
-        "date": "2025-08-19 10:22",
-        "link": "https://dhnews.co.kr/news/view/1065575711235592"
-    },
-    {
-        "title": "[E Works] 삼성전자·LG전자",
-        "date": "2025-08-19 10:08",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=700616"
-    },
-    {
-        "title": "갤럭시Z 폴드7 흥행…삼성 美시장 점유율 30%대 진입",
-        "date": "2025-08-19 10:04",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=66261"
-    },
-    {
-        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
-        "date": "2025-08-19 10:04",
-        "link": "http://www.veritas-a.com/news/articleView.html?idxno=567836"
-    },
-    {
-        "title": "[박진섭의 황금선] OLED 소재, 촉매, 원료 등 제조·판매 '피엔에이치테...",
-        "date": "2025-08-19 10:02",
-        "link": "https://news.mtn.co.kr/news-detail/2025081909324298409"
-    },
-    {
-        "title": "제이씨현, UDEA 27형 240Hz FHD 게이밍 모니터 LK2736PA 모니터 출시",
-        "date": "2025-08-19 09:58",
-        "link": "https://kbench.com/?q=node/270412"
-    },
-    {
-        "title": "W컨셉, 삼성전자∙아디다스와 협업…패션 화보 공개",
-        "date": "2025-08-19 09:53",
-        "link": "https://n.news.naver.com/mnews/article/014/0005393368?sid=103"
-    },
-    {
-        "title": "“패션과 테크의 만남”…W컨셉, 삼성전자∙아디다스 협업 패션 화보 공...",
-        "date": "2025-08-19 09:51",
-        "link": "https://n.news.naver.com/mnews/article/011/0004522442?sid=101"
-    },
-    {
-        "title": "W컨셉, 삼성전자·아디다스 협업 패션 화보 공개",
-        "date": "2025-08-19 09:46",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=236687"
-    },
-    {
-        "title": "프라이버시·AI 접목한 애플의 새 전략…차세대 보안 기술 공개",
-        "date": "2025-08-19 09:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585862"
-    },
-    {
-        "title": "디스플레이 품은 수랭쿨러... '커세어 노틸러스 RS LCD'",
-        "date": "2025-08-19 09:34",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55686"
-    },
-    {
-        "title": "아이폰 17e, 다이내믹 아일랜드 탑재…보급형도 업그레이드",
-        "date": "2025-08-19 09:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585850"
-    },
-    {
-        "title": "애플, iOS 26 베타7 공개…배터리 관리·혈중 산소 측정 업데이트",
-        "date": "2025-08-19 09:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585823"
-    },
-    {
-        "title": "하이센스, 'RGB 미니 LED'로 삼성 '마이크로 RGB'에 도전",
-        "date": "2025-08-19 09:24",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508190920248031fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "美도 반한 '폴드7'…애플 안방시장서 반전 노리는 삼성",
-        "date": "2025-08-19 09:20",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=275475"
-    },
-    {
-        "title": "中 공세 맞불…삼성, 실속형 갤럭시 버즈3 FE 출시",
-        "date": "2025-08-19 09:17",
-        "link": "https://n.news.naver.com/mnews/article/011/0004522409?sid=101"
-    },
-    {
-        "title": "삼성전자 갤럭시탭 S11 일본 공략 준비 완료...일찌감치 전파인증 '이례...",
-        "date": "2025-08-19 09:16",
-        "link": "https://www.theguru.co.kr/news/article.html?no=90704"
-    },
-    {
-        "title": "삼성전자, '갤럭시 버즈3 FE' 출시…AI·ANC로 보급형 시장 반격",
-        "date": "2025-08-19 09:12",
-        "link": "http://www.munhaknews.com/news/articleView.html?idxno=81720"
-    },
-    {
-        "title": "폴더블폰 완벽 검사 아이비젼웍스, 국내외 시장 공략 나섰다",
-        "date": "2025-08-19 09:10",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369353"
-    },
-    {
-        "title": "애플, 엑스코드에 챗GPT 이어 클로드 지원…AI 코딩 보조 강화",
-        "date": "2025-08-19 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585810"
-    },
-    {
-        "title": "저스템, OLED 정전기 제거장비 해외 추가 수주",
-        "date": "2025-08-19 08:43",
-        "link": "https://n.news.naver.com/mnews/article/014/0005393281?sid=101"
-    },
-    {
-        "title": "W컨셉, 삼성전자·아디다스와 맞손…패션 화보 공개",
-        "date": "2025-08-19 08:41",
-        "link": "https://n.news.naver.com/mnews/article/629/0000417666?sid=101"
-    },
-    {
-        "title": "[더벨][Red &amp; Blue]미 ITC BOE 제재, LGD 애플 물량 기대감 '최고조'",
-        "date": "2025-08-19 08:38",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508141510186960107731"
-    },
-    {
-        "title": "메타, 디스플레이 탑재 스마트안경 내달 출시…가격 낮춰",
-        "date": "2025-08-19 08:38",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1258929"
-    },
-    {
-        "title": "[자막뉴스] 용인서 애플망고가?...과일 농업의 새로운 '지평선'",
-        "date": "2025-08-19 08:35",
-        "link": "https://n.news.naver.com/mnews/article/052/0002234679?sid=102"
-    },
-    {
-        "title": "메타, 화면 달린 첫 스마트 안경 ‘하이퍼노바’ 9월 출시···가격 110만...",
-        "date": "2025-08-19 08:34",
-        "link": "https://n.news.naver.com/mnews/article/032/0003390371?sid=101"
-    },
-    {
-        "title": "美 2Q 스마트폰 판매량 전년비 9% 증가…애플·삼성 견인",
-        "date": "2025-08-19 08:26",
-        "link": "https://n.news.naver.com/mnews/article/119/0002992260?sid=105"
-    },
-    {
-        "title": "W컨셉, 삼성전자∙아디다스와 협업…패션 화보 공개",
-        "date": "2025-08-19 08:24",
-        "link": "https://n.news.naver.com/mnews/article/421/0008434507?sid=101"
-    },
-    {
-        "title": "갤S26 울트라에 사생활보호 '플렉스 매직 픽셀' 도입",
-        "date": "2025-08-19 08:22",
-        "link": "https://dealsite.co.kr/articles/146685"
-    },
-    {
-        "title": "메타, '디스플레이 탑재' 첫 스마트 안경 내달 공개...800달러 '승부수'",
-        "date": "2025-08-19 08:20",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674941"
-    },
-    {
-        "title": "W컨셉, 글로벌 브랜드와 맞손…삼성전자∙아디다스 협업 패션 화보 공개",
-        "date": "2025-08-19 08:18",
-        "link": "https://n.news.naver.com/mnews/article/119/0002992257?sid=101"
-    },
-    {
-        "title": "'갤럭시 Z 폴드 7', 흥행 대박…'폴더블폰' 대중화 청신호",
-        "date": "2025-08-19 08:00",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=662276"
-    },
-    {
-        "title": "잘나갈 땐 틀어막고 고소하더니…'유출 마케팅' 열 올리는 애플",
-        "date": "2025-08-19 08:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008434474?sid=105"
-    },
-    {
-        "title": "“메타, 첫 디스플레이 탑재 스마트안경 다음 달 출시”",
-        "date": "2025-08-19 07:50",
-        "link": "https://n.news.naver.com/mnews/article/056/0012011310?sid=104"
-    },
-    {
-        "title": "메타, 첫 디스플레이 탑재 스마트안경 내달 출시…가격 낮춰",
-        "date": "2025-08-19 07:38",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=836476"
-    },
-    {
-        "title": "메타, 디스플레이 탑재 첫 스마트 안경 '하이퍼노바' 내달 공개",
-        "date": "2025-08-19 07:36",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369289"
-    },
-    {
-        "title": "메타, 첫 디스플레이 탑재 스마트안경 내달 출시...가격↓",
-        "date": "2025-08-19 07:32",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=669923"
-    },
-    {
-        "title": "아이폰17, 초슬림 에어·시간 번역 등 역대급 변신 예고",
-        "date": "2025-08-19 07:30",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=36995"
-    },
-    {
-        "title": "[IT썰]애플, iOS 26 최종 테스트 버전 출시…메시지 필터링 기능 추가",
-        "date": "2025-08-19 07:18",
-        "link": "https://n.news.naver.com/mnews/article/008/0005237578?sid=105"
-    },
-    {
-        "title": "삼성전자, 상반기 AP 매입액만 7.8조원…“엑시노스 공급망 내재화 서둘...",
-        "date": "2025-08-19 07:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2025081814240428050"
-    },
-    {
-        "title": "블룸버그 메타, 첫 디스플레이 탑재 스마트안경 다음달 출시",
-        "date": "2025-08-19 07:01",
-        "link": "https://n.news.naver.com/mnews/article/374/0000458208?sid=101"
     }
 ]
