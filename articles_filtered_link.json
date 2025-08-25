@@ -1,5 +1,415 @@
 [
     {
+        "title": "앞서가는 삼성, 추격하는 애플…슬림·폴더블 '타이밍 게임' 격돌",
+        "date": "2025-08-26 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2499896"
+    },
+    {
+        "title": "애플 접으면, 우린 주름 편다…中 따돌릴 K디스플레이 승부수",
+        "date": "2025-08-26 05:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003464338?sid=105"
+    },
+    {
+        "title": "머스크 xAI, 애플에 소송…오픈AI만 우대해 경쟁 방해",
+        "date": "2025-08-26 04:27",
+        "link": "https://n.news.naver.com/mnews/article/374/0000459421?sid=104"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 제소…챗봇 경쟁 저해",
+        "date": "2025-08-26 04:25",
+        "link": "https://n.news.naver.com/mnews/article/293/0000071589?sid=105"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 상대로 소송…AI 경쟁 방해 위해 불법 공모...",
+        "date": "2025-08-26 03:35",
+        "link": "https://www.newspim.com/news/view/20250826000032"
+    },
+    {
+        "title": "머스크의 xAI, 애플에 소송…“오픈AI만 우대해 경쟁 방해”",
+        "date": "2025-08-26 03:13",
+        "link": "https://n.news.naver.com/mnews/article/056/0012015966?sid=104"
+    },
+    {
+        "title": "머스크의 xAI, 애플에 소송…오픈AI만 우대해 경쟁 방해",
+        "date": "2025-08-26 03:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0015585791?sid=104"
+    },
+    {
+        "title": "머스크 xAI, 애플 오픈AI 제소",
+        "date": "2025-08-26 02:40",
+        "link": "https://n.news.naver.com/mnews/article/014/0005396511?sid=101"
+    },
+    {
+        "title": "구글의 태블릿 철수, 그리고 견고해지는 애플-삼성 양강체제",
+        "date": "2025-08-26 01:24",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=264598"
+    },
+    {
+        "title": "빌 게이츠 삼성폰 쓴다…이재용한테 선물 받아",
+        "date": "2025-08-26 01:06",
+        "link": "https://m.entertain.naver.com/article/003/0013441319"
+    },
+    {
+        "title": "[속보] 머스크, 독점 금지법 위반 혐의로 애플과 오픈AI 고소",
+        "date": "2025-08-26 00:56",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3358916"
+    },
+    {
+        "title": "머스크, 애플과 오픈AI '독점유지공모' 혐의로 소송",
+        "date": "2025-08-26 00:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005175345?sid=101"
+    },
+    {
+        "title": "손흥민 LAFC 합류로 애플TV, MLS 시즌패스 마케팅 강화",
+        "date": "2025-08-25 23:08",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=265836"
+    },
+    {
+        "title": "임실군 아열대 과수 '애플망고' 재배 성공했다",
+        "date": "2025-08-25 23:04",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=524755"
+    },
+    {
+        "title": "임실군, 아열대 과수 '애플망고' 본격 수확… 신소득 작목 부각",
+        "date": "2025-08-25 21:40",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3309824"
+    },
+    {
+        "title": "스트레처블 마이크로 LED 디스플레이 핵심 소재 개발",
+        "date": "2025-08-25 21:34",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=521108"
+    },
+    {
+        "title": "스트레처블 마이크로 LED 디스플레이 개발",
+        "date": "2025-08-25 20:40",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=559086"
+    },
+    {
+        "title": "빌게이츠도 '삼성 폴더블폰' 쓴다…이재용 회장이 선물",
+        "date": "2025-08-25 20:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1675851"
+    },
+    {
+        "title": "냉장고 스크린을 ‘톡톡’, 빅스비를 불렀다…삼성이 만드는 AI홈은 이...",
+        "date": "2025-08-25 19:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005547293?sid=101"
+    },
+    {
+        "title": "손흥민 LA 홈 데뷔전, 애플TV 독점 중계",
+        "date": "2025-08-25 18:55",
+        "link": "https://m.sports.naver.com/wfootball/article/469/0000883426"
+    },
+    {
+        "title": "아이폰17 내달 공개 전망 애플, 플러스 대신 초슬림 '에어' 투입...기본...",
+        "date": "2025-08-25 18:46",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=274218"
+    },
+    {
+        "title": "애플 참전에 판 커진 폴더블폰… 삼성 '트라이폴드'로 승부",
+        "date": "2025-08-25 18:35",
+        "link": "https://n.news.naver.com/mnews/article/014/0005396419?sid=105"
+    },
+    {
+        "title": "손흥민 출전 MLS, 애플TV 시즌패스로 본다",
+        "date": "2025-08-25 18:32",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1274297"
+    },
+    {
+        "title": "임실군, 아열대 과수 '애플망고' 수확 본격화…농가 새 소득원으로 부상",
+        "date": "2025-08-25 18:29",
+        "link": "https://n.news.naver.com/mnews/article/002/0002402916?sid=102"
+    },
+    {
+        "title": "“애플, 9월 9일 역대 가장 얇은 아이폰 출시… 3년간 디자인 대폭 바뀐...",
+        "date": "2025-08-25 18:18",
+        "link": "https://n.news.naver.com/mnews/article/366/0001102779?sid=105"
+    },
+    {
+        "title": "가전 플랫폼 전략 살펴보니...삼성은 '확산', LG는 '콘텐츠'",
+        "date": "2025-08-25 18:18",
+        "link": "https://it.donga.com/107454/"
+    },
+    {
+        "title": "스마트폰 신작 대결 앞둔 삼성·애플…관세 발표에 '노심초사’",
+        "date": "2025-08-25 18:04",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025082515403439436ed0c62d49_1/article.html"
+    },
+    {
+        "title": "냉장고가 폰처럼 일정관리…삼성 AI홈의 진화",
+        "date": "2025-08-25 17:55",
+        "link": "https://n.news.naver.com/mnews/article/009/0005547225?sid=101"
+    },
+    {
+        "title": "“이재용이 준 삼성 폴더블폰 쓴다”… 애플과 ‘악연’ 빌 게이츠의 고...",
+        "date": "2025-08-25 17:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001102775?sid=004"
+    },
+    {
+        "title": "[카드뉴스] 게임스컴이 아니라 디스플레이 박람회? 삼성·LG가 만든 몰입...",
+        "date": "2025-08-25 17:40",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143663"
+    },
+    {
+        "title": "손흥민 LA 홈 데뷔전...애플TV 독점 중계",
+        "date": "2025-08-25 17:25",
+        "link": "https://m.sports.naver.com/wfootball/article/015/0005175229"
+    },
+    {
+        "title": "빌게이츠도 '갤럭시 폴더블폰' 쓴다…이재용 회장이 선물",
+        "date": "2025-08-25 17:23",
+        "link": "https://m.entertain.naver.com/article/008/0005240651"
+    },
+    {
+        "title": "[김나인의 테크 티키타카] 퀄컴 AP 장착한 ‘갤Z폴드7’ 성능 측정해보...",
+        "date": "2025-08-25 17:17",
+        "link": "https://n.news.naver.com/mnews/article/029/0002977736?sid=105"
+    },
+    {
+        "title": "임실군 아열대과수 '애플망고' 본격 수확",
+        "date": "2025-08-25 17:10",
+        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1015418"
+    },
+    {
+        "title": "“이재용에게 받은 삼성 폴더블폰 쓴다”…애플과 ‘악연’있는 빌 게이...",
+        "date": "2025-08-25 17:01",
+        "link": "https://n.news.naver.com/mnews/article/009/0005547136?sid=101"
+    },
+    {
+        "title": "빌 게이츠도 갤럭시 써요?…삼성 폴더블폰 선택한 이유",
+        "date": "2025-08-25 16:57",
+        "link": "https://n.news.naver.com/mnews/article/009/0005547124?sid=103"
+    },
+    {
+        "title": "[재계 투데이] SK하이닉스, 321단 QLC 낸드 양산 개시 外",
+        "date": "2025-08-25 16:56",
+        "link": "https://news.dealsitetv.com/articles/158407"
+    },
+    {
+        "title": "애플TV, 31일 손흥민 홈 데뷔전 독점 생중계",
+        "date": "2025-08-25 16:56",
+        "link": "http://www.metroseoul.co.kr/article/20250825500415"
+    },
+    {
+        "title": "'삼성 폴더블폰' 쓴다는 빌 게이츠 이재용 회장이 선물해 줬다",
+        "date": "2025-08-25 16:55",
+        "link": "https://m.entertain.naver.com/article/011/0004524831"
+    },
+    {
+        "title": "애플 TV, 손흥민 LA FC 홈 데뷔전 독점 중계",
+        "date": "2025-08-25 16:52",
+        "link": "https://n.news.naver.com/mnews/article/030/0003343649?sid=105"
+    },
+    {
+        "title": "임실산 '애플망고' 수확 한창…당도 높아",
+        "date": "2025-08-25 16:50",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=517501"
+    },
+    {
+        "title": "폴더블·곡면 글래스까지…애플, 아이폰 3년 혁신 로드맵 가동",
+        "date": "2025-08-25 16:48",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146333"
+    },
+    {
+        "title": "에픽게임즈 대표 트럼프, 앱마켓 규제시 보복? 구글·애플 로비스트들...",
+        "date": "2025-08-25 16:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0013441100?sid=105"
+    },
+    {
+        "title": "임실군에서 애플망고가? 기후변화 대응 아열대 과수 수확 한창",
+        "date": "2025-08-25 16:48",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3024418"
+    },
+    {
+        "title": "애플 아이폰17, 내달 9일 공개 유력…슬림 모델 첫 선",
+        "date": "2025-08-25 16:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003343647?sid=105"
+    },
+    {
+        "title": "애플 가세에 폴더블폰 큰 장 선다…셈법 복잡해진 삼성전자",
+        "date": "2025-08-25 16:23",
+        "link": "https://n.news.naver.com/mnews/article/014/0005396332?sid=105"
+    },
+    {
+        "title": "빌 게이츠, 유재석에 삼성 폴더블폰 쓰는 중…이재용 회장이 선물해 줘...",
+        "date": "2025-08-25 16:22",
+        "link": "https://m.entertain.naver.com/article/421/0008446835"
+    },
+    {
+        "title": "스마트폰 ‘슬림화’ 전쟁 본격화..아이폰17도 5.5㎜로 도전장",
+        "date": "2025-08-25 16:20",
+        "link": "http://kpenews.com/View.aspx?No=3757755"
+    },
+    {
+        "title": "올해 미니 LED TV 출하량, OLED TV 700만대의 1.8배",
+        "date": "2025-08-25 16:18",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39816"
+    },
+    {
+        "title": "애플, 아이폰에 홀로그램 효과 도입…내 사진을 3D로 변환해 본다",
+        "date": "2025-08-25 16:16",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=234956"
+    },
+    {
+        "title": "애플TV 손흥민 출전 MLS, 시즌패스로 보세요",
+        "date": "2025-08-25 16:10",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=671979"
+    },
+    {
+        "title": "50% 쭉쭉 늘어나는 차세대 마이크로 LED 소재 등장",
+        "date": "2025-08-25 16:04",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=228421"
+    },
+    {
+        "title": "스마트폰 대체할 새 기기…'스마트 안경'을 선점하라",
+        "date": "2025-08-25 16:02",
+        "link": "https://n.news.naver.com/mnews/article/015/0005175150?sid=105"
+    },
+    {
+        "title": "애플TV 손흥민 출전 MLS, 시즌패스로 보세요",
+        "date": "2025-08-25 15:59",
+        "link": "https://m.entertain.naver.com/article/001/0015585350"
+    },
+    {
+        "title": "초슬림폰 올까...'출시 임박' 아이폰 17 스펙 '관심'",
+        "date": "2025-08-25 15:44",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=370977"
+    },
+    {
+        "title": "“잘팔아도 남는게 없네” 삼성전자 MX, 퀄컴 AP 매입비중 20% 육박",
+        "date": "2025-08-25 15:43",
+        "link": "https://n.news.naver.com/mnews/article/018/0006098412?sid=105"
+    },
+    {
+        "title": "파인엠텍, 삼성 이어 애플 '힌지'까지... 글로벌 시장 '초대형 승부수'",
+        "date": "2025-08-25 15:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=370972"
+    },
+    {
+        "title": "애플 9월9일 아이폰17 공개…첫 '아이폰 에어' 나온다",
+        "date": "2025-08-25 15:37",
+        "link": "https://n.news.naver.com/mnews/article/421/0008446711?sid=105"
+    },
+    {
+        "title": "임실서도 '애플망고'가?…아열대 과수 본격 수확",
+        "date": "2025-08-25 15:36",
+        "link": "https://www.jjan.kr/article/20250825580148"
+    },
+    {
+        "title": "‘5.5㎜’ 역대급 두께 아이폰 온다…9월 9일 신제품 공개",
+        "date": "2025-08-25 15:25",
+        "link": "https://n.news.naver.com/mnews/article/024/0000099461?sid=101"
+    },
+    {
+        "title": "단통법 폐지 한달⋯보조금 시장 ‘꿈틀’",
+        "date": "2025-08-25 15:24",
+        "link": "https://www.asiatime.co.kr/article/20250825500319"
+    },
+    {
+        "title": "[프로야구 1000만 관중 시대②] 물 들어올 때 노 젓자… 협업 활발",
+        "date": "2025-08-25 15:20",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=187367"
+    },
+    {
+        "title": "얇아진 '에어' 모델 이목 집중···아이폰 17 시리즈, 9월 9일 공개 전망",
+        "date": "2025-08-25 15:08",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=333595"
+    },
+    {
+        "title": "[Y인사이트] 기판 절단 + TGV 가공… 아큐레이저, 레이저로 승부",
+        "date": "2025-08-25 15:06",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39821"
+    },
+    {
+        "title": "[AT 산업 단신] LG전자·삼성전자·LS일렉트릭·태광그룹·SK하이닉스",
+        "date": "2025-08-25 15:02",
+        "link": "https://www.asiatime.co.kr/article/20250825500296"
+    },
+    {
+        "title": "[르포] “예술과 가전의 콜라보”⋯ LG전자 D5, 고객 접점 늘린다",
+        "date": "2025-08-25 14:56",
+        "link": "https://www.viva100.com/article/20250825500860"
+    },
+    {
+        "title": "애플TV, LAFC 손흥민 홈 데뷔전 독점 생중계",
+        "date": "2025-08-25 14:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005396244?sid=105"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 '아이폰 에어' 공개 임박…아이폰17 시리즈 대변신",
+        "date": "2025-08-25 14:40",
+        "link": "https://n.news.naver.com/mnews/article/469/0000883342?sid=104"
+    },
+    {
+        "title": "중국 OLED 퇴출…덕산네오룩스, 미국發 초대형 호재 맞았다",
+        "date": "2025-08-25 14:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=370928"
+    },
+    {
+        "title": "화웨이 등 中 태블릿 약진...삼성, 갤럭시탭으로 '방어전'",
+        "date": "2025-08-25 14:28",
+        "link": "https://n.news.naver.com/mnews/article/030/0003343548?sid=105"
+    },
+    {
+        "title": "애플, 스마트 홈 디스플레이 내년 출시… 아마존·구글에 도전",
+        "date": "2025-08-25 14:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587200"
+    },
+    {
+        "title": "늘어나도 99% 색변환율 유지 DGIST, 스트레처블 마이크로 LED 디스플레...",
+        "date": "2025-08-25 14:20",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=110456"
+    },
+    {
+        "title": "마우저, 컬러 보정 애플리케이션용 ams오스람 'TCS3448' 다중 스펙트럼 ...",
+        "date": "2025-08-25 14:20",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321437"
+    },
+    {
+        "title": "DGIST, 스트레처블 마이크로 LED 디스플레이 핵심소재 개발",
+        "date": "2025-08-25 14:02",
+        "link": "https://www.kbsm.net/news/view.php?idx=487319"
+    },
+    {
+        "title": "DGIST, 스트레처블 마이크로 LED 디스플레이 핵심소재 개발",
+        "date": "2025-08-25 14:02",
+        "link": "https://tk.newdaily.co.kr/site/data/html/2025/08/25/2025082500261.html"
+    },
+    {
+        "title": "산간지역에서 애플망고가?…전북 임실, 본격 수확 ‘신 소득원’",
+        "date": "2025-08-25 14:00",
+        "link": "https://n.news.naver.com/mnews/article/662/0000076220?sid=102"
+    },
+    {
+        "title": "전북 임실군 애플망고, 기후변화 대응 아열대 과수 수확 한창",
+        "date": "2025-08-25 13:48",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=139107"
+    },
+    {
+        "title": "임실서 재배한 아열대 과수 ‘애플망고’ 본격 수확",
+        "date": "2025-08-25 13:40",
+        "link": "https://www.kukinews.com/article/view/kuk202508250118"
+    },
+    {
+        "title": "다음달 아이폰17 시리즈 공개 유력…‘에어’ 모델 첫선",
+        "date": "2025-08-25 13:40",
+        "link": "https://n.news.naver.com/mnews/article/009/0005546962?sid=105"
+    },
+    {
+        "title": "임실군 '애플망고' 등 아열대 과수 신소득원…재배지원 확대",
+        "date": "2025-08-25 13:32",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276031"
+    },
+    {
+        "title": "출시 앞둔 아이폰17 시리즈, 역대 가장 얇은 모델 나온다",
+        "date": "2025-08-25 13:10",
+        "link": "https://www.kbsm.net/news/view.php?idx=487289"
+    },
+    {
+        "title": "'에어'로 얇아진 아이폰17, 카툭튀는 어쩌나 [윤민혁의 실리콘밸리View]",
+        "date": "2025-08-25 13:09",
+        "link": "https://n.news.naver.com/mnews/article/011/0004524725?sid=105"
+    },
+    {
         "title": "DGIST, 세계 최초 ‘스트레처블 마이크로 LED 디스플레이’ 핵심 소재 개...",
         "date": "2025-08-25 12:52",
         "link": "http://www.breaknews.com/1142492"
@@ -33,6 +443,11 @@
         "title": "아이폰17 발표 임박…9월 9일 관전 포인트 총정리",
         "date": "2025-08-25 11:56",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587145"
+    },
+    {
+        "title": "임실군, 기후변화 대응 아열대 과수 애플망고 본격 수확",
+        "date": "2025-08-25 11:52",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20250825010007907"
     },
     {
         "title": "임실군, 아열대 과수 ‘애플망고’ 수확…농가 새 효자 작목 부상",
@@ -385,6 +800,11 @@
         "link": "https://www.etoday.co.kr/news/view/2499615"
     },
     {
+        "title": "LG, 마이크로 LED 개발 박차…사이니지 시장 공략",
+        "date": "2025-08-25 07:42",
+        "link": "https://dealsite.co.kr/articles/146969"
+    },
+    {
         "title": "애플TV+, 월 구독료 30% 인상...월 12.99 달러",
         "date": "2025-08-25 07:30",
         "link": "https://www.newswhoplus.com/news/articleView.html?idxno=37692"
@@ -393,260 +813,5 @@
         "title": "삼성, 폴더블폰 경험 마케팅…생태계 확대 전략",
         "date": "2025-08-25 07:14",
         "link": "https://dealsite.co.kr/articles/146893"
-    },
-    {
-        "title": "아이폰17 시리즈 출시 임박...역대 가장 얇은 모델",
-        "date": "2025-08-25 06:58",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=671673"
-    },
-    {
-        "title": "“역대 가장 얇은 아이폰 나온다”…아이폰 17시리즈 9월 9일 출시 행사...",
-        "date": "2025-08-25 06:34",
-        "link": "https://www.kukinews.com/article/view/kuk202508250004"
-    },
-    {
-        "title": "이번엔 진짜 다르다...초슬림 경쟁 '후끈'",
-        "date": "2025-08-25 06:25",
-        "link": "https://n.news.naver.com/mnews/article/215/0001221144?sid=004"
-    },
-    {
-        "title": "출시 앞둔 아이폰17 시리즈, 삼성에 맞서 두께 5.5mm로 역대 가장 얇은 ...",
-        "date": "2025-08-25 06:02",
-        "link": "https://n.news.naver.com/mnews/article/052/0002237394?sid=104"
-    },
-    {
-        "title": "전선 확대되는 TV 시장… 韓·中·日, 신무기 들고 독일서 맞대결",
-        "date": "2025-08-25 06:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001102575?sid=105"
-    },
-    {
-        "title": "“역대급 두께, 5㎜ 모델 나온다”…아이폰17 출시 임박",
-        "date": "2025-08-25 05:42",
-        "link": "https://n.news.naver.com/mnews/article/022/0004062555?sid=105"
-    },
-    {
-        "title": "아이폰17 시리즈 내달 나온다…역대 가장 얇은 모델 출시",
-        "date": "2025-08-25 04:22",
-        "link": "https://n.news.naver.com/mnews/article/374/0000459186?sid=101"
-    },
-    {
-        "title": "역대 가장 얇다…아이폰17 출시 임박",
-        "date": "2025-08-25 04:14",
-        "link": "https://n.news.naver.com/mnews/article/374/0000459183?sid=104"
-    },
-    {
-        "title": "“역대급 두께, 5㎜ 아이폰 나온다…9월 9일 출시 행사 열릴 듯”",
-        "date": "2025-08-25 03:28",
-        "link": "https://n.news.naver.com/mnews/article/016/0002518559?sid=105"
-    },
-    {
-        "title": "'아이폰17' 시리즈 9월 출시 임박…'에어' 모델 역대 최저 두께 5.5㎜",
-        "date": "2025-08-25 03:24",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15780699"
-    },
-    {
-        "title": "AI 뒤처진 애플, 시리에 구글 활용 논의",
-        "date": "2025-08-25 03:03",
-        "link": "https://n.news.naver.com/mnews/article/020/0003656215?sid=101"
-    },
-    {
-        "title": "역대 가장 얇은 모델…아이폰17 시리즈 출시 임박",
-        "date": "2025-08-25 02:47",
-        "link": "https://n.news.naver.com/mnews/article/422/0000774027?sid=101"
-    },
-    {
-        "title": "출시 앞둔 아이폰17 시리즈, 역대 가장 얇은 모델 나온다",
-        "date": "2025-08-25 02:29",
-        "link": "https://n.news.naver.com/mnews/article/001/0015583691?sid=104"
-    },
-    {
-        "title": "아이폰17 9월 출시일·사전예약 앞두고 '가격'에 쏠린 시선",
-        "date": "2025-08-25 00:20",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3357591"
-    },
-    {
-        "title": "“이게 8만원, 공짜로 줘도 안 갖는다” 최악의 실패…아이폰 케이스 퇴...",
-        "date": "2025-08-24 21:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002518554?sid=105"
-    },
-    {
-        "title": "애플, 기업용 아이폰·맥의 'AI 기능 제어' 도구 출시 예정",
-        "date": "2025-08-24 20:06",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=201751"
-    },
-    {
-        "title": "아이폰17시리즈 4개 라인업…‘플러스’ 빠지고 ‘에어’ 포함 유력",
-        "date": "2025-08-24 18:48",
-        "link": "https://n.news.naver.com/mnews/article/658/0000117723?sid=101"
-    },
-    {
-        "title": "채용 마감했다는 메타, 애플 AI 임원 추가 영입",
-        "date": "2025-08-24 18:28",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=201748"
-    },
-    {
-        "title": "'90만원대' 저가형 맥북 나올까? 애플, 4분기 양산 전망",
-        "date": "2025-08-24 17:46",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146296"
-    },
-    {
-        "title": "애플, 애플워치 비밀 유출 혐의로 중국 오포와 전 직원 고소",
-        "date": "2025-08-24 17:36",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=201747"
-    },
-    {
-        "title": "'갤럭시' 美 인기 이정도일 줄이야…9400억 '잭팟'",
-        "date": "2025-08-24 17:28",
-        "link": "https://n.news.naver.com/mnews/article/015/0005174762?sid=101"
-    },
-    {
-        "title": "폭스콘, 인도 공장에서 중국 엔지니어 추가 철수...아이폰 생산 또 차질",
-        "date": "2025-08-24 17:16",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=201749"
-    },
-    {
-        "title": "AI 외부 의존 높이는 애플…노키아 전철 밟나",
-        "date": "2025-08-24 16:42",
-        "link": "https://n.news.naver.com/mnews/article/015/0005174717?sid=104"
-    },
-    {
-        "title": "삼성D·비에이치·덕산…폴더블 아이폰 공급망 진입",
-        "date": "2025-08-24 16:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003343253?sid=105"
-    },
-    {
-        "title": "갤럭시 vs 아이폰 하반기 정면승부… 키워드는 ‘폴더블·두께·MZ세대’",
-        "date": "2025-08-24 16:11",
-        "link": "https://n.news.naver.com/mnews/article/029/0002977417?sid=105"
-    },
-    {
-        "title": "LG디스플레이 게임스컴 2025서 K-게이밍 OLED로 글로벌 공략",
-        "date": "2025-08-24 16:08",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2009238"
-    },
-    {
-        "title": "이청 삼성디스플레이 사장 A·C·E 원칙으로 폴더블 신화 이끈다[CEO파...",
-        "date": "2025-08-24 16:00",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=707015"
-    },
-    {
-        "title": "중국, 애플 인도 생산 견제…엔지니어 300명 철수",
-        "date": "2025-08-24 15:50",
-        "link": "https://www.etoday.co.kr/news/view/2499573"
-    },
-    {
-        "title": "애플, 前중국인 직원·오포에 영업기밀 유출 혐의 제소",
-        "date": "2025-08-24 15:16",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146290"
-    },
-    {
-        "title": "아이폰 박살이 났지, 난 이제 갤럭시를 쓴다…'힙'으로 충성도 깬 '아...",
-        "date": "2025-08-24 15:03",
-        "link": "https://n.news.naver.com/mnews/article/277/0005641231?sid=105"
-    },
-    {
-        "title": "삼성D·LGD, 'AI 맞춤' 디스플레이 기술 격돌",
-        "date": "2025-08-24 14:40",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414616"
-    },
-    {
-        "title": "외출 중에 세탁기 돌리고 에어컨 켜고…너무 편한 삼성 스마트싱크, 진...",
-        "date": "2025-08-24 12:48",
-        "link": "https://n.news.naver.com/mnews/article/009/0005546423?sid=101"
-    },
-    {
-        "title": "LG전자, 프리즈 서울 앞두고 박서보 단색화 OLED 미디어아트 예고 영상 ...",
-        "date": "2025-08-24 11:30",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=164008"
-    },
-    {
-        "title": "LG OLED로 되살린 故 박서보 '묘법'…'프리즈 서울 2025'서 선봬",
-        "date": "2025-08-24 11:12",
-        "link": "https://n.news.naver.com/mnews/article/008/0005240010?sid=101"
-    },
-    {
-        "title": "애플·구글, ‘시리-제미나이’ 협상 본격화",
-        "date": "2025-08-24 11:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006097438?sid=105"
-    },
-    {
-        "title": "HBM·테슬라·애플 등에 업고 삼성전자 '7만전자' 회복…증권가, 목표주...",
-        "date": "2025-08-24 10:06",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=770888"
-    },
-    {
-        "title": "삼성전자 영업익, 3분기 반등하나…증권가 전망치는 9兆 육박",
-        "date": "2025-08-24 10:06",
-        "link": "https://n.news.naver.com/mnews/article/016/0002518412?sid=105"
-    },
-    {
-        "title": "OLED로 되살아난 故 박서보 ‘묘법’…LG전자, 프리즈 서울서 첫 공개",
-        "date": "2025-08-24 10:04",
-        "link": "https://n.news.naver.com/mnews/article/092/0002387381?sid=105"
-    },
-    {
-        "title": "아이폰17 생산 차질 겪나… 폭스콘, 인도 中직원 300명 본국 송환",
-        "date": "2025-08-24 10:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146277"
-    },
-    {
-        "title": "LG전자, OLED TV로 한국 단색화 美 알려",
-        "date": "2025-08-24 10:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1675653"
-    },
-    {
-        "title": "애플, 시리 개선 위해 구글 제미나이 활용 논의",
-        "date": "2025-08-24 09:54",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=444959"
-    },
-    {
-        "title": "애플, 일부 국가서 앱스토어 세금·가격 정책 조정",
-        "date": "2025-08-24 09:38",
-        "link": "https://n.news.naver.com/mnews/article/092/0002387377?sid=105"
-    },
-    {
-        "title": "LG전자, 프리즈 서울 2025서 박서보 작품 OLED TV 전시",
-        "date": "2025-08-24 09:34",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3024032"
-    },
-    {
-        "title": "갤럭시가 더 힙하다고?…애플, 반격 채비",
-        "date": "2025-08-24 09:20",
-        "link": "https://n.news.naver.com/mnews/article/215/0001221097?sid=101"
-    },
-    {
-        "title": "수입 과일인 줄 알았는데…국내서 연간 80톤 재배된다는 '이 과일' 정체",
-        "date": "2025-08-24 09:14",
-        "link": "https://www.wikitree.co.kr/articles/1074024"
-    },
-    {
-        "title": "삼성디스플레이, 테슬라·BYD와 차량용 OLED 공급 협상",
-        "date": "2025-08-24 09:08",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508240904118479fbbec65dfb_1/article.html"
-    },
-    {
-        "title": "관세가 만든 관계, 삼성과 애플의 '오월동주'",
-        "date": "2025-08-24 09:02",
-        "link": "https://www.asiatime.co.kr/article/20250822500331"
-    },
-    {
-        "title": "삼성 갤럭시, '아재폰'서 혁신 아이콘으로…애플은 아이폰 17로 반격 나...",
-        "date": "2025-08-24 08:50",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=836862"
-    },
-    {
-        "title": "“中에 또 내줄 순 없어”…삼성디스플레이 ‘마지막 자존심’ OLED 사수...",
-        "date": "2025-08-24 08:35",
-        "link": "https://n.news.naver.com/mnews/article/016/0002518368?sid=101"
-    },
-    {
-        "title": "노키아처럼 아이폰, 10년 내 사라질수도…충격 전망 [김인엽의 퓨처 ...",
-        "date": "2025-08-24 08:31",
-        "link": "https://n.news.naver.com/mnews/article/015/0005174601?sid=104"
-    },
-    {
-        "title": "중국 스마트 안경 시장, 폭발적인 성장세",
-        "date": "2025-08-24 07:32",
-        "link": "https://www.theguru.co.kr/news/article.html?no=90857"
     }
 ]
