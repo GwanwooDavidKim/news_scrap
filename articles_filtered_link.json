@@ -1,5 +1,615 @@
 [
     {
+        "title": "HDC랩스, AI기술과 디자인으로 스마트홈 시장 차별화 선보인다",
+        "date": "2025-09-03 12:40",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=114965"
+    },
+    {
+        "title": "HDC랩스, AI기술·디자인으로 스마트홈 시장 공략",
+        "date": "2025-09-03 12:36",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96169"
+    },
+    {
+        "title": "삼성전자, 태국에 AI 기반 B2B 솔루션 체험 공간 오픈…갤럭시 폴더블 디...",
+        "date": "2025-09-03 12:32",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=774917"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널 UL 솔루션즈로부터 검증 획득",
+        "date": "2025-09-03 12:32",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=774919"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 업계 최초 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 12:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025090312044471956ed0c62d49_1/article.html"
+    },
+    {
+        "title": "애플워치 울트라 3 곧 나온다…S11프로세서·5G·혈압체크 등 기대되는 ...",
+        "date": "2025-09-03 12:08",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=235124"
+    },
+    {
+        "title": "LG전자, 프리즈 서울 참가…OLED로 故박서보 작품 재해석",
+        "date": "2025-09-03 11:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202509031147391379290c42db76_1/article.html"
+    },
+    {
+        "title": "초소형 노트북 시대 끝 애플, 9년 만에 '11인치 맥북 에어' 공식 단종...",
+        "date": "2025-09-03 11:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535796"
+    },
+    {
+        "title": "삼성전자, '갤럭시 폴더블 신제품' 초대형 미디어아트 디저털 옥외광고...",
+        "date": "2025-09-03 11:46",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=271463"
+    },
+    {
+        "title": "HDC랩스, AI기술과 디자인으로 스마트홈 시장 차별화",
+        "date": "2025-09-03 11:34",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=20250903112938394793cd542464_23"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 UL 솔루션즈 인증 확보",
+        "date": "2025-09-03 11:30",
+        "link": "https://www.hellot.net/news/article.html?no=104895"
+    },
+    {
+        "title": "HDC랩스 AI기술과 디자인으로 스마트홈 시장 공략",
+        "date": "2025-09-03 11:26",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2094435"
+    },
+    {
+        "title": "아이패드11, 가성비·실용성 동시에 잡아…프로와 비교해도 손색 없는 ...",
+        "date": "2025-09-03 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589224"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 11:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000962260?sid=105"
+    },
+    {
+        "title": "애플 AI '인재 유출' 가속화, 핵심 신사업인 로봇 기술 전문가도 메타로...",
+        "date": "2025-09-03 11:14",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410266"
+    },
+    {
+        "title": "곧 등장할 '갤럭시 트라이폴드폰', 기존 갤폴드와 공존할까",
+        "date": "2025-09-03 11:14",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276916"
+    },
+    {
+        "title": "HDC랩스, AI기술과 디자인으로 스마트홈 시장 차별화",
+        "date": "2025-09-03 11:10",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=102757"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 주제로 초대형 미디어아트 옥외광고 선봬",
+        "date": "2025-09-03 11:10",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509030063"
+    },
+    {
+        "title": "HDC랩스, AI기술과 디자인으로 스마트홈시장 차별화",
+        "date": "2025-09-03 11:09",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000079493"
+    },
+    {
+        "title": "‘셰프의 미식이 집으로 온다’…컬리, 대표 셰프 RMR 모은 ‘미식관’...",
+        "date": "2025-09-03 11:06",
+        "link": "https://www.betanews.net/article/view/beta202509030040"
+    },
+    {
+        "title": "컬리, 유명 셰프 RMR 모은 ‘미식관’ 오픈",
+        "date": "2025-09-03 11:06",
+        "link": "https://www.fetv.co.kr/news/article.html?no=200338"
+    },
+    {
+        "title": "韓 단색화 거장, LG전자 만났다...OLED TV로 재해석",
+        "date": "2025-09-03 11:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005400874?sid=101"
+    },
+    {
+        "title": "서울 도심을 물들이다···삼성전자, 갤럭시 폴더블 DOOH 공개",
+        "date": "2025-09-03 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250903101403"
+    },
+    {
+        "title": "HDC랩스, AI기술·디자인으로 스마트홈 시장 차별화",
+        "date": "2025-09-03 11:00",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406070"
+    },
+    {
+        "title": "OLED로 되살린 단색화…LG, 프리즈 서울서 ‘묘법’ 미디어아트 공개",
+        "date": "2025-09-03 11:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002998184?sid=101"
+    },
+    {
+        "title": "코윈테크, 아이플러스모봇과 전략적 업무협약 체결",
+        "date": "2025-09-03 10:51",
+        "link": "https://www.venturesquare.net/1002757"
+    },
+    {
+        "title": "HDC랩스, AI기술과 디자인으로 스마트홈 시장 차별화",
+        "date": "2025-09-03 10:50",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=838763"
+    },
+    {
+        "title": "HDC랩스, AI기술 및 디자인 통해 스마트홈 시장 차별화",
+        "date": "2025-09-03 10:48",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=665044"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:48",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=115483"
+    },
+    {
+        "title": "코윈테크·아이플러스모봇 글로벌 로봇 시장 공략 가속화...전략적 MOU...",
+        "date": "2025-09-03 10:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1265924"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득...업계...",
+        "date": "2025-09-03 10:46",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=80983"
+    },
+    {
+        "title": "삼성전자, 서울 곳곳서 ‘갤럭시 폴더블’ 신제품 초대형 미디어아트 디...",
+        "date": "2025-09-03 10:44",
+        "link": "https://www.news2day.co.kr/article/20250903500142"
+    },
+    {
+        "title": "[더벨][Company Watch]코스닥 재도전 파인원, 실적부진·LGD 투자중단 ‘...",
+        "date": "2025-09-03 10:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509020832132780102279"
+    },
+    {
+        "title": "“한낮 거실서도 시네마처럼”…LGD, 4세대 OLED ‘완벽한 콘텐츠 재현력...",
+        "date": "2025-09-03 10:40",
+        "link": "https://n.news.naver.com/mnews/article/029/0002979842?sid=101"
+    },
+    {
+        "title": "LG OLED X 박서보: 자연에서 빌려온 색이 AI를 만나면?",
+        "date": "2025-09-03 10:38",
+        "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=81477"
+    },
+    {
+        "title": "[특징주] 파인엠텍, 삼성 트리폴드폰 연내 출시·실적개선 전망까지 저...",
+        "date": "2025-09-03 10:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276900"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, ‘완벽한 콘텐츠 재현력’ 인정받아",
+        "date": "2025-09-03 10:36",
+        "link": "https://www.news2day.co.kr/article/20250903500126"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 업계 최초 ‘완벽한 콘텐츠 재현력’ 검...",
+        "date": "2025-09-03 10:36",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=76471"
+    },
+    {
+        "title": "'원본 그대로 재현' LGD 4세대 OLED, UL 인증",
+        "date": "2025-09-03 10:29",
+        "link": "https://n.news.naver.com/mnews/article/030/0003346558?sid=105"
+    },
+    {
+        "title": "코윈테크, 中 아이플러스모봇과 글로벌 로봇 시장 협공",
+        "date": "2025-09-03 10:26",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=204974"
+    },
+    {
+        "title": "아진엑스텍, 애플이 인정한 로봇 기술력…삼성전자에도 산업용 제조 로...",
+        "date": "2025-09-03 10:22",
+        "link": "https://www.etoday.co.kr/news/view/2502528"
+    },
+    {
+        "title": "컬리, 대표 셰프 RMR 한 자리에…'미식관' 론칭",
+        "date": "2025-09-03 10:22",
+        "link": "https://n.news.naver.com/mnews/article/030/0003346548?sid=101"
+    },
+    {
+        "title": "애플워치, 시리즈 11·울트라 3 동반 출격 가능성…달라지는 점은?",
+        "date": "2025-09-03 10:20",
+        "link": "https://www.cnet.co.kr/view/?no=20250903101845"
+    },
+    {
+        "title": "[포토] 삼성전자, 갤럭시 폴더블 신제품 초대형 미디어아트 디지털 옥외...",
+        "date": "2025-09-03 10:20",
+        "link": "https://n.news.naver.com/mnews/article/030/0003346545?sid=105"
+    },
+    {
+        "title": "LG디스플레이 OLED 패널 '완벽한 콘텐츠 재현력' 검증…업계 최초",
+        "date": "2025-09-03 10:18",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1277569"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '콘텐츠 재현력' 검증…업계 최초",
+        "date": "2025-09-03 10:18",
+        "link": "https://n.news.naver.com/mnews/article/117/0003983638?sid=103"
+    },
+    {
+        "title": "애플산부인과 가산점, 철산역 인근 '광명철산점'으로 확장 이전",
+        "date": "2025-09-03 10:16",
+        "link": "http://www.medisobizanews.com/news/articleView.html?idxno=128584"
+    },
+    {
+        "title": "LG디스플레이, 업계 첫 4세대 OLED ‘완벽한 콘텐츠 재현력’ 검증",
+        "date": "2025-09-03 10:15",
+        "link": "https://n.news.naver.com/mnews/article/366/0001105005?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 업계 최초 '완벽한 콘텐츠 재현력' 검증...",
+        "date": "2025-09-03 10:12",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=535081"
+    },
+    {
+        "title": "LGD, OLED 패널 ‘완벽한 콘텐츠 재현력’ 검증 획득",
+        "date": "2025-09-03 10:10",
+        "link": "https://n.news.naver.com/mnews/article/215/0001222403?sid=101"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널 업계 최초 '완벽한 콘텐츠 재현력' 검증 ...",
+        "date": "2025-09-03 10:08",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=93713"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:08",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=250942"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 업계 최초 ‘완벽한 콘텐츠 재현력’ 검증 획...",
+        "date": "2025-09-03 10:06",
+        "link": "https://www.viva100.com/article/20250903500468"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED ‘완벽한 콘텐츠 재현력’ 검증 획득",
+        "date": "2025-09-03 10:06",
+        "link": "https://sateconomy.co.kr/news/view/1065571833035163"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 업계 최초 '완벽한 콘텐츠 재현력' 검증...",
+        "date": "2025-09-03 10:02",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=145341"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED, 업계 최초 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410229"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:02",
+        "link": "https://www.ajunews.com/view/20250903093227397"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '완벽한 콘텐츠 재현력' 호평",
+        "date": "2025-09-03 10:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/03/2025090300084.html"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002388807?sid=105"
+    },
+    {
+        "title": "컬리, 이연복·정호영 등 유명셰프 RMR 모은 '미식관' 오픈",
+        "date": "2025-09-03 10:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0000962213?sid=101"
+    },
+    {
+        "title": "LGD, 4세대 OLED패널 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006105714?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED, ‘완벽한 콘텐츠 재현력’ 검증 획득",
+        "date": "2025-09-03 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002523328?sid=101"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED, 500룩스 검증 완료",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589187"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/629/0000422342?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '콘텐츠 재현력' 업계 첫 검증",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.newspim.com/news/view/20250903000139"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널로 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572514195703"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED, 업계 최초 '완벽한 콘텐츠 재현력' 검증",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015602098?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222653"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '완벽 콘텐츠 재현력' 검증",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=39122"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=93812"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, 업계 최초 '완벽한 콘텐츠 재현력' 검증...",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=447424"
+    },
+    {
+        "title": "윤수영 LG디스플레이 CTO 독자적 OLED로 최고 시청 경험 제공",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1676990"
+    },
+    {
+        "title": "LG디스플레이, '4세대 OLED' 업계 최초 '완벽한 재현' 인증",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005244861?sid=101"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED, UL서 '완벽한 화질' 검증",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=54551"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED, 업계 최초 ‘완벽한 콘텐츠 재현력’ 검증",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002998128?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, 업계 최초 '완벽한 콘텐츠 재현력' 검증 획득",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005646105?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, ‘완벽한 콘텐츠 재현력’ 공인",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250903010001510"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널업계 최초 '완벽한 콘텐츠 재현력' 검증 ...",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232480"
+    },
+    {
+        "title": "한낮 거실도 영화관처럼…LGD, OLED 화질 검증 3관왕 달성",
+        "date": "2025-09-03 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203990?sid=105"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, '완벽한 콘텐츠 재현력' 글로벌 인증",
+        "date": "2025-09-03 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=605659"
+    },
+    {
+        "title": "한국전통 K-문화도 폴드…삼성, 서울 랜드마크 갤럭시 폴더블 초대형...",
+        "date": "2025-09-03 09:59",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203989?sid=105"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2025-09-03 09:58",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36800"
+    },
+    {
+        "title": "컬리, '미식관' 오픈…대표 셰프 RMR 상품 한자리에",
+        "date": "2025-09-03 09:58",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=55143"
+    },
+    {
+        "title": "삼성 첫 3단 폴더블폰 '갤럭시Z 트라이폴드' 이달 말 깜짝 공개할까",
+        "date": "2025-09-03 09:54",
+        "link": "https://kbench.com/?q=node/270935"
+    },
+    {
+        "title": "삼성D도 이재용 결단 필요…'성과급 논란' 확산",
+        "date": "2025-09-03 09:52",
+        "link": "https://n.news.naver.com/mnews/article/003/0013457817?sid=101"
+    },
+    {
+        "title": "[더벨][i-point]플리토, 대만 애플 개발자 행사 전 세션에 AI 동시통역 제...",
+        "date": "2025-09-03 09:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509030926486400104494"
+    },
+    {
+        "title": "애플, iOS 26 베타9 공개…안정성 확보에 '총력'",
+        "date": "2025-09-03 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589184"
+    },
+    {
+        "title": "비전 프로 단점 해결…애플 더 가볍고 저렴한 '비전 에어'로 승부수",
+        "date": "2025-09-03 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589165"
+    },
+    {
+        "title": "아이폰 폴드, 벌써부터 인기 폭발?…애플, 출하 목표 대폭 상향",
+        "date": "2025-09-03 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589169"
+    },
+    {
+        "title": "대원씨티에스, RTX 5090 그래픽카드 3종 출시…화이트·게이밍·OC 모델 ...",
+        "date": "2025-09-03 09:42",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=111042"
+    },
+    {
+        "title": "“LCD 대신 전자종이 썼더니” 버스 도착정보 안내장치…전력 소모 90%↓",
+        "date": "2025-09-03 09:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002523300?sid=105"
+    },
+    {
+        "title": "애플, 초슬림 '아이폰17 에어' 모델만 50달러 인상 가능성",
+        "date": "2025-09-03 09:36",
+        "link": "https://kbench.com/?q=node/270934"
+    },
+    {
+        "title": "[AI픽] 플리토, 대만 애플 개발자 행사서 AI 동시통역 제공",
+        "date": "2025-09-03 09:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015601915?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 초대형 미디어아트 디지털 옥외광고 선봬",
+        "date": "2025-09-03 09:28",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185045"
+    },
+    {
+        "title": "KH바텍, 폴더블폰 판매 호조로 실적 개선 기대에 6%↑[특징주]",
+        "date": "2025-09-03 09:19",
+        "link": "https://n.news.naver.com/mnews/article/018/0006105631?sid=101"
+    },
+    {
+        "title": "건설연, 외부 전력 없이 작동하는 '에너지 자립형 버스 도착 정보 안내...",
+        "date": "2025-09-03 09:14",
+        "link": "http://www.ikld.kr/news/articleView.html?idxno=319482"
+    },
+    {
+        "title": "구글, 크롬 매각 안 해도 된다…기본 검색 위해 애플에 돈 지급도 허용",
+        "date": "2025-09-03 09:08",
+        "link": "https://n.news.naver.com/mnews/article/008/0005244805?sid=101"
+    },
+    {
+        "title": "삼성, '아이폰 텃밭' 일본·미국서 약진...'AI·폴더블'로 글로벌 판도 ...",
+        "date": "2025-09-03 09:06",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=30837"
+    },
+    {
+        "title": "론지 화장품, '핑크 애플 퓨어 라인' 출시…모공 집중 케어 솔루션 제안",
+        "date": "2025-09-03 09:06",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=322833"
+    },
+    {
+        "title": "삼성전자, 스마트폰 출시 전략 변화...연중 신제품으로 비수기 없앤다...",
+        "date": "2025-09-03 08:58",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222636"
+    },
+    {
+        "title": "[IP Law] 글로벌 시장에서 약진하는 중국 IP",
+        "date": "2025-09-03 08:56",
+        "link": "http://www.legaltimes.co.kr/news/articleView.html?idxno=88906"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 신제품 초대형 미디어아트 공개",
+        "date": "2025-09-03 08:48",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=251427"
+    },
+    {
+        "title": "애플, ‘아이폰 폴드’ 출하 전망 상향…2027년 2500만대 기대[모닝폰]",
+        "date": "2025-09-03 08:42",
+        "link": "https://n.news.naver.com/mnews/article/018/0006105553?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 신제품 초대형 미디어아트 디지털 옥외광고 선...",
+        "date": "2025-09-03 08:36",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406055"
+    },
+    {
+        "title": "인기 셰프 RMR 다 모았다…컬리, '미식관' 오픈",
+        "date": "2025-09-03 08:33",
+        "link": "https://n.news.naver.com/mnews/article/277/0005645965?sid=101"
+    },
+    {
+        "title": "이번에는 정말? 엑시노스 귀환, 갤럭시 S26 '두뇌' 경쟁",
+        "date": "2025-09-03 08:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=709840"
+    },
+    {
+        "title": "[포토]삼성전자, 갤럭시 폴더블 신제품 초대형 미디어아트 디지털 옥외...",
+        "date": "2025-09-03 08:24",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96112"
+    },
+    {
+        "title": "알파벳 시간외서 8% 폭등하자 애플도 3% 급등",
+        "date": "2025-09-03 08:22",
+        "link": "https://n.news.naver.com/mnews/article/421/0008462807?sid=104"
+    },
+    {
+        "title": "AI PC 확산 본격화…삼성·LGD, 차세대 OLED로 열풍 탑승",
+        "date": "2025-09-03 08:20",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1265473"
+    },
+    {
+        "title": "폴더블 아이폰 내년 출시…폴더블 아이패드는 2028년",
+        "date": "2025-09-03 08:19",
+        "link": "https://n.news.naver.com/mnews/article/092/0002388771?sid=105"
+    },
+    {
+        "title": "'프리즈 서울' 개막…'묘법' 박서보 색채, LG OLED로 부활",
+        "date": "2025-09-03 08:15",
+        "link": "https://n.news.naver.com/mnews/article/003/0013457425?sid=103"
+    },
+    {
+        "title": "[더벨][갤럭시 부활의 서막]반도체 부진 상쇄, 신상 스마트폰 '연타석 홈...",
+        "date": "2025-09-03 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508271318067440103094"
+    },
+    {
+        "title": "메리츠증권 비에이치, 내년 실적 성장 모멘텀 본격화",
+        "date": "2025-09-03 08:06",
+        "link": "https://www.etoday.co.kr/news/view/2502619"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 신제품 미디어아트 디지털 옥외광고 선봬",
+        "date": "2025-09-03 08:06",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222639"
+    },
+    {
+        "title": "美법원 “구글 ‘독점 해소’ 위한 크롬 매각 불필요…데이터는 공유해...",
+        "date": "2025-09-03 08:00",
+        "link": "https://www.etoday.co.kr/news/view/2502609"
+    },
+    {
+        "title": "예상가격 280만원? 애플, 차세대 '아이폰 폴드' 측면에 터치 ID 탑재하...",
+        "date": "2025-09-03 07:58",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535743"
+    },
+    {
+        "title": "[GAM] 애플, 시간 외 4%대 급등…구글 기본설정 유지 허용 판결",
+        "date": "2025-09-03 07:41",
+        "link": "https://www.newspim.com/news/view/20250903000045"
+    },
+    {
+        "title": "전자부품 업계, '애플 폴더블폰 특수' 기대감",
+        "date": "2025-09-03 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589088"
+    },
+    {
+        "title": "[Who Is ?] 정철동 LG디스플레이 대표이사 사장",
+        "date": "2025-09-03 07:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410172"
+    },
+    {
+        "title": "“세번 접히는 트리폴드폰 대전 ‘점화’”…삼성 vs 화웨이, 폼펙터 시...",
+        "date": "2025-09-03 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025090214193850905"
+    },
+    {
+        "title": "삼성 초기업노조, 이재용 삼성전자 회장에 공문 SK하이닉스 처럼 영업...",
+        "date": "2025-09-03 06:47",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330611"
+    },
+    {
+        "title": "'환골탈태' 중인 삼성 엑시노스…파운드리 반등에 힘 보태나",
+        "date": "2025-09-03 06:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015601515?sid=105"
+    },
+    {
         "title": "TSMC, 파운드리 점유율 70% 돌파…삼성전자와 격차 커져",
         "date": "2025-09-03 00:01",
         "link": "https://n.news.naver.com/mnews/article/025/0003466294?sid=101"
@@ -58,11 +668,6 @@
         "title": "[데일리픽] 이더리움, 월가 채택으로 100배 상승?…에어팟 프로3, 심박수...",
         "date": "2025-09-02 17:06",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589046"
-    },
-    {
-        "title": "디스플레이 업계, 내년 R&amp;D 예산 편성 확대 ‘대환영’…“선도적 위상...",
-        "date": "2025-09-02 17:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2025090217004793942"
     },
     {
         "title": "베일 벗은 스마트폰 다음 먹거리...삼성전자, XR·스마트안경 개발",
@@ -305,11 +910,6 @@
         "link": "https://n.news.naver.com/mnews/article/029/0002979565?sid=105"
     },
     {
-        "title": "[잇속] SKT·LGU+·애플 외",
-        "date": "2025-09-02 10:40",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=702602"
-    },
-    {
         "title": "애플, 제조업체에 자동화 요구…트럼프 관세 전쟁 여파",
         "date": "2025-09-02 10:36",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588966"
@@ -390,19 +990,9 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002203876?sid=105"
     },
     {
-        "title": "에스켐, OLED 합성·정제 설비 고도화 '순항'…CAPA 확대·헬스케어 진출...",
-        "date": "2025-09-02 08:56",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=702566"
-    },
-    {
         "title": "'손' 들어오자 노 젓는 애플TV, MLS 시즌 패스 할인",
         "date": "2025-09-02 08:56",
         "link": "https://n.news.naver.com/mnews/article/421/0008460288?sid=105"
-    },
-    {
-        "title": "델, 게이머와 크리에이터 모두 잡을 7종 모니터 신제품 발표",
-        "date": "2025-09-02 08:50",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535717"
     },
     {
         "title": "대신證 KH바텍, 폴더블폰 판매 호조에 '깜짝' 실적 예상…목표가↑",
@@ -430,11 +1020,6 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015599069?sid=103"
     },
     {
-        "title": "[더벨]유티아이, 450억 CB 발행 추진…운용사 '주목'",
-        "date": "2025-09-02 08:18",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508281437215560108469"
-    },
-    {
         "title": "1세대 실패했던 애플 비전 프로…보급형 제품도 나올까",
         "date": "2025-09-02 08:00",
         "link": "https://n.news.naver.com/mnews/article/003/0013454773?sid=105"
@@ -443,11 +1028,6 @@
         "title": "'도와줘 에스파' 위기의 아이폰 구원투수 될까",
         "date": "2025-09-02 08:00",
         "link": "https://n.news.naver.com/mnews/article/241/0003463545?sid=105"
-    },
-    {
-        "title": "[더벨][영상]TV사업 부진…MS본부에 메스 든 LG전자",
-        "date": "2025-09-02 07:58",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509011715580320105875"
     },
     {
         "title": "[클릭 e종목]KH바텍, 폴더블폰 성공 열쇠는 힌지",
