@@ -1,5 +1,665 @@
 [
     {
+        "title": "삼성전자, IFA 흥행 대박…갤럭시·투명 LED에 관람객 '일단 멈춤'",
+        "date": "2025-09-06 05:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008469883?sid=101"
+    },
+    {
+        "title": "화웨이·모토로라에 밀린 삼성 폴더블…'폴드7' 반격 성공할까",
+        "date": "2025-09-06 05:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013464817?sid=105"
+    },
+    {
+        "title": "모토로라 급부상에...삼성전자, 2분기 폴더블 점유율 '반토막'",
+        "date": "2025-09-06 05:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=374207"
+    },
+    {
+        "title": "쿤달, 이마트 트레이더스 단독 '콜라겐 앤 애플사이다 비니거 탈모샴푸...",
+        "date": "2025-09-06 01:36",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=94195"
+    },
+    {
+        "title": "단풍색·연초록·그을음…OLED로 구현해낸 박서보 단색화",
+        "date": "2025-09-06 01:00",
+        "link": "https://n.news.naver.com/mnews/article/353/0000052861?sid=103"
+    },
+    {
+        "title": "[현장+] 中 'mini-LED' vs 韓 'RGB Micro-LED'...프리미엄 TV 대격돌",
+        "date": "2025-09-05 23:32",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330773"
+    },
+    {
+        "title": "LG전자 ‘투명·무선 OLED TV’, IFA 최고제품상 수상",
+        "date": "2025-09-05 22:46",
+        "link": "https://n.news.naver.com/mnews/article/011/0004529797?sid=101"
+    },
+    {
+        "title": "[IFA 2025] LG전자, 투명 OLED TV로 ‘IFA 혁신 어워드’서 최고상 수상",
+        "date": "2025-09-05 22:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001105877?sid=105"
+    },
+    {
+        "title": "BOE, 아이폰17프로에 OLED 공급",
+        "date": "2025-09-05 21:42",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40401"
+    },
+    {
+        "title": "삼성전자, '삼성 프레스 콘퍼런스'서 'AI 홈' 비전·신제품 소개",
+        "date": "2025-09-05 20:56",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284883918030"
+    },
+    {
+        "title": "삼성전자, '갤럭시 탭 S11 시리즈' 공개",
+        "date": "2025-09-05 20:40",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284841275644"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 공개",
+        "date": "2025-09-05 20:40",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284777067008"
+    },
+    {
+        "title": "구글·애플 인앱결제 강제 영업보복 우려로 신고 꺼려…“영업보복 금지...",
+        "date": "2025-09-05 20:10",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=775654"
+    },
+    {
+        "title": "구글·애플 '갑질' 성토한 게임업계…영업 보복 금지법 필요",
+        "date": "2025-09-05 19:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000963166?sid=105"
+    },
+    {
+        "title": "“스냅드래곤 아닌 엑시노스 2500” 품은 갤럭시 Z 플립 7 게임 실력은?",
+        "date": "2025-09-05 19:11",
+        "link": "https://n.news.naver.com/mnews/article/020/0003659154?sid=105"
+    },
+    {
+        "title": "[투코현장] 기업과 소비자 모두 피해보는 구글·애플 인앱결제···국내...",
+        "date": "2025-09-05 19:06",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=334111"
+    },
+    {
+        "title": "갤럭시 S26 모형 유출, 그런데 모양이 왜 이래?…아이폰17과 묘하게 닮...",
+        "date": "2025-09-05 19:05",
+        "link": "https://n.news.naver.com/mnews/article/011/0004529758?sid=105"
+    },
+    {
+        "title": "[4th Infra] 구글·애플의 게임개발사 영업보복, 법으로 막아야",
+        "date": "2025-09-05 18:58",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2094667"
+    },
+    {
+        "title": "쿤달, 이마트 트레이더스 단독 ‘콜라겐 앤 애플사이다 비니거 탈모샴푸...",
+        "date": "2025-09-05 18:42",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160300212136812"
+    },
+    {
+        "title": "서강대 삼성디스플레이와 산학 협력 방안 논의",
+        "date": "2025-09-05 18:40",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=570958"
+    },
+    {
+        "title": "구글·애플 인앱결제 강제 금지 실효성 높여야",
+        "date": "2025-09-05 18:36",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1273982&inflow=N"
+    },
+    {
+        "title": "구글·애플 갑질에 시름하는 韓 게임사…법 보완해야",
+        "date": "2025-09-05 18:32",
+        "link": "https://n.news.naver.com/mnews/article/648/0000039544?sid=105"
+    },
+    {
+        "title": "레이저폰 돌풍에, 모토로라 2분기 폴더블폰 세계 2위...1위는 화웨이",
+        "date": "2025-09-05 18:30",
+        "link": "https://n.news.naver.com/mnews/article/025/0003467108?sid=101"
+    },
+    {
+        "title": "구글·애플 앱수수료 피해 심각…사업자 보복 금지해야",
+        "date": "2025-09-05 18:24",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=451300"
+    },
+    {
+        "title": "삼성전자 폴더블폰, 모토로라에 추월…2분기 점유율 '3위'",
+        "date": "2025-09-05 18:06",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=810148"
+    },
+    {
+        "title": "삼성전자, IFA 2025 프레스 콘퍼런스에서 비전과 신제품 소개...3년 내 ...",
+        "date": "2025-09-05 18:06",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=180279"
+    },
+    {
+        "title": "[IFA 2025] 獨 IFA 성대한 개막…삼성·LG 'AI홈' 공세에 中기업도 기술 ...",
+        "date": "2025-09-05 18:04",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=810042"
+    },
+    {
+        "title": "삼성 '나를 알아주는' AI 홈, 일상이 된다 3년 내 10억대 확산 전망",
+        "date": "2025-09-05 17:58",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=238254"
+    },
+    {
+        "title": "거대 플랫폼 ‘인앱결제’ 강제, 소비자 불만 ‘나몰라라’",
+        "date": "2025-09-05 17:50",
+        "link": "https://www.m-economynews.com/news/article.html?no=59585"
+    },
+    {
+        "title": "OLED로 되살린 '박서보 색채묘법'…기술로 빚은 자연을 만나다 [조상인...",
+        "date": "2025-09-05 17:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004529726?sid=103"
+    },
+    {
+        "title": "국회, 구글·애플 인앱 결제 피해 논의···중소 게임사 보호 모색",
+        "date": "2025-09-05 17:40",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415041"
+    },
+    {
+        "title": "구글·애플 수수료 30% 떼면 남는 건 0…제도 보완 절실 게임사들 호소",
+        "date": "2025-09-05 17:39",
+        "link": "https://n.news.naver.com/mnews/article/119/0002999458?sid=105"
+    },
+    {
+        "title": "[IFA 2025] 삼성·LG의 독일 스마트홈 가보니…“빅스비, 냉장고 문 열어...",
+        "date": "2025-09-05 17:36",
+        "link": "https://n.news.naver.com/mnews/article/081/0003572162?sid=101"
+    },
+    {
+        "title": "서강대, 삼성디스플레이와 산학 협력 방안 논의",
+        "date": "2025-09-05 17:36",
+        "link": "https://news.unn.net/news/articleView.html?idxno=583537"
+    },
+    {
+        "title": "삼성전자 “QLED, 우리가 진짜”…허위광고 논란 중국 기업 겨냥",
+        "date": "2025-09-05 17:32",
+        "link": "https://n.news.naver.com/mnews/article/028/0002764943?sid=101"
+    },
+    {
+        "title": "삼성, 모토로라에 밀려 폴더블폰 시장 3위...1위는 화웨이",
+        "date": "2025-09-05 17:27",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389259?sid=105"
+    },
+    {
+        "title": "쿤달, 이마트 트레이더스 단독 '콜라겐 앤 애플사이다 비니거 탈모샴푸...",
+        "date": "2025-09-05 17:24",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252216"
+    },
+    {
+        "title": "쿤달, 이마트 트레이더스 단독 '콜라겐 앤 애플사이다 비니거 탈모샴푸...",
+        "date": "2025-09-05 17:20",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96434"
+    },
+    {
+        "title": "레노버, 컨슈머·비즈니스·모바일 전 영역 아우르는 AI 혁신 포트폴리...",
+        "date": "2025-09-05 17:10",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36354"
+    },
+    {
+        "title": "'폴더블' 판도 뒤집혔다···삼성전자 3위, 화웨이·모토로라 양강 부상",
+        "date": "2025-09-05 17:09",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2325550"
+    },
+    {
+        "title": "서강대, 삼성디스플레이와 연구·인재 양성 협력 확대",
+        "date": "2025-09-05 17:06",
+        "link": "https://n.news.naver.com/mnews/article/011/0004529688?sid=102"
+    },
+    {
+        "title": "서강대, 삼성디스플레이와 연구·인재 산학협력 방안 논의",
+        "date": "2025-09-05 17:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0015608543?sid=102"
+    },
+    {
+        "title": "삼성, 2분기 폴더블폰 시장서 모토로라 밀려 3위…3분기에 따라잡는다",
+        "date": "2025-09-05 17:04",
+        "link": "https://n.news.naver.com/mnews/article/448/0000554928?sid=101"
+    },
+    {
+        "title": "삼성전자, 2분기 폴더블폰 점유율 3위…화웨이·모토로라에 밀려",
+        "date": "2025-09-05 17:02",
+        "link": "https://www.newspim.com/news/view/20250905000820"
+    },
+    {
+        "title": "마이크로 RGB LED TV, 韓 디스플레이 재도약 계기",
+        "date": "2025-09-05 17:00",
+        "link": "https://dealsite.co.kr/articles/147722"
+    },
+    {
+        "title": "2분기 폴더블폰 시장서 돌풍 일으킨 모토로라... 삼성 꺾고 2위",
+        "date": "2025-09-05 16:59",
+        "link": "https://n.news.naver.com/mnews/article/366/0001105821?sid=105"
+    },
+    {
+        "title": "30%대 구글·애플 앱수수료 피해 심각…대폭 낮춰야",
+        "date": "2025-09-05 16:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015608532?sid=105"
+    },
+    {
+        "title": "서강대-삼성디스플레이, 산학 협력 방안 논의",
+        "date": "2025-09-05 16:54",
+        "link": "https://dhnews.co.kr/news/view/1065599063127980"
+    },
+    {
+        "title": "삼성 폴더블폰, 모토로라에 밀려 3위…3분기엔 강세 전망",
+        "date": "2025-09-05 16:44",
+        "link": "https://www.tjb.co.kr/news05/bodo/view/id/83676"
+    },
+    {
+        "title": "AI 혁신 제품 공개한 '레노버 이노베이션 월드 2025'",
+        "date": "2025-09-05 16:44",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=51479"
+    },
+    {
+        "title": "갤럭시 신상 총공세...아이폰17 공개에 맞불",
+        "date": "2025-09-05 16:43",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389250?sid=105"
+    },
+    {
+        "title": "삼성전자, 독일 베를린서 '삼성 프레스 콘퍼런스' 개최",
+        "date": "2025-09-05 16:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=275612"
+    },
+    {
+        "title": "구글·애플 보복 두려워 신고 못 하는 앱 개발사… “인앱결제 강제 방...",
+        "date": "2025-09-05 16:41",
+        "link": "https://n.news.naver.com/mnews/article/366/0001105811?sid=105"
+    },
+    {
+        "title": "삼성전자, 최신 갤럭시 AI 경험 제공···'갤럭시 S25 FE' 공개",
+        "date": "2025-09-05 16:40",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=113810"
+    },
+    {
+        "title": "삼성, 모토로라 급부상에 폴더블 점유율 '반토막'...3분기 반등 전망",
+        "date": "2025-09-05 16:38",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=839195"
+    },
+    {
+        "title": "'21%→9%' 삼성전자, 2분기 폴더블폰 3위로 하락...3분기는 다르다",
+        "date": "2025-09-05 16:36",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=268010"
+    },
+    {
+        "title": "삼성전자, '갤럭시 탭 S11 시리즈' 공개",
+        "date": "2025-09-05 16:34",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1072661"
+    },
+    {
+        "title": "레노버, 컨슈머-비즈니스-모바일 전 영역 아우르는 AI 혁신 포트폴리오...",
+        "date": "2025-09-05 16:34",
+        "link": "https://kbench.com/?q=node/271075"
+    },
+    {
+        "title": "애플, 아이폰 17 시리즈 공개…수혜주를 찾아라",
+        "date": "2025-09-05 16:28",
+        "link": "https://www.ajunews.com/view/20250905161528466"
+    },
+    {
+        "title": "넷마블 ‘뱀피르’, 출시 9일 만에 구글·애플 매출 1위",
+        "date": "2025-09-05 16:20",
+        "link": "https://www.cnbnews.com/news/article.html?no=748490"
+    },
+    {
+        "title": "공개 임박 삼성 '트라이폴드폰', 화웨이·애플 추격 막을까",
+        "date": "2025-09-05 16:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=374164"
+    },
+    {
+        "title": "삼성 폴더블폰, 모토로라에 추월 당했다… 점유율 3위로 '뚝'",
+        "date": "2025-09-05 16:12",
+        "link": "https://www.ajunews.com/view/20250905160604457"
+    },
+    {
+        "title": "삼성D 美특허 1건 추가로 유효 인정...BOE 분쟁서 우위 또 확보",
+        "date": "2025-09-05 16:06",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40372"
+    },
+    {
+        "title": "삼성전자 2분기 폴더블폰 점유율 3위로 밀려, 화웨이 1위 모토로라 2위",
+        "date": "2025-09-05 16:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410745"
+    },
+    {
+        "title": "유비리서치 삼성·LGD, 中BOE 맹추격에도 기술 격차 여전",
+        "date": "2025-09-05 16:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1267285"
+    },
+    {
+        "title": "레노버, 컨슈머·비즈니스·모바일 전 영역 아우르는 AI 혁신 포트폴리...",
+        "date": "2025-09-05 15:56",
+        "link": "https://www.viva100.com/article/20250905500703"
+    },
+    {
+        "title": "레노버, AI 혁신 포트폴리오 공개 ··· PC·모바일 시장 선도 박차",
+        "date": "2025-09-05 15:50",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=205050"
+    },
+    {
+        "title": "새로운 소득 작물로 가능성 보여…진안서 고품질로 수확된 '이 과일'",
+        "date": "2025-09-05 15:48",
+        "link": "https://www.wikitree.co.kr/articles/1078714"
+    },
+    {
+        "title": "삼성전자, IFA에서 원UI 8 탑재한 '갤럭시 S25 FE' 공개...국내 출시는 1...",
+        "date": "2025-09-05 15:47",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330740"
+    },
+    {
+        "title": "레노버, 이노베이션 월드 2025서 신제품 라인업 선봬",
+        "date": "2025-09-05 15:46",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3314390"
+    },
+    {
+        "title": "2Q 폴더블폰 시장 45% 성장…삼성, 모토로라 밀려 3위",
+        "date": "2025-09-05 15:44",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1273927&inflow=N"
+    },
+    {
+        "title": "BOE, 아이폰17 OLED 공급 승인 임박···삼성D 물량 일부 가져갈 듯",
+        "date": "2025-09-05 15:40",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415007"
+    },
+    {
+        "title": "“삼성 ‘폴더블 왕좌’ 흔들…화웨이 45%·모토로라 28%” [MOVIEW]",
+        "date": "2025-09-05 15:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204239?sid=105"
+    },
+    {
+        "title": "中 대체할까…애플, 인도서 90억달러 매출로 사상 최고치",
+        "date": "2025-09-05 15:33",
+        "link": "https://n.news.naver.com/mnews/article/018/0006108152?sid=101"
+    },
+    {
+        "title": "삼성전자, 2분기 폴더블폰 점유율 9%…모토로라에 2위 내줘",
+        "date": "2025-09-05 15:28",
+        "link": "https://n.news.naver.com/mnews/article/014/0005402345?sid=105"
+    },
+    {
+        "title": "모토로라에 추월당한 삼성 폴더블폰 …2분기 점유율 3위로 밀려",
+        "date": "2025-09-05 15:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008469225?sid=105"
+    },
+    {
+        "title": "중국 위협 현실 됐다…삼성 폴더블폰, 中에 밀려 3위로 추락",
+        "date": "2025-09-05 15:20",
+        "link": "https://n.news.naver.com/mnews/article/008/0005246232?sid=105"
+    },
+    {
+        "title": "레노버, '이노베이션 월드 2025'에서 신제품 라인업 공개",
+        "date": "2025-09-05 15:20",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=645343"
+    },
+    {
+        "title": "애플-쎄렌스, AI 음성인식 특허 놓고 법정 공방",
+        "date": "2025-09-05 15:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589939"
+    },
+    {
+        "title": "애플, 브라질 앱스토어 경제 효과 강조…규제 압박 돌파구 찾을까",
+        "date": "2025-09-05 15:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589915"
+    },
+    {
+        "title": "거대한 카메라섬, 아이폰 이어 갤럭시도?…갤S26 엣지 보니",
+        "date": "2025-09-05 15:12",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=277267"
+    },
+    {
+        "title": "애플, iOS 26부터 카플레이 영상 재생 허용…제조사 지원이 관건",
+        "date": "2025-09-05 15:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589946"
+    },
+    {
+        "title": "'출시 D-5' 완전히 새로운 애플워치 시리즈11…사야 할 이유 5가지",
+        "date": "2025-09-05 15:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589910"
+    },
+    {
+        "title": "삼성, 폴더블폰 시장서 모토로라에 밀려 3위...3분기엔 강세 전망",
+        "date": "2025-09-05 15:08",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=675380"
+    },
+    {
+        "title": "삼성전자, S25 FE로 프리미엄 시장 공략 강화…3단 폴더블 출시도 임박",
+        "date": "2025-09-05 15:08",
+        "link": "https://news.mtn.co.kr/news-detail/2025090514472450174"
+    },
+    {
+        "title": "[문제적 섹터] 폴더블폰 대중화 청신호…주가도 승승장구 할까?",
+        "date": "2025-09-05 15:08",
+        "link": "https://news.mtn.co.kr/news-detail/2025090514554216285"
+    },
+    {
+        "title": "아이폰17 공개 임박에 내년 폴더블까지…韓 부품사 웃는다",
+        "date": "2025-09-05 15:06",
+        "link": "https://n.news.naver.com/mnews/article/018/0006108085?sid=101"
+    },
+    {
+        "title": "中 화웨이, 세계 폴더블 스마트폰 시장 1위…삼성 3위",
+        "date": "2025-09-05 15:05",
+        "link": "https://n.news.naver.com/mnews/article/031/0000963056?sid=105"
+    },
+    {
+        "title": "갤럭시 S26 엣지, 아이폰 17 호불호 디자인 따라하기?... 독창성 제로급...",
+        "date": "2025-09-05 15:04",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803768"
+    },
+    {
+        "title": "삼성전자, 폴더블 시장서 3위…모토로라에 밀려",
+        "date": "2025-09-05 15:04",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185306"
+    },
+    {
+        "title": "“OLED TV·모니터 쌍끌이”…LGD, 하반기 흑자전환 ‘청신호’",
+        "date": "2025-09-05 15:02",
+        "link": "https://n.news.naver.com/mnews/article/011/0004529634?sid=101"
+    },
+    {
+        "title": "삼성, 폴더블폰 점유율 3위로 밀려…3분기 반등 주목",
+        "date": "2025-09-05 14:58",
+        "link": "https://www.socialvalue.kr/news/view/1065592379084689"
+    },
+    {
+        "title": "전세계 폴더블 스마트폰 시장, 2Q 전년比 45%↑…모토로라 2위 ‘급부상...",
+        "date": "2025-09-05 14:54",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=775534"
+    },
+    {
+        "title": "LG Display to benefit from expected OLED demand boost this year: report",
+        "date": "2025-09-05 14:54",
+        "link": "https://n.news.naver.com/mnews/article/001/0015608101?sid=104"
+    },
+    {
+        "title": "삼성, 모토로라 밀려 2분기 폴더블폰 3위…‘갤폴7’이 3분기 뒤집을까",
+        "date": "2025-09-05 14:53",
+        "link": "https://n.news.naver.com/mnews/article/081/0003572106?sid=105"
+    },
+    {
+        "title": "RGB 마이크로 LED TV, 한국 디스플레이 재도약 '메기'역할할 것",
+        "date": "2025-09-05 14:52",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40368"
+    },
+    {
+        "title": "아이폰 17, 'RAM 괴물'로 등장?…최대 12GB 탑재 전망",
+        "date": "2025-09-05 14:52",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535945"
+    },
+    {
+        "title": "LG디스플레이, 대형 OLED 수요…실적 턴어라운드 기대감↑",
+        "date": "2025-09-05 14:50",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677460"
+    },
+    {
+        "title": "거대한 카메라섬, 아이폰 이어 갤럭시도?…갤S26 엣지 보니",
+        "date": "2025-09-05 14:49",
+        "link": "https://n.news.naver.com/mnews/article/003/0013464025?sid=105"
+    },
+    {
+        "title": "삼성, 2분기 폴더블 점유율 반토막…3분기 반등 기대",
+        "date": "2025-09-05 14:48",
+        "link": "https://www.asiatime.co.kr/article/20250905500297"
+    },
+    {
+        "title": "애플, '아이폰17 에어·프로' 이렇게 바뀐다. 기본 용량 256GB에 가격도 ...",
+        "date": "2025-09-05 14:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535943"
+    },
+    {
+        "title": "삼성, 폴더블 스마트폰 세계 시장 점유율 3위로 하락",
+        "date": "2025-09-05 14:40",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=300628"
+    },
+    {
+        "title": "화웨이 2세대 '트리폴드폰' 출격…삼성 '갤럭시Z 트라이폴드' 경쟁",
+        "date": "2025-09-05 14:36",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677426"
+    },
+    {
+        "title": "데포랩, BOE에 OLED 선형 소스 첫 공급",
+        "date": "2025-09-05 14:36",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40363"
+    },
+    {
+        "title": "삼성전자, 폴더블 시장 3위 추락…모토로라에 밀렸다",
+        "date": "2025-09-05 14:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710298"
+    },
+    {
+        "title": "中 디스플레이, 韓 추월 임박…세트 경쟁력이 관건",
+        "date": "2025-09-05 14:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710296"
+    },
+    {
+        "title": "2분기 폴더블 시장 45% 성장…모토로라, 삼성 제치고 2위",
+        "date": "2025-09-05 14:26",
+        "link": "https://n.news.naver.com/mnews/article/119/0002999336?sid=105"
+    },
+    {
+        "title": "[FRIEZE 2025] LG OLED kindles Park Seo-bo’s nature-born hues at Frieze ...",
+        "date": "2025-09-05 14:26",
+        "link": "https://www.koreatimes.co.kr/path/A2025090511320004607"
+    },
+    {
+        "title": "모토로라에 밀린 삼성 폴더블폰…2분기 세계 점유율 반토막",
+        "date": "2025-09-05 14:15",
+        "link": "https://n.news.naver.com/mnews/article/277/0005647655?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤 탭 S11 시리즈' 공개…가격 99만8800원부터",
+        "date": "2025-09-05 14:12",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3039506"
+    },
+    {
+        "title": "국토지리정보원, 애플의 고정밀 국내 지도 국외반출 결정 유보",
+        "date": "2025-09-05 14:12",
+        "link": "http://mcnews.co.kr/84851"
+    },
+    {
+        "title": "모토로라, 삼성 제치고 폴더블폰 세계 2위 등극…화웨이 독주 지속",
+        "date": "2025-09-05 14:06",
+        "link": "https://www.tokenpost.kr/news/tech/283173"
+    },
+    {
+        "title": "아이폰17 시리즈 9일 공개…韓 부품 업체 수혜 전망",
+        "date": "2025-09-05 14:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025090513355526894"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 시장서도 고전…모토로라에 밀려 3위",
+        "date": "2025-09-05 14:01",
+        "link": "https://n.news.naver.com/mnews/article/082/0001343450?sid=101"
+    },
+    {
+        "title": "이충훈 유비리서치 대표 韓 디스플레이 위기론은 오해…세트업체 경쟁...",
+        "date": "2025-09-05 14:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322008"
+    },
+    {
+        "title": "삼성전자, One UI 8 탑재 '갤럭시 S25 FE' 공개…국내 19일 출시",
+        "date": "2025-09-05 14:00",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3039505"
+    },
+    {
+        "title": "내년 OLED TV 패널 중 LG디스플레이 양산 비중 85%",
+        "date": "2025-09-05 13:56",
+        "link": "https://n.news.naver.com/mnews/article/374/0000461499?sid=101"
+    },
+    {
+        "title": "삼성전자, 최신 갤럭시 AI 경험을 제공하는 '갤럭시 S25 FE' 공개",
+        "date": "2025-09-05 13:54",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=68743"
+    },
+    {
+        "title": "삼성전자, 대화면에 최적화된 AI 탑재한 '갤럭시 탭 S11 시리즈' 공개",
+        "date": "2025-09-05 13:52",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=220883"
+    },
+    {
+        "title": "정부, 애플이 요청한 고정밀 지도 반출 결정도 '연기'",
+        "date": "2025-09-05 13:52",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202509051110589992"
+    },
+    {
+        "title": "삼성전자, 2분기 폴더블폰 순위 모토로라에 밀려 3위 기록",
+        "date": "2025-09-05 13:50",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=119434"
+    },
+    {
+        "title": "삼성전자, 올 2분기 폴더블폰 시장서 모토로라 밀려 3위",
+        "date": "2025-09-05 13:48",
+        "link": "https://n.news.naver.com/mnews/article/079/0004063050?sid=101"
+    },
+    {
+        "title": "스마트폰용 OLED 성장세 견조…2028년 공급 부족 가능성",
+        "date": "2025-09-05 13:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389215?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE 공개",
+        "date": "2025-09-05 13:46",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201883"
+    },
+    {
+        "title": "삼성전자, 최신 AI 경험 담은 '갤럭시 S25 FE' 공개",
+        "date": "2025-09-05 13:46",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=220881"
+    },
+    {
+        "title": "폴더블폰 왕좌 흔들린 삼성…세계 시장 점유율 3위로 추락",
+        "date": "2025-09-05 13:45",
+        "link": "https://n.news.naver.com/mnews/article/029/0002980396?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 탭 S11 시리즈 공개",
+        "date": "2025-09-05 13:44",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201887"
+    },
+    {
+        "title": "갤럭시 폴드, 2분기 폴더블폰 시장서 모토로라에 밀렸다",
+        "date": "2025-09-05 13:40",
+        "link": "https://n.news.naver.com/mnews/article/586/0000111032?sid=101"
+    },
+    {
+        "title": "기술은 선두인데... '세트 약화·노동 규제'가 불안 키우는 K-디스플레이",
+        "date": "2025-09-05 13:38",
+        "link": "https://n.news.naver.com/mnews/article/119/0002999317?sid=101"
+    },
+    {
+        "title": "삼성, 폴더블폰 시장서 모토로라 밀려 3위…3분기 강세 전망",
+        "date": "2025-09-05 13:36",
+        "link": "https://n.news.naver.com/mnews/article/374/0000461495?sid=101"
+    },
+    {
+        "title": "모토로라에 밀렸다 반토막 난 삼성…하반기 역전 '기대'",
+        "date": "2025-09-05 13:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005180741?sid=105"
+    },
+    {
+        "title": "M&amp;A 하라 월가 충고에 '시리 강화'로 응수한 애플",
+        "date": "2025-09-05 13:06",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49802"
+    },
+    {
         "title": "올해 TV 더 많이 판다…삼성·LG 자신감에 들뜬 '이 회사'",
         "date": "2025-09-05 12:51",
         "link": "https://n.news.naver.com/mnews/article/015/0005180732?sid=101"
@@ -130,14 +790,14 @@
         "link": "https://www.goodkyung.com/news/articleView.html?idxno=271683"
     },
     {
-        "title": "유그린(UGREEN), 애플·안드로이드 아우르는 ‘Qi2 25W 무선 충전’ 신제...",
-        "date": "2025-09-05 11:00",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160268486448384"
-    },
-    {
         "title": "유그린, 애플·안드로이드용 ‘Qi2 무선충전기’ 신제품 출시",
         "date": "2025-09-05 11:00",
         "link": "https://n.news.naver.com/mnews/article/117/0003984790?sid=103"
+    },
+    {
+        "title": "유그린(UGREEN), 애플·안드로이드 아우르는 ‘Qi2 25W 무선 충전’ 신제...",
+        "date": "2025-09-05 11:00",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160268486448384"
     },
     {
         "title": "구글 독점 제동...삼성·애플에 MS·오픈AI 탑재 가능성 열리나",
@@ -360,11 +1020,6 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589734"
     },
     {
-        "title": "넷마블 뱀피르, 출시 9일만에 구글·애플 매출 1위",
-        "date": "2025-09-05 08:56",
-        "link": "https://n.news.naver.com/mnews/article/448/0000554739?sid=101"
-    },
-    {
         "title": "삼성전자, IFA서 '갤럭시 S25 FE' 공개…AI 기능 강화",
         "date": "2025-09-05 08:50",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=374065"
@@ -400,21 +1055,6 @@
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535869"
     },
     {
-        "title": "[더벨][하이테크 소부장 리포트]'PR 사업 전환' 삼양엔씨켐, 국산화 주역...",
-        "date": "2025-09-05 08:02",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509021619370280102695"
-    },
-    {
-        "title": "[더벨][IFA 2025]삼성전자, 갤럭시 신제품 11년 만에 '독일 출격'",
-        "date": "2025-09-05 07:58",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509041625146280106137"
-    },
-    {
-        "title": "[더벨][IFA 2025]삼성, 눈치 빠른 스마트홈 제시 '앰비언트 AI 전면'",
-        "date": "2025-09-05 07:58",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509041727205440105279"
-    },
-    {
         "title": "삼성전자, IFA서 `갤럭시 S25 FE·탭 S11` 시리즈 공개",
         "date": "2025-09-05 07:58",
         "link": "https://www.gpkorea.com/news/articleView.html?idxno=133308"
@@ -445,12 +1085,12 @@
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410604"
     },
     {
-        "title": "LG디스플레이 영업손익 삼성디스플레이와 격차 벌어져, 정철동 사업구조...",
+        "title": "LG디스플레이 흑자와 적자 왔다갔다, 정철동 수익성 중심 사업구조 개편...",
         "date": "2025-09-05 07:12",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410602"
     },
     {
-        "title": "LG디스플레이 재무 부담에 공격적 투자 어려워, 정철동 인공지능으로 돌...",
+        "title": "정철동 LG디스플레이 재무구조 개선과 내실경영 집중, 인공지능으로 돌...",
         "date": "2025-09-05 07:12",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410603"
     },
@@ -473,1505 +1113,5 @@
         "title": "[ANDA 포커스] 파인엠텍, 의료기기·ESS로 포트폴리오 확장…美 시장 공...",
         "date": "2025-09-05 07:00",
         "link": "https://www.newspim.com/news/view/20250903001111"
-    },
-    {
-        "title": "AI PC 확산⋯ ‘저전력·고효율 OLED 패널’ 주목",
-        "date": "2025-09-05 06:52",
-        "link": "https://www.viva100.com/article/20250904501098"
-    },
-    {
-        "title": "정부, 애플 '고정밀 지도' 반출 결정 12월까지 유보",
-        "date": "2025-09-05 06:36",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461396?sid=101"
-    },
-    {
-        "title": "[IFA 2025] 삼성 'AI 홈', 일상의 대변화 예고… 마이크로 RGB TV·로청 이...",
-        "date": "2025-09-05 06:18",
-        "link": "https://www.ajunews.com/view/20250905055222957"
-    },
-    {
-        "title": "구글·애플, 법원 판결로 시간 벌었지만 장기적으로 '독' 될 수도",
-        "date": "2025-09-05 06:02",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202509050313501529be84d87674_1/article.html"
-    },
-    {
-        "title": "갤럭시 S26 실물 모형이라는데.. 아이폰 17이야? 뭐야? [1일IT템]",
-        "date": "2025-09-05 06:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005402033?sid=105"
-    },
-    {
-        "title": "AI, 이제는 기본…삼성, S25 FE·탭 S11로 플래그십 경험 확장[IFA 2025]",
-        "date": "2025-09-05 06:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0002999064?sid=101"
-    },
-    {
-        "title": "베일벗는 '아이폰17'…삼성·LG 부품사, 애플發 훈풍에 실적반등 '신호탄...",
-        "date": "2025-09-05 06:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=773873"
-    },
-    {
-        "title": "SK하이닉스가 쏜 '성과급 개선안'…삼성 계열사 '흔들'",
-        "date": "2025-09-05 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013462775?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시S25 FE·갤럭시 탭 S11 공개",
-        "date": "2025-09-05 05:57",
-        "link": "https://n.news.naver.com/mnews/article/092/0002389147?sid=105"
-    },
-    {
-        "title": "[글로벌 비즈 브리핑] 中 화웨이. 두 번째 '트리폴드' 스마트폰 출시…...",
-        "date": "2025-09-05 04:48",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461377?sid=104"
-    },
-    {
-        "title": "中 화웨이, 두 번째 '트리폴드' 스마트폰 출시…해외시장 복귀 시동",
-        "date": "2025-09-05 04:37",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461372?sid=104"
-    },
-    {
-        "title": "애플 고정밀 지도 반출 '잠정 보류'…정부, 안보 우려에 60일 연장",
-        "date": "2025-09-05 03:22",
-        "link": "https://www.tokenpost.kr/news/tech/283042"
-    },
-    {
-        "title": "美 업체, 韓中 업체에 소송제기… “LCD TV 특허 침해 제품 판매”",
-        "date": "2025-09-05 03:04",
-        "link": "https://n.news.naver.com/mnews/article/020/0003658935?sid=101"
-    },
-    {
-        "title": "화웨이, 2세대 트리폴드 스마트폰 출시…해외시장 복귀 시동",
-        "date": "2025-09-05 01:20",
-        "link": "https://n.news.naver.com/mnews/article/293/0000072034?sid=105"
-    },
-    {
-        "title": "[IFA2025] 삼성전자 '갤럭시 탭 S11 시리즈' 공개 대화면에 최적화된 AI...",
-        "date": "2025-09-05 00:22",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2094596"
-    },
-    {
-        "title": "성능은 높이고 두께는 줄이고...삼성전자, '갤럭시 탭 S11 시리즈' 선봬",
-        "date": "2025-09-05 00:10",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=267828"
-    },
-    {
-        "title": "더 강화된 AI...삼성전자, '갤럭시 S25 FE' 공개",
-        "date": "2025-09-05 00:06",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=267827"
-    },
-    {
-        "title": "[IFA2025] 삼성전자 '갤럭시 S25 FE' 공개..직관적이고 개인화된 AI",
-        "date": "2025-09-05 00:02",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2094595"
-    },
-    {
-        "title": "삼성전자, IFA서 '갤럭시 S25 FE·탭 S11' 공개…하반기 경쟁 신호탄",
-        "date": "2025-09-05 00:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000423109?sid=105"
-    },
-    {
-        "title": "실속형 ‘갤럭시 S25 FE’·더 얇아진 ‘탭 S11 울트라’ 첫공개",
-        "date": "2025-09-05 00:01",
-        "link": "https://n.news.naver.com/mnews/article/025/0003466911?sid=101"
-    },
-    {
-        "title": "[IFA2025] 3년 내 10억 대의 삼성전자 AI 기기가 전 세계 가정에 확산될...",
-        "date": "2025-09-04 23:46",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2094594"
-    },
-    {
-        "title": "넷마블 '뱀피르', 구글과 애플 매출 순위 동시 1위 달성",
-        "date": "2025-09-04 23:36",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=51461"
-    },
-    {
-        "title": "재주 넘는 사람 따로, 돈 버는 사람 따로?…구글 승소에 애플이 웃는 이...",
-        "date": "2025-09-04 23:29",
-        "link": "https://n.news.naver.com/mnews/article/009/0005553481?sid=101"
-    },
-    {
-        "title": "[IFA] 삼성전자, 'AI 홈' 리더십 자신감…향후 3년 내 10억대 보급",
-        "date": "2025-09-04 23:28",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3039474"
-    },
-    {
-        "title": "편리함 넘어 돌봄 받는다…삼성전자, AI홈 '미래 일상 현실로'",
-        "date": "2025-09-04 23:15",
-        "link": "https://n.news.naver.com/mnews/article/421/0008467760?sid=101"
-    },
-    {
-        "title": "5.1mm 초슬림 삼성, IFA 2025서 갤럭시 탭 S11 울트라 전격 공개",
-        "date": "2025-09-04 23:06",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535887"
-    },
-    {
-        "title": "삼성전자, 3년내 10억대 삼성 AI 기기 전 세계 가정 확산",
-        "date": "2025-09-04 23:06",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202509042258569990be44c0aacd_30"
-    },
-    {
-        "title": "[IFA2025] 삼성전자, '앰비언트 AI'로 완성하는 자유롭고 편리한 'AI 홈' ...",
-        "date": "2025-09-04 22:52",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=71112"
-    },
-    {
-        "title": "태양광·AMOLED 끝났다 웨어러블 최초 마이크로LED 탑재한 가민 '피닉...",
-        "date": "2025-09-04 22:46",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535856"
-    },
-    {
-        "title": "FE도 플래그십처럼 삼성, IFA 2025서 갤럭시 S25 FE 전격 공개",
-        "date": "2025-09-04 22:40",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535883"
-    },
-    {
-        "title": "삼성전자, IFA서 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 22:06",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3314088"
-    },
-    {
-        "title": "삼성전자, IFA서 '갤럭시 탭 S11 시리즈' 공개",
-        "date": "2025-09-04 21:58",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3314082"
-    },
-    {
-        "title": "삼성전자, 갤럭시탭 S11 시리즈 공개…大화면·AI 최적화",
-        "date": "2025-09-04 21:58",
-        "link": "http://www.metroseoul.co.kr/article/20250904500633"
-    },
-    {
-        "title": "진안군, 당도 15브릭스 이상 애플망고 수확 성공",
-        "date": "2025-09-04 21:58",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3314065"
-    },
-    {
-        "title": "대화면에 최적화된 AI 경험을 제공... 삼성전자,갤럭시 탭 S11 시리즈'...",
-        "date": "2025-09-04 21:56",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36342"
-    },
-    {
-        "title": "삼성전자, 합리적 가격·플래그십 성능 갖춘 갤럭시S25 FE 공개",
-        "date": "2025-09-04 21:46",
-        "link": "http://www.metroseoul.co.kr/article/20250904500621"
-    },
-    {
-        "title": "“아이폰→삼성폰 갈아탔다” 애플빠 홀리더니…삼성 ‘20만원’ 더 싼...",
-        "date": "2025-09-04 21:40",
-        "link": "https://n.news.naver.com/mnews/article/016/0002524410?sid=105"
-    },
-    {
-        "title": "삼성전자 김철기 부사장, 3년 내 10억 대의 삼성전자 AI 기기가 전 세계...",
-        "date": "2025-09-04 21:40",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36341"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, '역대 가장 얇은 5.1mm' 갤럭시 탭S11 시리즈 공개...",
-        "date": "2025-09-04 21:06",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=73686"
-    },
-    {
-        "title": "삼성 '갤럭시S25 FE' 獨 IFA에서 공개...국내 19일 출시",
-        "date": "2025-09-04 20:54",
-        "link": "https://www.newstree.kr/newsView/ntr202509040017"
-    },
-    {
-        "title": "[IFA 2025] 3년 내 삼성 AI 기기 10억 대가 전 세계 가정에 확산....삼성...",
-        "date": "2025-09-04 20:48",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=73685"
-    },
-    {
-        "title": "삼성전자, 대화면에 최적화된 AI 경험을 제공하는 '갤럭시 탭 S11 시리즈...",
-        "date": "2025-09-04 20:40",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=403363"
-    },
-    {
-        "title": "좁혀진 격차, 한·중 가전 ‘기술 대전’…IFA 2025 5일 베를린서 개막",
-        "date": "2025-09-04 20:27",
-        "link": "https://n.news.naver.com/mnews/article/032/0003394348?sid=101"
-    },
-    {
-        "title": "삼성전자, 최신 갤럭시 AI 경험 제공하는 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 20:26",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=403362"
-    },
-    {
-        "title": "삼성전자, 갤럭시 탭 S11 시리즈·갤럭시 S25 FE 공개…“AI 경험 강화”",
-        "date": "2025-09-04 20:22",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=775415"
-    },
-    {
-        "title": "삼성전자, 일상에 완전히 스며든 '앰비언트 AI'로 더 자유롭고 편리한 ...",
-        "date": "2025-09-04 20:16",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=403361"
-    },
-    {
-        "title": "삼성, '갤럭시 탭 S11 시리즈' 공개...대화면에 최적화된 AI 경험",
-        "date": "2025-09-04 20:12",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=675061"
-    },
-    {
-        "title": "LCD 특허 침해 주장 美업체…LG전자 등 19곳 무더기 소송",
-        "date": "2025-09-04 20:07",
-        "link": "https://n.news.naver.com/mnews/article/422/0000777871?sid=104"
-    },
-    {
-        "title": "삼성 'AI 홈' 확산 가속페달...3년내 AI기기 10억대 확산",
-        "date": "2025-09-04 20:02",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=675058"
-    },
-    {
-        "title": "삼성전자, '앰비언트 AI'로 더 자유롭고 편리한 'AI 홈' 완성",
-        "date": "2025-09-04 20:00",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36848"
-    },
-    {
-        "title": "삼성, '갤럭시 S25 FE' 공개…멀티모달 AI 경험 및 향상된 보안",
-        "date": "2025-09-04 19:56",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=675055"
-    },
-    {
-        "title": "삼성전자 10억대 AI 기기, 고객 일상 된다",
-        "date": "2025-09-04 19:38",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4373032"
-    },
-    {
-        "title": "3년내 AI기기 10억대 전망 삼성전자 '승부수' 던졌다 [IFA 2025]",
-        "date": "2025-09-04 19:37",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401986?sid=101"
-    },
-    {
-        "title": "3년내 AI기기 10억대 확산…삼성 'AI 홈' 확산 속도 낸다(종합)",
-        "date": "2025-09-04 19:35",
-        "link": "https://n.news.naver.com/mnews/article/001/0015606653?sid=101"
-    },
-    {
-        "title": "3년 안에 AI 기기 10억대 전세계로…삼성이 그린 'AI 홈'[IFA 2025]",
-        "date": "2025-09-04 19:31",
-        "link": "https://n.news.naver.com/mnews/article/277/0005647226?sid=101"
-    },
-    {
-        "title": "애플, 고정밀 지도 반출 또 연장…안보 우려 속 국토부 신중한 검토",
-        "date": "2025-09-04 19:28",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=838122"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S25 FE 공개…합리적 가격에 최신 AI 기능 탑재",
-        "date": "2025-09-04 19:26",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252115"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 19:24",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185245"
-    },
-    {
-        "title": "삼성전자, '갤럭시 탭 S11 시리즈' 공개...대화면 최적화 AI 경험 제공",
-        "date": "2025-09-04 19:06",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222913"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S25 FE 출시…AI 기능 강화로 대중성↑",
-        "date": "2025-09-04 19:06",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=838080"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, '갤럭시 탭 S11 시리즈' 공개",
-        "date": "2025-09-04 19:04",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=710189"
-    },
-    {
-        "title": "삼성전자, '갤럭시 탭 S11 시리즈' 공개...대화면에 최적화된 AI 스타일...",
-        "date": "2025-09-04 19:01",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000079641"
-    },
-    {
-        "title": "삼성전자, 독일 IFA서 '갤럭시 S25 FE' 공개…신규 보안 솔루션 도입",
-        "date": "2025-09-04 19:00",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1266818"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S25 FE' 공개...최신 갤럭시 AI 경험 제공",
-        "date": "2025-09-04 18:58",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222912"
-    },
-    {
-        "title": "삼성전자, 멀티모달 AI 탑재 '갤럭시 탭 S11 시리즈' 공개",
-        "date": "2025-09-04 18:54",
-        "link": "https://www.betanews.net/article/view/beta202509040108"
-    },
-    {
-        "title": "3년 내 10억대 AI 기기 글로벌 확산…삼성전자, IFA 2025서 'AI 홈' 비전...",
-        "date": "2025-09-04 18:54",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=195183"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자 “3년 내 삼성 AI 기기 10억대 확산”… 명령 없는 ...",
-        "date": "2025-09-04 18:54",
-        "link": "https://n.news.naver.com/mnews/article/366/0001105566?sid=105"
-    },
-    {
-        "title": "합리적 가격에 플래그십 성능…삼성 갤럭시 S25 FE 공개",
-        "date": "2025-09-04 18:53",
-        "link": "https://www.newspim.com/news/view/20250904001120"
-    },
-    {
-        "title": "삼성전자, 최신 갤럭시 AI 경험 제공하는 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:52",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000079642"
-    },
-    {
-        "title": "삼성전자, 최신 갤럭시 AI 품은 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:50",
-        "link": "https://www.betanews.net/article/view/beta202509040107"
-    },
-    {
-        "title": "[IFA 2025] 갤럭시AI 생태계 확장…삼성전자, '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:50",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=710182"
-    },
-    {
-        "title": "고정밀지도 반출, 구글 이어 애플 요구도 ‘유보’…12월에 결정",
-        "date": "2025-09-04 18:48",
-        "link": "https://n.news.naver.com/mnews/article/032/0003394339?sid=101"
-    },
-    {
-        "title": "애플, 내년 봄 LLM 기반 차세대 시리 공개…AI 검색 '월드 날리지 앤서스...",
-        "date": "2025-09-04 18:48",
-        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98741"
-    },
-    {
-        "title": "삼성전자, AI 태블릿의 진화…갤럭시 탭 S11 공개",
-        "date": "2025-09-04 18:47",
-        "link": "https://www.newspim.com/news/view/20250904001117"
-    },
-    {
-        "title": "[갤럭시이벤트] '태블릿도 AI'…삼성전자 '갤럭시탭S11' 선봬",
-        "date": "2025-09-04 18:46",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=144053"
-    },
-    {
-        "title": "[갤럭시이벤트] 삼성전자, '갤럭시S25FE' 공개…'엑시노스2400' 장착",
-        "date": "2025-09-04 18:46",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=144052"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 대화면 '갤럭시 탭 S11'…역대 가장 얇은 두께",
-        "date": "2025-09-04 18:42",
-        "link": "https://dealsite.co.kr/articles/147557"
-    },
-    {
-        "title": "삼성전자, 갤럭시 탭 S11 시리즈·갤럭시 S25 FE 공개",
-        "date": "2025-09-04 18:40",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461362?sid=101"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:40",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=94072"
-    },
-    {
-        "title": "삼성 '갤럭시 탭 S11 시리즈' 베일 벗어…최신 갤럭시 AI 지원",
-        "date": "2025-09-04 18:36",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1278402"
-    },
-    {
-        "title": "One UI 8 품었다…삼성전자, '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:36",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1278411"
-    },
-    {
-        "title": "집에서 쓰는 AI기기 3년내 10억대 전망... 삼성전자의'승부수'[IFA 개막...",
-        "date": "2025-09-04 18:33",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401928?sid=101"
-    },
-    {
-        "title": "삼성전자, 탭S11 공개… 갤럭시 AI로 승부수",
-        "date": "2025-09-04 18:32",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/04/2025090400049.html"
-    },
-    {
-        "title": "삼성전자, 베를린 IFA2025서 갤럭시 S25 FE 공개",
-        "date": "2025-09-04 18:32",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/03/2025090300043.html"
-    },
-    {
-        "title": "삼성, 갤럭시 S25 FE·갤럭시 탭 S11 첫 선…최신 갤럭시 AI 지원",
-        "date": "2025-09-04 18:32",
-        "link": "http://www.segyebiz.com/newsView/20250904515806?OutUrl=naver"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, '갤럭시 S25 FE' 공개…최신 'AI 경험' 제공",
-        "date": "2025-09-04 18:32",
-        "link": "https://dealsite.co.kr/articles/147553"
-    },
-    {
-        "title": "'조기 출격' 갤럭시 S25 FE·탭 S11, 삼성 하반기 실적 개선 시동",
-        "date": "2025-09-04 18:32",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347343?sid=105"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자 '갤럭시 AI' 진용 갖췄다…갤럭시 S25 FE·탭 S11 공개",
-        "date": "2025-09-04 18:32",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250904010002287"
-    },
-    {
-        "title": "“말이 돼? 폰보다 얇고 가벼운 태블릿”…삼성 ‘갤럭시탭S11’에 쏠린...",
-        "date": "2025-09-04 18:32",
-        "link": "https://n.news.naver.com/mnews/article/009/0005553387?sid=101"
-    },
-    {
-        "title": "태블릿도 폰처럼 얇고 가볍게 … 삼성전자 '갤럭시탭S11' 공개",
-        "date": "2025-09-04 18:32",
-        "link": "https://n.news.naver.com/mnews/article/009/0005553388?sid=105"
-    },
-    {
-        "title": "역대 갤럭시 탭 시리즈 중 가장 얇다…삼성 갤럭시 탭 S11 울트라 공개...",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401914?sid=101"
-    },
-    {
-        "title": "삼성전자, 베를린서 갤럭시 신제품 공개…애플 아이폰17 출시 앞두고 선...",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/015/0005180472?sid=101"
-    },
-    {
-        "title": "[IFA 2025] '갤럭시 탭S11 시리즈'도 삼성 AI홈 일원…멀티모달 AI·원UI...",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/138/0002204176?sid=105"
-    },
-    {
-        "title": "보급형 AI폰으로 애플 잡는다…삼성 '갤S25 FE' 유럽 출격 [IFA 2025]",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/011/0004529304?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시 탭 S11 시리즈 공개… “역대 가장 얇은 5.1mm”",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/366/0001105562?sid=105"
-    },
-    {
-        "title": "AI가 '프로 사진러' 만들어준다…삼성전자 'S25 FE' 공개 [IFA 2025]",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401913?sid=101"
-    },
-    {
-        "title": "유럽서 베일 벗은 ‘갤럭시 S25 FE’…국내 19일 출시 [IFA 2025]",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002524361?sid=101"
-    },
-    {
-        "title": " AI 가전, AI 스마트폰 시장 주도권 강화 삼성전자, 엠비언트 AI 전략 ...",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401916?sid=101"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S25 FE' 공개…AI·보안·카메라 다 잡았다",
-        "date": "2025-09-04 18:31",
-        "link": "https://n.news.naver.com/mnews/article/629/0000423099?sid=105"
-    },
-    {
-        "title": "“생활편의 AI 기능 탑재” 삼성전자, IFA서 갤럭시 S25 FE·탭 S11 공개",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/018/0006107140?sid=105"
-    },
-    {
-        "title": "[IFA 2025]베일 벗은 갤럭시 탭 S11 울트라…AI·생산성·디자인 삼박자",
-        "date": "2025-09-04 18:30",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025090218131727330"
-    },
-    {
-        "title": "삼성 '갤럭시 탭 S11 시리즈' 공개…대화면 최적화 AI 지원",
-        "date": "2025-09-04 18:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677274"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 갤럭시 탭S11 시리즈 공개… 출시일·가격은?",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/417/0001099457?sid=105"
-    },
-    {
-        "title": "삼성 역대급 가장 얇은 '갤탭 S11 울트라' 선봬…가격 159.8만원부터",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013462527?sid=105"
-    },
-    {
-        "title": "갤럭시 신화 잇는다⋯삼성전자, '갤럭시S25 FE·탭S11' 깜짝 공개 [IFA ...",
-        "date": "2025-09-04 18:30",
-        "link": "https://www.etoday.co.kr/news/view/2502562"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, '갤럭시 S25 FE' 공개…플래그십 수준의 갤럭시 A...",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/138/0002204175?sid=004"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 갤 S25FE·탭S11 공개…AI생태계 확장",
-        "date": "2025-09-04 18:30",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2111369"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, '갤럭시S25 FE' 공개… 19일 한국 출시",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/417/0001099456?sid=105"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S25 FE' 공개…최신 AI 경험 제공",
-        "date": "2025-09-04 18:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677299"
-    },
-    {
-        "title": "삼성 갤S25 FE 19일 출시…플래그십 기능 넣고 가격 뺐다",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013462526?sid=105"
-    },
-    {
-        "title": "TV·로봇청소기 둘러싸고 한·중 ‘기술 대결’[IFA 2025]",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/032/0003394333?sid=101"
-    },
-    {
-        "title": "[IFA 2025]삼성전자, One UI 8 품은 '갤럭시 S25 FE' 공개",
-        "date": "2025-09-04 18:30",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025090218005162769"
-    },
-    {
-        "title": "삼성, 독 IFA서 '갤럭시 S25 FE' 공개…최신 AI 기능 더 널리",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/001/0015606586?sid=105"
-    },
-    {
-        "title": "'슥슥' 대충 그려도 와! 이런 작품이…삼성, 초슬림 '갤럭시탭S11' 공개",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/008/0005245910?sid=105"
-    },
-    {
-        "title": "삼성, 갤럭시탭 S11 시리즈 공개…大화면 최적화 AI",
-        "date": "2025-09-04 18:30",
-        "link": "https://n.news.naver.com/mnews/article/277/0005647210?sid=101"
-    },
-    {
-        "title": "“애플, 초슬림 ‘에어’ 첫선…아이폰17 출하량 3.5%↑”",
-        "date": "2025-09-04 18:26",
-        "link": "https://n.news.naver.com/mnews/article/119/0002999003?sid=105"
-    },
-    {
-        "title": "[기획]삼성, 퀄컴서 ‘독립’ 가능할까…‘엑시노스’ 상찬 봇물",
-        "date": "2025-09-04 18:24",
-        "link": "https://n.news.naver.com/mnews/article/029/0002980291?sid=104"
-    },
-    {
-        "title": "애플 '고정밀 지도' 반출 결정 유보…12월까지 기한 연장",
-        "date": "2025-09-04 18:21",
-        "link": "https://n.news.naver.com/mnews/article/055/0001289773?sid=101"
-    },
-    {
-        "title": "삼성전자, ‘아이폰 왕국’ 일본에 도전장… ‘AI·위성통신·가격’ 3각...",
-        "date": "2025-09-04 18:20",
-        "link": "https://www.kukinews.com/article/view/kuk202509040211"
-    },
-    {
-        "title": "김철기 삼성전자 DA사업부장 3년 내 전 세계 가정에 AI 기기 10억대 확...",
-        "date": "2025-09-04 18:20",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222911"
-    },
-    {
-        "title": "정부, '애플 고정밀 국내 지도 국외반출' 결정 유보… 12월까지 기한 연...",
-        "date": "2025-09-04 18:16",
-        "link": "http://www.ikld.kr/news/articleView.html?idxno=319638"
-    },
-    {
-        "title": "“가격 낮추고 성능은 강화”…화웨이, 1년 만에 2세대 트리폴드폰 ‘메...",
-        "date": "2025-09-04 18:15",
-        "link": "https://n.news.naver.com/mnews/article/009/0005553383?sid=101"
-    },
-    {
-        "title": "“3년 내 삼성 AI 기기 10억대”…삼성전자 AI홈 공개 [IFA 2025]",
-        "date": "2025-09-04 18:15",
-        "link": "https://n.news.naver.com/mnews/article/025/0003466856?sid=101"
-    },
-    {
-        "title": "삼성전자, 이달 갤Z폴드7 생산계획 6만대 더 늘렸다",
-        "date": "2025-09-04 18:10",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=40335"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 18:06",
-        "link": "https://dealsite.co.kr/articles/147655"
-    },
-    {
-        "title": "LG디스플레이 4세대 OLED, 업계 최초 콘텐츠 재현력 검증 획득",
-        "date": "2025-09-04 18:02",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=174965"
-    },
-    {
-        "title": "3년내 AI기기 10억대 확산…세계로 퍼지는 삼성 'AI 홈'",
-        "date": "2025-09-04 18:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015606561?sid=101"
-    },
-    {
-        "title": "애플, 아이폰 17 출시 앞두고 선택한 中시장 공략법은?",
-        "date": "2025-09-04 17:56",
-        "link": "https://www.ajunews.com/view/20250904154527758"
-    },
-    {
-        "title": "정부, 구글 이어 애플 지도 반출 신청도 유보…60일 연장 후 결정",
-        "date": "2025-09-04 17:51",
-        "link": "https://n.news.naver.com/mnews/article/138/0002204172?sid=004"
-    },
-    {
-        "title": "정부, 구글 이어 애플 지도 반출도 '보류'",
-        "date": "2025-09-04 17:48",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=140600"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 17:46",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291957859662"
-    },
-    {
-        "title": "정부, 애플 '고정밀 지도 국외반출 요청' 결정도 유보",
-        "date": "2025-09-04 17:46",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406136"
-    },
-    {
-        "title": "[글로벌]2분기 폴더블 스마트폰 시장 삼성 점유율 대폭 하락",
-        "date": "2025-09-04 17:44",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241998"
-    },
-    {
-        "title": "'소비자 외면' 애플 비전 프로, 산업 현장에선 통했다!",
-        "date": "2025-09-04 17:44",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347337?sid=104"
-    },
-    {
-        "title": "IFA서 'AI 홈·고효율·로봇' 경쟁 벌인다…삼성·LG 등 신기술 출품",
-        "date": "2025-09-04 17:44",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=809877"
-    },
-    {
-        "title": "‘애플 고정밀 지도 국외 반출 요청’ 결정 유보한 정부…처리 기한 연...",
-        "date": "2025-09-04 17:42",
-        "link": "https://n.news.naver.com/mnews/article/022/0004065672?sid=101"
-    },
-    {
-        "title": "애플 '고정밀 지도' 반출 결정 유보…정부, 12월까지 기한 연장",
-        "date": "2025-09-04 17:42",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677341"
-    },
-    {
-        "title": "AI 서버기판 삼성전기, 초슬림폰은 LG이노텍",
-        "date": "2025-09-04 17:40",
-        "link": "https://news.mtn.co.kr/news-detail/2025090416405551092"
-    },
-    {
-        "title": "애플 '고정밀 지도' 반출 결정 유보…60일 연장",
-        "date": "2025-09-04 17:38",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=451261"
-    },
-    {
-        "title": "삼성전자 슬림폰 패키지 두께 개선 위해 소재업계 협력 필수",
-        "date": "2025-09-04 17:32",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414987"
-    },
-    {
-        "title": "[크랩] “아이폰 시대, 끝이 오나?” 역대 최대 위기라는 애플 근황",
-        "date": "2025-09-04 17:32",
-        "link": "https://n.news.naver.com/mnews/article/056/0012022725?sid=104"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 17:30",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=92902"
-    },
-    {
-        "title": "삼성 '두 번 접는' 폴더블폰, 한정판 전략?...5만대 소량 생산",
-        "date": "2025-09-04 17:30",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347331?sid=105"
-    },
-    {
-        "title": "국토부, 애플 '고정밀 지도' 반출 요청에…'유보'",
-        "date": "2025-09-04 17:30",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=499111"
-    },
-    {
-        "title": "고정밀 지도 국외반출, 애플도 ‘보류’...60일 유예",
-        "date": "2025-09-04 17:24",
-        "link": "https://www.etoday.co.kr/news/view/2503360"
-    },
-    {
-        "title": "애플 고정밀 지도 반출, 결론 또 미뤄져…정부 “12월까지 추가 검토”",
-        "date": "2025-09-04 17:22",
-        "link": "https://n.news.naver.com/mnews/article/117/0003984454?sid=105"
-    },
-    {
-        "title": "정부, 구글 이어 애플 지도 반출 결정 유보⋯12월까지 기한 연장",
-        "date": "2025-09-04 17:21",
-        "link": "https://n.news.naver.com/mnews/article/031/0000962784?sid=105"
-    },
-    {
-        "title": "삼성전자, 'IFA 2025'서 현실이 된 미래의 일상 'AI 홈' 공개",
-        "date": "2025-09-04 17:20",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=275520"
-    },
-    {
-        "title": "아이폰17 견제나선 삼성, 갤S25 FE 등 먼저 공개",
-        "date": "2025-09-04 17:20",
-        "link": "https://n.news.naver.com/mnews/article/015/0005180364?sid=101"
-    },
-    {
-        "title": "'애플 지도 반출' 결정 12월로 유보",
-        "date": "2025-09-04 17:18",
-        "link": "https://n.news.naver.com/mnews/article/277/0005647172?sid=101"
-    },
-    {
-        "title": "'고정밀 지도' 애플 반출도 60일간 결정 유보",
-        "date": "2025-09-04 17:16",
-        "link": "https://n.news.naver.com/mnews/article/079/0004062800?sid=101"
-    },
-    {
-        "title": "구글에 이어 애플 '고정밀 지도' 요청도 결정 유보‥60일 연장",
-        "date": "2025-09-04 17:16",
-        "link": "https://n.news.naver.com/mnews/article/214/0001447165?sid=101"
-    },
-    {
-        "title": "구글 이어 애플도 고정밀 국내지도 반출 유보…12월 재결정키로",
-        "date": "2025-09-04 17:10",
-        "link": "https://www.newspim.com/news/view/20250904001048"
-    },
-    {
-        "title": "정부, 애플 국내 지도 반출 신청 결정 12월로 연기",
-        "date": "2025-09-04 17:10",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347320?sid=101"
-    },
-    {
-        "title": "“애플에 ‘고정밀 지도’ 반출 안 돼”… 정부, 다시 결정 유보",
-        "date": "2025-09-04 17:06",
-        "link": "https://n.news.naver.com/mnews/article/658/0000118990?sid=101"
-    },
-    {
-        "title": "작고 강력해진 서브우퍼와 이클립사 오디오 추가... 삼성전자 사운드바...",
-        "date": "2025-09-04 17:02",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55927"
-    },
-    {
-        "title": "정부, 구글 이어 애플 '고정밀 지도 국외반출 요청' 결정 유보",
-        "date": "2025-09-04 17:01",
-        "link": "https://n.news.naver.com/mnews/article/469/0000885421?sid=101"
-    },
-    {
-        "title": "애플, 시리용 AI 웹 검색 도구 내년 출시...챗GPT와 경쟁 예상",
-        "date": "2025-09-04 17:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=202089"
-    },
-    {
-        "title": "애플, 내년 AI 기반 웹 검색 도구 출시… 시리·사파리·스포트라이트 ...",
-        "date": "2025-09-04 16:59",
-        "link": "https://n.news.naver.com/mnews/article/366/0001105516?sid=105"
-    },
-    {
-        "title": "애플 ‘고정밀 지도 반출’ 결정 연장…구글과 병합 심사",
-        "date": "2025-09-04 16:59",
-        "link": "https://n.news.naver.com/mnews/article/081/0003571745?sid=101"
-    },
-    {
-        "title": "정부, 고정밀 국내 지도 국외반출 또 유보…애플도 추가 검토",
-        "date": "2025-09-04 16:59",
-        "link": "https://n.news.naver.com/mnews/article/586/0000110956?sid=101"
-    },
-    {
-        "title": "가민, 마이크로LED 탑재 ‘피닉스 8 프로’ 시리즈 공개",
-        "date": "2025-09-04 16:57",
-        "link": "https://n.news.naver.com/mnews/article/018/0006107041?sid=105"
-    },
-    {
-        "title": "국토부, 구글 이어 애플의 고정밀지도 반출 요구도 '유보'…12월 결론",
-        "date": "2025-09-04 16:57",
-        "link": "https://n.news.naver.com/mnews/article/025/0003466820?sid=101"
-    },
-    {
-        "title": "정부, 구글 이어 애플 고정밀 지도 국외반출 결정 유보…12월까지 기한...",
-        "date": "2025-09-04 16:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589711"
-    },
-    {
-        "title": "정부, 애플 '고정밀 지도' 반출 결정 유보",
-        "date": "2025-09-04 16:51",
-        "link": "https://n.news.naver.com/mnews/article/011/0004529218?sid=101"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보인다",
-        "date": "2025-09-04 16:46",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=447974"
-    },
-    {
-        "title": "구글 독점 계약 풀리는 삼성·애플, MS·오픈AI도 기본앱으로 탑재될까",
-        "date": "2025-09-04 16:46",
-        "link": "https://n.news.naver.com/mnews/article/003/0013462322?sid=105"
-    },
-    {
-        "title": "‘고정밀 지도 반출’ 애플도 유보…60일 연장",
-        "date": "2025-09-04 16:45",
-        "link": "https://n.news.naver.com/mnews/article/056/0012022681?sid=101"
-    },
-    {
-        "title": "애플 '고정밀 지도' 반출 결정 유보…12월까지 기한 연장",
-        "date": "2025-09-04 16:42",
-        "link": "https://n.news.naver.com/mnews/article/001/0015606405?sid=101"
-    },
-    {
-        "title": "국토부, 애플 고정밀 국내 지도 국외반출 결정 유보",
-        "date": "2025-09-04 16:41",
-        "link": "https://n.news.naver.com/mnews/article/366/0001105503?sid=101"
-    },
-    {
-        "title": "애플 '고정밀 지도' 반출 심사, 안보 논란 속 12월 결론",
-        "date": "2025-09-04 16:40",
-        "link": "https://n.news.naver.com/mnews/article/421/0008467301?sid=101"
-    },
-    {
-        "title": "정부, 애플 '디지털지도 국외반출 요청' 최종 결정 유보…60일 연장",
-        "date": "2025-09-04 16:33",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461308?sid=101"
-    },
-    {
-        "title": "스마트워치 업계 최초 마이크로 LED 탑재…가민 ‘피닉스 8 프로’ 공개",
-        "date": "2025-09-04 16:30",
-        "link": "https://n.news.naver.com/mnews/article/022/0004065652?sid=101"
-    },
-    {
-        "title": "[속보] 정부, 고정밀 국내 지도 국외반출 또 유보…구글·애플 동시 심사...",
-        "date": "2025-09-04 16:25",
-        "link": "https://n.news.naver.com/mnews/article/088/0000968325?sid=101"
-    },
-    {
-        "title": "진안군, 당도 15브릭스 이상 애플망고 수확 성공",
-        "date": "2025-09-04 16:19",
-        "link": "https://n.news.naver.com/mnews/article/421/0008467234?sid=102"
-    },
-    {
-        "title": "비영업 요인 의존한 반등···LG디스플레이, AI·OLED 중심 전략 효과는...",
-        "date": "2025-09-04 16:18",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2324769"
-    },
-    {
-        "title": "KH바텍, '갤럭시 폴더블 열풍' 타고 재도약 노린다",
-        "date": "2025-09-04 16:18",
-        "link": "https://news.mtn.co.kr/news-detail/2025090415212617403"
-    },
-    {
-        "title": "LG OLED brings Park Seo-Bo's nature-inspired colors to life at Frieze Seo...",
-        "date": "2025-09-04 16:07",
-        "link": "https://n.news.naver.com/mnews/article/044/0000274244?sid=104"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선 봬",
-        "date": "2025-09-04 16:02",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=244823"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 15:54",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=403340"
-    },
-    {
-        "title": "삼성전자, 'IFA 2025'서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 15:50",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025090414520391916ed0c62d49_1/article.html"
-    },
-    {
-        "title": "아이폰17 출시 임박...SKT, AI 앞세워 가을 대반격 시동",
-        "date": "2025-09-04 15:50",
-        "link": "https://hbnpress.com/news/view/1065591203992024"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 내년 봄 출시 계획",
-        "date": "2025-09-04 15:37",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461295?sid=104"
-    },
-    {
-        "title": "삼성디스플레이 실적 상반기 이어 3분기도 '흐림', 내년은 폴더블 아이...",
-        "date": "2025-09-04 15:32",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410496"
-    },
-    {
-        "title": "가민, 마이크로LED 탑재 ‘피닉스 8 프로’ 시리즈 공개",
-        "date": "2025-09-04 15:15",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401738?sid=105"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 15:10",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406124"
-    },
-    {
-        "title": "삼성전자 '구글 반독점 소송'의 숨은 승자, 노태문 스마트폰 앱 기본탑...",
-        "date": "2025-09-04 15:08",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410502"
-    },
-    {
-        "title": "삼성전자, 'IFA 2025'서 미래의 일상 'AI 홈' 선보인다",
-        "date": "2025-09-04 15:08",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96319"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 15:06",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=65984"
-    },
-    {
-        "title": "애플워치 울트라3, 가격 동결될까…출시 전 마지막 힌트",
-        "date": "2025-09-04 15:04",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589669"
-    },
-    {
-        "title": "美특허 관리 기업, 中LCD패널 업체에 소송…글로벌 TV업체들 다수 포함",
-        "date": "2025-09-04 14:58",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=174278"
-    },
-    {
-        "title": "진안군, 아열대 작물 애플망고 …15브릭스 성공",
-        "date": "2025-09-04 14:54",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3027621"
-    },
-    {
-        "title": "3.5인치 IPS LCD 디스플레이 탑재한 일체형 ARGB 수랭 쿨러 출시.. 박스 ...",
-        "date": "2025-09-04 14:48",
-        "link": "https://kbench.com/?q=node/271021"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 ‘AI 홈’ 비전 공개…미래 일상 현실화",
-        "date": "2025-09-04 14:46",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=76545"
-    },
-    {
-        "title": "삼성, 두 번 접는 '트라이폴드폰' 공개 임박…中 화웨이와 정면승부",
-        "date": "2025-09-04 14:45",
-        "link": "https://n.news.naver.com/mnews/article/014/0005401706?sid=105"
-    },
-    {
-        "title": "美 지식재산권 관리 기업, 한국·중국기업 등 4개사 ITC에 제소",
-        "date": "2025-09-04 14:40",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=706276"
-    },
-    {
-        "title": "[IFA 2025] 미리보는 IFA…삼성·LG, 유럽 공략 'AI 홈' 공개",
-        "date": "2025-09-04 14:36",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=703042"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보인다",
-        "date": "2025-09-04 14:32",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535854"
-    },
-    {
-        "title": "[IFA2025] 삼성전자, '현실이 된 미래의 일상 'AI 홈' 소개",
-        "date": "2025-09-04 14:26",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=71088"
-    },
-    {
-        "title": "(영상) “역대급 못생김” 아이폰17 유출에 반응 살펴보니…",
-        "date": "2025-09-04 14:19",
-        "link": "https://n.news.naver.com/mnews/article/081/0003571670?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 4세대 OLED 패널 '완벽한 콘텐츠 재현력' 검증 획득... 업...",
-        "date": "2025-09-04 14:18",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=502740"
-    },
-    {
-        "title": "삼성, 올해만 벌써 5번째 ‘신상’…이번에는 ‘갤럭시S25 FE’",
-        "date": "2025-09-04 14:12",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1273733&inflow=N"
-    },
-    {
-        "title": "美업체, 中 하이센스 등 국제무역위에 제소...LCD 특허 침해",
-        "date": "2025-09-04 14:10",
-        "link": "https://www.ajunews.com/view/20250904135157590"
-    },
-    {
-        "title": "[IFA 2025] '미래의 일상을 현실로'..삼성전자, AI 홈 선봬",
-        "date": "2025-09-04 14:08",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2094535"
-    },
-    {
-        "title": "[IFA 25] 삼성전자·LG전자, 'AI 홈' 누가 평정할까",
-        "date": "2025-09-04 14:06",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=144029"
-    },
-    {
-        "title": "가민, 마이크로LED 탑재 '피닉스 8 프로' 시리즈 공개",
-        "date": "2025-09-04 13:54",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=665279"
-    },
-    {
-        "title": "삼성전자, 'IFA 2025'서 'AI 홈' 전시장 최대 규모로 선봬",
-        "date": "2025-09-04 13:52",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=773869"
-    },
-    {
-        "title": "애플, 내년 AI 검색 툴 공개…챗GPT·퍼플렉시티와 격돌",
-        "date": "2025-09-04 13:48",
-        "link": "https://www.etoday.co.kr/news/view/2503233"
-    },
-    {
-        "title": "애플, 시리 검색 기능 대폭 개편…내년 봄 공개 목표",
-        "date": "2025-09-04 13:46",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=362477"
-    },
-    {
-        "title": "애플, 오픈AI·구글에 도전장… '시리'를 챗GPT처럼 업그레이드",
-        "date": "2025-09-04 13:44",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146859"
-    },
-    {
-        "title": "아이폰 사용자 30% 폴더블 원한다…삼성 선호도 뚜렷",
-        "date": "2025-09-04 13:34",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=66743"
-    },
-    {
-        "title": "아이폰 17과 함께 등장할 애플 '에어팟 프로 3세대'.... 3년 만에 바뀐 ...",
-        "date": "2025-09-04 13:30",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1803704"
-    },
-    {
-        "title": "[IFA 2025]삼성전자, 현실이 된 '미래 AI 홈' 구현",
-        "date": "2025-09-04 13:12",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347112?sid=105"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 13:10",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=110270"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래 AI 홈 주제로 전시",
-        "date": "2025-09-04 13:00",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241983"
-    },
-    {
-        "title": "“시리 대수술” 나선 애플…AI 검색 시장서 구글·오픈AI와 정면 승부",
-        "date": "2025-09-04 12:56",
-        "link": "https://n.news.naver.com/mnews/article/117/0003984256?sid=105"
-    },
-    {
-        "title": "삼성전자, 獨 IFA 2025서 'AI 홈' 통한 초개인화 경험 선봬",
-        "date": "2025-09-04 12:54",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185194"
-    },
-    {
-        "title": "[오늘의 전자] IFA 2025서 만나는 삼성전자·LG전자",
-        "date": "2025-09-04 12:46",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=36833"
-    },
-    {
-        "title": "구글·애플, 사기성 앱 확산 우려에 지난해 앱 400만개 삭제",
-        "date": "2025-09-04 12:24",
-        "link": "https://byline.network/?p=9004111222576622"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 12:20",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=73655"
-    },
-    {
-        "title": "'AI' 어떤데?…'저가' 전략으로 태블릿 영토 넓히는 中에 삼성전자, 보...",
-        "date": "2025-09-04 12:16",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=275429"
-    },
-    {
-        "title": "컬리, '미식관' 오픈…RMR 셰프 군단 한 자리에",
-        "date": "2025-09-04 12:10",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=111189"
-    },
-    {
-        "title": "올 상반기 불확실성 속 글로벌 기술·내구재 시장 회복세 보여",
-        "date": "2025-09-04 12:00",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321962"
-    },
-    {
-        "title": "삼성전자, 'IFA 2025'서 현실된 미래 일상 'AI 홈' 선보여",
-        "date": "2025-09-04 11:58",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000079595"
-    },
-    {
-        "title": "애플, 비전 프로보다 40% 가볍고 절반 가격 '비전 에어' 2027년 출시 전망",
-        "date": "2025-09-04 11:56",
-        "link": "https://kbench.com/?q=node/270994"
-    },
-    {
-        "title": "애플, AI 시리·자체 검색 서비스에 '제미나이' 통합 추진... 크롬 매각 ...",
-        "date": "2025-09-04 11:56",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1803699"
-    },
-    {
-        "title": "삼성전자, IFA 2025에서 현실이 된 미래의 일상 ‘AI 홈’ 선보여",
-        "date": "2025-09-04 11:48",
-        "link": "https://n.news.naver.com/mnews/article/243/0000084163?sid=105"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 'AI 홈' 대거 공개...스마트홈 넘어 스마트라이프...",
-        "date": "2025-09-04 11:46",
-        "link": "https://hbnpress.com/news/view/1065581029927476"
-    },
-    {
-        "title": "일단 5만대만 한정 판매, 삼성 3단 폰. AI 스마트 글래스 내달 출시",
-        "date": "2025-09-04 11:42",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535846"
-    },
-    {
-        "title": "‘얇음·가성비’ 투트랙…삼성, 유럽 1위 지키는 승부수",
-        "date": "2025-09-04 11:41",
-        "link": "https://n.news.naver.com/mnews/article/119/0002998740?sid=105"
-    },
-    {
-        "title": "애플, 2026년 아이폰 폴드로 '노치 없는' 스마트폰 시대 여나",
-        "date": "2025-09-04 11:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589599"
-    },
-    {
-        "title": "애플, 비전 프로 틈새 시장 공략…산업용 활용 증가",
-        "date": "2025-09-04 11:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589598"
-    },
-    {
-        "title": "[IFA '25] 삼성전자, 베를린서 현실이 된 미래의 일상 'AI 홈' 실현",
-        "date": "2025-09-04 11:40",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1677231"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 미래 'AI 홈' 솔루션 대거 공개",
-        "date": "2025-09-04 11:38",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=710110"
-    },
-    {
-        "title": "[위클리오늘] 삼성전자, 'IFA 2025'서 현실이 된 미래의 일상 'AI 홈' 선보...",
-        "date": "2025-09-04 11:34",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=722073"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 현실이 된 미래 일상 'AI 홈' 선봬",
-        "date": "2025-09-04 11:30",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3313752"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 출시 계획…내년 봄 목표",
-        "date": "2025-09-04 11:30",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=73596"
-    },
-    {
-        "title": "LG디스플레이 4세대 OLED, UL서 '완벽한 콘텐츠 재현력' 검증",
-        "date": "2025-09-04 11:30",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15793489"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 출시 계획…내년 봄 목표",
-        "date": "2025-09-04 11:28",
-        "link": "https://n.news.naver.com/mnews/article/030/0003347063?sid=105"
-    },
-    {
-        "title": "애플 내년 봄 시리 전면 개편…AI 검색 기반 '답변엔진' 도입",
-        "date": "2025-09-04 11:27",
-        "link": "https://n.news.naver.com/mnews/article/421/0008466201?sid=105"
-    },
-    {
-        "title": "[IFA 2025-개막] 삼성전자, 현실 된 미래일상 'AI 홈' 선봬",
-        "date": "2025-09-04 11:22",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2110910"
-    },
-    {
-        "title": "삼성전자, 방콕에 '비즈니스 익스피리언스 스튜디오' 개관",
-        "date": "2025-09-04 11:22",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=502490"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 현실이 된 미래의 일상 'AI 홈' 공개",
-        "date": "2025-09-04 11:20",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232567"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 현실로 다가온 'AI 홈' 선보인다",
-        "date": "2025-09-04 11:16",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222813"
-    },
-    {
-        "title": "애플, AI 기반 웹 검색 도구 내년 봄 출격…차세대 '시리' 추진",
-        "date": "2025-09-04 11:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589589"
-    },
-    {
-        "title": "IFA 2025서 공개된 'AI 홈'…삼성전자, 일상을 바꾸다",
-        "date": "2025-09-04 11:14",
-        "link": "https://www.newspim.com/news/view/20250904000435"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 출시 계획",
-        "date": "2025-09-04 11:12",
-        "link": "https://n.news.naver.com/mnews/article/052/0002242253?sid=104"
-    },
-    {
-        "title": "아이폰 17 공개 앞둔 애플, 9월 대규모 신제품 발표 예고",
-        "date": "2025-09-04 11:10",
-        "link": "https://www.itworld.co.kr/article/4051087/아이폰-17-공개-앞둔-애플-9월-대규모-신제품-발표-예고.html"
-    },
-    {
-        "title": "삼성전자, IFA 2025서 미래의 일상 'AI 홈' 선봬",
-        "date": "2025-09-04 11:10",
-        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=90363"
-    },
-    {
-        "title": "'미래를 현실로'…삼성전자, IFA서 강력해진 'AI 홈' 선보인다",
-        "date": "2025-09-04 11:06",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4372920"
-    },
-    {
-        "title": "[IFA 2025]꿈꾸던 미래 일상이 현실로…삼성, 진화한 AI홈 공개",
-        "date": "2025-09-04 11:02",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025090217403815926"
-    },
-    {
-        "title": "삼성전자, 獨 베를린서 현실로 구현한 미래 'AI 홈' 선봬 [IFA 2025]",
-        "date": "2025-09-04 11:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0002998700?sid=101"
-    },
-    {
-        "title": "“집안에 들어선 순간, 수면과 식단 특별관리 들어갑니다”…삼성이 만...",
-        "date": "2025-09-04 11:01",
-        "link": "https://n.news.naver.com/mnews/article/009/0005552870?sid=101"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 일상에 들어온 ‘AI 홈’ 공개… 가전·모바일 총집...",
-        "date": "2025-09-04 11:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001105345?sid=105"
-    },
-    {
-        "title": "삼성전자, 미래형 주거 비전 AI 홈으로 유럽 1위 발돋움",
-        "date": "2025-09-04 11:00",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/04/2025090400039.html"
-    },
-    {
-        "title": "[IFA 2025] 삼성전자, 미래 일상을 현실로…사용자의 AI 동반자 꿈꾼다",
-        "date": "2025-09-04 11:00",
-        "link": "https://n.news.naver.com/mnews/article/138/0002204113?sid=105"
-    },
-    {
-        "title": "삼성전자, '가전 최전선' IFA서 'AI가 만들 미래 일상' 구현",
-        "date": "2025-09-04 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008466079?sid=101"
-    },
-    {
-        "title": "[IFA 2025] 현실이 된 미래 일상… 삼성전자, 초개인화 'AI 홈' 알린다",
-        "date": "2025-09-04 11:00",
-        "link": "https://n.news.naver.com/mnews/article/417/0001099299?sid=101"
-    },
-    {
-        "title": "꿈꾸던 미래가 현실로…삼성전자, 베를린서 'AI 홈' 실현",
-        "date": "2025-09-04 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015605028?sid=101"
-    },
-    {
-        "title": "극한 아웃도어도 문제없다…가민, ‘피닉스 8 프로’ 시리즈 공개",
-        "date": "2025-09-04 11:00",
-        "link": "https://byline.network/?p=9004111222576641"
-    },
-    {
-        "title": "애플, AI 기반 웹 검색 도구 출시 계획…내년 봄 목표",
-        "date": "2025-09-04 10:53",
-        "link": "https://n.news.naver.com/mnews/article/277/0005646855?sid=104"
-    },
-    {
-        "title": "가민, 스마트워치 업계 최초 마이크로LED 탑재 피닉스 8 프로 시리즈 공...",
-        "date": "2025-09-04 10:52",
-        "link": "https://kbench.com/?q=node/270988"
-    },
-    {
-        "title": "가민, 웨어러블 최초 마이크로 LED 탑재 '피닉스 8 프로' 출시",
-        "date": "2025-09-04 10:50",
-        "link": "https://www.cnet.co.kr/view/?no=20250904103206"
-    },
-    {
-        "title": "알파스캔, 업무와 일상을 업그레이드할 32인치 4K UHD 모니터 AOC U32V11 출...",
-        "date": "2025-09-04 10:48",
-        "link": "https://gamefocus.co.kr/detail.php?number=168941"
-    },
-    {
-        "title": "중국 HKC LCD 사용한 TV 제조사들 미국 국제무역위(ITC)에 특허침해 피소...",
-        "date": "2025-09-04 10:46",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=410449"
-    },
-    {
-        "title": "애플, 시리 대개편… AI 기반 웹 검색 도입",
-        "date": "2025-09-04 10:43",
-        "link": "https://n.news.naver.com/mnews/article/009/0005552839?sid=105"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 출시 계획…내년 봄 목표",
-        "date": "2025-09-04 10:32",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=838931"
-    },
-    {
-        "title": "애플, 내년 AI 기반 웹 검색 기능 시리 통합…'월드 널리지 앤서스' 도입",
-        "date": "2025-09-04 10:30",
-        "link": "https://n.news.naver.com/mnews/article/243/0000084155?sid=101"
-    },
-    {
-        "title": "폴더블 아이폰 출시한다는데...'파인엠텍·덕산네오룩스' 주목",
-        "date": "2025-09-04 10:28",
-        "link": "https://n.news.naver.com/mnews/article/215/0001222561?sid=101"
-    },
-    {
-        "title": "애플, AI 기반 '음성 검색 도구' 개발 중… 이르면 내년 봄 출시",
-        "date": "2025-09-04 10:25",
-        "link": "https://n.news.naver.com/mnews/article/011/0004529015?sid=105"
-    },
-    {
-        "title": "가민, 프리미엄 GPS 스마트워치 '피닉스 8 프로' 공개",
-        "date": "2025-09-04 10:21",
-        "link": "https://n.news.naver.com/mnews/article/030/0003346997?sid=105"
-    },
-    {
-        "title": "'충격 보호' 애플, 차세대 탭틱 엔진 특허 획득",
-        "date": "2025-09-04 10:12",
-        "link": "https://www.theguru.co.kr/news/article.html?no=91349"
-    },
-    {
-        "title": "'애플' AI 검색도구 출시 계획에 기술주 주목…빅테크 경쟁 격화 전망",
-        "date": "2025-09-04 10:12",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15793345"
-    },
-    {
-        "title": "“애플, AI 기반 시리용 웹 검색 도구 출시…내년 봄 목표”",
-        "date": "2025-09-04 10:05",
-        "link": "https://n.news.naver.com/mnews/article/016/0002523988?sid=104"
-    },
-    {
-        "title": "LG디스플레이 4세대 OLED 패널 한낮에도 극강 선명…소비자 관심도↑",
-        "date": "2025-09-04 09:58",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=202509040658238600a3c244e1c9_23"
-    },
-    {
-        "title": "애플, AI 인재 유출 가속화…로봇 공학 수석도 메타로 이직",
-        "date": "2025-09-04 09:58",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589555"
-    },
-    {
-        "title": "LG전자, 미국 업체에 의해 국제무역위에 피소…LCD 특허 침해",
-        "date": "2025-09-04 09:56",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=101842"
-    },
-    {
-        "title": "애플, 인도서 신규 매장 오픈… 실내외 경계 허문 혁신적 매장 디자인 ...",
-        "date": "2025-09-04 09:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589520"
-    },
-    {
-        "title": "가민, 마이크로LED 탑재 '피닉스 8 프로' 시리즈 공개",
-        "date": "2025-09-04 09:54",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201823"
-    },
-    {
-        "title": "가민, 마이크로LED 탑재 '피닉스 8 프로' 시리즈 공개",
-        "date": "2025-09-04 09:46",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321940"
-    },
-    {
-        "title": "美 특허법인, 韓·中 등 글로벌 IT 기업 상대 LCD 특허 소송",
-        "date": "2025-09-04 09:42",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7127006"
-    },
-    {
-        "title": "애플, 시리와 함께 하는 AI 검색 도구 출시 예고…구글과의 경쟁 예견",
-        "date": "2025-09-04 09:34",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=837971"
-    },
-    {
-        "title": "美업체, 中HKC 등 무더기 소송 LCD 특허 침해",
-        "date": "2025-09-04 09:34",
-        "link": "https://n.news.naver.com/mnews/article/277/0005646728?sid=104"
-    },
-    {
-        "title": "아이폰17·애플워치·에어팟 신제품, 11일 새벽 베일 벗는다",
-        "date": "2025-09-04 09:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535830"
-    },
-    {
-        "title": "애플의 새로운 AI 전략… 시리, 검색의 판도를 바꾼다",
-        "date": "2025-09-04 09:28",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=837963"
-    },
-    {
-        "title": "아이폰 17 Air 공개… 역대급 슬림 디자인, 카메라 단일화로 논란?",
-        "date": "2025-09-04 09:26",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=837960"
-    },
-    {
-        "title": "애플, AI 기반 시리용 웹 검색 도구 출시 계획…내년 봄 목표",
-        "date": "2025-09-04 09:22",
-        "link": "https://n.news.naver.com/mnews/article/001/0015604557?sid=104"
-    },
-    {
-        "title": "에이서, 고성능 AI 노트북과 초고주사율 모니터 공개…게이밍 시장 공략",
-        "date": "2025-09-04 09:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589490"
-    },
-    {
-        "title": "애플, 폴더블 아이폰 판매 목표 상향…삼성 추월 노려",
-        "date": "2025-09-04 09:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589482"
-    },
-    {
-        "title": "없으면 일 못할 판…486만원짜리 고글 관심 폭발[모닝폰]",
-        "date": "2025-09-04 08:53",
-        "link": "https://n.news.naver.com/mnews/article/018/0006106425?sid=105"
-    },
-    {
-        "title": "구글 제미나이, 스마트홈에 적용…아마존·삼성과 경쟁 본격화",
-        "date": "2025-09-04 08:42",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589462"
-    },
-    {
-        "title": "LG디스플레이, 차량용 디스플레이 존재감 드러냈다",
-        "date": "2025-09-04 08:24",
-        "link": "http://www.datanews.co.kr/news/article.html?no=140519"
-    },
-    {
-        "title": "[기업이슈] 아아이패드도 폴더블 나온다?…출시 가능성에 관련주↑",
-        "date": "2025-09-04 08:21",
-        "link": "https://n.news.naver.com/mnews/article/374/0000461183?sid=101"
-    },
-    {
-        "title": "미국 특허법인, ITC에 글로벌 주요 가전업체 제소⋯LCD ‘특허 침해’ 사...",
-        "date": "2025-09-04 08:18",
-        "link": "https://www.etoday.co.kr/news/view/2503023"
-    },
-    {
-        "title": "美 BH이노베이션스, LCD 특허 침해 주장…글로벌 가전업체들 ITC 제소",
-        "date": "2025-09-04 08:10",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=194920"
-    },
-    {
-        "title": "삼성전자, '아이폰17 출시' 앞둔 애플 고강도 '견제'…승자는?",
-        "date": "2025-09-04 08:00",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=665134"
-    },
-    {
-        "title": "美 BH이노베이션스, 주요 글로벌 가전업체 상대 'LCD 특허 침해' 제소",
-        "date": "2025-09-04 07:56",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=45143"
-    },
-    {
-        "title": "삼성전자, K컬처와 갤럭시의 결합… 폴더블 미디어아트 공개",
-        "date": "2025-09-04 07:50",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=411604"
-    },
-    {
-        "title": "CES 넘어선다...'IFA 2025' 종합기술박람회로 부상",
-        "date": "2025-09-04 07:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=589314"
-    },
-    {
-        "title": "中 디스플레이, 2028년 글로벌 시장 75% ‘싹쓸이’…K-디스플레이 “OL...",
-        "date": "2025-09-04 07:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2025090313061637658"
     }
 ]
