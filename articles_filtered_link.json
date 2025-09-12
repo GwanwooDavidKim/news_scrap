@@ -1,5 +1,630 @@
 [
     {
+        "title": "[위클리오늘] KT, '아이폰17' 사전예약 개시…'미리 보상'으로 출고가 5...",
+        "date": "2025-09-12 12:50",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=724205"
+    },
+    {
+        "title": "베일 벗는 아이폰17…애플 신제품 8종 공개",
+        "date": "2025-09-12 12:48",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28278"
+    },
+    {
+        "title": "KT, 아이폰 17 사전예약…“출고가 50% 보상”",
+        "date": "2025-09-12 12:38",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=76851"
+    },
+    {
+        "title": "'아이폰17' 사전예약 돌입…통신3사 고객 유치 경쟁 본격화",
+        "date": "2025-09-12 12:34",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96921"
+    },
+    {
+        "title": "KT, 아이폰 17 '50% 미리 보상 프로그램' 사전 예약",
+        "date": "2025-09-12 12:32",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=13016"
+    },
+    {
+        "title": "[아이폰17 사전예약] 3社3色 '혜택 맛집'",
+        "date": "2025-09-12 12:30",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=97315"
+    },
+    {
+        "title": "KT, 아이폰17 패키지 혜택 강화…애플 제품 최대 100% 할인 제공",
+        "date": "2025-09-12 12:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678383"
+    },
+    {
+        "title": "아이폰 에어 vs. 아이폰 17 프로…기존 프로 사용자도 고민하는 선택",
+        "date": "2025-09-12 12:00",
+        "link": "https://www.itworld.co.kr/article/4056158/아이폰-에어-vs-아이폰-17-프로프로-사용자도-고민하.html"
+    },
+    {
+        "title": "아이폰 에어 맥세이프 배터리, 에어팟 케이스·애플워치 충전 지원",
+        "date": "2025-09-12 11:56",
+        "link": "https://kbench.com/?q=node/271290"
+    },
+    {
+        "title": "아이폰17 사전 예약 개시…통신 3사 혜택 내걸고 고객몰이",
+        "date": "2025-09-12 11:56",
+        "link": "https://www.ekn.kr/web/view.php?key=20250912023506261"
+    },
+    {
+        "title": "통신 3사 '아이폰 17' 사전예약 시작…보상 프로그램 눈길",
+        "date": "2025-09-12 11:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591569"
+    },
+    {
+        "title": "통신 3사, 아이폰17 사전예약 시작…출고가 보상 등 혜택 마련",
+        "date": "2025-09-12 11:48",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322353"
+    },
+    {
+        "title": "[오늘의 통신] SKT·KT·LGU+, 아이폰17 사전예약 개시...고객확보 '경쟁...",
+        "date": "2025-09-12 11:46",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37015"
+    },
+    {
+        "title": "휴대성 좋은 OLED 게이밍 노트북... 에이서 프레데터 헬리오스 네오 16S ...",
+        "date": "2025-09-12 11:46",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56012"
+    },
+    {
+        "title": "통신3사, 아이폰17 사전예약 시작…19일 정식 출시",
+        "date": "2025-09-12 11:46",
+        "link": "https://n.news.naver.com/mnews/article/374/0000462900?sid=101"
+    },
+    {
+        "title": "KT, 아이폰 17 시리즈 사전 예약 돌입",
+        "date": "2025-09-12 11:46",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000080228"
+    },
+    {
+        "title": "‘아이폰 17’ 오늘 밤 9시부터 사전 예약…통신 3사 혜택 경쟁",
+        "date": "2025-09-12 11:46",
+        "link": "https://n.news.naver.com/mnews/article/028/0002766048?sid=105"
+    },
+    {
+        "title": "아이폰은 역시 KT...12일부터 아이폰 17 시리즈 사전 예약 시작",
+        "date": "2025-09-12 11:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=404358"
+    },
+    {
+        "title": "아이폰 17 사전예약 시작··· 이통3사 혜택 내걸고 고객몰이",
+        "date": "2025-09-12 11:38",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1184435"
+    },
+    {
+        "title": "아이폰 17 시리즈 전세계 동시 사전 주문 …어떤 모델을 선택해야 할까...",
+        "date": "2025-09-12 11:35",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000005092"
+    },
+    {
+        "title": "아이폰 17 오늘부터 사전예약 시작…통신사 혜택 풍성",
+        "date": "2025-09-12 11:35",
+        "link": "https://n.news.naver.com/mnews/article/079/0004065539?sid=101"
+    },
+    {
+        "title": "KT, 매장ㆍ닷컴서 이달 12일부터 아이폰 17 시리즈 사전 예약 시작",
+        "date": "2025-09-12 11:34",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=233025"
+    },
+    {
+        "title": "통신3사, 아이폰 17 사전예약 시작..19일 정식 출시",
+        "date": "2025-09-12 11:34",
+        "link": "http://kpenews.com/View.aspx?No=3779799"
+    },
+    {
+        "title": "아이폰17 사전예약 개막…통신3사 보상·할인·사은품 총출동",
+        "date": "2025-09-12 11:34",
+        "link": "https://www.ajunews.com/view/20250912113057439"
+    },
+    {
+        "title": "KT, 오늘부터 아이폰 17 시리즈 사전 예약 시작",
+        "date": "2025-09-12 11:32",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242277"
+    },
+    {
+        "title": "아이폰17 사전예약…이동통신 3사 혜택 비교",
+        "date": "2025-09-12 11:32",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54126"
+    },
+    {
+        "title": "KT, 아이폰17 시리즈 12일부터 사전 예약",
+        "date": "2025-09-12 11:26",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=84051"
+    },
+    {
+        "title": "KT, 오는 12일부터 아이폰17 사전예약…미리 보상·첫날 배송",
+        "date": "2025-09-12 11:26",
+        "link": "https://www.newspim.com/news/view/20250912000510"
+    },
+    {
+        "title": "KT, 아이폰 17 시리즈 사전 예약 시작",
+        "date": "2025-09-12 11:22",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=251799"
+    },
+    {
+        "title": "SKT, 아이폰17 사전예약 시작 … 아이클라우드+ 200GB 무료 제공 등 혜택",
+        "date": "2025-09-12 11:22",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=74026"
+    },
+    {
+        "title": "전국 이마트서 '아이폰 17' 사전예약 신청하세요... 정품케이스 100원 특...",
+        "date": "2025-09-12 11:20",
+        "link": "https://www.insight.co.kr/news/519805"
+    },
+    {
+        "title": "이통3사, ‘아이폰17’ 사전예약 돌입 … 보상판매 프로그램 다양",
+        "date": "2025-09-12 11:18",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/12/2025091200118.html"
+    },
+    {
+        "title": "KT '미리보상'으로 아이폰17 개통 즉시 출고가 50% 할인",
+        "date": "2025-09-12 11:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013478138?sid=105"
+    },
+    {
+        "title": "KT, 아이폰17 ‘미리 보상 프로그램’ 출시…출고가 50% 즉시 보상",
+        "date": "2025-09-12 11:13",
+        "link": "https://n.news.naver.com/mnews/article/119/0003002083?sid=105"
+    },
+    {
+        "title": "이통3사 '아이폰17' 오늘밤 사전예약...5.6mm '아이폰 에어' 최대관심",
+        "date": "2025-09-12 11:08",
+        "link": "https://www.newstree.kr/newsView/ntr202509120001"
+    },
+    {
+        "title": "LG유플러스, 아이폰17 시리즈 사전예약 개시",
+        "date": "2025-09-12 11:04",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=102327"
+    },
+    {
+        "title": "관세 부담에도 아이폰17 가격 동결한 애플, 왜?",
+        "date": "2025-09-12 11:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678379"
+    },
+    {
+        "title": "아이폰 17 프로에서 빠진 단 하나의 ‘프로’ 감성",
+        "date": "2025-09-12 11:00",
+        "link": "https://www.itworld.co.kr/article/4056133/아이폰-17-프로에서-빠진-단-하나의-프로-감성.html"
+    },
+    {
+        "title": "SKT·KT·LGU+, 오늘부터 아이폰17 시리즈 사전예약..혜택 '풍성'",
+        "date": "2025-09-12 11:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2095141"
+    },
+    {
+        "title": "올해 2분기 국내 스마트폰 출하량 332만대…전년동기비 11% 증가",
+        "date": "2025-09-12 11:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=180401"
+    },
+    {
+        "title": "SK텔레콤, '아이폰17' 사전예약 개시...고객 맞춤 프로모션 강화",
+        "date": "2025-09-12 10:58",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=221386"
+    },
+    {
+        "title": "LG유플러스, 아이폰17 시리즈 사전예약 개시",
+        "date": "2025-09-12 10:58",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242266"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 10:56",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000080206"
+    },
+    {
+        "title": "SKT, 아이폰 신제품 사전 예약…“출고가의 최대 70% 보상”",
+        "date": "2025-09-12 10:54",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=76845"
+    },
+    {
+        "title": "통신3사, 아이폰17 사전예약 개시… 아이폰 에어 모델 눈길",
+        "date": "2025-09-12 10:52",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=228979"
+    },
+    {
+        "title": "OLED 설비 고도화 순항 에스켐 주가도 훨훨... CAPA 확대·헬스케어 진출...",
+        "date": "2025-09-12 10:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=376216"
+    },
+    {
+        "title": "[마니아]'진짜' AI 멀티플레이어…갤럭시 탭 S11 울트라",
+        "date": "2025-09-12 10:50",
+        "link": "https://n.news.naver.com/mnews/article/277/0005651066?sid=101"
+    },
+    {
+        "title": "내년 DDI 시장 회복 국면···삼성·LX 실적 개선은 제한적",
+        "date": "2025-09-12 10:46",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415197"
+    },
+    {
+        "title": "SKT, 아이폰17 시리즈 신제품 사전예약 개시",
+        "date": "2025-09-12 10:44",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=84047"
+    },
+    {
+        "title": "이통3사 아이폰17 사전예약 시작…출고가 최대 70% 보상",
+        "date": "2025-09-12 10:40",
+        "link": "https://www.etoday.co.kr/news/view/2505934"
+    },
+    {
+        "title": "SKT, 아이폰17 사전 예약… 아이클라우드 3개월 무료 제공",
+        "date": "2025-09-12 10:40",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3317093"
+    },
+    {
+        "title": "아이폰 17 출격…20대 '탈아이폰' 확산 속 삼성·애플 정면승부",
+        "date": "2025-09-12 10:36",
+        "link": "http://www.nongaek.com/news/articleView.html?idxno=92608"
+    },
+    {
+        "title": "애플, 내년 첫 폴더블폰 공개…아이폰18과 함께 혁신 예고",
+        "date": "2025-09-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591532"
+    },
+    {
+        "title": "챗GPT 보이스, 애플 시리 넘본다…샘 알트먼 대체 가능",
+        "date": "2025-09-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591530"
+    },
+    {
+        "title": "SKT, 아이폰 17 시리즈 사전예약 개시..프로모션 혜택 공개",
+        "date": "2025-09-12 10:32",
+        "link": "http://www.breaknews.com/1147193"
+    },
+    {
+        "title": "LGU+, 아이폰17 시리즈 사전예약 개시",
+        "date": "2025-09-12 10:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025091210291415971"
+    },
+    {
+        "title": "LG유플러스, 아이폰17 시리즈 사전예약 실시",
+        "date": "2025-09-12 10:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=111005"
+    },
+    {
+        "title": "이통 3사, 아이폰17 사전예약 시작…가입자 유치전",
+        "date": "2025-09-12 10:28",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=704084"
+    },
+    {
+        "title": "LG유플러스, '아이폰17' 시리즈 사전예약 개시...차별화된 혜택 제공한다",
+        "date": "2025-09-12 10:26",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=221377"
+    },
+    {
+        "title": "SKT, 아이폰17 사전예약 개시",
+        "date": "2025-09-12 10:24",
+        "link": "https://www.ceoscoredaily.com/page/view/2025091210235637445"
+    },
+    {
+        "title": "이마트, '아이폰 17 시리즈' 사전예약 개시…18일까지 진행",
+        "date": "2025-09-12 10:24",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=711090"
+    },
+    {
+        "title": "SKT, 아이폰 신제품 사전예약 개시",
+        "date": "2025-09-12 10:20",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=81673"
+    },
+    {
+        "title": "LG유플러스 2년 후 아이폰 기기변경 때 70% 돌려드려요",
+        "date": "2025-09-12 10:15",
+        "link": "https://n.news.naver.com/mnews/article/277/0005651013?sid=105"
+    },
+    {
+        "title": "SKT·LGU+, '아이폰17' 사전예약 시작...당일배송 등 혜택 마련",
+        "date": "2025-09-12 10:14",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=347501"
+    },
+    {
+        "title": "SKT가 아이폰 17 라인업 12일부터 사전예약...출시는 19일",
+        "date": "2025-09-12 10:06",
+        "link": "https://n.news.naver.com/mnews/article/109/0005390621?sid=105"
+    },
+    {
+        "title": "아이폰, 이제 패션 액세서리로…애플 '크로스바디 스트랩' 공개",
+        "date": "2025-09-12 10:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591467"
+    },
+    {
+        "title": "서린씨앤아이, 컴팩트 섀시에 9.16인치 LCD 탑재 Thermalright TL-M10 4종 출...",
+        "date": "2025-09-12 10:06",
+        "link": "https://kbench.com/?q=node/271282"
+    },
+    {
+        "title": "SK텔레콤, 아이폰17·애플워치·에어팟 신제품 오는 19일 동시 출시",
+        "date": "2025-09-12 10:00",
+        "link": "https://www.newspim.com/news/view/20250912000223"
+    },
+    {
+        "title": "‘아이폰 17’ 사전예약 시작···통신사별 혜택은?",
+        "date": "2025-09-12 09:59",
+        "link": "https://n.news.naver.com/mnews/article/144/0001066848?sid=105"
+    },
+    {
+        "title": "SK텔레콤, 아이폰 17 시리즈 사전예약 시작",
+        "date": "2025-09-12 09:58",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185768"
+    },
+    {
+        "title": "SKT, 아이폰 17 Pro·아이폰 17 출시",
+        "date": "2025-09-12 09:58",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=94055"
+    },
+    {
+        "title": "삼성·애플 '밀리미터 단위' 기술 경쟁…배터리·경량화 전략 뚜렷",
+        "date": "2025-09-12 09:56",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=119363"
+    },
+    {
+        "title": "SKT, 아이폰17 사전예약 시작…혜택·보상 강화",
+        "date": "2025-09-12 09:56",
+        "link": "https://www.news2day.co.kr/article/20250912500072"
+    },
+    {
+        "title": "Samsung Display Targets Automotive OLED as Growth Driver",
+        "date": "2025-09-12 09:54",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=251773"
+    },
+    {
+        "title": "갤럭시 Z 폴드7, 유럽서 4주 만 25만대…전작 보다 2배 많아",
+        "date": "2025-09-12 09:54",
+        "link": "https://n.news.naver.com/mnews/article/119/0003001980?sid=105"
+    },
+    {
+        "title": "애플 '에어팟 프로 3' 실시간 번역 기능, 유럽서는 '사용불가'",
+        "date": "2025-09-12 09:50",
+        "link": "https://kbench.com/?q=node/271276"
+    },
+    {
+        "title": "이통3사, '아이폰17' 시리즈 사전예약 시작",
+        "date": "2025-09-12 09:48",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=223608"
+    },
+    {
+        "title": "SKT 아이폰17 사전예약하면 iCloud+ 200GB 3개월 무료",
+        "date": "2025-09-12 09:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005405816?sid=105"
+    },
+    {
+        "title": "SKT·LG유플러스, '아이폰17' 시리즈 사전예약 돌입",
+        "date": "2025-09-12 09:38",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573115748811"
+    },
+    {
+        "title": "SKT, 아이폰17 사전예약...‘T 즉시보상’ 적용시 반값 구매",
+        "date": "2025-09-12 09:35",
+        "link": "https://n.news.naver.com/mnews/article/018/0006113474?sid=105"
+    },
+    {
+        "title": "SK텔레콤, 아이폰 17 시리즈 사전예약 시작...특별 혜택 공개",
+        "date": "2025-09-12 09:32",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=55685"
+    },
+    {
+        "title": "애플, 게임 구독 '아케이드' 독점 타이틀 강화",
+        "date": "2025-09-12 09:32",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=342179"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 09:30",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406504"
+    },
+    {
+        "title": "SK텔레콤, 아이폰 17 시리즈 사전예약",
+        "date": "2025-09-12 09:28",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3048902"
+    },
+    {
+        "title": "SKT, 아이폰17 신제품 사전예약 개시…iCloud+ 200GB 3개월 무료 제공",
+        "date": "2025-09-12 09:26",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=233000"
+    },
+    {
+        "title": "이마트 에이스토어, 아이폰17 시리즈 사전예약 개시",
+        "date": "2025-09-12 09:26",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=103961"
+    },
+    {
+        "title": "케이스 100원·애플케어 할인···이마트, 아이폰17 사전 예약",
+        "date": "2025-09-12 09:26",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=70735"
+    },
+    {
+        "title": "SKT, 아이폰17 사전예약…iCloud+ 200GB 3개월 무료 제공",
+        "date": "2025-09-12 09:26",
+        "link": "https://n.news.naver.com/mnews/article/119/0003001941?sid=105"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 09:24",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=404330"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 09:24",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242257"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 09:22",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=91036"
+    },
+    {
+        "title": "‘12일 오후 9시 사전예약 개시’…막 오른 아이폰 대전에 통신사 ‘들...",
+        "date": "2025-09-12 09:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002528021?sid=105"
+    },
+    {
+        "title": "LG U+, 아이폰17 사전예약.. '70% 보상패스'·'에어팟4' 프로모션 진행",
+        "date": "2025-09-12 09:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005405798?sid=105"
+    },
+    {
+        "title": "SKT, iPhone 신제품 사전예약 개시",
+        "date": "2025-09-12 09:14",
+        "link": "https://hbnpress.com/news/view/1065571858423588"
+    },
+    {
+        "title": "아이폰17, 중국 사전예약 열풍…단일플랫폼 500만명 돌파[모닝폰]",
+        "date": "2025-09-12 09:13",
+        "link": "https://n.news.naver.com/mnews/article/018/0006113434?sid=105"
+    },
+    {
+        "title": "애플 아이폰17, A19 칩 품었다…애플 칩 전략 변화",
+        "date": "2025-09-12 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591466"
+    },
+    {
+        "title": "애플워치 시리즈11 vs 시리즈10…업그레이드할 가치 있을까",
+        "date": "2025-09-12 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591473"
+    },
+    {
+        "title": "2025년 2분기 국내 스마트폰 시장 332만대 출하 ··· 전년比 10.9% 성장",
+        "date": "2025-09-12 09:06",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=205245"
+    },
+    {
+        "title": "LGU+, 아이폰17 시리즈 사전예약 개시",
+        "date": "2025-09-12 09:06",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=91027"
+    },
+    {
+        "title": "LG유플러스, 아이폰17 시리즈 사전예약 개시…통화녹음·보이스피싱 탐...",
+        "date": "2025-09-12 09:02",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232995"
+    },
+    {
+        "title": "애플 에어팟 프로3, 실시간 번역 기능 EU 빠진다…개인정보 규제",
+        "date": "2025-09-12 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591460"
+    },
+    {
+        "title": "아이폰17 프로 기본 컬러는 왜 오렌지색일까…애플이 변화 선택한 이유",
+        "date": "2025-09-12 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591463"
+    },
+    {
+        "title": "애플컴퓨터박물관, 부산 서면으로 이전…복합 문화 공간 탈바꿈",
+        "date": "2025-09-12 08:56",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678342"
+    },
+    {
+        "title": "[영상] 초슬림 아이폰 에어, 힘줘 꺾어 봤더니",
+        "date": "2025-09-12 08:54",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390138?sid=105"
+    },
+    {
+        "title": "아이폰17 안사고 기다린다 애플, 내년 출시할 '아이폰 폴드' 벌써부터...",
+        "date": "2025-09-12 08:52",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536247"
+    },
+    {
+        "title": "5.6mm 아이폰 에어, 애플 차세대 폼팩터의 서막인가",
+        "date": "2025-09-12 08:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390134?sid=105"
+    },
+    {
+        "title": "[초점] 삼성전자, 2나노 엑시노스 2600으로 애플 A19 프로 멀티코어 성능...",
+        "date": "2025-09-12 08:38",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202509120834363053fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "아이폰 17 에어 공개! 세계에서 가장 얇은 아이폰, 살까 말까?",
+        "date": "2025-09-12 08:24",
+        "link": "https://www.esquirekorea.co.kr/article/1887860"
+    },
+    {
+        "title": "삼성디스플레이, 내년에도 애플 최대 공급사…폴더블 수혜 독점",
+        "date": "2025-09-12 08:22",
+        "link": "http://www.datanews.co.kr/news/article.html?no=140675"
+    },
+    {
+        "title": "[더벨][IFA 2025] AI 시대 속 삼성의 하드웨어 힘",
+        "date": "2025-09-12 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509110023435020104519"
+    },
+    {
+        "title": "이마트, 아이폰 17 시리즈 사전예약 개시…혜택 풍성",
+        "date": "2025-09-12 08:06",
+        "link": "https://www.viva100.com/article/20250912500048"
+    },
+    {
+        "title": "이렇게나 얇아? 두께 5.6㎜ '아이폰 에어'",
+        "date": "2025-09-12 08:00",
+        "link": "https://kids.donga.com/news/articleView.html?idxno=166945"
+    },
+    {
+        "title": "애플, AI 혁신 빠진 초슬림 '아이폰17 에어' 공개...159만원부터",
+        "date": "2025-09-12 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=40060"
+    },
+    {
+        "title": "이마트, 아이폰 17 시리즈 사전예약 개시",
+        "date": "2025-09-12 07:30",
+        "link": "https://n.news.naver.com/mnews/article/119/0003001887?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 나홀로 ‘주춤’…‘아이폰 특수’, 모바일OLED로 반...",
+        "date": "2025-09-12 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025091110442239343"
+    },
+    {
+        "title": "OLED는 미래차 핵심기술…삼성D가 車디스플레이 집중하는 이유는?",
+        "date": "2025-09-12 07:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004532217?sid=101"
+    },
+    {
+        "title": "[9월11일] 'AI 시리' 없어도 호평받는 '아이폰 에어'...AI가 아직 UX가 아...",
+        "date": "2025-09-12 07:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=202326"
+    },
+    {
+        "title": "국내 스마트폰 시장, 2분기 출하량 11%↑…프리미엄·폴더블이 이끌었다",
+        "date": "2025-09-12 06:18",
+        "link": "https://www.tokenpost.kr/news/tech/285028"
+    },
+    {
+        "title": "삼성D, 미래 성장동력 ‘차량용 OLED’ 공격적 사업 확대",
+        "date": "2025-09-12 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004067624?sid=101"
+    },
+    {
+        "title": "높아지는 애플 ‘폴더블폰’ 기대감… 삼성디스플레이, OLED 양산 준비 속...",
+        "date": "2025-09-12 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001107427?sid=105"
+    },
+    {
+        "title": "이마트, 아이폰 17 시리즈 사전예약 개시",
+        "date": "2025-09-12 06:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96890"
+    },
+    {
+        "title": "“정품 케이스 100원에”…이마트, 18일까지 아이폰 17 사전 예약 행사",
+        "date": "2025-09-12 06:00",
+        "link": "https://n.news.naver.com/mnews/article/243/0000084615?sid=101"
+    },
+    {
+        "title": "삼성, 테슬라·애플 수주 확보…2나노 수율이 '진짜 시험대'",
+        "date": "2025-09-12 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147309"
+    },
+    {
+        "title": "이마트, 아이폰 17 시리즈 사전예약 진행…18개월 무이자 할부 등 다양한...",
+        "date": "2025-09-12 06:00",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=258022"
+    },
+    {
+        "title": "이마트, ‘아이폰17’ 시리즈 사전예약 개시",
+        "date": "2025-09-12 06:00",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000080146"
+    },
+    {
         "title": "'혁신 실종' 애플, 월가 투자의견 5년래 최저",
         "date": "2025-09-12 04:22",
         "link": "https://n.news.naver.com/mnews/article/374/0000462790?sid=104"
@@ -230,6 +855,11 @@
         "link": "http://www.thelec.kr/news/articleView.html?idxno=40638"
     },
     {
+        "title": "25억 들여 ‘산청 애플망고단지’ 조성",
+        "date": "2025-09-11 15:32",
+        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1470150"
+    },
+    {
         "title": "이주형 삼성D 부사장 미래 모빌리티 핵심 플랫폼은 OLED",
         "date": "2025-09-11 15:24",
         "link": "https://www.mediapen.com/news/view/1042185"
@@ -368,6 +998,11 @@
         "title": "혁신 없다 혹평 휘말린 애플의 믿는 구석",
         "date": "2025-09-11 13:00",
         "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49898"
+    },
+    {
+        "title": "정식품 ‘베지밀 꼭꼭 씹히는 애플망고두유’ 과일박스 키트 한정 판매",
+        "date": "2025-09-11 12:58",
+        "link": "http://www.jndn.com/article.php?aid=1757562941417407100"
     },
     {
         "title": "그래서 AI는? 아이폰17 공개 후 애플 주가 빠진 이유 [Global]",
@@ -665,11 +1300,6 @@
         "link": "https://www.businessplus.kr/news/articleView.html?idxno=96791"
     },
     {
-        "title": "[Biz&amp;Law] 삼성에피스, 아일리아 '045특허' 불공정행위 반소 유지 성공",
-        "date": "2025-09-11 09:24",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=670266"
-    },
-    {
         "title": "폴더블·롤러블 커버윈도우 시장, 2029년 7억 달러 돌파",
         "date": "2025-09-11 09:21",
         "link": "https://n.news.naver.com/mnews/article/003/0013474635?sid=101"
@@ -870,11 +1500,6 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003349252?sid=101"
     },
     {
-        "title": "새 아이폰 실망, 애플 오늘도 3.23% 급락…이틀 연속 하락",
-        "date": "2025-09-11 08:06",
-        "link": "https://n.news.naver.com/mnews/article/421/0008479226?sid=104"
-    },
-    {
         "title": "삼성D 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될 것",
         "date": "2025-09-11 08:05",
         "link": "https://n.news.naver.com/mnews/article/001/0015618778?sid=101"
@@ -883,11 +1508,6 @@
         "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
         "date": "2025-09-11 08:04",
         "link": "https://n.news.naver.com/mnews/article/277/0005650156?sid=101"
-    },
-    {
-        "title": "작정한 애플, ‘프로’는 공부 시키고 ‘에어’는 모델 시킨다",
-        "date": "2025-09-11 08:00",
-        "link": "https://n.news.naver.com/mnews/article/241/0003465410?sid=105"
     },
     {
         "title": "이주형 삼성D 사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
@@ -915,18 +1535,8 @@
         "link": "http://thetracker.co.kr/View.aspx?No=3777982"
     },
     {
-        "title": "애플이 또... '아이폰 에어' 실망에 LG이노텍 5% 폭락",
-        "date": "2025-09-11 07:42",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=375790"
-    },
-    {
         "title": "아마존, 내년 말 소비자용 스마트 안경 출시…메타 등과 경쟁",
         "date": "2025-09-11 07:16",
         "link": "https://www.tfmedia.co.kr/news/article.html?no=195217"
-    },
-    {
-        "title": "윈도 종속 깨는 리눅스… 마지막 고지 PC시장 넘본다 [리눅스 월드 ②]",
-        "date": "2025-09-11 07:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147080"
     }
 ]
