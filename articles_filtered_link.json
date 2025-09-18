@@ -1,5 +1,920 @@
 [
     {
+        "title": "삼성, 애플 맞불…'갤럭시 S25 FE·탭 S11·버즈3 FE'로 AI 혁신 완성",
+        "date": "2025-09-18 12:58",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=82322"
+    },
+    {
+        "title": "손에 쥐는 순간 이미 마음은 구입…신동, 애플 신제품→디테일 극찬 ...",
+        "date": "2025-09-18 12:26",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15810154"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE 19일 출시",
+        "date": "2025-09-18 12:14",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202212"
+    },
+    {
+        "title": "LG전자, 영국 내셔널 갤러리와 협약...OLED TV로 명화본다",
+        "date": "2025-09-18 12:04",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40937"
+    },
+    {
+        "title": "“AI로 더 강력해진 갤럭시” 삼성전자, 갤럭시 S25 FE·탭 S11 시리즈·버...",
+        "date": "2025-09-18 12:00",
+        "link": "http://kpenews.com/View.aspx?No=3786653"
+    },
+    {
+        "title": "갤럭시-아이폰 '가을 대전'에 샤오미 참전...프리미엄 전략으로 '1%' 벽 ...",
+        "date": "2025-09-18 11:56",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144573"
+    },
+    {
+        "title": "'원 UI 8' 담은 갤럭시 S25 FE 출격...삼성전자 '갤럭시 AI' 사용성 확대...",
+        "date": "2025-09-18 11:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144578"
+    },
+    {
+        "title": "로지텍, 차세대 레이싱 게이밍 휠 'RS50 시스템' 국내 정식 출시",
+        "date": "2025-09-18 11:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=221838"
+    },
+    {
+        "title": "애플 계정 도용 피해자 환불…이중인증 미적용이 원인",
+        "date": "2025-09-18 11:47",
+        "link": "https://n.news.naver.com/mnews/article/055/0001293570?sid=102"
+    },
+    {
+        "title": "메타, '799달러' 디스플레이 탑재 첫 스마트 안경 출시",
+        "date": "2025-09-18 11:44",
+        "link": "https://n.news.naver.com/mnews/article/374/0000464086?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 11:44",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=221837"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·갤럭시 탭 S11·갤럭시 버즈3 FE' 국내 공식 ...",
+        "date": "2025-09-18 11:42",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=145828"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE’ 출시…성능 ‘UP...",
+        "date": "2025-09-18 11:40",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065577656023106"
+    },
+    {
+        "title": "삼성, 갤럭시S25 FE·탭S11 시리즈 이달 19일 출시",
+        "date": "2025-09-18 11:40",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=180970"
+    },
+    {
+        "title": "삼성전자, '가성비' 갤럭시 S25 FE·버즈3 FE 출시",
+        "date": "2025-09-18 11:35",
+        "link": "https://n.news.naver.com/mnews/article/374/0000464079?sid=101"
+    },
+    {
+        "title": "이재용, '현장 경영'… 삼성디스플레이 아산 사업장 방문",
+        "date": "2025-09-18 11:32",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=71686"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 ETL 소재 개발",
+        "date": "2025-09-18 11:32",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278430"
+    },
+    {
+        "title": "[V차트] KH바텍, 폴더블 수요 확대에 따른 실적 개선 기대",
+        "date": "2025-09-18 11:30",
+        "link": "https://www.itooza.com/common/iview.php?no=2025091811174566095"
+    },
+    {
+        "title": "안경에 디스플레이가?…메타, ‘799달러’ 스마트 안경 출시",
+        "date": "2025-09-18 11:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002531196?sid=104"
+    },
+    {
+        "title": "이재용 회장, 삼성디스플레이 아산캠퍼스 현장 점검",
+        "date": "2025-09-18 11:28",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=405240"
+    },
+    {
+        "title": "'스마트폰 두뇌' 모바일AP 2나노 경쟁 돌입…퀄컴 선택은",
+        "date": "2025-09-18 11:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013490160?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11·버즈3 FE' 신제품 주요 특징은?",
+        "date": "2025-09-18 11:26",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=395426"
+    },
+    {
+        "title": "How-To : 아이폰을 iOS 26에서 iOS 18로 다운그레이드하는 방법",
+        "date": "2025-09-18 11:24",
+        "link": "https://www.itworld.co.kr/article/4059101/how-to-아이폰을-ios-26에서-ios-18로-다운그레이드하는-방법.html"
+    },
+    {
+        "title": "애플, 계정 무단 탈취 피해자 환불…휴면계정 노린 범행 추정",
+        "date": "2025-09-18 11:20",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=678905"
+    },
+    {
+        "title": "LG전자, 상반기 유럽 OLED TV 점유율 1위",
+        "date": "2025-09-18 11:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002531154?sid=101"
+    },
+    {
+        "title": "OLED 발광재료, 구매량은 韓·스마트폰은 中",
+        "date": "2025-09-18 11:18",
+        "link": "https://n.news.naver.com/mnews/article/277/0005653979?sid=101"
+    },
+    {
+        "title": "메타, '799달러' 디스플레이 탑재 첫 스마트 안경 출시(종합)",
+        "date": "2025-09-18 11:17",
+        "link": "https://n.news.naver.com/mnews/article/001/0015633802?sid=104"
+    },
+    {
+        "title": "애플 계정 도용 피해자 환불…이중인증 미적용이 원인",
+        "date": "2025-09-18 11:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0015633758?sid=105"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 첫 AI 스마트 안경 출시…가격 799달러",
+        "date": "2025-09-18 11:14",
+        "link": "https://n.news.naver.com/mnews/article/366/0001108964?sid=105"
+    },
+    {
+        "title": "삼성전자, 19일 '갤럭시 S25 FE'·'갤럭시 탭 S11' 등 출시",
+        "date": "2025-09-18 11:12",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=607347"
+    },
+    {
+        "title": "애플 '소액결제' 피해 이중인증 안 한 휴면 계정 노렸다",
+        "date": "2025-09-18 11:11",
+        "link": "https://n.news.naver.com/mnews/article/421/0008494057?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 11:07",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000005763"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 S25 FE·갤럭시 탭 S11·갤럭시 버즈3 FE’ 출시",
+        "date": "2025-09-18 11:04",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=190362"
+    },
+    {
+        "title": "애플, '아이폰 에어·아이폰17 프로 맥스' 카메라 버그 수정한 업데이트...",
+        "date": "2025-09-18 11:04",
+        "link": "https://kbench.com/?q=node/271470"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 스마트 안경 출시…가격 110만원",
+        "date": "2025-09-18 11:03",
+        "link": "https://n.news.naver.com/mnews/article/029/0002982936?sid=104"
+    },
+    {
+        "title": "韓 OLED 발광재료, 전체 시장 우위…中 스마트폰 시장서 추격",
+        "date": "2025-09-18 11:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1679091"
+    },
+    {
+        "title": "기세 높이는 중국폰 … 애국소비 발판 글로벌 점령",
+        "date": "2025-09-18 11:00",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/18/2025091800109.html"
+    },
+    {
+        "title": "OLED로 예술 담는다…LG전자, 영국 내셔널 갤러리 공식 파트너 합류",
+        "date": "2025-09-18 11:00",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=90880"
+    },
+    {
+        "title": "LG전자, 英 내셔널 갤러리와 파트너십…OLED 아트 마케팅 확대",
+        "date": "2025-09-18 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008493962?sid=101"
+    },
+    {
+        "title": "KT 무단결제와는 다른 유형...애플 계정서도 450만 원 털려 [지금이뉴...",
+        "date": "2025-09-18 11:00",
+        "link": "https://n.news.naver.com/mnews/article/052/0002248830?sid=101"
+    },
+    {
+        "title": "가성비 라인업 쏟아내는 삼성전자, 갤럭시 S25·버즈3 FE 출시",
+        "date": "2025-09-18 10:58",
+        "link": "https://n.news.naver.com/mnews/article/029/0002982930?sid=105"
+    },
+    {
+        "title": "예상 넘어서는 아이폰17 인기… LG이노텍, 실적 단비되나",
+        "date": "2025-09-18 10:58",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/18/2025091800125.html"
+    },
+    {
+        "title": "차세대 AV2 코덱 출시 임박…디즈니·애플·구글 동참",
+        "date": "2025-09-18 10:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592718"
+    },
+    {
+        "title": "애플, 폴더블 아이폰 대만서 시험생산… 내년 인도서 양산",
+        "date": "2025-09-18 10:54",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147617"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE 국내 출시…아이폰17 출격날 맞불",
+        "date": "2025-09-18 10:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278410"
+    },
+    {
+        "title": "[재계는 지금] LG전자-SK이노, AI 데이터센터 냉각솔루션 협력 外",
+        "date": "2025-09-18 10:52",
+        "link": "https://dealsite.co.kr/articles/148408"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 동시 출시",
+        "date": "2025-09-18 10:52",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=166103"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 등 갤럭시 AI 탑재 라인업 강화",
+        "date": "2025-09-18 10:48",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=536527"
+    },
+    {
+        "title": "삼성전자, AI 입은 '갤럭시 S25 FE'·'탭 S11 시리즈'·'버즈3 FE' 국내 출...",
+        "date": "2025-09-18 10:46",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=74304"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시...AI로 더 편리...",
+        "date": "2025-09-18 10:46",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37126"
+    },
+    {
+        "title": "OLED 발광재료 구매량, 한국이 중국 앞서",
+        "date": "2025-09-18 10:45",
+        "link": "https://n.news.naver.com/mnews/article/422/0000782616?sid=101"
+    },
+    {
+        "title": "OLED 발광재료 시장, 한국 우위 속 중국 스마트폰 분야 약진",
+        "date": "2025-09-18 10:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005186653?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 10:42",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=412463"
+    },
+    {
+        "title": "이재용 회장, 삼성디스플레이 아산캠퍼스 방문…패널 기술 경쟁력 강조",
+        "date": "2025-09-18 10:42",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=740719"
+    },
+    {
+        "title": "삼성전자, 갤럭시S25 FE 등 신제품 대거 출격",
+        "date": "2025-09-18 10:42",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7129115"
+    },
+    {
+        "title": "'애플 잔칫날' 훼방 놓는 삼성…'갤럭시S25 FE' 출격",
+        "date": "2025-09-18 10:40",
+        "link": "https://n.news.naver.com/mnews/article/011/0004534633?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시S25 FE·탭S11 등 출시...아이폰17에 맞불",
+        "date": "2025-09-18 10:40",
+        "link": "https://n.news.naver.com/mnews/article/009/0005560688?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE 정식 출시…아이폰17과 정면승부",
+        "date": "2025-09-18 10:40",
+        "link": "http://www.segyebiz.com/newsView/20250918506853?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI로 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버...",
+        "date": "2025-09-18 10:36",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72929"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 10:36",
+        "link": "https://www.fetv.co.kr/news/article.html?no=201465"
+    },
+    {
+        "title": "고급차 1대 가격, RGB LED TV…中 가성비로 도전장",
+        "date": "2025-09-18 10:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278388"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 첫 스마트 안경 출시…가격 799달러",
+        "date": "2025-09-18 10:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015633559?sid=104"
+    },
+    {
+        "title": "로지텍, 차세대 레이싱 게이밍 휠 'RS50 시스템' 출시",
+        "date": "2025-09-18 10:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322604"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE 19일 국내 출시",
+        "date": "2025-09-18 10:28",
+        "link": "https://www.ceoscoredaily.com/page/view/2025091809551883777"
+    },
+    {
+        "title": "휴대폰·탭·버즈 ‘합체’…삼성전자, ‘갤럭시 AI’ 탑재 신제품 3종 ...",
+        "date": "2025-09-18 10:27",
+        "link": "https://n.news.naver.com/mnews/article/468/0001178345?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤S25 FE·탭S11·버즈3 FE 출시...AI로 더욱 강력해졌다",
+        "date": "2025-09-18 10:26",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=224179"
+    },
+    {
+        "title": "OLED 발광재료 구매 한국 1위...스마트폰용 중국이 추월",
+        "date": "2025-09-18 10:26",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40949"
+    },
+    {
+        "title": "더 강력해진 갤럭시 AI…삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버...",
+        "date": "2025-09-18 10:24",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=272697"
+    },
+    {
+        "title": "애플 AI 시리의 소소한 진화…iOS 26서 달라진 점 5가지",
+        "date": "2025-09-18 10:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278378"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11·버즈3 FE 19일 출시",
+        "date": "2025-09-18 10:22",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1159513"
+    },
+    {
+        "title": "삼성전자, '더욱 강력해진 AI' 갤럭시 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 10:20",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=124416"
+    },
+    {
+        "title": "터치스크린 맥북 현실로…2026년 OLED 모델부터 적용",
+        "date": "2025-09-18 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592701"
+    },
+    {
+        "title": "애플워치 충전 속도 높이려면…애플이 직접 제시한 해결책",
+        "date": "2025-09-18 10:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592691"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·...",
+        "date": "2025-09-18 10:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=94718"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11·버즈3 FE' 19일 국내 출시",
+        "date": "2025-09-18 10:16",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=253084"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592697"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 AI’ 기반 신제품 3종 국내 출시",
+        "date": "2025-09-18 10:16",
+        "link": "https://www.hinews.co.kr/view.php?ud=202509181014559415dacadeb388_48"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 출시",
+        "date": "2025-09-18 10:14",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=91607"
+    },
+    {
+        "title": "'아이폰 출시일' 맞대응…삼성전자, 갤럭시 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 10:14",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=811638"
+    },
+    {
+        "title": "벤큐, 9월 가을맞이 아이케어 게이밍 모니터 네이버페이 적립 이벤트 진...",
+        "date": "2025-09-18 10:14",
+        "link": "https://kbench.com/?q=node/271460"
+    },
+    {
+        "title": "로지텍, 차세대 레이싱 게이밍 휠 ‘RS50 시스템’ 출시",
+        "date": "2025-09-18 10:14",
+        "link": "https://kbench.com/?q=node/271461"
+    },
+    {
+        "title": "더 얇고, 더 똑똑해졌다…삼성전자 '갤럭시 S25 FE·탭 S11·버즈3 FE' 출...",
+        "date": "2025-09-18 10:12",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=90875"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 및 '탭 S11', '버즈 3 FE' 국내 출시",
+        "date": "2025-09-18 10:12",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=104902"
+    },
+    {
+        "title": "로지텍, 차세대 레이싱 게이밍 휠 'RS50 시스템' 출시",
+        "date": "2025-09-18 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592643"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 10:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=711787"
+    },
+    {
+        "title": "로지텍, 차세대 레이싱 게이밍 휠 'RS50 시스템' 출시",
+        "date": "2025-09-18 10:08",
+        "link": "https://gamefocus.co.kr/detail.php?number=169326"
+    },
+    {
+        "title": "삼성전자, AI로 강력해진 '갤럭시S25 FE·탭 S11 시리즈' 출시",
+        "date": "2025-09-18 10:05",
+        "link": "https://n.news.naver.com/mnews/article/108/0003367104?sid=004"
+    },
+    {
+        "title": "OLED 발광재료 구매량 韓 우위…中, 스마트폰용 시장서 약진",
+        "date": "2025-09-18 10:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0015633435?sid=101"
+    },
+    {
+        "title": "애플 '소액결제' 피해, 이중 인증 없었다…피해 고객 환불 조치",
+        "date": "2025-09-18 10:04",
+        "link": "https://n.news.naver.com/mnews/article/003/0013489746?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 AI’로 더욱 강력해진 ‘갤럭시 S25 FE·탭 S11 시리즈...",
+        "date": "2025-09-18 10:03",
+        "link": "https://n.news.naver.com/mnews/article/144/0001068194?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE’ 출시",
+        "date": "2025-09-18 10:02",
+        "link": "https://www.viva100.com/article/20250918500366"
+    },
+    {
+        "title": "삼성전자 갤럭시 S25 FE, 갤럭시 탭 S11 시리즈, 갤럭시 버즈3 FE 출시",
+        "date": "2025-09-18 10:02",
+        "link": "https://kbench.com/?q=node/271455"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 10:00",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025091809470170146ed0c62d49_1/article.html"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 'ZnBaO 나노 입자' 소재 개발",
+        "date": "2025-09-18 10:00",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=651887"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:59",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=707839"
+    },
+    {
+        "title": "삼성전자, 19일 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:56",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=95322"
+    },
+    {
+        "title": "OLED 발광재료, 韓 우위 속 中 스마트폰서 약진",
+        "date": "2025-09-18 09:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390903?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE 국내 출시…가격은 94만6000원",
+        "date": "2025-09-18 09:50",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=704845"
+    },
+    {
+        "title": "더 얇고 가볍다! 삼성전자, 94만원대 보급형 갤럭시 AI폰 '갤럭시 S25 FE'...",
+        "date": "2025-09-18 09:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536521"
+    },
+    {
+        "title": "벤큐, 9월 가을맞이 아이케어•게이밍 모니터 네이버페이 적립 행사",
+        "date": "2025-09-18 09:50",
+        "link": "https://www.betanews.net/article/view/beta202509180007"
+    },
+    {
+        "title": "한국, OLED 발광재료 전체 시장선 '우위'…스마트폰 부문선 중국에 추월",
+        "date": "2025-09-18 09:49",
+        "link": "https://n.news.naver.com/mnews/article/119/0003004426?sid=101"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 'ZnBaO 나노 입자' 소재 개발",
+        "date": "2025-09-18 09:44",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=667909"
+    },
+    {
+        "title": "삼성전자, AI 기능 향상된 '갤럭시 S25 FE·탭 S11·버즈 3 FE' 출시",
+        "date": "2025-09-18 09:44",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=270369"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 FE·탭 S11·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 09:44",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=239187"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE·탭 S11·버즈3 FE 19일 출시",
+        "date": "2025-09-18 09:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0015633317?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시S25 FE·탭S11·버즈3 FE 출시...아이폰17에 맞불",
+        "date": "2025-09-18 09:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390896?sid=105"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 'ZnBaO 나노 입자' 소재 개발",
+        "date": "2025-09-18 09:36",
+        "link": "https://www.newspim.com/news/view/20250918000221"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 19일 국내 출시",
+        "date": "2025-09-18 09:34",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242462"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:34",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=115986"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:34",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=196599"
+    },
+    {
+        "title": "﻿이엠앤아이, 차세대 QD 디스플레이용 소재 'ZnBaO 나노 입자' 개발",
+        "date": "2025-09-18 09:32",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1272640"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11·버즈3 FE 국내 출시",
+        "date": "2025-09-18 09:29",
+        "link": "https://www.newspim.com/news/view/20250918000194"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 더욱 강력해진  '갤럭시 S25 FE·탭 S11 시리즈...",
+        "date": "2025-09-18 09:28",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=246441"
+    },
+    {
+        "title": "애플, 차기 '아이폰18 프로' 화면 크기·디자인 유지하나",
+        "date": "2025-09-18 09:28",
+        "link": "https://kbench.com/?q=node/271450"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 ETL 소재 개발",
+        "date": "2025-09-18 09:25",
+        "link": "https://n.news.naver.com/mnews/article/003/0013489527?sid=101"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이 핵심 'ZnBaO 나노 입자' 소재 개발 완...",
+        "date": "2025-09-18 09:22",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=704843"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재 신제품 3종 출시",
+        "date": "2025-09-18 09:22",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=252162"
+    },
+    {
+        "title": "삼성전자, AI 기능 강화한 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 국내...",
+        "date": "2025-09-18 09:20",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=281775"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 09:19",
+        "link": "https://n.news.naver.com/mnews/article/031/0000966305?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE∙탭 S11 시리즈∙버즈3 FE' 출시",
+        "date": "2025-09-18 09:18",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=84134"
+    },
+    {
+        "title": "이엠앤아이, 차세대 QD 디스플레이용 'ZnBaO 나노 입자' 소재 개발",
+        "date": "2025-09-18 09:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=377900"
+    },
+    {
+        "title": "삼성전자, AI로 강력해진 '갤럭시S25 FE·탭 S11 시리즈' 출시",
+        "date": "2025-09-18 09:17",
+        "link": "https://n.news.naver.com/mnews/article/215/0001224356?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 09:16",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1679049"
+    },
+    {
+        "title": "이엠앤아이, QD 발광소자 핵심 소재 개발…글로벌 평가 추진",
+        "date": "2025-09-18 09:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=94675"
+    },
+    {
+        "title": "AI 경험 강화 삼성전자, '갤럭시 AI' 탑재 신제품 3종 국내 출시",
+        "date": "2025-09-18 09:14",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=233347"
+    },
+    {
+        "title": "삼성전자, 최신 AI로 더 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈3...",
+        "date": "2025-09-18 09:14",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=71665"
+    },
+    {
+        "title": "더욱 강력해졌다…삼성전자, '갤럭시 AI' 품은 갤S25 FE 국내 상륙",
+        "date": "2025-09-18 09:14",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1283566"
+    },
+    {
+        "title": "더 강력해진 AI… 삼성전자 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE'",
+        "date": "2025-09-18 09:10",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3049118"
+    },
+    {
+        "title": "애플, OLED 탑재 신형 맥북 프로에 터치스크린 추가 전망",
+        "date": "2025-09-18 09:10",
+        "link": "https://kbench.com/?q=node/271449"
+    },
+    {
+        "title": "iOS 26, 2D 사진을 3D로 변환…공간 장면 기능 공개",
+        "date": "2025-09-18 09:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=592637"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 출시",
+        "date": "2025-09-18 09:08",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=111493"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE 출시",
+        "date": "2025-09-18 09:08",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186159"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25·탭 S11 시리즈·버즈3 FE' 출시…AI 기능 강화",
+        "date": "2025-09-18 09:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0003004375?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·...",
+        "date": "2025-09-18 09:04",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36503"
+    },
+    {
+        "title": "삼성, 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:04",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=678853"
+    },
+    {
+        "title": "애플, 대만서 폴더블폰 시제품 생산 검토…양산은 인도 선택",
+        "date": "2025-09-18 09:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=91931"
+    },
+    {
+        "title": "“더 강력해진 AI”…삼성전자, 갤S25 FE·탭 S11 시리즈·버즈3 FE 국내...",
+        "date": "2025-09-18 09:02",
+        "link": "https://n.news.naver.com/mnews/article/016/0002530927?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 09:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=777360"
+    },
+    {
+        "title": "OLED 발광재료 시장 판도 변화…韓 '전체 우위' 속 중국은 스마트폰에서...",
+        "date": "2025-09-18 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322590"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈...",
+        "date": "2025-09-18 08:56",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000080673"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE' 등 AI 강화 신제품 3종 출시",
+        "date": "2025-09-18 08:56",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=56268"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 FE·탭 S11·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 08:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1272582"
+    },
+    {
+        "title": "삼성전자, 19일 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=377884"
+    },
+    {
+        "title": "삼성전자, 더욱 강해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:56",
+        "link": "https://www.ajunews.com/view/20250918084227057"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:54",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=301296"
+    },
+    {
+        "title": "[더벨][베트남 향하는 테크기업]삼성전기·LG이노텍, 전략적 요충지 '생...",
+        "date": "2025-09-18 08:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509151641541080104157"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:51",
+        "link": "https://n.news.naver.com/mnews/article/014/0005408621?sid=105"
+    },
+    {
+        "title": "미국에 공장 짓는 애플, 아시아 못 떠나는 이유",
+        "date": "2025-09-18 08:50",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49999"
+    },
+    {
+        "title": "삼성전자 ‘갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE’ 출시",
+        "date": "2025-09-18 08:46",
+        "link": "https://www.ekn.kr/web/view.php?key=20250918023498127"
+    },
+    {
+        "title": "삼성전자 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:44",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3319248"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11·버즈3 FE 동시 출시… AI 더 강해졌다",
+        "date": "2025-09-18 08:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/18/2025091800034.html"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 국내 출시",
+        "date": "2025-09-18 08:44",
+        "link": "https://www.etoday.co.kr/news/view/2507714"
+    },
+    {
+        "title": "삼성, 갤럭시 S25 FE 국내 출시…아이폰17 출격날 맞불",
+        "date": "2025-09-18 08:41",
+        "link": "https://n.news.naver.com/mnews/article/003/0013489412?sid=105"
+    },
+    {
+        "title": "삼성전자, AI로 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE'...",
+        "date": "2025-09-18 08:38",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2095595"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE 출시",
+        "date": "2025-09-18 08:38",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=667837"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시...갤럭시 AI로...",
+        "date": "2025-09-18 08:34",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406710"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 장착한 'S25 FE·탭 S11·버즈3 FE' 출시",
+        "date": "2025-09-18 08:33",
+        "link": "http://thetracker.co.kr/View.aspx?No=3786391"
+    },
+    {
+        "title": "韓 OLED 우위…中, 스마트폰용 OLED서 빠른 추격",
+        "date": "2025-09-18 08:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006118285?sid=101"
+    },
+    {
+        "title": "혁신 없어도 가성비 효과?…아이폰 17, 기본 모델 '품절대란'",
+        "date": "2025-09-18 08:30",
+        "link": "https://n.news.naver.com/mnews/article/277/0005653708?sid=105"
+    },
+    {
+        "title": "삼성, 개인화된 AI 기능 지원하는 '갤럭시 S25 FE' 19일 국내 출시",
+        "date": "2025-09-18 08:28",
+        "link": "https://www.raonnews.com/news/article.html?no=51217"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·버즈...",
+        "date": "2025-09-18 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=405186"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 장착한 '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE'...",
+        "date": "2025-09-18 08:22",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202509180808527739a3c244e1c9_23"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 탑재한 S25 FE·탭 S11·버즈3 FE 출시",
+        "date": "2025-09-18 08:20",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=40916"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE' 출시",
+        "date": "2025-09-18 08:20",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=97369"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 S25 FE·탭 S11 시리즈·버즈3 FE’ 출격",
+        "date": "2025-09-18 08:20",
+        "link": "http://theviewers.co.kr/View.aspx?No=3786358"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI'로 더욱 강력해진 '갤럭시 S25 FE·탭 S11 시리즈·...",
+        "date": "2025-09-18 08:14",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=66387"
+    },
+    {
+        "title": "이재용 회장, 삼성디스플레이 아산캠퍼스 방문",
+        "date": "2025-09-18 08:12",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=667827"
+    },
+    {
+        "title": "“애플도 접는다” 대만서 폴더블 아이폰 시험생산 논의[모닝폰]",
+        "date": "2025-09-18 07:58",
+        "link": "https://n.news.naver.com/mnews/article/018/0006118252?sid=105"
+    },
+    {
+        "title": "[더벨][씨엠디엘 IPO]OLED 소재 양산 강자…승화정제기 경쟁력도 '부각'",
+        "date": "2025-09-18 07:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509161516304040102417"
+    },
+    {
+        "title": "[더벨][이노테크 IPO]공모 자금 190억 '폴더블·플렉서블'에 투입",
+        "date": "2025-09-18 07:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509171536423200107529"
+    },
+    {
+        "title": "애플, 내년 출시할 아이폰 폴더블 폰, 올해 대만서 시험 생산",
+        "date": "2025-09-18 07:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536513"
+    },
+    {
+        "title": "이재용, 삼성디스플레이 아산캠퍼스 찾아 올레드 사업 현황 점검...중국...",
+        "date": "2025-09-18 07:40",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331242"
+    },
+    {
+        "title": "고급차 1대 가격, RGB LED TV…中 가성비로 도전장",
+        "date": "2025-09-18 07:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013489310?sid=101"
+    },
+    {
+        "title": "위기 돌파, 현장서 해결’…이재용, 디스플레이·바이오사업 점검",
+        "date": "2025-09-18 07:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004534502?sid=101"
+    },
+    {
+        "title": "[GAM]中 '수정광전' 차기 성장트랙② 10년 성장궤도 올려줄 'AR 광학'",
+        "date": "2025-09-18 07:00",
+        "link": "https://www.newspim.com/news/view/20250917000890"
+    },
+    {
+        "title": "[GAM]中 '수정광전' 차기 성장트랙① 10년 성장궤도 올려줄 'AR 광학'",
+        "date": "2025-09-18 07:00",
+        "link": "https://www.newspim.com/news/view/20250917000886"
+    },
+    {
+        "title": "[상품백서] 노이즈 캔슬링 이어폰, 뭐가 좋을까…삼성-AI 소음제어, 애플...",
+        "date": "2025-09-18 06:20",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=740687"
+    },
+    {
+        "title": "[K전자 큰손 애플] '테슬라' 노린 LG이노텍의 멕시코 투자, 실패일까",
+        "date": "2025-09-18 06:10",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=30589"
+    },
+    {
+        "title": "JDI 물량 흡수한 LG디스플레이… 애플워치용 OLED 출하량 확대",
+        "date": "2025-09-18 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001108872?sid=105"
+    },
+    {
+        "title": "애플 AI 시리의 소소한 진화…iOS 26서 달라진 점 5가지",
+        "date": "2025-09-18 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013489251?sid=105"
+    },
+    {
+        "title": "혹평 뚫고 아이폰17 사전예약 ‘흥행’…LG·삼성 부품사 ‘들썩’",
+        "date": "2025-09-18 05:40",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202509171027274760918"
+    },
+    {
+        "title": "[단독]애플, 韓 기업 인앱결제 소송에 반발…소멸 시효 지났다",
+        "date": "2025-09-18 05:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008493118?sid=105"
+    },
+    {
+        "title": "“최악이라더니 완판?”…아이폰17, 욕먹고 더 잘 팔리는 이유",
+        "date": "2025-09-18 05:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004069057?sid=101"
+    },
+    {
         "title": "이재용 회장, 현장경영 행보… 삼성디스플레이 아산캠퍼스 방문",
         "date": "2025-09-18 02:36",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3319226"
@@ -295,7 +1210,7 @@
         "link": "https://n.news.naver.com/mnews/article/366/0001108747?sid=105"
     },
     {
-        "title": "아이폰17 '예상 밖에 돌풍'···韓 부품업계 '호재'",
+        "title": "아이폰17 '예상 밖 돌풍'···韓 부품업계 '호재'",
         "date": "2025-09-17 15:32",
         "link": "https://www.seoulfn.com/news/articleView.html?idxno=607243"
     },
