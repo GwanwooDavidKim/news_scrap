@@ -1,5 +1,330 @@
 [
     {
+        "title": "韓 디스플레이 위기… 세제·인력보호 등 전방위 지원 필요",
+        "date": "2025-09-24 04:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005254844?sid=101"
+    },
+    {
+        "title": "신안군, 세계 4대 환경상 ‘그린 애플 어워즈’ 수상",
+        "date": "2025-09-24 03:04",
+        "link": "https://n.news.naver.com/mnews/article/020/0003663212?sid=102"
+    },
+    {
+        "title": "박준영 삼성D 부사장 세액공제 개선·기술 유출 처벌 강화해야",
+        "date": "2025-09-23 21:10",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41225"
+    },
+    {
+        "title": "아산소방서, 추석 명절 화재예방 삼성디스플레이 안전점검",
+        "date": "2025-09-23 19:59",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=652867"
+    },
+    {
+        "title": "IT용 OLED, 3년후 중국이 역전...8.6G 투자 늘려야",
+        "date": "2025-09-23 19:42",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41224"
+    },
+    {
+        "title": "아이폰4부터 이어진 기스 문제...애플, 알루미늄 고집하는 이유는",
+        "date": "2025-09-23 19:20",
+        "link": "https://www.ajunews.com/view/20250923153226556"
+    },
+    {
+        "title": "아산소방서, 추석 명절 대비 삼성디스플레이(주) 안전점검",
+        "date": "2025-09-23 19:10",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=386125"
+    },
+    {
+        "title": "땡큐 아이폰17…아이폰 출시에 삼성·LG 부품사 3분기 실적 ‘맑음’",
+        "date": "2025-09-23 18:56",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025092315213045356ed0c62d49_1/article.html"
+    },
+    {
+        "title": "손목 위의 파리, 애플X에르메스 10주년 워치",
+        "date": "2025-09-23 18:26",
+        "link": "https://www.maisonkorea.com/tech/2025/09/apple-hermes/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "디스플레이산업협회, 국회에서 K-디스플레이 위기 돌파구 모색",
+        "date": "2025-09-23 18:18",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=271315"
+    },
+    {
+        "title": "BOE, 8.6세대 OLED 조기 양산…삼성D 추격 가속",
+        "date": "2025-09-23 18:08",
+        "link": "https://dealsite.co.kr/articles/148712"
+    },
+    {
+        "title": "국회서 호소한 삼성디스플레이·LGD… “경쟁국에 세제 지원 뒤처져, OL...",
+        "date": "2025-09-23 18:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110365?sid=105"
+    },
+    {
+        "title": "[POWER COMPANY] SDV시대 고속성장… 업계유일 풀라인업",
+        "date": "2025-09-23 17:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983885?sid=101"
+    },
+    {
+        "title": "[POWER COMPANY] 한낮에도 또렷하게… OLED 패널 기술 정점",
+        "date": "2025-09-23 17:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983884?sid=101"
+    },
+    {
+        "title": "[POWER COMPANY] AX 혁신 원년… “차별적 고객가치 제시할 것”",
+        "date": "2025-09-23 17:55",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983883?sid=101"
+    },
+    {
+        "title": "[현장] 中 추격에 흔들리는 K-디스플레이, 세제·특별법·투자 시급한...",
+        "date": "2025-09-23 17:52",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=95425"
+    },
+    {
+        "title": "애플은 휴대성, 삼성은 성능에 무게",
+        "date": "2025-09-23 17:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005563649?sid=105"
+    },
+    {
+        "title": "K-디스플레이, 특별법 제정 시급…OLED도 위태롭다",
+        "date": "2025-09-23 17:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=271333"
+    },
+    {
+        "title": "中에 밀리는 디스플레이? 조선업처럼 한국만의 카드",
+        "date": "2025-09-23 17:39",
+        "link": "https://n.news.naver.com/mnews/article/031/0000967676?sid=105"
+    },
+    {
+        "title": "삼성D·LGD 한목소리 세액 공제 기간 확대 촉구",
+        "date": "2025-09-23 17:36",
+        "link": "https://dealsite.co.kr/articles/148708"
+    },
+    {
+        "title": "“아이폰17 팬심 통했다”…LGD, 3년 만 적자탈출 하나",
+        "date": "2025-09-23 17:34",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509230062"
+    },
+    {
+        "title": "中 추격에 '벼랑끝' K디스플레이…세액공제 제도 개선해야",
+        "date": "2025-09-23 17:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006123467?sid=101"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 아이폰 에어보다 얇다…화면 주름 문제도 개선",
+        "date": "2025-09-23 17:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147887"
+    },
+    {
+        "title": "마이크로 LED '선제 투자' 속도내는 中…AR용 LEDoS도 독점 체인 구축 ...",
+        "date": "2025-09-23 17:12",
+        "link": "https://n.news.naver.com/mnews/article/138/0002205653?sid=105"
+    },
+    {
+        "title": "中, 2028년 모바일PC OLED 생산능력 韓 추월",
+        "date": "2025-09-23 17:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/23/2025092300405.html"
+    },
+    {
+        "title": "디스플레이 업계 “OLED마저 中에 내줄 판…稅혜택 확대 등 정부 강력지...",
+        "date": "2025-09-23 17:09",
+        "link": "https://n.news.naver.com/mnews/article/016/0002533611?sid=101"
+    },
+    {
+        "title": "[데일리픽] 리퀴드 스테이킹 토큰 mXRP 공개…전기 트라이크 '비고즈' 눈...",
+        "date": "2025-09-23 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593584"
+    },
+    {
+        "title": "K디스플레이, 中 기술굴기 희생양 될 수도…삼성·LG, 세액공제 제도...",
+        "date": "2025-09-23 17:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004536567?sid=101"
+    },
+    {
+        "title": "韓 디스플레이 산업, ‘쌍두마차’서 밀려나나",
+        "date": "2025-09-23 17:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202509231454127070722"
+    },
+    {
+        "title": "韓 OLED도 위태롭다…삼성·LG '디스플레이 세액공제·R&amp;D 투자' 한목소...",
+        "date": "2025-09-23 16:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656423?sid=101"
+    },
+    {
+        "title": "中 추격 속 韓 디스플레이 위기…제도 지원 없인 밀린다",
+        "date": "2025-09-23 16:49",
+        "link": "https://www.newspim.com/news/view/20250923000997"
+    },
+    {
+        "title": "아이폰, 4년 뒤 평균가 1000달러 전망… 스마트폰 가격 상승세 지속",
+        "date": "2025-09-23 16:49",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110324?sid=105"
+    },
+    {
+        "title": "중국, 디스플레이 패권 장악…세제·인력보호 정책 필요",
+        "date": "2025-09-23 16:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005254664?sid=101"
+    },
+    {
+        "title": "애플, iOS 18.6.2 서명 중단.. iOS 26 다운그레이드 불가",
+        "date": "2025-09-23 16:38",
+        "link": "https://kbench.com/?q=node/271645"
+    },
+    {
+        "title": "애플, 신작 아이폰17 인기에 주가 ‘훨훨’…한 달 새 12% 반등",
+        "date": "2025-09-23 16:36",
+        "link": "https://www.etoday.co.kr/news/view/2509530"
+    },
+    {
+        "title": "글로벌 디스플레이 경쟁 심화…삼성D 기술유출 처벌 강화해야",
+        "date": "2025-09-23 16:35",
+        "link": "https://n.news.naver.com/mnews/article/374/0000465075?sid=101"
+    },
+    {
+        "title": "2030년 OLED가 LCD 앞지른다…韓, LCD 이어 OLED도 中 추격 위기",
+        "date": "2025-09-23 16:32",
+        "link": "https://n.news.naver.com/mnews/article/009/0005563557?sid=101"
+    },
+    {
+        "title": "디스플레이協, K-디스플레이 경쟁력 강화 위한 전략 모색 나서",
+        "date": "2025-09-23 16:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186457"
+    },
+    {
+        "title": "삼성전자, 7월 글로벌 스마트폰 시장서 1위",
+        "date": "2025-09-23 16:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983840?sid=105"
+    },
+    {
+        "title": "K-디스플레이 지속 투자 위해 세액공제 제도 개선 필요",
+        "date": "2025-09-23 16:22",
+        "link": "https://www.etoday.co.kr/news/view/2509524"
+    },
+    {
+        "title": "中 추격 가속…한국 디스플레이, 차세대 기술로 반격 나서야",
+        "date": "2025-09-23 16:12",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250923010012802"
+    },
+    {
+        "title": "中 정부가 디스플레이 원가 40% 지원…이기기 위한 대책 필요",
+        "date": "2025-09-23 16:08",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4375839"
+    },
+    {
+        "title": "아이폰17 기본형, 글로벌 수요 폭발…애플 공급 늘린다",
+        "date": "2025-09-23 16:08",
+        "link": "https://n.news.naver.com/mnews/article/117/0003991191?sid=105"
+    },
+    {
+        "title": "국가전략산업 디스플레이, 기술유출 처벌 강화로 보호해야",
+        "date": "2025-09-23 16:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015644086?sid=101"
+    },
+    {
+        "title": "디스플레이 업계 “지속 투자 위한 세액공제 제도 개선해야”",
+        "date": "2025-09-23 15:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003353617?sid=105"
+    },
+    {
+        "title": "역대 최악? 소비자는 달랐다…아이폰17 수요 급증에 애플 사상 최고가 ...",
+        "date": "2025-09-23 15:33",
+        "link": "https://n.news.naver.com/mnews/article/024/0000100110?sid=101"
+    },
+    {
+        "title": "애플 절반도 안 되는 삼성전자 스마트폰 평균 판매가격, '폴더블·AI' 프...",
+        "date": "2025-09-23 15:28",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413121"
+    },
+    {
+        "title": "애플, 아이폰 에어·워치11로 혁신 강조…한국 시장에도 '애정'",
+        "date": "2025-09-23 15:28",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=179665"
+    },
+    {
+        "title": "7월 글로벌 스마트폰 판매 10%↑…삼성, 애플 제치고 1위 수성",
+        "date": "2025-09-23 15:26",
+        "link": "https://www.etoday.co.kr/news/view/2509475"
+    },
+    {
+        "title": "글로벌 스마트폰 ASP, 2029년 57만원…프리미엄·AI·폴더블 견인",
+        "date": "2025-09-23 15:09",
+        "link": "https://n.news.naver.com/mnews/article/119/0003006510?sid=105"
+    },
+    {
+        "title": "'애플 사랑' 베트남, 올해는 아이폰17 기본형 예상 외 '인기'",
+        "date": "2025-09-23 15:08",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=40961"
+    },
+    {
+        "title": "아이폰17 첫날, 2강 SKT·LGU+ 1약 KT···이유는 뻔했다",
+        "date": "2025-09-23 14:41",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2332963"
+    },
+    {
+        "title": "점점 더 비싸지는 스마트폰…애플 아이폰, 전세계 평균가 140만원 갈 듯",
+        "date": "2025-09-23 14:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278828"
+    },
+    {
+        "title": "[현장] LG유플러스, 현대미술과 함께 체험하는 아이폰17",
+        "date": "2025-09-23 14:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1274866"
+    },
+    {
+        "title": "아이폰17 흥행 기대감…LG이노텍 등 부품주 '들썩'",
+        "date": "2025-09-23 14:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278819"
+    },
+    {
+        "title": "삼성, 글로벌 ‘XR 해드셋’ 경쟁 참전",
+        "date": "2025-09-23 14:18",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1275837&inflow=N"
+    },
+    {
+        "title": "[특징주] 씨피시스템, 삼성전자·테슬라·애플 케이블체인 공급망 편입...",
+        "date": "2025-09-23 14:12",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656270?sid=101"
+    },
+    {
+        "title": "아이폰17 효과?…애플 주가 연 수익률도 ‘플러스 전환’",
+        "date": "2025-09-23 14:04",
+        "link": "https://www.ekn.kr/web/view.php?key=20250923028579909"
+    },
+    {
+        "title": "100㎏ 힘으로 구부려도 정상 아이폰17 후기…긁으면 또 다른데?",
+        "date": "2025-09-23 13:59",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656259?sid=101"
+    },
+    {
+        "title": "홈오피스와 가벼운 게이밍까지, 초가성비 모니터 UDEA LOOK LK2436NA 유케어...",
+        "date": "2025-09-23 13:56",
+        "link": "https://kbench.com/?q=node/271630"
+    },
+    {
+        "title": "스마트폰 300만원 시대 '성큼'…애플 아이폰17 총대 멨다",
+        "date": "2025-09-23 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593569"
+    },
+    {
+        "title": "로지텍 'G Pro X2 슈퍼스트라이크' 공개…게이밍 마우스 혁신 선언",
+        "date": "2025-09-23 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593565"
+    },
+    {
+        "title": "[TOP's Pick] 아이즈비전, 신규 고객 대상 이벤트···애플티비·아이패...",
+        "date": "2025-09-23 13:39",
+        "link": "https://www.topdaily.kr/articles/105738"
+    },
+    {
+        "title": "아이즈비전, 라이프 모바일 혜택 강화⋯아이폰 17 신규 고객에 애플 TVㆍ...",
+        "date": "2025-09-23 13:36",
+        "link": "https://www.etoday.co.kr/news/view/2509385"
+    },
+    {
+        "title": "중국 의료기기 시장동향",
+        "date": "2025-09-23 13:35",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=233781"
+    },
+    {
         "title": "삼성전자, 7월 전세계 스마트폰 판매량 1위",
         "date": "2025-09-23 13:00",
         "link": "http://www.thelec.kr/news/articleView.html?idxno=41179"
@@ -190,11 +515,6 @@
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536746"
     },
     {
-        "title": "[더벨]LG이노텍, 아이폰 카메라 원가전쟁 해법 '베트남'",
-        "date": "2025-09-23 07:48",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509220944254560107382"
-    },
-    {
         "title": "애플, 아이폰17 호조에 이틀 연속 랠리",
         "date": "2025-09-23 07:44",
         "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=92006"
@@ -233,625 +553,5 @@
         "title": "LCD TV 끝판왕 ‘RGB’ 놓고 한·중 격돌…승부처는 ‘차별화’",
         "date": "2025-09-23 07:02",
         "link": "https://n.news.naver.com/mnews/article/028/0002767698?sid=101"
-    },
-    {
-        "title": "애플 4.31% 급등, 이틀 연속 랠리…연초 대비 상승 전환",
-        "date": "2025-09-23 06:37",
-        "link": "https://n.news.naver.com/mnews/article/421/0008502164?sid=104"
-    },
-    {
-        "title": "프리미엄·기술 차별화… K기업 ‘車 디스플레이’ 시장 선전",
-        "date": "2025-09-23 06:03",
-        "link": "https://n.news.naver.com/mnews/article/022/0004070286?sid=101"
-    },
-    {
-        "title": "[영상] 폴더블 아이폰, 대만서 시제품 생산 검토…양산은?",
-        "date": "2025-09-23 06:02",
-        "link": "https://www.theguru.co.kr/news/article.html?no=92036"
-    },
-    {
-        "title": "애플 뺨치네 미디어텍, 새 AP ‘디멘시티 9500’ 공개.. 성능 대폭 ↑...",
-        "date": "2025-09-23 06:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005410646?sid=105"
-    },
-    {
-        "title": "얇지만 강하다…아이폰 에어 부수려면 100㎏ 무게로 눌러야",
-        "date": "2025-09-23 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013498451?sid=105"
-    },
-    {
-        "title": "같은 OLED, 다른 성적표…LG전자 '저조' LGD는 '호조'",
-        "date": "2025-09-23 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147822"
-    },
-    {
-        "title": "엔비디아 3.9%, 애플 4.3%↑...엔비디아, 오픈AI에 1천억달러 투자 소식...",
-        "date": "2025-09-23 06:00",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=2025092305480268242aaae0046f_30"
-    },
-    {
-        "title": "아이폰17 수요 기대 이상…애플 주가 사상 최고가 근접",
-        "date": "2025-09-23 05:59",
-        "link": "https://n.news.naver.com/mnews/article/293/0000072818?sid=105"
-    },
-    {
-        "title": "애플 '폴더블 아이폰', 이런 모습 아닐까…아이폰에어 두대 붙인 듯 [...",
-        "date": "2025-09-23 05:20",
-        "link": "https://n.news.naver.com/mnews/article/014/0005410630?sid=105"
-    },
-    {
-        "title": "KOMODO, 일본과 한국 등 4개국서 Steam Deck LCD 256GB 한정 세일 시작",
-        "date": "2025-09-23 05:08",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=527964"
-    },
-    {
-        "title": "아이폰17 대성공, 애플 주가 사상 최고 육박",
-        "date": "2025-09-23 03:14",
-        "link": "https://n.news.naver.com/mnews/article/014/0005410617?sid=101"
-    },
-    {
-        "title": "700대 1 경쟁 뚫고... 신안군, 세계 4대 환경상 '그린 애플 어워즈' 수상",
-        "date": "2025-09-23 02:10",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=379148"
-    },
-    {
-        "title": "애플, AI기능보다 “폰 얇다” 강조 왜",
-        "date": "2025-09-23 00:01",
-        "link": "https://n.news.naver.com/mnews/article/025/0003470906?sid=101"
-    },
-    {
-        "title": "애플워치 11, 수면 무호흡까지 감지…한국서도 정식 출시",
-        "date": "2025-09-22 22:34",
-        "link": "https://www.tokenpost.kr/news/tech/287989"
-    },
-    {
-        "title": "댄 아이브스 아이폰17 수요 폭발...애플 목표가 310달러로 상향",
-        "date": "2025-09-22 22:34",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025092222002415913bc914ac71_1/article.html"
-    },
-    {
-        "title": "[뉴템] 레노버, 차세대 핸드헬드 게이밍 기기 ‘리전 고2’ 국내 출시",
-        "date": "2025-09-22 20:32",
-        "link": "https://n.news.naver.com/mnews/article/138/0002205550?sid=105"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 인기 1위 달성",
-        "date": "2025-09-22 19:26",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=74515"
-    },
-    {
-        "title": "[김지영의 생존투자] ‘고수익 검사장비’ 이노테크, 코스닥 상장 도전...",
-        "date": "2025-09-22 18:31",
-        "link": "https://n.news.naver.com/mnews/article/029/0002983626?sid=101"
-    },
-    {
-        "title": "신안군, 국제 환경상 '3관왕' 달성…'2025 그린애플어워즈'까지 거머쥐며...",
-        "date": "2025-09-22 18:26",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1285191"
-    },
-    {
-        "title": "국표원, 스트레처블·무안경 3D 성능평가 표준 제안",
-        "date": "2025-09-22 18:24",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=41165"
-    },
-    {
-        "title": "'반등 시그널' 켜진 LG이노텍, 최대 과제는 애플 의존·원가율 낮추기",
-        "date": "2025-09-22 18:20",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250922010012030"
-    },
-    {
-        "title": "삼성보다 얇잖아…'머리'보다 '몸매' 강조하는 애플 왜",
-        "date": "2025-09-22 18:12",
-        "link": "https://n.news.naver.com/mnews/article/025/0003470863?sid=101"
-    },
-    {
-        "title": "벨킨, Qi 2 25W 무선충전기·신형 GaN 충전기로 시장 공략에 박차",
-        "date": "2025-09-22 18:03",
-        "link": "https://n.news.naver.com/mnews/article/020/0003662812?sid=105"
-    },
-    {
-        "title": "스트레처블·입체 디스플레이 평가기술 국제표준 주도한다",
-        "date": "2025-09-22 17:57",
-        "link": "https://n.news.naver.com/mnews/article/092/0002391434?sid=105"
-    },
-    {
-        "title": "삼성, 다음 스텝은 'XR 헤드셋'… 메타·애플과 3파전 예고",
-        "date": "2025-09-22 17:54",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20250923010012159"
-    },
-    {
-        "title": "신안군 ‘신재생에너지 이익공유제’ 그린애플어워즈 선정",
-        "date": "2025-09-22 17:52",
-        "link": "http://www.jndn.com/article.php?aid=1758530939418142109"
-    },
-    {
-        "title": "벨킨, Qi2 25W 고속 무선 충전 솔루션 공개",
-        "date": "2025-09-22 17:36",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=197034"
-    },
-    {
-        "title": "[특징주 &amp; 리포트] '비에이치 등 애플 관련주 급등' 등",
-        "date": "2025-09-22 17:12",
-        "link": "https://n.news.naver.com/mnews/article/015/0005188406?sid=101"
-    },
-    {
-        "title": "애플, EU 규제에 기술 생태계 위협' 작심 비판",
-        "date": "2025-09-22 17:10",
-        "link": "https://n.news.naver.com/mnews/article/088/0000971643?sid=101"
-    },
-    {
-        "title": "오픈 AI, '주머니 속 AI 동반자' 도전...스마트폰 시대에 통할까",
-        "date": "2025-09-22 17:02",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=82279"
-    },
-    {
-        "title": "갤럭시 S26 시리즈, 스마트폰 최초 APV 코덱 탑재… 애플 ProRes 경쟁 본격...",
-        "date": "2025-09-22 17:00",
-        "link": "https://kbench.com/?q=node/271599"
-    },
-    {
-        "title": "아이폰17 흥행 기대감에...삼성·LG 부품사들 실적 모멘텀 강화",
-        "date": "2025-09-22 16:50",
-        "link": "http://www.metroseoul.co.kr/article/20250922500490"
-    },
-    {
-        "title": "경상오페라단 창작오페라 '애플수박' 합천서 무대 오른다",
-        "date": "2025-09-22 16:44",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=505694"
-    },
-    {
-        "title": "[종목리포트] 삼성전자, 엔비디아 HBM3E 품질 테스트 통과",
-        "date": "2025-09-22 16:43",
-        "link": "https://n.news.naver.com/mnews/article/374/0000464781?sid=101"
-    },
-    {
-        "title": "애플, ‘애플 워치11′에 수면 무호흡 알림 기능 탑재",
-        "date": "2025-09-22 16:35",
-        "link": "https://n.news.naver.com/mnews/article/366/0001109991?sid=105"
-    },
-    {
-        "title": "韓, 스트레처블·무안경 3D 디스플레이 국제표준 주도…신규 표준안 2종...",
-        "date": "2025-09-22 16:34",
-        "link": "https://n.news.naver.com/mnews/article/138/0002205540?sid=105"
-    },
-    {
-        "title": "애플, 아이폰 17으로 다시 쓴 혁신의 공식",
-        "date": "2025-09-22 16:26",
-        "link": "https://www.marieclairekorea.com/culture/lifestyle/2025/09/apple-iphone-17/?utm_source=naver&utm_medium=partnership"
-    },
-    {
-        "title": "신안군, 세계 4대 환경상 '그린애플어워즈' 수상",
-        "date": "2025-09-22 16:17",
-        "link": "https://n.news.naver.com/mnews/article/001/0015641601?sid=102"
-    },
-    {
-        "title": "애플, 워치 11 시리즈에 수면 무호흡 알림 기능 국내 도입",
-        "date": "2025-09-22 16:16",
-        "link": "https://n.news.naver.com/mnews/article/119/0003006080?sid=105"
-    },
-    {
-        "title": "[마감시황] 디앤디파마텍·삼성전자·아이폰 관련주",
-        "date": "2025-09-22 16:00",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=452475"
-    },
-    {
-        "title": "日에서 스마트폰 사용조례 첫 통과…하루 2시간으로 제한",
-        "date": "2025-09-22 15:58",
-        "link": "https://n.news.naver.com/mnews/article/018/0006122556?sid=104"
-    },
-    {
-        "title": "애플의 탈중국 움직임…LG이노텍, 베트남 생산 확대 기회 잡나",
-        "date": "2025-09-22 15:50",
-        "link": "https://news.mtn.co.kr/news-detail/2025092215275636145"
-    },
-    {
-        "title": "K-디스플레이 '차세대 먹거리', 국회서도 확인한다",
-        "date": "2025-09-22 15:38",
-        "link": "http://www.metroseoul.co.kr/article/20250922500425"
-    },
-    {
-        "title": "아이폰17 기본 모델 인기 급상승…애플, 생산량 30% 확대",
-        "date": "2025-09-22 15:32",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=452463"
-    },
-    {
-        "title": "다이내믹 아일랜드 축소? 애플, 아이폰18 디자인·카메라·가격 등 예...",
-        "date": "2025-09-22 15:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536722"
-    },
-    {
-        "title": "대형 3.5인치 IPS LCD 품은 수랭 쿨러... '서멀라이트 스트림 비전 360 AR...",
-        "date": "2025-09-22 15:04",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56133"
-    },
-    {
-        "title": "애플워치11, '수면 무호흡 알림' 국내 첫 도입",
-        "date": "2025-09-22 14:57",
-        "link": "https://n.news.naver.com/mnews/article/001/0015641227?sid=101"
-    },
-    {
-        "title": "아이폰18, 이렇게 나온다…더 작은 다이내믹 아일랜드·폴더블까지",
-        "date": "2025-09-22 14:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593360"
-    },
-    {
-        "title": "A19·N1·C1X… 애플, 핵심 칩 독립 가속",
-        "date": "2025-09-22 14:54",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=41130"
-    },
-    {
-        "title": "웹젠 '뮤: 포켓 나이츠', 한국 구글 · 일본 애플 인기 순위 1위 달성",
-        "date": "2025-09-22 14:14",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=74475"
-    },
-    {
-        "title": "애플 이어 삼성도?…갤S 플러스 없애고 '엣지'로 대체할 수도",
-        "date": "2025-09-22 14:10",
-        "link": "https://n.news.naver.com/mnews/article/003/0013497263?sid=105"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 인기 1위 달성",
-        "date": "2025-09-22 13:48",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=278694"
-    },
-    {
-        "title": "컴투스 신작 '스타시드' 日 애플 앱스토어 인기 순위 1위 달성",
-        "date": "2025-09-22 13:24",
-        "link": "https://gamefocus.co.kr/detail.php?number=169463"
-    },
-    {
-        "title": "'아이폰 에어' 국내 흥행 걸림돌은 '이심(eSIM)?'",
-        "date": "2025-09-22 13:22",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1679471"
-    },
-    {
-        "title": "아이폰17 출시에 삼성·LG 계열사 '함박웃음'",
-        "date": "2025-09-22 13:18",
-        "link": "https://www.newsway.co.kr/news/view?ud=2025092212192234483"
-    },
-    {
-        "title": "플라스틱은 옛말… UTG로 승부 건 도우인시스, 세계 무대 도전",
-        "date": "2025-09-22 13:08",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=378976"
-    },
-    {
-        "title": "마이크로닉스, WIZMAX 루프탑 할인행사 진행",
-        "date": "2025-09-22 12:46",
-        "link": "https://kbench.com/?q=node/271578"
-    },
-    {
-        "title": "한국레노버, OLED 게이밍 디스플레이 '리전 고2' 출시",
-        "date": "2025-09-22 12:40",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=51904"
-    },
-    {
-        "title": "산업부, 스트레처블 디스플레이·무안경 3D 성능평가표준 제안",
-        "date": "2025-09-22 12:34",
-        "link": "https://n.news.naver.com/mnews/article/031/0000967168?sid=105"
-    },
-    {
-        "title": "삼성 '갤럭시S26 울트라' 최신 M14 OLED 패널 탑재 가능성",
-        "date": "2025-09-22 11:54",
-        "link": "https://kbench.com/?q=node/271574"
-    },
-    {
-        "title": "신안군 국제 환경상, '3관왕' 영예 안아 '2025 그린애플어워즈'까지 세계...",
-        "date": "2025-09-22 11:54",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=246818"
-    },
-    {
-        "title": "합천군, 경상오페라단 창작오페라 ‘애플수박’ 공연",
-        "date": "2025-09-22 11:54",
-        "link": "http://www.breaknews.com/1149287"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 인기 1위 달성",
-        "date": "2025-09-22 11:52",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=95665"
-    },
-    {
-        "title": "애플, EU 규제 강력 반발…혁신 가로막고 사용자 보안 위협",
-        "date": "2025-09-22 11:50",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=364218"
-    },
-    {
-        "title": "애플 “EU 디지털 시장법, 혁신 저해하고 개인정보보호 위협”",
-        "date": "2025-09-22 11:49",
-        "link": "https://n.news.naver.com/mnews/article/366/0001109896?sid=105"
-    },
-    {
-        "title": "신안군, 국제 환경상 '2025 그린애플어워즈' 수상",
-        "date": "2025-09-22 11:38",
-        "link": "https://www.onews.tv/news/articleView.html?idxno=259300"
-    },
-    {
-        "title": "[특징주] 비에이치, 판매 호조에 아이폰17 생산량 확대 OLED 패널 기판...",
-        "date": "2025-09-22 11:32",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=278658"
-    },
-    {
-        "title": "신안군, 국제 환경상 3관왕···2025 그린애플어워즈 수상",
-        "date": "2025-09-22 11:32",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20250923010008453"
-    },
-    {
-        "title": "신안군, 국제 환경상 3관왕 달성...그린애플어워즈 수상 확정",
-        "date": "2025-09-22 11:30",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1187330"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 인기 1위 달성",
-        "date": "2025-09-22 11:28",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3032780"
-    },
-    {
-        "title": "신안군, '그린애플어워즈' 수상…국제 환경상 3관왕 달성",
-        "date": "2025-09-22 11:12",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=56647"
-    },
-    {
-        "title": "신안군, '그린애플어워즈' 수상···국제 환경상 3관왕 달성",
-        "date": "2025-09-22 11:08",
-        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=120851"
-    },
-    {
-        "title": "아이폰17, 기본 모델이 최고 인기…생산량 30% 확대",
-        "date": "2025-09-22 11:06",
-        "link": "https://n.news.naver.com/mnews/article/092/0002391339?sid=105"
-    },
-    {
-        "title": "스마트 안경에도, 애플에도, 회의 보조 앱에도...‘시스루 화면’ 뜬다",
-        "date": "2025-09-22 11:05",
-        "link": "https://n.news.naver.com/mnews/article/023/0003930552?sid=105"
-    },
-    {
-        "title": "애플, 9월 중 국내에서도 '수면무호흡 알림' 기능 업데이트",
-        "date": "2025-09-22 11:05",
-        "link": "https://n.news.naver.com/mnews/article/421/0008500435?sid=105"
-    },
-    {
-        "title": "신안군, 세계 4대 환경상 '그린애플어워즈' 수상…국제 환경상 3관왕",
-        "date": "2025-09-22 11:04",
-        "link": "https://n.news.naver.com/mnews/article/003/0013496596?sid=102"
-    },
-    {
-        "title": "마이크로닉스, 파노라믹 케이스 '위즈맥스 루프탑' 할인 프로모션",
-        "date": "2025-09-22 11:02",
-        "link": "https://www.cnet.co.kr/view/?no=20250922104653"
-    },
-    {
-        "title": "산업부 국표원, 韓 주도 스트레처블·무안경 3D 국제표준화 추진",
-        "date": "2025-09-22 11:02",
-        "link": "https://www.ajunews.com/view/20250921181649913"
-    },
-    {
-        "title": "디스플레이업계 모처럼 웃는다아이폰17 흥행에 수혜 본격화",
-        "date": "2025-09-22 11:00",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=338587"
-    },
-    {
-        "title": "레노버, 게이밍 경험 극대화한 '리전 고2' 국내 시장 공략 나서",
-        "date": "2025-09-22 11:00",
-        "link": "https://www.cnet.co.kr/view/?no=20250922103505"
-    },
-    {
-        "title": "한국, 스트레처블 디스플레이·무안경 3D 성능평가표준 제안",
-        "date": "2025-09-22 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015640389?sid=101"
-    },
-    {
-        "title": "애플, EU 디지털시장법 정면 비판…혁신·사용자 경험·보안 모두 위협...",
-        "date": "2025-09-22 10:58",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000006177"
-    },
-    {
-        "title": "아이폰 에어에 A19 프로칩 탑재…칩 독립 본격화",
-        "date": "2025-09-22 10:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593295"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 전체 게임 인기 1위 달성",
-        "date": "2025-09-22 10:54",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=412891"
-    },
-    {
-        "title": "합천군, 경상오페라단 창작오페라 ‘애플수박’ 공연 개최",
-        "date": "2025-09-22 10:54",
-        "link": "https://www.viva100.com/article/20250922500537"
-    },
-    {
-        "title": "삼성디스플레이, 폴더블·전장·차세대 OLED라인 투자로 '멀티 성장' 가...",
-        "date": "2025-09-22 10:52",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=94974"
-    },
-    {
-        "title": "애플 폴더블 아이폰, 에어 닮은 디자인 예상…최소 2000달러 예상",
-        "date": "2025-09-22 10:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593276"
-    },
-    {
-        "title": "지비코퍼레이션 '유기농 애플 사이다 비니거 레몬', 국내 시장 상륙",
-        "date": "2025-09-22 10:44",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4009465"
-    },
-    {
-        "title": "애플, 2026년 맥북 프로 개편 예고…터치스크린·셀룰러 지원",
-        "date": "2025-09-22 10:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593250"
-    },
-    {
-        "title": "아이폰 에어 분해해보니… 초슬림에도 수리 용이성 7점 선방",
-        "date": "2025-09-22 10:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593257"
-    },
-    {
-        "title": "애플 '비전 프로'용 영상 촬영 포착…아이폰과 연계 콘텐츠 가능성",
-        "date": "2025-09-22 10:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593226"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공",
-        "date": "2025-09-22 10:36",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=278633"
-    },
-    {
-        "title": "합천군, 경상오페라단 창작오페라 〈애플수박〉 공연",
-        "date": "2025-09-22 10:36",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=946722"
-    },
-    {
-        "title": "애플 아이폰 훈풍...삼성SDI · LG이노텍 '장중 급등'",
-        "date": "2025-09-22 10:34",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=154262"
-    },
-    {
-        "title": "신안군, '2025 그린애플어워즈' 수상…국제 환경상 '3관왕'",
-        "date": "2025-09-22 10:34",
-        "link": "https://n.news.naver.com/mnews/article/002/0002407105?sid=102"
-    },
-    {
-        "title": "한국레노버, 차세대 휴대용 게이밍 기기 ‘리전 고2’ 국내 출시",
-        "date": "2025-09-22 10:30",
-        "link": "https://cwn.kr/article/1065574562687179"
-    },
-    {
-        "title": "OLED 전공정 진출…에스티아이, 글로벌 시장 공략 가속화",
-        "date": "2025-09-22 10:24",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=378922"
-    },
-    {
-        "title": "컴투스, '스타시드' 일본 애플 앱스토어 게임 인기 1위 달성",
-        "date": "2025-09-22 10:22",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=536791"
-    },
-    {
-        "title": "컴투스 '스타시드', 일본 애플 앱 스토어 인기 1위 달성",
-        "date": "2025-09-22 10:18",
-        "link": "https://n.news.naver.com/mnews/article/003/0013496313?sid=105"
-    },
-    {
-        "title": "합천군, 경상오페라단 창작오페라 ‘애플수박’ 26일 공연",
-        "date": "2025-09-22 10:13",
-        "link": "https://n.news.naver.com/mnews/article/003/0013496288?sid=102"
-    },
-    {
-        "title": "한국레노버, 라이젠 Z2 프로세서 탑재 신규 핸드헬드 게이밍 기기 '리전...",
-        "date": "2025-09-22 10:10",
-        "link": "https://gamefocus.co.kr/detail.php?number=169450"
-    },
-    {
-        "title": "LG디스플레이, 흑자 전환...'POLED' 역대 최대 수익성",
-        "date": "2025-09-22 09:58",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=73945"
-    },
-    {
-        "title": "한국레노버, 차세대 핸드헬드 게이밍 기기 '리전 고2 출시.. 159만9000원",
-        "date": "2025-09-22 09:39",
-        "link": "https://n.news.naver.com/mnews/article/014/0005410074?sid=105"
-    },
-    {
-        "title": "바스프, 업그레이드된 퀀텀닷 레벨 솔루션 ‘QDYES’ 출시",
-        "date": "2025-09-22 09:28",
-        "link": "https://www.hellot.net/news/article.html?no=105645"
-    },
-    {
-        "title": "한울소재과학 자회사 JKM, 'OLED 패널용 필름소재' 수주",
-        "date": "2025-09-22 09:26",
-        "link": "https://www.sentv.co.kr/article/view/sentv202509220041"
-    },
-    {
-        "title": "애플, 아이폰에 도입한 ‘플래토’ 설계로 차세대 기기의 기준을 높이다",
-        "date": "2025-09-22 09:20",
-        "link": "https://www.itworld.co.kr/article/4060442/애플-아이폰에-도입한-플래토-설계로-차세대-기.html"
-    },
-    {
-        "title": "바스프, 퀀텀닷 레벨 솔루션 QDYES 선봬…친환경 디스플레이 구현",
-        "date": "2025-09-22 09:10",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1679420"
-    },
-    {
-        "title": "바스프, 차세대 퀀텀닷 솔루션 QDYES™ 성능 대폭 향상",
-        "date": "2025-09-22 09:05",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2332091"
-    },
-    {
-        "title": "휴대용 게이밍 기기 새기준…레노버 '리전 고2' 한국 출시",
-        "date": "2025-09-22 08:59",
-        "link": "https://n.news.naver.com/mnews/article/421/0008499895?sid=105"
-    },
-    {
-        "title": "바스프, 업그레이드된 퀀텀닷 레벨 솔루션 QDYES™ 출시",
-        "date": "2025-09-22 08:58",
-        "link": "http://www.ikld.kr/news/articleView.html?idxno=320749"
-    },
-    {
-        "title": "한울소재과학 “JKM, OLED용 필름소재 국산화 성공...中 대형 OLED기업 B사...",
-        "date": "2025-09-22 08:54",
-        "link": "https://www.etoday.co.kr/news/view/2508746"
-    },
-    {
-        "title": "한국레노버, 차세대 휴대용 게이밍 기기 '리전 고2' 국내 출시",
-        "date": "2025-09-22 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593215"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED 패널용 필름소재 첫 수주",
-        "date": "2025-09-22 08:50",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=95048"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공",
-        "date": "2025-09-22 08:41",
-        "link": "https://n.news.naver.com/mnews/article/277/0005655256?sid=101"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공...中 B사 첫 매출 발생...",
-        "date": "2025-09-22 08:41",
-        "link": "https://n.news.naver.com/mnews/article/008/0005253610?sid=101"
-    },
-    {
-        "title": "﻿한울소재과학 JKM, OLED용 필름소재 국산화 성공...中 대기업 B사 첫...",
-        "date": "2025-09-22 08:30",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1273887"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공",
-        "date": "2025-09-22 08:25",
-        "link": "https://www.newspim.com/news/view/20250922000050"
-    },
-    {
-        "title": "한울소재과학 자회사 JKM, 中 OLED 필름 소재 첫 수주",
-        "date": "2025-09-22 08:16",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=378807"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공",
-        "date": "2025-09-22 08:16",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=668420"
-    },
-    {
-        "title": "한울소재과학 JKM, OLED용 필름소재 국산화 성공",
-        "date": "2025-09-22 08:14",
-        "link": "https://n.news.naver.com/mnews/article/003/0013495857?sid=101"
-    },
-    {
-        "title": "[트라이폴드 시험대] 삼성, 트라이폴드로 폴더블 리더십 시험대",
-        "date": "2025-09-22 08:12",
-        "link": "https://dealsite.co.kr/articles/148537"
-    },
-    {
-        "title": "[더벨][IPO 딜스토리]아이티켐 포트폴리오 재정비, 경쟁력 고도화 '순항...",
-        "date": "2025-09-22 08:12",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509161506194360108056"
-    },
-    {
-        "title": "스마트폰 대신할 안경? 메타, 새 스마트 안경 출시",
-        "date": "2025-09-22 08:00",
-        "link": "https://kids.donga.com/news/articleView.html?idxno=167026"
-    },
-    {
-        "title": "성장하는 AI PC 시장 리드한다, 델 새로운 AI PC 소개",
-        "date": "2025-09-22 07:32",
-        "link": "https://www.betanews.net/article/view/beta202509220001"
     }
 ]
