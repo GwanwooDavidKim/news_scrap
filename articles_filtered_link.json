@@ -1,5 +1,375 @@
 [
     {
+        "title": "애플, EU에 DMA 폐지 요청…보안성 약화·신기능 출시 지연",
+        "date": "2025-09-25 12:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124863?sid=101"
+    },
+    {
+        "title": "[스냅드래곤서밋] 알렉스 카투지안 퀄컴 본부장 '스마트폰→인간·AI' ...",
+        "date": "2025-09-25 12:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144888"
+    },
+    {
+        "title": "에이수스, OLED 기반 고주사율 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 12:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322923"
+    },
+    {
+        "title": "K70 시리즈 유산 이었다! 커세어, 차세대 '뱅가드' 게이밍 키보드 시리즈...",
+        "date": "2025-09-25 12:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536922"
+    },
+    {
+        "title": "샤오미코리아, 국내 첫 '익스클루시브 서비스 센터' 설립…고객 접점 확...",
+        "date": "2025-09-25 11:56",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=669378"
+    },
+    {
+        "title": "iOS 26.1, 아이폰 17 시리즈 와이파이 연결 버그 수정 예정",
+        "date": "2025-09-25 11:56",
+        "link": "https://kbench.com/?q=node/271718"
+    },
+    {
+        "title": "애플, 단백질 구조 예측 AI '심플폴드' 발표… 구글 알파폴드 대안 제시",
+        "date": "2025-09-25 11:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593978"
+    },
+    {
+        "title": "IOS 26.1 공개 베타 출시…애플 인텔리전스, 한국어 포함 8개 언어 추가...",
+        "date": "2025-09-25 11:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536921"
+    },
+    {
+        "title": "호요버스, '원신' X '갤럭시 스토어' 네 번째 콜라보... '갤럭시 Z 폴드...",
+        "date": "2025-09-25 11:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=169624"
+    },
+    {
+        "title": "퀄컴과 슬슬 결별하나? 애플, 아이폰18 시리즈에 자체 '5G 모뎀' 탑재 ...",
+        "date": "2025-09-25 11:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536920"
+    },
+    {
+        "title": "빨라야 살 수 있다. '원신 라이오슬리 액세서리' 판매로 대기열 늘어선...",
+        "date": "2025-09-25 11:40",
+        "link": "https://game.donga.com/119410/"
+    },
+    {
+        "title": "커세어, 신규 게이밍 키보드 라인업 '뱅가드 96' 시리즈 2종 공개... 엘가...",
+        "date": "2025-09-25 11:36",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804494"
+    },
+    {
+        "title": "'라이카 5배 광학줌' 샤오미 15T프로 국내 시판…플래그십폰 최초로 1차...",
+        "date": "2025-09-25 11:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504855?sid=105"
+    },
+    {
+        "title": "바람소리를 지우는 스냅드래곤 애플, 긴장하라 [스냅드래곤 서밋 2025...",
+        "date": "2025-09-25 11:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=712711"
+    },
+    {
+        "title": "위기의 LG전자, LCD 기반 '시니어 TV'로 반전 노린다",
+        "date": "2025-09-25 11:32",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415546"
+    },
+    {
+        "title": "애플, 타사 스마트워치 지원…iOS 26.1 베타서 기능 포착",
+        "date": "2025-09-25 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593941"
+    },
+    {
+        "title": "에이수스, OLED 기반 280Hz·4K 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 11:18",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=530233"
+    },
+    {
+        "title": "원신, 갤럭시 스토어와 네 번째 콜라보레이션 진행",
+        "date": "2025-09-25 11:18",
+        "link": "https://www.betanews.net/article/view/beta202509250052"
+    },
+    {
+        "title": "20년 왕좌 지킨 삼성, 글로벌 TV 시장 초격차로 달린다",
+        "date": "2025-09-25 11:14",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54212"
+    },
+    {
+        "title": "샤오미코리아, '익스클루시브 서비스 센터' 설립…신제품 8종 출시",
+        "date": "2025-09-25 11:12",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202414"
+    },
+    {
+        "title": "[중국의 공습]中 자신감 '샤오미', 15T 프로로 삼성·애플에 도전장",
+        "date": "2025-09-25 11:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005657567?sid=105"
+    },
+    {
+        "title": "삼성·애플 다 비켜…가성비 버리고 한국 시장 침공 시작한 샤오미[중...",
+        "date": "2025-09-25 11:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005657567?sid=105"
+    },
+    {
+        "title": "에이수스, OLED 고주사율 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 11:02",
+        "link": "https://www.cnet.co.kr/view/?no=20250925101444"
+    },
+    {
+        "title": "차기 아이폰18, 애플 자체 5G 모뎀 탑재…퀄컴과 결별 신호?",
+        "date": "2025-09-25 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593918"
+    },
+    {
+        "title": "애플의 인텔 지분 투자는 '윈-윈' 평가, 파운드리 협력으로 관세 리스...",
+        "date": "2025-09-25 11:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413490"
+    },
+    {
+        "title": "샤오미코리아, 국내 '익스클루시브 서비스 센터' 설립 계획 발표",
+        "date": "2025-09-25 10:52",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577798546410"
+    },
+    {
+        "title": "몰입감 터진다…에이수스, OLED ROG 게이밍모니터 2종 출시",
+        "date": "2025-09-25 10:51",
+        "link": "https://n.news.naver.com/mnews/article/421/0008507979?sid=105"
+    },
+    {
+        "title": "'트럼프가 발들인' 인텔, 애플 투자도 받을까? SOS 쳤다",
+        "date": "2025-09-25 10:49",
+        "link": "https://n.news.naver.com/mnews/article/008/0005255710?sid=101"
+    },
+    {
+        "title": "원신과 갤럭시 스토어 네 번째 콜라보, ‘라이오슬리 액세서리’ 및 스...",
+        "date": "2025-09-25 10:42",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=217007"
+    },
+    {
+        "title": "한켐, 'OLED·바이오·반도체 신소재' 개발 성과…'양산 5종·파일럿 31종...",
+        "date": "2025-09-25 10:38",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=705820"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억 규모 장비 공급 계약",
+        "date": "2025-09-25 10:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279023"
+    },
+    {
+        "title": "에이수스, ROG 스트릭스(Strix) 27·32형 게이밍 모니터 신제품 출시... 최...",
+        "date": "2025-09-25 10:30",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804486"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…양산소재 5종·파일럿 소재 31종 개발...",
+        "date": "2025-09-25 10:30",
+        "link": "https://www.newspim.com/news/view/20250925000338"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…파일럿 소재 31종 개발",
+        "date": "2025-09-25 10:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504526?sid=101"
+    },
+    {
+        "title": "에이수스, OLED의 압도적인 비주얼 가진 고주사율 게이밍 모니터 2종 출...",
+        "date": "2025-09-25 10:24",
+        "link": "https://kbench.com/?q=node/271714"
+    },
+    {
+        "title": "에이수스, OLED의 압도적인 비주얼 가진 고주사율 게이밍 모니터 2종 출...",
+        "date": "2025-09-25 10:18",
+        "link": "https://n.news.naver.com/mnews/article/016/0002534598?sid=105"
+    },
+    {
+        "title": "애플 실제로 인텔에 투자할까? 애플-인텔 애증의 역사(종합)",
+        "date": "2025-09-25 10:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008507830?sid=104"
+    },
+    {
+        "title": "커세어, 스트림덱 기능 지원 ‘뱅가드 프로 96’ 및 ‘뱅가드 96’ 게이...",
+        "date": "2025-09-25 10:14",
+        "link": "https://gamefocus.co.kr/detail.php?number=169611"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 10:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322892"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…“상반기 신규 양산소재 5종·파일럿 소...",
+        "date": "2025-09-25 10:09",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124687?sid=101"
+    },
+    {
+        "title": "위기의 디스플레이 산업 살리려면?…삼성D·LGD 세액공제 확대 필요",
+        "date": "2025-09-25 10:03",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331468"
+    },
+    {
+        "title": "케이지에이, 세종대 첨단소재응용 핵심연구지원센터와 MOU",
+        "date": "2025-09-25 10:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504406?sid=101"
+    },
+    {
+        "title": "아이폰17 전면 카메라, 아이폰 16과 픽셀 단위로 비교해 보니…",
+        "date": "2025-09-25 10:00",
+        "link": "https://www.itworld.co.kr/article/4062695/아이폰17-전면-카메라-아이폰-16과-픽셀-단위로-비교해.html"
+    },
+    {
+        "title": "케이지에이, 세종대와 MOU 체결…차세대 이차전지 장비 R&amp;D 강화",
+        "date": "2025-09-25 09:58",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=653399"
+    },
+    {
+        "title": "인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 09:57",
+        "link": "https://n.news.naver.com/mnews/article/448/0000559443?sid=104"
+    },
+    {
+        "title": "케이지에이, 세종대와 업무협약 체결…차세대 소재 및 장비 개발",
+        "date": "2025-09-25 09:56",
+        "link": "https://www.newspim.com/news/view/20250925000252"
+    },
+    {
+        "title": "케이지에이, 세종대와 MOU…차세대 소재 개발 등 긴밀 협력",
+        "date": "2025-09-25 09:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124657?sid=101"
+    },
+    {
+        "title": "화웨이, 저가 플립형 폴더블폰 '노바 플립 S' 출시 가능성",
+        "date": "2025-09-25 09:48",
+        "link": "https://kbench.com/?q=node/271703"
+    },
+    {
+        "title": "블룸버그 인텔, 애플에 투자 요청...논의 초기단계",
+        "date": "2025-09-25 09:42",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=124833"
+    },
+    {
+        "title": "애플, 2년 만에 애플TV 4K 업데이트…A17 Pro·AI 지원 강화",
+        "date": "2025-09-25 09:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593900"
+    },
+    {
+        "title": "아이폰17 프로 스크래치 논란 확산…애플 알루미늄 특성일 뿐",
+        "date": "2025-09-25 09:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593909"
+    },
+    {
+        "title": "애플에 투자 요청한 인텔…재건 노력 탄력받을까",
+        "date": "2025-09-25 09:30",
+        "link": "https://www.ajunews.com/view/20250925091901956"
+    },
+    {
+        "title": "인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 09:19",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000006767"
+    },
+    {
+        "title": "'인텔' 애플에 투자 요청…주가 6% 급등, 애플 0.8% 하락",
+        "date": "2025-09-25 09:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15818150"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 09:08",
+        "link": "https://www.newspim.com/news/view/20250925000147"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 08:54",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=653371"
+    },
+    {
+        "title": "인텔, 애플까지 품나… 트럼프·엔비디아에 이어 전략 협력 '빅딜' 주목",
+        "date": "2025-09-25 08:52",
+        "link": "https://www.tokenpost.kr/news/tech/288903"
+    },
+    {
+        "title": "정부·엔비디아에 애플까지… 인텔 '美 반도체 공기업' 되나 [윤민혁의...",
+        "date": "2025-09-25 08:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004537290?sid=105"
+    },
+    {
+        "title": "면사랑, 유기농 애플사이다 비니거·삼색 동물파스타 출시",
+        "date": "2025-09-25 08:47",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110784?sid=101"
+    },
+    {
+        "title": "애플, 인텔에 투자하나…투자요청에 협력 방안 논의",
+        "date": "2025-09-25 08:46",
+        "link": "https://n.news.naver.com/mnews/article/029/0002984213?sid=104"
+    },
+    {
+        "title": "'인텔 살리기' 애플도 참전?...인텔이 투자 요청",
+        "date": "2025-09-25 08:40",
+        "link": "https://n.news.naver.com/mnews/article/215/0001225235?sid=004"
+    },
+    {
+        "title": "블룸버그 인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 08:25",
+        "link": "https://n.news.naver.com/mnews/article/001/0015647480?sid=104"
+    },
+    {
+        "title": "면사랑, 유기농 애플사이다비니거·삼색 동물파스타 신제품 출시",
+        "date": "2025-09-25 08:20",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20250925081541524646a9e4dd7f_30"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억 규모 장비 공급 계약",
+        "date": "2025-09-25 08:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504024?sid=101"
+    },
+    {
+        "title": "애플 아이폰17 프로 뒷면 흠집, 마모된 맥세이프 충전기 때문",
+        "date": "2025-09-25 08:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391804?sid=105"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 08:16",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=669277"
+    },
+    {
+        "title": "[더벨]'8세대 설비투자 발목' 파인원, 결국 회생절차 개시",
+        "date": "2025-09-25 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509240757072120104559"
+    },
+    {
+        "title": "[IT썰]179만원짜리 아이폰17 이럴수가…'스크래치' 해명에도 시끌",
+        "date": "2025-09-25 08:07",
+        "link": "https://n.news.naver.com/mnews/article/008/0005255557?sid=105"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 시험 생산은 대만·양산은 인도? 변수는...",
+        "date": "2025-09-25 07:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536874"
+    },
+    {
+        "title": "中 BOE, 삼성디스플레이 OLED 8.6세대 따라잡을까",
+        "date": "2025-09-25 06:30",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=30754"
+    },
+    {
+        "title": "인텔, 추가 지원받나…블룸버그 애플에 투자 요청",
+        "date": "2025-09-25 06:13",
+        "link": "https://n.news.naver.com/mnews/article/293/0000072946?sid=105"
+    },
+    {
+        "title": "[비즈톡톡] 헬스케어 기능 강화하는 애플워치... 삼성 스마트워치 영향...",
+        "date": "2025-09-25 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110755?sid=105"
+    },
+    {
+        "title": "퀄컴 차세대 '스냅드래곤 AP' 테스트해보니…애플과도 '대등'",
+        "date": "2025-09-25 05:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391796?sid=105"
+    },
+    {
+        "title": "[스냅드래곤서밋] 퀄컴 '스냅드래곤8 엘리트 5세대' 공개…벤치마크 결...",
+        "date": "2025-09-25 05:30",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144861"
+    },
+    {
         "title": "글로벌 프리미엄TV 시장 점유율, 내년 韓 OLED가 中 LCD 제친다",
         "date": "2025-09-25 03:07",
         "link": "https://n.news.naver.com/mnews/article/020/0003663596?sid=101"
@@ -255,11 +625,6 @@
         "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72960"
     },
     {
-        "title": "애플페이 외 다 된다 아이폰 결제…유럽 5개국 확대",
-        "date": "2025-09-24 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593700"
-    },
-    {
         "title": "도쿄 긴자 애플스토어 리뉴얼 재개장…日 감성 담았다",
         "date": "2025-09-24 10:24",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593681"
@@ -315,11 +680,6 @@
         "link": "https://www.newsway.co.kr/news/view?ud=2025092408483261704"
     },
     {
-        "title": "애플 원에 숨겨진 진짜 혜택 5가지",
-        "date": "2025-09-24 09:00",
-        "link": "https://www.itworld.co.kr/article/4061901/애플-원에-숨겨진-진짜-혜택-5가지.html"
-    },
-    {
         "title": "[아침밥] 신한증권 LG디스플레이 사업구조 변화로 성장 기대",
         "date": "2025-09-24 08:57",
         "link": "https://n.news.naver.com/mnews/article/417/0001103284?sid=101"
@@ -328,16 +688,6 @@
         "title": "성호선 충남소방본부장, '삼성디스플레이' 방문",
         "date": "2025-09-24 08:54",
         "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=851118"
-    },
-    {
-        "title": "아이폰17 프로, 긁힘에 취약…정말 그럴까",
-        "date": "2025-09-24 08:53",
-        "link": "https://n.news.naver.com/mnews/article/092/0002391635?sid=105"
-    },
-    {
-        "title": "애플, iOS 26 출시 일주일 만에 구버전 설치 차단",
-        "date": "2025-09-24 08:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593628"
     },
     {
         "title": "“LG디스플레이, 올해 4년만에 흑자전환…목표가↑”-신한",
@@ -350,24 +700,9 @@
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=348120"
     },
     {
-        "title": "삼성전자 자회사 하만, 美 마시모 오디오 사업 인수 완료…글로벌 오디...",
-        "date": "2025-09-24 08:40",
-        "link": "https://sateconomy.co.kr/news/view/1065569250158388"
-    },
-    {
-        "title": "[더벨][상장 N수생 점검]어느새 IPO 3수 메를로랩 매출 늘려라 특명",
-        "date": "2025-09-24 08:12",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509221519115800101710"
-    },
-    {
         "title": "신한투자證 “LG디스플레이, 올해 흑자전환ㆍ내년 영업이익 성장 본격화...",
         "date": "2025-09-24 07:48",
         "link": "https://www.etoday.co.kr/news/view/2509634"
-    },
-    {
-        "title": "e심만 가능한 아이폰 에어…워치, 고혈압 감지 기능 '한국만 아직'",
-        "date": "2025-09-24 07:37",
-        "link": "https://n.news.naver.com/mnews/article/277/0005656573?sid=105"
     },
     {
         "title": "가격 2000달러 넘는다? 애플, 내년 선보일 '폴더블 아이폰' 예상 정보",
