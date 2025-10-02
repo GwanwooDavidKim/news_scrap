@@ -1,5 +1,450 @@
 [
     {
+        "title": "한국 정밀지도 원하는 애플, 국토지리정보원 전격 방문",
+        "date": "2025-10-03 00:35",
+        "link": "https://n.news.naver.com/mnews/article/005/0001806240?sid=101"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 아산캠퍼스 압수수색",
+        "date": "2025-10-02 21:42",
+        "link": "https://n.news.naver.com/mnews/article/056/0012041643?sid=102"
+    },
+    {
+        "title": "삼성디스플레이 OLED 기술 중국 유출 의혹…경찰, 강제수사",
+        "date": "2025-10-02 18:24",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2097081"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단 OLED 기술 中 유출 의혹",
+        "date": "2025-10-02 17:54",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=813704"
+    },
+    {
+        "title": "또…OLED 기술 '中 유출' 정황 포착",
+        "date": "2025-10-02 17:49",
+        "link": "https://n.news.naver.com/mnews/article/015/0005193617?sid=102"
+    },
+    {
+        "title": "삼성디스플레이 첨단기술 中에 유출… 경찰, 압수수색에 긴장감↑",
+        "date": "2025-10-02 17:34",
+        "link": "https://www.ajunews.com/view/20251002173145321"
+    },
+    {
+        "title": "최신 OLED 기술 中 유출 의혹…경찰, 삼성디스플레이 압수수색",
+        "date": "2025-10-02 17:26",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=73381"
+    },
+    {
+        "title": "삼성디스플레이 압수수색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 17:13",
+        "link": "https://n.news.naver.com/mnews/article/056/0012041423?sid=102"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 17:12",
+        "link": "https://n.news.naver.com/mnews/article/422/0000787714?sid=102"
+    },
+    {
+        "title": "카누 전복돼 망망대해에 표류한 남성, 팔목에 있던 '애플워치' 덕에 살...",
+        "date": "2025-10-02 17:10",
+        "link": "https://www.insight.co.kr/news/522998"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…최신기술 중국 유출 의혹",
+        "date": "2025-10-02 17:10",
+        "link": "https://n.news.naver.com/mnews/article/629/0000432160?sid=102"
+    },
+    {
+        "title": "애플, AI 안경 2종 개발 중...'비전 프로' 업그레이드 보류",
+        "date": "2025-10-02 17:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=202918"
+    },
+    {
+        "title": "애플, 머스크의 오픈AI 경쟁법 위반 소송 기각 요청",
+        "date": "2025-10-02 17:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=202934"
+    },
+    {
+        "title": "내년 삼성D 폴더블 출하량 40%가 아이폰용",
+        "date": "2025-10-02 16:54",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41821"
+    },
+    {
+        "title": "아이폰17에 불붙은 OLED 전쟁···韓 두 배 점프 中 BOE 맹추격",
+        "date": "2025-10-02 16:51",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2337619"
+    },
+    {
+        "title": "아이폰17·삼성 폴더블폰 흥행에…韓 OLED 출하량 급증",
+        "date": "2025-10-02 16:46",
+        "link": "https://n.news.naver.com/mnews/article/448/0000561226?sid=101"
+    },
+    {
+        "title": "490만원 VR 헤드셋 외면···애플, 차세대 '스마트글래스'에 베팅",
+        "date": "2025-10-02 16:46",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2337611"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…OLED 기술 유출 정황",
+        "date": "2025-10-02 16:40",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=537952"
+    },
+    {
+        "title": "[자막뉴스] 해외로 기술 유출 혐의 경찰 삼성디스플레이 압색",
+        "date": "2025-10-02 16:35",
+        "link": "https://n.news.naver.com/mnews/article/055/0001297543?sid=101"
+    },
+    {
+        "title": "경찰, '中 기술유출 의혹' 삼성디스플레이 아산캠퍼스 압수수색",
+        "date": "2025-10-02 16:25",
+        "link": "https://n.news.naver.com/mnews/article/011/0004540447?sid=102"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 16:25",
+        "link": "https://n.news.naver.com/mnews/article/422/0000787693?sid=102"
+    },
+    {
+        "title": "신제품 총 정리 애플, 10월 'M5 아이패드 프로·비전 프로' 등 5종 공개...",
+        "date": "2025-10-02 16:24",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537314"
+    },
+    {
+        "title": "탑런에이피솔루션, LG디스플레이 양산 검사장비 첫 수주",
+        "date": "2025-10-02 16:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005193556?sid=101"
+    },
+    {
+        "title": "지도 반출 결정 전 '눈도장'…애플 본사 임원진 국지원 방문",
+        "date": "2025-10-02 16:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0008524192?sid=105"
+    },
+    {
+        "title": "삼성의 '자신감'… '갤럭시XR' 22일 출시 전 실물 국내 공개 [베일 벗은...",
+        "date": "2025-10-02 16:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005416187?sid=105"
+    },
+    {
+        "title": "[IB토마토](단독)삼성 '트라이폴드폰' 핵심기술 유출…65억 받고 중국에...",
+        "date": "2025-10-02 16:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1277052&inflow=N"
+    },
+    {
+        "title": "삼성디스플레이, 최신 OLED 기술 중국 유출 혐의…경찰 압수수색",
+        "date": "2025-10-02 16:06",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=116978"
+    },
+    {
+        "title": "中에 첨단기술 유출 의혹 삼성디스플레이 압수수색",
+        "date": "2025-10-02 16:06",
+        "link": "https://n.news.naver.com/mnews/article/009/0005568916?sid=102"
+    },
+    {
+        "title": "디스플레이 기술 유출 정황 포착... 경찰, 삼성디스플레이 압수수색",
+        "date": "2025-10-02 16:03",
+        "link": "https://n.news.naver.com/mnews/article/014/0005416124?sid=102"
+    },
+    {
+        "title": "최신 기술 중국으로 유출됐나…경찰, 삼성디스플레이 압수수색",
+        "date": "2025-10-02 16:00",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=500802"
+    },
+    {
+        "title": "'핵심기술 中 유출 의혹' 삼성디스플레이…경찰 압수수색",
+        "date": "2025-10-02 16:00",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=125284"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 15:56",
+        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=38272"
+    },
+    {
+        "title": "LG디스플레이, '아이폰17 효과'에 3분기 OLED 출하량 2배↑",
+        "date": "2025-10-02 15:54",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1279682"
+    },
+    {
+        "title": "반도체에 이어 디스플레이 기술도 중국에 유출?...경찰, 삼성디스플레이...",
+        "date": "2025-10-02 15:46",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=72393"
+    },
+    {
+        "title": "애플, 헤드셋 중단하고 AI글라스로",
+        "date": "2025-10-02 15:41",
+        "link": "https://n.news.naver.com/mnews/article/015/0005193490?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 OLED 기술 중국으로 샜나…경찰, 임직원 압수수색",
+        "date": "2025-10-02 15:38",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7131136"
+    },
+    {
+        "title": "LG전자, 우울한 TV 성적표에 수익성 확대 사활",
+        "date": "2025-10-02 15:38",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=40210"
+    },
+    {
+        "title": "OLED 출하량 3Q 급증…'아이폰17' 효과",
+        "date": "2025-10-02 15:34",
+        "link": "https://n.news.naver.com/mnews/article/031/0000970320?sid=105"
+    },
+    {
+        "title": "“애플, 비전프로 개편 보류…’스마트 안경’에 집중”",
+        "date": "2025-10-02 15:30",
+        "link": "https://n.news.naver.com/mnews/article/018/0006131946?sid=101"
+    },
+    {
+        "title": "애플, ‘비전프로’ 후속 계획 접고 AI 스마트 글래스 개발에 집중",
+        "date": "2025-10-02 15:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001112613?sid=105"
+    },
+    {
+        "title": "경찰 삼성디스플레이 압수수색, 첨단기술 중국 유출 수사 착수",
+        "date": "2025-10-02 15:24",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=414696"
+    },
+    {
+        "title": "최신 기술 중국으로 넘어갔나...삼성디스플레이 '발칵' [지금이뉴스]",
+        "date": "2025-10-02 15:22",
+        "link": "https://n.news.naver.com/mnews/article/052/0002255172?sid=102"
+    },
+    {
+        "title": "레드포스 PC방, 사당점에 FPS 특화 기어 '조위존' 선보인다",
+        "date": "2025-10-02 15:22",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=229844"
+    },
+    {
+        "title": "삼성 트라이폴드 가격 예상해보기...사양에 따라 300~400만 원 초반대?",
+        "date": "2025-10-02 15:08",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331824"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색...최신 기술 中 유출 의혹",
+        "date": "2025-10-02 15:01",
+        "link": "https://www.newspim.com/news/view/20251002000930"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색 '첨단기술 中 유출 의혹'",
+        "date": "2025-10-02 15:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025100214550880237"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 14:57",
+        "link": "https://n.news.naver.com/mnews/article/586/0000113172?sid=102"
+    },
+    {
+        "title": "HB솔루션, OLED 넘어 마이크로LED 공정 장비 선도한다",
+        "date": "2025-10-02 14:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=382604"
+    },
+    {
+        "title": "韓 디스플레이 회복세 뚜렷…애플 물량 확보 관건",
+        "date": "2025-10-02 14:48",
+        "link": "https://www.news2day.co.kr/article/20251002500164"
+    },
+    {
+        "title": "'아이폰 17' 덕에 LG디스플레이 OLED 출하량 2배 급증",
+        "date": "2025-10-02 14:48",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=122093"
+    },
+    {
+        "title": "첨단 OLED 기술 中에 유출했나…경찰, 삼성디스플레이 전력 압수수색 [종...",
+        "date": "2025-10-02 14:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=234431"
+    },
+    {
+        "title": "韓 올레드 패널 3분기 출하량 급증…아이폰17 효과",
+        "date": "2025-10-02 14:42",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279724"
+    },
+    {
+        "title": "유비리서치 아이폰17·삼성 폴더블폰 흥행에 OLED 출하량 전분기 2배 증...",
+        "date": "2025-10-02 14:40",
+        "link": "https://n.news.naver.com/mnews/article/374/0000467145?sid=101"
+    },
+    {
+        "title": "삼성·애플 시장에 도전장 내밀었다…가격도 절반대, 확 얇아진 모토로...",
+        "date": "2025-10-02 14:40",
+        "link": "https://n.news.naver.com/mnews/article/009/0005568815?sid=101"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…기술 유출 정황",
+        "date": "2025-10-02 14:40",
+        "link": "https://news.mtn.co.kr/news-detail/2025100214382956701"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 중국 유출 의혹 확인",
+        "date": "2025-10-02 14:39",
+        "link": "https://n.news.naver.com/mnews/article/056/0012041304?sid=102"
+    },
+    {
+        "title": "정부·SKT·KT·LG U+·삼성·애플, 연내 폰 유통 종합시책 수립",
+        "date": "2025-10-02 14:36",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148475"
+    },
+    {
+        "title": "애플, 비전프로 개편 보류 ... AI 안경 개발에 집중",
+        "date": "2025-10-02 14:28",
+        "link": "https://n.news.naver.com/mnews/article/009/0005568803?sid=105"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…직원이 중국으로 기술 유출 의혹",
+        "date": "2025-10-02 14:26",
+        "link": "https://n.news.naver.com/mnews/article/081/0003579896?sid=102"
+    },
+    {
+        "title": "아이폰17·폴더블폰 흥행…3분기 스마트폰 OLED 출하량 껑충",
+        "date": "2025-10-02 14:22",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1289491"
+    },
+    {
+        "title": "D램에 디스플레이 기술까지 중국에…삼성D 기술 유출 의혹 경찰 압색",
+        "date": "2025-10-02 14:18",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=254210"
+    },
+    {
+        "title": "삼성디스플레이 임직원, 중국에 기술유출 의혹…경찰 압수수색",
+        "date": "2025-10-02 14:18",
+        "link": "https://n.news.naver.com/mnews/article/028/0002769492?sid=102"
+    },
+    {
+        "title": "삼성디스플레이 아산사업장 압수수색…일부 임직원의 첨단기술 중국 유...",
+        "date": "2025-10-02 14:16",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=22123"
+    },
+    {
+        "title": "경찰, '첨단기술 중국 유출 의혹' 삼성디스플레이 압수수색",
+        "date": "2025-10-02 14:13",
+        "link": "https://n.news.naver.com/mnews/article/119/0003010201?sid=102"
+    },
+    {
+        "title": "[더벨][Company Watch]플리토, 애플·메타·아마존 등 빅테크 행사 '러브...",
+        "date": "2025-10-02 14:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509301524467680105789"
+    },
+    {
+        "title": "베일벗는 삼성 야심작 '갤럭시XR'…출시 전 실물 전시 자신감",
+        "date": "2025-10-02 14:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005416039?sid=105"
+    },
+    {
+        "title": "메타에 놀란 애플…비전 에어 출시 보류→스마트 안경 개발 집중",
+        "date": "2025-10-02 14:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392974?sid=105"
+    },
+    {
+        "title": "아이폰17 출시에 3분기 OLED 패널 출하 급증",
+        "date": "2025-10-02 14:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392975?sid=105"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…최신 기술 中 유출 정황",
+        "date": "2025-10-02 14:08",
+        "link": "http://www.segyebiz.com/newsView/20251002510958?OutUrl=naver"
+    },
+    {
+        "title": "애플, '멀티 챗봇' 전략으로 xAI 독점 소송 반격…AI 디바이스 주도권 경...",
+        "date": "2025-10-02 14:07",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206464?sid=105"
+    },
+    {
+        "title": "경찰, ‘중국 업체에 기술 유출 정황’ 삼성디스플레이 압수수색",
+        "date": "2025-10-02 14:07",
+        "link": "https://n.news.naver.com/mnews/article/005/0001806121?sid=102"
+    },
+    {
+        "title": "또 中에 유출된 우리 최신 기술…경찰, 삼성디스플레이 압색",
+        "date": "2025-10-02 14:06",
+        "link": "https://n.news.naver.com/mnews/article/021/0002740943?sid=101"
+    },
+    {
+        "title": "경찰, '中 기술유출 의혹' 삼성디스플레이 아산캠퍼스 압수수색",
+        "date": "2025-10-02 14:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004540378?sid=102"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 아산사업장 압수수색…첨단 기술 중국 유출 의혹",
+        "date": "2025-10-02 14:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1681245"
+    },
+    {
+        "title": "경찰 '첨단기술 중국 유출 의혹' 삼성디스플레이 압수수색",
+        "date": "2025-10-02 14:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005416029?sid=102"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수 수색…기술 유출 정황",
+        "date": "2025-10-02 13:52",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=671032"
+    },
+    {
+        "title": "애플 아이폰 17 출시로 3분기 OLED 패널 출하량 급증",
+        "date": "2025-10-02 13:50",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56314"
+    },
+    {
+        "title": "“첨단기술 또 중국 유출?” 경찰, 삼성디스플레이 압수수색",
+        "date": "2025-10-02 13:50",
+        "link": "https://n.news.naver.com/mnews/article/009/0005568769?sid=101"
+    },
+    {
+        "title": "올 10월, 애플 5개 이상 신제품 선보인다…기대작 총정리",
+        "date": "2025-10-02 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=595618"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색 “중국 기업에 기술 유출 정황 포착”",
+        "date": "2025-10-02 13:46",
+        "link": "https://n.news.naver.com/mnews/article/023/0003932724?sid=102"
+    },
+    {
+        "title": "TCL, QD-미니 LED TV로 ‘EISA 어워즈’ 및 ’IFA 2025’ 동시 수상",
+        "date": "2025-10-02 13:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202510021325059620999"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압색…첨단기술 중국 유출 의혹",
+        "date": "2025-10-02 13:40",
+        "link": "https://n.news.naver.com/mnews/article/015/0005193410?sid=101"
+    },
+    {
+        "title": "볼트테크코리아, 롯데하이마트와 함께 '아이폰 17 업그레이드 서비스'출...",
+        "date": "2025-10-02 13:40",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=841808"
+    },
+    {
+        "title": "경찰, 삼성디스플레이 압수수색…첨단기술 中 유출 의혹",
+        "date": "2025-10-02 13:37",
+        "link": "https://n.news.naver.com/mnews/article/374/0000467119?sid=101"
+    },
+    {
+        "title": "애플사이다비니거 논문 철회 논란…수천 년 간 이어져온 진짜 효능은?",
+        "date": "2025-10-02 13:36",
+        "link": "https://mdtoday.co.kr/news/view/1065574983238649"
+    },
+    {
+        "title": "갤럭시 S26 울트라, 새로운 CAD 렌더링 유출... 슬림한 두께 무색해지는...",
+        "date": "2025-10-02 13:26",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804755"
+    },
+    {
+        "title": "'레드포스 PC방 사당점', 초고사양 기어 &amp; 초고주사율 600Hz 모니터 기반...",
+        "date": "2025-10-02 13:24",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1038489"
+    },
+    {
+        "title": "[인터뷰] 유봉현 유비랩 대표 첨단방열소재 개발로 원가 절감·고품질...",
+        "date": "2025-10-02 13:16",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1681223"
+    },
+    {
+        "title": "3분기 OLED 패널 출하 급증… 아이폰 17 효과로 한국 업체 회복세 뚜렷",
+        "date": "2025-10-02 13:14",
+        "link": "https://kbench.com/?q=node/271992"
+    },
+    {
         "title": "3분기 OLED 패널 출하 급증⋯아이폰 17 효과로 한국 업체 회복세 뚜렷",
         "date": "2025-10-02 13:00",
         "link": "https://www.epnc.co.kr/news/articleView.html?idxno=323269"
@@ -253,325 +698,5 @@
         "title": "2026년 세계 최저가 OLED TV 나올까…LG·삼성, 원가 50% 낮추는 혁신 도...",
         "date": "2025-10-02 07:08",
         "link": "https://www.g-enews.com/view.php?ud=202510020625104483fbbec65dfb_1"
-    },
-    {
-        "title": "[SUCCESS 소자본경영](28) 고객 동선을 고려한 매장 설계",
-        "date": "2025-10-02 06:36",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=74183"
-    },
-    {
-        "title": "SDC·LGD, 대형 OLED 사업…TV대신 '모니터'에 집중",
-        "date": "2025-10-02 06:32",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=40185"
-    },
-    {
-        "title": "“애플 주가, 20% 더 오를 여력 있다”…아이폰17 흥행 기대감 고조",
-        "date": "2025-10-02 06:08",
-        "link": "https://www.g-enews.com/view.php?ud=202510020123292531be84d87674_1"
-    },
-    {
-        "title": "애플 첫 비전 프로 사실상 실패였는데…2세대는 성공할까",
-        "date": "2025-10-02 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013519781?sid=105"
-    },
-    {
-        "title": "일본 소부장 기업이 한국인 사장님 모신 이유…“삼성·LG 뚫어야”",
-        "date": "2025-10-02 05:24",
-        "link": "https://n.news.naver.com/mnews/article/009/0005568508?sid=101"
-    },
-    {
-        "title": "이전의 아이폰은 잊어라… ‘얇은 폰’ 새 지평 연 아이폰 에어",
-        "date": "2025-10-02 02:18",
-        "link": "https://n.news.naver.com/mnews/article/005/0001806038?sid=101"
-    },
-    {
-        "title": "노트북인가 태블릿인가… 초대형 화면에 AI가 ‘쏙’",
-        "date": "2025-10-02 02:17",
-        "link": "https://n.news.naver.com/mnews/article/005/0001806037?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, '도쿄게임쇼 2025' 참가…엔씨소프트와 올레드(OLED·유...",
-        "date": "2025-10-01 23:06",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=407575"
-    },
-    {
-        "title": "퀄컴 ARM 노트북, 인텔·AMD 아성 넘을 수 있을까 [위클리 디지털포스트...",
-        "date": "2025-10-01 19:04",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56285"
-    },
-    {
-        "title": "'비전 2030' 선언한 LG이노텍, '애플 딜레마' 빠졌다",
-        "date": "2025-10-01 18:58",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=254117"
-    },
-    {
-        "title": "LG가 잡으려던 애플, 폭스콘이 채갔다…中 제조굴기의 서막",
-        "date": "2025-10-01 18:08",
-        "link": "https://www.tokenpost.kr/news/insights/290848"
-    },
-    {
-        "title": "韓제조업·日소부장 잇는 가교 될 것",
-        "date": "2025-10-01 17:59",
-        "link": "https://n.news.naver.com/mnews/article/009/0005568370?sid=104"
-    },
-    {
-        "title": "애플 “일부 대기업만 30% 수수료 내”… 갑질 의혹 반박",
-        "date": "2025-10-01 17:44",
-        "link": "https://n.news.naver.com/mnews/article/366/0001112407?sid=105"
-    },
-    {
-        "title": "유니셈, 티안마 TM18에 냉각기 26대 공급",
-        "date": "2025-10-01 17:38",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=41695"
-    },
-    {
-        "title": "애플 인앱결제 수수료 과도하지 않아…규제에 반박",
-        "date": "2025-10-01 16:58",
-        "link": "https://n.news.naver.com/mnews/article/018/0006130812?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 3분기 적자늪 탈출하나…OLED 성장세·美 규제 호재 겹쳤...",
-        "date": "2025-10-01 15:54",
-        "link": "https://www.newspim.com/news/view/20251001000974"
-    },
-    {
-        "title": "삼성 13개 계열사 노조, 성과급 제도 개선 요구···협상은 어떻게?",
-        "date": "2025-10-01 15:41",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=608701"
-    },
-    {
-        "title": "요즘 효도폰으로 AI 장착한 '초슬림 폴더블폰' 뜬다",
-        "date": "2025-10-01 15:40",
-        "link": "https://n.news.naver.com/mnews/article/015/0005192844?sid=101"
-    },
-    {
-        "title": "애플, 수면무호흡 알림 기능 국내 출시하며 건강 관리 강화",
-        "date": "2025-10-01 15:28",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=455186"
-    },
-    {
-        "title": "덕산네오룩스, 아이폰17 흥행 수혜 기대…OLED 가치사슬 강화",
-        "date": "2025-10-01 15:22",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=382228"
-    },
-    {
-        "title": "국감 소환된 애플...인앱결제 30% 수수료는 대기업만, '갑질' 안했다",
-        "date": "2025-10-01 15:22",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=382225"
-    },
-    {
-        "title": "애플, EU발 인앱결제 규제 확산에 긴장…韓 시장서도 우려 제기",
-        "date": "2025-10-01 15:06",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=279608"
-    },
-    {
-        "title": "삼성·애플 장악 韓 스마트폰 시장에 도전장 던진 中...프리미엄 전략 ...",
-        "date": "2025-10-01 15:04",
-        "link": "http://www.metroseoul.co.kr/article/20251001500448"
-    },
-    {
-        "title": "美 FCC 인증 확인됐다 애플, 신형 '맥북 프로·아이패드 프로' 곧 출시...",
-        "date": "2025-10-01 14:56",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537225"
-    },
-    {
-        "title": "인텔, 애플·TSMC에 투자 또는 제조 협력 요청",
-        "date": "2025-10-01 14:54",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=455154"
-    },
-    {
-        "title": "AI 팩토리 선도사업, 2030년까지 500개로 확대한다",
-        "date": "2025-10-01 14:50",
-        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=218489"
-    },
-    {
-        "title": "중국의 'IT기술 굴기'…뒤에는 '애플'이 있었다",
-        "date": "2025-10-01 14:37",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000007733"
-    },
-    {
-        "title": "베셀 주가 급반전... 디스플레이 장비·필름 소재로 글로벌 경쟁력 강화",
-        "date": "2025-10-01 14:22",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=382189"
-    },
-    {
-        "title": "인앱결제 비판에 애플 30% 수수료는 일부만",
-        "date": "2025-10-01 14:11",
-        "link": "https://n.news.naver.com/mnews/article/001/0015661473?sid=105"
-    },
-    {
-        "title": "애플, 내구성·착용감 향상 신형 '파워비츠 핏' 공식 발표",
-        "date": "2025-10-01 14:10",
-        "link": "https://kbench.com/?q=node/271945"
-    },
-    {
-        "title": "애플, EU발 인앱결제 규제 확산에 긴장…韓 시장서도 우려 제기",
-        "date": "2025-10-01 14:09",
-        "link": "https://n.news.naver.com/mnews/article/003/0013518432?sid=105"
-    },
-    {
-        "title": "美고용평등위, 애플 상대로 소송…유대인 직원 차별",
-        "date": "2025-10-01 14:08",
-        "link": "https://n.news.naver.com/mnews/article/018/0006130596?sid=104"
-    },
-    {
-        "title": "애플 인앱 수수료는 우리 인프라 쓰는 대가…EU식 규제 우려",
-        "date": "2025-10-01 14:02",
-        "link": "https://n.news.naver.com/mnews/article/421/0008521150?sid=105"
-    },
-    {
-        "title": "애플 ,'사이드로딩 의무화' 보안·개인정보 훼손 우려... EU 규제 반박",
-        "date": "2025-10-01 13:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003356555?sid=105"
-    },
-    {
-        "title": "아이씨디 주가 벌떡... LCD 강자에서 OLED 핵심 장비 기업 도약",
-        "date": "2025-10-01 13:24",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=382160"
-    },
-    {
-        "title": "M5 맥북 프로·아이패드 프로 출시 임박…비전 프로도?",
-        "date": "2025-10-01 12:56",
-        "link": "https://n.news.naver.com/mnews/article/092/0002392780?sid=105"
-    },
-    {
-        "title": "모토로라도 슬림폰 경쟁 합류…스냅드래곤 8 5세대 칩 탑재 가능성↑",
-        "date": "2025-10-01 12:43",
-        "link": "https://n.news.naver.com/mnews/article/092/0002392778?sid=105"
-    },
-    {
-        "title": "게이밍 기어와 함께 한가위를 즐겨요! ROG, 알리 한가위 대잔치 세일 진...",
-        "date": "2025-10-01 12:28",
-        "link": "https://kbench.com/?q=node/271927"
-    },
-    {
-        "title": "중국의 'IT기술 굴기'…뒤에는 '애플'이 있었다",
-        "date": "2025-10-01 11:46",
-        "link": "https://n.news.naver.com/mnews/article/001/0015661052?sid=103"
-    },
-    {
-        "title": "삼성 '트라이폴드폰' 공개 시간표 윤곽…출시 가격은?",
-        "date": "2025-10-01 11:42",
-        "link": "https://n.news.naver.com/mnews/article/629/0000431540?sid=105"
-    },
-    {
-        "title": "고려대, 양자점 정밀 패터닝 기술 개발… AR·VR 초고해상도 디스플레이...",
-        "date": "2025-10-01 11:30",
-        "link": "http://www.kyosu.net/news/articleView.html?idxno=145562"
-    },
-    {
-        "title": "신형 M5 아이패드 프로 언박싱 영상 유출…뭐가 달라졌나",
-        "date": "2025-10-01 11:26",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=595275"
-    },
-    {
-        "title": "'정철동 매직' 또한번 … LG디스플레이, 흑자 전환 따논 당상",
-        "date": "2025-10-01 11:24",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/01/2025100100156.html"
-    },
-    {
-        "title": "대형 화면과 고성능 갖춘 실속파 게이밍 노트북, 에이수스 TUF Gaming A18 (...",
-        "date": "2025-10-01 11:20",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56296"
-    },
-    {
-        "title": "LGD, ‘궁극의 폼팩터’ 스트레처블 디스플레이 개발 박차",
-        "date": "2025-10-01 11:20",
-        "link": "https://n.news.naver.com/mnews/article/016/0002537843?sid=101"
-    },
-    {
-        "title": "애플, 워치OS 26 기능 업그레이드…사용자 경험 혁신",
-        "date": "2025-10-01 11:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=595255"
-    },
-    {
-        "title": "고려대 양자점 정밀 패터닝 기술 개발… AR·VR 초고해상도 디스플레이...",
-        "date": "2025-10-01 11:02",
-        "link": "http://www.veritas-a.com/news/articleView.html?idxno=575541"
-    },
-    {
-        "title": "'라이벌' 삼성이 확정해줬다?…애플, 내년 폴더블 아이폰 출시 초읽기",
-        "date": "2025-10-01 10:46",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=279516"
-    },
-    {
-        "title": "애플, 신형 맥북 프로·아이패드 출시 임박?…FCC 인증 확인",
-        "date": "2025-10-01 10:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=595234"
-    },
-    {
-        "title": "삼성, APEC서 '트라이폴드폰' 공개…애플·화웨이에 맞불",
-        "date": "2025-10-01 10:11",
-        "link": "https://n.news.naver.com/mnews/article/648/0000040435?sid=105"
-    },
-    {
-        "title": "LGD, 스트레처블 디스플레이 등 미래 사업 포트폴리오 다각화",
-        "date": "2025-10-01 10:06",
-        "link": "https://n.news.naver.com/mnews/article/016/0002537694?sid=101"
-    },
-    {
-        "title": "IBK투자 LG디스플레이 목표주가 상향, 미국 OLED 공급망의 유일한 대안...",
-        "date": "2025-10-01 09:56",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=414360"
-    },
-    {
-        "title": "기가바이트, 27인치 QHD 280Hz WOLED 4면 보더리스 게이밍 모니터 MO27Q28G...",
-        "date": "2025-10-01 09:46",
-        "link": "https://kbench.com/?q=node/271904"
-    },
-    {
-        "title": "갤럭시 맛보는 Z세대, 아이폰 꼭 쥔 ‘영포티’",
-        "date": "2025-10-01 09:33",
-        "link": "https://n.news.naver.com/mnews/article/640/0000077671?sid=101"
-    },
-    {
-        "title": "'M5 아이패드 프로' 공식 발표 전 유출…FCC 문서에 애플 신제품 무더기...",
-        "date": "2025-10-01 09:30",
-        "link": "https://n.news.naver.com/mnews/article/138/0002206300?sid=105"
-    },
-    {
-        "title": "삼성, 3단 폴더블폰 '갤럭시Z 트라이폴드' APEC서 베일 벗나?",
-        "date": "2025-10-01 09:10",
-        "link": "https://kbench.com/?q=node/271901"
-    },
-    {
-        "title": "가성비 좋은 실용적 게이밍 모니터... 기가바이트 GS27FA FHD 게이밍 180 ...",
-        "date": "2025-10-01 09:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56263"
-    },
-    {
-        "title": "IBK證 LG디스플레이, 美 OLED 공급망 유일한 대안…목표가 2만원",
-        "date": "2025-10-01 08:46",
-        "link": "https://n.news.naver.com/mnews/article/421/0008519988?sid=101"
-    },
-    {
-        "title": "아이디어가 현실이 되는 곳: 유럽 디스플레이 쇼룸 '프랑크푸르트 삼성...",
-        "date": "2025-10-01 08:38",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=66821"
-    },
-    {
-        "title": "IBK證 “LG디스플레이, OLED 체질 개선 효과 지속… 목표가 2만원으로 상...",
-        "date": "2025-10-01 08:36",
-        "link": "https://n.news.naver.com/mnews/article/366/0001112166?sid=101"
-    },
-    {
-        "title": "[알짜배기 지식재산]특허 데이터=기술 경쟁력, 키워트로 사업 전략 짜...",
-        "date": "2025-10-01 08:25",
-        "link": "https://n.news.naver.com/mnews/article/277/0005660335?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 미국 OLED 공급망의 유일한 대안…목표가↑-IBK",
-        "date": "2025-10-01 08:02",
-        "link": "https://n.news.naver.com/mnews/article/015/0005192488?sid=101"
-    },
-    {
-        "title": "아이폰 17 카메라 오류 해결! 애플 신규 iOS 26.0.1 업데이트 핵심은?",
-        "date": "2025-10-01 07:42",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537173"
-    },
-    {
-        "title": "아마존, 알렉사+ 탑재한 스마트홈 신제품 대공개…AI 오디오·전자책까...",
-        "date": "2025-10-01 07:38",
-        "link": "https://www.tokenpost.kr/news/tech/290655"
     }
 ]
