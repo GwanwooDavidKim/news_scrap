@@ -1,5 +1,50 @@
 [
     {
+        "title": "삼성전자, 中 시장용 폴더블 폰 'W26' 11일 출시",
+        "date": "2025-10-07 03:08",
+        "link": "https://www.g-enews.com/view.php?ud=2025100614302181926ed0c62d49_1"
+    },
+    {
+        "title": "스마트폰 대신 안경? 이제 '스마트 안경' 시대",
+        "date": "2025-10-07 02:51",
+        "link": "https://n.news.naver.com/mnews/article/052/0002256414?sid=104"
+    },
+    {
+        "title": "프랑스, 애플 '시리' 음성 무단 수집 의혹 수사 착수",
+        "date": "2025-10-07 01:10",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=83283"
+    },
+    {
+        "title": "아이폰17 잇따른 하자 논란에 '긴급 처방' 나선 애플",
+        "date": "2025-10-06 19:44",
+        "link": "https://n.news.naver.com/mnews/article/057/0001912077?sid=101"
+    },
+    {
+        "title": "삼성, 이달 中 전용 폴더블폰 'W26' 출격",
+        "date": "2025-10-06 17:52",
+        "link": "https://n.news.naver.com/mnews/article/030/0003357456?sid=105"
+    },
+    {
+        "title": "애플 폴더블 수혜자 “나야 나”…삼성D 선두로 LGD 추격전",
+        "date": "2025-10-06 17:30",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1276897&inflow=N"
+    },
+    {
+        "title": "삼성월렛, '코인 거래소' 된다",
+        "date": "2025-10-06 15:16",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41870"
+    },
+    {
+        "title": "갤럭시의 한국, 로컬의 중국, 아이폰의 일본···한중일 ‘삼국삼색’...",
+        "date": "2025-10-06 13:35",
+        "link": "https://n.news.naver.com/mnews/article/032/0003400835?sid=105"
+    },
+    {
+        "title": "AI가 자동차 만들고 로봇이 돌봄까지..딜로이트가 분석한 핵심 트렌드는...",
+        "date": "2025-10-06 13:16",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=59358"
+    },
+    {
         "title": "삼성, 추석 직후 '트리폴드폰' 공개···'두 번 접는 폰' 시대 개막",
         "date": "2025-10-06 10:30",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2337944"
@@ -33,85 +78,5 @@
         "title": "AI 성장에 게이밍 시장도 폭발…韓 독식 'OLED 모니터' 쑥쑥 큰다",
         "date": "2025-10-06 07:30",
         "link": "https://n.news.naver.com/mnews/article/421/0008526842?sid=101"
-    },
-    {
-        "title": "삼성, 中 전용 폴더블폰 'W25' 출시…프리미엄 수요 공략",
-        "date": "2025-10-06 06:30",
-        "link": "https://n.news.naver.com/mnews/article/014/0005416641?sid=105"
-    },
-    {
-        "title": "얇고 가볍지만 그립감은 뚝…'아이폰 에어'의 첫인상 [테크로그]",
-        "date": "2025-10-06 06:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005260172?sid=105"
-    },
-    {
-        "title": "아이폰 17 시리즈 흥행 속 '에어'만 부진...폴더블 아이폰으로 대체되나",
-        "date": "2025-10-05 18:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537397"
-    },
-    {
-        "title": "OLED 시장, 한국 83.7% 압도적 우위 이어간다, 삼성디스플레이 54,3%, LG디...",
-        "date": "2025-10-05 17:44",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537401"
-    },
-    {
-        "title": "6월 이후 월간 영업이익 흑자 전환 기대… 해성옵틱스, 실적 개선 청신...",
-        "date": "2025-10-05 15:50",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=383007"
-    },
-    {
-        "title": "넥슨 “‘마비노기 모바일’ 매출, 구글 플레이 1위·애플 앱스토어 2위...",
-        "date": "2025-10-05 14:05",
-        "link": "https://n.news.naver.com/mnews/article/022/0004073369?sid=105"
-    },
-    {
-        "title": "애플, 미국서 이민세관단속국(ICE) 추적앱 삭제",
-        "date": "2025-10-05 11:12",
-        "link": "https://n.news.naver.com/mnews/article/030/0003357370?sid=105"
-    },
-    {
-        "title": "폴더블 넘은 트리폴드…삼성, APEC서 신형 스마트폰 첫선",
-        "date": "2025-10-05 10:56",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1277115&inflow=N"
-    },
-    {
-        "title": "트럼프 행정부 압박에 애플, ‘이민단속 추적 앱’ 앱스토어서 삭제",
-        "date": "2025-10-05 10:52",
-        "link": "https://n.news.naver.com/mnews/article/009/0005569626?sid=105"
-    },
-    {
-        "title": "[리뷰] 갤럭시 탭 S11 울트라 추석에 K-드라마를 즐기는 당신에게 어울...",
-        "date": "2025-10-05 10:40",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=72444"
-    },
-    {
-        "title": "추석 끝나면 ‘두 번 접는 폰’ 시대 열린다…삼성, 트리폴드폰 출시 임...",
-        "date": "2025-10-05 09:42",
-        "link": "https://n.news.naver.com/mnews/article/009/0005569610?sid=101"
-    },
-    {
-        "title": "외산폰 전쟁터 된 한국…애플·샤오미·낫싱, 삼성에 도전장",
-        "date": "2025-10-05 09:06",
-        "link": "https://news.mtn.co.kr/news-detail/2025100314424816915"
-    },
-    {
-        "title": "면사랑, 유기농 애플사이다비기너·삼색 동물파스타 신제품 공개",
-        "date": "2025-10-05 09:02",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=683399"
-    },
-    {
-        "title": "'중대형 OLED' 올해 성장세 뚜렷…삼성·LGD 매출 확대 기회",
-        "date": "2025-10-05 08:45",
-        "link": "https://n.news.naver.com/mnews/article/092/0002393088?sid=105"
-    },
-    {
-        "title": "깃털처럼 스마트폰 두께 전쟁의 서막…삼성 '엣지' vs 애플 '에어'",
-        "date": "2025-10-05 08:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013523451?sid=105"
-    },
-    {
-        "title": "“중국에서 그만 나오지” 트럼프 압박에도…발목 잡힌 애플의 속사정 ...",
-        "date": "2025-10-05 07:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005569590?sid=103"
     }
 ]
