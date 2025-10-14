@@ -1,5 +1,305 @@
 [
     {
+        "title": "EU 8225억원 vs 한국 680억원, 구글·애플 과징금 수준 차이에 솜방망이...",
+        "date": "2025-10-15 03:38",
+        "link": "https://www.insight.co.kr/news/524176"
+    },
+    {
+        "title": "애플 신제품 3종, 이번 주 베일 벗나…M5 칩 탑재할 듯",
+        "date": "2025-10-15 02:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013534664?sid=104"
+    },
+    {
+        "title": "“애플 이제는 한계” 전 CEO가 뼈 때렸다…증시불장 소외된이유 있었네",
+        "date": "2025-10-15 00:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005572865?sid=105"
+    },
+    {
+        "title": "“특정 결제방식 강요, 9조 번 구글·애플… 과징금은 680억뿐”",
+        "date": "2025-10-15 00:22",
+        "link": "https://n.news.naver.com/mnews/article/005/0001807769?sid=101"
+    },
+    {
+        "title": "구글·애플 '인앱결제 갑질' 지적에 '회피' 일관…사회적 책임엔 공감",
+        "date": "2025-10-14 22:39",
+        "link": "https://n.news.naver.com/mnews/article/421/0008538145?sid=105"
+    },
+    {
+        "title": "구글·애플, 과징금 지연·高수수료 논란…국감서 쏟아진 ‘빅테크 경고...",
+        "date": "2025-10-14 20:52",
+        "link": "https://www.kukinews.com/article/view/kuk202510140278"
+    },
+    {
+        "title": "“게임사, 9조 수수료에 허리 휜다”…국감 오른 구글·애플 인앱결제",
+        "date": "2025-10-14 19:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138124?sid=105"
+    },
+    {
+        "title": "에픽게임즈 韓 세계 첫 인앱결제 금지법 통과했지만, 애플·구글 여전...",
+        "date": "2025-10-14 19:49",
+        "link": "https://n.news.naver.com/mnews/article/003/0013534361?sid=105"
+    },
+    {
+        "title": "구글·애플, 국감서 '앱마켓 수수료' 뭇매",
+        "date": "2025-10-14 19:13",
+        "link": "https://n.news.naver.com/mnews/article/293/0000073546?sid=105"
+    },
+    {
+        "title": "갤럭시Z 폴드·플립7 흥행 돌풍... 삼성 스마트폰 3분기도 웃는다 [삼성...",
+        "date": "2025-10-14 19:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419226?sid=105"
+    },
+    {
+        "title": "최민희 애플은 영업 보복하지말고 규제 준수하라 [국감2025]",
+        "date": "2025-10-14 18:54",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148887"
+    },
+    {
+        "title": "앱마켓 갑질 놓고 공방…게임사 30% 수수료 vs 애플 대부분 면제[202...",
+        "date": "2025-10-14 18:32",
+        "link": "https://n.news.naver.com/mnews/article/119/0003012522?sid=105"
+    },
+    {
+        "title": "애플코리아 사장 수수료갑질·영업보복 사항 본사에 잘 전달",
+        "date": "2025-10-14 18:22",
+        "link": "https://n.news.naver.com/mnews/article/421/0008537760?sid=105"
+    },
+    {
+        "title": "중소사 대표 피해 호소…애플 코리아 사장 한국 개발자 87% 수수료 안 낸...",
+        "date": "2025-10-14 18:18",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42049"
+    },
+    {
+        "title": "애플코리아 사장, 갑질 논란에 “대규모 개발자에만 30% 수수료”",
+        "date": "2025-10-14 18:05",
+        "link": "https://n.news.naver.com/mnews/article/011/0004543195?sid=105"
+    },
+    {
+        "title": "애플 전 CEO 오픈AI는 수십년 만에 등장한 최초의 진정한 경쟁자",
+        "date": "2025-10-14 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=203155"
+    },
+    {
+        "title": "'갤 Z7' 끌고 트리폴드 밀고…MX사업부 역대급 실적",
+        "date": "2025-10-14 17:43",
+        "link": "https://n.news.naver.com/mnews/article/011/0004543163?sid=105"
+    },
+    {
+        "title": "'갤럭시'가 효자···APEC서 공개 '트라이폴드 폰' 기대감도",
+        "date": "2025-10-14 17:42",
+        "link": "https://www.ajunews.com/view/20251014150721288"
+    },
+    {
+        "title": "삼성·화웨이 기다려… 애플, 폴더블폰 가격 문턱 낮출까",
+        "date": "2025-10-14 17:26",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148874"
+    },
+    {
+        "title": "구글·애플 인앱결제 과징금 부과 신속 처리해야…액수도 현저히 적어...",
+        "date": "2025-10-14 17:20",
+        "link": "https://www.mediapen.com/news/view/1048947"
+    },
+    {
+        "title": "아리얼, '애플 사이다 젤리 팩 투 폼' 출시",
+        "date": "2025-10-14 17:20",
+        "link": "https://n.news.naver.com/mnews/article/008/0005262622?sid=101"
+    },
+    {
+        "title": "애플 아픈 곳 콕 찌른 前 CEO … 앱 중심 사업모델 이젠 한계",
+        "date": "2025-10-14 17:20",
+        "link": "https://n.news.naver.com/mnews/article/009/0005572677?sid=105"
+    },
+    {
+        "title": "전기전자 부품주도 모처럼 ‘기지개’ …삼성전기·LG이노텍, AI·모바일...",
+        "date": "2025-10-14 17:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025101416342299721"
+    },
+    {
+        "title": "印 타타, 中 저스텍 인도 사업부 인수...아이폰 생산능력 확대 위한 것...",
+        "date": "2025-10-14 16:51",
+        "link": "https://www.newspim.com/news/view/20251014001083"
+    },
+    {
+        "title": "구글·애플 제재 왜 못 했나…국감서 인앱결제법 실효성 '집중 질타'",
+        "date": "2025-10-14 16:48",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=674939"
+    },
+    {
+        "title": "국정감사, 유튜브·구글·애플 '책임 회피' 집중 공격…과징금 지연에 ...",
+        "date": "2025-10-14 16:46",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=842852"
+    },
+    {
+        "title": "갤럭시Z폴드7 흥행에…삼성전자, 3분기도 모바일 날았다",
+        "date": "2025-10-14 16:37",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419093?sid=105"
+    },
+    {
+        "title": "삼성전자, 올 3분기 스마트폰 출하 1위 유지…애플은 2위",
+        "date": "2025-10-14 16:36",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=67828"
+    },
+    {
+        "title": "“9조 벌고도 책임은 0원”…국감서 구글·애플·유튜브 ‘면책 구조’...",
+        "date": "2025-10-14 16:15",
+        "link": "https://n.news.naver.com/mnews/article/117/0003997511?sid=105"
+    },
+    {
+        "title": "구글·애플, 9조원 벌고도 책임 회피…국감서 '빅테크 봐주기' 뭇매",
+        "date": "2025-10-14 16:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=384782"
+    },
+    {
+        "title": "[In터뷰] 에스제이신소재 김훈래 대표, 차별화된 코팅 기술과 로컬 대...",
+        "date": "2025-10-14 15:56",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=72633"
+    },
+    {
+        "title": "[르포] 아이폰 17 체험에 현대 미술 감상도…LG유플러스 '틈' 가보니",
+        "date": "2025-10-14 15:42",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251014010003656"
+    },
+    {
+        "title": "스마트글래스 시장 성장세…삼성전자·삼성D, 새 공급망 되나",
+        "date": "2025-10-14 15:40",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=187407"
+    },
+    {
+        "title": "유럽은 8000억, 한국은 680억…구글·애플 횡포부려도 과징금 못 걷는다...",
+        "date": "2025-10-14 15:35",
+        "link": "https://n.news.naver.com/mnews/article/009/0005572567?sid=101"
+    },
+    {
+        "title": "구글·애플 과징금 2년째 미집행…방미통위 '집행력 부재' 질타",
+        "date": "2025-10-14 15:30",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=782904"
+    },
+    {
+        "title": "애플, '애플 TV+' 이름 버린다…이제는 단순히 '애플 TV'로 통합",
+        "date": "2025-10-14 15:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537634"
+    },
+    {
+        "title": "‘오비이락’? 애플 CEO 라부부 매장 방문…아이폰 에어 중국 공식출시",
+        "date": "2025-10-14 15:23",
+        "link": "https://n.news.naver.com/mnews/article/081/0003582019?sid=104"
+    },
+    {
+        "title": "[포토] 동탑산업훈장 수상한 이창희 삼성디스플레이 소장",
+        "date": "2025-10-14 15:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005664162?sid=101"
+    },
+    {
+        "title": "삼성 스마트폰 3분기 영업익 3.4조…초슬림폰 '돌풍'",
+        "date": "2025-10-14 15:12",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196449?sid=101"
+    },
+    {
+        "title": "팀 쿡, 中 숏폼 라이브 깜짝 등장… 1위 탈환 안간힘",
+        "date": "2025-10-14 15:12",
+        "link": "https://n.news.naver.com/mnews/article/366/0001114284?sid=104"
+    },
+    {
+        "title": "“9조 수수료 챙긴 구글·애플”…국감, 인앱결제 과징금 축소·지연 질...",
+        "date": "2025-10-14 15:10",
+        "link": "https://www.kukinews.com/article/view/kuk202510140147"
+    },
+    {
+        "title": "애플, 개발자 대상 iOS 26.1 베타 3 출시",
+        "date": "2025-10-14 14:56",
+        "link": "https://kbench.com/?q=node/272109"
+    },
+    {
+        "title": "하반기도 갤럭시 효자 노릇…삼성 스마트폰, “수익성 지켰다” [삼성,...",
+        "date": "2025-10-14 14:46",
+        "link": "https://www.etoday.co.kr/news/view/2514516"
+    },
+    {
+        "title": "애플, 차세대 에어팟용 H3 칩 개발 착수",
+        "date": "2025-10-14 14:38",
+        "link": "https://www.theguru.co.kr/news/article.html?no=92840"
+    },
+    {
+        "title": "폴더블 아이폰 가격 낮아질까...힌지 공급가 인하",
+        "date": "2025-10-14 14:32",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=302414"
+    },
+    {
+        "title": "[국감] 구글·애플 680억 과징금 지지부진..“부과 서둘러야” 지적",
+        "date": "2025-10-14 14:32",
+        "link": "http://kpenews.com/View.aspx?No=3813648"
+    },
+    {
+        "title": "구글·애플 ‘인앱결제’ 횡포 질타…방미통위 “조사 지연 인정”",
+        "date": "2025-10-14 14:29",
+        "link": "https://n.news.naver.com/mnews/article/032/0003401839?sid=101"
+    },
+    {
+        "title": "구글·애플 과징금 2년째 지연 방미통위 집중 질타 [2025국감]",
+        "date": "2025-10-14 14:25",
+        "link": "https://n.news.naver.com/mnews/article/374/0000468315?sid=101"
+    },
+    {
+        "title": "[2025 국감] 구글·애플 과징금 압박…인앱결제 갑질, 더는 못 봐준다",
+        "date": "2025-10-14 14:18",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=82811"
+    },
+    {
+        "title": "세계 표준의 날…동탑산업훈장에 이창희 삼성디스플레이 연구소장",
+        "date": "2025-10-14 14:18",
+        "link": "https://n.news.naver.com/mnews/article/421/0008536964?sid=101"
+    },
+    {
+        "title": "OLED 국제표준 기여한 이창희 삼성디플 연구소장, 동탑산업훈장 서훈",
+        "date": "2025-10-14 14:17",
+        "link": "https://n.news.naver.com/mnews/article/366/0001114252?sid=101"
+    },
+    {
+        "title": "[2025 국감] 구글·애플 인앱결제 강제 많은 국민 피해 예상돼",
+        "date": "2025-10-14 14:16",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=302401"
+    },
+    {
+        "title": "삼성, 폴더블폰용 자체 수리 디스플레이 기술 특허 출원",
+        "date": "2025-10-14 14:14",
+        "link": "https://kbench.com/?q=node/272103"
+    },
+    {
+        "title": "광학·디스플레이용 필름 생산시설 확보...코스모신소재 차세대 소재 시...",
+        "date": "2025-10-14 14:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=384694"
+    },
+    {
+        "title": "[국감2025] 인앱결제 강제 구글·애플 과징금 규모 너무 낮아",
+        "date": "2025-10-14 13:49",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206867?sid=004"
+    },
+    {
+        "title": "동남아서 아이폰 품절이라니…확 달라진 '애플 불모지'",
+        "date": "2025-10-14 13:46",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196396?sid=105"
+    },
+    {
+        "title": "애플, M5 칩 최초 탑재 신형 '아이패드 프로' 이번주 출시 가능성",
+        "date": "2025-10-14 13:34",
+        "link": "https://kbench.com/?q=node/272102"
+    },
+    {
+        "title": "인앱결제 강제로 9조 벌어들인 구글·애플…과징금 부과 서둘러야",
+        "date": "2025-10-14 13:29",
+        "link": "https://n.news.naver.com/mnews/article/030/0003358704?sid=105"
+    },
+    {
+        "title": "[국감2025] 구글·애플 인앱결제 과징금 아직…법인세 회피 의혹도",
+        "date": "2025-10-14 13:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596780"
+    },
+    {
+        "title": "구글·애플, 인앱결제로 9조원 벌었다…“국내법 무력화, 강력 제재 필요...",
+        "date": "2025-10-14 13:14",
+        "link": "https://n.news.naver.com/mnews/article/117/0003997434?sid=105"
+    },
+    {
         "title": "여야 방미통위 구글·애플 과징금 부과 서둘러야…액수도 작아[2025 국...",
         "date": "2025-10-14 12:44",
         "link": "https://n.news.naver.com/mnews/article/119/0003012328?sid=105"
@@ -68,6 +368,11 @@
         "title": "에어팟에 AI 카메라 장착되나…애플, 에어팟 프로4에 도입 검토",
         "date": "2025-10-14 11:10",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596721"
+    },
+    {
+        "title": "에너지 고효율 제품부터 스마트홈 트렌드까지-홍콩 가전제품 시장 변화...",
+        "date": "2025-10-14 10:57",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=234981"
     },
     {
         "title": "역대급 기록·찬사 이어지는 갤럭시Z 폴드7·플립7…삼성 실적 견인",
@@ -198,435 +503,5 @@
         "title": "[마이크로D 각축전] 차세대 LEDos로 앞선 中…뒤쳐진 韓 공급망 구축 필...",
         "date": "2025-10-14 07:02",
         "link": "https://dealsite.co.kr/articles/149311"
-    },
-    {
-        "title": "제프리스, 애플 ‘관세 리스크’ 경고...목표가 203달러로 하향",
-        "date": "2025-10-14 06:28",
-        "link": "https://www.g-enews.com/view.php?ud=2025101405574346663bc914ac71_1"
-    },
-    {
-        "title": "[PLAY IT] 스냅드래곤X 기반 삼성 '갤럭시 북4 엣지'…절충의 미학",
-        "date": "2025-10-14 06:01",
-        "link": "https://n.news.naver.com/mnews/article/138/0002206805?sid=105"
-    },
-    {
-        "title": "애플 CEO 팀 쿡, 아이폰 에어 다음 주 중국 출시... eSIM 규제 돌파",
-        "date": "2025-10-14 05:56",
-        "link": "https://www.g-enews.com/view.php?ud=2025101400145076880c8c1c064d_1"
-    },
-    {
-        "title": "에픽게임즈, 웹 스토어 정식 출범…애플·구글 대안 되나",
-        "date": "2025-10-14 01:52",
-        "link": "https://www.tokenpost.kr/news/tech/293989"
-    },
-    {
-        "title": "“400만원→200만원, 이게 웬일이냐” 반값에 팝니다…삼성 ‘파격’ 결...",
-        "date": "2025-10-13 21:40",
-        "link": "https://n.news.naver.com/mnews/article/016/0002541149?sid=105"
-    },
-    {
-        "title": "김학린 경북대 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
-        "date": "2025-10-13 20:42",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=568381"
-    },
-    {
-        "title": "“낯익은 ‘얼굴’, 호빵 붙인 줄 알았다” 흑역사 조롱받더니…결국 ‘...",
-        "date": "2025-10-13 20:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002541141?sid=105"
-    },
-    {
-        "title": "구글·애플·메타 OS 공략…'XR 강자'로 떠오른 게임엔진 회사 [인터뷰]",
-        "date": "2025-10-13 20:31",
-        "link": "https://n.news.naver.com/mnews/article/015/0005196145?sid=105"
-    },
-    {
-        "title": "그린광학 2027년 913억원 매출 목표...작년의 3배",
-        "date": "2025-10-13 18:08",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=41991"
-    },
-    {
-        "title": "애플의 스마트 안경, '비전 OS'로 개발...헤드셋 포기한 것 아니야",
-        "date": "2025-10-13 18:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=203116"
-    },
-    {
-        "title": "모바일 연동 무선 출력 기능 갖춘 프린터&amp;복합기 알아보기",
-        "date": "2025-10-13 18:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56369"
-    },
-    {
-        "title": "[재계·산업동향]OCI홀딩스·금호석유화학, 신사업·수익성 잡고 체질 강...",
-        "date": "2025-10-13 17:56",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=781202"
-    },
-    {
-        "title": "MS·구글·삼성 등 글로벌 기업, XR 시장 주도권 경쟁 본격화",
-        "date": "2025-10-13 17:46",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=82507"
-    },
-    {
-        "title": "KAIST-버넥트, 가상융합연구소 설립 협약… K-메타버스 혁신 주도",
-        "date": "2025-10-13 17:42",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=72624"
-    },
-    {
-        "title": "애플, 'M5 탑재' 아이패드·맥북 프로 출시 임박",
-        "date": "2025-10-13 17:38",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148790"
-    },
-    {
-        "title": "산업정책 '허상'…성과 중심 '민낯'",
-        "date": "2025-10-13 17:38",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1277528&inflow=N"
-    },
-    {
-        "title": "미래 메타버스 주도 '가상융합연구소' 설립… KAIST-버넥트 '맞손'",
-        "date": "2025-10-13 17:10",
-        "link": "https://www.kukinews.com/article/view/kuk202510130208"
-    },
-    {
-        "title": "경북대, 초슬림 XR 가변 초점 렌즈 기술 개발…눈 피로 줄이고, 기기는...",
-        "date": "2025-10-13 16:58",
-        "link": "https://n.news.naver.com/mnews/article/030/0003358479?sid=105"
-    },
-    {
-        "title": "[Biz&amp;Law] 삼성전자, 모바일 결제 특허 무효 실패…美 본안 승소 '불투명...",
-        "date": "2025-10-13 16:58",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=674752"
-    },
-    {
-        "title": "애플, H3 칩 탑재 차세대 '에어팟' 개발 착수",
-        "date": "2025-10-13 16:34",
-        "link": "https://kbench.com/?q=node/272066"
-    },
-    {
-        "title": "KAIST·버넥트, ‘가상융합연구소’ 설립…K-메타버스 혁신 거점 세운다",
-        "date": "2025-10-13 16:34",
-        "link": "https://n.news.naver.com/mnews/article/018/0006137143?sid=105"
-    },
-    {
-        "title": "KAIST-버넥트, 가상융합연구소 설립…K-메타버스 혁신 주도",
-        "date": "2025-10-13 16:28",
-        "link": "https://n.news.naver.com/mnews/article/011/0004542635?sid=102"
-    },
-    {
-        "title": "이노테크 삼성D에 폴더블 OLED 신뢰성 검사장비 독점 공급",
-        "date": "2025-10-13 16:26",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=41975"
-    },
-    {
-        "title": "애플, '포스트 팀 쿡' 준비…안정 넘어 '혁신'에 집중",
-        "date": "2025-10-13 16:12",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=782588"
-    },
-    {
-        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발… 눈 피로...",
-        "date": "2025-10-13 16:10",
-        "link": "http://www.kyosu.net/news/articleView.html?idxno=145969"
-    },
-    {
-        "title": "팀 쿡은 혁신 실패? 애플 차기 CEO로 '공학자' 떠오른 이유",
-        "date": "2025-10-13 16:04",
-        "link": "https://n.news.naver.com/mnews/article/665/0000005972?sid=105"
-    },
-    {
-        "title": "최고의 전면전 위한 배틀필드 6 추천 게이밍 기어 ① 글로리어스·크리...",
-        "date": "2025-10-13 16:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56362"
-    },
-    {
-        "title": "KAIST-버넥트, 가상융합연구소 설립 협약..K-메타버스 혁신 주도",
-        "date": "2025-10-13 16:00",
-        "link": "http://www.veritas-a.com/news/articleView.html?idxno=576213"
-    },
-    {
-        "title": "KAIST-버넥트, 가상융합연구소 설립 협약",
-        "date": "2025-10-13 15:50",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202694"
-    },
-    {
-        "title": "경북대 김학린 교수팀, '초슬림 XR 가변 초점 렌즈' 기술 개발",
-        "date": "2025-10-13 15:42",
-        "link": "https://www.kbsm.net/news/view.php?idx=492885"
-    },
-    {
-        "title": "버그 수정하고 보안 강화 애플, iOS 26.0.2 업데이트 준비 중. 출시는 ...",
-        "date": "2025-10-13 15:32",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537559"
-    },
-    {
-        "title": "KAIST·버넥트, '가상융합연구소' 설립…K-메타버스 혁신 주도",
-        "date": "2025-10-13 15:08",
-        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=111315"
-    },
-    {
-        "title": "삼성, 中 전용 폴더블 'W26' 출시…Z폴드7엔 없는 핵심 기능은?",
-        "date": "2025-10-13 15:02",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148767"
-    },
-    {
-        "title": "카이스트, (주)버넥트와 가상융합연구소 설립 협약..K-메타버스 혁신 주...",
-        "date": "2025-10-13 15:00",
-        "link": "https://www.lecturernews.com/news/articleView.html?idxno=188571"
-    },
-    {
-        "title": "KAIST-(주)버넥트, 가상융합연구소 설립 협약",
-        "date": "2025-10-13 14:56",
-        "link": "http://www.gocj.net/news/articleView.html?idxno=142880"
-    },
-    {
-        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
-        "date": "2025-10-13 14:54",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=96414"
-    },
-    {
-        "title": "애플 CEO 팀 쿡 승계 임박, 터너스 부사장 유력 후보",
-        "date": "2025-10-13 14:54",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=456613"
-    },
-    {
-        "title": "경찰, LGD 파주공장 압수수색…삼성D 이어 중국에 기술유출 정황",
-        "date": "2025-10-13 14:52",
-        "link": "https://news.mtn.co.kr/news-detail/2025101314490381409"
-    },
-    {
-        "title": "하츠투하츠, 신곡 ‘애플 파이’로 펼칠 특별한 ‘걸스 나이트’",
-        "date": "2025-10-13 14:40",
-        "link": "https://m.entertain.naver.com/article/009/0005571878"
-    },
-    {
-        "title": "애플코리아 사장 호출하는 국회…수수료 인하? '눈속임' 지적",
-        "date": "2025-10-13 14:31",
-        "link": "https://n.news.naver.com/mnews/article/421/0008534464?sid=105"
-    },
-    {
-        "title": "경북대, 초슬림 XR 가변 초점 렌즈 기술 개발",
-        "date": "2025-10-13 14:28",
-        "link": "https://dhnews.co.kr/news/view/1065590651105368"
-    },
-    {
-        "title": "경북대 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
-        "date": "2025-10-13 14:21",
-        "link": "https://n.news.naver.com/mnews/article/003/0013531074?sid=102"
-    },
-    {
-        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발… 눈 피로...",
-        "date": "2025-10-13 14:20",
-        "link": "http://www.veritas-a.com/news/articleView.html?idxno=576290"
-    },
-    {
-        "title": "아이폰 신상, 1년에 두 번 출시?… 삼성 갤럭시 견제하나",
-        "date": "2025-10-13 14:02",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148764"
-    },
-    {
-        "title": "애플, 차세대 오디오 칩 'H3' 개발 가속... 7년 만에 성능 업그레이드한...",
-        "date": "2025-10-13 13:56",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1804835"
-    },
-    {
-        "title": "삼성디스플레이에 이어 LG디스플레이도 中 기술유출 정황…경찰, 파주공...",
-        "date": "2025-10-13 13:46",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=234670"
-    },
-    {
-        "title": "정철동 LG디스플레이 사장, OLED 초격차 전략 결실…흑자전환 목전",
-        "date": "2025-10-13 13:40",
-        "link": "https://news.mtn.co.kr/news-detail/2025101313085941947"
-    },
-    {
-        "title": "KAIST-(주)버넥트, 가상융합연구소 설립 협약 체결",
-        "date": "2025-10-13 13:08",
-        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=289777"
-    },
-    {
-        "title": "M5 칩 탑재 '아이패드 프로' 이번달 출시? AT&amp;T 웹사이트에서 포착",
-        "date": "2025-10-13 11:56",
-        "link": "https://kbench.com/?q=node/272040"
-    },
-    {
-        "title": "애플 M5 탑재 아이패드·맥북·비전프로 출시 임박…AI·성능 강화",
-        "date": "2025-10-13 11:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596462"
-    },
-    {
-        "title": "아이폰18 기본 모델, 내년 가을엔 못 본다?...애플, 출시 일정 대변화 예...",
-        "date": "2025-10-13 11:29",
-        "link": "https://n.news.naver.com/mnews/article/009/0005571756?sid=101"
-    },
-    {
-        "title": "애플, 컴퓨터비전 스타트업 프롬프트 AI '역인재인수' 임박",
-        "date": "2025-10-13 11:27",
-        "link": "https://n.news.naver.com/mnews/article/421/0008533872?sid=105"
-    },
-    {
-        "title": "'20일 컴백' 하츠투하츠, 특별한 '걸스 나이트' 펼친다…수록곡 '애플 파...",
-        "date": "2025-10-13 11:20",
-        "link": "https://m.entertain.naver.com/article/311/0001927708"
-    },
-    {
-        "title": "애플 계정 해킹 피해자 25명 이상... 계정 삭제조차 불가능 분통",
-        "date": "2025-10-13 11:14",
-        "link": "https://www.insight.co.kr/news/523830"
-    },
-    {
-        "title": "[산업보고서] AI 스마트글래스, 스마트폰 시대 끝낼 마지막 인터페이스",
-        "date": "2025-10-13 11:08",
-        "link": "http://theviewers.co.kr/View.aspx?No=3811759"
-    },
-    {
-        "title": "하츠투하츠, '애플 파이'로 선보일 특별한 '걸스 나이트'",
-        "date": "2025-10-13 11:08",
-        "link": "http://www.joynews24.com/view/1894572"
-    },
-    {
-        "title": "국감 도마 오른 구글·애플 ‘망 무임승차’… 3000억원대 공짜 논란 재...",
-        "date": "2025-10-13 11:03",
-        "link": "https://n.news.naver.com/mnews/article/117/0003996915?sid=105"
-    },
-    {
-        "title": "애플, 차기 에어팟 프로 개발 중…체온 측정 기능·카메라 장착",
-        "date": "2025-10-13 10:55",
-        "link": "https://n.news.naver.com/mnews/article/092/0002393512?sid=105"
-    },
-    {
-        "title": "애플 차기 CEO는?…65세 앞둔 팀 쿡, 후계자 논의",
-        "date": "2025-10-13 10:55",
-        "link": "https://n.news.naver.com/mnews/article/030/0003358214?sid=104"
-    },
-    {
-        "title": "맥도날드, 가을 시즌 '해피 스낵' 라인업 공개...애플파이도 컴백",
-        "date": "2025-10-13 10:38",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=182502"
-    },
-    {
-        "title": "바삭 치킨·달콤 애플파이···맥도날드 가을 신메뉴",
-        "date": "2025-10-13 10:36",
-        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=72167"
-    },
-    {
-        "title": "아이폰 폴드, 모바일 게임 판도 바꿀까…'14:10 화면비'로 콘솔급 경험 ...",
-        "date": "2025-10-13 10:34",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596427"
-    },
-    {
-        "title": "맥으로 환승하라…애플, 윈도10 종료 앞두고 중소기업 대상 마케팅",
-        "date": "2025-10-13 10:26",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596421"
-    },
-    {
-        "title": "'AI 낙제생' 애플, 프롬프트AI 인수·팀 쿡 교체로 전환점 맞을까",
-        "date": "2025-10-13 10:23",
-        "link": "https://n.news.naver.com/mnews/article/092/0002393498?sid=105"
-    },
-    {
-        "title": "애플 iOS 26.0.2 업데이트 임박…버그 수정·보안 강화",
-        "date": "2025-10-13 10:12",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596423"
-    },
-    {
-        "title": "애플 전 CEO 오픈AI, 수십 년 만 애플의 첫 진정한 경쟁자",
-        "date": "2025-10-13 10:02",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596420"
-    },
-    {
-        "title": "애플, AI 훈련용 무단 도서 사용 논란…저작권 침해 소송 당해",
-        "date": "2025-10-13 10:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596408"
-    },
-    {
-        "title": "애플, H3 칩 개발 중…차세대 에어팟에 탑재될까",
-        "date": "2025-10-13 10:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596407"
-    },
-    {
-        "title": "애플, 클립스 앱 종료…틱톡에 밀려 서비스 중단",
-        "date": "2025-10-13 09:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596367"
-    },
-    {
-        "title": "애플, 아이폰용 'iOS 26.0.2' 업데이트 테스트 시작",
-        "date": "2025-10-13 09:56",
-        "link": "https://kbench.com/?q=node/272023"
-    },
-    {
-        "title": "맥도날드 '애플파이' 돌아온다…'해피스낵' 가을 라인업 공개",
-        "date": "2025-10-13 09:54",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2128145"
-    },
-    {
-        "title": "애플 '비전프로' 출시 확대 포기하나, 삼성전자 대신 메타 스마트글라스...",
-        "date": "2025-10-13 09:38",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=415038"
-    },
-    {
-        "title": "그로쓰리서치 AI스마트글래스, 스마트폰 시대를 끝낼 인터페이스",
-        "date": "2025-10-13 09:38",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=279873"
-    },
-    {
-        "title": "“제품 수리 서비스센터 안가도 되네”…삼성 ‘바로서비스’ 시범 도입",
-        "date": "2025-10-13 09:29",
-        "link": "https://n.news.naver.com/mnews/article/011/0004542413?sid=101"
-    },
-    {
-        "title": "갤럭시Z 폴드7과 차이점은? 삼성전자, 中서 프리미엄 폴더블폰 '삼성...",
-        "date": "2025-10-13 09:20",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537532"
-    },
-    {
-        "title": "애플 가을 반격, M5 시작점…AI·헬스·보안까지 전방위 재편 [MOVIEW]",
-        "date": "2025-10-13 09:09",
-        "link": "https://n.news.naver.com/mnews/article/138/0002206706?sid=105"
-    },
-    {
-        "title": "정철동 LG디스플레이 사장이 말하는 '기술리더십', 투자는 무슨 돈으로...",
-        "date": "2025-10-13 09:02",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37455"
-    },
-    {
-        "title": "M5 아이패드 프로·맥북 프로, 이번 주 나온다",
-        "date": "2025-10-13 08:43",
-        "link": "https://n.news.naver.com/mnews/article/092/0002393447?sid=105"
-    },
-    {
-        "title": "삼성전자서비스, '바로 서비스' 도입…매장에서 제품 바로 점검",
-        "date": "2025-10-13 08:40",
-        "link": "https://www.sentv.co.kr/article/view/sentv202510130021"
-    },
-    {
-        "title": "[Biz&amp;Law] 삼성에피스, 리제네론 '아일리아' 네덜란드 특허소송서 패소",
-        "date": "2025-10-13 08:40",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=674557"
-    },
-    {
-        "title": "삼성, 세계 첫 '갤럭시 Z 트라이폴드' 이달 공개…한국·중국 넘어 글로...",
-        "date": "2025-10-13 08:36",
-        "link": "https://www.abcn.kr/news/articleView.html?idxno=83455"
-    },
-    {
-        "title": "그로쓰리서치 AI스마트글래스, 스마트폰 시대를 끝낼 인터페이스",
-        "date": "2025-10-13 08:27",
-        "link": "https://n.news.naver.com/mnews/article/003/0013529900?sid=101"
-    },
-    {
-        "title": "애플, ‘M5 세대’ 탑재 아이패드·맥북·비전프로 신제품 출시 임박[모...",
-        "date": "2025-10-13 08:20",
-        "link": "https://n.news.naver.com/mnews/article/018/0006136583?sid=105"
-    },
-    {
-        "title": "[더벨][AI 데이터센터 수혜주]‘버티브·엔비디아’ 관련주 GST, 액침냉각...",
-        "date": "2025-10-13 08:02",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509191433437760102540"
-    },
-    {
-        "title": "“언제적 아이폰?” 요즘 애들, 갤럭시·LG 그램 더 좋아한다[2030 최애 ...",
-        "date": "2025-10-13 07:16",
-        "link": "https://n.news.naver.com/mnews/article/050/0000097164?sid=101"
-    },
-    {
-        "title": "[마이크로D 각축전] 올레도스 적극 나서는 삼성D…LGD는 '중단설'",
-        "date": "2025-10-13 07:14",
-        "link": "https://dealsite.co.kr/articles/149221"
     }
 ]
