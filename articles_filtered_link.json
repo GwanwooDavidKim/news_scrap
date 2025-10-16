@@ -1,5 +1,535 @@
 [
     {
+        "title": "ROG 엑스박스 얼라이, 하드웨어는 완성됐지만 윈도우는 여전히 미완성",
+        "date": "2025-10-16 12:34",
+        "link": "https://www.itworld.co.kr/article/4073456/rog-엑스박스-얼라이-하드웨어는-완성됐지만-윈도우는.html"
+    },
+    {
+        "title": "애플, 괴물칩 M5 탑재 신형 비전프로 공개…가격 동결",
+        "date": "2025-10-16 12:27",
+        "link": "https://n.news.naver.com/mnews/article/030/0003359579?sid=105"
+    },
+    {
+        "title": "LG전자, 런던서 OLED TV 활용 韓 수묵화 전시",
+        "date": "2025-10-16 12:20",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=274710"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 美 타임 ‘올해 최고의 발명품’선정",
+        "date": "2025-10-16 12:16",
+        "link": "https://n.news.naver.com/mnews/article/366/0001114886?sid=105"
+    },
+    {
+        "title": "애플 괴물칩 'M5' 탑재 아이패드 프로…AI·그래픽 성능 대폭 향상",
+        "date": "2025-10-16 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003359574?sid=105"
+    },
+    {
+        "title": "갤럭시S26 울트라 vs 아이폰 18 프로, 가변 조리개로 맞붙는다",
+        "date": "2025-10-16 11:54",
+        "link": "https://kbench.com/?q=node/272188"
+    },
+    {
+        "title": "“초고성능 AI 태블릿의 완성” 신형 M5 아이패드 프로의 모든 것",
+        "date": "2025-10-16 11:40",
+        "link": "https://www.itworld.co.kr/article/4073424/초고성능-ai-태블릿의-완성-신형-m5-아이패드-프로의-모.html"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 11:34",
+        "link": "https://www.g-enews.com/view.php?ud=2025101611032569726ed0c62d49_1"
+    },
+    {
+        "title": "삼성 헤드셋 ‘무한’ 22일 첫선…‘애플 반값’ 승부수 [막 오른 XR 시대...",
+        "date": "2025-10-16 11:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002542820?sid=105"
+    },
+    {
+        "title": "애플, 더 빨라진 M5칩 신형 XR 헤드셋 ‘비전 프로’ 공개…‘XR 새 기준...",
+        "date": "2025-10-16 11:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002542815?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시 XR' 22일 공개… 구글·퀼컴 합작",
+        "date": "2025-10-16 11:26",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1193011"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 11:24",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=93660"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최... 차세대 기술 111개 소개",
+        "date": "2025-10-16 11:24",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=95081"
+    },
+    {
+        "title": "애플, 2025년 3분기 글로벌 스마트폰 시장이 3% 성장하면서 사상 최고의...",
+        "date": "2025-10-16 11:20",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73125"
+    },
+    {
+        "title": "“목 아프고 어지럽던데”…애플도 쓴 맛 본 시장 뛰어든 삼성, 성공할...",
+        "date": "2025-10-16 11:20",
+        "link": "https://n.news.naver.com/mnews/article/009/0005573800?sid=101"
+    },
+    {
+        "title": "90조 시장 XR…빅테크, 마이크로 OLED·AI 칩·경량화로 승부",
+        "date": "2025-10-16 11:10",
+        "link": "https://n.news.naver.com/mnews/article/119/0003013179?sid=105"
+    },
+    {
+        "title": "‘M5 칩 탑재’ 애플 비전 프로 신제품, 100g 이상 무거워져",
+        "date": "2025-10-16 11:09",
+        "link": "https://n.news.naver.com/mnews/article/009/0005573786?sid=105"
+    },
+    {
+        "title": "LG전자, 올레드 게이밍 모니터 'LG 울트라기어 32GX870A' 신제품 출시",
+        "date": "2025-10-16 11:06",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73116"
+    },
+    {
+        "title": "M5 칩 탑재한 애플 맥북 프로·아이패드 프로 공개...가격 동결",
+        "date": "2025-10-16 11:05",
+        "link": "https://n.news.naver.com/mnews/article/009/0005573780?sid=105"
+    },
+    {
+        "title": "애플, M5 탑재 맥북·아이패드·비전프로 공개…가격은 동결",
+        "date": "2025-10-16 11:04",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=82858"
+    },
+    {
+        "title": "애플 비전 프로2, M5 칩 장착…여전히 '미완'",
+        "date": "2025-10-16 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597373"
+    },
+    {
+        "title": "‘불안한 리더십’으로 마이크로소프트의 미래를 재설계하는 사티야 나...",
+        "date": "2025-10-16 11:00",
+        "link": "https://www.itworld.co.kr/article/4073386/불안한-리더십으로-마이크로소프트의-미래를.html"
+    },
+    {
+        "title": "모토로라, 초슬림 스마트폰 'X70 에어' 공개…두께 6mm 미만",
+        "date": "2025-10-16 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597335"
+    },
+    {
+        "title": "애플, 13년 연속 글로벌 브랜드 가치 1위…엔비디아 급부상",
+        "date": "2025-10-16 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597363"
+    },
+    {
+        "title": "애플, 신형 M5 칩 기반 맥북 프로 및 아이패드 프로 출시... 성능·효율 ...",
+        "date": "2025-10-16 10:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804964"
+    },
+    {
+        "title": "중소기업·협력사와 상생 삼성전자 '우수기술 설명회' 개최",
+        "date": "2025-10-16 10:55",
+        "link": "https://n.news.naver.com/mnews/article/014/0005420139?sid=101"
+    },
+    {
+        "title": "애플, 아이메시지 '전송 실패' 오류…해결책 공개",
+        "date": "2025-10-16 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597331"
+    },
+    {
+        "title": "애플, AI 성능 강화한 M5 칩 발표…신제품 3종 출시",
+        "date": "2025-10-16 10:40",
+        "link": "https://www.itworld.co.kr/article/4073393/애플-ai-성능-강화한-m5-칩-발표신제품-3종-출시.html"
+    },
+    {
+        "title": "애플, 아이패드 에어용 매직 키보드에 '블랙' 색상 추가",
+        "date": "2025-10-16 10:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597318"
+    },
+    {
+        "title": "삼성전자,''2025 우수기술 설명회' 개최...AI·스마트 제조·기술보호 그...",
+        "date": "2025-10-16 10:38",
+        "link": "https://hbnpress.com/news/view/1065576793243902"
+    },
+    {
+        "title": "애플, 유럽 전역서 650MW 재생에너지 확보…중국 투자도 확대",
+        "date": "2025-10-16 10:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597307"
+    },
+    {
+        "title": "‘빛과 공간의 만남’ 마이크로닉스, COOLMAX 크리스탈 출시",
+        "date": "2025-10-16 10:32",
+        "link": "https://kbench.com/?q=node/272183"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 10:30",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=731203"
+    },
+    {
+        "title": "애플, 499만원 차세대 ‘비전 프로’ 공개",
+        "date": "2025-10-16 10:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002542725?sid=105"
+    },
+    {
+        "title": "[초점] 구글, 폴더블폰 내구성 시험 중 폭발…하드웨어 신뢰성에 '경고...",
+        "date": "2025-10-16 10:24",
+        "link": "https://www.g-enews.com/view.php?ud=202510161018164400fbbec65dfb_1"
+    },
+    {
+        "title": "이러다 다 빼앗길라…애플 'AI 인재' 줄퇴사에 '초비상'",
+        "date": "2025-10-16 10:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005197481?sid=101"
+    },
+    {
+        "title": "'독사과' 시즌2 양세찬·이은지·윤태진·허영지 솔직·과감 VCR 기대해...",
+        "date": "2025-10-16 10:14",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567501704807"
+    },
+    {
+        "title": "애플, 신형 M5 탑재 맥북·아이패드·비전프로 출시…가격은 동결",
+        "date": "2025-10-16 10:10",
+        "link": "https://www.betanews.net/article/view/beta202510160007"
+    },
+    {
+        "title": "삼성전자, 중소기업과 기술 상생 강화…'우수기술 설명회' 개최",
+        "date": "2025-10-16 10:04",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=91437"
+    },
+    {
+        "title": "애플, M5 칩으로 업데이트된 신형 맥북 프로·비전 프로 공개",
+        "date": "2025-10-16 10:02",
+        "link": "https://kbench.com/?q=node/272172"
+    },
+    {
+        "title": "LG전자, 영국서 OLED TV로 한국 '수묵 추상'의 감동 전해",
+        "date": "2025-10-16 10:00",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7132226"
+    },
+    {
+        "title": "'권나라 열애설' 양세찬 애플짓 안 넘어가면 이상할 정도 ('독사과')[일...",
+        "date": "2025-10-16 09:57",
+        "link": "https://m.entertain.naver.com/article/109/0005411611"
+    },
+    {
+        "title": "AI·스마트 제조와 기술 보호로 함께하는 상생의 미래 열어...삼성전자...",
+        "date": "2025-10-16 09:56",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36772"
+    },
+    {
+        "title": "[A 증시리포트] LGD, 3년 적자 터널 끝 보인다...8000억원대 흑자 전환 '...",
+        "date": "2025-10-16 09:56",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=226505"
+    },
+    {
+        "title": "삼성 트라이폴드 임박…한·중·미 ‘폴더블폰 삼국지’",
+        "date": "2025-10-16 09:54",
+        "link": "https://www.ekn.kr/web/view.php?key=20251016029326019"
+    },
+    {
+        "title": "애플, M5 칩 탑재 아이패드 프로 공개",
+        "date": "2025-10-16 09:54",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=309609"
+    },
+    {
+        "title": "삼성전자, COMPA·KISTA와 '우수기술 설명회' 공동 개최",
+        "date": "2025-10-16 09:54",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=283837"
+    },
+    {
+        "title": "삼성전자, '우수기술 설명회' 개최...대·중소기업 상생과 기술혁신 생...",
+        "date": "2025-10-16 09:48",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=407650"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최…“협력사와 함께 성장”",
+        "date": "2025-10-16 09:48",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=78050"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최…스마트 제조·차세대 기술 111건...",
+        "date": "2025-10-16 09:44",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3038291"
+    },
+    {
+        "title": "애플, 차세대 칩 M5 발표…″AI 성능 4배 향상″",
+        "date": "2025-10-16 09:42",
+        "link": "https://byline.network/?p=9004111222580621"
+    },
+    {
+        "title": "LG전자, 올레드 게이밍 모니터 신제품 ‘울트라기어 32GX870A’ 선보여",
+        "date": "2025-10-16 09:40",
+        "link": "https://www.cnet.co.kr/view/?no=20251016093130"
+    },
+    {
+        "title": "애플, M5 칩 탑재 신형 '아이패드 프로' 발표.. AI 성능 3.5배 'UP'",
+        "date": "2025-10-16 09:40",
+        "link": "https://kbench.com/?q=node/272171"
+    },
+    {
+        "title": "삼성전자, '우수기술 설명회' 개최…111건 기술 소개",
+        "date": "2025-10-16 09:38",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=187528"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 09:34",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=107984"
+    },
+    {
+        "title": "애플, 생성형AI 개발 총괄 메타로 이직… 핵심 인력 이탈 잇따라",
+        "date": "2025-10-16 09:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148988"
+    },
+    {
+        "title": "산·학·연 기술협력 생태계 강화..삼성전자 '2025 우수기술 설명회' ...",
+        "date": "2025-10-16 09:28",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2097503"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 09:24",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=233623"
+    },
+    {
+        "title": "애플, M5칩 탑재 신형 맥북·아이패드 프로 등 출시…가격 동결",
+        "date": "2025-10-16 09:20",
+        "link": "https://n.news.naver.com/mnews/article/277/0005665104?sid=105"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최…기술혁신의 길 모색하는 상생...",
+        "date": "2025-10-16 09:18",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=99299"
+    },
+    {
+        "title": "'독사과2' 허영지 과몰입하는 F여서 연애 프로그램에 잘 몰입",
+        "date": "2025-10-16 09:06",
+        "link": "https://hbnpress.com/news/view/1065567931172988"
+    },
+    {
+        "title": "'독사과2' 양세찬 어디서도 볼 수 없는 실험카메라→이은지 건강한 도...",
+        "date": "2025-10-16 09:06",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065567647457071"
+    },
+    {
+        "title": "박지훈 변호사 명사특강 , 화과자 원데이 클래스, 애플 비전프로 체험…...",
+        "date": "2025-10-16 09:06",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=188630"
+    },
+    {
+        "title": "‘삼성 마이크로 RGB TV·LG 에어로캣타워’, 美 타임 선정 ‘최고의 발...",
+        "date": "2025-10-16 09:03",
+        "link": "https://n.news.naver.com/mnews/article/029/0002987392?sid=101"
+    },
+    {
+        "title": "삼성전자 '2025 우수기술 설명회' 개최… 상생 미래 연다",
+        "date": "2025-10-16 09:02",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3328365"
+    },
+    {
+        "title": "올 3분기 글로벌 스마트폰 시장 3%↑…애플, 역대 최고 3분기 실적 기록",
+        "date": "2025-10-16 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=323473"
+    },
+    {
+        "title": "중고폰도 프리미엄 시대…상반기 중고폰 시장 희비 엇갈렸다",
+        "date": "2025-10-16 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=183670"
+    },
+    {
+        "title": "'독사과' 시즌2 허영지 과몰입하는 F, 연애 프로그램에 잘 몰입",
+        "date": "2025-10-16 09:00",
+        "link": "https://www.socialvalue.kr/news/view/1065567786532164"
+    },
+    {
+        "title": "거짓 없는 실험카메라…양세찬·이은지, '독사과' 시즌2서 애플군단과...",
+        "date": "2025-10-16 09:00",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15839480"
+    },
+    {
+        "title": "성능 4배↑·가격 동결...애플, 신형 맥북·아이패드·비전프로 공개",
+        "date": "2025-10-16 08:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=385355"
+    },
+    {
+        "title": "애플, 차세대 'M5' 탑재 신제품 공개...AI 성능 강화",
+        "date": "2025-10-16 08:58",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145392"
+    },
+    {
+        "title": "삼성전자, 우수기술 설명회 개최…AI 혁신 사례 제시",
+        "date": "2025-10-16 08:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002394032?sid=105"
+    },
+    {
+        "title": "M5 칩 탑재 애플 ‘비전 프로’ 499만원부터",
+        "date": "2025-10-16 08:46",
+        "link": "https://n.news.naver.com/mnews/article/119/0003013058?sid=105"
+    },
+    {
+        "title": "애플, M5 맥북 프로·아이패드 프로 공개…가격은 그대로",
+        "date": "2025-10-16 08:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002394029?sid=105"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최",
+        "date": "2025-10-16 08:44",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=457322"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최...상생 미래 연다",
+        "date": "2025-10-16 08:44",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=226510"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최… AI·스마트 제조 상생",
+        "date": "2025-10-16 08:42",
+        "link": "https://www.ajunews.com/view/20251016082902634"
+    },
+    {
+        "title": "LG전자, 올레드 게이밍 모니터 'LG 울트라기어 32GX870A' 신제품 출시 한...",
+        "date": "2025-10-16 08:40",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=67143"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최...AI·스마트 제조와 기술 보호...",
+        "date": "2025-10-16 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=409124"
+    },
+    {
+        "title": "“AI로 생산성 혁신”…삼성전자, ‘2025 우수기술 설명회’ 개최",
+        "date": "2025-10-16 08:38",
+        "link": "https://n.news.naver.com/mnews/article/029/0002987386?sid=101"
+    },
+    {
+        "title": "애플, 새 칩 M5 탑재 아이패드 프로·맥북 프로·비전 프로 공개",
+        "date": "2025-10-16 08:37",
+        "link": "https://n.news.naver.com/mnews/article/421/0008541178?sid=105"
+    },
+    {
+        "title": "삼성전자, 협력사에 특허 253건 무상 이전한다… 기술 설명회 개최",
+        "date": "2025-10-16 08:36",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=234873"
+    },
+    {
+        "title": "애플, 신형 칩 탑재한 맥북·아이패드·비전프로 공개… 가격은 동결",
+        "date": "2025-10-16 08:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001114774?sid=105"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최⋯기술 상생 앞장",
+        "date": "2025-10-16 08:28",
+        "link": "https://www.etoday.co.kr/news/view/2515156"
+    },
+    {
+        "title": "AI·스마트 제조와 기술 보호로 함께하는 상생의 미래 열어 삼성전자, ...",
+        "date": "2025-10-16 08:26",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=67139"
+    },
+    {
+        "title": "삼성 마이크로 RGB TV 등 美 타임 '올해 최고의 발명품' 선정",
+        "date": "2025-10-16 08:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005665034?sid=101"
+    },
+    {
+        "title": "삼성전자, '2025 우수기술 설명회' 개최 ... AI·스마트 제조 및 차세대...",
+        "date": "2025-10-16 08:22",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=75423"
+    },
+    {
+        "title": "삼성전자, '우수기술 설명회' 개최…상생 미래 연다",
+        "date": "2025-10-16 08:21",
+        "link": "https://n.news.naver.com/mnews/article/018/0006139089?sid=101"
+    },
+    {
+        "title": "애플, 신형 칩 탑재한 아이패드 프로 17일 사전주문 시작",
+        "date": "2025-10-16 08:20",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251016010004736"
+    },
+    {
+        "title": "'무한' 앞에 등장한 'M5 비전프로', 무게는 어쩌나 [윤민혁의 실리콘밸...",
+        "date": "2025-10-16 08:07",
+        "link": "https://n.news.naver.com/mnews/article/011/0004543883?sid=105"
+    },
+    {
+        "title": "LG 그램이 애플 맥북 제쳤다…그것도 미국에서",
+        "date": "2025-10-16 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003471542?sid=105"
+    },
+    {
+        "title": "티타늄 프레임 다시 쓴다 애플, 내년 '아이폰 에어2·아이폰 폴드'에 ...",
+        "date": "2025-10-16 07:58",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537709"
+    },
+    {
+        "title": "애플, 'M5' 칩으로 성능 혁신…신제품 가격은 그대로",
+        "date": "2025-10-16 07:52",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=47258"
+    },
+    {
+        "title": "[IT썰] 애플, 차세대 칩 M5 탑재 맥북 프로·아이패드 프로·비전 프로 출...",
+        "date": "2025-10-16 07:51",
+        "link": "https://n.news.naver.com/mnews/article/008/0005263515?sid=105"
+    },
+    {
+        "title": "[더벨]두산테스나, 1714억 설비 투자 '애플 CIS 대응'",
+        "date": "2025-10-16 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510151457131600103382"
+    },
+    {
+        "title": "애플, M5 칩 공개… 맥북·아이패드·비전 프로 전면 성능 업그레이드",
+        "date": "2025-10-16 07:44",
+        "link": "https://www.tokenpost.kr/news/tech/294896"
+    },
+    {
+        "title": "애플, M5 칩 탑재 신형 맥북·아이패드 프로 공개-[美증시 특징주]",
+        "date": "2025-10-16 07:40",
+        "link": "https://n.news.naver.com/mnews/article/215/0001227194?sid=101"
+    },
+    {
+        "title": "삼성이 버린 기술, 애플이 되살린다...아이폰18 프로에 '가변 조리개' 첫...",
+        "date": "2025-10-16 07:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537714"
+    },
+    {
+        "title": "애플, 신형 M5 칩 품은 맥북·아이패드·비전프로 출시…가격은?",
+        "date": "2025-10-16 07:17",
+        "link": "https://n.news.naver.com/mnews/article/029/0002987378?sid=105"
+    },
+    {
+        "title": "[BS모닝] 강력한 한방?…M5칩 품은 애플 ‘맥북 프로 14’ 특징은",
+        "date": "2025-10-16 07:14",
+        "link": "http://www.segyebiz.com/newsView/20251016502481?OutUrl=naver"
+    },
+    {
+        "title": "삼성 마이크로 RGB TV 등 美 타임 '올해 최고의 발명품'에 선정",
+        "date": "2025-10-16 07:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015680833?sid=101"
+    },
+    {
+        "title": "피겨AI “휴머노이드 로봇 개발로 애플보다 가치 있는 회사 될 것”",
+        "date": "2025-10-16 06:56",
+        "link": "https://n.news.naver.com/mnews/article/016/0002542484?sid=105"
+    },
+    {
+        "title": "애플 신형 M5칩 탑재, 가격동결…아이패드·비전·맥북 프로[모닝폰]",
+        "date": "2025-10-16 06:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006139042?sid=105"
+    },
+    {
+        "title": "애플, 신형 M5 칩 탑재 ‘맥북 프로·아이패드 프로·비전 프로’ 공개",
+        "date": "2025-10-16 06:34",
+        "link": "https://www.g-enews.com/view.php?ud=2025101606040125023bc914ac71_1"
+    },
+    {
+        "title": "애플, 'M5 칩 탑재' 맥북 프로·아이패드 프로·비전 프로 공개 [1일IT템...",
+        "date": "2025-10-16 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419943?sid=105"
+    },
+    {
+        "title": "[영상] 현대차의 한 수…제네시스 GV90에 '롤러블 OLED' 탑재된다",
+        "date": "2025-10-16 06:00",
+        "link": "https://www.theguru.co.kr/news/article.html?no=92847"
+    },
+    {
         "title": "애플, M5 탑재 맥북·아이패드·비전프로 공개…이달 22일 정식 출시",
         "date": "2025-10-16 05:00",
         "link": "https://www.itbiznews.com/news/articleView.html?idxno=183667"
@@ -30,7 +560,7 @@
         "link": "https://n.news.naver.com/mnews/article/293/0000073604?sid=105"
     },
     {
-        "title": "아이폰 18 프로, ‘가변 조리개’ 첫 탑재…스마트폰 카메라 기술 경쟁...",
+        "title": "아이폰18 프로, ‘가변 조리개’ 첫 탑재 예정…스마트폰 카메라 기술 ...",
         "date": "2025-10-16 04:00",
         "link": "https://www.g-enews.com/view.php?ud=2025101521361818529a1f309431_1"
     },
