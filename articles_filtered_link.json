@@ -1,6 +1,356 @@
 [
     {
-        "title": "中 추월당한 '스마트폰 OLED'⋯ K디스플레이 주도권 위기'",
+        "title": "179만원짜리가 핑크색으로…아이폰 17프로 '발칵'",
+        "date": "2025-10-20 12:48",
+        "link": "https://n.news.naver.com/mnews/article/374/0000469348?sid=101"
+    },
+    {
+        "title": "179만 원 아이폰이 이럴 줄은…오렌지→로즈골드 ‘변색' 대참사",
+        "date": "2025-10-20 12:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004545351?sid=105"
+    },
+    {
+        "title": "코웨이, R&amp;D 역량 집중… 기술 혁신으로 성장 모멘텀 이어간다",
+        "date": "2025-10-20 12:14",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=280261"
+    },
+    {
+        "title": "삼성전자·LG전자, 中 TV '가격' 공세 돌파 카드는?",
+        "date": "2025-10-20 12:08",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145495"
+    },
+    {
+        "title": "애플, 버그 수정 'iOS 26.0.2' 업데이트 이번주 출시 가능성",
+        "date": "2025-10-20 11:58",
+        "link": "https://kbench.com/?q=node/272295"
+    },
+    {
+        "title": "애플, 아이폰17에어 카메라앱 '먹통'에 오류 인정·시스템 업뎃키로",
+        "date": "2025-10-20 11:48",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=652648"
+    },
+    {
+        "title": "애플 시리, 구글·삼성 AI 추격전서 뒤처지나",
+        "date": "2025-10-20 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598078"
+    },
+    {
+        "title": "애플, 헬스+ 출시 예고…AI 건강관리 서비스 본격화",
+        "date": "2025-10-20 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598084"
+    },
+    {
+        "title": "애플 아이폰 폴드, 힌지 설계 난항…출시 연기 가능성",
+        "date": "2025-10-20 11:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598074"
+    },
+    {
+        "title": "애플 AI 경쟁력 회복할 길 더 멀어져, 소비자 수요보다 인재 유출이 리...",
+        "date": "2025-10-20 11:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=416074"
+    },
+    {
+        "title": "애플 M5 칩, M1 울트라와 맞먹는 성능…애플 실리콘 혁신 가속",
+        "date": "2025-10-20 11:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598069"
+    },
+    {
+        "title": "억소리 나는 홈 시네마···LG전자 ‘능동형 마이크로 LED’ 신제품 출...",
+        "date": "2025-10-20 11:27",
+        "link": "https://n.news.naver.com/mnews/article/032/0003403095?sid=101"
+    },
+    {
+        "title": "애플, '시리 AI' 업데이트 앞두고 내부 우려 확산... 출시 1년 미루고도...",
+        "date": "2025-10-20 11:22",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805066"
+    },
+    {
+        "title": "옵트론텍, '애플 4배 성능' 차세대 프리즘 양산 본격화",
+        "date": "2025-10-20 11:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006142227?sid=101"
+    },
+    {
+        "title": "옵트론텍, '애플 대비 4배 성능' 차세대 프리즘 양산 돌입…광학줌 시장...",
+        "date": "2025-10-20 11:12",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025102011065371005ebfd494dd_29"
+    },
+    {
+        "title": "옵트론텍, '애플 대비 4배 성능' 차세대 프리즘 양산 본격 돌입...광학줌...",
+        "date": "2025-10-20 11:10",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=707963"
+    },
+    {
+        "title": "[써보고서] 이젠 쓸만해진 갤럭시Z폴드7 사볼까?",
+        "date": "2025-10-20 11:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002394529?sid=105"
+    },
+    {
+        "title": "코웨이, 기술로 승부 건다…R&amp;D 투자 '사상 최대'",
+        "date": "2025-10-20 11:08",
+        "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=8291"
+    },
+    {
+        "title": "잘 나가던 아이폰 17 프로, 변색 이슈로 美서 뭇매... '로즈 핑크' 신규...",
+        "date": "2025-10-20 11:04",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805063"
+    },
+    {
+        "title": "LG전자, ‘능동형 마이크로 LED’로 프리미엄 홈 시네마 새 장 연다",
+        "date": "2025-10-20 10:58",
+        "link": "https://www.socialvalue.kr/news/view/1065578035318767"
+    },
+    {
+        "title": "'진짜는 어디에 있는데?'...中 'QLED'에 돌직구 날린 삼성전자 광고 [지...",
+        "date": "2025-10-20 10:50",
+        "link": "https://n.news.naver.com/mnews/article/052/0002261669?sid=101"
+    },
+    {
+        "title": "아이폰17 에어, 초슬림폰의 역풍…중국만 매진, 글로벌 100만 대 감산",
+        "date": "2025-10-20 10:42",
+        "link": "https://www.g-enews.com/view.php?ud=202510201037308402fbbec65dfb_1"
+    },
+    {
+        "title": "“색은 변하고, 폰은 안 접힌다”… 애플, 신제품 ‘망신’",
+        "date": "2025-10-20 10:39",
+        "link": "https://n.news.naver.com/mnews/article/117/0003999531?sid=105"
+    },
+    {
+        "title": "LG전자, ‘능동형 마이크로 LED’ 출시",
+        "date": "2025-10-20 10:36",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1278288&inflow=N"
+    },
+    {
+        "title": "HD현대에너지솔루션, 건식증착 탠덤 셀 세계 최고 효율 구현",
+        "date": "2025-10-20 10:17",
+        "link": "https://n.news.naver.com/mnews/article/417/0001107555?sid=101"
+    },
+    {
+        "title": "애플, 아이폰17 덕에 3분기 사상 최대 실적…삼성은 여전히 1위",
+        "date": "2025-10-20 10:12",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=67958"
+    },
+    {
+        "title": "아이폰 에어, 갤럭시S25 엣지 전철 밟나? 생산량 대폭 축소",
+        "date": "2025-10-20 10:10",
+        "link": "https://kbench.com/?q=node/272280"
+    },
+    {
+        "title": "LG전자, '능동형 마이크로 LED' 신제품 출시…홈 시네마 공략",
+        "date": "2025-10-20 10:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013544460?sid=101"
+    },
+    {
+        "title": "179만 원짜리가 핑크폰으로…아이폰17 변색 '발칵' [자막뉴스]",
+        "date": "2025-10-20 10:07",
+        "link": "https://n.news.naver.com/mnews/article/055/0001301084?sid=101"
+    },
+    {
+        "title": "코웨이, 올 상반기 R&amp;D에 314억 썼다…기술 혁신 성장 잇는다",
+        "date": "2025-10-20 10:04",
+        "link": "https://www.theguru.co.kr/news/article.html?no=93103"
+    },
+    {
+        "title": "LG전자, '능동형 마이크로 LED' 신제품 출시",
+        "date": "2025-10-20 10:02",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025102009445562804aca46cea9_23"
+    },
+    {
+        "title": "'집 안을 영화관처럼'···LG전자, 초대형·초고화질 마이크로 LED 선보...",
+        "date": "2025-10-20 10:02",
+        "link": "https://www.ajunews.com/view/20251020080317543"
+    },
+    {
+        "title": "LG 매그니트 액티브 마이크로 LED 출시…“개별 화소 제어로 완벽 몰입...",
+        "date": "2025-10-20 10:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004545244?sid=101"
+    },
+    {
+        "title": "상반기 폴더블 스마트폰 시장…中폴더블폰 점유율 57% 돌파",
+        "date": "2025-10-20 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=184004"
+    },
+    {
+        "title": "[The CEO-Verse] 넷마블 김병규 대표, '수익성 경영'과 '신작 흥행'으로 ...",
+        "date": "2025-10-20 10:00",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=34429"
+    },
+    {
+        "title": "LG가 만든 극강의 '홈 시네마'…초대형 마이크로LED TV 신제품 출시",
+        "date": "2025-10-20 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005265111?sid=101"
+    },
+    {
+        "title": "벽면이 곧 스크린…LG전자, '능동형 마이크로 LED'로 홈 시네마 진화 선...",
+        "date": "2025-10-20 10:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003014238?sid=101"
+    },
+    {
+        "title": "LG, 136형 능동형 마이크로LED 신제품 선봬",
+        "date": "2025-10-20 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598000"
+    },
+    {
+        "title": "LG전자, '능동형 마이크로 LED' 신제품 선봬",
+        "date": "2025-10-20 10:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=675705"
+    },
+    {
+        "title": "픽셀 하나하나 제어...LG전자, '매그니트 액티브 마이크로 LED' 출시",
+        "date": "2025-10-20 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=386289"
+    },
+    {
+        "title": "옵트론텍, '애플 4배 성능' 프리즘 양산 본격...광학줌 시장 선도",
+        "date": "2025-10-20 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005265109?sid=101"
+    },
+    {
+        "title": "LG전자, 'LG 매그니트 액티브 마이크로 LED' 출시",
+        "date": "2025-10-20 10:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001227576?sid=101"
+    },
+    {
+        "title": "AR 글래스 시장 급성장 전망…사피엔반도체, 레도스 기술로 선점",
+        "date": "2025-10-20 09:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=386388"
+    },
+    {
+        "title": "애플, '아이폰 폴드' 2027년 출시 가닥? 디자인·사양 아직 '미확정'",
+        "date": "2025-10-20 09:54",
+        "link": "https://kbench.com/?q=node/272278"
+    },
+    {
+        "title": "폴더블 아이폰 출시, 2027년으로 출시 늦춰질까",
+        "date": "2025-10-20 09:43",
+        "link": "https://n.news.naver.com/mnews/article/092/0002394488?sid=105"
+    },
+    {
+        "title": "179만원 폰, 색깔이 왜 이래…아이폰17 프로 '변색' 이유가",
+        "date": "2025-10-20 09:43",
+        "link": "https://n.news.naver.com/mnews/article/008/0005265090?sid=105"
+    },
+    {
+        "title": "코웨이, R&amp;D 역량 집중…기술 혁신으로 성장 모멘텀 이어간다",
+        "date": "2025-10-20 09:38",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=73629"
+    },
+    {
+        "title": "R&amp;D 역량 집중하는 코웨이, 기술 혁신으로 성장 모멘텀 이어가",
+        "date": "2025-10-20 09:37",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=332168"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2025-10-20 09:36",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37618"
+    },
+    {
+        "title": "코웨이, 연구개발(R&amp;D)에 집중...상반기 314억 원 투자",
+        "date": "2025-10-20 09:16",
+        "link": "https://www.thebk.co.kr/news/articleView.html?idxno=303167"
+    },
+    {
+        "title": "코웨이, R&amp;D예산 40%가까이 늘려...기술혁신으로 성장 이끈다",
+        "date": "2025-10-20 09:14",
+        "link": "https://n.news.naver.com/mnews/article/008/0005265065?sid=101"
+    },
+    {
+        "title": "코웨이, R&amp;D 역량 집중…기술 혁신으로 성장 모멘텀 강화",
+        "date": "2025-10-20 09:10",
+        "link": "https://dealsite.co.kr/articles/149765"
+    },
+    {
+        "title": "애플, 새 시리 내년 봄 공개 강행… 내부선 “아직 기대에 못 미친다”...",
+        "date": "2025-10-20 09:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002207234?sid=105"
+    },
+    {
+        "title": "﻿코웨이, R&amp;D 역량 집중… 기술 혁신으로 성장 모멘텀 이어간다",
+        "date": "2025-10-20 09:08",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=304452"
+    },
+    {
+        "title": "애플비데, 창립 19주년 맞아 '애플데이' 온라인 단독 행사 진행",
+        "date": "2025-10-20 09:00",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=324105"
+    },
+    {
+        "title": "삼성 갤럭시 스토어, '존재 이유' 사라졌다,",
+        "date": "2025-10-20 08:48",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=83702"
+    },
+    {
+        "title": "애플, 터치스크린 탑재 '맥북 프로' 준비 중[모닝폰]",
+        "date": "2025-10-20 08:28",
+        "link": "https://n.news.naver.com/mnews/article/018/0006141955?sid=105"
+    },
+    {
+        "title": "가격·소프트웨어·품질 관건 애플, '아이폰 폴드' 나온다면 경쟁력 어...",
+        "date": "2025-10-20 08:08",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537847"
+    },
+    {
+        "title": "아이폰 17 프로, 출시 한 달 만에 색 변했다… 코스믹 오렌지 이용자 '충...",
+        "date": "2025-10-20 08:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537852"
+    },
+    {
+        "title": "[IT썰] 출시 또 미뤄진 '폴더블 아이폰'...완벽 추구가 발목 잡는다",
+        "date": "2025-10-20 07:58",
+        "link": "https://n.news.naver.com/mnews/article/008/0005265018?sid=105"
+    },
+    {
+        "title": "삼성, 글로벌 스마트폰 점유율 10년 내 최저…中 제조사 약진에 ‘왕좌...",
+        "date": "2025-10-20 07:58",
+        "link": "https://www.g-enews.com/view.php?ud=2025102007553778460c8c1c064d_1"
+    },
+    {
+        "title": "애플 시리, 2026년 차세대 버전 공개 앞두고 위기...내부선 이미 문제 ...",
+        "date": "2025-10-20 07:34",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537846"
+    },
+    {
+        "title": "KB증권 “비에이치, 고정비 부담 완화·우려 대비 견조한 PCB 업황..목표...",
+        "date": "2025-10-20 07:34",
+        "link": "http://kpenews.com/View.aspx?No=3819680"
+    },
+    {
+        "title": "[모바일 On] 애플 아이폰18, 신제품 출시 시기 조정으로 갤럭시 견제",
+        "date": "2025-10-20 07:30",
+        "link": "https://kidd.co.kr/news/243595"
+    },
+    {
+        "title": "Xbox, 'ROG Xbox Ally'로 휴대용 게이밍의 새 시대 연다",
+        "date": "2025-10-20 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=43424"
+    },
+    {
+        "title": "코웨이, R&amp;D 역량 집중…기술 혁신으로 성장 모멘텀 이어간다",
+        "date": "2025-10-20 07:00",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=113573"
+    },
+    {
+        "title": "中 모니터 시장도 '양보다 질'…SDC·LGD 수혜 기대",
+        "date": "2025-10-20 06:34",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=40428"
+    },
+    {
+        "title": "[단독] 삼성전자, 스마트폰 점유율 10년 최저…중국 56% 공세 직면",
+        "date": "2025-10-20 06:02",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=83698"
+    },
+    {
+        "title": "179만원 넘는 폰이 왜 이래? 아이폰 17 프로 변색 잇따라 [1일IT템]",
+        "date": "2025-10-20 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005421367?sid=105"
+    },
+    {
+        "title": "아이폰17 돌풍…애플, 코로나19 이후 최대 판매 성장세",
+        "date": "2025-10-20 06:00",
+        "link": "https://www.g-enews.com/view.php?ud=2025102001083253589a1f309431_1"
+    },
+    {
+        "title": "中 추월당한 '스마트폰 OLED'⋯ K디스플레이 주도권 위기",
         "date": "2025-10-20 05:00",
         "link": "https://www.etoday.co.kr/news/view/2515806"
     },
