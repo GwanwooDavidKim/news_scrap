@@ -1,5 +1,485 @@
 [
     {
+        "title": "알파스캔, 700g 초경량 포터블 모니터 'AOC 16T20' 출시",
+        "date": "2025-10-30 12:54",
+        "link": "https://gamefocus.co.kr/detail.php?number=170577"
+    },
+    {
+        "title": "삼성전자, 올 3분기 매출 86.1조원, 영업이익 12.2조원 달성",
+        "date": "2025-10-30 12:12",
+        "link": "http://www.intn.co.kr/news/articleView.html?idxno=2046842"
+    },
+    {
+        "title": "땡큐 폴더블, 견조한 '삼성 모바일'…원가상승 대응 무기는 '플래그십...",
+        "date": "2025-10-30 11:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0003018694?sid=105"
+    },
+    {
+        "title": "갤Z폴드7이 이끈 삼성폰 3분기 호실적…4분기도 플래그십에 주력",
+        "date": "2025-10-30 11:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0008573743?sid=105"
+    },
+    {
+        "title": "애플 '에어팟프로 3' 일부 모델 '이상 소음' 현상",
+        "date": "2025-10-30 11:54",
+        "link": "https://kbench.com/?q=node/272689"
+    },
+    {
+        "title": "역대 최대 분기 매출...삼성전자, 3분기 '실적' 매출 86.1조원, 영업이...",
+        "date": "2025-10-30 11:32",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73215"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB·OLED TV 론칭, 프리미엄 경쟁력↑",
+        "date": "2025-10-30 11:29",
+        "link": "https://n.news.naver.com/mnews/article/031/0000976447?sid=101"
+    },
+    {
+        "title": "애플, 아이패드 미니에 방수 기능 도입… 2026년 출시 예정",
+        "date": "2025-10-30 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600994"
+    },
+    {
+        "title": "애플, 에어팟 프로3 비행 중 이상음 발생…공식 대응 없어",
+        "date": "2025-10-30 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600996"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86.1조·영업익 12.2조…역대 최대 분기 매출 달성",
+        "date": "2025-10-30 11:14",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=324076"
+    },
+    {
+        "title": "M5 기반 아이패드 프로, 노트북 대체의 문턱을 넘다",
+        "date": "2025-10-30 11:10",
+        "link": "https://www.itworld.co.kr/article/4081533/m5-기반-아이패드-프로-노트북-대체의-문턱을-넘다.html"
+    },
+    {
+        "title": "애플, 2028년까지 아이패드·맥북 전면 OLED 전환",
+        "date": "2025-10-30 11:02",
+        "link": "https://kbench.com/?q=node/272688"
+    },
+    {
+        "title": "폴드7 날고, 트라이폴드 뜬다…삼성 모바일 실적 '쾌속 질주'",
+        "date": "2025-10-30 10:50",
+        "link": "https://n.news.naver.com/mnews/article/008/0005270701?sid=105"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, 3분기 매출액 86.1조·영업익 12.2조···역대 최...",
+        "date": "2025-10-30 10:48",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=734870"
+    },
+    {
+        "title": "돌아온 반도체…삼성전자, 3분기 매출 86조 역대 최대",
+        "date": "2025-10-30 10:46",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7134419"
+    },
+    {
+        "title": "'부활 신호탄' 삼성전자, AI 반도체·폴더블 앞세워 최대 매출",
+        "date": "2025-10-30 10:45",
+        "link": "https://n.news.naver.com/mnews/article/293/0000074267?sid=101"
+    },
+    {
+        "title": "애플, 워치OS 26에 새 기능 추가…투명도 조절 기능 도입",
+        "date": "2025-10-30 10:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600953"
+    },
+    {
+        "title": "애플, iOS 26.1 RC 버전 배포 시작.. '리퀴드 글래스' 불투명도 조절 기능...",
+        "date": "2025-10-30 10:42",
+        "link": "https://kbench.com/?q=node/272687"
+    },
+    {
+        "title": "게이밍 위한 완성도 높은 성능 HP 오멘 맥스 16 AMD 게이밍 노트북 [리...",
+        "date": "2025-10-30 10:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092149859"
+    },
+    {
+        "title": "삼성전자 3분기 매출 86.1조…AI·폴더블 쌍끌이로 MX 부문 성장 견인",
+        "date": "2025-10-30 10:36",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=44445"
+    },
+    {
+        "title": "기억에 오래 남아… 전현무, '탈모약' 챙겨준 전여친 누구길래",
+        "date": "2025-10-30 10:36",
+        "link": "https://m.entertain.naver.com/article/417/0001110035"
+    },
+    {
+        "title": "얇은 폴더블 AI 폰 통했다…모바일 부문, 삼성 3분기 영업익 30%",
+        "date": "2025-10-30 10:32",
+        "link": "https://n.news.naver.com/mnews/article/277/0005671933?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 낸다 … 파주 OLED 투자 '숨통'",
+        "date": "2025-10-30 10:30",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/30/2025103000137.html"
+    },
+    {
+        "title": "삼성전자, 메모리 반등 힘입어 분기 실적…3분기 영업이익 12.2조",
+        "date": "2025-10-30 10:26",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=539582"
+    },
+    {
+        "title": "삼성전자 3분기 매출 86.1조, 영업익 12.2조원 역대 분기 매출 중 최대...",
+        "date": "2025-10-30 10:18",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=243741"
+    },
+    {
+        "title": "삼성전자, 3분기 영업이익 12.2조 원… 역대 최대 매출 기록, 반도체·모...",
+        "date": "2025-10-30 10:16",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=444832"
+    },
+    {
+        "title": "애플, 앱스토어 개발자 지원 강화…커스텀 페이지·키워드 기능 확대",
+        "date": "2025-10-30 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600942"
+    },
+    {
+        "title": "애플워치 수면 점수, 이름값 못 했다",
+        "date": "2025-10-30 10:14",
+        "link": "https://www.itworld.co.kr/article/4081499/애플워치-수면-점수-이름값-못-했다.html"
+    },
+    {
+        "title": "삼성전자, 반도체 영업익만 '7조'…HBM3E 엔비디아 공급 시사",
+        "date": "2025-10-30 10:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=816460"
+    },
+    {
+        "title": "탑런토탈솔루션, 1500억 규모 車 LCD 모듈 수주…“글로벌 고객 확대”",
+        "date": "2025-10-30 10:10",
+        "link": "https://n.news.naver.com/mnews/article/030/0003364680?sid=105"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12.2조… 반도체·스마트폰 사업 웃었다(종합)",
+        "date": "2025-10-30 10:08",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3333999"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86조원 돌파…역대 최대 분기 매출 기록",
+        "date": "2025-10-30 10:06",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=124383"
+    },
+    {
+        "title": "'분기 최대실적' 달성한 삼성전자...HBM덕에 내년 실적은 더 기대",
+        "date": "2025-10-30 10:06",
+        "link": "https://www.newstree.kr/newsView/ntr202510300003"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 85.1조원·영업이익 12.2조원",
+        "date": "2025-10-30 10:04",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=117057"
+    },
+    {
+        "title": "삼성전자, 2025년 3분기 매출 86.1 조원, 영업이익 12.2조원... 역대 최대...",
+        "date": "2025-10-30 10:04",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=36975"
+    },
+    {
+        "title": "[삼성전자 3Q IR] 디스플레이·VD, 프리미엄 중심 전략 통했다",
+        "date": "2025-10-30 10:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1684342"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86조1000억원…역대 최대 분기 매출",
+        "date": "2025-10-30 10:00",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=275408"
+    },
+    {
+        "title": "삼성전자 AI 성장에 4분기 반도체·스마트폰 호황 기대",
+        "date": "2025-10-30 10:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092149887"
+    },
+    {
+        "title": "삼성전자, AI 수혜 '본격화'…HBM 판매 더 커진다",
+        "date": "2025-10-30 09:59",
+        "link": "https://n.news.naver.com/mnews/article/003/0013568452?sid=101"
+    },
+    {
+        "title": "삼성전자, 3분기 '역대 최대 매출' 86.1조...영업이익 32.5%↑",
+        "date": "2025-10-30 09:56",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=846701"
+    },
+    {
+        "title": "[종합] 삼성전자, 'HBM·폴더블' 동반 질주…3Q 영업익 12조 돌파",
+        "date": "2025-10-30 09:54",
+        "link": "https://www.newspim.com/news/view/20251030000277"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12조 돌파...4분기 AI·고부가로 승부 볼 것",
+        "date": "2025-10-30 09:50",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=118401"
+    },
+    {
+        "title": "삼성전자, 3분기 분기 매출 역대 최대…분기 영업익 10조원대 복귀(상보...",
+        "date": "2025-10-30 09:50",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145927"
+    },
+    {
+        "title": "호실적 거둔 삼성전자, 내년 전망도 '맑음'…HBM4·2나노 적극 대응",
+        "date": "2025-10-30 09:50",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396054?sid=105"
+    },
+    {
+        "title": "삼성·LG디스플레이, '아이폰17' OLED 패널 공급 비중 99% 육박",
+        "date": "2025-10-30 09:50",
+        "link": "https://kbench.com/?q=node/272672"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12.2조 ‘역대 최대 매출’…HBM3E·폴더블이 이...",
+        "date": "2025-10-30 09:50",
+        "link": "https://sateconomy.co.kr/news/view/1065574045595851"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86.1 조원, 영업이익 12.2조원… 역대 최대 분기 ...",
+        "date": "2025-10-30 09:46",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=844630"
+    },
+    {
+        "title": "삼성전자, 3분기 모바일 영업익 3.6조원...폴더블폰 흥행 효과",
+        "date": "2025-10-30 09:46",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1288999"
+    },
+    {
+        "title": "삼성폰, 갤폴드7 호조에…3분기 영업익 전년比 22% 증가",
+        "date": "2025-10-30 09:45",
+        "link": "https://n.news.naver.com/mnews/article/421/0008573046?sid=105"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12.1조원···전분기 比 160.2%↑",
+        "date": "2025-10-30 09:44",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=416436"
+    },
+    {
+        "title": "삼성전자, 3Q 사상 최대 매출 기록…HBM3E 엔비디아 납품",
+        "date": "2025-10-30 09:44",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=234455"
+    },
+    {
+        "title": "삼성전자, 깜짝 실적 반도체가 견인 … 영업익 12조 중 7조 벌었다",
+        "date": "2025-10-30 09:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/30/2025103000092.html"
+    },
+    {
+        "title": "삼성전자, 반도체 영업익 7조원 돌파…전사 매출은 역대 최대",
+        "date": "2025-10-30 09:40",
+        "link": "https://www.g-enews.com/view.php?ud=2025103009281775726ed0c62d49_1"
+    },
+    {
+        "title": "삼성전자, 2025년 3분기 매출 86.1조원·영업이익 12.2조원…역대 최대 ...",
+        "date": "2025-10-30 09:40",
+        "link": "https://www.hinews.co.kr/view.php?ud=202510300938454047dacadeb388_48"
+    },
+    {
+        "title": "삼성 스마트폰 3분기 실적 '껑충'…폴더블 대박",
+        "date": "2025-10-30 09:38",
+        "link": "https://n.news.naver.com/mnews/article/001/0015711253?sid=101"
+    },
+    {
+        "title": "삼성전자 3분기 영업이익 12조1661억원…작년比 32.5%↑",
+        "date": "2025-10-30 09:38",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=689672"
+    },
+    {
+        "title": "삼성전자, 3Q MX부문 영업익 3조6000억원…전년대비 0.7% 증가",
+        "date": "2025-10-30 09:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006150784?sid=105"
+    },
+    {
+        "title": "삼성전자 3Q 영업이익 12조2000억원 반도체만 7조원 벌었다",
+        "date": "2025-10-30 09:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=716524"
+    },
+    {
+        "title": "삼성전자 3Q 영업이익 12조1661억원 반도체만 7조원 벌었다",
+        "date": "2025-10-30 09:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=716524"
+    },
+    {
+        "title": "삼성전자, 3Q DX 영업익 '3.5조'⋯갤럭시 매출 19%↑",
+        "date": "2025-10-30 09:34",
+        "link": "https://www.etoday.co.kr/news/view/2520052"
+    },
+    {
+        "title": "삼성전자, 3분기 ‘매출 86조’ 사상 최대..HBM이 끌고 폴더블이 밀었다",
+        "date": "2025-10-30 09:34",
+        "link": "http://kpenews.com/View.aspx?No=3834213"
+    },
+    {
+        "title": "갤폴드7 흥행 효과 톡톡…삼성폰 3분기 영업익 28% 증가",
+        "date": "2025-10-30 09:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013568334?sid=105"
+    },
+    {
+        "title": "5분기 만에 10조 클럽 복귀 삼성전자, 3분기 영업익 12조1,661억 원. 전...",
+        "date": "2025-10-30 09:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538336"
+    },
+    {
+        "title": "삼성전자, 3Q 역대 최대 매출 86.1조…영업이익 32% ↑",
+        "date": "2025-10-30 09:32",
+        "link": "https://n.news.naver.com/mnews/article/031/0000976343?sid=101"
+    },
+    {
+        "title": "삼성, 반도체·스마트폰 모두 웃었다…3분기 영업익 12조 돌파",
+        "date": "2025-10-30 09:32",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=105587"
+    },
+    {
+        "title": "삼성전자, AI 수요 타고 분기 최대 실적…HBM4 출하·2나노 양산 본격화",
+        "date": "2025-10-30 09:31",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208142?sid=004"
+    },
+    {
+        "title": "삼성전자, 3분기 영업이익 12.1조원…메모리 사상 최대 기록",
+        "date": "2025-10-30 09:30",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025103009230751871"
+    },
+    {
+        "title": "삼성전자, 3분기 영업이익 12조 돌파···7조 이익 낸 DS가 견인차",
+        "date": "2025-10-30 09:30",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=610908"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86.1조 '역대 최대'…'AI·반도체'가 이끌었다",
+        "date": "2025-10-30 09:28",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=787093"
+    },
+    {
+        "title": "삼성전자, 3Q 역대 최대 분기 매출 달성...반도체·스마트폰 쌍끌이",
+        "date": "2025-10-30 09:26",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228271"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12조1661억원…전년比 32.5%↑",
+        "date": "2025-10-30 09:26",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572577175143"
+    },
+    {
+        "title": "반도체·폴더블 쌍끌이…삼성전자, 3Q 영업익 '12조원' 돌파",
+        "date": "2025-10-30 09:26",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1684325"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86.1 조원, 영업이익 12.2조원",
+        "date": "2025-10-30 09:24",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=94873"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86조·영업익 12조…분기 최대 매출 달성",
+        "date": "2025-10-30 09:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=674842"
+    },
+    {
+        "title": "삼성전자 반도체 3분기 영업익 7조..메모리 역대 최대 매출",
+        "date": "2025-10-30 09:24",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2098741"
+    },
+    {
+        "title": "삼성전자, 3분기 매출 86.1조·영업익 12.2조…역대 최대 분기 매출",
+        "date": "2025-10-30 09:24",
+        "link": "http://theviewers.co.kr/View.aspx?No=3834190"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12조2000억…전년比 32.4%↑",
+        "date": "2025-10-30 09:22",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=99388"
+    },
+    {
+        "title": "삼성전자, 3Q 매출 86.1조…역대 최대 분기 매출 기록",
+        "date": "2025-10-30 09:22",
+        "link": "https://www.asiatime.co.kr/article/20251030500029"
+    },
+    {
+        "title": "삼성전자, 3분기 영업이익 12.2조…5분기 만에 '10조 클럽' 복귀 (상보)",
+        "date": "2025-10-30 09:22",
+        "link": "https://news.mtn.co.kr/news-detail/2025103009163088610"
+    },
+    {
+        "title": "삼성전자 3분기 영업익 12.2조원...전분기비 160%↑",
+        "date": "2025-10-30 09:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600877"
+    },
+    {
+        "title": "삼성전자, 역대 최대 분기 매출 기록...86.1 조원",
+        "date": "2025-10-30 09:18",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=408221"
+    },
+    {
+        "title": "삼성전자, 3분기 영업익 12.2조···매출 86조원 '역대 최대 분기 매출...",
+        "date": "2025-10-30 09:16",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=124276"
+    },
+    {
+        "title": "[속보] '폴더블 흥행' 삼성전자 3분기 모바일 영업익 3.5조원",
+        "date": "2025-10-30 09:12",
+        "link": "https://n.news.naver.com/mnews/article/057/0001915967?sid=101"
+    },
+    {
+        "title": "[속보] '폴더블 흥행' 삼성전자 3분기 모바일 영업익 3.5조원",
+        "date": "2025-10-30 09:11",
+        "link": "https://n.news.naver.com/mnews/article/015/0005204210?sid=101"
+    },
+    {
+        "title": "삼성·애플, 초슬림폰 동반 부진…두께 전쟁 승자 없다",
+        "date": "2025-10-30 09:10",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=349842"
+    },
+    {
+        "title": "[속보] '폴더블 흥행' 삼성전자 3분기 모바일 영업익 3.5조원",
+        "date": "2025-10-30 09:08",
+        "link": "https://n.news.naver.com/mnews/article/001/0015711128?sid=101"
+    },
+    {
+        "title": "LG그램, 美애플 제치고 노트북 평가 '1위 독차지'",
+        "date": "2025-10-30 09:04",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=118397"
+    },
+    {
+        "title": "1세대 에어팟 프로 '잡음' 결함…애플 부분 승소[모닝폰]",
+        "date": "2025-10-30 08:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006150703?sid=105"
+    },
+    {
+        "title": "단순 부품 공급 넘어 AI 플랫폼으로… 한국보싸드, '스마트 조선소' 해...",
+        "date": "2025-10-30 08:56",
+        "link": "https://kidd.co.kr/news/243741"
+    },
+    {
+        "title": "美 AI 챗봇 규제법안 발의…애플 변화 불가피",
+        "date": "2025-10-30 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600843"
+    },
+    {
+        "title": "“동물 파티” 말하자 선글라스 호랑이 ‘어흥’… 멀티모달 AI 선도[창...",
+        "date": "2025-10-30 08:28",
+        "link": "https://n.news.naver.com/mnews/article/021/0002746221?sid=101"
+    },
+    {
+        "title": "[Who Is ?] 윤태영 프로티나 대표이사",
+        "date": "2025-10-30 07:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417608"
+    },
+    {
+        "title": "[N2 뷰] 中 디스플레이 5년간 줄줄이 적자...삼성·LG디스플레이 위기 타...",
+        "date": "2025-10-30 07:02",
+        "link": "https://www.news2day.co.kr/article/20251027500271"
+    },
+    {
+        "title": "[상품백서] 2025 태블릿 PC, 뭐가 좋을까…삼성 '배터리 용량·가격' vs. ...",
+        "date": "2025-10-30 06:10",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=742663"
+    },
+    {
+        "title": "엑시노스 2600, 벤치마크 최고점 경신.. 애플·퀄컴 뛰어넘나 [1일IT템]",
+        "date": "2025-10-30 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005426716?sid=105"
+    },
+    {
+        "title": "경복궁을 태블릿에 비추니 왕 즉위식이 착, 한국 스타트업의 이 혁신 기...",
+        "date": "2025-10-30 05:36",
+        "link": "https://n.news.naver.com/mnews/article/023/0003937766?sid=101"
+    },
+    {
         "title": "애플, 아이폰17 ‘프로’ 인기 힘입어 4분기 실적 상승 기대",
         "date": "2025-10-30 05:00",
         "link": "https://www.g-enews.com/view.php?ud=2025103000194641469a1f309431_1"
@@ -155,7 +635,7 @@
         "link": "https://www.greened.kr/news/articleView.html?idxno=332529"
     },
     {
-        "title": "김천김밥축제 '활기찬 부스'…애플꼬마김밥 인기",
+        "title": "김천김밥축제 `활기찬 부스`...애플꼬마김밥 매출 1위 인기 실감",
         "date": "2025-10-29 13:22",
         "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1040235"
     },
@@ -300,11 +780,6 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600479"
     },
     {
-        "title": "생활·건강·보안까지 챙기는 포스코·HDC·GS건설 스마트홈의 비밀",
-        "date": "2025-10-29 09:08",
-        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=314711"
-    },
-    {
         "title": "아이폰17 디자인 유지 애플, 아이폰18 프로 및 아이폰17e 디자인 정보...",
         "date": "2025-10-29 09:08",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538274"
@@ -318,11 +793,6 @@
         "title": "20주년 아이폰, 어떻게 변신할까…7가지 전망",
         "date": "2025-10-29 08:57",
         "link": "https://n.news.naver.com/mnews/article/092/0002395797?sid=105"
-    },
-    {
-        "title": "스윙 연습부터 칼로리 계산까지…메타 AI 안경·손목 밴드 진화",
-        "date": "2025-10-29 08:41",
-        "link": "https://n.news.naver.com/mnews/article/277/0005670972?sid=105"
     },
     {
         "title": "LG디스플레이, 3분기 흑자전환 기대…3년 적자서 탈출하나",
