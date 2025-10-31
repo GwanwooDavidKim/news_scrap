@@ -1,5 +1,655 @@
 [
     {
+        "title": "'창립 13주년' 삼성D... 이청 선도 지위 수성은 기술과 실행에서 결정",
+        "date": "2025-10-31 13:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003019284?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장 기술·가격 혁신 중요",
+        "date": "2025-10-31 12:58",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=342175"
+    },
+    {
+        "title": "삼성D, 13주년 창립기념식…이청 사장 기술·가격 혁신 중요",
+        "date": "2025-10-31 12:38",
+        "link": "https://www.newspim.com/news/view/20251031000616"
+    },
+    {
+        "title": "이청 삼성D 사장 기술ㆍ가격, 두 가지 축에서 혁신 중요",
+        "date": "2025-10-31 12:36",
+        "link": "https://www.etoday.co.kr/news/view/2520738"
+    },
+    {
+        "title": "감당불가, 정신 잃어 전현무X양세찬도 넘어갈 애플짓…'독사과2' 강력...",
+        "date": "2025-10-31 12:33",
+        "link": "https://m.entertain.naver.com/article/117/0004003988"
+    },
+    {
+        "title": "이청 삼성D 사장 '기술·가격' 두 축서 경쟁력 혁신 지속해야",
+        "date": "2025-10-31 12:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152528?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가서 8년 연속 최우수 등급",
+        "date": "2025-10-31 12:32",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3334608"
+    },
+    {
+        "title": "삼성D, 창립 13주년...이청 기술·가격 두 축에서 혁신 지속해야",
+        "date": "2025-10-31 12:32",
+        "link": "http://thetracker.co.kr/View.aspx?No=3836462"
+    },
+    {
+        "title": "삼성디스플레이, 13주년 창립기념식 개최",
+        "date": "2025-10-31 12:32",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228571"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가서 8년 연속 최우수",
+        "date": "2025-10-31 12:30",
+        "link": "https://www.etoday.co.kr/news/view/2520737"
+    },
+    {
+        "title": "삼성D, '창립 13주년' 기념식 개최… 이청 사장 기술·가격 경쟁력 혁신...",
+        "date": "2025-10-31 12:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3334610"
+    },
+    {
+        "title": "삼성디스플레이 창립 13주년, 이청 기술, 고객, 실행을 마음에 새기자...",
+        "date": "2025-10-31 12:28",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417943"
+    },
+    {
+        "title": "“애플 군단 진짜 무서워”...전현무→이은지, 더 강력하게 돌아온 ‘독...",
+        "date": "2025-10-31 12:17",
+        "link": "https://m.entertain.naver.com/article/410/0001096979"
+    },
+    {
+        "title": "“이건 베드신 수준‥진짜 욕 나와” 전현무→이은지 ‘독사과2’ 수위...",
+        "date": "2025-10-31 12:12",
+        "link": "https://m.entertain.naver.com/article/609/0001053125"
+    },
+    {
+        "title": "“어디까지 용서할 수 있나” ‘제2의 깻잎 논쟁’ 예고…더 강력해진 ...",
+        "date": "2025-10-31 12:09",
+        "link": "https://m.entertain.naver.com/article/076/0004341566"
+    },
+    {
+        "title": "삼성D, 창립 13주년 기념식 개최···이청 사장 경쟁력 혁신 지속해야...",
+        "date": "2025-10-31 12:05",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=611100"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가 8년 연속 '최우수' 등급",
+        "date": "2025-10-31 12:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152517?sid=101"
+    },
+    {
+        "title": "초고수 애플女 등장…전현무→허영지도 과몰입한 '독사과2', 더 강력해...",
+        "date": "2025-10-31 12:04",
+        "link": "https://m.entertain.naver.com/article/477/0000577272"
+    },
+    {
+        "title": "더 독해진 ‘독사과2’ 치밀해진 애플짓에 전현무·양세찬 “감당 못해...",
+        "date": "2025-10-31 12:03",
+        "link": "https://m.entertain.naver.com/article/109/0005423168"
+    },
+    {
+        "title": "애플 워치 울트라 3 리뷰 | 완벽을 향한 세 번째 도약",
+        "date": "2025-10-31 12:00",
+        "link": "https://www.itworld.co.kr/article/4082287/애플-워치-울트라-3-리뷰-완벽을-향한-세-번째-도약.html"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가 8년 연속 최우수 등급",
+        "date": "2025-10-31 11:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001119048?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 8년 연속 동반성장지수 평가 '최우수'",
+        "date": "2025-10-31 11:50",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1297740"
+    },
+    {
+        "title": "에이서, '지포스 게이머 페스티벌'서 강력한 게이밍 노트북 선보여",
+        "date": "2025-10-31 11:50",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56659"
+    },
+    {
+        "title": "LG디스플레이, OLED 출하 확대에 힘입어 3분기 흑자 전환",
+        "date": "2025-10-31 11:50",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15858954"
+    },
+    {
+        "title": "삼성D, 동반성장지수 평가서 8년 연속 '최우수'",
+        "date": "2025-10-31 11:48",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=188696"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가서 8년 연속 최우수 등급",
+        "date": "2025-10-31 11:44",
+        "link": "https://n.news.naver.com/mnews/article/001/0015715423?sid=101"
+    },
+    {
+        "title": "삼성D, '동반성장지수 평가'서 8년 연속 최우수…누적 745억원 지원",
+        "date": "2025-10-31 11:42",
+        "link": "https://n.news.naver.com/mnews/article/117/0004003978?sid=103"
+    },
+    {
+        "title": "8년 쌓은 삼성D 상생 '공급망이 곧 경쟁력'",
+        "date": "2025-10-31 11:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=716757"
+    },
+    {
+        "title": "알파스캔 AOC 300Hz·260Hz 초고주사율 게이밍 모니터 2종 출시 및 기념 ...",
+        "date": "2025-10-31 11:32",
+        "link": "https://gamefocus.co.kr/detail.php?number=170621"
+    },
+    {
+        "title": "애플 '중국 부진' 극복하고 수익 개선, 팀 쿡 연말 성수기 최대 실적 ...",
+        "date": "2025-10-31 11:32",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417930"
+    },
+    {
+        "title": "삼성디스플레이, 동반성장지수 평가 8년 연속 최우수 등급",
+        "date": "2025-10-31 11:30",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=234568"
+    },
+    {
+        "title": "삼성D, 동반성장지수 평가서 8년 연속 최우수 등급 달성",
+        "date": "2025-10-31 11:28",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228530"
+    },
+    {
+        "title": "한국애플리즈, '2025 푸드위크 코리아'서 전통주 라인업 선보여",
+        "date": "2025-10-31 11:28",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=200358"
+    },
+    {
+        "title": "애플, 3분기 매출 1025억 달러로 '역대 최고'…아이폰 매출도 최대",
+        "date": "2025-10-31 11:25",
+        "link": "https://n.news.naver.com/mnews/article/586/0000114939?sid=101"
+    },
+    {
+        "title": "애플 훈풍...한국증시 아이폰 관련주 '장중 활짝'",
+        "date": "2025-10-31 11:24",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=156019"
+    },
+    {
+        "title": "반도체·스마트폰 관세 어떻게?…갤럭시·아이폰 영향 '촉각'[한미 관세...",
+        "date": "2025-10-31 11:18",
+        "link": "https://n.news.naver.com/mnews/article/119/0003019251?sid=105"
+    },
+    {
+        "title": "애플 3분기 매출 1,025억 달러로 역대 최대…4분기도 성장 유지",
+        "date": "2025-10-31 11:15",
+        "link": "https://n.news.naver.com/mnews/article/422/0000796739?sid=101"
+    },
+    {
+        "title": "결제는 그래픽카드로? 각종 밈 쏟아진 삼성·현대차·엔비디아 깐부치킨...",
+        "date": "2025-10-31 11:14",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=400642"
+    },
+    {
+        "title": "애플, 3분기 매출 1025억 달러 돌파…사상 최고 실적 달성",
+        "date": "2025-10-31 11:13",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=712204"
+    },
+    {
+        "title": "레드포스 PC방, 목포 하당점 신규 오픈…하이엔드 게이밍 환경 완비",
+        "date": "2025-10-31 11:12",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=2025103110414746089aeda69934_7"
+    },
+    {
+        "title": "“디스플레이 미래는 OLED” 초격차 기술 리더십 가속",
+        "date": "2025-10-31 11:08",
+        "link": "https://n.news.naver.com/mnews/article/469/0000894956?sid=101"
+    },
+    {
+        "title": "목포 하당에 상륙한 레드포스 PC방, 차원이 다른 하이엔드 게이밍 스테...",
+        "date": "2025-10-31 11:08",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=48196"
+    },
+    {
+        "title": "애플, 아이폰17 흥행에 지난 분기 매출 사상 최고치 찍어",
+        "date": "2025-10-31 11:06",
+        "link": "https://n.news.naver.com/mnews/article/366/0001119025?sid=105"
+    },
+    {
+        "title": "애플, 분기 매출 1025억 달러…시장전망치 넘어서",
+        "date": "2025-10-31 10:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281640"
+    },
+    {
+        "title": "화이트 컬러 듀얼 게이밍 모니터... 기가바이트 M27UP ICE UHD 게이밍 160...",
+        "date": "2025-10-31 10:50",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56635"
+    },
+    {
+        "title": "다 쓴 폰 버리지 마세요…삼성·애플 프리미엄 중고폰 '몸값' 뛴다",
+        "date": "2025-10-31 10:42",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281630"
+    },
+    {
+        "title": "[Book] 아이폰과 애플의 성공 뒤 드리워진 그림자…도서 『애플 인 차이...",
+        "date": "2025-10-31 10:41",
+        "link": "https://n.news.naver.com/mnews/article/057/0001916231?sid=103"
+    },
+    {
+        "title": "애플, 분기 매출 1천25억 달러‥시장 전망치 상회",
+        "date": "2025-10-31 10:41",
+        "link": "https://n.news.naver.com/mnews/article/214/0001458677?sid=104"
+    },
+    {
+        "title": "애플, 차세대 아이패드 미니에 방수 기능 탑재… OLED 장착에 가격 상승...",
+        "date": "2025-10-31 10:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003365270?sid=104"
+    },
+    {
+        "title": "애플, 中판매 부진에도 3분기 매출 사상 최고...팀쿡 4분기 中수요 회복...",
+        "date": "2025-10-31 10:38",
+        "link": "https://www.ajunews.com/view/20251031103110296"
+    },
+    {
+        "title": "삼성전자, 역대 최대 분기 실적…자신감 회복했다",
+        "date": "2025-10-31 10:36",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=532706"
+    },
+    {
+        "title": "애플, 역대 최고 분기매출…아이폰도 매출도 최고치",
+        "date": "2025-10-31 10:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003365267?sid=105"
+    },
+    {
+        "title": "애플, 3분기 매출 1025억 달러로 사상 최고치 경신... 잘 만든 '아이폰 ...",
+        "date": "2025-10-31 10:32",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805531"
+    },
+    {
+        "title": "화웨이 차세대 폴더블폰 '메이트 X7' 11월 출시 가능성",
+        "date": "2025-10-31 10:28",
+        "link": "https://kbench.com/?q=node/272744"
+    },
+    {
+        "title": "롯데하이마트, 3분기 연속 수익성 개선 지속…누계 영업이익 184억 흑자",
+        "date": "2025-10-31 10:26",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=188686"
+    },
+    {
+        "title": "동국대, '규조토' 활용해 OLED 효율 향상…친환경 광소재 기술",
+        "date": "2025-10-31 10:24",
+        "link": "https://n.news.naver.com/mnews/article/003/0013572130?sid=102"
+    },
+    {
+        "title": "애플페이, K-패스에 미소짓는 현대카드..타 카드사들 고민 깊어져",
+        "date": "2025-10-31 10:22",
+        "link": "http://kpenews.com/View.aspx?No=3835917"
+    },
+    {
+        "title": "디자인 최악 혹평 받던 아이폰17 역대급 반전…밀려든 주문에 팀쿡도...",
+        "date": "2025-10-31 10:13",
+        "link": "https://n.news.naver.com/mnews/article/003/0013572074?sid=105"
+    },
+    {
+        "title": "애플, AI 전략 본격화…구글·앤트로픽과 협력 가능성",
+        "date": "2025-10-31 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601281"
+    },
+    {
+        "title": "아이폰17 효과 본격화…애플, 4분기 매출·이익 모두 신기록",
+        "date": "2025-10-31 09:51",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208303?sid=105"
+    },
+    {
+        "title": "삼성D·LGD, 3분기 애플 효과 '톡톡'…OLED 기술 강화·비용 절감 '총력'",
+        "date": "2025-10-31 09:50",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145996"
+    },
+    {
+        "title": "[CNB뉴스 위클리픽-전자] 삼성전자, OLED TV로 닌텐도 스위치2 체험 기회...",
+        "date": "2025-10-31 09:50",
+        "link": "https://www.cnbnews.com/news/article.html?no=758014"
+    },
+    {
+        "title": "인도, 전자부품 탈중국 시동…카메라 모듈 등 7개 분야에 8900억원 투입",
+        "date": "2025-10-31 09:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152320?sid=101"
+    },
+    {
+        "title": "애플, 분기매출 역대 최고 1025억달러 … 아이폰 매출도 최대",
+        "date": "2025-10-31 09:44",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/10/31/2025103100083.html"
+    },
+    {
+        "title": "롯데하이마트, 3분기 연속 수익성 개선 지속...누계 영업이익 184억 흑자...",
+        "date": "2025-10-31 09:28",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=99613"
+    },
+    {
+        "title": "티로보틱스, AMR 적용 산업군 확장에 성장 기대-유안타證",
+        "date": "2025-10-31 09:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005271374?sid=101"
+    },
+    {
+        "title": "유안타증권 티로보틱스, AMR 적용 산업군 확장 통한 성장 기대",
+        "date": "2025-10-31 09:26",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=675135"
+    },
+    {
+        "title": "유안타證 AMR 적용 산업군 확장…'티로보틱스' 성장 기대",
+        "date": "2025-10-31 09:26",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=99614"
+    },
+    {
+        "title": "아이폰17, 상상 초월 반응…애플 사상 최고 분기 매출 기록",
+        "date": "2025-10-31 09:24",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=48182"
+    },
+    {
+        "title": "티로보틱스, AMR 적용 산업군 확장에 성장 기대 - 유안타證",
+        "date": "2025-10-31 09:23",
+        "link": "https://www.newspim.com/news/view/20251031000152"
+    },
+    {
+        "title": "애플, 연말 앞둔 11월 하드웨어·소프트웨어 총공세",
+        "date": "2025-10-31 09:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601271"
+    },
+    {
+        "title": "트럼프, 중국산 관세 인하…애플 타격 줄어들어",
+        "date": "2025-10-31 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601265"
+    },
+    {
+        "title": "애플, 4분기 실적 신기록 달성…아이폰17 흥행 주도",
+        "date": "2025-10-31 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601244"
+    },
+    {
+        "title": "애플 4분기 매출 1024억 달러, 순익 274억 달러...시장 예상치 상회",
+        "date": "2025-10-31 09:12",
+        "link": "https://www.mediapen.com/news/view/1053820"
+    },
+    {
+        "title": "아이폰17 수요 강세…내년 ‘시리’ 업그레이드 버전 출시[모닝폰]",
+        "date": "2025-10-31 09:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152248?sid=105"
+    },
+    {
+        "title": "스마트폰 시장 하반기 반등 '주목'…애플·삼성 경쟁 속 샤오미 존재감...",
+        "date": "2025-10-31 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=185382"
+    },
+    {
+        "title": "애플 3분기 매출 1025억달러 '사상 최고'…아이폰 매출도 최대",
+        "date": "2025-10-31 09:00",
+        "link": "https://n.news.naver.com/mnews/article/654/0000149038?sid=101"
+    },
+    {
+        "title": "AI 빅테크 기업, 공급망 탄소 감축 노력 미흡",
+        "date": "2025-10-31 09:00",
+        "link": "https://www.newspenguin.com/news/articleView.html?idxno=20638"
+    },
+    {
+        "title": "애플, 146조 역대최고 분기 매출...아이폰 매출도 최대",
+        "date": "2025-10-31 08:51",
+        "link": "https://n.news.naver.com/mnews/article/052/0002266760?sid=104"
+    },
+    {
+        "title": "애플, 3분기 매출 1025억 달러···사상 최고 기록",
+        "date": "2025-10-31 08:50",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=654995"
+    },
+    {
+        "title": "애플, 3분기 매출 '역대 최고'…아이폰 매출도 최대",
+        "date": "2025-10-31 08:48",
+        "link": "https://n.news.naver.com/mnews/article/057/0001916198?sid=101"
+    },
+    {
+        "title": "LG이노텍·LG디스플레이, 3분기 나란히 호실적…4분기 성장세 '기대'",
+        "date": "2025-10-31 08:42",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=285196"
+    },
+    {
+        "title": "애플, 역대최고 분기매출 찍었다…125억달러 기록, 아이폰 매출도 최대",
+        "date": "2025-10-31 08:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0002990546?sid=104"
+    },
+    {
+        "title": "애플, 분기 매출 1025억달러 '역대 최고'…연간 매출도 신기록",
+        "date": "2025-10-31 08:40",
+        "link": "https://n.news.naver.com/mnews/article/079/0004081012?sid=104"
+    },
+    {
+        "title": "애플, 아이폰17 판매 호조에 3분기 실적 '깜짝'...시간외서 3%↑",
+        "date": "2025-10-31 08:24",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3415241"
+    },
+    {
+        "title": "대신증권 “LG이노텍, 애플 아이폰 신모델 출시 효과로 2026년 실적 성장...",
+        "date": "2025-10-31 08:22",
+        "link": "https://www.etoday.co.kr/news/view/2520554"
+    },
+    {
+        "title": "애플, 분기 매출 1천25억달러 '역대 최고'…아이폰·서비스 매출 모두 신...",
+        "date": "2025-10-31 08:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=390447"
+    },
+    {
+        "title": "애플, 1천25억달러로 역대최고 분기매출…아이폰 매출도 최대",
+        "date": "2025-10-31 08:16",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=197188"
+    },
+    {
+        "title": "애플, 실적 호조 속 4분기도 낙관…시간외서 주가 급등(종합)",
+        "date": "2025-10-31 08:16",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4381475"
+    },
+    {
+        "title": "“LG이노텍, 단기 개선세에 목표가↑…내년 실적 기대치 부담”-메리츠",
+        "date": "2025-10-31 08:12",
+        "link": "https://www.itooza.com/common/iview.php?no=2025103108103397352"
+    },
+    {
+        "title": "메타버스와 현실 사이의 거리 혹은 괴리",
+        "date": "2025-10-31 08:08",
+        "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=400735"
+    },
+    {
+        "title": "[클릭 e종목]티로보틱스, AMR 우위로 다양한 산업 진출 준비",
+        "date": "2025-10-31 08:08",
+        "link": "https://n.news.naver.com/mnews/article/277/0005672484?sid=101"
+    },
+    {
+        "title": "알파벳 1000억 달러 'AI 증명', 애플 실적 발표 전격 공개...결과는? [ 한...",
+        "date": "2025-10-31 08:02",
+        "link": "https://n.news.naver.com/mnews/article/215/0001229023?sid=101"
+    },
+    {
+        "title": "애플, 1천25억 달러로 역대최고 분기매출…아이폰 매출도 최대",
+        "date": "2025-10-31 08:00",
+        "link": "https://n.news.naver.com/mnews/article/055/0001304330?sid=101"
+    },
+    {
+        "title": "물리버튼 사라진다 애플, 20주년 '아이폰20'에 촉각 피드백 시스템 도...",
+        "date": "2025-10-31 08:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538419"
+    },
+    {
+        "title": "[Who Is ?] 박영근 탑런토탈솔루션 대표이사 부회장",
+        "date": "2025-10-31 07:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417847"
+    },
+    {
+        "title": "[더벨][IR Briefing]LG디스플레이, 정철동 공언 '연간 흑자 가시화'",
+        "date": "2025-10-31 07:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510301640304600105674"
+    },
+    {
+        "title": "애플, 역대 최고 분기 매출...시간 외 거래 3%↑",
+        "date": "2025-10-31 07:58",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=126667"
+    },
+    {
+        "title": "[코스피·코스닥,KB금융 삼성전자 현대차 SK텔레콤 한미약품 HD현대중공...",
+        "date": "2025-10-31 07:56",
+        "link": "https://www.public25.com/news/articleView.html?idxno=33085"
+    },
+    {
+        "title": "'애플' 3분기 매출 1천25억 달러…아이폰·서비스 부문 사상 최대",
+        "date": "2025-10-31 07:52",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15858497"
+    },
+    {
+        "title": "애플, 아이폰 17 반응 열광적…기대 넘은 매출 전망, 주가 2%대 상승",
+        "date": "2025-10-31 07:49",
+        "link": "https://n.news.naver.com/mnews/article/008/0005271308?sid=101"
+    },
+    {
+        "title": "애플, 관세 타격에도 호실적… 아마존 시외 13% 급등",
+        "date": "2025-10-31 07:40",
+        "link": "https://n.news.naver.com/mnews/article/011/0004550136?sid=101"
+    },
+    {
+        "title": "애플, 분기 매출 1025억 달러…시장전망치 넘어서",
+        "date": "2025-10-31 07:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013571676?sid=104"
+    },
+    {
+        "title": "아이폰, 살아있네...애플 분기매출 '역대 최고'",
+        "date": "2025-10-31 07:31",
+        "link": "https://n.news.naver.com/mnews/article/215/0001229019?sid=004"
+    },
+    {
+        "title": "애플, 1025억달러로 역대최고 분기매출…아이폰 매출도 최대",
+        "date": "2025-10-31 07:30",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=846879"
+    },
+    {
+        "title": "AI, 없어도 그만…애플, 3분기 분기 매출 신기록 달성",
+        "date": "2025-10-31 07:22",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=146002"
+    },
+    {
+        "title": "애플, 역대 최고 분기매출 기록…아이폰 17 반응 상상초월할 정도",
+        "date": "2025-10-31 07:22",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=689932"
+    },
+    {
+        "title": "삼성전자, 5분기 만의 '10조 클럽' 화려한 복귀…반도체 7조",
+        "date": "2025-10-31 07:20",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3041733"
+    },
+    {
+        "title": "팀 쿡 애플 CEO 분기 매출 1000억 달러 돌파...아이폰 17 판매 기록적",
+        "date": "2025-10-31 07:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1684587"
+    },
+    {
+        "title": "애플, 역대 최고 분기매출 기록…아이폰 매출도 최대",
+        "date": "2025-10-31 07:10",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=453003"
+    },
+    {
+        "title": "“아이폰, 다시 뛴다” 애플 4분기 실적 깜짝 호조…주가 시간 외 3% '껑...",
+        "date": "2025-10-31 07:10",
+        "link": "https://www.g-enews.com/view.php?ud=2025103106513834113bc914ac71_1"
+    },
+    {
+        "title": "애플, 1천25억달러로 역대최고 분기매출…아이폰 매출도 최대(종합)",
+        "date": "2025-10-31 07:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015714646?sid=101"
+    },
+    {
+        "title": "애플, 아이폰17 흥행에 깜짝 실적…시간외서 4%↑",
+        "date": "2025-10-31 06:38",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152121?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 17 인기에 지난 분기에 매출 사상 최고치… 주가 4% 상승",
+        "date": "2025-10-31 06:38",
+        "link": "https://n.news.naver.com/mnews/article/014/0005427493?sid=101"
+    },
+    {
+        "title": "애플 시간외서 3.73% 급등한 281.52달러 ... 실적 예상 상회",
+        "date": "2025-10-31 06:30",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=444911"
+    },
+    {
+        "title": "애플, 4Q 순이익 275억 달러…전년비 86.4% 증가",
+        "date": "2025-10-31 06:27",
+        "link": "https://n.news.naver.com/mnews/article/119/0003019066?sid=105"
+    },
+    {
+        "title": "아이폰17 대흥행에…애플, 12월 분기 사상 최대 실적 전망 [종목+]",
+        "date": "2025-10-31 06:23",
+        "link": "https://n.news.naver.com/mnews/article/015/0005204909?sid=104"
+    },
+    {
+        "title": "안 그래도 AI 뒤처졌는데…애플 저작권 침해소송 파도 휩쓸려",
+        "date": "2025-10-31 06:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008576005?sid=105"
+    },
+    {
+        "title": "[종합] 애플, 中 매출 부진 불구 쿡CEO 두 자릿수 성장 자신...시간 외...",
+        "date": "2025-10-31 06:19",
+        "link": "https://www.newspim.com/news/view/20251031000021"
+    },
+    {
+        "title": "코스피·코스닥 전 거래일(30일) 주요공시는?... LS전선, 1600억원 주주배...",
+        "date": "2025-10-31 06:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=390403"
+    },
+    {
+        "title": "[IB토마토](단독)LG전자, 히타치 가전 인수 포기…일본시장 전략 다시 짠...",
+        "date": "2025-10-31 06:02",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1279862&inflow=N"
+    },
+    {
+        "title": "다 쓴 폰 버리지 마세요…삼성·애플 프리미엄 중고폰 '몸값' 뛴다",
+        "date": "2025-10-31 06:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013571635?sid=105"
+    },
+    {
+        "title": "[비즈톡톡] 스마트안경이 택배 스캔하고 워치로 안전진단… 산업용 웨어...",
+        "date": "2025-10-31 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001118934?sid=105"
+    },
+    {
+        "title": "고맙다 애플…LG디스플레이, 연간 흑자 달성 '이상無'",
+        "date": "2025-10-31 06:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025103015560431090"
+    },
+    {
+        "title": "첫 XR 헤드셋 내놓은 삼성전자… 착용형 생태계 시험대 오른다",
+        "date": "2025-10-31 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092149763"
+    },
+    {
+        "title": "애플, 1천25억달러로 역대최고 분기매출…아이폰 매출도 최대",
+        "date": "2025-10-31 05:57",
+        "link": "https://n.news.naver.com/mnews/article/374/0000471940?sid=101"
+    },
+    {
+        "title": "애플 실적 예상 상회, 시간외서 4% 급등(상보)",
+        "date": "2025-10-31 05:52",
+        "link": "https://n.news.naver.com/mnews/article/421/0008575970?sid=104"
+    },
+    {
+        "title": "애플, 분기 매출 1천25억 달러…시장전망치 상회",
+        "date": "2025-10-31 05:49",
+        "link": "https://n.news.naver.com/mnews/article/001/0015714573?sid=101"
+    },
+    {
+        "title": "[속보] 뉴욕증시 애플 아마존 폭발 시간외 실적발표 환호 ... 메타 테슬...",
+        "date": "2025-10-31 05:44",
+        "link": "https://www.g-enews.com/view.php?ud=202510310539265310906806b77b_1"
+    },
+    {
+        "title": "애플, 아이폰 17 흥행에 다음분기 매출 10~12% 성장 전망",
+        "date": "2025-10-31 05:43",
+        "link": "https://n.news.naver.com/mnews/article/018/0006152099?sid=101"
+    },
+    {
         "title": "[실리콘 디코드] 엔비디아, AI 공급망 탈탄소 '최하위'…재생에너지 목...",
         "date": "2025-10-31 03:46",
         "link": "https://www.g-enews.com/view.php?ud=202510302007033447fbbec65dfb_1"
@@ -183,11 +833,6 @@
         "title": "LG디스플레이 3분기 영업이익 4310억…“턴어라운드 가시화”",
         "date": "2025-10-30 16:23",
         "link": "https://n.news.naver.com/mnews/article/022/0004078938?sid=101"
-    },
-    {
-        "title": "모토로라 초슬림폰 '엣지 70' 글로벌 출시",
-        "date": "2025-10-30 16:22",
-        "link": "https://kbench.com/?q=node/272718"
     },
     {
         "title": "갤럭시 Z 폴드7 일냈다.. 4·4분기 버티기 관건",
@@ -485,14 +1130,14 @@
         "link": "https://www.ngetnews.com/news/articleView.html?idxno=539640"
     },
     {
-        "title": "LG디스플레이, 3분기 영업익 4310억원… 연간 턴어라운드 유력",
-        "date": "2025-10-30 14:46",
-        "link": "https://n.news.naver.com/mnews/article/417/0001110155?sid=101"
-    },
-    {
         "title": "LG디스플레이, 3분기 영업이익 4310억원…4년 만의 흑전 가시화",
         "date": "2025-10-30 14:46",
         "link": "https://www.mediapen.com/news/view/1053565"
+    },
+    {
+        "title": "LG디스플레이, 3분기 영업익 4310억원… 연간 턴어라운드 유력",
+        "date": "2025-10-30 14:46",
+        "link": "https://n.news.naver.com/mnews/article/417/0001110155?sid=101"
     },
     {
         "title": "LGD, 3Q 영업이익 4310억원···연간 흑자 체제 기대감↑",
@@ -635,14 +1280,14 @@
         "link": "https://n.news.naver.com/mnews/article/092/0002396154?sid=105"
     },
     {
-        "title": "LGD 3분기 영업익 4천310억원…4년만 연간 흑자전환 확실시(종합)",
-        "date": "2025-10-30 14:17",
-        "link": "https://n.news.naver.com/mnews/article/001/0015712449?sid=101"
-    },
-    {
         "title": "LG디스플레이, 3분기 4310억 '흑전'…턴어라운드 가시화",
         "date": "2025-10-30 14:17",
         "link": "https://n.news.naver.com/mnews/article/003/0013569683?sid=101"
+    },
+    {
+        "title": "LGD 3분기 영업익 4천310억원…4년만 연간 흑자전환 확실시(종합)",
+        "date": "2025-10-30 14:17",
+        "link": "https://n.news.naver.com/mnews/article/001/0015712449?sid=101"
     },
     {
         "title": "LG디스플레이, 1~3분기 영업이익 3485억원…연간 흑자 보인다",
@@ -1225,11 +1870,6 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006150703?sid=105"
     },
     {
-        "title": "단순 부품 공급 넘어 AI 플랫폼으로… 한국보싸드, '스마트 조선소' 해...",
-        "date": "2025-10-30 08:56",
-        "link": "https://kidd.co.kr/news/243741"
-    },
-    {
         "title": "美 AI 챗봇 규제법안 발의…애플 변화 불가피",
         "date": "2025-10-30 08:52",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600843"
@@ -1238,11 +1878,6 @@
         "title": "“동물 파티” 말하자 선글라스 호랑이 ‘어흥’… 멀티모달 AI 선도[창...",
         "date": "2025-10-30 08:28",
         "link": "https://n.news.naver.com/mnews/article/021/0002746221?sid=101"
-    },
-    {
-        "title": "[Who Is ?] 윤태영 프로티나 대표이사",
-        "date": "2025-10-30 07:36",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417608"
     },
     {
         "title": "[N2 뷰] 中 디스플레이 5년 간 줄줄이 적자...삼성·LG디스플레이 위기 ...",
