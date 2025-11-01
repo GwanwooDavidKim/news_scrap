@@ -1,5 +1,50 @@
 [
     {
+        "title": "iOS26.1·애플TV…이번 달 기대할 만한 애플 신제품은?",
+        "date": "2025-11-01 12:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396451?sid=105"
+    },
+    {
+        "title": "노키아의 부활: 스마트폰 패배자에서 AI 슈퍼사이클 승자로[딥다이브]",
+        "date": "2025-11-01 10:01",
+        "link": "https://n.news.naver.com/mnews/article/020/0003671360?sid=101"
+    },
+    {
+        "title": "“K-팝 언어 장벽 삭제” 애플뮤직, AI 번역·발음 신기능 써보니[잇:써...",
+        "date": "2025-11-01 09:28",
+        "link": "https://n.news.naver.com/mnews/article/018/0006153455?sid=105"
+    },
+    {
+        "title": "나스닥 다우지수 상승 마감...아마존·애플 호실적 주도",
+        "date": "2025-11-01 08:22",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3416044"
+    },
+    {
+        "title": "애플, 아이폰18 프로 색상 또 바꾼다…브라운·퍼플·버건디",
+        "date": "2025-11-01 07:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208398?sid=105"
+    },
+    {
+        "title": "“AI 카메라 단 에어팟 나온다”…애플, 역사상 최대 라인업 예고",
+        "date": "2025-11-01 07:44",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208397?sid=105"
+    },
+    {
+        "title": "애플 신제품 효과·AI 호황…삼성·LG 부품사, 3분기 웃었다",
+        "date": "2025-11-01 07:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008578787?sid=101"
+    },
+    {
+        "title": "애플, 깜짝 실적에도 주가 하락…”문제는 AI”",
+        "date": "2025-11-01 06:04",
+        "link": "https://www.g-enews.com/view.php?ud=202511010206036483be84d87674_1"
+    },
+    {
+        "title": "슬림? 근데 화질은?…'2억 화소' 삼성, 아이폰 에어 카메라 저격",
+        "date": "2025-11-01 06:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005271786?sid=105"
+    },
+    {
         "title": "삼성전자, 치열한 TV 시장 '마이크로 RGB'로 승부수",
         "date": "2025-11-01 00:10",
         "link": "https://www.asiatime.co.kr/article/20251031500257"
@@ -23,6 +68,11 @@
         "title": "애플 시리에 더 많은 타사 AI 도구 내장 계획",
         "date": "2025-10-31 20:08",
         "link": "https://www.aitimes.com/news/articleView.html?idxno=203628"
+    },
+    {
+        "title": "정철동, 인력·투자 효율화 고삐...흑자 전환 속도",
+        "date": "2025-10-31 19:12",
+        "link": "https://dealsite.co.kr/articles/150629"
     },
     {
         "title": "[리뷰] 한미마이크로닉스 위즈맥스 우드리안 맥스 파워업: 경사진 쿨러...",
@@ -158,11 +208,6 @@
         "title": "최고의 제품을 한눈에 'TV아울렛' 강소업체, 아이티스토리글로벌",
         "date": "2025-10-31 15:18",
         "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=50447"
-    },
-    {
-        "title": "남양주시, 애플망고-멜론 등 전문기술 교육생 모집",
-        "date": "2025-10-31 15:12",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20251031010013848"
     },
     {
         "title": "디자인 최악 혹평 받던 아이폰17 역대급 반전…밀려든 주문에 팀쿡도...",
@@ -375,14 +420,14 @@
         "link": "https://www.newscj.com/news/articleView.html?idxno=3334608"
     },
     {
-        "title": "삼성디스플레이, 13주년 창립기념식 개최",
-        "date": "2025-10-31 12:32",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228571"
-    },
-    {
         "title": "삼성D, 창립 13주년...이청 기술·가격 두 축에서 혁신 지속해야",
         "date": "2025-10-31 12:32",
         "link": "http://thetracker.co.kr/View.aspx?No=3836462"
+    },
+    {
+        "title": "삼성디스플레이, 13주년 창립기념식 개최",
+        "date": "2025-10-31 12:32",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228571"
     },
     {
         "title": "삼성디스플레이, 동반성장지수 평가서 8년 연속 최우수",
