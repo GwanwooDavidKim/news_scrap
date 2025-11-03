@@ -1,5 +1,620 @@
 [
     {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운...",
+        "date": "2025-11-03 12:44",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=784855"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 12:00",
+        "link": "http://www.segyebiz.com/newsView/20251103507932?OutUrl=naver"
+    },
+    {
+        "title": "애플, iOS 26.2 베타 버전 곧 나온다. 'RCS 메시지 종단간 암호화' 기능 ...",
+        "date": "2025-11-03 11:58",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538502"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 2026년 나온다.. 핵심 부품 재고 확보 중",
+        "date": "2025-11-03 11:54",
+        "link": "https://kbench.com/?q=node/272810"
+    },
+    {
+        "title": "이재용 말대로 '다들 아이폰이네'…40대 갤럭시 사용률 줄었다",
+        "date": "2025-11-03 11:51",
+        "link": "https://n.news.naver.com/mnews/article/374/0000472429?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨과 협업··· 메이플 아지트서 오디세이 게이밍 모니터...",
+        "date": "2025-11-03 11:50",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1198494"
+    },
+    {
+        "title": "아이폰이 갤럭시 등 안드로이드 폰보다 보안성 약하다",
+        "date": "2025-11-03 11:50",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=236141"
+    },
+    {
+        "title": "프리미엄 게이밍 환경 마련한 '메이플 아지트', 11월 3일부터 누구나 이...",
+        "date": "2025-11-03 11:48",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=245973"
+    },
+    {
+        "title": "삼성전자, 넥슨과 게이밍 경험 확대 오디세이 체험존 5년 운영",
+        "date": "2025-11-03 11:36",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=114867"
+    },
+    {
+        "title": "LG전자, 실적 저점 통과…AI 신사업 모멘텀 부각",
+        "date": "2025-11-03 11:08",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=20251103110547169de3f0aa1be_7"
+    },
+    {
+        "title": "‘에르메스 애플워치’ 쏜다…하나투어, “응모만 해도 5만원” 100% 증정",
+        "date": "2025-11-03 11:04",
+        "link": "https://n.news.naver.com/mnews/article/468/0001191204?sid=103"
+    },
+    {
+        "title": "[IP맞수한판 ①] 엔비디아 vs. 브로드컴",
+        "date": "2025-11-03 11:04",
+        "link": "http://www.boannews.com/media/view.asp?idx=140110&kind=1"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 11:00",
+        "link": "http://www.metroseoul.co.kr/article/20251103500171"
+    },
+    {
+        "title": "삼성, 메이플 아지트서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 11:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150154"
+    },
+    {
+        "title": "잘못 고른 모니터가 게임을 망친다…게이머를 위한 선택 가이드",
+        "date": "2025-11-03 11:00",
+        "link": "https://www.itworld.co.kr/article/4082935/잘못-고른-모니터가-게임을-망친다게이머를-위한.html"
+    },
+    {
+        "title": "삼성전자, 메이플 아지트서 '오디세이 게이밍 모니터 체험존' 운영",
+        "date": "2025-11-03 10:58",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=84891"
+    },
+    {
+        "title": "삼성전자-넥슨, 강남에 200평 규모 게이밍 공간 운영",
+        "date": "2025-11-03 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601635"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'에 오디세이 게이밍존 구축",
+        "date": "2025-11-03 10:56",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=253951"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 5년...",
+        "date": "2025-11-03 10:51",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000084137"
+    },
+    {
+        "title": "갤럭시 S26, 언팩 한 달 미뤄 2월 말 공개 유력... 애플 A19 칩 뛰어넘는...",
+        "date": "2025-11-03 10:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805575"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플아지트'서 오디세이 체험존 운영",
+        "date": "2025-11-03 10:32",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95171"
+    },
+    {
+        "title": "애플 크로스바디 스트랩, 편리함과 가격 사이 고민되는 액세서리",
+        "date": "2025-11-03 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601694"
+    },
+    {
+        "title": "삼성전자, 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:20",
+        "link": "https://n.news.naver.com/mnews/article/082/0001351752?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=99875"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:14",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=788047"
+    },
+    {
+        "title": "애플 차기 '아이폰18 프로'…퀄컴 대신 자체 개발 C2 모뎀 탑재",
+        "date": "2025-11-03 10:14",
+        "link": "https://kbench.com/?q=node/272789"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:12",
+        "link": "https://www.fetv.co.kr/news/article.html?no=204611"
+    },
+    {
+        "title": "크로스오버존, 가성비 광시야각 24인치 게이밍 모니터 무결점 무료 업그...",
+        "date": "2025-11-03 10:12",
+        "link": "https://kbench.com/?q=node/272792"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:10",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=38004"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:08",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=76308"
+    },
+    {
+        "title": "“압도적 몰입감”…삼성, 넥슨 ‘메이플 아지트’서 게이밍 모니터 체...",
+        "date": "2025-11-03 10:08",
+        "link": "https://www.ceoscoredaily.com/page/view/2025110310060639602"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=418164"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'서 오디세이 게이밍 모니터 설치",
+        "date": "2025-11-03 10:06",
+        "link": "https://n.news.naver.com/mnews/article/215/0001229302?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 5년간 오디세이 게이밍 모니터 체험...",
+        "date": "2025-11-03 10:04",
+        "link": "https://www.news2day.co.kr/article/20251103500059"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 10:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396573?sid=105"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운...",
+        "date": "2025-11-03 10:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20251103028132827"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 5년간 오디세이 체험존 운영",
+        "date": "2025-11-03 10:00",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3044649"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'에 오디세이 게이밍 모니터 5년 간 운영",
+        "date": "2025-11-03 09:56",
+        "link": "https://n.news.naver.com/mnews/article/011/0004551098?sid=101"
+    },
+    {
+        "title": "초슬림폰 진짜 사라질까…일부서 출시 중단 움직임",
+        "date": "2025-11-03 09:54",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396568?sid=105"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 체험존 운영",
+        "date": "2025-11-03 09:52",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=533507"
+    },
+    {
+        "title": "애플, 스마트 글래스 프로젝트 속도 낸다…2027년 출시 유력",
+        "date": "2025-11-03 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601666"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운...",
+        "date": "2025-11-03 09:50",
+        "link": "https://www.cnbnews.com/news/article.html?no=758501"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:50",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=224652"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:50",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202511030945197124aca46cea9_23"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=242135"
+    },
+    {
+        "title": "日 샤프, 초경량 VR 글래스 '크로스텔라 VR1' 공개…무게 198g",
+        "date": "2025-11-03 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601638"
+    },
+    {
+        "title": "애플 iOS 26.2 베타 배포 임박… RCS 종단간 암호화 지원 가능성",
+        "date": "2025-11-03 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601655"
+    },
+    {
+        "title": "M5 아이패드 프로 분해해보니…자가 수리 가능성↑",
+        "date": "2025-11-03 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601660"
+    },
+    {
+        "title": "애플워치, 애플 메모 앱 지원 시작…시리 연동 가능",
+        "date": "2025-11-03 09:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601622"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운...",
+        "date": "2025-11-03 09:40",
+        "link": "https://www.hinews.co.kr/view.php?ud=202511030939407156dacadeb388_48"
+    },
+    {
+        "title": "[미국주식] 애플, 강한 실적에도 성장잠재력 의문?",
+        "date": "2025-11-03 09:40",
+        "link": "https://www.itooza.com/common/iview.php?no=2025110309341358626"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:32",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572978172006"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:31",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208446?sid=105"
+    },
+    {
+        "title": "'룸에서 게임 즐긴다'…삼성전자, 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:31",
+        "link": "https://n.news.naver.com/mnews/article/374/0000472377?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:30",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=98982"
+    },
+    {
+        "title": "삼성전자, ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:28",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=78786"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 5년 체험존 운영",
+        "date": "2025-11-03 09:28",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=538528"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존",
+        "date": "2025-11-03 09:26",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2139388"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:24",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=100767"
+    },
+    {
+        "title": "“시리가 구글 제미나이를 쓴다고?”…애플, AI 비서 전면 개편 예고",
+        "date": "2025-11-03 09:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208443?sid=105"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:20",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=275656"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트' 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:20",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=303453"
+    },
+    {
+        "title": "메이플 아지트서 플래그십 삼성 오디세이 게이밍 모니터 체험존 마련",
+        "date": "2025-11-03 09:20",
+        "link": "https://www.cnet.co.kr/view/?no=20251103091610"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:18",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=201133"
+    },
+    {
+        "title": "“이번엔 거실이 주인공”…애플TV·홈팟 미니 신제품 임박",
+        "date": "2025-11-03 09:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208442?sid=105"
+    },
+    {
+        "title": "'메이플 아지트'서 삼성전자 오디세이 게이밍 모니터 체험",
+        "date": "2025-11-03 09:17",
+        "link": "https://n.news.naver.com/mnews/article/417/0001110770?sid=101"
+    },
+    {
+        "title": "삼성전자, 메이플 아지트서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:16",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3335311"
+    },
+    {
+        "title": "삼성전자×넥슨, 오디세이로 잇는 게이밍 혁신",
+        "date": "2025-11-03 09:16",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3050537"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 모니터 체험존 운영",
+        "date": "2025-11-03 09:14",
+        "link": "http://theviewers.co.kr/View.aspx?No=3838369"
+    },
+    {
+        "title": "차세대 '갤럭시S26' 시리즈 공개 한달 지연.. 3월 출시 유력",
+        "date": "2025-11-03 09:14",
+        "link": "https://kbench.com/?q=node/272785"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:10",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=67850"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:10",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=243855"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 '오디세이 게이밍 모니터 체험존' 운영",
+        "date": "2025-11-03 09:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=816956"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538492"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'서 게이밍 모니터 체험존 설치",
+        "date": "2025-11-03 09:06",
+        "link": "https://n.news.naver.com/mnews/article/018/0006154456?sid=101"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:06",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=117136"
+    },
+    {
+        "title": "삼성전자 넥슨 메이플 아지트서 오디세이 게이밍 모니터 체험하세요",
+        "date": "2025-11-03 09:04",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228669"
+    },
+    {
+        "title": "이달 애플TV·홈팟미니 출시 가능성…내년 애플 인텔리전스도 담을까[모...",
+        "date": "2025-11-03 09:03",
+        "link": "https://n.news.naver.com/mnews/article/018/0006154449?sid=105"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013576289?sid=101"
+    },
+    {
+        "title": "하프커피, 가을 맞이 신메뉴 5종 출시…월넛·애플시나몬 테마로 시장 ...",
+        "date": "2025-11-03 09:02",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025103110481412869aeda69934_29"
+    },
+    {
+        "title": "KH바텍, 협동로봇 부품 추가 공급으로 로봇사업 확대 가속화",
+        "date": "2025-11-03 09:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001119578?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 09:00",
+        "link": "https://www.etoday.co.kr/news/view/2521261"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 오디세이 게이밍 모니터 체험존 운...",
+        "date": "2025-11-03 08:59",
+        "link": "https://n.news.naver.com/mnews/article/022/0004079724?sid=101"
+    },
+    {
+        "title": "삼성전자, 메이플 아지트서 5년간 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:56",
+        "link": "https://n.news.naver.com/mnews/article/030/0003365863?sid=105"
+    },
+    {
+        "title": "삼성, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:50",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=236489"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:50",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1290405"
+    },
+    {
+        "title": "삼성전자, 서울 강남서 프리미엄 모니터 체험존 운영",
+        "date": "2025-11-03 08:50",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7134853"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:44",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=690650"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트에 오디세이 게이밍 모니터 설치",
+        "date": "2025-11-03 08:44",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=217503"
+    },
+    {
+        "title": "삼성전자, 넥슨 PC방서 5년간 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0008580558?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨과 맞손…'메이플 아지트'에 오디세이 게이밍 모니터 설...",
+        "date": "2025-11-03 08:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1298243"
+    },
+    {
+        "title": "삼성전자, 넥슨 ‘메이플 아지트’서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:37",
+        "link": "https://n.news.naver.com/mnews/article/029/0002991029?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 모니터 체험존 운영",
+        "date": "2025-11-03 08:34",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=91944"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:34",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251103010000524"
+    },
+    {
+        "title": "삼성전자×넥슨 협업, '메이플 아지트'서 오디세이 모니터 직접 체험한...",
+        "date": "2025-11-03 08:34",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=105635"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=188807"
+    },
+    {
+        "title": "삼성, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:30",
+        "link": "https://www.raonnews.com/news/article.html?no=52703"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1684872"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'에 오디세이 게이밍 모니터 체험존 마련",
+        "date": "2025-11-03 08:29",
+        "link": "https://www.newspim.com/news/view/20251103000057"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:28",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=675430"
+    },
+    {
+        "title": "토마토시스템, 모바일 XR HMD기반 메디컬 피트니스 ‘티온 메디핏’ 정...",
+        "date": "2025-11-03 08:28",
+        "link": "https://n.news.naver.com/mnews/article/018/0006154378?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 메이플 아지트에 오디세이 게이밍 모니터 설치",
+        "date": "2025-11-03 08:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0015719741?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:26",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=408310"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=411767"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005428389?sid=105"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:24",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2099081"
+    },
+    {
+        "title": "삼성 갤럭시 S26, 내년 2월 25일 샌프란시스코 공개…AI 중심지서 전략...",
+        "date": "2025-11-03 08:24",
+        "link": "https://www.g-enews.com/view.php?ud=2025110308220253830c8c1c064d_1"
+    },
+    {
+        "title": "삼성전자, '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:23",
+        "link": "https://n.news.naver.com/mnews/article/119/0003019904?sid=101"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:20",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=678276"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'에 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:20",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=391198"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:20",
+        "link": "https://www.ajunews.com/view/20251103080541471"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:16",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=461727"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'에 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:12",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=135732"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:10",
+        "link": "https://n.news.naver.com/mnews/article/108/0003380895?sid=004"
+    },
+    {
+        "title": "삼성전자, 넥슨 '메이플 아지트'서 오디세이 게이밍 모니터 체험존 운영",
+        "date": "2025-11-03 08:09",
+        "link": "https://n.news.naver.com/mnews/article/001/0015719727?sid=101"
+    },
+    {
+        "title": "갤럭시 성공 방정식, 그리고 스냅드래곤 인사이트",
+        "date": "2025-11-03 08:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=716309"
+    },
+    {
+        "title": "[IT썰] 애플, 내년 역대급 신제품 출시…폴더블폰부터 M6 맥북까지",
+        "date": "2025-11-03 07:57",
+        "link": "https://n.news.naver.com/mnews/article/008/0005272245?sid=105"
+    },
+    {
+        "title": "[부자들의 투자노트] 댄 아이브스 애플, 구글과 AI 파트너십 발표 기대...",
+        "date": "2025-11-03 07:41",
+        "link": "https://n.news.naver.com/mnews/article/374/0000472349?sid=104"
+    },
+    {
+        "title": "[Biz&amp;Law] 삼성전자, 스마트싱스 원격조정 UX·UI 기능 美 특허침해 피소",
+        "date": "2025-11-03 07:30",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=678233"
+    },
+    {
+        "title": "[모바일 On] 애플 아이폰 17e, ‘다이내믹 아일랜드’ 디자인 적용",
+        "date": "2025-11-03 07:10",
+        "link": "https://kidd.co.kr/news/243777"
+    },
+    {
+        "title": "[기자수첩] 슬림폰 전쟁이 남긴 메시지",
+        "date": "2025-11-03 06:46",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1684685"
+    },
+    {
+        "title": "[신간] 중국에 포획된 애플의 미래",
+        "date": "2025-11-03 06:02",
+        "link": "https://magazine.hankyung.com/money/article/202510225494c"
+    },
+    {
+        "title": "[ESG클린리더스]디지털 전환으로 탄소 배출 줄여...OLED TV 효율 20% 개...",
+        "date": "2025-11-03 06:01",
+        "link": "https://n.news.naver.com/mnews/article/469/0000895302?sid=101"
+    },
+    {
         "title": "슬림과 성능의 절묘한 균형점 에이수스 ROG 제피러스 G16(GA605) [리뷰]",
         "date": "2025-11-03 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150134"
