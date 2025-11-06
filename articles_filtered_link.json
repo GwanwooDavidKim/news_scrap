@@ -1,5 +1,485 @@
 [
     {
+        "title": "삼성전자, CES 2026 최고 혁신상 3개 포함 총 27개 혁신상 수상",
+        "date": "2025-11-06 12:48",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=408530"
+    },
+    {
+        "title": "애플, 시리에 구글 모델 '임시' 투입 결정...자체 모델 완성되면 교체",
+        "date": "2025-11-06 12:22",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=203760"
+    },
+    {
+        "title": "애플, 차세대 '시리'에 구글 제미나이 도입.. 매년 10억 달러 지불",
+        "date": "2025-11-06 11:54",
+        "link": "https://kbench.com/?q=node/272968"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16조3000억원… “애플 없어도 매출 성장세”",
+        "date": "2025-11-06 11:50",
+        "link": "https://n.news.naver.com/mnews/article/366/0001120678?sid=105"
+    },
+    {
+        "title": "삼성전자, 'CES 2026'서 최고 혁신상 등 대거 수상",
+        "date": "2025-11-06 11:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397255?sid=105"
+    },
+    {
+        "title": "인테리어·게임·웹서핑도 삼성과…삼성전자, '경험' 생태계 강화",
+        "date": "2025-11-06 11:42",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=146307"
+    },
+    {
+        "title": "“스마트팩토리 수주 5000억…연내 1조 달성”",
+        "date": "2025-11-06 11:38",
+        "link": "https://n.news.naver.com/mnews/article/016/0002553747?sid=101"
+    },
+    {
+        "title": "애플, 2026년 첫 저가형 맥북 출시 추진… 크롬북·윈도우 노트북 정조준",
+        "date": "2025-11-06 11:34",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=68563"
+    },
+    {
+        "title": "애플 반도체칩 진화 불구 OS 제자리…아이패드 프로의 딜레마",
+        "date": "2025-11-06 11:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602788"
+    },
+    {
+        "title": "애플, 시리-제미나이 합작에 연간 10억 달러 베팅... AI 독립 전까지 구...",
+        "date": "2025-11-06 11:32",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805756"
+    },
+    {
+        "title": "애플 협력 강화 기대 속...LG전자 주가 '장중 급등'",
+        "date": "2025-11-06 11:20",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=156357"
+    },
+    {
+        "title": "애플 시리, 구글 AI 제미나이 쓴다…연간 1.4조원 지급 조건",
+        "date": "2025-11-06 11:16",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=730312"
+    },
+    {
+        "title": "아이폰 에어, '애플 텃밭' 日서도 부진",
+        "date": "2025-11-06 11:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003367519?sid=105"
+    },
+    {
+        "title": "애플, 시리 혁신 위해 '제미나이' 쓴다…구글에 연 10억 달러 줄 듯",
+        "date": "2025-11-06 10:56",
+        "link": "https://n.news.naver.com/mnews/article/003/0013584649?sid=105"
+    },
+    {
+        "title": "누가봐도 '아이폰 에어' 저격⋯삼성 '갤S25 엣지' 비교광고, 대놓고 깠...",
+        "date": "2025-11-06 10:56",
+        "link": "https://n.news.naver.com/mnews/article/014/0005430595?sid=105"
+    },
+    {
+        "title": "애플 아이폰17 프로 알루미늄 디자인 논란…스크래치 취약",
+        "date": "2025-11-06 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602784"
+    },
+    {
+        "title": "애플, C1 모뎀 아이폰서 iOS 26.2 베타 설치 차단",
+        "date": "2025-11-06 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602751"
+    },
+    {
+        "title": "삼성전자, 최고혁신 3개 포함 총 27개 CES 혁신상 수상",
+        "date": "2025-11-06 10:54",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2141738"
+    },
+    {
+        "title": "퀄컴, 4분기 시장 전망 뒤집고 '어닝 서프라이즈'... 탈 애플에도 탄탄...",
+        "date": "2025-11-06 10:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805751"
+    },
+    {
+        "title": "애플 폴더블 아이폰 2026년 출시 유력…핵심 사양 톺아보기",
+        "date": "2025-11-06 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602746"
+    },
+    {
+        "title": "애플, iOS 26.2 12월 중순 공개… AI·맞춤형 기능 강화",
+        "date": "2025-11-06 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602730"
+    },
+    {
+        "title": "삼성전자, TV·스마트폰·XR기기 등 CES 2026 혁신상 총 27개 수상",
+        "date": "2025-11-06 10:46",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=73906"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상",
+        "date": "2025-11-06 10:38",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=324363"
+    },
+    {
+        "title": "LG전자, 투명·무선 OLED TV로 CES 2026 최고 혁신상 수상",
+        "date": "2025-11-06 10:36",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=203319"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허 침해 2건 평결에 불복…무효소송 진행",
+        "date": "2025-11-06 10:34",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=462865"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상 .... 최고 혁신상 3개 포함 총 27개...",
+        "date": "2025-11-06 10:28",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=76517"
+    },
+    {
+        "title": "삼성전자, 'CES 2026' 혁신상 대거 수상",
+        "date": "2025-11-06 10:28",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=789081"
+    },
+    {
+        "title": "애플 내년봄 '시리'에 '제미나이' 탑재…연 10억달러 계약",
+        "date": "2025-11-06 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008588428?sid=105"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 27개 수상",
+        "date": "2025-11-06 10:20",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95526"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 휩쓸어",
+        "date": "2025-11-06 10:08",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=35223"
+    },
+    {
+        "title": "조주완 LG전자 CEO “올해 스마트팩토리 수주 규모 5000억원…연내 1조원...",
+        "date": "2025-11-06 10:08",
+        "link": "https://n.news.naver.com/mnews/article/016/0002553592?sid=101"
+    },
+    {
+        "title": "삼성전자, CES 2026서 최고 혁신상 3개 포함 27개 수상",
+        "date": "2025-11-06 10:04",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3046211"
+    },
+    {
+        "title": "[N2 전자 정보통] 미리보는 ‘CES 2026’…국내 기업 ‘혁신상’ 대거 수...",
+        "date": "2025-11-06 10:02",
+        "link": "https://www.news2day.co.kr/article/20251106500086"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2025-11-06 09:58",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=38095"
+    },
+    {
+        "title": "[단독] '무효 청구로 대응?' 삼성전자, 美 특허청서 이미 발목 잡혔다 [...",
+        "date": "2025-11-06 09:56",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95497"
+    },
+    {
+        "title": "애플 떠나도 성장세 자신한 퀄컴, 삼성도 잃을 위기에 주가↓(종합)",
+        "date": "2025-11-06 09:55",
+        "link": "https://n.news.naver.com/mnews/article/001/0015727155?sid=104"
+    },
+    {
+        "title": "삼성전자, CES 2026서 최고혁신상 3개 등 총 27개상 수상",
+        "date": "2025-11-06 09:50",
+        "link": "https://www.m-economynews.com/news/article.html?no=61479"
+    },
+    {
+        "title": "삼성전자 '갤럭시 XR', 반응 '후끈'…생태계 확장 가속",
+        "date": "2025-11-06 09:48",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=147179"
+    },
+    {
+        "title": "삼성·LG전자, CES 2026서 혁신상 대거 수상…글로벌 기술력 입증",
+        "date": "2025-11-06 09:48",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=817559"
+    },
+    {
+        "title": "애플, 에어팟 블루투스 자동 전환 문제 해결…iOS 26 업데이트",
+        "date": "2025-11-06 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602688"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 27개 수상",
+        "date": "2025-11-06 09:44",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=189184"
+    },
+    {
+        "title": "삼성전자, CES 2026 최고 혁신상 3개 포함 혁신상 27개 수상",
+        "date": "2025-11-06 09:44",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=717484"
+    },
+    {
+        "title": "삼성전자, 'CES 2026' 혁신상 휩쓸어…총 27개 수상",
+        "date": "2025-11-06 09:42",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=99399"
+    },
+    {
+        "title": "조주완 AI 기반의 제조 혁신…LG전자-애플 협력 확대",
+        "date": "2025-11-06 09:41",
+        "link": "https://n.news.naver.com/mnews/article/277/0005675345?sid=101"
+    },
+    {
+        "title": "대만 모니터 시장 동향",
+        "date": "2025-11-06 09:38",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=235687"
+    },
+    {
+        "title": "애플, 270.14달러 0.04% 상승 마감",
+        "date": "2025-11-06 09:38",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=462818"
+    },
+    {
+        "title": "폭스콘, 수개월 내 美 텍사스에 휴머노이드 로봇 배치…AI 서버 생산",
+        "date": "2025-11-06 09:34",
+        "link": "https://www.g-enews.com/view.php?ud=2025110609314152990c8c1c064d_1"
+    },
+    {
+        "title": "삼성·LG, CES 2026 혁신상 대거 수상…하드웨어부터 비하드웨어까지",
+        "date": "2025-11-06 09:33",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208842?sid=004"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상",
+        "date": "2025-11-06 09:30",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2099492"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상",
+        "date": "2025-11-06 09:30",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=68041"
+    },
+    {
+        "title": "애플, 결국 구글에 항복…제미나이에 연 10억달러 지불 임박",
+        "date": "2025-11-06 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208836?sid=105"
+    },
+    {
+        "title": "한국미래기술교육硏, 전자기기 및 데이터센터 첨단 방열 기술 집중 교육...",
+        "date": "2025-11-06 09:26",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=189999"
+    },
+    {
+        "title": "LG전자, 인도서 아이폰17 생산장비 첫 공급…인도 시장 성장 가속도",
+        "date": "2025-11-06 09:22",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=535748"
+    },
+    {
+        "title": "삼성 ‘갤럭시 XR’, 내년 유럽·캐나다로 확대…글로벌 시장 진출 본격...",
+        "date": "2025-11-06 09:21",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208834?sid=004"
+    },
+    {
+        "title": "Part 2. 불확실성 프레임에 대처하기 위한 공급망 전환(SCX)의 조건",
+        "date": "2025-11-06 09:20",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=318623"
+    },
+    {
+        "title": "삼성전자, CES 혁신상 총 27개 수상...혁신 기술 인정 받았다",
+        "date": "2025-11-06 09:20",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=229209"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상",
+        "date": "2025-11-06 09:20",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=462784"
+    },
+    {
+        "title": "지니스램프, 일본 최대 유통사 이온 입점…'아이긴 애플진' 블랙프라이...",
+        "date": "2025-11-06 09:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=392626"
+    },
+    {
+        "title": "제약·바이오 신사업 전환...킵스파마, 글로벌 연구·투자 협력 확대",
+        "date": "2025-11-06 09:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=392621"
+    },
+    {
+        "title": "BTS 진 효과? 아이긴, 일본 진출…애플진 재팬 에디션 예판 돌입",
+        "date": "2025-11-06 09:14",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=691715"
+    },
+    {
+        "title": "삼성전자, 갤럭시 'XR'·양자 암호 보안칩 등 CES2026 혁신상 27개 수상",
+        "date": "2025-11-06 09:13",
+        "link": "https://n.news.naver.com/mnews/article/011/0004552603?sid=101"
+    },
+    {
+        "title": "[뉴스락 주식네비 11월 6일] 비에이치(090460), 폴더블 아이폰으로의 시...",
+        "date": "2025-11-06 09:12",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=118896"
+    },
+    {
+        "title": "'엑사원' 세계 3위 기염 … GPT-5와 5.9개월차 [디지털포스트 모닝픽]",
+        "date": "2025-11-06 09:12",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56738"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 석권…총 27개 수상",
+        "date": "2025-11-06 09:12",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=201615"
+    },
+    {
+        "title": "삼성전자, ‘CES 2026혁신상’ 27개 수상",
+        "date": "2025-11-06 09:10",
+        "link": "https://n.news.naver.com/mnews/article/082/0001352347?sid=101"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상...최고 혁신상 3개 포함 총 27개",
+        "date": "2025-11-06 09:10",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=412275"
+    },
+    {
+        "title": "삼성전자, 'CES 2026' 혁신상 27개 수상",
+        "date": "2025-11-06 09:10",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=110962"
+    },
+    {
+        "title": "한라캐스트, '휴머노이드 로봇 본격 진입'…1조 수주잔고로 'K-로봇 핵심...",
+        "date": "2025-11-06 09:08",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=236984"
+    },
+    {
+        "title": "애플, AI 음성비서 ‘Siri’에 구글 Gemini 도입 추진",
+        "date": "2025-11-06 09:06",
+        "link": "https://sateconomy.co.kr/news/view/1065571278576213"
+    },
+    {
+        "title": "애플 AI 강화 위해 구글과 동맹? 시리에 제미나이 활용할듯[모닝폰]",
+        "date": "2025-11-06 09:05",
+        "link": "https://n.news.naver.com/mnews/article/018/0006157247?sid=105"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16조원…“非 애플 매출 성장세”",
+        "date": "2025-11-06 09:05",
+        "link": "https://n.news.naver.com/mnews/article/030/0003367399?sid=105"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16.3조원 … 애플 떠나도 성장세 견고",
+        "date": "2025-11-06 09:04",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/11/06/2025110600054.html"
+    },
+    {
+        "title": "삼성전자, 'CES 2026' 혁신상 석권… 최고 3개 포함 총 27개 수상",
+        "date": "2025-11-06 09:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=236981"
+    },
+    {
+        "title": "8TB 초대용량 PCIe 5.0 NVMe SSD... 삼성전자 9100 PRO 8TB",
+        "date": "2025-11-06 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56722"
+    },
+    {
+        "title": "삼성전자, 최고 혁신상 포함 총 27부문 'CES 혁신상' 수상",
+        "date": "2025-11-06 08:55",
+        "link": "https://n.news.naver.com/mnews/article/417/0001111541?sid=101"
+    },
+    {
+        "title": "11월 5일 주식시장 주요공시",
+        "date": "2025-11-06 08:50",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=116443"
+    },
+    {
+        "title": "애플 시리에 구글 제미나이 탑재…연 10억 달러 계약 임박",
+        "date": "2025-11-06 08:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397164?sid=105"
+    },
+    {
+        "title": "LG전자, 인도서 아이폰17 생산장비 사상 최초 공급. 애플과 협력 범위 확...",
+        "date": "2025-11-06 08:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538637"
+    },
+    {
+        "title": "AI 경쟁 뒤쳐진 애플 아이폰 시리에 구글 AI 모델 도입",
+        "date": "2025-11-06 08:30",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251106010002928"
+    },
+    {
+        "title": "삼성전자, 美서 체험형 매장 확대…뉴욕 이어 캘리포니아도",
+        "date": "2025-11-06 08:29",
+        "link": "https://n.news.naver.com/mnews/article/018/0006157188?sid=101"
+    },
+    {
+        "title": "삼성전자, CES 2026 혁신상 대거 수상…최고 혁신상 3개 등 27개 수상",
+        "date": "2025-11-06 08:12",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=101103"
+    },
+    {
+        "title": "삼성전자, 'CES 혁신상' 최고 3개 포함 총 27개 수상",
+        "date": "2025-11-06 08:12",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=691665"
+    },
+    {
+        "title": "[IT썰]AI 뒤처진 애플, '시리'에 구글 '제미나이' 탑재하나",
+        "date": "2025-11-06 08:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005274225?sid=105"
+    },
+    {
+        "title": "애플 떠나도 '탄탄대로'...분기 '어닝 서프라이즈'",
+        "date": "2025-11-06 08:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001229768?sid=004"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16조3천억원…“삼성·애플 떠나도 성장세”",
+        "date": "2025-11-06 07:56",
+        "link": "https://n.news.naver.com/mnews/article/056/0012060884?sid=104"
+    },
+    {
+        "title": "LG전자, 인도에 공장 장비 생산 이전 검토…노이다 R&amp;D 센터에 1조4000억...",
+        "date": "2025-11-06 07:50",
+        "link": "https://www.g-enews.com/view.php?ud=2025110607481110400c8c1c064d_1"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16조3000억원…애플 떠나도 성장세 견고",
+        "date": "2025-11-06 07:38",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=847827"
+    },
+    {
+        "title": "애플, 맥북 터치ID 오류 잡았다…맥OS 대규모 보안 패치 공개",
+        "date": "2025-11-06 07:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538635"
+    },
+    {
+        "title": "퀄컴, 4분기 '어닝 서프라이즈'…애플 떠나도 성장세 견고",
+        "date": "2025-11-06 07:29",
+        "link": "https://n.news.naver.com/mnews/article/374/0000473144?sid=104"
+    },
+    {
+        "title": "퀄컴, 4분기 매출 16조3천억원…애플 떠나도 성장세 견고",
+        "date": "2025-11-06 07:21",
+        "link": "https://n.news.naver.com/mnews/article/001/0015726826?sid=104"
+    },
+    {
+        "title": "“자체 모델 만들 때까지”…애플, 구글 AI로 ‘시리’ 구동",
+        "date": "2025-11-06 06:50",
+        "link": "https://n.news.naver.com/mnews/article/056/0012060838?sid=104"
+    },
+    {
+        "title": "애플, 아이폰 음성 비서 '시리'에 구글 AI 모델 사용 댓가로 10억달러 지...",
+        "date": "2025-11-06 06:42",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2025110606383231512aaae0046f_30"
+    },
+    {
+        "title": "애플, 차세대 시리 AI 파트너로 구글 선택...연간 10억달러 규모 계약",
+        "date": "2025-11-06 06:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602638"
+    },
+    {
+        "title": "자체 모델 만들 때까지만 임시 협력...애플, 구글 AI로 '시리' 구동",
+        "date": "2025-11-06 06:12",
+        "link": "https://n.news.naver.com/mnews/article/052/0002269255?sid=104"
+    },
+    {
+        "title": "갤럭시 S26 성능 미리 보기? 샤오미 17 프로 맥스 벤치마크 돌려보니.. ...",
+        "date": "2025-11-06 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005430407?sid=105"
+    },
+    {
+        "title": "자체 모델 만들 때까지만…애플, 구글 AI로 '시리' 구동",
+        "date": "2025-11-06 05:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0015726731?sid=104"
+    },
+    {
         "title": "삼성전자, 소상공인과 매장 내 '무빙스타일' 활용 아이디어 공유",
         "date": "2025-11-06 01:52",
         "link": "https://www.apnews.kr/news/articleView.html?idxno=3041927"
@@ -413,6 +893,11 @@
         "title": "삼성 갤럭시 S26, 가격 인상되나... 과열된 'AI 투자' 부메랑 소비자가 ...",
         "date": "2025-11-05 11:40",
         "link": "https://kr.aving.net/news/articleView.html?idxno=1805700"
+    },
+    {
+        "title": "제3장 스트레처블 디스플레이 소재기술(2)-정용철(한국생산기술연구원...",
+        "date": "2025-11-05 11:34",
+        "link": "http://amenews.kr/news/view.php?idx=64486"
     },
     {
         "title": "“스마트홈을 완성하는 마법의 기술” 지오펜싱 실전 활용법",
