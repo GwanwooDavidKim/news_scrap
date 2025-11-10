@@ -1,5 +1,185 @@
 [
     {
+        "title": "구글에 손 내민 애플, 시리는 되살아나도 AI 주권은 흔들린다",
+        "date": "2025-11-10 12:40",
+        "link": "https://www.itworld.co.kr/article/4087152/구글에-손-내민-애플-시리는-되살아나도-ai-주권은-흔들.html"
+    },
+    {
+        "title": "LG Display Set to Post First Profit in Four Years",
+        "date": "2025-11-10 12:12",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=256066"
+    },
+    {
+        "title": "GM, 애플 카플레이·안드로이드 오토 전 차종서 단계적 중단 계획..왜?",
+        "date": "2025-11-10 12:02",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=59850"
+    },
+    {
+        "title": "공개된 삼성 '갤럭시 S26'보니 더 얇아졌다... '엣지' 대신 초슬림폰 수...",
+        "date": "2025-11-10 11:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805891"
+    },
+    {
+        "title": "애플, 'M6 Pro/Max' 맥북 프로 모델만 OLED 패널 탑재할 듯",
+        "date": "2025-11-10 11:54",
+        "link": "https://kbench.com/?q=node/273067"
+    },
+    {
+        "title": "애플 생성형 AI 기술 '독립' 당분간 어렵다, 구글 제미나이에 의존 장기...",
+        "date": "2025-11-10 11:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=419275"
+    },
+    {
+        "title": "“10명중 1명 살까 말까”…사실상 수요 없는 아이폰 에어, 생산량 줄인...",
+        "date": "2025-11-10 11:39",
+        "link": "https://n.news.naver.com/mnews/article/009/0005587411?sid=101"
+    },
+    {
+        "title": "아이폰 안 팔린다더니 … 베이징 트렌드 1번지 샤오미 매장에 외국인 손...",
+        "date": "2025-11-10 11:26",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/11/10/2025111000116.html"
+    },
+    {
+        "title": "못 쓴 세액공제만 산더미…업계 OLED 지원 타이밍 놓친다",
+        "date": "2025-11-10 11:22",
+        "link": "https://n.news.naver.com/mnews/article/008/0005275799?sid=101"
+    },
+    {
+        "title": "마이크로닉스, 'COOLMAX 크리스탈' 특가 판매 진행",
+        "date": "2025-11-10 11:16",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56790"
+    },
+    {
+        "title": "애플 '하늘 연결' 현실로…아이폰·워치 위성 기능 전면 확장",
+        "date": "2025-11-10 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150640"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성, 2nm '엑시노스 2600' 개발…3억2천만 화소·AI로 '...",
+        "date": "2025-11-10 10:48",
+        "link": "https://www.g-enews.com/view.php?ud=202511101046304019fbbec65dfb_1"
+    },
+    {
+        "title": "애플, 시리 핵심에 '구글 제미나이' 탑재…AI 협력 가속",
+        "date": "2025-11-10 10:44",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=115403"
+    },
+    {
+        "title": "조위, 4K 무선 게이밍 마우스 DW 시리즈 화이트 에디션 출시",
+        "date": "2025-11-10 10:32",
+        "link": "https://kbench.com/?q=node/273058"
+    },
+    {
+        "title": "58억 계약은 시작일 뿐… 사피엔반도체, 차세대 마이크로 LED 시장 본격...",
+        "date": "2025-11-10 10:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=393815"
+    },
+    {
+        "title": "삼성D 전장사업, 모바일 뒤이을 삼성의 新성장동력으로 거듭날까",
+        "date": "2025-11-10 10:16",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251109010004412"
+    },
+    {
+        "title": "마이크로닉스, PC 케이스 ‘COOLMAX 크리스탈’ 특별 프로모션 펼쳐",
+        "date": "2025-11-10 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20251110100923"
+    },
+    {
+        "title": "벤큐 조위, 4K 무선 게이밍 마우스 'DW 시리즈' 화이트 에디션 발매",
+        "date": "2025-11-10 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20251110100029"
+    },
+    {
+        "title": "아이폰18 시리즈 전면 카메라, 18MP -> 24MP 업그레이드",
+        "date": "2025-11-10 09:54",
+        "link": "https://kbench.com/?q=node/273048"
+    },
+    {
+        "title": "애플, 위성 연결 강화한다…자체 서비스도 검토 중",
+        "date": "2025-11-10 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603301"
+    },
+    {
+        "title": "LG디스플레이, 2년만에 CES 복귀...OLED 기술력 공개",
+        "date": "2025-11-10 09:32",
+        "link": "https://www.newspim.com/news/view/20251110000160"
+    },
+    {
+        "title": "OLED 노트북 개화 앞두고…삼성D '공세' VS LGD '신중'",
+        "date": "2025-11-10 09:12",
+        "link": "https://dealsite.co.kr/articles/151010"
+    },
+    {
+        "title": "애플 tvOS 26.2, 프로필 기능 업그레이드…가족 공유 최적화",
+        "date": "2025-11-10 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603300"
+    },
+    {
+        "title": "애플, ‘위성 연결’ 아이폰 준비 중…자체 위성 대신 스페이스X 손잡을...",
+        "date": "2025-11-10 08:47",
+        "link": "https://n.news.naver.com/mnews/article/018/0006160554?sid=105"
+    },
+    {
+        "title": "TSMC, 2nm.3nm 칩 가격 10% 인상. 퀄컴 스냅드래곤. 삼성 S26 가격 인상 ...",
+        "date": "2025-11-10 08:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538766"
+    },
+    {
+        "title": "11월 7일 주식시장 주요공시",
+        "date": "2025-11-10 08:40",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=116583"
+    },
+    {
+        "title": "GPU 100만장 시대 대비…SMR 없이는 AI 허브 불가능 [AI 프리즘*기업 CEO ...",
+        "date": "2025-11-10 08:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004553813?sid=101"
+    },
+    {
+        "title": "애플, 아이폰용 5가지 위성통신 기능 개발 중",
+        "date": "2025-11-10 08:25",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397622?sid=105"
+    },
+    {
+        "title": "[IT썰] 애플, '통신사 없는 아이폰' 준비 중…위성 생태계 구축 본격화",
+        "date": "2025-11-10 08:01",
+        "link": "https://n.news.naver.com/mnews/article/008/0005275626?sid=105"
+    },
+    {
+        "title": "화제만 됐네…'초슬림' 아이폰 에어 판매 부진",
+        "date": "2025-11-10 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003476401?sid=105"
+    },
+    {
+        "title": "[모바일 On] 애플 아이폰 에어 “현지 수요 없다”",
+        "date": "2025-11-10 07:46",
+        "link": "https://kidd.co.kr/news/243871"
+    },
+    {
+        "title": "애플 아이폰 18 프로, 부분 투명 디자인 적용? 새로운 루머로 업계 술렁",
+        "date": "2025-11-10 07:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538761"
+    },
+    {
+        "title": "삼성전자, 美서 신용카드 출시 추진…애플카드와 '정면 승부'",
+        "date": "2025-11-10 07:02",
+        "link": "https://n.news.naver.com/mnews/article/011/0004553788?sid=101"
+    },
+    {
+        "title": "갤S26 공개 시점 연기는 아이폰17 사양 상향 때문?",
+        "date": "2025-11-10 06:25",
+        "link": "https://n.news.naver.com/mnews/article/031/0000979275?sid=105"
+    },
+    {
+        "title": "삼성 파운드리가 돌아온다…적자 1조 축소·2나노 양산 본격화",
+        "date": "2025-11-10 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150390"
+    },
+    {
+        "title": "말뿐인 AI 3강…SMR 첨단전략서 빠졌다[Pick코노미]",
+        "date": "2025-11-10 05:31",
+        "link": "https://n.news.naver.com/mnews/article/011/0004553766?sid=101"
+    },
+    {
         "title": "AI폰 앞서가는 삼성전자… 애플, 경쟁사 구글에 SOS",
         "date": "2025-11-10 00:29",
         "link": "https://n.news.naver.com/mnews/article/005/0001813269?sid=101"
