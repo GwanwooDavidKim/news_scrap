@@ -1,5 +1,315 @@
 [
     {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 22:48",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=404026"
+    },
+    {
+        "title": "신안군, '그린애플어워즈' 금상 수상...국제환경상 3관왕",
+        "date": "2025-11-24 22:42",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=265574"
+    },
+    {
+        "title": "LG디스플레이, 실적 반등 뒤엔 희망퇴직 가속...'효율화'vs'정원 축소'에...",
+        "date": "2025-11-24 19:58",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=96087"
+    },
+    {
+        "title": "붉은 OLED 빛, 치매 회복 효과···KAIST, 약물 없이 병리 개선 입증",
+        "date": "2025-11-24 19:34",
+        "link": "http://www.hellodd.com/news/articleView.html?idxno=110007"
+    },
+    {
+        "title": "美 폴더블폰 1위 탈환 나선 삼성전자…모토로라·화웨이 '3파전'",
+        "date": "2025-11-24 19:12",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=819913"
+    },
+    {
+        "title": "애플·삼성전자 야심작 ‘초슬림폰’은 왜 시장서 외면받을까",
+        "date": "2025-11-24 18:54",
+        "link": "https://n.news.naver.com/mnews/article/028/0002778101?sid=101"
+    },
+    {
+        "title": "안드로이드와 애플 파일 공유 가능해진다",
+        "date": "2025-11-24 18:34",
+        "link": "https://www.esquirekorea.co.kr/article/1892091"
+    },
+    {
+        "title": "카이스트, 치매 기억력에 효과적인 OLED 빛 규명",
+        "date": "2025-11-24 18:33",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=333478"
+    },
+    {
+        "title": "더이상 TV 안팔린다… 삼성·LG전자 '쇄신카드' 꺼낼까",
+        "date": "2025-11-24 18:31",
+        "link": "https://n.news.naver.com/mnews/article/014/0005439182?sid=101"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 18:08",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=805876"
+    },
+    {
+        "title": "카드사 수익성 추락···韓 PLCC 확장에 '애플카드 리스크' 겹친다",
+        "date": "2025-11-24 18:04",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=245691"
+    },
+    {
+        "title": "신안군, 세계적인 환경상 '그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 17:38",
+        "link": "https://n.news.naver.com/mnews/article/277/0005683809?sid=102"
+    },
+    {
+        "title": "기존 LED 한계 넘는 차세대 OLED 전자약 개발",
+        "date": "2025-11-24 17:34",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=203795"
+    },
+    {
+        "title": "[매경이코노미스트] '공급망 재설계' 시대가 왔다",
+        "date": "2025-11-24 17:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005595345?sid=110"
+    },
+    {
+        "title": "오포 '파인드 N6'…폴더블 최초 스냅드래곤 8 엘리트 5세대 탑재",
+        "date": "2025-11-24 17:22",
+        "link": "https://kbench.com/?q=node/273604"
+    },
+    {
+        "title": "에이텐 코리아, 4K 쿼드 디스플레이 KVM over IP 멀티뷰 수신기 'KE8980MR'...",
+        "date": "2025-11-24 17:16",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=143348"
+    },
+    {
+        "title": "[데일리픽] XRP 현물 ETF 기대감↑…테슬라, AI5·AI6 칩 개발 가속",
+        "date": "2025-11-24 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607207"
+    },
+    {
+        "title": "자체 결제 힘 쏟는 게임사…애플·구글 철옹성 무너질 것",
+        "date": "2025-11-24 17:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006170670?sid=105"
+    },
+    {
+        "title": "신안군, ‘2025 그린애플어워즈’ 금상 수상",
+        "date": "2025-11-24 17:00",
+        "link": "https://n.news.naver.com/mnews/article/382/0001237837?sid=102"
+    },
+    {
+        "title": "[영상] 삼성, '갤럭시XR'로 애플·메타 넘어설까",
+        "date": "2025-11-24 16:58",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=417266"
+    },
+    {
+        "title": "제네시스 GV90, LG '롤러블 디스플레이' 탑재 가능성",
+        "date": "2025-11-24 16:52",
+        "link": "https://kbench.com/?q=node/273603"
+    },
+    {
+        "title": "中 8.6세대 FMM 투자 확대…K-디스플레이 IT OLED 선점 전략에 변수",
+        "date": "2025-11-24 16:46",
+        "link": "http://www.metroseoul.co.kr/article/20251124500419"
+    },
+    {
+        "title": "신안군, 영국서 열린 '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 16:44",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=613492"
+    },
+    {
+        "title": "에이텐, 4K 쿼드 디스플레이 KVM 수신기 'KE8980MR' 출시",
+        "date": "2025-11-24 16:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002399660?sid=105"
+    },
+    {
+        "title": "신안군, ‘2025 그린애플어워즈’ 금상 수상",
+        "date": "2025-11-24 16:32",
+        "link": "https://www.cnbnews.com/news/article.html?no=763167"
+    },
+    {
+        "title": "애플TV, 작품성 대신 '대중화' 박차...축구·포뮬러1 중계 등 확대",
+        "date": "2025-11-24 16:28",
+        "link": "https://n.news.naver.com/mnews/article/469/0000899243?sid=104"
+    },
+    {
+        "title": "삼성·LG TV, '가격 하락→적자' 악순환 심화",
+        "date": "2025-11-24 16:26",
+        "link": "https://www.newspim.com/news/view/20251124001066"
+    },
+    {
+        "title": "LG전자, 노키아에도 특허 팔았다",
+        "date": "2025-11-24 16:20",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44283"
+    },
+    {
+        "title": "정기 임원 인사 앞둔 삼성전자, 가전·TV 사업 ‘슬림화’에 방점… “...",
+        "date": "2025-11-24 16:13",
+        "link": "https://n.news.naver.com/mnews/article/366/0001125536?sid=105"
+    },
+    {
+        "title": "와츠매터, '스마트 인테리어 파트너스 데이' 개최…AI 중심 스마트홈 전...",
+        "date": "2025-11-24 16:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=820010"
+    },
+    {
+        "title": "코스텍시스템 HBM 장비 양산평가 준비 중...2028년 코스닥 상장",
+        "date": "2025-11-24 16:10",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44277"
+    },
+    {
+        "title": "위기의 K-디스플레이···정부, 수출 금융 지원 확대",
+        "date": "2025-11-24 16:02",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=417261"
+    },
+    {
+        "title": "애플 iOS 27, 新기능보다 버그 수정·기능 개선 초점",
+        "date": "2025-11-24 16:02",
+        "link": "https://kbench.com/?q=node/273599"
+    },
+    {
+        "title": "'2025 디지털 퓨처쇼'서 현실과 맞닿은 가상 무대…롯데 칼리버스가 제...",
+        "date": "2025-11-24 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003373362?sid=105"
+    },
+    {
+        "title": "연말 단말기 교체 수요 잡아라… 갤럭시 S25+·아이폰17 지원금 동반 인...",
+        "date": "2025-11-24 15:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006170591?sid=105"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상",
+        "date": "2025-11-24 15:50",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=291384"
+    },
+    {
+        "title": "입문용으로 좋은 갓성비 AI 게이밍 노트북... 에이서 니트로 V 16S AI ANV1...",
+        "date": "2025-11-24 15:44",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56959"
+    },
+    {
+        "title": "KAIST, 적색 OLED로 아밀로이드 베타 감소 확인...치매 기억력 되살렸다",
+        "date": "2025-11-24 15:44",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1126124"
+    },
+    {
+        "title": "구글 '에어드랍 강제연동' 파장…애플 '폐쇄적생태계' 뒤흔들까",
+        "date": "2025-11-24 15:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0008622108?sid=105"
+    },
+    {
+        "title": "신안군, ‘2025 그린애플어워즈’ 금상 수상",
+        "date": "2025-11-24 15:36",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271927364414"
+    },
+    {
+        "title": "삼성전자 12월 초 '갤럭시Z 트라이폴드' 출시, 노태문 인기 식는 폴더블...",
+        "date": "2025-11-24 15:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=421148"
+    },
+    {
+        "title": "[이슈줌인] 두번 접는다 12월 베일 벗는 삼성전자 '갤럭시Z 트라이폴드...",
+        "date": "2025-11-24 15:16",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=93502"
+    },
+    {
+        "title": "‘탄탄한 내구성’ 아이폰 17 시리즈용 벨킨 케이스 및 강화유리 써보니",
+        "date": "2025-11-24 15:06",
+        "link": "https://www.betanews.net/article/view/beta202511240041"
+    },
+    {
+        "title": "신안군 신재생에너지 정책 '그린애플어워즈' 금상…국제 환경상 3관왕",
+        "date": "2025-11-24 14:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008621798?sid=102"
+    },
+    {
+        "title": "'관세 폭탄' 이어 특허 공세…美 시장서 견제 받는 K-가전",
+        "date": "2025-11-24 14:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=398758"
+    },
+    {
+        "title": "삼성·애플 조준한 中…프리미엄폰 대전 더 치열해진다",
+        "date": "2025-11-24 14:28",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1306695"
+    },
+    {
+        "title": "약물없이 적색 OLED로 알츠하이머 치료한다",
+        "date": "2025-11-24 14:22",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=116581"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 14:16",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=46834"
+    },
+    {
+        "title": "KAIST, OLED 기반 전자약 연구로 알츠하이머 치료 새 길 열다",
+        "date": "2025-11-24 14:12",
+        "link": "https://www.hellot.net/news/article.html?no=107449"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 14:12",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=840178"
+    },
+    {
+        "title": "車 디스플레이, 결국 'OLED'…가격·신뢰성 관건",
+        "date": "2025-11-24 14:06",
+        "link": "https://dealsite.co.kr/articles/151918"
+    },
+    {
+        "title": "신안군, 영국 ‘그린애플어워즈’서 금상 수상",
+        "date": "2025-11-24 14:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202511240099"
+    },
+    {
+        "title": "레드포스 PC방, 강서구청점 신규 오픈… 전 좌석 게이밍 모니터와 RTX 50...",
+        "date": "2025-11-24 14:00",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025112413292082289aeda69934_29"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-24 13:48",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2151162"
+    },
+    {
+        "title": "KAIST, 적색 OLED로 아밀로이드 베타 감소 확인...치매 기억력 되살렸다",
+        "date": "2025-11-24 13:46",
+        "link": "http://www.gocj.net/news/articleView.html?idxno=143683"
+    },
+    {
+        "title": "휘청거리는 AI 주식...그 속에서 살아남은 애플과 알파벳",
+        "date": "2025-11-24 13:40",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=128216"
+    },
+    {
+        "title": "신안군, '2025 그린애플어워즈' 금상 수상…국제 환경상 3관왕 달성",
+        "date": "2025-11-24 13:32",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=61205"
+    },
+    {
+        "title": "구글 이어 화웨이·낫싱도 '에어드롭 호환'…애플 폐쇄 전략 균열 조짐",
+        "date": "2025-11-24 13:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003373237?sid=105"
+    },
+    {
+        "title": "日 토키 넘는다…선익시스템, 8세대 증착기 두 번째 수주",
+        "date": "2025-11-24 13:24",
+        "link": "https://n.news.naver.com/mnews/article/030/0003373233?sid=105"
+    },
+    {
+        "title": "주인공 돌발 행동…전현무 “만취 상태에서도 선 지켜” (독사과2)[TV종...",
+        "date": "2025-11-24 13:14",
+        "link": "https://m.entertain.naver.com/article/382/0001237763"
+    },
+    {
+        "title": "KAIST 빛으로 치매 기억력 되살린다…OLED 색상 규명",
+        "date": "2025-11-24 13:06",
+        "link": "https://n.news.naver.com/mnews/article/003/0013617687?sid=102"
+    },
+    {
+        "title": "OLED 빛 활용 치매 기억력 개선",
+        "date": "2025-11-24 13:02",
+        "link": "https://www.naeil.com/news/read/568598?ref=naver"
+    },
+    {
         "title": "[실리콘 디코드] 인텔, '18A' 승부수 띄웠다…TSMC·AMD 게 섰거라",
         "date": "2025-11-24 12:56",
         "link": "https://www.g-enews.com/view.php?ud=202511241253256804fbbec65dfb_1"
@@ -40,7 +350,7 @@
         "link": "https://www.epnc.co.kr/news/articleView.html?idxno=325083"
     },
     {
-        "title": "조니 아이브 손 잡은 오픈AI, 애플에서 하드웨어 디자인 인재 대거 빼냈...",
+        "title": "오픈AI '애플 하드웨어 디자인' 인재 대거 빼내, 조니 아이브 손 잡고 공...",
         "date": "2025-11-24 11:48",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=421115"
     },
@@ -83,6 +393,11 @@
         "title": "'독사과2' 전현무 만취 상태에서도 선 지켰다 주인공 철벽 본능에 리...",
         "date": "2025-11-24 11:22",
         "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577933873971"
+    },
+    {
+        "title": "RX Japan, ‘고기능 소재 위크’ 4.7만명 참관 성료",
+        "date": "2025-11-24 11:20",
+        "link": "http://amenews.kr/news/view.php?idx=64784"
     },
     {
         "title": "신안군, ‘2025 그린애플어워즈’ 금상…국제 환경상 3관왕 달성",
@@ -363,90 +678,5 @@
         "title": "삼성 갤럭시XR, SDC 올레도스 7000대 채용",
         "date": "2025-11-24 07:26",
         "link": "https://www.newstopkorea.com/news/articleView.html?idxno=41217"
-    },
-    {
-        "title": "애플 하나만 보고 달린 국내 부품사…긴장감 최고조 [흔들리는 애플 ...",
-        "date": "2025-11-24 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092151420"
-    },
-    {
-        "title": "아이폰 에어 부진과 사라진 AI 혁신… 애플 체제가 흔들린다 [흔들리는...",
-        "date": "2025-11-24 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092151327"
-    },
-    {
-        "title": "팀 쿡 체제에 균열… 혁신 엔진이 멈췄다 [흔들리는 애플 제국③]",
-        "date": "2025-11-24 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092151517"
-    },
-    {
-        "title": "애플, 14년 만에 사령탑 교체 준비...차기 CEO 핵심 과제는 AI",
-        "date": "2025-11-24 05:54",
-        "link": "https://www.g-enews.com/view.php?ud=202511230714168617be84d87674_1"
-    },
-    {
-        "title": "삼성벤처투자 대표이사로 삼성디스플레이 이종혁 부사장 내정",
-        "date": "2025-11-24 00:20",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2037863"
-    },
-    {
-        "title": "구글, 픽셀10서 애플 에어드롭과 연동 선언… '파일전송 장벽' 무너질까",
-        "date": "2025-11-23 23:15",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=275798"
-    },
-    {
-        "title": "베트남 첨단기술법 개정 추진에 우원식 의장도 우려 표명",
-        "date": "2025-11-23 18:41",
-        "link": "https://n.news.naver.com/mnews/article/014/0005438566?sid=101"
-    },
-    {
-        "title": "빅블러 시대…韓선 불가능한 알리페이·애플카드",
-        "date": "2025-11-23 18:28",
-        "link": "https://n.news.naver.com/mnews/article/015/0005214946?sid=101"
-    },
-    {
-        "title": "애플 '비전 프로' 대항마 부상…삼성 '갤럭시XR' 초반 흥행",
-        "date": "2025-11-23 18:19",
-        "link": "https://n.news.naver.com/mnews/article/015/0005214927?sid=101"
-    },
-    {
-        "title": "[#Let's 스타트업] 나만의 K팝 아이돌 콘서트, VR로 생생하게 즐기죠",
-        "date": "2025-11-23 17:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005594713?sid=105"
-    },
-    {
-        "title": "AI·생태계·가격… 서로 다른 전략으로 맞붙은 XR 3강",
-        "date": "2025-11-23 16:11",
-        "link": "https://n.news.naver.com/mnews/article/018/0006169991?sid=105"
-    },
-    {
-        "title": "보급형 '아이폰 17e' 전면 카메라 '1800만화소' 업그레이드 된다",
-        "date": "2025-11-23 14:44",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092151537"
-    },
-    {
-        "title": "카카오페이-개보위 최종 공방…“NSF 점수, 누구를 위한 모델인가?”",
-        "date": "2025-11-23 14:09",
-        "link": "https://n.news.naver.com/mnews/article/030/0003373003?sid=101"
-    },
-    {
-        "title": "FPS 게임 특화 게이밍 키보드, 마그네틱 스위치 키보드 알아보기 (3)",
-        "date": "2025-11-23 10:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56939"
-    },
-    {
-        "title": "삼성 '비스포크 AI 콤보', 美 매체 연이은 호평…올인원 세탁건조기",
-        "date": "2025-11-23 09:52",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=546103"
-    },
-    {
-        "title": "퀵셰어로 애플 생태계 넘는 구글…공유 기능 개방 본격화",
-        "date": "2025-11-23 09:44",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=468104"
-    },
-    {
-        "title": "[써봤다] 저 AI 잘 해요...'M5 아이패드 프로'의 새로운 매력",
-        "date": "2025-11-23 08:00",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=146959"
     }
 ]
