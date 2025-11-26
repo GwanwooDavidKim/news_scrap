@@ -1,5 +1,425 @@
 [
     {
+        "title": "애플, 14년 만에 스마트폰 1위 눈앞… 아이폰17로 삼성 추격",
+        "date": "2025-11-26 12:13",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=714901"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치나··· 스마트폰 판매량 1위 눈앞",
+        "date": "2025-11-26 12:10",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=523824"
+    },
+    {
+        "title": "애플 14년 만에 삼성 제치고 스마트폰 판매 1위",
+        "date": "2025-11-26 12:02",
+        "link": "https://n.news.naver.com/mnews/article/374/0000477092?sid=104"
+    },
+    {
+        "title": "화웨이, 자체칩·AI 중무장 '메이트80·메이트 X7' 전격 공개… 듀얼레이...",
+        "date": "2025-11-26 11:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002210687?sid=105"
+    },
+    {
+        "title": "65살 된 팀 쿡 애플 CEO…후계자 누가 될까 촉각",
+        "date": "2025-11-26 11:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=283700"
+    },
+    {
+        "title": "애플, 삼성 제치고 세계1위 복귀 유력",
+        "date": "2025-11-26 11:40",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000014682"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년 만에 세계 판매량 1위 전망",
+        "date": "2025-11-26 11:26",
+        "link": "https://www.kbsm.net/news/view.php?idx=498783"
+    },
+    {
+        "title": "“아이폰17 대박”…애플, 14년 만에 삼성 제치고 판매량 1위 전망",
+        "date": "2025-11-26 11:20",
+        "link": "https://n.news.naver.com/mnews/article/020/0003677232?sid=104"
+    },
+    {
+        "title": "왜 이렇게 아이폰이 많아요 농담이 아니다 / “애플, 삼성 제치고 세...",
+        "date": "2025-11-26 11:20",
+        "link": "http://topclass.chosun.com/news/articleView.html?idxno=35563"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 세계 최대 스마트폰 제조사 될듯",
+        "date": "2025-11-26 11:18",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=75210"
+    },
+    {
+        "title": "아이폰17 흥행…삼성, 14년 만에 세계 1위 자리 내줄 위기",
+        "date": "2025-11-26 11:16",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=83729"
+    },
+    {
+        "title": "“팀쿡이 포상 휴가 쏠만했네”…애플 출하량 14년 만에 대기록",
+        "date": "2025-11-26 11:15",
+        "link": "https://n.news.naver.com/mnews/article/009/0005596337?sid=101"
+    },
+    {
+        "title": "삼성, 스마트폰 왕좌 10년 만에 애플에 빼앗기나?",
+        "date": "2025-11-26 11:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539292"
+    },
+    {
+        "title": "아이폰17 잘나가…애플, 출하량 삼성 넘어 14년만에 1위",
+        "date": "2025-11-26 10:51",
+        "link": "https://n.news.naver.com/mnews/article/008/0005283301?sid=104"
+    },
+    {
+        "title": "애플, 워치OS 26서 건강 관리 혁신…고혈압 감지·수면 점수 도입",
+        "date": "2025-11-26 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607810"
+    },
+    {
+        "title": "폴더블 아이폰, 350만원 넘나… “부품가 급등 영향”",
+        "date": "2025-11-26 10:44",
+        "link": "https://n.news.naver.com/mnews/article/030/0003374103?sid=104"
+    },
+    {
+        "title": "“화려함 대신 완성도” 애플, 차세대 iOS 방향 틀었다",
+        "date": "2025-11-26 10:30",
+        "link": "https://www.itworld.co.kr/article/4096372/화려함-대신-완성도-애플-차세대-ios-방향-틀었다.html"
+    },
+    {
+        "title": "애플 14년 만에 삼성 이길까…세계 시장 점유율 19.4% 전망",
+        "date": "2025-11-26 10:28",
+        "link": "https://n.news.naver.com/mnews/article/629/0000447341?sid=105"
+    },
+    {
+        "title": "中 ZTE, 차세대 폴더블폰 '누비아 플립3·누비아 폴드' 렌더링 유출",
+        "date": "2025-11-26 10:28",
+        "link": "https://kbench.com/?q=node/273654"
+    },
+    {
+        "title": "화웨이, 메이트80 시리즈 공개…최상급 OLED 탑재 모델 선봬",
+        "date": "2025-11-26 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607786"
+    },
+    {
+        "title": "애플, 아이폰17 효과로 글로벌 1위 복귀 임박",
+        "date": "2025-11-26 10:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607782"
+    },
+    {
+        "title": "애플, 차기 아이폰 17e로 소형폰 시장 공략…6.1인치 디스플레이",
+        "date": "2025-11-26 10:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607750"
+    },
+    {
+        "title": "“애플, 삼성 제치고 14년만에 세계 최대 스마트폰 제조사 될듯”",
+        "date": "2025-11-26 10:13",
+        "link": "https://n.news.naver.com/mnews/article/005/0001816814?sid=101"
+    },
+    {
+        "title": "'시장기대치 하회' 덕산네오룩스, 연결매출액 +79%...별도 6% 감소",
+        "date": "2025-11-26 10:02",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=75196"
+    },
+    {
+        "title": "삼성전자, 14년만에 세계 최대 스마트폰 판매량 1위 놓칠 듯…애플의 아...",
+        "date": "2025-11-26 09:58",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=23697"
+    },
+    {
+        "title": "애플이 치고 올라왔다…14년 만에 삼성 제치고 스마트폰 출하량 1위",
+        "date": "2025-11-26 09:58",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=276207"
+    },
+    {
+        "title": "애플, 올해 스마트폰 출하량 1위 오른다…2011년 이후 '처음'",
+        "date": "2025-11-26 09:56",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=820261"
+    },
+    {
+        "title": "350만원 넘는 폴더블 아이폰 나오나",
+        "date": "2025-11-26 09:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=283659"
+    },
+    {
+        "title": "우리도 '에어드롭' 되는데?, 애플 왕국 향한 구글의 반격",
+        "date": "2025-11-26 09:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005440002?sid=105"
+    },
+    {
+        "title": "삼성의 장기 집권 깨져... 애플, 14년 만에 스마트폰 판매 1위 탈환 [지금...",
+        "date": "2025-11-26 09:47",
+        "link": "https://n.news.naver.com/mnews/article/052/0002278480?sid=101"
+    },
+    {
+        "title": "아이폰17 인기에 애플, 삼성 제치고 14년만에 1위",
+        "date": "2025-11-26 09:46",
+        "link": "https://n.news.naver.com/mnews/article/374/0000477035?sid=104"
+    },
+    {
+        "title": "애플, 14년 만에 스마트폰 출하량 1위 탈환 눈앞…아이폰17 판매 호조",
+        "date": "2025-11-26 09:44",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=541822"
+    },
+    {
+        "title": "애플, 삼성 제치고 세계 최대 스마트폰 제조사 될 듯",
+        "date": "2025-11-26 09:40",
+        "link": "https://n.news.naver.com/mnews/article/658/0000127199?sid=104"
+    },
+    {
+        "title": "적색 OLED로 아밀로이드 베타 감소 확인",
+        "date": "2025-11-26 09:38",
+        "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=54765"
+    },
+    {
+        "title": "애플, 삼성 꺾고 14년 만에 최대 스마트폰 제조사 될 듯",
+        "date": "2025-11-26 09:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=283649"
+    },
+    {
+        "title": "마동석도 안 먹혀 … LGU+, 콘텐츠 자체 제작 접는다",
+        "date": "2025-11-26 09:36",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56985"
+    },
+    {
+        "title": "65살 된 팀 쿡 애플 CEO…후계자 누가 될까 촉각",
+        "date": "2025-11-26 09:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0013621827?sid=104"
+    },
+    {
+        "title": "애플, 14년만에 삼성 꺾고 세계 1위 스마트폰 제조사 부상하나",
+        "date": "2025-11-26 09:30",
+        "link": "https://www.ajunews.com/view/20251126092230952"
+    },
+    {
+        "title": "애플이 다시 1위? 14년 만에 삼성 제칠까",
+        "date": "2025-11-26 09:26",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=127288"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제칠 듯…스마트폰 판매량 1위 전망",
+        "date": "2025-11-26 09:23",
+        "link": "https://n.news.naver.com/mnews/article/437/0000466079?sid=104"
+    },
+    {
+        "title": "애플, 개인정보 보호 논란…EU서 앱 추적 투명성 철회 가능성",
+        "date": "2025-11-26 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607702"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 세계 최대 스마트폰 제조사 전망",
+        "date": "2025-11-26 09:04",
+        "link": "https://n.news.naver.com/mnews/article/023/0003943237?sid=105"
+    },
+    {
+        "title": "삼성전자 부사장 승진 등 2026년 정기 임원인사",
+        "date": "2025-11-26 09:02",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=201094"
+    },
+    {
+        "title": "아이폰17 인기에…애플, 14년 만에 삼성 제칠 듯",
+        "date": "2025-11-26 09:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005684647?sid=104"
+    },
+    {
+        "title": "애플, 올해 삼성 제치고 스마트폰 업계 1위로 등극할 전망",
+        "date": "2025-11-26 08:59",
+        "link": "https://www.newspim.com/news/view/20251126000130"
+    },
+    {
+        "title": "애플, 판매량에서도 삼성전자 14년 만에 제칠 듯",
+        "date": "2025-11-26 08:57",
+        "link": "https://n.news.naver.com/mnews/article/422/0000805661?sid=104"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치나…'세계 1위 스마트폰 제조사' 등극 전망",
+        "date": "2025-11-26 08:54",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=203956"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치고 세계 최대 스마트폰 제조사 전망",
+        "date": "2025-11-26 08:46",
+        "link": "https://n.news.naver.com/mnews/article/421/0008625273?sid=105"
+    },
+    {
+        "title": "“애플, 삼성 제치고 세계 최대 스마트폰 제조사 될 듯”",
+        "date": "2025-11-26 08:39",
+        "link": "https://n.news.naver.com/mnews/article/025/0003485448?sid=104"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 스마트폰 출하량 1위 전망…“아이폰17 인기...",
+        "date": "2025-11-26 08:37",
+        "link": "https://n.news.naver.com/mnews/article/366/0001125902?sid=105"
+    },
+    {
+        "title": "아이폰17 인기에…애플, 14년만에 스마트폰 판매 1위 탈환",
+        "date": "2025-11-26 08:36",
+        "link": "https://n.news.naver.com/mnews/article/421/0008625247?sid=104"
+    },
+    {
+        "title": "애플, 276.97달러 0.38% 상승 마감",
+        "date": "2025-11-26 08:36",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15886718"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제친다…스마트폰 세계 1위 탈환 전망",
+        "date": "2025-11-26 08:32",
+        "link": "https://n.news.naver.com/mnews/article/654/0000153428?sid=101"
+    },
+    {
+        "title": "아이폰17 효과… 애플, 14년 만에 삼성 제치고 스마트폰 출하량 1위 전망",
+        "date": "2025-11-26 08:30",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251126010013472"
+    },
+    {
+        "title": "폴더블 아이폰 가격 350만원 넘어설까…부품비 상승 때문",
+        "date": "2025-11-26 08:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002399853?sid=105"
+    },
+    {
+        "title": "[더벨][재무전략 분석]'풍요 속 빈곤' 삼성전자, 현금방어 핵심은 ‘해...",
+        "date": "2025-11-26 08:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511241425026960107187"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치나… 세계 최대 스마트폰 제조사 전망 나와",
+        "date": "2025-11-26 08:21",
+        "link": "https://n.news.naver.com/mnews/article/417/0001115382?sid=104"
+    },
+    {
+        "title": "“애플, 삼성 제치고 14년 만에 스마트폰 출하량 1위 전망”",
+        "date": "2025-11-26 08:20",
+        "link": "https://www.etoday.co.kr/news/view/2529460"
+    },
+    {
+        "title": "애플, 14년 만에 스마트폰 시장서 삼성 제치나…세계 1위 탈환 전망",
+        "date": "2025-11-26 08:18",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=682355"
+    },
+    {
+        "title": "“애플 스마트폰, 삼성 제치고 14년 만에 세계 1위 전망”",
+        "date": "2025-11-26 08:09",
+        "link": "https://n.news.naver.com/mnews/article/032/0003411159?sid=104"
+    },
+    {
+        "title": "[더벨][삼성 임원 인사]'이청 유임' 디스플레이, 미래 기술·인재 준비 ...",
+        "date": "2025-11-26 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511251046494520104944"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 세계 출하량 1위 전망",
+        "date": "2025-11-26 07:54",
+        "link": "https://n.news.naver.com/mnews/article/310/0000131627?sid=101"
+    },
+    {
+        "title": "美 애플, 올해 출하량으로 세계 1위 가능성...삼성 추월?",
+        "date": "2025-11-26 07:52",
+        "link": "https://n.news.naver.com/mnews/article/014/0005439902?sid=101"
+    },
+    {
+        "title": "애플, 삼성 꺾고 14년 만에 최대 스마트폰 제조사 될 듯",
+        "date": "2025-11-26 07:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0013621542?sid=104"
+    },
+    {
+        "title": "아이폰17 효과…애플, 삼성 제치고 14년 만 글로벌 스마트폰 '정상'[모닝...",
+        "date": "2025-11-26 07:47",
+        "link": "https://n.news.naver.com/mnews/article/018/0006171691?sid=105"
+    },
+    {
+        "title": "아이폰 폴드, 300만원 넘는다…애플, 최고가 스마트폰 예고",
+        "date": "2025-11-26 07:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539271"
+    },
+    {
+        "title": "애플, '아이폰17' 돌풍에 삼성 꺾고 스마트폰 왕좌 탈환 전망",
+        "date": "2025-11-26 07:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1688304"
+    },
+    {
+        "title": "역시 아이폰인가…애플, 올해 삼성 제치고 출하량 1위 전망",
+        "date": "2025-11-26 07:38",
+        "link": "https://n.news.naver.com/mnews/article/057/0001921099?sid=101"
+    },
+    {
+        "title": "아이폰17 대흥행… 애플, 14년 만에 삼성 제치고 스마트폰 출하량 1위 탈...",
+        "date": "2025-11-26 07:20",
+        "link": "https://www.g-enews.com/view.php?ud=2025112606535547303bc914ac71_1"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 세계 최대 스마트폰 제조사 될듯",
+        "date": "2025-11-26 07:14",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=219322"
+    },
+    {
+        "title": "애플, 올해 삼성전자 제치고 출하량 1위 전망...카운터포인트리서치, 아...",
+        "date": "2025-11-26 07:06",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2025112606511874862aaae0046f_30"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제친다 … 아이폰17 인기에 '세계최대 스마트폰...",
+        "date": "2025-11-26 07:06",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/11/26/2025112600016.html"
+    },
+    {
+        "title": "애플, 삼성 제치고 14년만에 세계 최대 스마트폰 제조사 된다",
+        "date": "2025-11-26 06:48",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=696874"
+    },
+    {
+        "title": "보고서 삼성, 14년 만에 애플에 글로벌 스마트폰 제조사 1위 자리 내줄...",
+        "date": "2025-11-26 06:44",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=850720"
+    },
+    {
+        "title": "애플, 판매량에서도 삼성전자 14년만에 제칠 듯",
+        "date": "2025-11-26 06:18",
+        "link": "https://n.news.naver.com/mnews/article/215/0001232242?sid=004"
+    },
+    {
+        "title": "아이폰17 인기에...애플, 삼성 제치고 14년만에 스마트폰 출하량 1위 전...",
+        "date": "2025-11-26 06:17",
+        "link": "https://n.news.naver.com/mnews/article/016/0002563006?sid=104"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제칠 듯…아이폰 17 인기 영향",
+        "date": "2025-11-26 06:06",
+        "link": "https://n.news.naver.com/mnews/article/422/0000805632?sid=104"
+    },
+    {
+        "title": "[비즈톡톡] XR 헤드셋, 주고객은 ‘기업’… “스마트 안경으로 가는 과...",
+        "date": "2025-11-26 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001125879?sid=105"
+    },
+    {
+        "title": "350만원 넘는 폴더블 아이폰 나오나",
+        "date": "2025-11-26 06:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013621496?sid=105"
+    },
+    {
+        "title": "'LTPO 이후' 기술 전환 시작됐나…삼성D가 준비 중인 HMO는? [테크다이브...",
+        "date": "2025-11-26 06:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002210619?sid=105"
+    },
+    {
+        "title": "AI폰 열기에도 스마트폰 시장 제자리?…제조사 '신규 폼팩터' 승부수",
+        "date": "2025-11-26 06:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003029554?sid=105"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 넘어설 듯…아이폰17 판매 호조 덕분",
+        "date": "2025-11-26 05:57",
+        "link": "https://n.news.naver.com/mnews/article/293/0000075536?sid=105"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치고 세계 1위 스마트폰 제조사 등극 전망",
+        "date": "2025-11-26 05:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006171640?sid=101"
+    },
+    {
+        "title": "애플, 올해 스마트폰 출하량 삼성 앞서…1위 전망",
+        "date": "2025-11-26 05:42",
+        "link": "https://n.news.naver.com/mnews/article/374/0000476962?sid=101"
+    },
+    {
         "title": "애플, 삼성 제치고 14년 만에 세계 최대 스마트폰 제조사 될 듯",
         "date": "2025-11-26 04:59",
         "link": "https://n.news.naver.com/mnews/article/055/0001310961?sid=104"
@@ -48,6 +468,11 @@
         "title": "이재용 회장, 인도 재벌 암바니와 회동…전방위 협력 확대",
         "date": "2025-11-25 18:58",
         "link": "https://www.sentv.co.kr/article/view/sentv202511250205"
+    },
+    {
+        "title": "이재용 삼성 회장, 인도 부호 암바니와 韓서 회동",
+        "date": "2025-11-25 18:54",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=41294"
     },
     {
         "title": "삼성전자 2026년 정기 임원인사",
@@ -275,11 +700,6 @@
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092151634"
     },
     {
-        "title": "삼성디스플레이, 총 23명 임원 승진…규모 확대",
-        "date": "2025-11-25 14:06",
-        "link": "https://dealsite.co.kr/articles/152099"
-    },
-    {
         "title": "내년 아이패드 미니에도 OLED 탑재…삼성D, 300만대 공급",
         "date": "2025-11-25 14:05",
         "link": "https://n.news.naver.com/mnews/article/030/0003373743?sid=105"
@@ -318,6 +738,11 @@
         "title": "삼성디스플레이, 23명 임원 승진 인사…신성장 동력 확보 기여 중용",
         "date": "2025-11-25 13:52",
         "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=254989"
+    },
+    {
+        "title": "[인사] 삼성디스플레이",
+        "date": "2025-11-25 13:46",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=106497"
     },
     {
         "title": "삼성디스플레이, 임원 인사…부사장 8명 등 23명 승진",
@@ -388,6 +813,11 @@
         "title": "신사업 동력 확보에 기여...삼성디스플레이, 23명 임원 승진 인사",
         "date": "2025-11-25 12:48",
         "link": "https://www.mediapen.com/news/view/1061098"
+    },
+    {
+        "title": "전남 신안군, 영국 ‘그린애플어워즈’ 금상 수상... 국제 환경상 3관왕...",
+        "date": "2025-11-25 12:36",
+        "link": "http://www.breaknews.com/1163986"
     },
     {
         "title": "삼성D, 정기 임원인사 단행···신성장동력 강화 기여 인물 등용",
@@ -523,11 +953,6 @@
         "title": "삼성디스플레이, 23명 임원 승진…신성장동력 경쟁력 강화",
         "date": "2025-11-25 10:58",
         "link": "https://www.techm.kr/news/articleView.html?idxno=147035"
-    },
-    {
-        "title": "[인사] 삼성디스플레이",
-        "date": "2025-11-25 10:58",
-        "link": "https://dealsite.co.kr/articles/152082"
     },
     {
         "title": "삼성디스플레이, 부사장 8명·상무 13명 승진… OLED·올레도스 등 핵심...",
@@ -685,11 +1110,6 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607430"
     },
     {
-        "title": "애플, 판매전략 변화 신호탄? 내부 감원 단행",
-        "date": "2025-11-25 10:34",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607429"
-    },
-    {
         "title": "삼성디스플레이, 부사장 8명 등 23명 승진···차별화된 기술 인재 발...",
         "date": "2025-11-25 10:34",
         "link": "https://www.ajunews.com/view/20251125101447154"
@@ -785,11 +1205,6 @@
         "link": "https://n.news.naver.com/mnews/article/119/0003029199?sid=101"
     },
     {
-        "title": "[인사] 삼성디스플레이",
-        "date": "2025-11-25 10:20",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=468756"
-    },
-    {
         "title": "삼성디스플레이, 2026년 정기 임원 인사…부사장 8명 등 23명 승진",
         "date": "2025-11-25 10:19",
         "link": "https://n.news.naver.com/mnews/article/119/0003029194?sid=101"
@@ -842,12 +1257,17 @@
     {
         "title": "[인사] 삼성디스플레이",
         "date": "2025-11-25 10:10",
+        "link": "https://www.fetv.co.kr/news/article.html?no=206301"
+    },
+    {
+        "title": "[인사] 삼성디스플레이",
+        "date": "2025-11-25 10:10",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1300670"
     },
     {
         "title": "[인사] 삼성디스플레이",
         "date": "2025-11-25 10:10",
-        "link": "https://www.fetv.co.kr/news/article.html?no=206301"
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=190627"
     },
     {
         "title": "[인사] 삼성디스플레이",
@@ -857,7 +1277,7 @@
     {
         "title": "[인사] 삼성디스플레이",
         "date": "2025-11-25 10:10",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=190627"
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=399108"
     },
     {
         "title": "[인사]삼성디스플레이",
@@ -925,14 +1345,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607363"
     },
     {
-        "title": "신안군, '영국 2025 그린애플어워즈' 금상 수상",
-        "date": "2025-11-25 09:26",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=547290"
-    },
-    {
         "title": "애플 iOS 26.2, 카플레이 업그레이드…위젯·메시지 설정 강화",
         "date": "2025-11-25 09:26",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607368"
+    },
+    {
+        "title": "신안군, '영국 2025 그린애플어워즈' 금상 수상",
+        "date": "2025-11-25 09:26",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=547290"
     },
     {
         "title": "애플 수요 증가에 3분기 OLED 발광재료 구매액 6.2%↑",
