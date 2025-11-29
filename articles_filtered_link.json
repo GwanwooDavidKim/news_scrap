@@ -1,5 +1,95 @@
 [
     {
+        "title": "“인텔, 애플 칩 생산 논의”…2027년 출하 가능성",
+        "date": "2025-11-29 11:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1283358&inflow=N"
+    },
+    {
+        "title": "애플 에어팟, 뇌파 읽는다",
+        "date": "2025-11-29 11:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211057?sid=105"
+    },
+    {
+        "title": "애플, 인텔과 손잡는다…M 시리즈 칩 미국서 생산 추진",
+        "date": "2025-11-29 11:04",
+        "link": "https://www.tokenpost.kr/news/tech/309411"
+    },
+    {
+        "title": "애플, 1세대 ‘아이폰 폴드’ 최대 위험요인은 이것?",
+        "date": "2025-11-29 11:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211055?sid=105"
+    },
+    {
+        "title": "애플, 2027년부터 인텔에 ‘M칩’ 생산 맡긴다… 5년만의 재결합 [MOVIEW]",
+        "date": "2025-11-29 10:51",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211053?sid=105"
+    },
+    {
+        "title": "인텔(INTC), 애플(AAPL) M5 칩 수주 기대감에 주가 10% 급등",
+        "date": "2025-11-29 10:38",
+        "link": "https://www.tokenpost.kr/news/tech/309407"
+    },
+    {
+        "title": "인텔, 애플 M시리즈 칩 생산 가능성…이르면 2027년 출하",
+        "date": "2025-11-29 09:23",
+        "link": "https://n.news.naver.com/mnews/article/277/0005686458?sid=104"
+    },
+    {
+        "title": "삼성 '트라이폴드폰', 드디어 출격··· 물량 제한·'초초고가' 가격 전...",
+        "date": "2025-11-29 09:00",
+        "link": "https://www.ajunews.com/view/20251128100657819"
+    },
+    {
+        "title": "인텔, 애플 M시리즈 칩 위탁생산 논의 중",
+        "date": "2025-11-29 08:36",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=128592"
+    },
+    {
+        "title": "“인텔, 애플 M시리즈 칩 생산 가능성…이르면 2027년 출하”",
+        "date": "2025-11-29 08:32",
+        "link": "https://www.etoday.co.kr/news/view/2530908"
+    },
+    {
+        "title": "인텔, 10.19%급등...애플 M시리즈 칩 이르면 2027년부터 출하",
+        "date": "2025-11-29 07:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005441635?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 대형디스플레이사업부장에 손동일 부사장 선임",
+        "date": "2025-11-29 07:16",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=49960"
+    },
+    {
+        "title": "인텔, 애플 고객으로 확보했다는 소식으로 10% 폭등",
+        "date": "2025-11-29 07:04",
+        "link": "https://n.news.naver.com/mnews/article/421/0008632123?sid=104"
+    },
+    {
+        "title": "애플, M5 칩 탑재 비전 프로 국내 출시…삼성 갤럭시 XR과 맞대결",
+        "date": "2025-11-29 07:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025112817381865286"
+    },
+    {
+        "title": "인텔, 애플 M시리즈 칩 생산 논의…이르면 2027년부터 출하",
+        "date": "2025-11-29 06:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015768757?sid=104"
+    },
+    {
+        "title": "애플페이 교통카드 약점 해소에도 신규도입 내년으로",
+        "date": "2025-11-29 06:30",
+        "link": "https://www.asiatime.co.kr/article/20251126500249"
+    },
+    {
+        "title": "인텔, 2027년부터 애플 M 시리즈 칩 생산 가능성 커져",
+        "date": "2025-11-29 06:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608745"
+    },
+    {
+        "title": "애플, 내년 초 신형 맥북 3종 출시…저가형 제품도 포함",
+        "date": "2025-11-29 05:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608744"
+    },
+    {
         "title": "삼성디스플레이, 대형디스플레이사업부장에 손동일 부사장 선임",
         "date": "2025-11-29 03:44",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3345936"
@@ -23,11 +113,6 @@
         "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
         "date": "2025-11-28 18:22",
         "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=282438"
-    },
-    {
-        "title": "삼성디스플레이, 대형디스플레이사업부장에 손동일 부사장 선임",
-        "date": "2025-11-28 18:08",
-        "link": "https://www.ekn.kr/web/view.php?key=20251128027012732"
     },
     {
         "title": "삼성디스플레이, 조직 개편···애플·IT OLED '직접 대응 체제' 완성",
@@ -103,11 +188,6 @@
         "title": "삼성디스플레이 대형사업부장 손동일 부사장 선임",
         "date": "2025-11-28 16:28",
         "link": "https://n.news.naver.com/mnews/article/417/0001116166?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
-        "date": "2025-11-28 16:24",
-        "link": "https://www.ceoscoredaily.com/page/view/2025112815092149291"
     },
     {
         "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
@@ -252,11 +332,6 @@
     {
         "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
         "date": "2025-11-28 15:18",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=714016"
-    },
-    {
-        "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
-        "date": "2025-11-28 15:18",
         "link": "http://www.sisacast.kr/news/articleView.html?idxno=87002"
     },
     {
@@ -335,14 +410,14 @@
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=470220"
     },
     {
-        "title": "삼성디스플레이, 대형디스플레이사업부장에 손동일 부사장 선임",
-        "date": "2025-11-28 14:53",
-        "link": "https://n.news.naver.com/mnews/article/001/0015767996?sid=101"
-    },
-    {
         "title": "삼성디스플레이, 새 대형사업부장에 손동일 부사장 선임",
         "date": "2025-11-28 14:53",
         "link": "https://n.news.naver.com/mnews/article/092/0002400322?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 대형디스플레이사업부장에 손동일 부사장 선임",
+        "date": "2025-11-28 14:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0015767996?sid=101"
     },
     {
         "title": "삼성D, 대형사업부장에 손동일 부사장 선임…IT사업팀도 담당",
@@ -590,11 +665,6 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002210926?sid=105"
     },
     {
-        "title": "[IT&amp;테크] 삼성전자 ‘갤럭시 워치’, ‘생명 구호 장비’로 진화하다",
-        "date": "2025-11-28 09:28",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=198240"
-    },
-    {
         "title": "아이폰, 중고 시장 효과로 출하량 급증",
         "date": "2025-11-28 09:24",
         "link": "https://www.itworld.co.kr/article/4097683/아이폰-중고-시장-효과로-출하량-급증.html"
@@ -603,6 +673,11 @@
         "title": "애플, 인도 반독점법에 반기…380억달러 벌금 가능성",
         "date": "2025-11-28 09:16",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608488"
+    },
+    {
+        "title": "中 제조사, 초박형 스마트폰 프로젝트 잇따라 중단.. 아이폰 에어·갤S2...",
+        "date": "2025-11-28 09:16",
+        "link": "https://kbench.com/?q=node/273766"
     },
     {
         "title": "애플 M5 탑재 ‘비전 프로’, 오늘 국내 출시…갤럭시XR과 본격 경쟁[모...",
