@@ -1,13 +1,293 @@
 [
     {
+        "title": "애플, AI 총괄 이어 애플 실리콘 설계 주축도 줄줄이 퇴사?... 경영진 노...",
+        "date": "2025-12-08 12:44",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806898"
+    },
+    {
+        "title": "AI 인재 유출에 알파벳 추격까지…창립 50주년 앞둔 '애플 제국' 리더십...",
+        "date": "2025-12-08 12:20",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=99872"
+    },
+    {
+        "title": "LG디스플레이, 업계 최초 차량용 OLED 사이버보안 인증 쾌거",
+        "date": "2025-12-08 12:10",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54782"
+    },
+    {
+        "title": "더욱 강력해진 핸드헬드 게이밍 PC, 에이수스 ROG Xbox Ally X",
+        "date": "2025-12-08 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57185"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' eSIM 모델만 출시 가능성",
+        "date": "2025-12-08 11:56",
+        "link": "https://kbench.com/?q=node/274086"
+    },
+    {
+        "title": "김남주바이오, 개별인정형 원료 '애플로진' 담은 '풋사과 윤 스킨업' 출...",
+        "date": "2025-12-08 11:26",
+        "link": "http://www.biotimes.co.kr/news/articleView.html?idxno=25784"
+    },
+    {
+        "title": "LG디스플레이 차량용 OLED 신제품, 사이버보안 역량 국제 인증",
+        "date": "2025-12-08 11:20",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=422833"
+    },
+    {
+        "title": "LG디스플레이, 자동차 사이버보안 국제표준 획득… 차량용 OLED 시장 공략...",
+        "date": "2025-12-08 11:16",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23300"
+    },
+    {
+        "title": "“매일 써도 새롭다” 아이폰 17 프로에서 가장 마음에 드는 변화 3가지",
+        "date": "2025-12-08 11:10",
+        "link": "https://www.itworld.co.kr/article/4102092/매일-써도-새롭다-아이폰-17-프로에서-가장-마음에-드.html"
+    },
+    {
+        "title": "3분기 최다 판매폰은 또 '아이폰16'...삼성은 A16",
+        "date": "2025-12-08 11:09",
+        "link": "https://www.newspim.com/news/view/20251208000357"
+    },
+    {
+        "title": "삼성, 내년 첫 W-OLED 모니터 검토…LGD와 협업 확대",
+        "date": "2025-12-08 11:06",
+        "link": "https://dealsite.co.kr/articles/152853"
+    },
+    {
+        "title": "'주황색 아이폰=아재폰' 밈 현실로…2030男 분노의 환승 ['영포티' 세대...",
+        "date": "2025-12-08 11:04",
+        "link": "https://n.news.naver.com/mnews/article/015/0005221390?sid=105"
+    },
+    {
+        "title": "인텔이 애플 칩을 다시 만든다고?… TSMC 독주에 생긴 첫 금",
+        "date": "2025-12-08 11:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211794?sid=105"
+    },
+    {
+        "title": "존재감 없는 AI, 애플 핵심 임원 연쇄이탈… '애플 칩' 총괄도 떠날판",
+        "date": "2025-12-08 11:04",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378165?sid=104"
+    },
+    {
+        "title": "'아이폰 칩' 설계자도 떠나나…계속되는 애플 임원 엑소더스",
+        "date": "2025-12-08 10:59",
+        "link": "https://n.news.naver.com/mnews/article/003/0013644595?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 車 OLED 신제품 보안 인증…SDV 시대 기술 리더십 강화",
+        "date": "2025-12-08 10:58",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=75203"
+    },
+    {
+        "title": "전현무, 애플녀 목걸이 유혹에 경악…“저건 숨결 교환” (‘독사과2’...",
+        "date": "2025-12-08 10:42",
+        "link": "https://m.entertain.naver.com/article/382/0001240709"
+    },
+    {
+        "title": "롤렉스부터 애플워치까지, 주드 벨링엄의 시계 컬렉션",
+        "date": "2025-12-08 10:38",
+        "link": "https://www.gqkorea.co.kr/2025/12/08/%eb%a1%a4%eb%a0%89%ec%8a%a4%eb%b6%80%ed%84%b0-%ec%95%a0%ed%94%8c%ec%9b%8c%ec%b9%98%ea%b9%8c%ec%a7%80-%ec%a3%bc%eb%93%9c-%eb%b2%a8%eb%a7%81%ec%97%84%ec%9d%98-%ec%8b%9c%ea%b3%84-4/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "애플 핵심 임원 연쇄 이탈…조니 스루지 칩 개발 책임자 퇴사 검토",
+        "date": "2025-12-08 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=610939"
+    },
+    {
+        "title": "LG디스플레이, 車 OLED 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378135?sid=105"
+    },
+    {
+        "title": "'류재철號' LG전자, 500조 스마트팩토리 시장 정조준",
+        "date": "2025-12-08 10:28",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/08/2025120800104.html"
+    },
+    {
+        "title": "30년간 극비였던 세계 최초 마이크로칩 'MP944'의 정체는?",
+        "date": "2025-12-08 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=610913"
+    },
+    {
+        "title": "인도, A-GPS 의무화 검토… 애플·구글 프라이버시 침해",
+        "date": "2025-12-08 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=610887"
+    },
+    {
+        "title": "LGD, 차량용 OLED 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000987241?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 사이버 보안 인증 획득…업계 최초",
+        "date": "2025-12-08 10:11",
+        "link": "https://n.news.naver.com/mnews/article/079/0004093616?sid=103"
+    },
+    {
+        "title": "가온인터내셔날, 유무선 8K 'MCHOSE L7 Ultra+' 게이밍 마우스 국내 정식...",
+        "date": "2025-12-08 10:08",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=189663"
+    },
+    {
+        "title": "가온인터내셔날, 초경량 게이밍 마우스 'MCHOSE L7 Ultra+' 국내 정식 출...",
+        "date": "2025-12-08 10:04",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=325772"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 업계 첫 ‘사이버보안 국제표준’ 획득",
+        "date": "2025-12-08 10:02",
+        "link": "https://www.viva100.com/article/20251208500225"
+    },
+    {
+        "title": "[강정영 더봄] '40의 법칙'으로 천천히 부자 되기",
+        "date": "2025-12-08 10:00",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=246244"
+    },
+    {
+        "title": "LG디스플레이, 업계 최초 차량용 OLED ‘사이버 보안 인증’ 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://n.news.naver.com/mnews/article/016/0002568591?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 보안인증 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=610871"
+    },
+    {
+        "title": "LG디스플레이, 車 OLED 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1306397"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 신제품 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=232970"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=115378"
+    },
+    {
+        "title": "LGD, 차량용 OLED 사이버 보안 인증 획득…SDV 준비",
+        "date": "2025-12-08 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211791?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 사이버 보안 인증 획득",
+        "date": "2025-12-08 10:00",
+        "link": "https://n.news.naver.com/mnews/article/629/0000450905?sid=101"
+    },
+    {
+        "title": "애플TV, 코미디 시리즈 '플라토닉' 시즌3 제작 확정",
+        "date": "2025-12-08 09:50",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3349077"
+    },
+    {
+        "title": "스루지도 이탈?... 애플 조직개편 시끌 [디지털포스트 모닝픽]",
+        "date": "2025-12-08 09:14",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57171"
+    },
+    {
+        "title": "CDMO에서 OLED까지… 킵스파마, 사업 확장으로 실적 견인",
+        "date": "2025-12-08 09:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=403680"
+    },
+    {
+        "title": "삼정KPMG, 'CES 2026' 핵심 키워드 제시…피지컬 AI, 스마트홈 등",
+        "date": "2025-12-08 08:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005690144?sid=101"
+    },
+    {
+        "title": "애플 칩 총괄, 퇴사 고려…핵심 인력 줄이탈, 흔들리는 '아이폰 제국'...",
+        "date": "2025-12-08 08:49",
+        "link": "https://n.news.naver.com/mnews/article/293/0000076121?sid=105"
+    },
+    {
+        "title": "애플, 핵심 임원 퇴사 행렬...’칩 개발 선구자’도 떠나나",
+        "date": "2025-12-08 08:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401385?sid=105"
+    },
+    {
+        "title": "아이티켐, OLED·의약품 소재 모두 잡았다…CDMO 경쟁력 부각 [모닝 리...",
+        "date": "2025-12-08 08:41",
+        "link": "https://www.newspim.com/news/view/20251208000085"
+    },
+    {
+        "title": "아이티켐, '글로벌 빅파마 인정' 의약품 기술력 '주목'…삼성·LG향 OLED...",
+        "date": "2025-12-08 08:38",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=715170"
+    },
+    {
+        "title": "‘CES 2026’ 핵심 키워드는…피지컬 AI·공간 컴퓨팅·스마트홈 등 미...",
+        "date": "2025-12-08 08:29",
+        "link": "https://n.news.naver.com/mnews/article/018/0006179153?sid=101"
+    },
+    {
+        "title": "포스코그룹 '안전' 방점 임원인사 단행…'포스코세이프티솔루션' 설립",
+        "date": "2025-12-08 08:22",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=346030"
+    },
+    {
+        "title": "삼정KPMG 'CES 2026' 트렌드는 피지컬AI∙공간 컴퓨팅∙스마트홈 등",
+        "date": "2025-12-08 08:16",
+        "link": "https://www.etoday.co.kr/news/view/2533576"
+    },
+    {
+        "title": "포스코그룹, 2026 조직 개편...안전 최우선 경영체계 구축",
+        "date": "2025-12-08 08:14",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=510277"
+    },
+    {
+        "title": "3분기 국내 스마트폰 출하량 374만대…전년동기비 19.7% 증가",
+        "date": "2025-12-08 08:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=189651"
+    },
+    {
+        "title": "애플 메시지 UX 문제 있다…저스틴 비버 불만 표출 이유[모닝폰]",
+        "date": "2025-12-08 07:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006179122?sid=105"
+    },
+    {
+        "title": "아이폰17 프로, '인물사진 야간모드' 기능 삭제… 애플 의도된 결정",
+        "date": "2025-12-08 07:54",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539692"
+    },
+    {
+        "title": "덕산네오룩스, IT OLED 채용 확대로 수요 우려 상쇄…고부가 제품 비중...",
+        "date": "2025-12-08 07:12",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=715150"
+    },
+    {
+        "title": "삼성·화웨이 두번 접는 '트라이폴드' 시장 맞대결",
+        "date": "2025-12-08 07:06",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=41595"
+    },
+    {
+        "title": "버핏 따라 움직인 서학개미…애플 팔고, 구글 샀다",
+        "date": "2025-12-08 06:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008647661?sid=101"
+    },
+    {
+        "title": "갤럭시 생태계 넓힌다…삼성, 폼팩터 다변화로 승부수",
+        "date": "2025-12-08 06:06",
+        "link": "https://dealsite.co.kr/articles/152848"
+    },
+    {
+        "title": "삼성 트라이폴드로 판 흔들기⋯ 애플 1위 굳히기 속 주도권 경쟁",
+        "date": "2025-12-08 06:02",
+        "link": "https://www.viva100.com/article/20251207500411"
+    },
+    {
+        "title": "“엔비디아 놓쳤다면 이것 사라, 곧 애플 시총 제칠 이 미국 주식”",
+        "date": "2025-12-08 05:31",
+        "link": "https://n.news.naver.com/mnews/article/023/0003945535?sid=101"
+    },
+    {
         "title": "[기억할 오늘] 애플 PC보다 앞서 PC 소매점을 연 사업가",
         "date": "2025-12-08 04:31",
         "link": "https://n.news.naver.com/mnews/article/469/0000901758?sid=110"
-    },
-    {
-        "title": "애플, 핵심 임원 줄퇴사...흔들리는 제국",
-        "date": "2025-12-08 04:28",
-        "link": "https://n.news.naver.com/mnews/article/374/0000479177?sid=104"
     },
     {
         "title": "애플, 핵심 임원 줄퇴사…흔들리는 제국",
