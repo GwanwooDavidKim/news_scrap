@@ -1,5 +1,390 @@
 [
     {
+        "title": "로봇·산업용·협동로봇 관련주, '함박웃음' 현대무벡스·클로봇·TPC·휴...",
+        "date": "2025-12-13 00:20",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=245337"
+    },
+    {
+        "title": "첫날 완전판매 '갤럭시 Z 트라이폴드'...혁신에 혁신'미쳤다'",
+        "date": "2025-12-13 00:06",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=544915"
+    },
+    {
+        "title": "삼성, 두 번 접는 트라이폴드 판매 첫날 온라인·매장서 물량 소진",
+        "date": "2025-12-12 23:36",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=220492"
+    },
+    {
+        "title": "삼성전자, 두 번 접는 트라이폴드 판매 시작 .... 온라인·매장서 첫날부...",
+        "date": "2025-12-12 23:26",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=78497"
+    },
+    {
+        "title": "경북도·구미시-미래첨단소재㈜-㈜디씨티-㈜두이산업, 1484억원 규모 투...",
+        "date": "2025-12-12 22:36",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=504816"
+    },
+    {
+        "title": "두 번 접히는 삼성전자 스마트폰 '갤럭시 Z 트라이폴드', 판매 첫날 완판...",
+        "date": "2025-12-12 21:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3351277"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT가전 할인....학생 인증 고객 ...",
+        "date": "2025-12-12 21:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=418259"
+    },
+    {
+        "title": "두 번 접는 '갤럭시 Z 트라이폴드'…출시 5분 만에 완판",
+        "date": "2025-12-12 20:22",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=106471"
+    },
+    {
+        "title": "삼성, 두 번 접는 트라이폴드 판매 첫날 완판하며 흥행 조짐",
+        "date": "2025-12-12 20:14",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=701192"
+    },
+    {
+        "title": "두 번 접히는 삼성전자 스마트폰 ‘갤럭시 Z 트라이폴드’ 판매 첫날 완...",
+        "date": "2025-12-12 20:06",
+        "link": "https://n.news.naver.com/mnews/article/032/0003414923?sid=105"
+    },
+    {
+        "title": "두 번 접는 삼성 '트라이폴드'…판매 첫날 완판됐다",
+        "date": "2025-12-12 20:05",
+        "link": "https://n.news.naver.com/mnews/article/277/0005693077?sid=101"
+    },
+    {
+        "title": "‘두 번 접는’ 삼성전자 폴더블폰 ‘트라이폴드’, 판매 첫날 ‘완판’...",
+        "date": "2025-12-12 19:57",
+        "link": "https://n.news.naver.com/mnews/article/016/0002571458?sid=105"
+    },
+    {
+        "title": "삼성, 두 번 접는 트라이폴드 판매 첫날 완판 행진(종합)",
+        "date": "2025-12-12 19:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015794045?sid=105"
+    },
+    {
+        "title": "지속가능한 첨단 산업 선도하는 ‘제이케이테크’",
+        "date": "2025-12-12 18:56",
+        "link": "https://n.news.naver.com/mnews/article/025/0003489526?sid=105"
+    },
+    {
+        "title": "에이수스, 다양한 게이밍 체험 통해 Wi-Fi 7 경험 알려",
+        "date": "2025-12-12 18:30",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57276"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 수익성 개선 가시화…원가 안정화로 선두 굳히...",
+        "date": "2025-12-12 18:22",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=179832"
+    },
+    {
+        "title": "갤 Z트라이폴드 '선발대'…5분만에 완판",
+        "date": "2025-12-12 18:00",
+        "link": "https://n.news.naver.com/mnews/article/011/0004566745?sid=105"
+    },
+    {
+        "title": "삼성전자, 두 번 접는 트라이폴드 판매 시작",
+        "date": "2025-12-12 17:46",
+        "link": "https://idsn.co.kr/news/view/1065600428175093"
+    },
+    {
+        "title": "XR 경쟁 ‘스마트안경’으로 확산…삼성, 구글과 손잡고 글로벌 도전",
+        "date": "2025-12-12 17:44",
+        "link": "https://www.ceoscoredaily.com/page/view/2025121217245585168"
+    },
+    {
+        "title": "경북도·구미시 합동 투자양해각서(MOU) 체결…미래첨단소재㈜,㈜디씨티...",
+        "date": "2025-12-12 17:42",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4058172"
+    },
+    {
+        "title": "한·중 디스플레이 분쟁 격화…'LGD vs 티안마' 특허전쟁 2라운드",
+        "date": "2025-12-12 17:34",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=504797"
+    },
+    {
+        "title": "삼성, 3분기 국내 스마트폰 점유율 1위",
+        "date": "2025-12-12 17:20",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=716139"
+    },
+    {
+        "title": "구글, 前 윤구 애플코리아 사장 '구글코리아 신임 사장' 선임",
+        "date": "2025-12-12 17:16",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=37681"
+    },
+    {
+        "title": "경북도·구미시, 미래첨단소재㈜,㈜디씨티,㈜두이산업와 합동 MOU",
+        "date": "2025-12-12 17:12",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=69032"
+    },
+    {
+        "title": "미래첨단소재·디씨티·두이산업-경북도·구미시와 투자협약 체결",
+        "date": "2025-12-12 17:12",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=822910"
+    },
+    {
+        "title": "[데일리픽] XRP 성공 논쟁 무의미…애플 글래스 루머 총정리",
+        "date": "2025-12-12 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612590"
+    },
+    {
+        "title": "구글, AI 스마트 안경 내년 첫 출시…삼성·젠틀몬스터와 손잡고 재도전",
+        "date": "2025-12-12 17:00",
+        "link": "https://www.todayeconomic.com/news/article.html?no=29108"
+    },
+    {
+        "title": "삼성전자, 국내 스마트폰 점유율 81%...애플 18%",
+        "date": "2025-12-12 16:48",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=107757"
+    },
+    {
+        "title": "구미시 미래첨단소재㈜·㈜디씨티·㈜두이산업과 투자협약 체결",
+        "date": "2025-12-12 16:44",
+        "link": "https://www.kbmaeil.com/article/20251212500160"
+    },
+    {
+        "title": "[써보고서] 접으면 폰, 펼치면 10형 태블릿...'갤럭시 Z 트라이폴드'",
+        "date": "2025-12-12 16:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002402211?sid=105"
+    },
+    {
+        "title": "애플꼬마김밥, 서울 자양동에 140호점 개점",
+        "date": "2025-12-12 16:24",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=24231"
+    },
+    {
+        "title": "애플워치로 DJI도 드론 날린다",
+        "date": "2025-12-12 16:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002402207?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 일희일비 중국 의존도 점검 절실",
+        "date": "2025-12-12 16:10",
+        "link": "https://hbnpress.com/news/view/1065596215583842"
+    },
+    {
+        "title": "첫 폴더블 아이폰, 700만→천만대?…애플 물량 전략에 디스플레이 판 '흔...",
+        "date": "2025-12-12 16:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212393?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 트라이폴드’ 국내 공식 출시",
+        "date": "2025-12-12 15:56",
+        "link": "https://www.todayeconomic.com/news/article.html?no=29103"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드' 국내 출시...폴더블 전략의 다음 단계 연다",
+        "date": "2025-12-12 15:50",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=345389"
+    },
+    {
+        "title": "삼성, 3Q 국내 스마트폰 점유율 1위…10대 중 8대는 갤럭시",
+        "date": "2025-12-12 15:46",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284854"
+    },
+    {
+        "title": "삼성, 마이크로 RGB TV 대중화 승부수…프리미엄 시장 우위 지킨다",
+        "date": "2025-12-12 15:46",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251212010007012"
+    },
+    {
+        "title": "올해 3분기 국내 스마트폰 10대 중 8대는 '삼성 폰'",
+        "date": "2025-12-12 15:46",
+        "link": "https://n.news.naver.com/mnews/article/422/0000811597?sid=101"
+    },
+    {
+        "title": "국내 스마트폰 시장 '점유율 8할' 지킨 삼성…3Q 점유율 1위 독주",
+        "date": "2025-12-12 15:44",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212386?sid=105"
+    },
+    {
+        "title": "경북도·구미시, 미래첨단소재·디씨티·두이산업과 투자양해각서 체결",
+        "date": "2025-12-12 15:40",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23355"
+    },
+    {
+        "title": "긴 터널 끝, 흑자전환 앞둔 LG디스플레이…'영업익 1조 클럽' 복귀 시동",
+        "date": "2025-12-12 15:32",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025121215284561776"
+    },
+    {
+        "title": "삼성, 3Q 국내 스마트폰 점유율 1위…10대 중 8대는 갤럭시",
+        "date": "2025-12-12 15:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013655185?sid=105"
+    },
+    {
+        "title": "360만원에도 없어서 못 산다 삼성 Z 트라이폴드 5분 만에 완판",
+        "date": "2025-12-12 15:28",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=721823"
+    },
+    {
+        "title": "BOE, 8.6G OLED 라인 속도·물량 공세…삼성D 긴장",
+        "date": "2025-12-12 15:16",
+        "link": "https://dealsite.co.kr/articles/153193"
+    },
+    {
+        "title": "美법원, 애플 '외부 결제' 27% 수수료 제동…”법정모독” 유지",
+        "date": "2025-12-12 15:15",
+        "link": "https://n.news.naver.com/mnews/article/018/0006182616?sid=101"
+    },
+    {
+        "title": "삼성전자, '트라이폴드' 판매 시작…'폴더블 1위' 굳힌다",
+        "date": "2025-12-12 15:08",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4388682"
+    },
+    {
+        "title": "구글코리아, 윤구 신임 사장 선임…애플·삼성전자·MS 거친 전문가",
+        "date": "2025-12-12 15:07",
+        "link": "https://n.news.naver.com/mnews/article/008/0005291161?sid=105"
+    },
+    {
+        "title": "3분기 국내 스마트폰 점유율… 삼성 81%·애플 18%",
+        "date": "2025-12-12 15:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003036350?sid=105"
+    },
+    {
+        "title": "한파에도 오픈런…두번 접는 ‘갤럭시 Z 트라이폴드’ 출시",
+        "date": "2025-12-12 14:58",
+        "link": "https://n.news.naver.com/mnews/article/020/0003681370?sid=101"
+    },
+    {
+        "title": "삼성전자 3분기 국내 스마트폰 시장점유율 81%, 애플 18%",
+        "date": "2025-12-12 14:50",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423451"
+    },
+    {
+        "title": "삼성,2번 접는 '갤럭시 Z 트라이폴드' 공식 출시... 5분 만에 초도물량 ...",
+        "date": "2025-12-12 14:50",
+        "link": "https://www.insight.co.kr/news/533323"
+    },
+    {
+        "title": "삼성전자, 두 번 접는 '갤럭시 Z 트라이폴드' 판매 시작…모바일 경험...",
+        "date": "2025-12-12 14:44",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=258486"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 트라이폴드 출시 … 국내외 시장 인기를 예고",
+        "date": "2025-12-12 14:42",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=850168"
+    },
+    {
+        "title": "구글코리아, 삼성전자·애플·MS 거친 윤구 신임 사장 선임",
+        "date": "2025-12-12 14:40",
+        "link": "https://n.news.naver.com/mnews/article/417/0001118966?sid=105"
+    },
+    {
+        "title": "구글코리아, 윤구 신임 사장 선임…애플·삼성·MS 출신",
+        "date": "2025-12-12 14:29",
+        "link": "https://n.news.naver.com/mnews/article/015/0005223733?sid=105"
+    },
+    {
+        "title": "삼성, 두 번 접는 ‘갤럭시 Z 트라이폴드’ 국내 출시",
+        "date": "2025-12-12 14:27",
+        "link": "https://n.news.naver.com/mnews/article/081/0003600511?sid=101"
+    },
+    {
+        "title": "‘기동카’ 추가 탑재 삼성, ‘티머니’ 품은 애플·샤오미…더 넓어진...",
+        "date": "2025-12-12 14:26",
+        "link": "https://n.news.naver.com/mnews/article/028/0002781178?sid=101"
+    },
+    {
+        "title": "[중화학 ON] 두산에너빌리티, X-에너지 SMR 제작 준비 착수 外",
+        "date": "2025-12-12 14:18",
+        "link": "https://dealsite.co.kr/articles/153229"
+    },
+    {
+        "title": "美법원 '애플 법정모독 판단' 유지…'합리적수수료' 재산정명령",
+        "date": "2025-12-12 14:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008657893?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z 트라이폴드 출시일' 가장 슬림...가격과 스펙 '한눈에'",
+        "date": "2025-12-12 14:12",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3455077"
+    },
+    {
+        "title": "'359만원' 갤Z 트라이폴드 출격, 보험은 전무…스페셜 가치 VS 걱정 앞서...",
+        "date": "2025-12-12 14:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212368?sid=105"
+    },
+    {
+        "title": "5분만에 초도물량 완판 삼성전자, 갤럭시Z 트라이폴드 국내출시",
+        "date": "2025-12-12 13:58",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=118210"
+    },
+    {
+        "title": "美 항소법원 “애플, 앱 외부결제에도 수수료 받을 권리 있다” 일부 승...",
+        "date": "2025-12-12 13:54",
+        "link": "https://n.news.naver.com/mnews/article/366/0001129782?sid=105"
+    },
+    {
+        "title": "삼성, 두 번 접는 트라이폴드 국내 판매 개시",
+        "date": "2025-12-12 13:52",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=75556"
+    },
+    {
+        "title": "국내는 좁다 제이케이테크, AI 기반 스마트 제조 장비로 글로벌 시장...",
+        "date": "2025-12-12 13:49",
+        "link": "https://n.news.naver.com/mnews/article/015/0005223719?sid=101"
+    },
+    {
+        "title": "삼성전자, 두 번 접는 '트라이폴드' 국내 출시…5분만에 완판",
+        "date": "2025-12-12 13:45",
+        "link": "https://n.news.naver.com/mnews/article/123/0002373713?sid=004"
+    },
+    {
+        "title": "삼성, 국내 스마트폰 시장 점유율 81%… 4분기 애플과 격차 좁혀질 듯",
+        "date": "2025-12-12 13:44",
+        "link": "https://www.ajunews.com/view/20251212133844681"
+    },
+    {
+        "title": "삼성·애플 폴더블폰 힌지 공급... 파인엠텍, 실적 턴어라운드 전망",
+        "date": "2025-12-12 13:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=405637"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드' 판매 개시… 초도 물량 조기 소진",
+        "date": "2025-12-12 13:38",
+        "link": "https://www.ajunews.com/view/20251212132728674"
+    },
+    {
+        "title": "두께는 슬림하지만 가격은…출격 앞둔 갤럭시S26 예상 스펙은",
+        "date": "2025-12-12 13:34",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025121212184992333"
+    },
+    {
+        "title": "“전날 오전 11시부터 줄 섰어요” 삼성 트라이폴드 출시 첫날 ‘후끈’",
+        "date": "2025-12-12 13:32",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1284710&inflow=N"
+    },
+    {
+        "title": "아이폰17 타고 애플 국내 시장 점유율 올라간다",
+        "date": "2025-12-12 13:20",
+        "link": "https://n.news.naver.com/mnews/article/374/0000480261?sid=104"
+    },
+    {
+        "title": "[현장] 갤럭시 Z 트라이폴드 출시 첫날 '품귀'…오픈런에 리셀까지",
+        "date": "2025-12-12 13:12",
+        "link": "https://www.newspim.com/news/view/20251212000609"
+    },
+    {
+        "title": "[현장] 삼성 '갤럭시 Z 트라이폴드' 출격…오픈 전 200명 몰린 삼성 강남...",
+        "date": "2025-12-12 13:08",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=105329"
+    },
+    {
+        "title": "반도체 장비 해외 의존에서 벗어나 국내 첨단 산업의 경쟁력을 마련하다...",
+        "date": "2025-12-12 13:04",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=34715"
+    },
+    {
+        "title": "애플 iOS 26.1, 알람 앱 '밀어서 중단' 도입…이전 버전 복구 방법은?",
+        "date": "2025-12-12 13:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612541"
+    },
+    {
         "title": "삼성, 3분기 국내 스마트폰 시장 점유율 81%…애플 18%",
         "date": "2025-12-12 12:58",
         "link": "https://n.news.naver.com/mnews/article/031/0000988760?sid=105"
@@ -100,14 +485,14 @@
         "link": "http://www.fieldnews.kr/news/articleView.html?idxno=24211"
     },
     {
-        "title": "삼성, 두 번 접는 트라이폴드 판매 시작…매장 대기 줄",
-        "date": "2025-12-12 10:54",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1053494"
-    },
-    {
         "title": "삼성전자, 두 번 접는 '갤럭시 Z 트라이폴드' 국내 출시",
         "date": "2025-12-12 10:54",
         "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=255669"
+    },
+    {
+        "title": "삼성, 두 번 접는 트라이폴드 판매 시작…매장 대기 줄",
+        "date": "2025-12-12 10:54",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1053494"
     },
     {
         "title": "혁신은 인도에서 삼성전자, 인도 진출 30주년 새 비전 발표",
@@ -195,11 +580,6 @@
         "link": "https://n.news.naver.com/mnews/article/119/0003036102?sid=105"
     },
     {
-        "title": "삼성, '엑시노스 2600' 탑재 HPB 패키징 기술 퀄컴·애플 제공하나",
-        "date": "2025-12-12 09:10",
-        "link": "https://kbench.com/?q=node/274270"
-    },
-    {
         "title": "2026년 스마트폰 패널 출하량 46% 증가…카운터포인트 삼성D 최대 수혜...",
         "date": "2025-12-12 09:00",
         "link": "https://www.itbiznews.com/news/articleView.html?idxno=190204"
@@ -233,355 +613,5 @@
         "title": "[디스플레이 CTO 열전] 정철동, CPO 당시 인연 CTO까지 이어져…'생산기...",
         "date": "2025-12-12 07:08",
         "link": "https://dealsite.co.kr/articles/153102"
-    },
-    {
-        "title": "OLED, ‘매출 방어’ 성공 했지만, 매서워진 中 추격 넘어야⋯",
-        "date": "2025-12-12 06:52",
-        "link": "https://www.viva100.com/article/20251211500633"
-    },
-    {
-        "title": "美법원, 애플 '앱 외부결제 수수료' 인정",
-        "date": "2025-12-12 06:44",
-        "link": "https://n.news.naver.com/mnews/article/374/0000480163?sid=104"
-    },
-    {
-        "title": "8K TV서 손 떼는 제조사들… 판매·제품 줄고 협회도 위축",
-        "date": "2025-12-12 06:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001129656?sid=105"
-    },
-    {
-        "title": "AI에서 트라이폴드까지…계속되는 삼성전자의 ‘혁신’ 로드맵",
-        "date": "2025-12-12 06:00",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=80613"
-    },
-    {
-        "title": "스마트폰 다음은 안경?…베일 싸인 '애플 글래스' 루머 총정리",
-        "date": "2025-12-12 06:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612213"
-    },
-    {
-        "title": "미 법원, 애플 ‘앱 외부결제 수수료’ 인정…법정모독 판단 ‘유지’",
-        "date": "2025-12-12 05:55",
-        "link": "https://n.news.naver.com/mnews/article/056/0012084528?sid=104"
-    },
-    {
-        "title": "美법원, 애플 '앱 외부결제 수수료' 인정…법정모독 판단 '유지'",
-        "date": "2025-12-12 05:49",
-        "link": "https://n.news.naver.com/mnews/article/001/0015792353?sid=104"
-    },
-    {
-        "title": "진동은 매너모드 아니었다…공연장서 '관크' 안되려면 이렇게",
-        "date": "2025-12-12 05:00",
-        "link": "https://n.news.naver.com/mnews/article/025/0003489366?sid=101"
-    },
-    {
-        "title": "[실리콘 디코드] 미디어텍, 퀄컴처럼 '투칩 전략' 고민…TSMC 2나노 웨이...",
-        "date": "2025-12-12 03:40",
-        "link": "https://www.g-enews.com/view.php?ud=202512111412458898fbbec65dfb_1"
-    },
-    {
-        "title": "“결국 이걸 볼 줄이야?” 삼성 초비상…최고 야심작 ‘애플 안경’ 등...",
-        "date": "2025-12-11 21:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002570912?sid=105"
-    },
-    {
-        "title": "티엔마, LG디스플레이 상대 특허침해소송 제기",
-        "date": "2025-12-11 21:26",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=45252"
-    },
-    {
-        "title": "현대중공업터보기계 인수 효과… 덕산네오룩스, 사업 포트폴리오 넓히...",
-        "date": "2025-12-11 19:40",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=405390"
-    },
-    {
-        "title": "삼성전자, 두 번 접는 '갤럭시Z트라이폴드' 내일 국내 출시···폴더블...",
-        "date": "2025-12-11 19:24",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=116004"
-    },
-    {
-        "title": "구미 첨단 제조기업 1484억 투자…산단 재도약 신호탄",
-        "date": "2025-12-11 19:10",
-        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4059228"
-    },
-    {
-        "title": "롯데하이마트 “인기 IT 가전 특별 할인”",
-        "date": "2025-12-11 18:17",
-        "link": "https://n.news.naver.com/mnews/article/382/0001241642?sid=101"
-    },
-    {
-        "title": "AI 스마트 안경, 개인정보 보호 우려에 직면",
-        "date": "2025-12-11 18:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=204707"
-    },
-    {
-        "title": "스마트폰 기술의 새 지평?…'갤럭시 Z 트라이폴드'",
-        "date": "2025-12-11 17:40",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=55167"
-    },
-    {
-        "title": "삼성전자 구글과 스마트안경 생태계 구축, 노태문 갤럭시글라스 시장성...",
-        "date": "2025-12-11 17:24",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423324"
-    },
-    {
-        "title": "K-게임, ‘탈 구글·애플’ 시험대 선다… “‘자체 결제’로 플랫폼 종...",
-        "date": "2025-12-11 16:46",
-        "link": "https://www.ceoscoredaily.com/page/view/2025121114102273800"
-    },
-    {
-        "title": "화웨이, 아이폰 꺾고 1위 탈환 中 매체들 흥분",
-        "date": "2025-12-11 16:28",
-        "link": "https://n.news.naver.com/mnews/article/277/0005692443?sid=104"
-    },
-    {
-        "title": "삼성D·LGD, 아이폰 18 물량 확대 가시화…BOE 이탈로 공급망 재편",
-        "date": "2025-12-11 16:22",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=334147"
-    },
-    {
-        "title": "모토로라, 자사 첫 가로형 폴더블폰 내달 발표하나",
-        "date": "2025-12-11 16:20",
-        "link": "https://kbench.com/?q=node/274261"
-    },
-    {
-        "title": "홍미경 작가, VR 개인전 ‘신체적 한계를 넘어’ 15일까지",
-        "date": "2025-12-11 16:20",
-        "link": "https://n.news.naver.com/mnews/article/025/0003489205?sid=103"
-    },
-    {
-        "title": "삼성 노태문 '프리미엄'·LG 류재철 '웹OS'…최고의 'TV' 누가 될까",
-        "date": "2025-12-11 16:12",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237276"
-    },
-    {
-        "title": "6년7개월 만에야…법원, 삼성디스플레이 청소노동자 유방암 산재 인정",
-        "date": "2025-12-11 16:08",
-        "link": "https://n.news.naver.com/mnews/article/028/0002780949?sid=102"
-    },
-    {
-        "title": "한국인 최적화 황금비율 적용, CHERRY XTRFY MW5500 8K 게이밍 마우스",
-        "date": "2025-12-11 16:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57251"
-    },
-    {
-        "title": "더 강력한 게 온다 갤럭시 S26, 울트라 대신 선택할 이유 5가지",
-        "date": "2025-12-11 15:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612261"
-    },
-    {
-        "title": "애플도 관심···삼성전자, 글로벌셔터급 고화질 이미지센서 개발",
-        "date": "2025-12-11 15:42",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=417766"
-    },
-    {
-        "title": "[김영욱의 테크&amp;가젯] 완성도 따라온 낫싱 ‘폰 (3)’, 삼성·애플같은 ...",
-        "date": "2025-12-11 15:38",
-        "link": "https://n.news.naver.com/mnews/article/029/0002998895?sid=105"
-    },
-    {
-        "title": "선익시스템, OLED서 '페로브 태양광'까지 사업 확장",
-        "date": "2025-12-11 15:22",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=41720"
-    },
-    {
-        "title": "디스플레이 중 추격 계속…삼성·LG 엇갈리는 전략",
-        "date": "2025-12-11 15:12",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1284589&inflow=N"
-    },
-    {
-        "title": "애플, 차세대 '스튜디오 디스플레이' 120Hz 주사율 지원 루머",
-        "date": "2025-12-11 15:12",
-        "link": "https://kbench.com/?q=node/274255"
-    },
-    {
-        "title": "에스엔디스플레이, CES 2026서 화질(Imaging) 부문 혁신상 선정... 페로브...",
-        "date": "2025-12-11 14:36",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1807045"
-    },
-    {
-        "title": "애플 “올해 가장 다운로드 많이 된 앱은 챗GPT”",
-        "date": "2025-12-11 14:13",
-        "link": "https://n.news.naver.com/mnews/article/029/0002998866?sid=105"
-    },
-    {
-        "title": "[이색 키보드를 찾아서] 작지만 다재다능한 자석축 게이밍 키보드... 커...",
-        "date": "2025-12-11 12:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57189"
-    },
-    {
-        "title": "애플 내부 코드 문서에서 신형 '아이패드·아이패드 에어' 포착.. 내년 ...",
-        "date": "2025-12-11 11:54",
-        "link": "https://kbench.com/?q=node/274224"
-    },
-    {
-        "title": "커세어, 강력한 게이밍 성능의 DIY 키보드, 'MAKR 75 베어본 키트' 출시",
-        "date": "2025-12-11 11:34",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20251211001126403"
-    },
-    {
-        "title": "삼성디스플레이 청소노동자 유방암 산재 인정 판결 나와",
-        "date": "2025-12-11 11:32",
-        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=244448"
-    },
-    {
-        "title": "DIY 매력과 게이밍 성능 합친 '갓심비' 키보드 등장! 커세어, 메이커 75 ...",
-        "date": "2025-12-11 11:16",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539830"
-    },
-    {
-        "title": "커세어, 고성능 게이밍 키보드 베어본 'MAKR(메이커) 75' 출시... DIY 감성...",
-        "date": "2025-12-11 11:12",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1807032"
-    },
-    {
-        "title": "커세어, 강력한 게이밍 성능의 DIY 키보드, ‘메이커(MAKR 75) 베어본 키...",
-        "date": "2025-12-11 11:10",
-        "link": "https://www.betanews.net/article/view/beta202512110043"
-    },
-    {
-        "title": "애플·구글에서 찾은 국내기업 AX 전략은…NIA 보고서 발간",
-        "date": "2025-12-11 11:01",
-        "link": "https://n.news.naver.com/mnews/article/003/0013652019?sid=105"
-    },
-    {
-        "title": "‘한국의 애플’ ‘중국의 애플’[오후여담]",
-        "date": "2025-12-11 10:57",
-        "link": "https://n.news.naver.com/mnews/article/021/0002756380?sid=110"
-    },
-    {
-        "title": "보급형 아이폰17e는 실패?...이유 살펴봤더니",
-        "date": "2025-12-11 10:49",
-        "link": "https://n.news.naver.com/mnews/article/092/0002401969?sid=105"
-    },
-    {
-        "title": "올해 국내 애플 앱스토어 인기 무료 앱 1위는 챗GPT",
-        "date": "2025-12-11 10:43",
-        "link": "https://n.news.naver.com/mnews/article/031/0000988336?sid=105"
-    },
-    {
-        "title": "모토로라, 새로운 폴더블폰 출시 예고…CES 2026서 공개 가능성",
-        "date": "2025-12-11 10:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612134"
-    },
-    {
-        "title": "애플 팬 사로잡은 '챗GPT'…아이폰·아이패드 모두 韓 최고 인기 앱 1위",
-        "date": "2025-12-11 10:38",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=284716"
-    },
-    {
-        "title": "애플 폴더블 아이폰, 혁신 기대 속 우려도…3가지 요소가 변수",
-        "date": "2025-12-11 10:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612125"
-    },
-    {
-        "title": "애플, 차세대 스튜디오 디스플레이 출시 임박…A19 칩·HDR 탑재",
-        "date": "2025-12-11 10:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612119"
-    },
-    {
-        "title": "정철동 취임 2년, '생존'에서 '성장'으로 '턴어라운드'한 LG디스플레이",
-        "date": "2025-12-11 10:26",
-        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=129096"
-    },
-    {
-        "title": "애플 팬 사로잡은 '챗GPT'…아이폰·아이패드 모두 韓 최고 인기 앱 1위",
-        "date": "2025-12-11 10:15",
-        "link": "https://n.news.naver.com/mnews/article/003/0013651742?sid=105"
-    },
-    {
-        "title": "강력한 게이밍 성능 갖춘 DIY 키보드, 커세어 ‘MAKR 75 베어본 키트' 출...",
-        "date": "2025-12-11 10:14",
-        "link": "https://kbench.com/?q=node/274221"
-    },
-    {
-        "title": "챗GPT, 올해 애플 앱스토어서 가장 많이 다운로드",
-        "date": "2025-12-11 09:59",
-        "link": "https://n.news.naver.com/mnews/article/018/0006181645?sid=105"
-    },
-    {
-        "title": "삼성SDI, '기업가치 70조' 삼성디스플레이 지분 못파나 안파나 [캐즘 오...",
-        "date": "2025-12-11 09:56",
-        "link": "https://www.newspost.kr/news/articleView.html?idxno=219369"
-    },
-    {
-        "title": "'RGB 미니LED' 디스플레이, 드디어 PC 모니터로 등장 예고",
-        "date": "2025-12-11 09:52",
-        "link": "https://kbench.com/?q=node/274208"
-    },
-    {
-        "title": "에이수스, '탠덤 WOLED' 탑재 게이밍 모니터 '국내 출시'",
-        "date": "2025-12-11 09:46",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=305494"
-    },
-    {
-        "title": "엔젯, 경쟁사 대비 '최대 333배' 뛰어난 고점도 기술력 '주목'…차세대...",
-        "date": "2025-12-11 09:44",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=715799"
-    },
-    {
-        "title": "아이폰·시리·AI 묶는 새 허브… '애플 글라스' 메타 정면 겨냥",
-        "date": "2025-12-11 09:36",
-        "link": "https://n.news.naver.com/mnews/article/138/0002212191?sid=105"
-    },
-    {
-        "title": "애플, 보급형 ‘아이패드 12’에 A19 탑재 가능성…내부 코드서 포착",
-        "date": "2025-12-11 09:29",
-        "link": "https://n.news.naver.com/mnews/article/138/0002212186?sid=105"
-    },
-    {
-        "title": "반도체·태양광 장비까지 포트폴리오 확대... 필옵틱스 장기 성장 기대",
-        "date": "2025-12-11 09:20",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=405049"
-    },
-    {
-        "title": "‘애플 글래스’ 내년 공개설 솔솔…구글·삼성 등 ‘안경 대전’ 점화...",
-        "date": "2025-12-11 09:09",
-        "link": "https://n.news.naver.com/mnews/article/018/0006181551?sid=105"
-    },
-    {
-        "title": "엔젯, 글로벌 탑티어 EHD 기술로 유리기판 공정 혁신 기대 - 미래에셋...",
-        "date": "2025-12-11 09:06",
-        "link": "https://www.newspim.com/news/view/20251211000153"
-    },
-    {
-        "title": "유안타證 “탑런토탈솔루션, 인수합병으로 장비·소재 기업으로 전환”",
-        "date": "2025-12-11 09:02",
-        "link": "https://n.news.naver.com/mnews/article/366/0001129398?sid=101"
-    },
-    {
-        "title": "'벌써 부터 기대 폭발' 애플 폴더블폰 이름은 '아이폰 폴드', 내년 9월 출...",
-        "date": "2025-12-11 08:56",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539822"
-    },
-    {
-        "title": "AP시스템 고이동도 옥사이드 ALD 장비 시장 선점하겠다",
-        "date": "2025-12-11 08:36",
-        "link": "http://www.thelec.kr/news/articleView.html?idxno=45202"
-    },
-    {
-        "title": "애플, 1.60달러 오른 278.78달러에 마감",
-        "date": "2025-12-11 08:26",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15902419"
-    },
-    {
-        "title": "탑런토탈솔루션, 전장사업 내 사업 확장 '긍정적'…매출성장 속 밸류에...",
-        "date": "2025-12-11 08:02",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=715772"
-    },
-    {
-        "title": "탑런토탈솔루션, 단순 부품업체서 장비·소재 기업으로 전환-유안타",
-        "date": "2025-12-11 07:46",
-        "link": "https://n.news.naver.com/mnews/article/018/0006181459?sid=101"
-    },
-    {
-        "title": "갤럭시 S26, 카메라 업그레이드 포기… S25 센서 그대로 재사용",
-        "date": "2025-12-11 07:36",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539815"
-    },
-    {
-        "title": "[디스플레이 CTO 열전] 삼성D, 이창희 CTO 선임 이유…QD-EL 성과 책임",
-        "date": "2025-12-11 07:08",
-        "link": "https://dealsite.co.kr/articles/153028"
     }
 ]
