@@ -1,8 +1,1088 @@
 [
     {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대...색상•밝기 정밀도↑",
+        "date": "2025-12-17 13:00",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=195059"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 발표",
+        "date": "2025-12-17 12:46",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=305905"
+    },
+    {
+        "title": "['26 산업전망] 디스플레이, 중국과 경쟁 지속…IT용 OLED 성장",
+        "date": "2025-12-17 12:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1691523"
+    },
+    {
+        "title": "삼성, 두 번 접는 '트라이폴드' 또 완판… 재입고 '2분 컷'",
+        "date": "2025-12-17 12:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3352882"
+    },
+    {
+        "title": "애플 미공개 신제품 대거 유출, iOS 26서 포착",
+        "date": "2025-12-17 12:34",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=119107"
+    },
+    {
+        "title": "삼성전자-LG전자, 내년 CES서 마이크로 RGB TV로 '맞대결'",
+        "date": "2025-12-17 12:34",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=615885"
+    },
+    {
+        "title": "애플, 274.61달러 0.18% 상승 마감",
+        "date": "2025-12-17 12:28",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=476533"
+    },
+    {
+        "title": "삼성·LG, 마이크로 RGB TV로 프리미엄 시장 재편 나선다",
+        "date": "2025-12-17 12:24",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=514571"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 12:23",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=96414"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV로 디스플레이 기술의 미래를 다시 쓰다",
+        "date": "2025-12-17 12:14",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=717106"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 최대 20% 할인",
+        "date": "2025-12-17 12:08",
+        "link": "http://www.breaknews.com/1169801"
+    },
+    {
+        "title": "삼성, 마이크로RGB TV 라인업 확대…프리미엄TV 시장 공략 확대",
+        "date": "2025-12-17 12:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=190662"
+    },
+    {
+        "title": "메모리값 폭등·저가폰 부품원가 30%↑… “내년 스마트폰 시장, 3년만에...",
+        "date": "2025-12-17 11:58",
+        "link": "https://n.news.naver.com/mnews/article/021/0002757797?sid=101"
+    },
+    {
+        "title": "벤큐, 나노 글로시 패널로 더 선명하게...MAC 전용 모니터 MA270UP, MA320UP ...",
+        "date": "2025-12-17 11:52",
+        "link": "https://www.betanews.net/article/view/beta202512170037"
+    },
+    {
+        "title": "페라리 차세대 모델에 삼성 OLED 패널 장착",
+        "date": "2025-12-17 11:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002573365?sid=101"
+    },
+    {
+        "title": "갤럭시 Z 트라이폴드, 재입고도 '순삭'···삼성 첫 트라이폴드 흥행 지...",
+        "date": "2025-12-17 11:34",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=129789"
+    },
+    {
+        "title": "삼성전자 LG전자 '마이크로 RGB TV'로 재도약 기회, 중국 추격 뿌리친다",
+        "date": "2025-12-17 11:32",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423911"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대⋯프리미엄 시장 공략",
+        "date": "2025-12-17 11:28",
+        "link": "https://www.viva100.com/article/20251217500673"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 11:26",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=326239"
+    },
+    {
+        "title": "LGD, OLED 새브랜드 ‘탠덤’ 론칭",
+        "date": "2025-12-17 11:22",
+        "link": "https://n.news.naver.com/mnews/article/016/0002573311?sid=101"
+    },
+    {
+        "title": "삼성·LG, '마이크로 RGB'로 차세대 프리미엄 TV 시장 공략 본격화",
+        "date": "2025-12-17 11:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152990"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 라인업 확대…프리미엄 TV 선택 폭 넓혀",
+        "date": "2025-12-17 11:16",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=45680"
+    },
+    {
+        "title": "아, 또 품절이네…'359만원' 갤럭시 Z 트라이폴드, 이번엔 2분 만에 '완...",
+        "date": "2025-12-17 11:16",
+        "link": "https://n.news.naver.com/mnews/article/011/0004568331?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 ‘탬덤’ 론칭",
+        "date": "2025-12-17 11:14",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=80848"
+    },
+    {
+        "title": "'탠덤'으로 묶는다…LGD, OLED 기술 브랜드 출범",
+        "date": "2025-12-17 11:10",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152989"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭",
+        "date": "2025-12-17 11:06",
+        "link": "http://www.metroseoul.co.kr/article/20251217500153"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술브랜드 '탠덤' 론칭…CES 2026서 공개",
+        "date": "2025-12-17 11:04",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=823428"
+    },
+    {
+        "title": "LG디스플레이, 기술 브랜드 '탠덤' 론칭…차별화된 고객가치↑",
+        "date": "2025-12-17 11:04",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1316122"
+    },
+    {
+        "title": "애플, M5 맥스 칩 탑재 '아이맥 프로' 개발 정황 포착",
+        "date": "2025-12-17 11:04",
+        "link": "https://kbench.com/?q=node/274425"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개…장수명·고휘도·저전력 ...",
+        "date": "2025-12-17 11:00",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=289574"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 11:00",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=219548"
+    },
+    {
+        "title": "삼성전자, 프리미엄 TV 마이크로 RGB 라인업 확대",
+        "date": "2025-12-17 11:00",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=346984"
+    },
+    {
+        "title": "전통 기법과의 특별한 콜라보, 한정판 초경량 비즈니스 노트북, MSI 프레...",
+        "date": "2025-12-17 10:56",
+        "link": "https://kbench.com/?q=node/274227"
+    },
+    {
+        "title": "“영화 마니아들 신나겠네”…삼성 vs LG, 마이크로 RGB TV 시장 놓고 ‘...",
+        "date": "2025-12-17 10:55",
+        "link": "https://n.news.naver.com/mnews/article/009/0005607424?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 6종으로 확대",
+        "date": "2025-12-17 10:52",
+        "link": "https://n.news.naver.com/mnews/article/030/0003381448?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 기술 브랜드 '텐덤' 공개",
+        "date": "2025-12-17 10:52",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=118639"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭…CES 2026서 첫 공개",
+        "date": "2025-12-17 10:48",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=93261"
+    },
+    {
+        "title": "애플, 2026년 아이폰 판매 감소 직면…제조비용 부담까지",
+        "date": "2025-12-17 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=613668"
+    },
+    {
+        "title": "LG전자, LCD 화질 혁신 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-17 10:46",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=245653"
+    },
+    {
+        "title": "애플스토어에 가면 왜 기분이 좋을까",
+        "date": "2025-12-17 10:46",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=152476"
+    },
+    {
+        "title": "애플, 2026년 새해 맞이 챌린지 공개…애플워치 사용자 대상",
+        "date": "2025-12-17 10:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=613672"
+    },
+    {
+        "title": "LG디스플레이 “OLED 무한 가능성 확장”…브랜드 철학 구축 발표",
+        "date": "2025-12-17 10:44",
+        "link": "https://www.etoday.co.kr/news/view/2536910"
+    },
+    {
+        "title": "삼성전자, 115형 포함 6종 마이크로 RGB TV 확대 발표",
+        "date": "2025-12-17 10:42",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3061152"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:40",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7141738"
+    },
+    {
+        "title": "OLED 차별화 본격화 LG디스플레이, 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:39",
+        "link": "https://n.news.naver.com/mnews/article/119/0003037945?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표…OLED 무한한 가능성 확장하며 고...",
+        "date": "2025-12-17 10:38",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=105843"
+    },
+    {
+        "title": "LG디스플레이, CES서 OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:38",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=129770"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB 기술로 프리미엄 TV 경쟁력 강화",
+        "date": "2025-12-17 10:36",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=255858"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 10:34",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=245647"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 10:32",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/99218"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략 강화",
+        "date": "2025-12-17 10:32",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=173502"
+    },
+    {
+        "title": "사업 시작 13년만…LG디스플레이, OLED 기술 브랜드 발표",
+        "date": "2025-12-17 10:30",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1285127&inflow=N"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3352816"
+    },
+    {
+        "title": "'OLED 무한 가능성 확장' LG디스플레이, 신규 기술 브랜드 발표",
+        "date": "2025-12-17 10:28",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=129671"
+    },
+    {
+        "title": "LG디스플레이 '탠덤' 론칭 … OLED 월드브랜드 공개",
+        "date": "2025-12-17 10:28",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57317"
+    },
+    {
+        "title": "삼성전자, 2026년형 마이크로 RGB TV 라인업 대폭 확대...최고의 화질",
+        "date": "2025-12-17 10:26",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=746231"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표…기술 선도기업 입지 강화",
+        "date": "2025-12-17 10:22",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=278881"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 6종 라인업 공개…프리미엄 시장 공략 가속화",
+        "date": "2025-12-17 10:22",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=543557"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…사이즈 다양화",
+        "date": "2025-12-17 10:20",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=278868"
+    },
+    {
+        "title": "LG디스플레이, 올레드 기술 브랜드 '탠덤' 발표",
+        "date": "2025-12-17 10:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=285086"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤(Tandem)' 론칭",
+        "date": "2025-12-17 10:18",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23382"
+    },
+    {
+        "title": "115형 이어 55~100형까지 골라보자 삼성전자, 마이크로RGB TV 라인업확...",
+        "date": "2025-12-17 10:18",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=118393"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭",
+        "date": "2025-12-17 10:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000989872?sid=105"
+    },
+    {
+        "title": "LG디, OLED '탠덤' 기술 브랜드 공개...OLED 차별적 기술로 고객가치 창...",
+        "date": "2025-12-17 10:16",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=245521"
+    },
+    {
+        "title": "미래컴퍼니, BOE 청두 IT OLED 라인 464억원 디스플레이 장비 수주",
+        "date": "2025-12-17 10:12",
+        "link": "http://www.whosaeng.com/166615"
+    },
+    {
+        "title": "아이폰 폴드부터 20주년 기념작까지…애플, 아이폰 8종 동시 개발",
+        "date": "2025-12-17 10:12",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212781?sid=105"
+    },
+    {
+        "title": "또 매진…갤럭시Z 트라이폴드 2차 판매 '2분 만에 완판'",
+        "date": "2025-12-17 10:12",
+        "link": "https://n.news.naver.com/mnews/article/421/0008665085?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17e 맥세이프 탑재…전작 한계 극복",
+        "date": "2025-12-17 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=613642"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭 [CES 2026]",
+        "date": "2025-12-17 10:11",
+        "link": "https://n.news.naver.com/mnews/article/014/0005450159?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 10:10",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=97517"
+    },
+    {
+        "title": "'프리미엄 TV 대격전'...삼성전자, '마이크로 RGB TV' 라인업 확대",
+        "date": "2025-12-17 10:10",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=129665"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 10:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002402688?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 공개…OLED의 무한한 가능성 확장",
+        "date": "2025-12-17 10:06",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=103253"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표",
+        "date": "2025-12-17 10:06",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=116613"
+    },
+    {
+        "title": "LG디플, 사업 13년 만에 내세운 OLED 브랜드는 '탠덤'",
+        "date": "2025-12-17 10:06",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4389278"
+    },
+    {
+        "title": "삼성디스플레이, OLED 초격차 사수…기술력으로 중국 추격 돌파",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=228297"
+    },
+    {
+        "title": "LGD, OLED 브랜드 '탠덤' 출범…기술 단위에서 조직 단위로",
+        "date": "2025-12-17 10:02",
+        "link": "https://news.mtn.co.kr/news-detail/2025121708551650975"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표... 무한한 가능성 확장",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=149034"
+    },
+    {
+        "title": "LG디스플레이 OLED 기술 브랜드 '탠덤' 론칭, 무한한 가능성과 확장성 강...",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423875"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 ‘탠덤’ 공개",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.viva100.com/article/20251217500228"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤(Tandem)' 발표",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=119040"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 론칭… OLED 무한 가능성 확장해 고객가치 창출...",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.ajunews.com/view/20251217084100534"
+    },
+    {
+        "title": "LG디스플레이, 13년 만 OLED 브랜드 '탠덤' 런칭 … 프리미엄 시장 공략...",
+        "date": "2025-12-17 10:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/17/2025121700074.html"
+    },
+    {
+        "title": "TCL, 'TCL QD-Mini LED Game House' 성수 팝업스토어 오픈",
+        "date": "2025-12-17 10:02",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=853631"
+    },
+    {
+        "title": "[오늘의 전자] 삼성전자·LG전자",
+        "date": "2025-12-17 10:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=39025"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 ‘탠덤’ 통합…초격차 굳힌다",
+        "date": "2025-12-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004568289?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 사업 13년만에 첫 기술 브랜딩…'탠덤' 발표",
+        "date": "2025-12-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002402684?sid=105"
+    },
+    {
+        "title": "LGD, OLED 기술브랜드 론칭…“차별화된 고객가치 제공”",
+        "date": "2025-12-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002573212?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212777?sid=105"
+    },
+    {
+        "title": "LGD OLED 기술 브랜드 론칭…탠덤 OLED·WOLED 브랜드 가동",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=722273"
+    },
+    {
+        "title": "LGD, 13년 만의 첫 브랜딩…OLED 강조한 '탠덤' 출격",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005694739?sid=101"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 '탠덤' 발표…기술 리더십 각인",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.newspim.com/news/view/20251217000167"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 전면 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=48945"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '텐덤' 론칭",
+        "date": "2025-12-17 10:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2103054"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 발표…브랜드명에 '탠덤'",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025121708201186297"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237534"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭…13년만 첫 기술 브랜딩",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1691447"
+    },
+    {
+        "title": "OLED 판 흔든다 LG디스플레이, OLED 기술 브랜드 '탠덤' 론칭",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=241460"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 ‘탠덤’ 론칭…CES 2026서 첫 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/117/0004018368?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표…글로벌 브랜드 신뢰도 제고",
+        "date": "2025-12-17 10:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=192245"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 론칭...무한한 가능성 확장",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=234261"
+    },
+    {
+        "title": "LG디스플레이, OLED 독자 브랜드 '탠덤' 내놔…앞선 기술 '각인'",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008665046?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 브랜드 '탠덤' 론칭…기술 헤리티지 부각",
+        "date": "2025-12-17 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1310815"
+    },
+    {
+        "title": "LG디스플레이, 내년 CES서 OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015800055?sid=101"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 OLED 기술 브랜드 공개…'탠덤'으로 시장 공략",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=543538"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술에 '탠덤' 세계관 입힌다",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/648/0000042728?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 발표",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=258991"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술 브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001234908?sid=101"
+    },
+    {
+        "title": "[CES] LGD, OLED 기술 브랜드 '탠덤' 론칭···CES서 공개 예정",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=615840"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 '탠덤' 론칭…사업 13년만",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006185037?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 올레드 기술 신규 브랜드 ‘탠덤’론칭…CES서 첫 선",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002999884?sid=101"
+    },
+    {
+        "title": "LGD OLED, 13년 만에 새 옷 입는다...기술 브랜드 '탠점' 론칭",
+        "date": "2025-12-17 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=407197"
+    },
+    {
+        "title": "LGD, OLED 기술 브랜드 '탠덤' 발표… CES 2026 첫 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001119693?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 기술브랜드 '탠덤' 공개",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005293027?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 올레드 기술 브랜드 '탠덤' 발표",
+        "date": "2025-12-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013662157?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로RGB TV 6종으로 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:58",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=823389"
+    },
+    {
+        "title": "[더벨][i-point]미래컴퍼니, BOE 청두 8.6G 라인향 464억 규모 장비 수주",
+        "date": "2025-12-17 09:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202512170946163000103366"
+    },
+    {
+        "title": "'5분 품절' 됐던 갤럭시 트라이폴드…오늘 다시 팝니다",
+        "date": "2025-12-17 09:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=285076"
+    },
+    {
+        "title": "삼성·LG, '마이크로 RGB'로 TV 시장 침체 뚫는다",
+        "date": "2025-12-17 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=285069"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 09:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=613631"
+    },
+    {
+        "title": "삼성 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:52",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1285118&inflow=N"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대...프리미엄 시장 공략 박차",
+        "date": "2025-12-17 09:52",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=234251"
+    },
+    {
+        "title": "샤오미코리아, ‘연말 프로모션’ 시작…“일상에 똑똑함을 더하는 제안...",
+        "date": "2025-12-17 09:52",
+        "link": "https://kbench.com/?q=node/274419"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 6종으로 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:49",
+        "link": "https://n.news.naver.com/mnews/article/374/0000481004?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대 '프리미엄 시장 정조준'",
+        "date": "2025-12-17 09:48",
+        "link": "https://www.socialvalue.kr/news/view/1065573577365809"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 09:46",
+        "link": "https://n.news.naver.com/mnews/article/082/0001358694?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대...‘프리미엄 시장’ 공략",
+        "date": "2025-12-17 09:44",
+        "link": "https://www.news2day.co.kr/article/20251217500108"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 사이즈 6종으로 확대",
+        "date": "2025-12-17 09:43",
+        "link": "https://n.news.naver.com/mnews/article/031/0000989841?sid=105"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 6종으로 확대",
+        "date": "2025-12-17 09:43",
+        "link": "https://n.news.naver.com/mnews/article/215/0001234896?sid=101"
+    },
+    {
+        "title": "애플 불 붙인 글로벌 OLED 전쟁 … 삼성디스플레이, 中 추격 따돌릴 묘수...",
+        "date": "2025-12-17 09:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/17/2025121700075.html"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:42",
+        "link": "http://www.metroseoul.co.kr/article/20251217500036"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 라인업 확대...프리미엄 TV 시장 공략",
+        "date": "2025-12-17 09:42",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=476396"
+    },
+    {
+        "title": "차기 아이패드 미니 성능은 '아이폰 18 프로' 동급? A20 프로 칩 탑재설",
+        "date": "2025-12-17 09:42",
+        "link": "https://kbench.com/?q=node/274416"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:40",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2164237"
+    },
+    {
+        "title": "삼성전자, 프리미엄 ‘마이크로 RGB TV’ 55~115형까지 라인업 다양화",
+        "date": "2025-12-17 09:40",
+        "link": "https://sateconomy.co.kr/news/view/1065572030789766"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 디스플레이 시장 공...",
+        "date": "2025-12-17 09:38",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=75490"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:33",
+        "link": "https://n.news.naver.com/mnews/article/366/0001130630?sid=105"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:32",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=206387"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…55형부터 115형 '6종'",
+        "date": "2025-12-17 09:30",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212771?sid=105"
+    },
+    {
+        "title": "[제약업계 소식] 12월 17일",
+        "date": "2025-12-17 09:30",
+        "link": "http://www.doctorstimes.com/news/articleView.html?idxno=235886"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:26",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=116617"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 09:26",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=119026"
+    },
+    {
+        "title": "삼성전자, 마이크로RGB TV 라인업 확대 프리미엄 시장 공략",
+        "date": "2025-12-17 09:26",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=245515"
+    },
+    {
+        "title": "삼성전자 '마이크로 RGB TV' 라인업 6개로 확대, 프리미엄 기준 제시",
+        "date": "2025-12-17 09:26",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423867"
+    },
+    {
+        "title": "중형부터 초대형까지…삼성전자, RGB TV 라인업 대폭 확대",
+        "date": "2025-12-17 09:26",
+        "link": "https://n.news.naver.com/mnews/article/008/0005293001?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB 라인업 확대…프리미엄 TV 선택폭 늘린다",
+        "date": "2025-12-17 09:24",
+        "link": "https://n.news.naver.com/mnews/article/011/0004568255?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=285043"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 09:22",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=801317"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:22",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202512170919277714be44c0aacd_30"
+    },
+    {
+        "title": "미래컴퍼니, BOE 청두 8.6세대 IT OLED 신규 라인에 464억 원 규모 디스플...",
+        "date": "2025-12-17 09:22",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=476379"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대 … 프리미엄 시장 공략 강화",
+        "date": "2025-12-17 09:22",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/17/2025121700050.html"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:20",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=80832"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대···프리미엄 시장 공략 박차",
+        "date": "2025-12-17 09:20",
+        "link": "https://www.cnet.co.kr/view/?no=20251217091526"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:18",
+        "link": "https://www.sentv.co.kr/article/view/sentv202512170021"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 라인업 확대…프리미엄 TV 시장 공략 강화",
+        "date": "2025-12-17 09:16",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=93242"
+    },
+    {
+        "title": "삼성전자, 차세대 마이크로 RGB TV 확장… 프리미엄 시장 공략",
+        "date": "2025-12-17 09:16",
+        "link": "http://www.nongaek.com/news/articleView.html?idxno=93604"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…55형부터 115형까지",
+        "date": "2025-12-17 09:16",
+        "link": "https://news.mtn.co.kr/news-detail/2025121709142334425"
+    },
+    {
+        "title": "아이폰 폴드의 선택은 가로… 영상에 맞춘 폼팩터 실험",
+        "date": "2025-12-17 09:16",
+        "link": "https://n.news.naver.com/mnews/article/117/0004018348?sid=105"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:14",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=104284"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄시장 공략",
+        "date": "2025-12-17 09:14",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000087744"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:12",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237533"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 경쟁력 강화",
+        "date": "2025-12-17 09:12",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=118628"
+    },
+    {
+        "title": "애플 iOS 26.3 베타1 새로운 아이폰 배경화면 섹션 추가",
+        "date": "2025-12-17 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=613569"
+    },
+    {
+        "title": "애플 '아이폰 폴드' 디스플레이 정보 유출.. 아이패드 화면비율 비슷",
+        "date": "2025-12-17 09:10",
+        "link": "https://kbench.com/?q=node/274414"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 TV 시장 공략 가속",
+        "date": "2025-12-17 09:10",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=228296"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:10",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=103243"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 09:06",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=220736"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 6종으로 확대...프리미엄 시장 공략 ...",
+        "date": "2025-12-17 09:05",
+        "link": "https://n.news.naver.com/mnews/article/014/0005450088?sid=101"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 09:02",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=305860"
+    },
+    {
+        "title": "삼성, '프리미엄 공략' 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 09:02",
+        "link": "https://n.news.naver.com/mnews/article/277/0005694655?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…고객 선택 폭 넓힌다",
+        "date": "2025-12-17 09:02",
+        "link": "https://n.news.naver.com/mnews/article/119/0003037837?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 09:02",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4389252"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:57",
+        "link": "https://n.news.naver.com/mnews/article/003/0013661929?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:56",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=192229"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:56",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=255645"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 6종 확대로 프리미엄 선택지 확대",
+        "date": "2025-12-17 08:56",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=545601"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2103050"
+    },
+    {
+        "title": "삼성전자, 특화된 RGB TV 라인업 확대...프리미엄 시장 공략",
+        "date": "2025-12-17 08:54",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=121477"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:52",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3352766"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대해 프리미엄 시장 공략",
+        "date": "2025-12-17 08:48",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=105771"
+    },
+    {
+        "title": "삼성전자, 화질 기술 집약한 마이크로 RGB TV 라인업 확대 … 프리미엄 ...",
+        "date": "2025-12-17 08:46",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=78681"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대...프리미엄 시장 공략 강화",
+        "date": "2025-12-17 08:46",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1310788"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 크기 다양화...프리미엄 시장 공략",
+        "date": "2025-12-17 08:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=407222"
+    },
+    {
+        "title": "삼성전자, ‘마이크로 RGB TV’ 라인업 총 6종으로 확대",
+        "date": "2025-12-17 08:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0002999858?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 크기 다양화… 소비자 선택 폭 넓혀",
+        "date": "2025-12-17 08:42",
+        "link": "https://www.ajunews.com/view/20251217083011522"
+    },
+    {
+        "title": "애플, 274.61 USD 0.18% 오르며 마감",
+        "date": "2025-12-17 08:42",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15908360"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:40",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=410358"
+    },
+    {
+        "title": "삼성전자, '마이크로 RGB TV' 대중화 시동…라인업 대폭 확대",
+        "date": "2025-12-17 08:40",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1691442"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV로 프리미엄 시장 공략",
+        "date": "2025-12-17 08:38",
+        "link": "http://theviewers.co.kr/View.aspx?No=3895274"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 1등 굳힌다",
+        "date": "2025-12-17 08:36",
+        "link": "https://n.news.naver.com/mnews/article/421/0008664770?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 6종으로 확대…프리미엄 시장 공략 [...",
+        "date": "2025-12-17 08:36",
+        "link": "https://n.news.naver.com/mnews/article/016/0002573126?sid=101"
+    },
+    {
+        "title": "아이폰 폴드, 유튜브 보기 더 좋다? 세로보다 가로가 긴 화면 탑재할 듯...",
+        "date": "2025-12-17 08:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006184916?sid=105"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:33",
+        "link": "http://thetracker.co.kr/View.aspx?No=3895272"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 승부",
+        "date": "2025-12-17 08:33",
+        "link": "https://www.newspim.com/news/view/20251217000079"
+    },
+    {
+        "title": "프리미엄 시장 정조준…삼성전자, 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 08:30",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1315976"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:30",
+        "link": "https://www.etoday.co.kr/news/view/2536769"
+    },
+    {
+        "title": "삼성, 마이크로 RGB TV 승부수… CES 2026서 공개 예정",
+        "date": "2025-12-17 08:29",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=106549"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=418854"
+    },
+    {
+        "title": "55형부터 115형까지…삼성 마이크로 RGB TV 라인업 확대",
+        "date": "2025-12-17 08:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0015799794?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:24",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251217010009025"
+    },
+    {
+        "title": "삼성, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:21",
+        "link": "https://n.news.naver.com/mnews/article/018/0006184897?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 TV시장 공략",
+        "date": "2025-12-17 08:20",
+        "link": "https://www.raonnews.com/news/article.html?no=54127"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대…프리미엄 시장 공략",
+        "date": "2025-12-17 08:14",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=63621"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 확대… 프리미엄 시장 공략",
+        "date": "2025-12-17 08:14",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=69998"
+    },
+    {
+        "title": "페라리 차세대 모델에 삼성 디스플레이 OLED 채택",
+        "date": "2025-12-17 08:10",
+        "link": "https://n.news.naver.com/mnews/article/468/0001202933?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로 RGB TV 라인업 강화…프리미엄 시장 공략 고삐",
+        "date": "2025-12-17 08:08",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=241447"
+    },
+    {
+        "title": "로오딘, 독자 기술 '젯플렉스'로 고효율 청색 OLED 상용화 '성큼'...인도...",
+        "date": "2025-12-17 08:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003381358?sid=105"
+    },
+    {
+        "title": "애플 음성 AI 비서 '시리' 언제쯤?…2026년 봄 iOS26.4로 출시",
+        "date": "2025-12-17 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008664724?sid=105"
+    },
+    {
+        "title": "애플 차세대 제품 라인업 유출…아이폰 폴드 등 신제품 다수 포착",
+        "date": "2025-12-17 07:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539991"
+    },
+    {
+        "title": "애플·구글 뛰어든 '스마트글래스', 연 47% 성장...韓 서비스·SW '승부처...",
+        "date": "2025-12-17 07:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=800968"
+    },
+    {
+        "title": "삼성·LG, '마이크로 RGB'로 TV 시장 침체 뚫는다",
+        "date": "2025-12-17 07:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013661788?sid=101"
+    },
+    {
+        "title": "[미리보는 CES 下] LG전자 결국 가전·TV가 살아야···진화한 '공감지...",
+        "date": "2025-12-17 07:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=615763"
+    },
+    {
+        "title": "“이보다 더 생생할 순 없다”… 막 오른 ‘마이크로 RGB’ TV전쟁",
+        "date": "2025-12-17 06:05",
+        "link": "https://n.news.naver.com/mnews/article/022/0004090841?sid=101"
+    },
+    {
+        "title": "'5분 품절' 됐던 갤럭시 트라이폴드…오늘 다시 팝니다",
+        "date": "2025-12-17 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013661750?sid=105"
+    },
+    {
+        "title": "아이폰 출하량 반등에 웃는 LG이노텍...3년 연속 이익 증가 청신호",
+        "date": "2025-12-17 05:29",
+        "link": "https://n.news.naver.com/mnews/article/014/0005450026?sid=101"
+    },
+    {
         "title": "[실리콘 디코드] 中 반도체 자립 가속, 나우라 M&amp;A·ACM HBM 장비 진격",
         "date": "2025-12-17 03:50",
         "link": "https://www.g-enews.com/view.php?ud=202512161436312775fbbec65dfb_1"
+    },
+    {
+        "title": "LG전자, 내달 美CES서 프리미엄 LCD TV 첫 공개",
+        "date": "2025-12-17 03:04",
+        "link": "https://n.news.naver.com/mnews/article/020/0003682377?sid=101"
     },
     {
         "title": "LG전자, 올레드 DNA 적용한 '마이크로RGB 에보'로 LCD TV 화질 혁신",
@@ -730,6 +1810,11 @@
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423709"
     },
     {
+        "title": "17일 재입고된다는데... 트라이폴드 '1000만 원 리셀가' 등장 [지금이뉴...",
+        "date": "2025-12-16 10:50",
+        "link": "https://n.news.naver.com/mnews/article/052/0002287833?sid=102"
+    },
+    {
         "title": "LG전자, 프리미엄 LCD TV '마이크로RGB 에보' 첫 공개",
         "date": "2025-12-16 10:48",
         "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=129628"
@@ -768,11 +1853,6 @@
         "title": "LG전자, 화질 혁신 TV '마이크로RGB 에보' 첫 공개",
         "date": "2025-12-16 10:32",
         "link": "https://www.widedaily.com/news/articleView.html?idxno=284961"
-    },
-    {
-        "title": "LG전자, CES 2026에서 ‘마이크로RGB 에보’ 첫 공개",
-        "date": "2025-12-16 10:32",
-        "link": "https://www.cnbnews.com/news/article.html?no=767840"
     },
     {
         "title": "LG전자, '올레드 DNA' 품은 차세대 LCD TV 공개",
@@ -833,11 +1913,6 @@
         "title": "50만원 웃돈 얹어도 못 사요 … 삼성 트라이폴드 중고 물량도 동났다",
         "date": "2025-12-16 10:16",
         "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/16/2025121600089.html"
-    },
-    {
-        "title": "LG전자, CES 2026서 ‘마이크로 RGB 에보’ 공개",
-        "date": "2025-12-16 10:16",
-        "link": "https://www.ceoscoredaily.com/page/view/2025121609581011163"
     },
     {
         "title": "스퀴즈맥주, 국산 사과로 만든 애플 사이더 ‘더세츠’ 출시",
@@ -990,26 +2065,6 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002212638?sid=105"
     },
     {
-        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=104180"
-    },
-    {
-        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=220643"
-    },
-    {
-        "title": "LG전자, LCD 화질 혁신 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=410304"
-    },
-    {
-        "title": "LG전자, LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=116437"
-    },
-    {
         "title": "LG전자, '마이크로RGB 에보' 공개…올레드 DNA 입은 LCD",
         "date": "2025-12-16 10:00",
         "link": "https://www.newspim.com/news/view/20251216000098"
@@ -1025,14 +2080,34 @@
         "link": "http://www.datanews.co.kr/news/article.html?no=142338"
     },
     {
-        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=241299"
-    },
-    {
         "title": "LG전자, 프리미엄 LCD TV '마이크로RGB 에보' 공개",
         "date": "2025-12-16 10:00",
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=234035"
+    },
+    {
+        "title": "LG전자, LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=116437"
+    },
+    {
+        "title": "LG전자, LCD 화질 혁신 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=410304"
+    },
+    {
+        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=220643"
+    },
+    {
+        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=104180"
+    },
+    {
+        "title": "LG전자, 올레드 DNA로 LCD 화질 혁신한 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=241299"
     },
     {
         "title": "LG전자, '마이크로RGB 에보' 첫 공개...올레드 DNA로 LCD 화질 혁신",
@@ -1050,14 +2125,14 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002212639?sid=105"
     },
     {
-        "title": "LG전자, '마이크로RGB 에보' 공개…올레드 기술력으로 프리미엄 LCD TV 새...",
-        "date": "2025-12-16 10:00",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=543451"
-    },
-    {
         "title": "LG전자, LCD 화질 한계 돌파 … '마이크로RGB 에보' 첫 공개",
         "date": "2025-12-16 10:00",
         "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/16/2025121600054.html"
+    },
+    {
+        "title": "LG전자, '마이크로RGB 에보' 공개…올레드 기술력으로 프리미엄 LCD TV 새...",
+        "date": "2025-12-16 10:00",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=543451"
     },
     {
         "title": "LG전자, 올레드 기술로 LCD 화질 혁신한 ‘마이크로RGB 에보’ 첫 공개",
@@ -1110,14 +2185,14 @@
         "link": "http://www.4th.kr/news/articleView.html?idxno=2102959"
     },
     {
-        "title": "LG전자, 올레드 기술 적용 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=103132"
-    },
-    {
         "title": "LG전자, 내달 마이크로RGB 에보 첫 선 혁신적 화질과 색감 구현",
         "date": "2025-12-16 10:00",
         "link": "https://www.handmk.com/news/articleView.html?idxno=34768"
+    },
+    {
+        "title": "LG전자, 올레드 기술 적용 '마이크로RGB 에보' 첫 공개",
+        "date": "2025-12-16 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=103132"
     },
     {
         "title": "LG전자, 올레드 DNA 입힌 LCD로 프리미엄 TV 판 흔든다",
@@ -1135,9 +2210,9 @@
         "link": "http://www.m-i.kr/news/articleView.html?idxno=1315463"
     },
     {
-        "title": "LG전자, CES 2026서 ‘LG 마이크로RGB 에보’ 첫 공개",
+        "title": "LG전자, 내년 CES서 '마이크로RGB 에보' 첫 공개",
         "date": "2025-12-16 10:00",
-        "link": "https://www.ekn.kr/web/view.php?key=20251216021338415"
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1310171"
     },
     {
         "title": "[CES 2026] LG전자, 올레드 기술 접목 마이크로RGB 에보 TV 라스베이거스...",
@@ -1148,11 +2223,6 @@
         "title": "LG전자, '마이크로RGB 에보' 첫 공개",
         "date": "2025-12-16 10:00",
         "link": "https://www.cstimes.com/news/articleView.html?idxno=683894"
-    },
-    {
-        "title": "LG전자, 내년 CES서 '마이크로RGB 에보' 첫 공개",
-        "date": "2025-12-16 10:00",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1310171"
     },
     {
         "title": "LG전자, 내년 CES서 프리미엄 TV '마이크로 RGB 에보' 공개",
@@ -1268,11 +2338,6 @@
         "title": "초프리미엄 RGB 마이크로 LED TV, OLED 수요도 커진다",
         "date": "2025-12-16 09:06",
         "link": "https://dealsite.co.kr/articles/153355"
-    },
-    {
-        "title": "보원케미칼, 스팩 합병 상장 예심 통과…코스닥 상장 가시화",
-        "date": "2025-12-16 09:06",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=716397"
     },
     {
         "title": "LG전자, CES서 ‘마이크로RGB 에보’ 첫 공개",
