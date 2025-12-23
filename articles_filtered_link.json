@@ -1,5 +1,530 @@
 [
     {
+        "title": "구글 애플, SNS 검증에 미 비자 심사 지연 출국 자제 권고",
+        "date": "2025-12-23 12:24",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=478758"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 12:22",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237947"
+    },
+    {
+        "title": "국제약품 남태훈 대표, 부회장 승진…미래 경쟁력 강화",
+        "date": "2025-12-23 11:46",
+        "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2266318"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 ‘RGB 스트라이프 240Hz’ OLED 첫 공개",
+        "date": "2025-12-23 11:42",
+        "link": "https://www.kukinews.com/article/view/kuk202512230084"
+    },
+    {
+        "title": "LGD, 240Hz RGB 스트라이프 OLED 공개",
+        "date": "2025-12-23 11:42",
+        "link": "https://n.news.naver.com/mnews/article/016/0002576268?sid=101"
+    },
+    {
+        "title": "삼성 이어 소니도 2억화소 이미지센서…내년 시장 격돌",
+        "date": "2025-12-23 11:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=285533"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 세계 최초 '240Hz RGB OLED' 공개",
+        "date": "2025-12-23 11:34",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4284107"
+    },
+    {
+        "title": "LGD, 세계 최초 '240Hz RGB 스트라이프' OLED 패널 공개",
+        "date": "2025-12-23 11:32",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/23/2025122300155.html"
+    },
+    {
+        "title": "국제약품, 오너 3세 남태훈 대표이사 부회장 승진",
+        "date": "2025-12-23 11:32",
+        "link": "https://www.medipana.com/news/articleView.html?idxno=404381"
+    },
+    {
+        "title": "LG디스플레이, ‘240Hz RGB 스트라이프 OLED’ 개발⋯ CES서 공개",
+        "date": "2025-12-23 11:26",
+        "link": "https://www.viva100.com/article/20251223500667"
+    },
+    {
+        "title": "국제약품, COO·CTO·사업개발본부 중심 체제 변화",
+        "date": "2025-12-23 11:26",
+        "link": "https://www.monews.co.kr/news/articleView.html?idxno=408573"
+    },
+    {
+        "title": "LGD, 세계 최초 240㎐ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 11:23",
+        "link": "https://n.news.naver.com/mnews/article/023/0003948628?sid=105"
+    },
+    {
+        "title": "국제약품 남태훈 대표, 부회장 승진…COO·CTO·사업개발본부 중심 실행...",
+        "date": "2025-12-23 11:22",
+        "link": "https://www.rapportian.com/news/articleView.html?idxno=230594"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개한다",
+        "date": "2025-12-23 11:21",
+        "link": "https://n.news.naver.com/mnews/article/079/0004098537?sid=101"
+    },
+    {
+        "title": "투명 디스플레이 다시 커진다···韓 기업들 OLED 투과율 향상 주력",
+        "date": "2025-12-23 11:16",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=418020"
+    },
+    {
+        "title": "'美 비자대란' 한국만 난리줄 알았는데…애플·구글·MS 외국인 직원 미...",
+        "date": "2025-12-23 11:15",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213427?sid=004"
+    },
+    {
+        "title": "국제약품, 미래 사업 경쟁력 강화 위한 임원 인사 단행",
+        "date": "2025-12-23 11:14",
+        "link": "https://mdtoday.co.kr/news/view/1065578997139013"
+    },
+    {
+        "title": "국제약품 남태훈 대표, 부회장 승진…미래사업 경쟁 강화",
+        "date": "2025-12-23 11:12",
+        "link": "http://www.medisobizanews.com/news/articleView.html?idxno=132635"
+    },
+    {
+        "title": "국제약품, 남태훈 대표이사 부회장 승진…COO·CTO 중심 실행력 강화",
+        "date": "2025-12-23 11:08",
+        "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=320968"
+    },
+    {
+        "title": "OLED만 있냐, 마이크로 RGB TV도 있다 삼성·LG, 中과 기술격차 벌린다...",
+        "date": "2025-12-23 11:06",
+        "link": "https://n.news.naver.com/mnews/article/014/0005452970?sid=101"
+    },
+    {
+        "title": "LG디스플레이, RGB 스트라이프 구조로 고주사율 한계 넘었다",
+        "date": "2025-12-23 11:06",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=345997"
+    },
+    {
+        "title": "LG디스플레이, ‘CES 2026’서 고주사율 ‘240㎐’ OLED 패널 新 공개",
+        "date": "2025-12-23 11:06",
+        "link": "https://sateconomy.co.kr/news/view/1065575369319300"
+    },
+    {
+        "title": "LGD, CES서 'RGB 스트라이프' OLED 패널 공개",
+        "date": "2025-12-23 11:04",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=306253"
+    },
+    {
+        "title": "애플, 2026년 대규모 제품 라인업 예고…아이폰18부터 맥북·홈팟까지",
+        "date": "2025-12-23 11:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615422"
+    },
+    {
+        "title": "애플 iOS 26.3 업데이트, 2026년 1월 공개 유력…주요 기능은?",
+        "date": "2025-12-23 11:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615421"
+    },
+    {
+        "title": "애플, 중국과 협력 강화…장기 투자 약속",
+        "date": "2025-12-23 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615389"
+    },
+    {
+        "title": "LG디스플레이, RGB 스트라이프 240Hz OLED 모니터 패널 세계 최초 공개",
+        "date": "2025-12-23 10:56",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23430"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:52",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=149247"
+    },
+    {
+        "title": "애플, 이탈리아서 과징금 폭탄…앱스토어 독점 논란",
+        "date": "2025-12-23 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615379"
+    },
+    {
+        "title": "팀 쿡 최우선 과제 '애플 글래스'…2026년 공개 가능성",
+        "date": "2025-12-23 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615373"
+    },
+    {
+        "title": "LG디스플레이, ‘240Hz’ RGB 스트라이프 OLED 패널 공개...색 번짐·왜곡...",
+        "date": "2025-12-23 10:42",
+        "link": "http://www.metroseoul.co.kr/article/20251223500112"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240㎐ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:40",
+        "link": "http://journal.kobeta.com/?post_type=post&p=61302"
+    },
+    {
+        "title": "[CES 2026] LGD, 세계 최초 240Hz RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:38",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=722997"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:38",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=106554"
+    },
+    {
+        "title": "삼성 이어 소니도 2억화소 이미지센서…내년 시장 격돌",
+        "date": "2025-12-23 10:38",
+        "link": "https://n.news.naver.com/mnews/article/003/0013672726?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 240㎐ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:30",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=717399"
+    },
+    {
+        "title": "LGD, 하이엔드 RGB스트라이프 OLED 패널 업계 첫 공개",
+        "date": "2025-12-23 10:24",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=245722"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240Hz RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:20",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=75692"
+    },
+    {
+        "title": "LG디스플레이, 240Hz RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:20",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=234993"
+    },
+    {
+        "title": "화질과 속도 둘 다 잡았다…LG디스플레이, 240Hz RGB 스트라이프 OLED 패...",
+        "date": "2025-12-23 10:20",
+        "link": "https://n.news.naver.com/mnews/article/277/0005697531?sid=101"
+    },
+    {
+        "title": "[아듀 2025!] 제조현장 뒤흔든 스마트제조 10대 이슈",
+        "date": "2025-12-23 10:20",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=76063"
+    },
+    {
+        "title": "LGD, CES서 240㎐ RGB 스트라이프 OLED 첫 공개",
+        "date": "2025-12-23 10:20",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092153376"
+    },
+    {
+        "title": "“편견을 깨면 많은 것이 보인다” 플라스틱 노트북만의 강점",
+        "date": "2025-12-23 10:20",
+        "link": "https://www.itworld.co.kr/article/4110820/편견을-깨면-많은-것이-보인다-플라스틱-노트북.html"
+    },
+    {
+        "title": "[CES2026 혁신상 특집 인터뷰] 에스엔디스플레이, '페로브스카이트' 기반...",
+        "date": "2025-12-23 10:18",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1807154"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 세계 최초 ‘240Hz RGB OLED’ 공개",
+        "date": "2025-12-23 10:16",
+        "link": "https://n.news.naver.com/mnews/article/366/0001131900?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:14",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=119626"
+    },
+    {
+        "title": "LG디스플레이, CES서 모니터용 OLED 패널 공개",
+        "date": "2025-12-23 10:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1285734&inflow=N"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240Hz RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:12",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=103851"
+    },
+    {
+        "title": "LG디스플레이 '240Hz' RGB 스트라이프 OLED 공개, 색 번짐·왜곡 감소",
+        "date": "2025-12-23 10:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=424575"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 세계 최초 240Hz RGB 스트라이프 OLED 패널 공개...",
+        "date": "2025-12-23 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20251223100726"
+    },
+    {
+        "title": "LGD, CES서 '세계 최초' 240㎐ RGB OLED 공개",
+        "date": "2025-12-23 10:08",
+        "link": "https://n.news.naver.com/mnews/article/374/0000482161?sid=101"
+    },
+    {
+        "title": "팀 쿡 이어 COO까지 나섰다…애플, 중국과 결별설에 선 긋기",
+        "date": "2025-12-23 10:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213397?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240Hz RGB 스트라이프 OLED 공개",
+        "date": "2025-12-23 10:04",
+        "link": "https://n.news.naver.com/mnews/article/031/0000991453?sid=105"
+    },
+    {
+        "title": "LGD, 세계 최초 240Hz RGB 스트라이프 OLED 패널 개발",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002576073?sid=101"
+    },
+    {
+        "title": "LG디스플레이, CES서 세계 최초 ‘240Hz RGB OLED’ 공개",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006188464?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240㎐ 고주사율 RGB 스트라이프 OLED 패널 공개...",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005452904?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 내년 CES서 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/119/0003040310?sid=101"
+    },
+    {
+        "title": "LG디스플레이, CES서 RGB 방식 OLED 패널 공개",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000456004?sid=101"
+    },
+    {
+        "title": "LGD, CES 2026서 ‘240Hz’ RGB OLED 패널 세계 최초 공개한다",
+        "date": "2025-12-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/117/0004020072?sid=105"
+    },
+    {
+        "title": "CES 2026서 베일 벗는 LG디스플레이 OLED…RGB 스트라이프·240Hz 구현",
+        "date": "2025-12-23 10:00",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=93419"
+    },
+    {
+        "title": "LG디스플레이, '240Hz' RGB 스트라이프 OLED 패널 공개…세계 최초",
+        "date": "2025-12-23 10:00",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1318189"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=285861"
+    },
+    {
+        "title": "LGD, CES서 세계 최초 240㎐ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008675467?sid=101"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, 세계 첫 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=242130"
+    },
+    {
+        "title": "LG디스플레이, '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=259453"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240Hz RGB 스트라이프 OLED 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=49477"
+    },
+    {
+        "title": "LG디스플레이, 세계 첫 '240Hz' RGB 스프라이트 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1313446"
+    },
+    {
+        "title": "LG디스플레이, 'CES 2026'서 240Hz 4K 모니터용 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=118794"
+    },
+    {
+        "title": "LG디스플레이, 240Hz RGB OLED 패널 세계 최초 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=615351"
+    },
+    {
+        "title": "[CES '26] LG디스플레이, 240Hz RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1692359"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 240㎐ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015810056?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 'RGB 스트라이프 240Hz' OLED 모니터 공개…게...",
+        "date": "2025-12-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213390?sid=105"
+    },
+    {
+        "title": "[CES] LGD, RGB 구조 240㎐ 스트라이프 OLED 패널 최초 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=616439"
+    },
+    {
+        "title": "LGD, '240Hz' RGB 스트라이프 OLED 세계 최초 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005295646?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.ajunews.com/view/20251223081853431"
+    },
+    {
+        "title": "LG디스플레이, 240Hz RBG 스트라이브 OLED 공개…세계 최초",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251223010012169"
+    },
+    {
+        "title": "240Hz 고주사율 구현…LGD, RGB 스트라이프 OLED 패널 첫 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=200104"
+    },
+    {
+        "title": "LG디스플레이, '초당 240회' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.newspim.com/news/view/20251223000085"
+    },
+    {
+        "title": "LGD, 세계 최초 ‘240Hz’ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.etoday.co.kr/news/view/2538890"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=824225"
+    },
+    {
+        "title": "LGD, 세계 최초 ‘240Hz’ RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "http://www.datanews.co.kr/news/article.html?no=142467"
+    },
+    {
+        "title": "LG디스플레이, '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=192716"
+    },
+    {
+        "title": "LGD, '240Hz' 고주사율 구현한 RGB 스트라이프 OLED 패널 선봬",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=409395"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237918"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 '240Hz' RGB 스트라이프 패널 공개",
+        "date": "2025-12-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001120849?sid=101"
+    },
+    {
+        "title": "봄엔 일반형, 가을엔 프로…애플 ‘아이폰18 투트랙’ 현실화",
+        "date": "2025-12-23 09:57",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213389?sid=105"
+    },
+    {
+        "title": "크로스오버 32WQ290TM, 2025 하반기 다나와 히트브랜드 게이밍 모니터 부...",
+        "date": "2025-12-23 09:56",
+        "link": "https://kbench.com/?q=node/274631"
+    },
+    {
+        "title": "애플의 집착…아이폰 폴드 ‘크리스 프리’ 화면·막판까지 '흔들'",
+        "date": "2025-12-23 09:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213386?sid=105"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 RGB 고주사율 구현 OLED 패널 최초 공개",
+        "date": "2025-12-23 09:48",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=34925"
+    },
+    {
+        "title": "LG디스플레이, 게임밍 최적화된 240Hz 27인치 4K OLED 세계 최초 공개",
+        "date": "2025-12-23 09:45",
+        "link": "https://n.news.naver.com/mnews/article/011/0004570507?sid=101"
+    },
+    {
+        "title": "'아이폰 18' 내년 봄 출시되나? 1월 시험 생산 준비",
+        "date": "2025-12-23 09:40",
+        "link": "https://kbench.com/?q=node/274624"
+    },
+    {
+        "title": "에어팟 독점 깬다…EU 압박에 애플, iOS 핵심 기능 개방",
+        "date": "2025-12-23 09:39",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213380?sid=105"
+    },
+    {
+        "title": "애플 지배력 남용 인정…이탈리아 경쟁당국 과징금 9800만 유로 부과",
+        "date": "2025-12-23 09:27",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213375?sid=105"
+    },
+    {
+        "title": "쿠쿠, 3kg 용량에 배기호스 필요 없는 초소형 건조기 출시...초슬림 실링...",
+        "date": "2025-12-23 09:24",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=746645"
+    },
+    {
+        "title": "LG디스플레이, '240Hz' RGB 스트라이프 OLED 패널 공개",
+        "date": "2025-12-23 09:22",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=117420"
+    },
+    {
+        "title": "의류 관리부터 공기 순환까지…쿠쿠, 초소형 건조기·초슬림 실링팬 첫...",
+        "date": "2025-12-23 09:21",
+        "link": "https://n.news.naver.com/mnews/article/016/0002576029?sid=101"
+    },
+    {
+        "title": "팀 쿡의 숙원 ‘애플 글라스’가 온다[모닝폰]",
+        "date": "2025-12-23 09:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0006188389?sid=105"
+    },
+    {
+        "title": "[영상] 폰을 ‘두 번’ 펼치니 ‘태블릿’이 됐습니다",
+        "date": "2025-12-23 09:01",
+        "link": "https://n.news.naver.com/mnews/article/037/0000037451?sid=103"
+    },
+    {
+        "title": "[2025 혁신상품] 삼성D 'LEAD', 무편광판 OLED로 휘도·전력·두께 동시 ...",
+        "date": "2025-12-23 08:59",
+        "link": "https://n.news.naver.com/mnews/article/138/0002213367?sid=105"
+    },
+    {
+        "title": "풍원정밀, OLED FMM 국산화 분수령 [모닝 리포트]",
+        "date": "2025-12-23 08:54",
+        "link": "https://www.newspim.com/news/view/20251223000084"
+    },
+    {
+        "title": "[예규·판례] ‘유리’인가 ‘부품’인가…차량용 커버글라스 품목분류...",
+        "date": "2025-12-23 08:26",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=199320"
+    },
+    {
+        "title": "[정옥재의 스마트 라이프] ‘아이패드 미니 비켜~’…샤오미 패드 미니...",
+        "date": "2025-12-23 08:21",
+        "link": "https://n.news.naver.com/mnews/article/658/0000130049?sid=101"
+    },
+    {
+        "title": "[클릭 e종목]풍원정밀, OLED 핵심 부품 국산화…日독점시장 도전장",
+        "date": "2025-12-23 07:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005697348?sid=101"
+    },
+    {
+        "title": "이탈리아 경쟁당국, 애플에 과징금 1700억원…앱시장 지위 남용",
+        "date": "2025-12-23 06:48",
+        "link": "https://n.news.naver.com/mnews/article/374/0000482119?sid=101"
+    },
+    {
+        "title": "[2025 업종 결산] ②가전·모바일·디스플레이",
+        "date": "2025-12-23 05:20",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202512220944595380675"
+    },
+    {
         "title": "플레이나이트라이드, 루미오드 인수로 AR 글래스 기술 경쟁력 강화",
         "date": "2025-12-22 23:06",
         "link": "https://www.thelec.kr/news/articleView.html?idxno=50054"
@@ -23,6 +548,11 @@
         "title": "이탈리아 경쟁당국, 애플에 1700억 과징금… 앱 시장서 절대적 지배력...",
         "date": "2025-12-22 20:57",
         "link": "https://www.newspim.com/news/view/20251222001171"
+    },
+    {
+        "title": "이탈리아 경쟁당국, 애플에 과징금 1,700억 원...앱 시장 지위 남용",
+        "date": "2025-12-22 20:44",
+        "link": "https://n.news.naver.com/mnews/article/052/0002290895?sid=104"
     },
     {
         "title": "애플에 과징금 1,700억…이탈리아 당국 “앱시장 지위 남용”",
@@ -313,6 +843,11 @@
         "title": "5년 만의 대수술…맥북프로, OLED·터치까지 품는다",
         "date": "2025-12-22 09:10",
         "link": "https://n.news.naver.com/mnews/article/138/0002213227?sid=105"
+    },
+    {
+        "title": "삼성전자, 아이폰 폴드 겨냥 '와이드 갤럭시Z 폴드' 개발 중",
+        "date": "2025-12-22 09:08",
+        "link": "https://kbench.com/?q=node/274574"
     },
     {
         "title": "세계 최초 ‘주름 없는 폴더블폰’ 타이틀, 애플보다 中이 먼저 가져갈...",
