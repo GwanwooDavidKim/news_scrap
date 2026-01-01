@@ -1,5 +1,280 @@
 [
     {
+        "title": "삼성 새해 첫 제품은...버티컬 픽셀 담은 QD-OLED",
+        "date": "2026-01-01 13:45",
+        "link": "https://n.news.naver.com/mnews/article/658/0000131007?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, V-스트라이프 QD-OLED 출시",
+        "date": "2026-01-01 13:35",
+        "link": "https://n.news.naver.com/mnews/article/031/0000993538?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 세로줄 RGB 픽셀 적용한 퀀텀닷 OLED 패널 출시",
+        "date": "2026-01-01 13:15",
+        "link": "https://n.news.naver.com/mnews/article/469/0000906436?sid=105"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 본격 공급",
+        "date": "2026-01-01 13:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005456849?sid=101"
+    },
+    {
+        "title": "삼성D, 세계 최초 ‘줄무늬 구조’ OLED 패널 양산…“글로벌 고객 7곳 ...",
+        "date": "2026-01-01 13:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004573661?sid=101"
+    },
+    {
+        "title": "[CES 2026] 삼성디스플레이, 세계 최초 V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 12:50",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724037"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360Hz 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 12:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=243019"
+    },
+    {
+        "title": "오로지 아이폰 덕분? 애플 성장시킨 이것의 비밀 [IT+]",
+        "date": "2026-01-01 12:20",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006490?sid=105"
+    },
+    {
+        "title": "정부, 8조원 R&amp;D종합계획 본격 추진 “도전적 연구 촉진”",
+        "date": "2026-01-01 12:19",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214074?sid=105"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 본격 공급",
+        "date": "2026-01-01 12:08",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2026/01/01/2026010180041.html"
+    },
+    {
+        "title": "소재 하나로 구조를 바꿨다… 덕산네오룩스의 결정적 카드",
+        "date": "2026-01-01 12:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=412632"
+    },
+    {
+        "title": "[신년기획]산업별 AI 전망-디스플레이, 8.6세대·뉴 폼팩터 개화",
+        "date": "2026-01-01 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003385915?sid=105"
+    },
+    {
+        "title": "발로란트 하기 좋은 게이밍 마우스, 뭐가 있을까?",
+        "date": "2026-01-01 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57494"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360Hz ‘V-스트라이프’ QD-OLED 본격 공급",
+        "date": "2026-01-01 11:51",
+        "link": "https://n.news.naver.com/mnews/article/009/0005614955?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 11:20",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3358297"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 선보여",
+        "date": "2026-01-01 11:18",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=256435"
+    },
+    {
+        "title": "삼성D 세계 최초 'V-스트라이프' QD-OLED 출시",
+        "date": "2026-01-01 11:16",
+        "link": "https://n.news.naver.com/mnews/article/215/0001236402?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 10:44",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4305901"
+    },
+    {
+        "title": "폴더블 힌지의 반격…KH바텍, 다시 성장 궤도에 올라서나",
+        "date": "2026-01-01 10:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=412580"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 V-스트라이프 QD-OLED 출시",
+        "date": "2026-01-01 10:38",
+        "link": "https://www.ajunews.com/view/20260101100206968"
+    },
+    {
+        "title": "“병오년 기대작”…삼성D, ‘V-스트라이프’ QD-OLED 출격",
+        "date": "2026-01-01 10:36",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1286474&inflow=N"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 양산",
+        "date": "2026-01-01 10:29",
+        "link": "https://n.news.naver.com/mnews/article/008/0005299129?sid=101"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 10:20",
+        "link": "https://www.newspim.com/news/view/20260101000130"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 출시",
+        "date": "2026-01-01 10:10",
+        "link": "https://www.g-enews.com/view.php?ud=202601011004124096ed0c62d49_1"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 10:02",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=825418"
+    },
+    {
+        "title": "삼성D, 세계 최초 360㎐ ‘V-스트라이프’ QD-OLED 공급",
+        "date": "2026-01-01 09:49",
+        "link": "https://n.news.naver.com/mnews/article/029/0003002411?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 09:44",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=221664"
+    },
+    {
+        "title": "삼성D, 세계 최초 360㎐ 'V-스트라이프' QD-OLED 본격 출시",
+        "date": "2026-01-01 09:40",
+        "link": "https://n.news.naver.com/mnews/article/277/0005700957?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 V-스트라이프 QD-OLED 출시",
+        "date": "2026-01-01 09:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013687225?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 7개 고객사에 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 09:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002404389?sid=105"
+    },
+    {
+        "title": "삼성D, 세계 최초 'V-스트라이프' QD-OLED 본격 공급",
+        "date": "2026-01-01 09:32",
+        "link": "https://n.news.naver.com/mnews/article/119/0003043611?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, '가독성 혁신' V-스트라이프 QD-OLED 세계 최초 출시",
+        "date": "2026-01-01 09:32",
+        "link": "https://n.news.naver.com/mnews/article/421/0008690224?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 09:30",
+        "link": "https://n.news.naver.com/mnews/article/374/0000483719?sid=101"
+    },
+    {
+        "title": "삼성D, 'V-스트라이프' 구조 360㎐ QD-OLED 첫 양산",
+        "date": "2026-01-01 09:29",
+        "link": "https://n.news.naver.com/mnews/article/030/0003385862?sid=105"
+    },
+    {
+        "title": "日 메이코, 베트남에 ‘삼성 AI 폰’ 핵심 기판 공장 설립… 400억 엔 투...",
+        "date": "2026-01-01 09:28",
+        "link": "https://www.g-enews.com/view.php?ud=2026010109242493910c8c1c064d_1"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 ‘V-스트라이프’ 360Hz QD-OLED 출시",
+        "date": "2026-01-01 09:25",
+        "link": "https://n.news.naver.com/mnews/article/366/0001133524?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 09:24",
+        "link": "https://www.etoday.co.kr/news/view/2541376"
+    },
+    {
+        "title": "삼성디스플레이, 360Hz 'V-스트라이프' QD-OLED 본격 공급",
+        "date": "2026-01-01 09:20",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=118444"
+    },
+    {
+        "title": "삼성D, 에이수스 등 7곳에 'V-스트라이프' QD-OLED 공급",
+        "date": "2026-01-01 09:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006193170?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 09:18",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=705679"
+    },
+    {
+        "title": "세계 최초 'V-스트라이프' 등장… 삼성디스플레이 360Hz QD-OLED 공개",
+        "date": "2026-01-01 09:01",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=106852"
+    },
+    {
+        "title": "삼성전자, 델 출신 고객 전문가 영입…북미 공략 강화",
+        "date": "2026-01-01 09:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004573604?sid=101"
+    },
+    {
+        "title": "단체장 2026년 신년사 병오년, 불확실성의 장벽을 뚫고 거침없는 질주...",
+        "date": "2026-01-01 09:00",
+        "link": "http://www.ktnews.com/news/articleView.html?idxno=143194"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360Hz 'V-스트라이프' QD-OLED 본격 공급",
+        "date": "2026-01-01 08:58",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=107361"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최초 360㎐ V-스트라이프 QD-OLED 공급",
+        "date": "2026-01-01 08:47",
+        "link": "https://n.news.naver.com/mnews/article/001/0015823758?sid=101"
+    },
+    {
+        "title": "“게이머 노린다”⋯ 삼성D, ‘V-스트라이프’ QD-OLED 출시",
+        "date": "2026-01-01 08:46",
+        "link": "https://www.viva100.com/article/20260101500053"
+    },
+    {
+        "title": "삼성D, 세계 최초 360Hz 'V-스트라이프' QD-OLED 본격 공급 에이수스-MSI ...",
+        "date": "2026-01-01 08:14",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=70704"
+    },
+    {
+        "title": "삼성디스플레이, CES서 세계 최초 'V-스트라이프' QD-OLED 첫 선",
+        "date": "2026-01-01 08:04",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260101010000026"
+    },
+    {
+        "title": "400만원짜리 '아이폰 폴드' 이걸 누가 사…애플 첫 '접는' 아이폰 어떻...",
+        "date": "2026-01-01 08:04",
+        "link": "https://n.news.naver.com/mnews/article/011/0004573594?sid=101"
+    },
+    {
+        "title": "'접는 아이폰' 올해 드디어 나온다...가격은 400만원 아닌 290만원?",
+        "date": "2026-01-01 08:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005299085?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤Z7’ 진입에도 AP 점유율 5위…‘엑시노스 2600’으로 반등...",
+        "date": "2026-01-01 07:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025123114344749037"
+    },
+    {
+        "title": "“주름 없다더니 진짜였다”… 애플 '아이폰 폴드', 두께·가격까지 다...",
+        "date": "2026-01-01 06:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003385838?sid=104"
+    },
+    {
+        "title": "[2026 키워드] LCD 시대 저물고 OLED 승부처로…삼성·LG 갈림길",
+        "date": "2026-01-01 06:00",
+        "link": "https://www.newspim.com/news/view/20251230000512"
+    },
+    {
+        "title": "[미리보는 CES] AI 로봇부터 전장까지… LG, AI 미래 먹거리 정조준",
+        "date": "2026-01-01 06:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001122295?sid=101"
+    },
+    {
+        "title": "[미리보는 CES] ② AI가 바꾸는 미래 일상…국내 기업 신제품 총출동",
+        "date": "2026-01-01 06:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015823560?sid=101"
+    },
+    {
         "title": "[초점] 애플 차세대 아이폰 프로, ‘완전 무공 디스플레이’로 업계 판...",
         "date": "2026-01-01 01:00",
         "link": "https://www.g-enews.com/view.php?ud=2025123119542571399a1f309431_1"
@@ -253,5 +528,10 @@
         "title": "내년 노트북 출하량 최대 10% 감소…삼성·애플만 웃는다? [모닝폰]",
         "date": "2025-12-31 08:44",
         "link": "https://n.news.naver.com/mnews/article/018/0006192504?sid=105"
+    },
+    {
+        "title": "애플, 삼성. SK하이닉스와 D램 공급 계약 내달 종료. 추가 계약 추진",
+        "date": "2025-12-31 08:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540360"
     }
 ]
