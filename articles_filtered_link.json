@@ -1,5 +1,685 @@
 [
     {
+        "title": "삼성·LG전자, '마이크로 RGB TV' 전면에…中 따돌리고 프리미엄 시장 ...",
+        "date": "2026-01-06 05:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003044892?sid=101"
+    },
+    {
+        "title": "삼성 ‘초대형’, LG ‘초슬림’… 차세대 프리미엄 TV 대결",
+        "date": "2026-01-06 00:59",
+        "link": "https://n.news.naver.com/mnews/article/005/0001824351?sid=101"
+    },
+    {
+        "title": "OLED Becomes Mainstream Beyond Mobile: Monitors and Laptops Follow Suit",
+        "date": "2026-01-06 00:50",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=260268"
+    },
+    {
+        "title": "Premium TV War: Samsung's Size vs LG's Thickness",
+        "date": "2026-01-06 00:40",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=260266"
+    },
+    {
+        "title": "OECD·G20 ‘글로벌최저한세’ 개편방안 발표…美 구글·애플 제외될 듯",
+        "date": "2026-01-05 23:17",
+        "link": "https://n.news.naver.com/mnews/article/022/0004095353?sid=101"
+    },
+    {
+        "title": "[CES 2026] K디스플레이의 자존심 대결... AI 입은 OLED, 화질 넘어 '경험...",
+        "date": "2026-01-05 22:48",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724461"
+    },
+    {
+        "title": "美 구글·애플, 글로벌 최저한세 제외…미국 투자 韓 기업도 혜택",
+        "date": "2026-01-05 22:44",
+        "link": "https://n.news.naver.com/mnews/article/421/0008697237?sid=101"
+    },
+    {
+        "title": "올레드보다 한계 있지만…LG전자, 마이크로 RGB는 'LCD TV의 정점'",
+        "date": "2026-01-05 22:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214363?sid=105"
+    },
+    {
+        "title": "초슬림·LCD 최상위·AI LG전자, 세 가지 TV 전략",
+        "date": "2026-01-05 22:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214361?sid=105"
+    },
+    {
+        "title": "“차라리 핫도그나 접어라” “한국서만 팔린다” 조롱받던 삼성…‘결...",
+        "date": "2026-01-05 21:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002581336?sid=105"
+    },
+    {
+        "title": "9㎜ 초슬림, 130형 압도적…TV 진화는 계속된다",
+        "date": "2026-01-05 21:29",
+        "link": "https://n.news.naver.com/mnews/article/032/0003419592?sid=105"
+    },
+    {
+        "title": "출시 늦춘 삼성 vs ‘아이폰’ 공개 건너뛰는 애플…달라진 새해 스마트...",
+        "date": "2026-01-05 20:50",
+        "link": "https://www.g-enews.com/view.php?ud=2026010515091349886ed0c62d49_1"
+    },
+    {
+        "title": "대한상의 참관단, '피지컬 AI' 흐름 직접 본다…엔비디아·애플·구글 찾...",
+        "date": "2026-01-05 20:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214358?sid=004"
+    },
+    {
+        "title": "김해시 '자동차부품 기업지원 사업' 가시적 성과",
+        "date": "2026-01-05 19:56",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=627454"
+    },
+    {
+        "title": "[CES2026]LG, AI·OLED 앞세워...가전부터 차량까지 생태계 확장",
+        "date": "2026-01-05 19:02",
+        "link": "http://www.metroseoul.co.kr/article/20260105500581"
+    },
+    {
+        "title": "[CES2026]삼성전자, AI 비전 제시...130형 마이크로 RGB TV 첫선",
+        "date": "2026-01-05 19:02",
+        "link": "http://www.metroseoul.co.kr/article/20260105500585"
+    },
+    {
+        "title": "'인도산 아이폰' 출하액, 약 5년 만에 72조원 돌파",
+        "date": "2026-01-05 18:57",
+        "link": "https://www.newspim.com/news/view/20260105001097"
+    },
+    {
+        "title": "전 직원에 애플워치·에어팟·500만원 쏜 통큰 회사 어디?",
+        "date": "2026-01-05 18:56",
+        "link": "https://n.news.naver.com/mnews/article/009/0005616794?sid=101"
+    },
+    {
+        "title": "LGD, TV·차량용 OLED 풀라인업 출격 [CES 2026]",
+        "date": "2026-01-05 18:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005458435?sid=101"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, AI 최적화 OLED로 대형·차량용 시장 공략",
+        "date": "2026-01-05 18:34",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=346743"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개...'최고 기술력' 보여준다",
+        "date": "2026-01-05 18:30",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=568649"
+    },
+    {
+        "title": "시프트업, 전 직원에 애플워치·에어팟·500만원 깜짝 선물",
+        "date": "2026-01-05 18:28",
+        "link": "https://n.news.naver.com/mnews/article/001/0015830285?sid=105"
+    },
+    {
+        "title": "[2026CES] 삼성전자 모든 제품에 AI 적용…대중화 전략으로 선도기업 ...",
+        "date": "2026-01-05 18:28",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7143960"
+    },
+    {
+        "title": "프리미엄TV 대전… 초고화질 삼성·초슬림 LG, 中 따돌린다 [CES 2026]",
+        "date": "2026-01-05 18:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005458410?sid=101"
+    },
+    {
+        "title": "삼성 'AI 일상' vs LG '초슬림 TV'…기술 경쟁 포문 열었다",
+        "date": "2026-01-05 18:16",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260106010001888"
+    },
+    {
+        "title": "전북대 강재욱 교수팀, 잉크젯 기반 광전소자 실용화 기술 개발",
+        "date": "2026-01-05 18:14",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=788752"
+    },
+    {
+        "title": "[CES 2026] 삼성 '130형' vs LG '올레드 DNA'…RGB TV 정면승부",
+        "date": "2026-01-05 18:12",
+        "link": "https://www.newspim.com/news/view/20260105001045"
+    },
+    {
+        "title": "[CES 2026] 노태문의 자신감 최고의 AI 경험, 삼성만 가능… 'AI 컴패니...",
+        "date": "2026-01-05 18:02",
+        "link": "https://www.ajunews.com/view/20260105154419955"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 18:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=825916"
+    },
+    {
+        "title": "[CES 2026] 피지컬·홈 AI 기술 대향연…韓·中 참가 업체 크게 줄어",
+        "date": "2026-01-05 17:58",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=825809"
+    },
+    {
+        "title": "전북대 강재욱 교수팀, 잉크젯 기반 광전소자 실용화 기술 개발",
+        "date": "2026-01-05 17:56",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=101327"
+    },
+    {
+        "title": "갤럭시 S26+, 출시 앞서 인도에서 BIS 인증 획득",
+        "date": "2026-01-05 17:54",
+        "link": "https://kbench.com/?q=node/274919"
+    },
+    {
+        "title": "삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 17:52",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=131564"
+    },
+    {
+        "title": "LG디스플레이 '4500니트' 구현 성공…CES서 기술 과시 [CES 2026]",
+        "date": "2026-01-05 17:49",
+        "link": "https://n.news.naver.com/mnews/article/015/0005232957?sid=101"
+    },
+    {
+        "title": "[CES 2026] 노태문 사장 삼성 AI, 일상 동반자로",
+        "date": "2026-01-05 17:34",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=856030"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, 차별화된 기술력으로 완성한 OLED 제품 공개",
+        "date": "2026-01-05 17:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724423"
+    },
+    {
+        "title": "LG·삼성디스플레이, OLED로 그리는 AI 시대…CES 2026서 '경험의 진화' ...",
+        "date": "2026-01-05 17:12",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=107640"
+    },
+    {
+        "title": "LG전자, CES 2026서 초슬림 무선 월페이퍼 TV 공개",
+        "date": "2026-01-05 17:10",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=256565"
+    },
+    {
+        "title": "삼성전자, CES 2026서 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 17:00",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=257428"
+    },
+    {
+        "title": "[뉴스1 PICK]삼성전자 '더 퍼스트룩' 개최…당신의 AI 일상 동반자",
+        "date": "2026-01-05 16:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008696905?sid=101"
+    },
+    {
+        "title": "[CES 2026] LGD, 대형·차량용 OLED 공개… 기술력 입증",
+        "date": "2026-01-05 16:49",
+        "link": "https://n.news.naver.com/mnews/article/417/0001122938?sid=101"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 130형 마이크로 RGB TV 공개 초프리미엄 TV 시장 공...",
+        "date": "2026-01-05 16:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=247049"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:44",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293253487192"
+    },
+    {
+        "title": "빛 흡수·분산기술로 반사율 '0.3%' 달성 LGD, 4500니트 'OLED TV패널' 선...",
+        "date": "2026-01-05 16:44",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=119018"
+    },
+    {
+        "title": "삼성전자, 'AI 일상의 동반자' 선언…전제품에 AI 적용",
+        "date": "2026-01-05 16:42",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=706574"
+    },
+    {
+        "title": "삼성전자, CES 2026 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 16:36",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=190346"
+    },
+    {
+        "title": "삼성전자, 美 CES 2026서 AI 일상의 동반자 비전 선봬",
+        "date": "2026-01-05 16:36",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=289598"
+    },
+    {
+        "title": "삼성전자 노태문 대표, 모든 제품군∙서비스에 AI적용, AI경험 대중화 ...",
+        "date": "2026-01-05 16:36",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=37997"
+    },
+    {
+        "title": "SDC, 애플 폴더블 납품 계획 진척 '이상 無'",
+        "date": "2026-01-05 16:34",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42265"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, CES 2026서 OLED 전략 제품 공개",
+        "date": "2026-01-05 16:32",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=247034"
+    },
+    {
+        "title": "노태문 삼성전자 사장, '집안일 해방' 선언...모든 제품에 AI 탑재",
+        "date": "2026-01-05 16:32",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=238618"
+    },
+    {
+        "title": "[CES 2026]삼성전자, CES 최고 혁신상 받은 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:30",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1322106"
+    },
+    {
+        "title": "[CES 2026] LGD, OLED 전략제품 공개…기술 리더십 부각",
+        "date": "2026-01-05 16:28",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2173405"
+    },
+    {
+        "title": "AI 입은 TV와 스마트홈…삼성은 ‘넓게’, LG는 ‘얇게’",
+        "date": "2026-01-05 16:27",
+        "link": "https://n.news.naver.com/mnews/article/020/0003686913?sid=101"
+    },
+    {
+        "title": "[CES 2026] 압도적, 놀랍다 삼성 TV·폴더블폰에 쏟아진 찬사",
+        "date": "2026-01-05 16:24",
+        "link": "https://n.news.naver.com/mnews/article/001/0015830118?sid=101"
+    },
+    {
+        "title": "[30대 기업 결산] [LG] ② 디스플레이, OLED 승부수...4년 만에 흑자 ‘터...",
+        "date": "2026-01-05 16:23",
+        "link": "https://www.topdaily.kr/articles/107804"
+    },
+    {
+        "title": "[CES 2026] “화질 혁신 정점”⋯ 삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:22",
+        "link": "https://www.viva100.com/article/20260105501411"
+    },
+    {
+        "title": "삼성전자, CES 2026서 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 16:22",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=207421"
+    },
+    {
+        "title": "화면 너비만 3m에 OLED급 화질...삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:20",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=306828"
+    },
+    {
+        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
+        "date": "2026-01-05 16:20",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73631"
+    },
+    {
+        "title": "삼성전자, CES서 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 16:18",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=76969"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:12",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=200158"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
+        "date": "2026-01-05 16:10",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=352991"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 16:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724391"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, AI 일상의 동반자 비전 선보이다",
+        "date": "2026-01-05 16:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724383"
+    },
+    {
+        "title": "[CES26] 삼성D·LGD, LCD 시장 'OLED'로 대체…'AI·자동차' 공략",
+        "date": "2026-01-05 16:08",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148300"
+    },
+    {
+        "title": "노태문 사장 모든 제품군에 AI적용…AI대중화 선도할 것",
+        "date": "2026-01-05 16:08",
+        "link": "https://www.g-enews.com/view.php?ud=2026010515522025276ed0c62d49_1"
+    },
+    {
+        "title": "프리미엄 TV 전쟁 크기냐 두께냐…삼성 130형 TV vs LG 9㎜ TV 격돌",
+        "date": "2026-01-05 16:05",
+        "link": "https://n.news.naver.com/mnews/article/421/0008696787?sid=101"
+    },
+    {
+        "title": "삼성·LG, CES서 게이밍 모니터 정면승부…5K·6K 시대 왔다",
+        "date": "2026-01-05 16:04",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=153862"
+    },
+    {
+        "title": "[Y인사이트] 엘코스 택한 메타…라온텍, AR 글래스 표준경쟁 우위",
+        "date": "2026-01-05 16:02",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=50533"
+    },
+    {
+        "title": "[CES 2026] 삼성 '초대형', LG '초슬림'… 中 공세 제치고 프리미엄 TV 진...",
+        "date": "2026-01-05 16:00",
+        "link": "https://www.ajunews.com/view/20260105134849778"
+    },
+    {
+        "title": "삼성 초대형·LG 초슬림…CES서 초격차 TV 대전",
+        "date": "2026-01-05 15:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003386922?sid=105"
+    },
+    {
+        "title": "삼성·애플, 신작 스마트폰 가격 인상 불가피",
+        "date": "2026-01-05 15:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003386918?sid=105"
+    },
+    {
+        "title": "삼성·LG전자, 'CES 2026'서 AI·초개인화 신제품 대거 공개",
+        "date": "2026-01-05 15:58",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=353004"
+    },
+    {
+        "title": "모토로라, 2026 스마트폰 라인업 유출…폴더블·플래그십 대거 공개",
+        "date": "2026-01-05 15:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=618388"
+    },
+    {
+        "title": "모바일 넘어 모니터·노트북도 OLED가 대세",
+        "date": "2026-01-05 15:54",
+        "link": "https://n.news.naver.com/mnews/article/015/0005232813?sid=101"
+    },
+    {
+        "title": "삼성 트라이폴드·애플 첫 폴더블폰 격돌",
+        "date": "2026-01-05 15:53",
+        "link": "https://n.news.naver.com/mnews/article/015/0005232812?sid=101"
+    },
+    {
+        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
+        "date": "2026-01-05 15:50",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289728735821"
+    },
+    {
+        "title": "드리미, CES 2026서 스마트홈 생태계 소개",
+        "date": "2026-01-05 15:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002404705?sid=105"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:48",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=118742"
+    },
+    {
+        "title": "[CES 2026] LG전자, 무선 월페이퍼 올레드 TV로 초슬림·무선 기술 혁신",
+        "date": "2026-01-05 15:48",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=247020"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:46",
+        "link": "https://www.g-enews.com/view.php?ud=202601051537111836ed0c62d49_1"
+    },
+    {
+        "title": "갤S25에 45만원 더…KT 위약금 면제, 단통법 폐지 후 이통3사 전면전",
+        "date": "2026-01-05 15:41",
+        "link": "https://n.news.naver.com/mnews/article/277/0005702311?sid=105"
+    },
+    {
+        "title": "삼성·LG, CES 2026서 정면승부…마이크로 RGB TV·게이밍 모니터 맞불",
+        "date": "2026-01-05 15:38",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6921107"
+    },
+    {
+        "title": "[AI의 종목 이야기] 中 2개 국영통신사, 스마트안경 '레이네오' 신규 투...",
+        "date": "2026-01-05 15:38",
+        "link": "https://www.newspim.com/news/view/20260105000837"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130인치 마이크로 RGB TV 선봬",
+        "date": "2026-01-05 15:36",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=280046"
+    },
+    {
+        "title": "AI 경험 대중화…삼성전자, CES 2026서 '더 퍼스트 룩' 행사 개최",
+        "date": "2026-01-05 15:36",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=280049"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
+        "date": "2026-01-05 15:34",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=280043"
+    },
+    {
+        "title": "삼성전자, 130형 마이크로 RGB TV 공개 [CES 2026]",
+        "date": "2026-01-05 15:34",
+        "link": "https://news.mtn.co.kr/news-detail/2026010515315110851"
+    },
+    {
+        "title": "삼성 노태문·LG 류재철, CES서 글로벌 데뷔…'실적 부진·中 추격' 돌파...",
+        "date": "2026-01-05 15:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=413983"
+    },
+    {
+        "title": "[CES 2026] 삼성·LG전자, 마이크로 TGB TV 상용화…LCD TV 시장서 중국과...",
+        "date": "2026-01-05 15:32",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=24899"
+    },
+    {
+        "title": "삼성전자, CES 2026서 전시•콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
+        "date": "2026-01-05 15:32",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=96626"
+    },
+    {
+        "title": "초슬림·무선 전송·AI 화질 혁신! LG전자, CES 2026서 '올레드 에보 W6' ...",
+        "date": "2026-01-05 15:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540472"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:30",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202601051304462651de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자 일상 속 AI 동반자 돼 'AI 경험 대중화' 선도하겠다",
+        "date": "2026-01-05 15:28",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=86191"
+    },
+    {
+        "title": "[CES 2026] '최종보스급' 전장 OLED 기술력 선보인 LG디스플레이",
+        "date": "2026-01-05 15:24",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=130674"
+    },
+    {
+        "title": "LG전자, 연필 한 자루 두께에 스피커까지 내장 '초슬림' 무선 월페이퍼...",
+        "date": "2026-01-05 15:24",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/100370"
+    },
+    {
+        "title": "“올해는 마이크로 RGB 맞대결”...삼성·LG, 프리미엄 TV 시장 선점 경...",
+        "date": "2026-01-05 15:18",
+        "link": "https://www.etoday.co.kr/news/view/2542287"
+    },
+    {
+        "title": "[CES26] TV·가전, 中 추격 떨칠 삼성전자·LG전자의 해법은?",
+        "date": "2026-01-05 15:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148297"
+    },
+    {
+        "title": "[CES2026]삼성전자, '압도적 크기' 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:14",
+        "link": "http://www.metroseoul.co.kr/article/20260105500467"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 'AI 맞춤형 OLED' 대거 공개… 화질·차량용 혁...",
+        "date": "2026-01-05 15:14",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=67260"
+    },
+    {
+        "title": "화면이 공중에 떴다?…업계를 발칵 뒤집은 '130인치 괴물' 삼성 신제품 ...",
+        "date": "2026-01-05 15:14",
+        "link": "https://www.wikitree.co.kr/articles/1107432"
+    },
+    {
+        "title": "[CES2026]LG전자, 무선 월페이퍼 올레드 TV 선봬...초슬림화·화질 혁신...",
+        "date": "2026-01-05 15:12",
+        "link": "http://www.metroseoul.co.kr/article/20260105500465"
+    },
+    {
+        "title": "유리만큼 얇은 마이크로 LED 디스플레이",
+        "date": "2026-01-05 15:10",
+        "link": "https://n.news.naver.com/mnews/article/011/0004574877?sid=101"
+    },
+    {
+        "title": "[CES 2026]삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0008696540?sid=105"
+    },
+    {
+        "title": "[CES 2026] '130형'으로 판 키운다…삼성전자, 마이크로 RGB TV 공개",
+        "date": "2026-01-05 15:06",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=346681"
+    },
+    {
+        "title": "[재계는 지금] 카카오, 한국형 하이브리드 멀티모달 언어모델 공개 外",
+        "date": "2026-01-05 15:00",
+        "link": "https://dealsite.co.kr/articles/154430"
+    },
+    {
+        "title": "삼성전자, CES 2026서 'AI와 사는 일상' 보여준다",
+        "date": "2026-01-05 14:56",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=123759"
+    },
+    {
+        "title": "노태문 삼성전자 대표 모든 제품군?서비스에 AI 적용",
+        "date": "2026-01-05 14:55",
+        "link": "http://thetracker.co.kr/View.aspx?No=3913928"
+    },
+    {
+        "title": "[CES 2026] AI로 연결된 스마트홈...삼성전자 'AI 일상' 제시",
+        "date": "2026-01-05 14:52",
+        "link": "https://www.newstree.kr/newsView/ntr202601050011"
+    },
+    {
+        "title": "두께 단 '9㎜'에 화면밝기 3.9배↑ LG전자, 초슬림 '무선 월페이퍼 TV'...",
+        "date": "2026-01-05 14:50",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=119009"
+    },
+    {
+        "title": "삼성전자, CES 2026서 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 14:48",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202601051446399026be44c0aacd_30"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 'AI 일상의 동반자' 선언…모든 제품에 AI 적용",
+        "date": "2026-01-05 14:48",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=108985"
+    },
+    {
+        "title": "“드디어 70만원대 맥북?”… 애플, 올 상반기 저가형 맥북 출시 전망",
+        "date": "2026-01-05 14:47",
+        "link": "https://n.news.naver.com/mnews/article/030/0003386858?sid=104"
+    },
+    {
+        "title": "[CES2026 현장] '다음 TV는 무엇인가'에 답 내놓은 LG전자···OLED·초대...",
+        "date": "2026-01-05 14:46",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=338505"
+    },
+    {
+        "title": "삼성전자, CES 2026서 'AI 일상의 동반자' 비전 공개",
+        "date": "2026-01-05 14:43",
+        "link": "https://n.news.naver.com/mnews/article/243/0000090671?sid=105"
+    },
+    {
+        "title": "강재욱 전북대 교수팀, 잉크젯 기반 고성능 유기발광소재 개발",
+        "date": "2026-01-05 14:42",
+        "link": "https://n.news.naver.com/mnews/article/031/0000994262?sid=102"
+    },
+    {
+        "title": "[CES 라이브]'AI 대중화' 내건 노태문의 데뷔 무대",
+        "date": "2026-01-05 14:36",
+        "link": "https://n.news.naver.com/mnews/article/648/0000043225?sid=101"
+    },
+    {
+        "title": "[CES 2026] 노태문 대표 데뷔전… 전사 역량 모아 AI 동반자 도약",
+        "date": "2026-01-05 14:35",
+        "link": "https://n.news.naver.com/mnews/article/417/0001122881?sid=101"
+    },
+    {
+        "title": "[CES 2026] 삼성전자 노태문 모든 제품·서비스에 AI적용, 대중화 선도...",
+        "date": "2026-01-05 14:34",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2173240"
+    },
+    {
+        "title": "안효섭·라이즈 깜짝 등장시킨 삼성전자…‘스타 마케팅’ 총공세로 분...",
+        "date": "2026-01-05 14:32",
+        "link": "https://n.news.naver.com/mnews/article/016/0002581172?sid=101"
+    },
+    {
+        "title": "삼성전자, CES 2026서 '당신의 AI 일상 동반자' AI 비전 발표",
+        "date": "2026-01-05 14:32",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=269893"
+    },
+    {
+        "title": "애플워치 사용자들...작심삼일 넘기고 운동시간 꾸준히 늘었다",
+        "date": "2026-01-05 14:28",
+        "link": "https://n.news.naver.com/mnews/article/050/0000100574?sid=101"
+    },
+    {
+        "title": "[CES '26] LG전자, 종잇장 무게 초슬림 TV로 글로벌 시장 선도",
+        "date": "2026-01-05 14:28",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1693825"
+    },
+    {
+        "title": "'아이온2' 최적화 PC 출시…디바이스-게임사 윈윈 전략",
+        "date": "2026-01-05 14:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006194935?sid=105"
+    },
+    {
+        "title": "CES 2026 달구는 한·중 TV 전쟁…삼성 '초대형' ·LG '초슬림'으로 주도...",
+        "date": "2026-01-05 14:21",
+        "link": "https://n.news.naver.com/mnews/article/015/0005232732?sid=101"
+    },
+    {
+        "title": "[CES 2026] 압도적 화면 크기와 혁신적 디자인이 결합 ... 삼성전자, 130...",
+        "date": "2026-01-05 14:18",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=79478"
+    },
+    {
+        "title": "AI가 화질 최적화…삼성, 130인치 마이크로 RGB TV 공개 [CES 2026]",
+        "date": "2026-01-05 14:16",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154205"
+    },
+    {
+        "title": "삼성전자, 130인치 '마이크로 RGB TV' 선봬",
+        "date": "2026-01-05 14:12",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=50530"
+    },
+    {
+        "title": "마이크로 RGB TV 소개하는 용석우 삼성전자 사장",
+        "date": "2026-01-05 14:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015829499?sid=105"
+    },
+    {
+        "title": "마이크로 RGB TV 소개하는 용석우 삼성전자 사장",
+        "date": "2026-01-05 14:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015829500?sid=105"
+    },
+    {
+        "title": "LG디스플레이, CES서 '최고기술력' OLED 전략 제품 공개",
+        "date": "2026-01-05 14:10",
+        "link": "https://www.g-enews.com/view.php?ud=2026010511430498076ed0c62d49_1"
+    },
+    {
+        "title": "[CES2026] 삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 14:10",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2045499"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 14:04",
+        "link": "https://hbnpress.com/news/view/1065589302700037"
+    },
+    {
+        "title": "삼성전자, CES 2026서 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 14:04",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000088959"
+    },
+    {
+        "title": "[CES] 화면은 넓게, 프레임은 얇게···삼성전자, 130형 마이크로 RGB...",
+        "date": "2026-01-05 14:03",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=617522"
+    },
+    {
         "title": "삼성전자, CES 2026서 타임리스 프레임 디자인 적용한 130형 마이크로 R...",
         "date": "2026-01-05 14:00",
         "link": "https://www.cnet.co.kr/view/?no=20260105135520"
@@ -45,6 +725,11 @@
         "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=76430"
     },
     {
+        "title": "[CES 2026] 삼성전자, 130형 마이크로 RGB TV 공개",
+        "date": "2026-01-05 13:52",
+        "link": "https://news.dealsitetv.com/articles/163538"
+    },
+    {
         "title": "[CES 2026] LG전자, '무선 밀착 TV' 자신감…경쟁사는 못 붙인다",
         "date": "2026-01-05 13:52",
         "link": "https://www.newspim.com/news/view/20260105000558"
@@ -85,6 +770,11 @@
         "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=348304"
     },
     {
+        "title": "[CES 2026] LGD, 대형 OLED부터 차량용 혁신 기술 공개",
+        "date": "2026-01-05 13:42",
+        "link": "https://news.dealsitetv.com/articles/163537"
+    },
+    {
         "title": "삼성전자, CES 2026서 '130형 마이크로 RGB TV' 공개",
         "date": "2026-01-05 13:42",
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=805829"
@@ -95,7 +785,7 @@
         "link": "https://swtvnews.com/news/newsview.php?ncode=1065581192564427"
     },
     {
-        "title": "노태문 삼성전자 대표 모든 제품군∙서비스에 AI 적용할 것",
+        "title": "노태문 삼성전자 사장 모든 제품군∙서비스에 AI 적용할 것",
         "date": "2026-01-05 13:42",
         "link": "https://www.smarttoday.co.kr/ko-kr/articles/100357"
     },
@@ -165,7 +855,7 @@
         "link": "http://theviewers.co.kr/View.aspx?No=3913797"
     },
     {
-        "title": "노태문 삼성전자 사장, 모든 제품군∙서비스에 AI적용",
+        "title": "노태문 삼성전자 사장, 모든 제품군∙서비스에 AI 적용",
         "date": "2026-01-05 13:24",
         "link": "http://www.segyebiz.com/newsView/20260105508968?OutUrl=naver"
     },
@@ -365,6 +1055,11 @@
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540456"
     },
     {
+        "title": "[CES 2026] 삼성전자, 130형 마이크로 RGB TV로 초대형 시장 공략",
+        "date": "2026-01-05 12:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=96378"
+    },
+    {
         "title": "[CES 2026] '초대형' 끝판왕 등장… 삼성전자, 130형 마이크로 RGB TV 공...",
         "date": "2026-01-05 12:02",
         "link": "https://www.ajunews.com/view/20260105091948498"
@@ -410,17 +1105,17 @@
         "link": "https://n.news.naver.com/mnews/article/092/0002404651?sid=105"
     },
     {
-        "title": "삼성, CES서 초대형 마이크로 RGB TV 공개…압도적 시청 경험",
-        "date": "2026-01-05 12:01",
-        "link": "https://n.news.naver.com/mnews/article/079/0004101795?sid=101"
-    },
-    {
         "title": "TV인가, 작품인가 삼성전자 130형 마이크로 RGB TV 공개 [CES 2026]",
         "date": "2026-01-05 12:01",
         "link": "https://n.news.naver.com/mnews/article/014/0005458115?sid=101"
     },
     {
-        "title": "[현장] 두께가 겨우 0.9mm…LG전자 초슬림 TV, 옆에서 보니 와~",
+        "title": "삼성, CES서 초대형 마이크로 RGB TV 공개…압도적 시청 경험",
+        "date": "2026-01-05 12:01",
+        "link": "https://n.news.naver.com/mnews/article/079/0004101795?sid=101"
+    },
+    {
+        "title": "[현장]두께가 겨우 9mm대…LG전자 초슬림 TV, 옆에서 보니 와~",
         "date": "2026-01-05 12:01",
         "link": "https://n.news.naver.com/mnews/article/469/0000907005?sid=101"
     },
@@ -470,7 +1165,7 @@
         "link": "https://n.news.naver.com/mnews/article/119/0003044621?sid=101"
     },
     {
-        "title": "[영상] 두께 9mm에 이 기술이?…선 없애고 벽에 붙였다, 9년 만에 돌아...",
+        "title": "[영상] 두께 9mm대 이 기술이?…선 없애고 벽에 붙였다, 9년 만에 돌아...",
         "date": "2026-01-05 12:01",
         "link": "https://n.news.naver.com/mnews/article/011/0004574791?sid=101"
     },
@@ -545,16 +1240,6 @@
         "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=65382"
     },
     {
-        "title": "LG전자, '초슬림화 기술 집약체' 무선 월페이퍼 올레드 TV 선보인다",
-        "date": "2026-01-05 12:00",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=105191"
-    },
-    {
-        "title": "'연필 두께'로 보여준 기술 격차…LG, 13년 OLED TV 1위 굳힌다",
-        "date": "2026-01-05 12:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005300344?sid=101"
-    },
-    {
         "title": "LG전자, 무선 월페이퍼 올레드 TV 선보인다...“초슬림화 기술과 화질 혁...",
         "date": "2026-01-05 12:00",
         "link": "https://www.seoultimes.news/news/article.html?no=2000088909"
@@ -563,6 +1248,16 @@
         "title": "'AI 일상의 동반자'…삼성전자, CES 2026서 비전 공개",
         "date": "2026-01-05 12:00",
         "link": "https://n.news.naver.com/mnews/article/215/0001236712?sid=004"
+    },
+    {
+        "title": "LG전자, '초슬림화 기술 집약체' 무선 월페이퍼 올레드 TV 선보인다",
+        "date": "2026-01-05 12:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=105191"
+    },
+    {
+        "title": "'연필 두께'로 보여준 기술 격차…LG, 13년 OLED TV 1위 굳힌다",
+        "date": "2026-01-05 12:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005300344?sid=101"
     },
     {
         "title": "[CES 2026] LG전자, 9㎜ 초슬림 두께에 4K 무선 전송… '올레드 에보 W6' ...",
@@ -625,11 +1320,6 @@
         "link": "https://biz.newdaily.co.kr/site/data/html/2026/01/05/2026010500121.html"
     },
     {
-        "title": "[CES 2026] LGD, 대형·차량용 OLED 제품 대거 공개",
-        "date": "2026-01-05 11:20",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=718743"
-    },
-    {
         "title": "'OLED 명가' LG디스플레이, CES 2026서 대형·차량용 OLED 한자리에",
         "date": "2026-01-05 11:18",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=425790"
@@ -675,17 +1365,12 @@
         "link": "https://kbench.com/?q=node/274895"
     },
     {
-        "title": "로보락·드리미 中 '로청'기업 CES2026 총출동…스마트홈 생태계 경쟁[C...",
-        "date": "2026-01-05 11:04",
-        "link": "https://n.news.naver.com/mnews/article/011/0004574764?sid=101"
-    },
-    {
         "title": "[위클리오늘] 삼성전자, CES 2026서 '더 퍼스트룩' 개최···인공지능이...",
         "date": "2026-01-05 11:02",
         "link": "http://www.weeklytoday.com/news/articleView.html?idxno=749703"
     },
     {
-        "title": "“완판 행진에 판매 시간표 당겨”…갤럭시 Z 트라이폴드 6일 3차 출격",
+        "title": "대박 난 갤Z 트라이폴드, 6일부터 3차 판매 돌입",
         "date": "2026-01-05 11:01",
         "link": "https://n.news.naver.com/mnews/article/011/0004574760?sid=105"
     },
@@ -703,11 +1388,6 @@
         "title": "AI가 일상 동반자로 … 삼성전자, CES 2026 최대 규모 '더 퍼스트룩' 연...",
         "date": "2026-01-05 10:54",
         "link": "https://biz.newdaily.co.kr/site/data/html/2026/01/05/2026010500103.html"
-    },
-    {
-        "title": "TV부터 車까지…LG디스플레이, CES서 OLED 전략제품 공개",
-        "date": "2026-01-05 10:52",
-        "link": "https://www.ceoscoredaily.com/page/view/2026010510510052249"
     },
     {
         "title": "삼성전자, CES 2026서 전시∙콘퍼런스 통합 '더 퍼스트룩' 열어",
@@ -748,11 +1428,6 @@
         "title": "카카오페이손해보험, 휴대폰보험 개정…갤럭시 보상 한도 상향",
         "date": "2026-01-05 10:40",
         "link": "http://www.m-i.kr/news/articleView.html?idxno=1321883"
-    },
-    {
-        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 ‘더 퍼스트룩’ 개최",
-        "date": "2026-01-05 10:38",
-        "link": "https://www.cnbnews.com/news/article.html?no=771148"
     },
     {
         "title": "LG디스플레이, CES서 AI 최적화 OLED 공개",
@@ -890,7 +1565,7 @@
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=825765"
     },
     {
-        "title": "삼성디스플레이, CES 2026서 '미래 디스플레이' 제시",
+        "title": "[CES 2026] 삼성디스플레이, CES 2026서 '미래 디스플레이' 제시",
         "date": "2026-01-05 10:10",
         "link": "http://www.finomy.com/news/articleView.html?idxno=246949"
     },
@@ -920,7 +1595,7 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015828672?sid=105"
     },
     {
-        "title": "LG디스플레이, CES서 '최고 기술력' 집약한 OLED 제품 공개",
+        "title": "[CES 2026] LG디스플레이, CES서 '최고 기술력' 집약한 OLED 제품 공개",
         "date": "2026-01-05 10:06",
         "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4391808"
     },
@@ -1015,14 +1690,14 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004574717?sid=101"
     },
     {
+        "title": "[CES 2026] LGD, ‘AI 최적화’ OLED 게이밍·車 디스플레이 공개",
+        "date": "2026-01-05 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003002924?sid=105"
+    },
+    {
         "title": "위로 펼쳐지는 내비게이션…LGD, 車·TV OLED 신제품 공개",
         "date": "2026-01-05 10:00",
         "link": "https://n.news.naver.com/mnews/article/018/0006194730?sid=101"
-    },
-    {
-        "title": "[CES 2026]LGD, AI OLED로 게이밍부터 車까지 총망라",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003002924?sid=105"
     },
     {
         "title": "대형 및 차량용 OLED 집중 겨냥⋯LGD, 전략 제품 대거 공개 [CES 2026]",
@@ -1035,16 +1710,6 @@
         "link": "https://www.newspim.com/news/view/20260102000862"
     },
     {
-        "title": "대형 TV OLED부터 차량용 OLED까지 LGD, 혁신 제품 대거 공개 [CES 2026]",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/014/0005457986?sid=101"
-    },
-    {
-        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
-        "date": "2026-01-05 10:00",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1317936"
-    },
-    {
         "title": "LGD, CES 2026서 OLED 전략 제품 공개…기술 리더십 부각",
         "date": "2026-01-05 10:00",
         "link": "http://www.srtimes.kr/news/articleView.html?idxno=193456"
@@ -1055,14 +1720,19 @@
         "link": "http://www.newsdream.kr/news/articleView.html?idxno=104467"
     },
     {
+        "title": "대형 TV OLED부터 차량용 OLED까지 LGD, 혁신 제품 대거 공개 [CES 2026]",
+        "date": "2026-01-05 10:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005457986?sid=101"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
+        "date": "2026-01-05 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1317936"
+    },
+    {
         "title": "LG디스플레이, CES 2026서 OLED 기술 리더십 각인",
         "date": "2026-01-05 10:00",
         "link": "https://www.newswhoplus.com/news/articleView.html?idxno=50357"
-    },
-    {
-        "title": "LGD, CES 2026서 OLED 전략 제품 공개...기술 리더십 부각",
-        "date": "2026-01-05 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=236140"
     },
     {
         "title": "LG디스플레이, CES 2026서 OLED·차량용 디스플레이 제품 공개",
@@ -1070,7 +1740,12 @@
         "link": "https://www.ngetnews.com/news/articleView.html?idxno=544692"
     },
     {
-        "title": "LG디스플레이, OLED 전략 제품 대거 공개…'최고 기술력' 집약",
+        "title": "LGD, CES 2026서 OLED 전략 제품 공개...기술 리더십 부각",
+        "date": "2026-01-05 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=236140"
+    },
+    {
+        "title": "[CES 2026]LG디스플레이, OLED 전략 제품 대거 공개…'최고 기술력' 집약",
         "date": "2026-01-05 10:00",
         "link": "http://www.m-i.kr/news/articleView.html?idxno=1321859"
     },
@@ -1080,19 +1755,24 @@
         "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=245992"
     },
     {
-        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/215/0001236690?sid=004"
-    },
-    {
         "title": "[CES 2026] LG디스플레이, ‘최고 기술력’으로 완성한 OLED 전략 제품 공...",
         "date": "2026-01-05 10:00",
         "link": "https://www.inthenews.co.kr/news/article.html?no=81525"
     },
     {
+        "title": "LG디스플레이, CES 2026서 OLED 전략 제품 공개",
+        "date": "2026-01-05 10:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001236690?sid=004"
+    },
+    {
         "title": "초고주사율·최대 휘도 갖췄다 LGD, 고품질 OLED 전략 제품 공개 [CES 2...",
         "date": "2026-01-05 10:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154093"
+    },
+    {
+        "title": "[CES 2026] TV에서 車까지…LGD, OLED 풀라인업 공개",
+        "date": "2026-01-05 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015828640?sid=101"
     },
     {
         "title": "차량 멈추자 33인치 화면이 '쑥'…LGD, OLED 최고 기술 공개",
@@ -1103,11 +1783,6 @@
         "title": "LG디스플레이, '최고 기술력'으로 완성한 OLED 제품 공개 [CES 2026]",
         "date": "2026-01-05 10:00",
         "link": "https://n.news.naver.com/mnews/article/119/0003044505?sid=101"
-    },
-    {
-        "title": "[CES 2026] TV에서 車까지…LGD, OLED 풀라인업 공개",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015828640?sid=101"
     },
     {
         "title": "TV부터 車까지…LG디스플레이, CES서 OLED '최고 기술력' 공개",
@@ -1130,11 +1805,6 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=243184"
     },
     {
-        "title": "[CES 2026] 전시와 콘퍼런스를 하나로…삼성전자 '더 퍼스트룩' 개최",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015828642?sid=101"
-    },
-    {
         "title": "[CES '26] LG디스플레이, '4500니트' 압도적 휘도 OLED TV 패널 공개",
         "date": "2026-01-05 10:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1693662"
@@ -1143,11 +1813,6 @@
         "title": "정차시 33인치로 늘어나는 차량 OLED…LGD, CES 2026서 공개",
         "date": "2026-01-05 10:00",
         "link": "https://n.news.naver.com/mnews/article/374/0000484210?sid=101"
-    },
-    {
-        "title": "삼성전자, CES 2026서 '더 퍼스트룩' 행사 개최 … 전시·콘퍼런스 통합...",
-        "date": "2026-01-05 10:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57536"
     },
     {
         "title": "삼성전자, CES 2026서 '더 퍼스트룩' 행사 개최...신제품·기술 대거 공...",
@@ -1160,21 +1825,6 @@
         "link": "https://www.newswhoplus.com/news/articleView.html?idxno=50352"
     },
     {
-        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
-        "date": "2026-01-05 10:00",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=421588"
-    },
-    {
-        "title": "[CES 2026] 삼성전자, 전시·콘퍼런스 통합 '더 퍼스트룩'",
-        "date": "2026-01-05 10:00",
-        "link": "https://www.asiatime.co.kr/article/20260105500036"
-    },
-    {
-        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
-        "date": "2026-01-05 10:00",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=70821"
-    },
-    {
         "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합 '더 퍼스트룩' 연다",
         "date": "2026-01-05 10:00",
         "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=65350"
@@ -1183,6 +1833,11 @@
         "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
         "date": "2026-01-05 10:00",
         "link": "https://www.ngonews.kr/news/articleView.html?idxno=221831"
+    },
+    {
+        "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
+        "date": "2026-01-05 10:00",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=70821"
     },
     {
         "title": "LGD, TV·차량용 초격차 OLED 풀라인업 출격[CES 2026]",
@@ -1220,34 +1875,9 @@
         "link": "https://n.news.naver.com/mnews/article/025/0003494436?sid=101"
     },
     {
-        "title": "'CES 최대 전시관' 삼성전자…더 퍼스트룩서 AI 혁신 기술·제품 공개",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000484211?sid=101"
-    },
-    {
-        "title": "삼성전자, 놀이·가정의 미래 제시…AI가전 반려동물 건강까지 케어",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008695462?sid=101"
-    },
-    {
         "title": "삼성전자, '더 퍼스트룩' 개최…신제품·신기술 선봬",
         "date": "2026-01-05 10:00",
         "link": "http://www.newscape.co.kr/news/articleView.html?idxno=119048"
-    },
-    {
-        "title": "삼성전자, CES 현장서 '더 퍼스트룩' 개최…AI가 바꾸는 일상",
-        "date": "2026-01-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/629/0000459360?sid=101"
-    },
-    {
-        "title": "삼성전자, CES 2026서 '더 퍼스트룩' 행사 개최",
-        "date": "2026-01-05 10:00",
-        "link": "http://www.datanews.co.kr/news/article.html?no=142626"
-    },
-    {
-        "title": "삼성디스플레이, ‘CES 2026’서 AI-디스플레이 융합 라이프스타일 제안",
-        "date": "2026-01-05 09:58",
-        "link": "https://www.cnbnews.com/news/article.html?no=771123"
     },
     {
         "title": "[CES 2026] AI에 얼굴을 입히다…삼성디스플레이, CES 2026서 차세대 O...",
@@ -1270,11 +1900,6 @@
         "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=100134"
     },
     {
-        "title": "32인치 QHD 240Hz 멀티스탠드 크로스오버존 게이밍 모니터 32QF240G 출시 기...",
-        "date": "2026-01-05 09:38",
-        "link": "https://kbench.com/?q=node/274884"
-    },
-    {
         "title": "드리미, CES 2026서 역대 최대 규모 전시관 스마트홈 생태계 첫 공개",
         "date": "2026-01-05 09:34",
         "link": "https://kbench.com/?q=node/274883"
@@ -1295,19 +1920,9 @@
         "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=3591"
     },
     {
-        "title": "극세사 기반 고흡수성 기술, 정체된 시장의 새로운 해법",
-        "date": "2026-01-05 09:26",
-        "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=3592"
-    },
-    {
         "title": "삼성전자, CES 2026서 전시·콘퍼런스 통합한 '더 퍼스트룩' 행사 개최",
         "date": "2026-01-05 09:22",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=118629"
-    },
-    {
-        "title": "'안경 쓴 갤럭시 온다'…삼성, 첫 스마트 안경 출시 준비 정황 포착",
-        "date": "2026-01-05 09:10",
-        "link": "https://kbench.com/?q=node/274879"
     },
     {
         "title": "삼성디스플레이, 'CES 2026'서 AI 시대의 OLED 활용 방안 제시",
@@ -1333,515 +1948,5 @@
         "title": "[2026년 업종 전망②: 디스플레이] 불확실성 터널 지나 OLED·폴더블·차...",
         "date": "2026-01-05 07:02",
         "link": "https://www.news2day.co.kr/article/20260102500317"
-    },
-    {
-        "title": "삼성전자, TV '가격 하락' 파고…마이크로 RGB·FAST로 정면 돌파",
-        "date": "2026-01-05 06:36",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1693565"
-    },
-    {
-        "title": "'접히는 폰' 경쟁 올해부터 뜨거워진다…삼성D 최대 수혜자 될까",
-        "date": "2026-01-05 06:29",
-        "link": "https://n.news.naver.com/mnews/article/014/0005457911?sid=101"
-    },
-    {
-        "title": "SDC·LGD, 올해도 대형 OLED 투자 안한다",
-        "date": "2026-01-05 06:20",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42235"
-    },
-    {
-        "title": "[CES 2026] 마이크로 RGB부터 피지컬 AI까지… 삼성·LG, 신시장 두고 격...",
-        "date": "2026-01-05 06:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001134082?sid=105"
-    },
-    {
-        "title": "노트북은 가볍게, 그래픽은 강력하게 외장 GPU, ROG XG 모바일(2025) [리...",
-        "date": "2026-01-05 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154114"
-    },
-    {
-        "title": "[서평] '붉은 공급망'에 묶인 애플, 세계 질서의 향방을 묻다",
-        "date": "2026-01-05 00:00",
-        "link": "https://www.ajunews.com/view/20260103010004939"
-    },
-    {
-        "title": "CES 2026, AI는 집 안으로…로봇과 OLED가 그리는 일상 혁신",
-        "date": "2026-01-04 23:54",
-        "link": "https://www.g-enews.com/view.php?ud=202601041447518933112616b072_1"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대 걸맞은 OLED 선봰다",
-        "date": "2026-01-04 23:06",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=202601042236192756d0a8833aad_23"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, AI 로봇부터 모빌리티까지... OLED로 '경험의...",
-        "date": "2026-01-04 23:02",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=122482"
-    },
-    {
-        "title": "삼성, '2026 삼성 명장' 17명 선발… 역대 최대 규모",
-        "date": "2026-01-04 22:36",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=724273"
-    },
-    {
-        "title": "[CES 2026] 삼성D, 라스베이거스 밝히다",
-        "date": "2026-01-04 22:30",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=724270"
-    },
-    {
-        "title": "OLED와 AI 결합…삼성디스플레이, 로봇 조교 선보인다[CES 2026]",
-        "date": "2026-01-04 21:22",
-        "link": "https://n.news.naver.com/mnews/article/032/0003419325?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대의 OLED 선보인다",
-        "date": "2026-01-04 21:04",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3359337"
-    },
-    {
-        "title": "삼성디스플레이, 세계 최초 V-스트라이프 QD-OLED 출시...가독성 민감 소...",
-        "date": "2026-01-04 20:50",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=421534"
-    },
-    {
-        "title": "삼성의 기술 자부심 '17인 명장' 탄생...역대 최대 규모 발탁",
-        "date": "2026-01-04 19:38",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=67121"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대 OLED 선보인다",
-        "date": "2026-01-04 19:30",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=238544"
-    },
-    {
-        "title": "삼성디스플레이 AI 결합 OLED 청사진 제시",
-        "date": "2026-01-04 18:33",
-        "link": "https://n.news.naver.com/mnews/article/014/0005457821?sid=101"
-    },
-    {
-        "title": "삼성, 기술 인재에 힘 싣는 '명장' 선정",
-        "date": "2026-01-04 18:26",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=50339"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대 OLED 선보인다",
-        "date": "2026-01-04 17:38",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=236098"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플, OLED ‘로봇 얼굴’ 공개...AI 기능 극대화",
-        "date": "2026-01-04 17:25",
-        "link": "https://n.news.naver.com/mnews/article/023/0003950846?sid=105"
-    },
-    {
-        "title": "삼성, '2026 명장' 선정…역대 최대 5개 계열사·17명",
-        "date": "2026-01-04 17:06",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3044372"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대 OLED 선봬",
-        "date": "2026-01-04 16:50",
-        "link": "https://www.pressman.kr/news/articleView.html?idxno=98106"
-    },
-    {
-        "title": "삼성, 핵심 기술전문가 '2026 삼성 명장' 17명 선정… 사상 최대",
-        "date": "2026-01-04 16:42",
-        "link": "https://n.news.naver.com/mnews/article/417/0001122704?sid=101"
-    },
-    {
-        "title": "삼성, 최고기술전문가 ‘2026 삼성 명장’ 17명 선정...역대 최대",
-        "date": "2026-01-04 16:06",
-        "link": "https://www.m-economynews.com/news/article.html?no=63311"
-    },
-    {
-        "title": "삼성, 'HBM MI 전문가' 등 2026 명장 17명 선정",
-        "date": "2026-01-04 15:56",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=50498"
-    },
-    {
-        "title": "삼성디스플레이 CES서 AI 탑재 OLED 선봬, 자율주행과 확장현실 제품도 ...",
-        "date": "2026-01-04 15:50",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=425733"
-    },
-    {
-        "title": "'2026 삼성 명장' 계열사 5곳서 17명 선정",
-        "date": "2026-01-04 15:47",
-        "link": "https://n.news.naver.com/mnews/article/031/0000994014?sid=101"
-    },
-    {
-        "title": "[CES 2026] AI·OLED 결합…삼성D, '미래 경험' 제시",
-        "date": "2026-01-04 15:16",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2172834"
-    },
-    {
-        "title": "삼성D, 'CES 2026'서 차세대 OLED 제품 대거 공개",
-        "date": "2026-01-04 15:00",
-        "link": "https://www.g-enews.com/view.php?ud=2026010410155513536ed0c62d49_1"
-    },
-    {
-        "title": "삼성, 2026년 핵심 기술 분야 명장 17명 선정",
-        "date": "2026-01-04 14:56",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3066189"
-    },
-    {
-        "title": "삼성D, CES서 'AIxOLED' 융합 기술 공개",
-        "date": "2026-01-04 14:54",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=50497"
-    },
-    {
-        "title": "삼성 LG, CES 2026에서 로봇 경쟁 후끈",
-        "date": "2026-01-04 14:19",
-        "link": "https://n.news.naver.com/mnews/article/658/0000131203?sid=101"
-    },
-    {
-        "title": "농구공·쇠구슬 견디는 OLED·세탁물 개는 홈로봇…삼성·LG CES서 신기술...",
-        "date": "2026-01-04 14:14",
-        "link": "http://www.segyebiz.com/newsView/20260104506407?OutUrl=naver"
-    },
-    {
-        "title": "위기에도 인재가 답 삼성, '2026 삼성 명장' 17명 선정… 역대 최다",
-        "date": "2026-01-04 14:02",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=243151"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대의 OLED 선봬",
-        "date": "2026-01-04 13:54",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=686882"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대의 OLED 선보인다",
-        "date": "2026-01-04 13:52",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=70798"
-    },
-    {
-        "title": "삼성, '올해의 명장' 17명 선정…역대 최대 규모",
-        "date": "2026-01-04 13:47",
-        "link": "https://n.news.naver.com/mnews/article/092/0002404567?sid=105"
-    },
-    {
-        "title": "삼성, '2026 삼성 명장' 17명 선정···역대 최대",
-        "date": "2026-01-04 13:46",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1313542"
-    },
-    {
-        "title": "삼성디스플레이, CES 2026서 'AI 시대 OLED' 청사진 제시",
-        "date": "2026-01-04 13:40",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=352945"
-    },
-    {
-        "title": "삼성D, AI 시대 OLED 전시…미래기기 융합 라이프스타일 제안",
-        "date": "2026-01-04 13:30",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=855827"
-    },
-    {
-        "title": "[CES 2026]삼성디스플레이, AI 시대 OLED 선봬",
-        "date": "2026-01-04 13:24",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1321699"
-    },
-    {
-        "title": "‘기술 초격차’ 이끌 ‘2026년 삼성 명장’ 17명 선정⋯사상 최대 규모",
-        "date": "2026-01-04 13:12",
-        "link": "https://www.viva100.com/article/20260104500173"
-    },
-    {
-        "title": "오픈AI, 음성만으로 구동하는 AI 기기로 애플에 도전장",
-        "date": "2026-01-04 13:10",
-        "link": "https://n.news.naver.com/mnews/article/018/0006194337?sid=105"
-    },
-    {
-        "title": "기술인재 양성..'2026 삼성 명장' 역대 최대 17명 선정",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2104304"
-    },
-    {
-        "title": "삼성D, CES 2026서 AI 시대 OLED 공개...로봇·태블릿 등과 시너지",
-        "date": "2026-01-04 13:00",
-        "link": "https://n.news.naver.com/mnews/article/009/0005615918?sid=101"
-    },
-    {
-        "title": "삼성, '2026 삼성 명장' 선정...17명으로 사상 최대 규모",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=421516"
-    },
-    {
-        "title": "삼성, 분야별 사내 핵심 기술 전문가 '2026 삼성 명장' 17명 선정",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=107489"
-    },
-    {
-        "title": "경쟁력 드높인 '2026 삼성 명장', 올해 17명 선정",
-        "date": "2026-01-04 13:00",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=306755"
-    },
-    {
-        "title": "삼성, '2026 삼성 명장' 선정",
-        "date": "2026-01-04 13:00",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=852782"
-    },
-    {
-        "title": "삼성, '2026 명장' 17명 선발…역대 최대 규모",
-        "date": "2026-01-04 13:00",
-        "link": "https://www.newspim.com/news/view/20260104000032"
-    },
-    {
-        "title": "삼성, ‘2026 삼성 명장’ 17명 선정",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.datanews.co.kr/news/article.html?no=142616"
-    },
-    {
-        "title": "어려운 환경 속 기술 인재 집중…삼성, '최대 규모' 17명 명장 선정",
-        "date": "2026-01-04 13:00",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20260104010000967"
-    },
-    {
-        "title": "삼성, 사상 최대 규모 '2026 삼성 명장' 선정…기술 인재 육성 박차",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=193415"
-    },
-    {
-        "title": "삼성, 사내 핵심 기술 전문가 '2026 삼성 명장' 17명 선정",
-        "date": "2026-01-04 13:00",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=79437"
-    },
-    {
-        "title": "삼성디스플레이, CES 2026서 '지능형 디스플레이 시대' 제시",
-        "date": "2026-01-04 12:56",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=279958"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대 OLED 공개",
-        "date": "2026-01-04 12:53",
-        "link": "https://n.news.naver.com/mnews/article/215/0001236627?sid=004"
-    },
-    {
-        "title": "삼성디스플레이, CES서 OLED에 AI결합 청사진 제시한다 [CES 2026]",
-        "date": "2026-01-04 12:49",
-        "link": "https://n.news.naver.com/mnews/article/014/0005457726?sid=101"
-    },
-    {
-        "title": "중국 패널 쓴다고? 삼성의 보급형 스마트폰 S26 FE 와 A57에 무슨일이??...",
-        "date": "2026-01-04 12:48",
-        "link": "https://www.betanews.net/article/view/beta202601040005"
-    },
-    {
-        "title": "로봇부터 XR까지…삼성디스플레이, AI시대 OLED 공개",
-        "date": "2026-01-04 12:38",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1286710&inflow=N"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, 'CES'서 AI 시대 OLED 기술력 뽐낸다",
-        "date": "2026-01-04 12:14",
-        "link": "https://dealsite.co.kr/articles/154376"
-    },
-    {
-        "title": "로봇 조교가 강의 안내···삼성디스플레이, AI 시대 OLED 선보여[CES 20...",
-        "date": "2026-01-04 11:16",
-        "link": "https://n.news.naver.com/mnews/article/032/0003419176?sid=101"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, AI 시대의 OLED 선보인다",
-        "date": "2026-01-04 11:08",
-        "link": "https://www.ajunews.com/view/20260104105900113"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, CES서 ‘OLED 로봇’ 선보인다",
-        "date": "2026-01-04 10:56",
-        "link": "https://n.news.naver.com/mnews/article/011/0004574420?sid=101"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, 'AI OLED 봇' 등 AI-디스플레이 융합 선보인...",
-        "date": "2026-01-04 10:46",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=346630"
-    },
-    {
-        "title": "삼성디스플레이, 美 CES서 'AI+OLED' 미래 청사진 그린다",
-        "date": "2026-01-04 10:32",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=825701"
-    },
-    {
-        "title": "삼성디스플레이, 'AI 시대' OLED 솔루션 전시",
-        "date": "2026-01-04 10:28",
-        "link": "https://n.news.naver.com/mnews/article/277/0005701738?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, CES 2026서 AI 시대 OLED 선보인다",
-        "date": "2026-01-04 10:12",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=118584"
-    },
-    {
-        "title": "로봇이 슛 쏘고 차가 말을 건다… 삼성디스플레이, AI 입힌 'OLED 신세...",
-        "date": "2026-01-04 10:06",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=243146"
-    },
-    {
-        "title": "삼성전자·LG전자, 6K·5K '게이밍 모니터' 라인업 첫선",
-        "date": "2026-01-04 10:00",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=418257"
-    },
-    {
-        "title": "[CES 2026] “AI 디스플레이는 OLED”… 삼성D, ‘조교봇’ 등 솔루션 대...",
-        "date": "2026-01-04 09:23",
-        "link": "https://n.news.naver.com/mnews/article/029/0003002726?sid=105"
-    },
-    {
-        "title": "[CES 2026] AI OLED 봇부터 차량 프리폼까지…삼성디스플레이, OLED 총공...",
-        "date": "2026-01-04 09:16",
-        "link": "https://n.news.naver.com/mnews/article/138/0002214213?sid=105"
-    },
-    {
-        "title": "[CES 2026] “OLED의 대세화”⋯ 삼성디스플레이 차세대 제품 총출동",
-        "date": "2026-01-04 09:02",
-        "link": "https://www.viva100.com/article/20260104500057"
-    },
-    {
-        "title": "CES 2026 개막 임박…삼성·SK·현대차·LG 등 국내 주요 기업 총출동",
-        "date": "2026-01-04 09:00",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=291045"
-    },
-    {
-        "title": "삼성D, CES서 AI-디스플레이 융합 라이프스타일 제안",
-        "date": "2026-01-04 08:54",
-        "link": "http://thetracker.co.kr/View.aspx?No=3912848"
-    },
-    {
-        "title": "로봇이 농구, 대학 조교까지…삼성D, AI 시대 OLED 선보인다",
-        "date": "2026-01-04 08:28",
-        "link": "https://n.news.naver.com/mnews/article/277/0005701707?sid=101"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, 'AI×OLED' 미래 청사진 공개",
-        "date": "2026-01-04 08:28",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20260104010000936"
-    },
-    {
-        "title": "CES 2026, 삼성디스플레이 AI와 디스플레이 출품",
-        "date": "2026-01-04 08:26",
-        "link": "https://sateconomy.co.kr/news/view/1065568699473145"
-    },
-    {
-        "title": "[CES 2026] 삼성D, AI 시대 OLED 청사진 제시…로봇·차량·XR까지",
-        "date": "2026-01-04 08:08",
-        "link": "https://www.theguru.co.kr/news/article.html?no=96369"
-    },
-    {
-        "title": "삼성디스플레이, 'CES 2026'서 AI 시대의 'OLED' 선 봬",
-        "date": "2026-01-04 07:56",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=107482"
-    },
-    {
-        "title": "로봇의 얼굴부터 차량 대시보드까지…삼성 'OLED'의 진화",
-        "date": "2026-01-04 07:36",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4391728"
-    },
-    {
-        "title": "쇠구슬 떨구고, 냉장고에 얼리고… 삼성D의 ‘OLED 차력쇼’ [CES 2026]",
-        "date": "2026-01-04 07:32",
-        "link": "https://n.news.naver.com/mnews/article/022/0004094879?sid=101"
-    },
-    {
-        "title": "올해 TV 시장 '기술 빅뱅'…RGB 미니 LED·OLED 격돌 예고",
-        "date": "2026-01-04 07:32",
-        "link": "https://www.theguru.co.kr/news/article.html?no=96345"
-    },
-    {
-        "title": "삼성D, 냉장고 안에 디스플레이 전시…AI OLED 봇 선봬",
-        "date": "2026-01-04 07:31",
-        "link": "https://n.news.naver.com/mnews/article/018/0006194211?sid=101"
-    },
-    {
-        "title": "로봇부터 XR까지…삼성디스플레이, AI 시대 속 OLED 미래 그렸다",
-        "date": "2026-01-04 07:31",
-        "link": "https://n.news.naver.com/mnews/article/092/0002404540?sid=105"
-    },
-    {
-        "title": "차량 OLED 확장·농구공 테스트…삼성디스플레이 CES 출격",
-        "date": "2026-01-04 07:31",
-        "link": "https://n.news.naver.com/mnews/article/031/0000993963?sid=105"
-    },
-    {
-        "title": "'로봇·XR로 진격'…삼성D, CES서 OLED와 AI 융합 소개",
-        "date": "2026-01-04 07:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003386376?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, OLED 얼굴 지닌 'AI 로봇' 공개한다",
-        "date": "2026-01-04 07:31",
-        "link": "https://n.news.naver.com/mnews/article/079/0004101506?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, CES서 AI 시대의 OLED 선보인다 [CES 2026]",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/119/0003044271?sid=101"
-    },
-    {
-        "title": "[CES 2026]'스마트한 OLED'…삼성D, AI 시대 '융합 라이프스타일' 제시",
-        "date": "2026-01-04 07:30",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026010315264128164"
-    },
-    {
-        "title": "[CES 2026] 삼성D, AI 시대 OLED 전시…미래기기 융합 라이프스타일 제안",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/001/0015827231?sid=101"
-    },
-    {
-        "title": "[CES 2026] 삼성D, 'AI 최적화 OLED' 총출동…IT·車·XR 동시 공략",
-        "date": "2026-01-04 07:30",
-        "link": "https://www.newspim.com/news/view/20260102000989"
-    },
-    {
-        "title": "로봇·차량·XR까지… 삼성D 'AI OLED' 제시 [CES 2026]",
-        "date": "2026-01-04 07:30",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154084"
-    },
-    {
-        "title": "삼성디스플레이, CES서 'AI OLED 봇' 등 미래형 기기 대방출",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/421/0008693905?sid=101"
-    },
-    {
-        "title": "[CES 2026] 삼성디스플레이, AI 시대 OLED 활용 청사진 제시",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/417/0001122641?sid=101"
-    },
-    {
-        "title": "삼성D, CES 2026서 'AI OLED 봇' 등 차세대 제품 공개",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/215/0001236602?sid=004"
-    },
-    {
-        "title": "“AI 얼굴 가진 로봇부터 車 콕핏까지”…삼성디스플레이, 차세대 OLED 총...",
-        "date": "2026-01-04 07:30",
-        "link": "https://www.etoday.co.kr/news/view/2541705"
-    },
-    {
-        "title": "“로봇 얼굴에 눈코입 대신 OLED” 삼성D가 제시한 AI 시대 라이프스타...",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/016/0002580529?sid=101"
-    },
-    {
-        "title": "[CES 2026] “‘AI OLED 봇’이 강의실 조교된다”… 삼성디스플레이, AI...",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/366/0001133991?sid=105"
-    },
-    {
-        "title": "[CES '26] 삼성디스플레이 AI와 만난 OLED…삶 방식 바꾼다",
-        "date": "2026-01-04 07:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1693470"
-    },
-    {
-        "title": "'삼성 자신감'…폴더블에 농구공 던지고, 냉장고에 車디스플레이",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/008/0005299911?sid=101"
-    },
-    {
-        "title": "회사·출장·집 '모두 올레드'…삼성D와 미리 보는 AI시대[CES 2026]",
-        "date": "2026-01-04 07:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013690589?sid=101"
-    },
-    {
-        "title": "덴소·글로벌 전장 1차 협력사가 주목할 이유 있다…'아크 없는 플라즈...",
-        "date": "2026-01-04 07:20",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1807592"
     }
 ]
