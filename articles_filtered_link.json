@@ -1,5 +1,590 @@
 [
     {
+        "title": "‘비닐처럼 접히는데 128℃도 버틴다’ 고성능 5G·6G 통신 소자 개발",
+        "date": "2026-01-08 12:56",
+        "link": "https://n.news.naver.com/mnews/article/011/0004576292?sid=105"
+    },
+    {
+        "title": "[CES 2026] 에이수스, 로그 20주년 맞아 '게이밍의 미래' 제시",
+        "date": "2026-01-08 12:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=327085"
+    },
+    {
+        "title": "엔비디아, 차세대 게이밍 혁신 가속하는 DLSS 4.5 공개",
+        "date": "2026-01-08 12:16",
+        "link": "https://gamefocus.co.kr/detail.php?number=172526"
+    },
+    {
+        "title": "류재철 LG전자 CEO 경영전략 제시...로봇은 LG AI 가정 비전의 마지막 ...",
+        "date": "2026-01-08 12:16",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=88654"
+    },
+    {
+        "title": "LG디스플레이 OLED 신제품, 글로벌 매체서 잇달아 호평",
+        "date": "2026-01-08 12:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0006197044?sid=101"
+    },
+    {
+        "title": "선익시스템, Micro OLED 디스플레이 장비 공급 계약 체결",
+        "date": "2026-01-08 11:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=619446"
+    },
+    {
+        "title": "레노버, CES 2026서 개인화 AI 슈퍼 에이전트 공개",
+        "date": "2026-01-08 11:50",
+        "link": "https://gamefocus.co.kr/detail.php?number=172517"
+    },
+    {
+        "title": "[CES2026] 류재철 LG전자 사장 클로이드, AI홈 마지막 퍼즐",
+        "date": "2026-01-08 11:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3361031"
+    },
+    {
+        "title": "[인터뷰]3M 차세대 OLED는 COE…폴더블용 광학 솔루션 개발 중[CES 2026]",
+        "date": "2026-01-08 11:34",
+        "link": "https://n.news.naver.com/mnews/article/277/0005703972?sid=101"
+    },
+    {
+        "title": "[공시속보] 선익시스템, Micro OLED 증착장비 공급계약→2026년 매출 확대...",
+        "date": "2026-01-08 11:32",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15928728"
+    },
+    {
+        "title": "LG디스플레이, CES서 83인치 OLED·720Hz 모니터 공개",
+        "date": "2026-01-08 11:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=256694"
+    },
+    {
+        "title": "알파벳 , 애플 제치고 시총 2위로 “AI 주도권 교체 알리는 신호”",
+        "date": "2026-01-08 11:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582912?sid=101"
+    },
+    {
+        "title": "삼성전자, CES2026에서 OLED TV에 '아트 스토어' 적용",
+        "date": "2026-01-08 11:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=256690"
+    },
+    {
+        "title": "커버앤커버 '애플민트 PDRN 3분 패드팩', 화해 뷰티 2개 부문 동시 1위",
+        "date": "2026-01-08 11:30",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=146319"
+    },
+    {
+        "title": "[Biz&amp;Law] LG전자, 머스크 vs 애플·오픈AI 소송 휘말려…法 스마트폰 철...",
+        "date": "2026-01-08 11:28",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=700685"
+    },
+    {
+        "title": "선익시스템, 410억 규모 Micro OLED 디스플레이 양산용 증착장비 공급계...",
+        "date": "2026-01-08 11:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582904?sid=101"
+    },
+    {
+        "title": "[CES 2026] 에이수스, ROG 20주년을 맞아 ‘게이밍의 미래’ 혁신 기술 대...",
+        "date": "2026-01-08 11:28",
+        "link": "https://www.betanews.net/article/view/beta202601080026"
+    },
+    {
+        "title": "구글, 애플 제치고 시총 2위…AI 주도권 이동 신호탄",
+        "date": "2026-01-08 11:19",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214679?sid=101"
+    },
+    {
+        "title": "[CES 2026] 레노버, 개인화 AI 슈퍼 에이전트 공개",
+        "date": "2026-01-08 11:16",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=724877"
+    },
+    {
+        "title": "삼성, OLED에 ‘아트 스토어’ 도입 [CES 2026]",
+        "date": "2026-01-08 11:13",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582858?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 신제품 CES서 호평…새로운 혁신 제품",
+        "date": "2026-01-08 11:08",
+        "link": "https://n.news.naver.com/mnews/article/008/0005301996?sid=101"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, 대형 OLED 신제품 해외서 호평 잇따라",
+        "date": "2026-01-08 11:06",
+        "link": "https://www.newspim.com/news/view/20260108000457"
+    },
+    {
+        "title": "LG디스플레이, CES 2026서 LGD 대형 OLED 신제품 선보여",
+        "date": "2026-01-08 11:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015836108?sid=101"
+    },
+    {
+        "title": "[아주 VIEW 칼럼] 구글이 애플을 넘은 날, AI는 기술이 아니라 지배력이...",
+        "date": "2026-01-08 11:00",
+        "link": "https://www.ajunews.com/view/20260108105723187"
+    },
+    {
+        "title": "에이수스, CES 2026서 ROG 20주년 맞아 '게이밍의 미래' 제시",
+        "date": "2026-01-08 10:58",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=229796"
+    },
+    {
+        "title": "애플, 차세대 아이폰 카메라로 멀티스펙트럴 기술 주목",
+        "date": "2026-01-08 10:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=619373"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED TV '아트 스토어' 적용",
+        "date": "2026-01-08 10:52",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1219621"
+    },
+    {
+        "title": "레노버, 'CES 2026' AI 기반 신제품 선보여",
+        "date": "2026-01-08 10:44",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=54870"
+    },
+    {
+        "title": "'AI 강자' 구글, 애플 제치고 시총 2위로 올라서",
+        "date": "2026-01-08 10:42",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=76069"
+    },
+    {
+        "title": "[CES 2026] ROG 20주년 맞은 에이수스, '게이밍의 미래' 혁신 기술 대거 ...",
+        "date": "2026-01-08 10:40",
+        "link": "https://www.cnet.co.kr/view/?no=20260108103452"
+    },
+    {
+        "title": "레노버, 개인화 'AI 슈퍼 에이전트'부터 차세대 디바이스 혁신 선보여.....",
+        "date": "2026-01-08 10:34",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38057"
+    },
+    {
+        "title": "'AI 강자' 구글, 시총 2위로 올라서‥6년여 만에 애플 제쳐",
+        "date": "2026-01-08 10:33",
+        "link": "https://n.news.naver.com/mnews/article/214/0001472991?sid=104"
+    },
+    {
+        "title": "JP모건, 골드만삭스서 애플 신용카드 발급 사업 인수...예금계좌도 검토",
+        "date": "2026-01-08 10:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=619399"
+    },
+    {
+        "title": "에이수스, CES 2026에서 ROG 20주년을 맞아 ‘게이밍의 미래’ 컨셉 혁신...",
+        "date": "2026-01-08 10:30",
+        "link": "https://kbench.com/?q=node/275038"
+    },
+    {
+        "title": "[CES 2026] LGD 대형 OLED 신제품, 글로벌 매체 호평 잇따라",
+        "date": "2026-01-08 10:28",
+        "link": "https://n.news.naver.com/mnews/article/001/0015835872?sid=101"
+    },
+    {
+        "title": "[CES 2026] 에이수스, ROG 20주년 '게이밍의 미래' 콘셉트 혁신 기술 대거...",
+        "date": "2026-01-08 10:26",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57605"
+    },
+    {
+        "title": "“비닐처럼 유연한데 열에도 강하다”… 고성능 6G 통신 소자 개발",
+        "date": "2026-01-08 10:25",
+        "link": "https://n.news.naver.com/mnews/article/277/0005703892?sid=102"
+    },
+    {
+        "title": "알파벳, 6년 만에 애플까지 제쳤다…“AI 전략이 승부 갈랐다” [투자36...",
+        "date": "2026-01-08 10:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582786?sid=101"
+    },
+    {
+        "title": "[CES 2026] LG디스플레이, 대형 OLED 신제품 해외서 호평 잇따라",
+        "date": "2026-01-08 10:18",
+        "link": "https://www.theguru.co.kr/news/article.html?no=96599"
+    },
+    {
+        "title": "레노버, CES 2026서 개인화 AI 슈퍼 에이전트 공개 모바일부터 게이밍까...",
+        "date": "2026-01-08 10:18",
+        "link": "https://kbench.com/?q=node/275035"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED TV에 ‘삼성 아트 스토어’ 도입 [CES 2026]",
+        "date": "2026-01-08 10:18",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582783?sid=101"
+    },
+    {
+        "title": "'자회사 합병' 네온테크, 지난해 영업익 -66%...올해 +964% 전망",
+        "date": "2026-01-08 10:18",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=76022"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 2026년형 OLED에 '아트 스토어' 탑재",
+        "date": "2026-01-08 10:15",
+        "link": "https://n.news.naver.com/mnews/article/030/0003388070?sid=105"
+    },
+    {
+        "title": "구글, AI 경쟁력으로 애플 꺾었다...시가총액 2위 등극",
+        "date": "2026-01-08 10:14",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026010810123544537"
+    },
+    {
+        "title": "LG디스플레이, 中 옌타이 공장 1400명 감원…LCD 털고 ‘OLED 올인’ 승부...",
+        "date": "2026-01-08 10:12",
+        "link": "https://www.g-enews.com/view.php?ud=202601080956418508fbbec65dfb_1"
+    },
+    {
+        "title": "[CES 2026] 기가바이트, 차세대 OLED 게이밍 모니터 4종 공개···HDR·SDR화...",
+        "date": "2026-01-08 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260108100354"
+    },
+    {
+        "title": "삼성, 2028년 출시 아이폰에 200MP 카메라 센서 공급하나?",
+        "date": "2026-01-08 10:10",
+        "link": "https://kbench.com/?q=node/275026"
+    },
+    {
+        "title": "줄줄이 갈아타더니…갤S25·Z폴드7 지난해 역대급 잘 팔렸다",
+        "date": "2026-01-08 10:09",
+        "link": "https://n.news.naver.com/mnews/article/008/0005301939?sid=105"
+    },
+    {
+        "title": "[CES 2026] LG전자 류재철 CEO 근원적 경쟁력으로 수익성 기반 성장 구조...",
+        "date": "2026-01-08 10:08",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=39538"
+    },
+    {
+        "title": "새로운 디스플레이의 기준…LGD 대형 OLED 신제품 해외서 호평 잇따라...",
+        "date": "2026-01-08 10:02",
+        "link": "https://n.news.naver.com/mnews/article/119/0003045950?sid=101"
+    },
+    {
+        "title": "LG전자, '가격 경쟁력 갖춘 OLED TV' 시작한다…박형세 연내 출시 계획...",
+        "date": "2026-01-08 10:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214659?sid=105"
+    },
+    {
+        "title": "[CES 2026] 류재철 LG전자 사장 “속도·실행력 갖춰야 생존 가능… 홈 로...",
+        "date": "2026-01-08 10:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001134905?sid=105"
+    },
+    {
+        "title": "LG전자 류재철 근원적 경쟁력·고성과 포트폴리오로 수익성 성장 구조...",
+        "date": "2026-01-08 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002405186?sid=105"
+    },
+    {
+        "title": "'AI 강자' 구글, 시총 2위로…6년여 만에 애플 제쳐",
+        "date": "2026-01-08 10:00",
+        "link": "https://n.news.naver.com/mnews/article/055/0001322543?sid=104"
+    },
+    {
+        "title": "AI 경쟁서 승기 잡았나…알파벳, 애플 제치고 시총 2위 탈환",
+        "date": "2026-01-08 09:59",
+        "link": "https://n.news.naver.com/mnews/article/629/0000460602?sid=101"
+    },
+    {
+        "title": "27인치 QHD 화이트 크로스오버존 멀티 모니터 27QD166CM, 오늘의 집 단독...",
+        "date": "2026-01-08 09:58",
+        "link": "https://kbench.com/?q=node/275028"
+    },
+    {
+        "title": "“비닐처럼 유연한데 열에도 강하다”…고성능 6G 통신 소자 개발",
+        "date": "2026-01-08 09:58",
+        "link": "https://n.news.naver.com/mnews/article/119/0003045942?sid=105"
+    },
+    {
+        "title": "구글, 애플 제치고 시총 2위 등극…“AI 시대 주도권 교체”",
+        "date": "2026-01-08 09:56",
+        "link": "https://n.news.naver.com/mnews/article/366/0001134903?sid=105"
+    },
+    {
+        "title": "엔비디아, 차세대 게이밍 혁신 가속하는 DLSS 4.5 공개",
+        "date": "2026-01-08 09:52",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=327066"
+    },
+    {
+        "title": "AI 재기한 알파벳, 7년 만에 애플 제치고 시총 2위 탈환",
+        "date": "2026-01-08 09:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=286356"
+    },
+    {
+        "title": "구글, 시가총액 2위로 올라서며 애플 제쳐",
+        "date": "2026-01-08 09:37",
+        "link": "https://n.news.naver.com/mnews/article/586/0000119662?sid=101"
+    },
+    {
+        "title": "비닐처럼 유연한데 열에도 강하다…UNIST 고성능 6G 통신 소자 개발",
+        "date": "2026-01-08 09:34",
+        "link": "https://n.news.naver.com/mnews/article/003/0013699049?sid=102"
+    },
+    {
+        "title": "A Housewife Asked AI—CES 2026 Shows How Far Smart Homes Have Come",
+        "date": "2026-01-08 09:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3360929"
+    },
+    {
+        "title": "OLED 장비 승부수 띄운 인베니아, 글로벌 시장서 존재감 확대",
+        "date": "2026-01-08 09:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=414990"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 2026년형 OLED에 '삼성 아트 스토어' 도입",
+        "date": "2026-01-08 09:14",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=208750"
+    },
+    {
+        "title": "롤러블 '리전고'에 AI 안경 레노버, 차세대 혁신 제품 대거 공개",
+        "date": "2026-01-08 09:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005459855?sid=105"
+    },
+    {
+        "title": "AI가 가른 희비…알파벳, 8년 만에 애플 제치고 '시총 2위' 탈환",
+        "date": "2026-01-08 09:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1694301"
+    },
+    {
+        "title": "中 하이센스, 세계최초 ‘4색 RGB TV’ 공개 [CES 2026]",
+        "date": "2026-01-08 09:09",
+        "link": "https://n.news.naver.com/mnews/article/016/0002582701?sid=101"
+    },
+    {
+        "title": "엔비디아, 차세대 게이밍 혁신 가속하는 DLSS 4.5 공개",
+        "date": "2026-01-08 09:08",
+        "link": "https://www.gameshot.net/common/con_view.php?code=GA695ef473e4e92"
+    },
+    {
+        "title": "비닐처럼 유연한데 열에도 강하다... 고성능 6G 통신 소자 개발",
+        "date": "2026-01-08 09:06",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=593463"
+    },
+    {
+        "title": "비닐처럼 유연한데 열에도 강하다 .. 고성능 6G 통신 소자 개발",
+        "date": "2026-01-08 09:06",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=154516"
+    },
+    {
+        "title": "CES 2026 최고의 노트북 10종",
+        "date": "2026-01-08 09:04",
+        "link": "https://www.itworld.co.kr/article/4114075/ces-2026-최고의-노트북-10종.html"
+    },
+    {
+        "title": "[CES 2026] 레노버 ‘씽크패드 롤러블 XD 콘셉트’ 등 차세대 제품 공개",
+        "date": "2026-01-08 09:04",
+        "link": "https://www.ekn.kr/web/view.php?key=20260108022146242"
+    },
+    {
+        "title": "구글, 애플 제치고 시총 2위로…AI 격차가 순위 갈랐다",
+        "date": "2026-01-08 09:04",
+        "link": "https://n.news.naver.com/mnews/article/023/0003951700?sid=101"
+    },
+    {
+        "title": "에버켐텍, '플렉서블 OLED용 그래핀 탈착 소재' 중국 특허 등록... KETI 공...",
+        "date": "2026-01-08 09:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2378886"
+    },
+    {
+        "title": "에버켐텍, '플렉서블 OLED용 그래핀 탈착 소재' 중국 특허 등록",
+        "date": "2026-01-08 08:58",
+        "link": "https://n.news.naver.com/mnews/article/421/0008702335?sid=101"
+    },
+    {
+        "title": "애플의 굴욕, 알파벳에 추월당해 시총 3위까지 밀려",
+        "date": "2026-01-08 08:56",
+        "link": "https://n.news.naver.com/mnews/article/421/0008702332?sid=104"
+    },
+    {
+        "title": "비에이치, 올해 IT OLED·폴더블 성장 주목 [모닝리포트]",
+        "date": "2026-01-08 08:51",
+        "link": "https://www.newspim.com/news/view/20260108000103"
+    },
+    {
+        "title": "6년여만에 애플 제쳤다...'AI 강자' 구글 시총 2위 등극",
+        "date": "2026-01-08 08:48",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=208731"
+    },
+    {
+        "title": "주부가 AI에게 물었다… CES 2026, 집안일은 어디까지 바뀌나",
+        "date": "2026-01-08 08:42",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3360914"
+    },
+    {
+        "title": "골드만삭스의 '애플카드', 라이벌 JP모건으로 넘어간다",
+        "date": "2026-01-08 08:41",
+        "link": "https://n.news.naver.com/mnews/article/018/0006196788?sid=101"
+    },
+    {
+        "title": "'AI 강자' 구글, 시총 2위…6년만에 애플 제쳐",
+        "date": "2026-01-08 08:39",
+        "link": "https://n.news.naver.com/mnews/article/422/0000820317?sid=105"
+    },
+    {
+        "title": "미국 애플페이 발행사 JP모건으로 바뀐다",
+        "date": "2026-01-08 08:35",
+        "link": "https://n.news.naver.com/mnews/article/277/0005703723?sid=101"
+    },
+    {
+        "title": "삼성전자, 중동 최대 음원 플랫폼 '앙가미'와 신예 아티스트 발굴",
+        "date": "2026-01-08 08:24",
+        "link": "https://www.kpinews.kr/newsView/1065567957526412"
+    },
+    {
+        "title": "[더벨][코스닥 CB 프리즘]'애플향 공급기대' 유티아이, 주가상승 베팅한...",
+        "date": "2026-01-08 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601060857465800104182"
+    },
+    {
+        "title": "AI 재기한 알파벳, 7년 만에 애플 제치고 시총 2위 탈환",
+        "date": "2026-01-08 08:15",
+        "link": "https://n.news.naver.com/mnews/article/003/0013698820?sid=104"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED에도 '아트 스토어'…'아트 TV' 라인업 확장 [CE...",
+        "date": "2026-01-08 08:15",
+        "link": "https://n.news.naver.com/mnews/article/138/0002214625?sid=105"
+    },
+    {
+        "title": "삼성· LG 2026 CES 공개한 S90H·C6 중형 OLED TV 기능 비교해 보니",
+        "date": "2026-01-08 08:12",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540560"
+    },
+    {
+        "title": "'구글, 6년여만에 애플 제쳐…시총 2위로 올라서",
+        "date": "2026-01-08 08:12",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=287831"
+    },
+    {
+        "title": "'AI 강자' 구글, 시가총액 5,644조 '2위'...6년여 만에 애플 제쳐",
+        "date": "2026-01-08 08:12",
+        "link": "https://n.news.naver.com/mnews/article/052/0002297718?sid=104"
+    },
+    {
+        "title": "'혁신의 아이콘'이 어쩌다...애플의 '굴욕'",
+        "date": "2026-01-08 08:08",
+        "link": "https://n.news.naver.com/mnews/article/050/0000100697?sid=101"
+    },
+    {
+        "title": "[CES 2026] 삼성전자, 2026년형 OLED로 '삼성 아트 스토어' 확대",
+        "date": "2026-01-08 08:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0015835450?sid=101"
+    },
+    {
+        "title": "'알파벳' 시총 3조8천912억달러…6년여 만에 애플 제치고 글로벌 2위",
+        "date": "2026-01-08 08:06",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15928410"
+    },
+    {
+        "title": "구글, AI 상승세 타고 애플 제쳤다…시총 2위로 올라서",
+        "date": "2026-01-08 08:02",
+        "link": "https://n.news.naver.com/mnews/article/654/0000160477?sid=101"
+    },
+    {
+        "title": "구글, 애플 제치고 시총 2위...6년 만에 애플 넘어섰다",
+        "date": "2026-01-08 08:02",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=130898"
+    },
+    {
+        "title": "JP모건 애플카드 품는다…골드만삭스서 200억달러 사업 인수",
+        "date": "2026-01-08 08:00",
+        "link": "https://www.g-enews.com/view.php?ud=2026010807245362403bc914ac71_1"
+    },
+    {
+        "title": "구글, 애플 제치고 시총 2위로…'AI 시대 주도권 교체'",
+        "date": "2026-01-08 07:54",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=707283"
+    },
+    {
+        "title": "'JP모건체이스' 애플카드 새 발행사로…골드만삭스 소비자금융 철수 여...",
+        "date": "2026-01-08 07:52",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15928407"
+    },
+    {
+        "title": "엔비디아도 위협…6년여만에 애플 제치고 시총 2위 올라선 AI강자 ‘구글...",
+        "date": "2026-01-08 07:49",
+        "link": "https://n.news.naver.com/mnews/article/009/0005618200?sid=101"
+    },
+    {
+        "title": "[AI의 종목 이야기] JP모간, 애플 신용카드 파트너…골드만 대체",
+        "date": "2026-01-08 07:47",
+        "link": "https://www.newspim.com/news/view/20260108000038"
+    },
+    {
+        "title": "삼성. LG, '130인치 초대형 VS 초슬림·초고화질 OLED TV '자존심 대결'",
+        "date": "2026-01-08 07:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540559"
+    },
+    {
+        "title": "AI 패권 경쟁의 승자…구글, 애플 제치고 시총 2위 탈환",
+        "date": "2026-01-08 07:45",
+        "link": "https://n.news.naver.com/mnews/article/243/0000090840?sid=101"
+    },
+    {
+        "title": "구글 알파벳, 6년여 만에 애플 제치고 시총 2위로 올라서",
+        "date": "2026-01-08 07:44",
+        "link": "https://n.news.naver.com/mnews/article/056/0012100714?sid=104"
+    },
+    {
+        "title": "구글, 6년만에 애플 제쳤다...시총 2위 '우뚝'",
+        "date": "2026-01-08 07:33",
+        "link": "https://n.news.naver.com/mnews/article/215/0001237106?sid=101"
+    },
+    {
+        "title": "'AI 강자' 구글, 시총 2위 등극…6년여만에 애플 제쳐",
+        "date": "2026-01-08 07:32",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=455338"
+    },
+    {
+        "title": "구글, 애플 제치고 6년 만에 시총 2위 탈환…AI 경쟁력이 '희비' 갈랐다",
+        "date": "2026-01-08 07:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003387991?sid=105"
+    },
+    {
+        "title": "구글, 애플 시총 제치고 2위…AI 시대 주도권 교체",
+        "date": "2026-01-08 07:25",
+        "link": "https://n.news.naver.com/mnews/article/374/0000484984?sid=101"
+    },
+    {
+        "title": "구글, 시총 2위로 복귀…AI 경쟁력 덕, 애플 제쳐",
+        "date": "2026-01-08 07:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0003003660?sid=104"
+    },
+    {
+        "title": "애플카드, JP모건 품에 안기다… 금융 빅테크 동맹 본격화",
+        "date": "2026-01-08 07:22",
+        "link": "https://www.tokenpost.kr/news/tech/322065"
+    },
+    {
+        "title": "“JP모건체이스, 골드만삭스 대신 애플카드 발행 맡기로”",
+        "date": "2026-01-08 07:15",
+        "link": "https://n.news.naver.com/mnews/article/056/0012100705?sid=104"
+    },
+    {
+        "title": "'AI 강자' 구글, 시총 2위로 올라서…6년여만에 애플 제쳐",
+        "date": "2026-01-08 07:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015835398?sid=104"
+    },
+    {
+        "title": "알파벳, 7년 만에 애플 시총 추월…AI 승부수 통했다",
+        "date": "2026-01-08 07:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005703666?sid=104"
+    },
+    {
+        "title": "JP모건체이스, 골드만삭스 대신 애플카드 발행 맡기로",
+        "date": "2026-01-08 06:55",
+        "link": "https://n.news.naver.com/mnews/article/001/0015835383?sid=101"
+    },
+    {
+        "title": "알파벳, 애플 추월하며 시총 2위 도약...AI 전략 명암 엇갈려",
+        "date": "2026-01-08 06:38",
+        "link": "https://www.g-enews.com/view.php?ud=2026010806075343813bc914ac71_1"
+    },
+    {
+        "title": "[디지털 줌인] 안경과 IT의 만남...자동으로 초점을 맞춰주는 LCD 렌즈",
+        "date": "2026-01-08 06:22",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=181180"
+    },
+    {
+        "title": "애플 '에어드랍' 구글 연동 사실상 허용…'아이폰생태계' 영향은",
+        "date": "2026-01-08 06:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008702161?sid=105"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED에 '삼성 아트 스토어' 도입 [CES 2026]",
+        "date": "2026-01-08 06:14",
+        "link": "https://n.news.naver.com/mnews/article/119/0003045824?sid=101"
+    },
+    {
         "title": "'CES 2026' 에이수스, OLED 게이밍 글래스 'ROG XREAL R1' 발표",
         "date": "2026-01-07 22:00",
         "link": "https://m.sports.naver.com/esports/article/311/0001961037"
@@ -80,6 +665,11 @@
         "link": "https://idsn.co.kr/news/view/1065597563360589"
     },
     {
+        "title": "삼성, 2026년 폴더블 3종 동시 출격 준비.. IMEI 데이터베이스 등록",
+        "date": "2026-01-07 17:58",
+        "link": "https://kbench.com/?q=node/275016"
+    },
+    {
         "title": "삼성D, 인텔과 노트북 OLED 전력 효율 극대화시킨다",
         "date": "2026-01-07 17:56",
         "link": "https://www.sisaweek.com/news/articleView.html?idxno=232523"
@@ -110,12 +700,17 @@
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154440"
     },
     {
+        "title": "단 1 시간 30분 한정! MSI, 인기 제품군 G마켓 라이브서 프로모션 진행",
+        "date": "2026-01-07 17:02",
+        "link": "https://kbench.com/?q=node/275017"
+    },
+    {
         "title": "폴더블 쫓아오는 애플, 주름까지 줄이는 삼성",
         "date": "2026-01-07 16:59",
         "link": "https://n.news.naver.com/mnews/article/014/0005459600?sid=105"
     },
     {
-        "title": "LCD 가격도 오른다...세트 까지 '도미노 인상' 불가피",
+        "title": "LCD 가격도 오른다...완제품까지 '도미노 인상' 불가피",
         "date": "2026-01-07 16:52",
         "link": "https://www.thelec.kr/news/articleView.html?idxno=50647"
     },
@@ -183,6 +778,11 @@
         "title": "애플수박작목반, 합천군청 방문 농축산물가격안정기금 2백만원 기탁",
         "date": "2026-01-07 15:56",
         "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289125050589"
+    },
+    {
+        "title": "초경량부터 터치스크린과 스타일러스까지 MSI CES2026에서 다양한 비즈니...",
+        "date": "2026-01-07 15:42",
+        "link": "https://kbench.com/?q=node/275011"
     },
     {
         "title": "삼성디스플레이-인텔, HDR 전력 소모 22% 낮춘 '스마트파워 HDR' 공동 개...",
@@ -270,6 +870,11 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=618969"
     },
     {
+        "title": "MSI, CES 2026서 AI 기반 차세대 제품 풀 라인업 공개",
+        "date": "2026-01-07 13:06",
+        "link": "https://kbench.com/?q=node/275002"
+    },
+    {
         "title": "삼성 갤럭시 Z 트라이폴드, 진정한 '패블릿'이긴 하지만…",
         "date": "2026-01-07 13:04",
         "link": "http://www.itdaily.kr/news/articleView.html?idxno=237293"
@@ -288,6 +893,11 @@
         "title": "한국에 안 뒤진다 中 TV 자신감…삼성·LG, 고화질 프리미엄 맞불",
         "date": "2026-01-07 12:35",
         "link": "https://n.news.naver.com/mnews/article/421/0008700668?sid=101"
+    },
+    {
+        "title": "HP, 차세대 AI 게이밍 노트북 ‘오멘 16’ 공식 출시",
+        "date": "2026-01-07 12:32",
+        "link": "https://kbench.com/?q=node/274996"
     },
     {
         "title": "에이수스, CES 2026서 차세대 AI 노트북·게이밍 하드웨어 공개",
@@ -328,6 +938,11 @@
         "title": "[더벨][CES 2026]그룹 보폭 맞추는 LGD, '로봇용 OLED' 준비",
         "date": "2026-01-07 11:32",
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601060857424860102996"
+    },
+    {
+        "title": "[더벨][CES 2026]삼성전자, 로봇 전략 공개…'캡티브' 수요 기반 확장",
+        "date": "2026-01-07 11:32",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601061428224440106536"
     },
     {
         "title": "애플 iOS 26.3, 보안 업데이트 배포…새로운 시스템 실험 중",
@@ -490,6 +1105,11 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006196192?sid=105"
     },
     {
+        "title": "에이수스, CES 2026서 ‘Always Incredible’ 비전 기반 차세대 AI PC 대거...",
+        "date": "2026-01-07 10:02",
+        "link": "https://kbench.com/?q=node/274985"
+    },
+    {
         "title": "삼성디스플레이, 인텔과 협력해 차세대 저전력 기술 ‘스마트파워 HDR’...",
         "date": "2026-01-07 10:00",
         "link": "https://www.ceoscoredaily.com/page/view/2026010709310957888"
@@ -530,6 +1150,11 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015833276?sid=105"
     },
     {
+        "title": "애플, 아이폰17e 대량 생산 임박…2월 말 출시 가능성",
+        "date": "2026-01-07 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=618907"
+    },
+    {
         "title": "스티브 잡스 유품 경매…애플 창립 초기 유물 대거 공개",
         "date": "2026-01-07 09:52",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=618900"
@@ -538,11 +1163,6 @@
         "title": "[CES 2026]삼성전자 '갤럭시 북 6 시리즈' 공개",
         "date": "2026-01-07 09:52",
         "link": "http://www.press9.kr/news/articleView.html?idxno=70622"
-    },
-    {
-        "title": "애플, 아이폰17e 대량 생산 임박…2월 말 출시 가능성",
-        "date": "2026-01-07 09:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=618907"
     },
     {
         "title": "삼성디스플레이, 인텔과 차세대 HDR 기술 개발… OLED 소비전력 최대 22...",
