@@ -1,5 +1,775 @@
 [
     {
+        "title": "MSI QD-OLED 구매하면 '바이오하자드: 레퀴엠' 스팀 게임 코드 증정한다",
+        "date": "2026-01-26 13:40",
+        "link": "https://www.cnet.co.kr/view/?no=20260126133317"
+    },
+    {
+        "title": "애플, 인도서 아이폰 판매 최고 기록…점유율 9% 돌파",
+        "date": "2026-01-26 13:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623927"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6' 2종 출시…“AI 성능·디스플레이·발열 개선”",
+        "date": "2026-01-26 13:19",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393174?sid=105"
+    },
+    {
+        "title": "MSI, 어두운 호러 게임도 QD-OLED 모니터로! 바이오하자드 게임 번들 프...",
+        "date": "2026-01-26 13:12",
+        "link": "https://kbench.com/?q=node/275567"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 12:39",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=96851"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6' 국내 출시… 영상 30시간 연속 재생",
+        "date": "2026-01-26 12:38",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=245453"
+    },
+    {
+        "title": "HP, 하이퍼엑스 중심으로 게이밍 브랜드 재편…오멘 신제품 방향성 공개",
+        "date": "2026-01-26 12:04",
+        "link": "https://kbench.com/?q=node/275555"
+    },
+    {
+        "title": "삼성 갤럭시 북6 울트라·프로 출시…2026년형 LG 그램에 맞불",
+        "date": "2026-01-26 12:02",
+        "link": "http://www.segyebiz.com/newsView/20260126507236?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6 울트라 &amp; 갤럭시 북6 프로’ 국내 출시",
+        "date": "2026-01-26 11:58",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065580477952635"
+    },
+    {
+        "title": "“잊으라고 만든 이름” PC 모니터 제품명이 정말 싫은 이유",
+        "date": "2026-01-26 11:54",
+        "link": "https://www.itworld.co.kr/article/4121813/잊으라고-만든-이름-pc-모니터-제품명이-정말-싫은.html"
+    },
+    {
+        "title": "삼성전자 '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 11:52",
+        "link": "https://www.sentv.co.kr/article/view/sentv202601260096"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 품은 '갤럭시 북6 울트라·프로' 출시",
+        "date": "2026-01-26 11:48",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=203944"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 27일 출시...AI 성능 강화로 프리미...",
+        "date": "2026-01-26 11:44",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=60290"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6 울트라·프로’ 27일 국내 출시…AI PC 승부수",
+        "date": "2026-01-26 11:42",
+        "link": "https://www.socialvalue.kr/news/view/1065580585223839"
+    },
+    {
+        "title": "삼성 AI PC 갤럭시 북6 시리즈 국내 판매 시작",
+        "date": "2026-01-26 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623852"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 11:34",
+        "link": "https://www.g-enews.com/view.php?ud=2026012610525871276ed0c62d49_1"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 11:28",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=512194"
+    },
+    {
+        "title": "메일 검색부터 에어드롭까지…애플이 방치한 황당한 버그들",
+        "date": "2026-01-26 11:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623892"
+    },
+    {
+        "title": "애플, 2026년 대대적 맥북 리뉴얼…새로운 맥북 프로·에어 등장",
+        "date": "2026-01-26 11:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623905"
+    },
+    {
+        "title": "애플, AI 전략 전환…제미나이 기반 시리로 앱 통합 가속",
+        "date": "2026-01-26 11:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623858"
+    },
+    {
+        "title": "삼성전자 갤럭시 북6 울트라·프로 국내 출시, 달라진 성능과 AI 기능은...",
+        "date": "2026-01-26 11:24",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=411782"
+    },
+    {
+        "title": "구글 제미나이 입은 '아이폰'이 온다... 애플 iOS 26.4 베타서 최초로 공...",
+        "date": "2026-01-26 11:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808223"
+    },
+    {
+        "title": "삼성전자, 차세대 AI PC '갤럭시 북6 울트라·프로' 국내 상륙",
+        "date": "2026-01-26 11:20",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257426"
+    },
+    {
+        "title": "인텔, 2028년부터 차세대 14A 공정 기반 애플 칩 생산 루머",
+        "date": "2026-01-26 11:18",
+        "link": "https://kbench.com/?q=node/275553"
+    },
+    {
+        "title": "[뉴욕 주간 프리뷰] 메타·MS·테슬라·애플 실적 행진…FOMC까지",
+        "date": "2026-01-26 11:17",
+        "link": "https://www.newspim.com/news/view/20260126000488"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 11:16",
+        "link": "http://www.metroseoul.co.kr/article/20260126500208"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 11:16",
+        "link": "https://n.news.naver.com/mnews/article/243/0000091925?sid=105"
+    },
+    {
+        "title": "삼성전자 AI PC '갤럭시 북6 울트라·프로' 국내 출시, 3월31일까지 혜택...",
+        "date": "2026-01-26 11:12",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=427989"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 11:06",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1083579"
+    },
+    {
+        "title": "웹젠 '드래곤소드', 구글·애플 앱마켓 인기 1위 달성",
+        "date": "2026-01-26 11:05",
+        "link": "https://www.newspim.com/news/view/20260126000434"
+    },
+    {
+        "title": "LG전자, 초대형 마이크로 LED 'LG 매그니트' 신제품 공개",
+        "date": "2026-01-26 11:04",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=231131"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 국내 출시",
+        "date": "2026-01-26 11:02",
+        "link": "https://n.news.naver.com/mnews/article/029/0003006985?sid=105"
+    },
+    {
+        "title": "애플, 올해 맥북 프로 두 번 출시한다",
+        "date": "2026-01-26 11:00",
+        "link": "https://n.news.naver.com/mnews/article/092/0002407636?sid=105"
+    },
+    {
+        "title": "애플, '제미나이 탑재된 시리'로 AI 전략 대전환…핵심 앱에 전면 통합...",
+        "date": "2026-01-26 11:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541041"
+    },
+    {
+        "title": "“AI 사용성 강화”… 삼성전자, ‘갤럭시 북6 울트라’·‘갤럭시 북6 ...",
+        "date": "2026-01-26 10:57",
+        "link": "https://n.news.naver.com/mnews/article/020/0003692334?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시 북6'vs LG '그램'…AI 노트북 경쟁",
+        "date": "2026-01-26 10:54",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=721601"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 출시",
+        "date": "2026-01-26 10:54",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=150200"
+    },
+    {
+        "title": "더 밝고 똑똑하게 삼성전자, AI 강화한 '갤럭시 북6' 시리즈 선보여",
+        "date": "2026-01-26 10:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155604"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6’ 시리즈 신제품 27일 국내 출시",
+        "date": "2026-01-26 10:50",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=82329"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 10:48",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=98965"
+    },
+    {
+        "title": "삼성, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 10:48",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=858688"
+    },
+    {
+        "title": "SKT, 새 학기 맞아 '잼 페스티벌' 시작…자녀 혜택 한자리에",
+        "date": "2026-01-26 10:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=231118"
+    },
+    {
+        "title": "“AI 노트북 시장 잡아라”…삼성·LG, 신형 노트북 격돌",
+        "date": "2026-01-26 10:46",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1289031&inflow=N"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6 울트라·프로’ 국내 출시",
+        "date": "2026-01-26 10:44",
+        "link": "https://www.ceoscoredaily.com/page/view/2026012610350557614"
+    },
+    {
+        "title": "삼성전자, AI 무장한 갤럭시북 6 시리즈 내놓는다",
+        "date": "2026-01-26 10:42",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=726998"
+    },
+    {
+        "title": "성능을 넘어 'AI 경험'으로…삼성전자, PC 전략의 무게중심을 옮기다",
+        "date": "2026-01-26 10:40",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=720850"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 10:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=109618"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6' 국내 출시",
+        "date": "2026-01-26 10:34",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42736"
+    },
+    {
+        "title": "삼성전자, 차세대 AI PC ‘갤럭시 북6 울트라·프로’ 27일 국내 공식 상...",
+        "date": "2026-01-26 10:30",
+        "link": "https://www.hinews.co.kr/view.php?ud=2026012610025395864860f00ac1_48"
+    },
+    {
+        "title": "LG디스플레이, 4년만 흑자 전환....상반기 적자기조도 벗어날듯",
+        "date": "2026-01-26 10:28",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=76437"
+    },
+    {
+        "title": "웹젠 '드래곤소드', 출시 3일 만에 구글·애플 앱마켓 1위",
+        "date": "2026-01-26 10:25",
+        "link": "https://n.news.naver.com/mnews/article/003/0013729858?sid=105"
+    },
+    {
+        "title": "M7 실적 발표 시작…이번주 MS·메타·애플 주목",
+        "date": "2026-01-26 10:22",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4395271"
+    },
+    {
+        "title": "SKT, '아이러브 ZEM 새 학기 페스티벌' 개최…학생·학부모 대상 혜택 한...",
+        "date": "2026-01-26 10:18",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=123397"
+    },
+    {
+        "title": "세미파이브-사피엔반도체, 마이크로 디스플레이 핵심 'CMOS 백플레인' 기...",
+        "date": "2026-01-26 10:17",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=691300"
+    },
+    {
+        "title": "스마트폰 빙하기...“과연, 스마트폰 종말이 올까?”",
+        "date": "2026-01-26 10:16",
+        "link": "http://www.breaknews.com/1179483"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 10:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002407609?sid=105"
+    },
+    {
+        "title": "AI 성능 끝판왕 나왔다…삼성, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 10:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575267861070"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시... 성능·디자인...",
+        "date": "2026-01-26 10:04",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=35563"
+    },
+    {
+        "title": "[오늘의 전자] 삼성전자·LG전자",
+        "date": "2026-01-26 10:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=39903"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 AI PC 국내 출시",
+        "date": "2026-01-26 10:02",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202601260959181343de3f0aa1be_7"
+    },
+    {
+        "title": "새 학기 학부모·자녀 고객 잡는다…SKT, ZEM 페스티벌",
+        "date": "2026-01-26 10:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1696747"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6' 시리즈 국내 출시···가격은 260만원부터",
+        "date": "2026-01-26 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=619378"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북'갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:58",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=281421"
+    },
+    {
+        "title": "삼성전자, AI PC ‘갤럭시 북6 울트라·프로’ 국내 출시",
+        "date": "2026-01-26 09:58",
+        "link": "http://www.breaknews.com/1179480"
+    },
+    {
+        "title": "삼성전자, AI 성능 키운 '갤럭시 북6' 공개… 울트라∙프로 투트랙 전략...",
+        "date": "2026-01-26 09:58",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=176457"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, '갤럭시 북6 울트라' '갤럭시 북6 프로' 국내 출...",
+        "date": "2026-01-26 09:54",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=754211"
+    },
+    {
+        "title": "삼성전자, AI PC 갤럭시 북6 시리즈 국내 출시…“혁신 플래그십 제품”",
+        "date": "2026-01-26 09:54",
+        "link": "https://www.kukinews.com/article/view/kuk202601260047"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 시리즈' 국내 공식 출시",
+        "date": "2026-01-26 09:54",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=272066"
+    },
+    {
+        "title": "세미파이브-사피엔반도체, 마이크로LED CMOS 백플레인 개발 협력",
+        "date": "2026-01-26 09:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216122?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6' 27일 국내 출시",
+        "date": "2026-01-26 09:50",
+        "link": "https://n.news.naver.com/mnews/article/215/0001239183?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:48",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202601260945125786be44c0aacd_30"
+    },
+    {
+        "title": "삼성전자 '갤럭시 북6 울트라·프로' 출시…가격 260만부터 '껑충'",
+        "date": "2026-01-26 09:48",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=828479"
+    },
+    {
+        "title": "비트엠, 27형 QHD 120Hz 게이밍 모니터 ‘Newsync P27Q120 IPS 플렉스 HDR’...",
+        "date": "2026-01-26 09:48",
+        "link": "https://kbench.com/?q=node/275536"
+    },
+    {
+        "title": "“플래그십 AI PC”…삼성전자, 갤럭시 북6 울트라·프로 출시",
+        "date": "2026-01-26 09:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005627124?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 시리즈 출시…업그레이드된 플래그십 AI PC",
+        "date": "2026-01-26 09:40",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=239820"
+    },
+    {
+        "title": "'갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:38",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57832"
+    },
+    {
+        "title": "성장 궤도 올라선 LG이노텍 … 아이폰17 효과 속 사업 다각화 시험대",
+        "date": "2026-01-26 09:38",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/01/26/2026012600067.html"
+    },
+    {
+        "title": "AI 사용성 높였다…삼성전자, ‘갤럭시 북6 울트라·프로’ 국내 출시",
+        "date": "2026-01-26 09:35",
+        "link": "https://n.news.naver.com/mnews/article/011/0004582880?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:32",
+        "link": "http://www.datanews.co.kr/news/article.html?no=142996"
+    },
+    {
+        "title": "세미파이브·사피엔반도체, 마이크로 디스플레이 기술 고도화 맞손",
+        "date": "2026-01-26 09:30",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=208844"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:28",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=105940"
+    },
+    {
+        "title": "SKT, ‘아이러브 ZEM 새학기 페스티벌’…키즈·학부모 맞춤 혜택 총집합",
+        "date": "2026-01-26 09:28",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000090181"
+    },
+    {
+        "title": "가성비 게이밍 노트북의 새로운 기준, 에이서 니트로 V 16S AI ANV16S-41-R85...",
+        "date": "2026-01-26 09:24",
+        "link": "https://kbench.com/?q=node/275485"
+    },
+    {
+        "title": "삼성전자 갤럭시 북6 울트라, 갤럭시 북6 프로 국내 출시",
+        "date": "2026-01-26 09:24",
+        "link": "https://n.news.naver.com/mnews/article/022/0004100489?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 출시",
+        "date": "2026-01-26 09:24",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=119619"
+    },
+    {
+        "title": "[뉴템] 삼성전자, AI PC ‘갤럭시 북6 울트라·프로’ 27일 국내 출시",
+        "date": "2026-01-26 09:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216114?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 27일 국내 출시",
+        "date": "2026-01-26 09:22",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=353952"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:21",
+        "link": "https://n.news.naver.com/mnews/article/014/0005467983?sid=105"
+    },
+    {
+        "title": "세미파이브·사피엔반도체, '차세대 마이크로 디스플레이 핵심' CMOS 백플...",
+        "date": "2026-01-26 09:20",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=721569"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:19",
+        "link": "https://n.news.naver.com/mnews/article/277/0005711670?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:18",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=327777"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:18",
+        "link": "https://hbnpress.com/news/view/1065572061006175"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:16",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=121200"
+    },
+    {
+        "title": "SKT, 학생·학부모 위한 새학기 페스티벌 이벤트 풍성",
+        "date": "2026-01-26 09:16",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=327776"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:12",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=546339"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:12",
+        "link": "https://n.news.naver.com/mnews/article/031/0000999819?sid=105"
+    },
+    {
+        "title": "2배 밝기·30시간 영상재생 삼성전자, 갤럭시북6 울트라·프로 출시",
+        "date": "2026-01-26 09:10",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=119840"
+    },
+    {
+        "title": "AI·디자인·배터리까지 업그레이드…삼성전자 '갤럭시 북6 울트라·프로...",
+        "date": "2026-01-26 09:10",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=94302"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 시리즈 출시…'AI 노트북 생태계' 잡는다",
+        "date": "2026-01-26 09:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260126090338"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:10",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000090174"
+    },
+    {
+        "title": "SKT, 새학기 부모·자녀 고객 잡기 나서..‘아이러브 ZEM 새 학기 페스티...",
+        "date": "2026-01-26 09:10",
+        "link": "http://kpenews.com/View.aspx?No=3953457"
+    },
+    {
+        "title": "SKT, 새 학기 앞둔 고객 대상 ‘아이러브 ZEM 새 학기 페스티벌’ 개최",
+        "date": "2026-01-26 09:10",
+        "link": "https://www.viva100.com/article/20260126500134"
+    },
+    {
+        "title": "골프존클라우드, ‘스마트캐디’ 아이폰·애플워치 공개…글로벌 공략...",
+        "date": "2026-01-26 09:10",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2182497"
+    },
+    {
+        "title": "애플, 구글과 'AI 동맹' 맺고 시리 대수술…'제미나이' 탑재해 3월 공개",
+        "date": "2026-01-26 09:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216106?sid=105"
+    },
+    {
+        "title": "성능부터 디자인, AI까지 '풀 체인지' 업그레이드 .... 삼성전자, '갤럭...",
+        "date": "2026-01-26 09:08",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=80364"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 09:08",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=122083"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:04",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=811639"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6' 국내 출시…오는 27일부터 판매",
+        "date": "2026-01-26 09:04",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=195079"
+    },
+    {
+        "title": "삼성전자, AI 성능·디자인 모두 잡은 '갤럭시 북6' 출격",
+        "date": "2026-01-26 09:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/01/26/2026012600020.html"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 09:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=210727"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 08:58",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=238189"
+    },
+    {
+        "title": "SK텔레콤, '아이러브 ZEM 새 학기 페스티벌' 진행",
+        "date": "2026-01-26 08:55",
+        "link": "https://www.newspim.com/news/view/20260126000107"
+    },
+    {
+        "title": "삼성 '갤럭시 북6' 출격…AI 성능 강화한 울트라·프로 27일 출시",
+        "date": "2026-01-26 08:51",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=107290"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:50",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=424579"
+    },
+    {
+        "title": "삼성, 프리미엄 AI PC ‘갤럭시 북6 시리즈’ 27일 출시",
+        "date": "2026-01-26 08:50",
+        "link": "https://n.news.naver.com/mnews/article/119/0003052071?sid=105"
+    },
+    {
+        "title": "삼성전자, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 08:48",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3367426"
+    },
+    {
+        "title": "삼성전자, 플래그십 AI PC 갤럭시북6 울트라·프로 출시",
+        "date": "2026-01-26 08:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1326906"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 국내 출시",
+        "date": "2026-01-26 08:46",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=690051"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6' 출시…울트라 462만~493만원·프로 260만~351만원",
+        "date": "2026-01-26 08:45",
+        "link": "https://n.news.naver.com/mnews/article/008/0005309193?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:44",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202601260805436605a3c244e1c9_23"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6 울트라’, ‘갤럭시 북6 프로’ 출시",
+        "date": "2026-01-26 08:44",
+        "link": "https://n.news.naver.com/mnews/article/082/0001364181?sid=101"
+    },
+    {
+        "title": "삼성, '갤럭시 북6 울트라', '갤럭시 북6 프로' 27일 국내 출시",
+        "date": "2026-01-26 08:44",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/102129"
+    },
+    {
+        "title": "SKT, 새 학기 앞두고 '아이러브 ZEM 새 학기 페스티벌' 진행",
+        "date": "2026-01-26 08:44",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1326901"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 품은 '갤럭시 북6 울트라·프로' 출시",
+        "date": "2026-01-26 08:41",
+        "link": "https://www.newspim.com/news/view/20260126000088"
+    },
+    {
+        "title": "더 얇고 강력해졌다…삼성전자, 역대급 성능 갤럭시 북6 시리즈 국내...",
+        "date": "2026-01-26 08:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1329372"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 북6 울트라-프로’ 27일 국내 출시",
+        "date": "2026-01-26 08:40",
+        "link": "http://theviewers.co.kr/View.aspx?No=3953415"
+    },
+    {
+        "title": "삼성, AI PC '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 08:39",
+        "link": "https://n.news.naver.com/mnews/article/001/0015866063?sid=105"
+    },
+    {
+        "title": "'AI 비서' 경쟁 본격화...제미나이 입힌 시리, 내달 시연",
+        "date": "2026-01-26 08:38",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=159919"
+    },
+    {
+        "title": "삼성전자 '갤럭시 북6 울트라·프로' 출시..462만원·260만원부터",
+        "date": "2026-01-26 08:34",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2105769"
+    },
+    {
+        "title": "삼성전자, 내일(27일) 갤럭시 북6 울트라·프로 국내 출시",
+        "date": "2026-01-26 08:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421497"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 국내 출시",
+        "date": "2026-01-26 08:34",
+        "link": "http://thetracker.co.kr/View.aspx?No=3953413"
+    },
+    {
+        "title": "애플, AI 중심 새 홈 디바이스 '홈패드' 올봄 출시 가능성",
+        "date": "2026-01-26 08:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623771"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라·프로' 국내 출시",
+        "date": "2026-01-26 08:34",
+        "link": "https://www.ajunews.com/view/20260126082559787"
+    },
+    {
+        "title": "SKT, 새 학기 고객 대상 ‘종합 혜택 패키지’ 공개",
+        "date": "2026-01-26 08:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002590709?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라' 국내 출시 및 AI 기능 강화 발표",
+        "date": "2026-01-26 08:32",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=551925"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:28",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=411742"
+    },
+    {
+        "title": "삼성, 갤럭시 북6 울트라·프로 국내 출시",
+        "date": "2026-01-26 08:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002590704?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:24",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=106223"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:24",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=71910"
+    },
+    {
+        "title": "애플, 구글 제미나이 무장한 ‘개인화 시리’ 2월 말 공개",
+        "date": "2026-01-26 08:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002407555?sid=105"
+    },
+    {
+        "title": "[더벨][퀀텀점프 2026]이노테크, AI 시대 OLED 각광 '확신'",
+        "date": "2026-01-26 08:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601221613414080106331"
+    },
+    {
+        "title": "애플과 견주는 수면측정 기술...글로벌 기기 중 최고 정확도 기록[에이...",
+        "date": "2026-01-26 08:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006206855?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라'-'갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:20",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=711708"
+    },
+    {
+        "title": "압도적 성능에 AI를 입혔다 삼성전자, 플래그십 PC '갤럭시 북6 시리즈...",
+        "date": "2026-01-26 08:20",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=67658"
+    },
+    {
+        "title": "[비바100] ‘RGB TV’ 준비하는 프리미엄 TV 시장",
+        "date": "2026-01-26 08:14",
+        "link": "https://www.viva100.com/article/20260123501017"
+    },
+    {
+        "title": "삼성전자, 갤럭시 북6 울트라·프로 국내 판매 개시",
+        "date": "2026-01-26 08:10",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=52365"
+    },
+    {
+        "title": "[더벨][소니-TCL JV 설립 파장]디스플레이 소부장 영향 크지 않다? 중장...",
+        "date": "2026-01-26 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601230739381220101579"
+    },
+    {
+        "title": "삼성전자·SK하이닉스, 29일 사상 처음 나란히 실적발표",
+        "date": "2026-01-26 07:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0000999807?sid=101"
+    },
+    {
+        "title": "세미파이브-사피엔반도체, 차세대 마이크로 디스플레이 핵심 기술 협력...",
+        "date": "2026-01-26 07:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421455"
+    },
+    {
+        "title": "'왕년의 스타' 모토로라, 공짜로 써볼까? '쌀알 두께' 초슬림폰 출시",
+        "date": "2026-01-26 07:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005309167?sid=105"
+    },
+    {
+        "title": "애플, 구글 제미나이 기반 차세대 시리 2월 발표한다",
+        "date": "2026-01-26 06:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623765"
+    },
+    {
+        "title": "LG디스플레이, 'OLED' 기술력으로 흑자 이어갈까",
+        "date": "2026-01-26 06:30",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=281378"
+    },
+    {
+        "title": "맥북 프로, 이름만 빼고 다 달라진다… OLED 터치 디스플레이·셀룰러 통...",
+        "date": "2026-01-26 06:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003392994?sid=104"
+    },
+    {
+        "title": "[단독] 5년간 586번 당했다…‘특허 괴물’ 먹잇감 K-제조 [약탈적 도구...",
+        "date": "2026-01-26 05:02",
+        "link": "https://www.etoday.co.kr/news/view/2548573"
+    },
+    {
         "title": "[주간경제전망] 삼성·애플·테슬라 실적 뜬다… 연준 회의 결과도 발표",
         "date": "2026-01-26 05:00",
         "link": "https://n.news.naver.com/mnews/article/417/0001126300?sid=101"
@@ -13,6 +783,11 @@
         "title": "‘AI 지각생’ 애플, 구글과 손 잡고 본격 반격 나섰다",
         "date": "2026-01-26 00:20",
         "link": "https://n.news.naver.com/mnews/article/005/0001828233?sid=101"
+    },
+    {
+        "title": "“수리비 200만원” 품절 대란 ‘2번 접는폰’…“이렇게 화면 박살” ...",
+        "date": "2026-01-25 21:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002590631?sid=105"
     },
     {
         "title": "LG전자, 마이크로 LED 사이니지 'LG 매그니트' 공개",
@@ -45,7 +820,7 @@
         "link": "https://www.todayeconomic.com/news/article.html?no=29428"
     },
     {
-        "title": "[진영전자] 가성비 그 다음은?···샤오미코리아가 노리는 '한국 자리'",
+        "title": "[진영전자] 가성비 그 다음은?···샤오미코리아가 노리는 '빈 자리'",
         "date": "2026-01-25 16:49",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2385835"
     },
