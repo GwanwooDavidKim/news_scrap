@@ -1,5 +1,355 @@
 [
     {
+        "title": "OLED Monitor Demand Soars, Outpacing TV Panels",
+        "date": "2026-01-27 14:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=261804"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허분쟁서 일부 승소…배상금 1340억 감소 가능성",
+        "date": "2026-01-27 13:58",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=71516"
+    },
+    {
+        "title": "구글 AI 스마트폰 기술 장착한 '애플'…새 음성서비스 앞세워 '삼성'과 ...",
+        "date": "2026-01-27 13:56",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=179942"
+    },
+    {
+        "title": "탐색거리 50% 늘어난 2세대 애플 '에어태그', 잃어버린 수하물 찾는다",
+        "date": "2026-01-27 13:32",
+        "link": "https://n.news.naver.com/mnews/article/469/0000911198?sid=105"
+    },
+    {
+        "title": "애플, 에어태그 2세대 전격 출시…잃어버려도 끝까지 찾는다",
+        "date": "2026-01-27 13:30",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=85571"
+    },
+    {
+        "title": "[주니어전자]애플, 위치추적기기 '에어태그' 2세대 공개",
+        "date": "2026-01-27 13:27",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393598?sid=102"
+    },
+    {
+        "title": "애플-구글, 지미니 탑재한 'NEW 시리' 2월 공개 추진",
+        "date": "2026-01-27 13:12",
+        "link": "https://www.hellot.net/news/article.html?no=109693"
+    },
+    {
+        "title": "아이폰 에어2, 초광각 카메라·초박형 페이스ID 탑재 전망",
+        "date": "2026-01-27 13:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393587?sid=104"
+    },
+    {
+        "title": "애플, 'iOS·아이패드 OS 26.2.1' 출시.. 2세대 에어태그 지원, 버그 수정",
+        "date": "2026-01-27 11:54",
+        "link": "https://kbench.com/?q=node/275599"
+    },
+    {
+        "title": "가격은 그대로, 성능은 대폭 강화...애플 에어태그2 출시. 애플워치 연동...",
+        "date": "2026-01-27 11:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541086"
+    },
+    {
+        "title": "애플, 삼성도 버린 '초슬림폰' 집착 이어간다... 아이폰 에어 2 전용 초...",
+        "date": "2026-01-27 11:30",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808276"
+    },
+    {
+        "title": "유비리서치 “지난해 OLED 모니터 출하 64% 증가”",
+        "date": "2026-01-27 11:25",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393541?sid=101"
+    },
+    {
+        "title": "애플, 흑인 역사의 달 기념 '블랙 유니티' 애플워치 밴드 공개",
+        "date": "2026-01-27 11:22",
+        "link": "https://n.news.naver.com/mnews/article/031/0001000329?sid=101"
+    },
+    {
+        "title": "“내 폰 어디갔어?”…애플, 찾는 범위 50% 확대된 에어태그2 출시",
+        "date": "2026-01-27 11:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005627860?sid=101"
+    },
+    {
+        "title": "애플 iOS 26.3 베타3 공개… 시리 업그레이드 전초전",
+        "date": "2026-01-27 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624271"
+    },
+    {
+        "title": "내 열쇠 어딨지? 애플, 위치추적기기 '에어태그' 2세대 공개",
+        "date": "2026-01-27 11:08",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1696992"
+    },
+    {
+        "title": "애플, 분실물 공포 종식 선언…‘에어태그’ 차세대 모델 공개",
+        "date": "2026-01-27 11:01",
+        "link": "https://n.news.naver.com/mnews/article/022/0004100824?sid=105"
+    },
+    {
+        "title": "[글로벌] 애플, 구글과 손잡고 시리 전면 개편...'제미나이' 도입",
+        "date": "2026-01-27 10:58",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148832"
+    },
+    {
+        "title": "애플, '블랙 유니티' 애플 워치 밴드 공개",
+        "date": "2026-01-27 10:58",
+        "link": "https://www.betanews.net/article/view/beta202601270033"
+    },
+    {
+        "title": "[해외리포트] 메타와 에실로룩조티카, 스마트 안경 특허권 침해 혐의로...",
+        "date": "2026-01-27 10:54",
+        "link": "https://www.fashionbiz.co.kr/article/223244"
+    },
+    {
+        "title": "美 애플 주가 '급등'에도...LG이노텍은 '장중 뚝', 왜?",
+        "date": "2026-01-27 10:50",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=160035"
+    },
+    {
+        "title": "애플, 제미나이 기반 차세대 '시리' 다음달 공개…폰시장 판도는",
+        "date": "2026-01-27 10:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008736406?sid=105"
+    },
+    {
+        "title": "애플, 구글 제미나이 탑재한 개인화 시리 2월 말 공개 예정",
+        "date": "2026-01-27 10:46",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=204071"
+    },
+    {
+        "title": "애플, '흑인 역사의 달' 맞아 애플 워치 신제품 밴드 공개",
+        "date": "2026-01-27 10:42",
+        "link": "http://www.metroseoul.co.kr/article/20260127500183"
+    },
+    {
+        "title": "모니터용 OLED 60% 성장…올해 500만대 전망",
+        "date": "2026-01-27 10:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155689"
+    },
+    {
+        "title": "유비리서치, 韓 디스플레이 생존 전략 세미나 개최",
+        "date": "2026-01-27 10:38",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42767"
+    },
+    {
+        "title": "삼성도 애플도 쓴잔… 모토로라 '55만원 초슬림폰' 통할까",
+        "date": "2026-01-27 10:30",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006675?sid=105"
+    },
+    {
+        "title": "작년 모니터용 OLED 출하량 64% 증가...올해도 50% 이상 성장 예상",
+        "date": "2026-01-27 10:12",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=858868"
+    },
+    {
+        "title": "세계 OLED 모니터 출하량 2025년 64% 증가, TV보다 라인 효율·수익성 좋...",
+        "date": "2026-01-27 10:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428114"
+    },
+    {
+        "title": "애플, '에어태그' 2세대 공개…위치 추적 성능 강화",
+        "date": "2026-01-27 10:05",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393473?sid=105"
+    },
+    {
+        "title": "애플, 위치 추적 기기 '에어태그' 2세대 공개...정밀 탐색 범위 늘고 항...",
+        "date": "2026-01-27 10:02",
+        "link": "https://n.news.naver.com/mnews/article/052/0002306364?sid=104"
+    },
+    {
+        "title": "올레드 모니터 시장 고성장…지난해 64% 성장",
+        "date": "2026-01-27 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287467"
+    },
+    {
+        "title": "작년 OLED 모니터 시장 고성장…출하량 64% 증가",
+        "date": "2026-01-27 09:53",
+        "link": "https://n.news.naver.com/mnews/article/092/0002407798?sid=105"
+    },
+    {
+        "title": "애플, 차세대 에어태그 출시…탐색 거리 50% 확대",
+        "date": "2026-01-27 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624205"
+    },
+    {
+        "title": "애플, 오픈소스 앱 포스처 공개…거북목 자세 감지 시 화면 흐려져",
+        "date": "2026-01-27 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624167"
+    },
+    {
+        "title": "내 수하물 어딨지?…애플, 새로운 '에어 태그' 공개",
+        "date": "2026-01-27 09:48",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287466"
+    },
+    {
+        "title": "삼성전자, 밀라노 동계올림픽 특별판 폴더블폰 공개",
+        "date": "2026-01-27 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624215"
+    },
+    {
+        "title": "아직도 현역?…애플, 출시 13년 지난 '아이폰 5s'에 생명 연장",
+        "date": "2026-01-27 09:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216251?sid=105"
+    },
+    {
+        "title": "“지난해 모니터용 OLED 출하 64%↑…올해도 50% 고성장”",
+        "date": "2026-01-27 09:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0003007222?sid=101"
+    },
+    {
+        "title": "모니터용 OLED 출하량, 전년比 64% 증가…게이밍 등 수요 ↑",
+        "date": "2026-01-27 09:35",
+        "link": "https://n.news.naver.com/mnews/article/277/0005712335?sid=101"
+    },
+    {
+        "title": "애플, 위치 추적 기기 '에어태그' 신형 공개",
+        "date": "2026-01-27 09:29",
+        "link": "https://n.news.naver.com/mnews/article/015/0005242567?sid=105"
+    },
+    {
+        "title": "지난해 모니터용 OLED 출하량 64%↑… 올해도 50% 이상 성장",
+        "date": "2026-01-27 09:28",
+        "link": "https://n.news.naver.com/mnews/article/417/0001126583?sid=101"
+    },
+    {
+        "title": "﻿반석전자, '설 빅세일' AI·게이밍 공세 '호크포인트' 씽크북부터 RT...",
+        "date": "2026-01-27 09:24",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=202512"
+    },
+    {
+        "title": "애플, 2세대 초광대역 칩 탑재한 신형 에어태그 공개",
+        "date": "2026-01-27 09:23",
+        "link": "https://n.news.naver.com/mnews/article/031/0001000216?sid=101"
+    },
+    {
+        "title": "“모니터용 OLED 성장세 가파르다…올해 업계 출하 확대 전망”",
+        "date": "2026-01-27 09:22",
+        "link": "https://n.news.naver.com/mnews/article/119/0003052561?sid=101"
+    },
+    {
+        "title": "모니터용 OLED 출하량 1년 만에 64% 증가…고성장 지속",
+        "date": "2026-01-27 09:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0015868242?sid=101"
+    },
+    {
+        "title": "엔비디아, 애플 제치고 TSMC 최대 고객 등극…AI 칩 수요 폭발",
+        "date": "2026-01-27 09:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624161"
+    },
+    {
+        "title": "OLED 모니터 출하 64% 급증…2025년 320만 대 돌파",
+        "date": "2026-01-27 09:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=327830"
+    },
+    {
+        "title": "[뉴템] 지갑·열쇠 더 빨리 찾는다…애플, 2세대 에어태그 출시",
+        "date": "2026-01-27 09:08",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216238?sid=105"
+    },
+    {
+        "title": "삼성전자, 인도 스마트폰 점유율 하락… 中·애플 압박에 입지 흔들",
+        "date": "2026-01-27 09:06",
+        "link": "https://www.ceoscoredaily.com/page/view/2026012617192918715"
+    },
+    {
+        "title": "내 수하물 어딨지?…애플, 새로운 '에어 태그' 공개",
+        "date": "2026-01-27 09:03",
+        "link": "https://n.news.naver.com/mnews/article/003/0013731807?sid=105"
+    },
+    {
+        "title": "올레드 모니터 시장 고성장…지난해 64% 성장",
+        "date": "2026-01-27 09:03",
+        "link": "https://n.news.naver.com/mnews/article/003/0013731806?sid=101"
+    },
+    {
+        "title": "모니터용 OLED 시장 급성장…올해 500만대 출하 전망",
+        "date": "2026-01-27 08:59",
+        "link": "https://n.news.naver.com/mnews/article/018/0006207684?sid=101"
+    },
+    {
+        "title": "소니TV 집어삼킨 中…LCD 넘어 韓 OLED 생태계도 '흔들'",
+        "date": "2026-01-27 08:56",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155670"
+    },
+    {
+        "title": "초슬림폰 포기 못한 애플?…아이폰 에어2 위한 초박형 페이스ID 부품 개...",
+        "date": "2026-01-27 08:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006207681?sid=105"
+    },
+    {
+        "title": "애플, 정밀 탐색 강화한 차세대 에어태그 공개...1개 4만9000원부터",
+        "date": "2026-01-27 08:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=422072"
+    },
+    {
+        "title": "TSMC 최대 고객은 엔비디아?...올해 애플 밀어낸다",
+        "date": "2026-01-27 08:46",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=160007"
+    },
+    {
+        "title": "애플, 연결 범위·정밀 탐색 강화한 ‘신형 에어태그’ 공개",
+        "date": "2026-01-27 08:37",
+        "link": "https://n.news.naver.com/mnews/article/119/0003052530?sid=105"
+    },
+    {
+        "title": "애플, 에어태그 2 공개…수신 범위 넓어지고 스피커 커졌다",
+        "date": "2026-01-27 08:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002407766?sid=105"
+    },
+    {
+        "title": "삼성·애플 주춤한 사이…중저가폰 시장서 재점화된 '초슬림 경쟁'",
+        "date": "2026-01-27 08:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421756"
+    },
+    {
+        "title": "“소리로 찾는 아이폰” 애플, 에어태그 2세대 공개…가격 4.9만원",
+        "date": "2026-01-27 08:26",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260127010012365"
+    },
+    {
+        "title": "애플 주가, 255.41달러 2.97% 상승 마감",
+        "date": "2026-01-27 08:24",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15945358"
+    },
+    {
+        "title": "[더벨][퀀텀점프 2026]탑런토탈솔루션 6000억대 매출 원년",
+        "date": "2026-01-27 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601231651346760108030"
+    },
+    {
+        "title": "애플, '에어태그' 신제품 출시…탐색 범위 1.5배↑",
+        "date": "2026-01-27 08:09",
+        "link": "https://n.news.naver.com/mnews/article/241/0003490740?sid=105"
+    },
+    {
+        "title": "애플 M6 칩 예상보다 빠른 출시 가능성…올해 맥 제품군 대규모 업데이...",
+        "date": "2026-01-27 08:08",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541071"
+    },
+    {
+        "title": "[스마트글라스 ①] AI 시대, 스마트폰 잇는 다음 혁신은 '스마트 안경'",
+        "date": "2026-01-27 08:00",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=31629"
+    },
+    {
+        "title": "디스플레이 '빅2' 지난해 4분기 실적 희비...올해 전망은 긍정적",
+        "date": "2026-01-27 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624004"
+    },
+    {
+        "title": "삼성전자, ﻿갤럭시 북6 울트라·프로 27일 국내 출시",
+        "date": "2026-01-27 07:22",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205110"
+    },
+    {
+        "title": "소니 DNA에 TCL 생산력 결합…韓 OLED 리더십 '경고등', 보급형으로 방...",
+        "date": "2026-01-27 07:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216222?sid=105"
+    },
+    {
+        "title": "[비즈톡톡] 모토로라, 120만원짜리 초슬림폰 韓서는 55만원에… 갤럭시...",
+        "date": "2026-01-27 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001138529?sid=105"
+    },
+    {
         "title": "애플, 위치추적기기 '에어태그' 2세대 공개…정밀탐색 범위 늘어",
         "date": "2026-01-27 05:44",
         "link": "https://n.news.naver.com/mnews/article/055/0001327657?sid=104"
@@ -10,7 +360,7 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004583236?sid=104"
     },
     {
-        "title": "내 폰 어딨지?…애플, 탐색 범위 넓힌 '에어태그' 2세대 출시",
+        "title": "차 키 어딨지?…애플, 탐색 범위 넓힌 '에어태그' 2세대 출시",
         "date": "2026-01-27 05:12",
         "link": "https://n.news.naver.com/mnews/article/374/0000488760?sid=104"
     },
@@ -20,7 +370,7 @@
         "link": "https://n.news.naver.com/mnews/article/001/0015867959?sid=104"
     },
     {
-        "title": "[N2 포커스] 삼성 노태문·LG 류재철 새 사령탑, 성장 주춤한 가전 경쟁...",
+        "title": "[투데이 Pick] 삼성 노태문·LG 류재철 새 사령탑, 성장 주춤한 가전 경...",
         "date": "2026-01-27 03:02",
         "link": "https://www.news2day.co.kr/article/20260126500214"
     },
@@ -265,11 +615,6 @@
         "link": "https://www.socialvalue.kr/news/view/1065593777475630"
     },
     {
-        "title": "밀양 레드애플팜 사과와인 3년째 술도가 으뜸 주 선정",
-        "date": "2026-01-26 15:20",
-        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1480554"
-    },
-    {
         "title": "[재계 IN&amp;OUT]자만 말라…실적 반등에도 안심 없는 이재용의 달라진 언...",
         "date": "2026-01-26 15:16",
         "link": "https://www.newsway.co.kr/news/view?ud=2026012613125796219"
@@ -350,19 +695,9 @@
         "link": "https://www.aitimes.com/news/articleView.html?idxno=205896"
     },
     {
-        "title": "[전자는 지금] LG전자, '2026년형 LG 그램' 출시 이벤트 진행 外",
-        "date": "2026-01-26 13:58",
-        "link": "https://dealsite.co.kr/articles/155686"
-    },
-    {
         "title": "MSI QD-OLED 구매하면 '바이오하자드: 레퀴엠' 스팀 게임 코드 증정한다",
         "date": "2026-01-26 13:40",
         "link": "https://www.cnet.co.kr/view/?no=20260126133317"
-    },
-    {
-        "title": "[재계 투데이] 삼성전자 결합형 세탁건조기, 최고의 제품으로 호평 ​外",
-        "date": "2026-01-26 13:32",
-        "link": "https://news.dealsitetv.com/articles/164482"
     },
     {
         "title": "애플, 인도서 아이폰 판매 최고 기록…점유율 9% 돌파",
@@ -473,6 +808,11 @@
         "title": "삼성전자, 차세대 AI PC '갤럭시 북6 울트라·프로' 국내 상륙",
         "date": "2026-01-26 11:20",
         "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257426"
+    },
+    {
+        "title": "인텔, 2028년부터 차세대 14A 공정 기반 애플 칩 생산 루머",
+        "date": "2026-01-26 11:18",
+        "link": "https://kbench.com/?q=node/275553"
     },
     {
         "title": "[뉴욕 주간 프리뷰] 메타·MS·테슬라·애플 실적 행진…FOMC까지",
@@ -715,6 +1055,11 @@
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=828479"
     },
     {
+        "title": "비트엠, 27형 QHD 120Hz 게이밍 모니터 ‘Newsync P27Q120 IPS 플렉스 HDR’...",
+        "date": "2026-01-26 09:48",
+        "link": "https://kbench.com/?q=node/275536"
+    },
+    {
         "title": "“플래그십 AI PC”…삼성전자, 갤럭시 북6 울트라·프로 출시",
         "date": "2026-01-26 09:45",
         "link": "https://n.news.naver.com/mnews/article/009/0005627124?sid=101"
@@ -755,9 +1100,9 @@
         "link": "http://www.newsdream.kr/news/articleView.html?idxno=105940"
     },
     {
-        "title": "SKT, ‘아이러브 ZEM 새학기 페스티벌’…키즈·학부모 맞춤 혜택 총집합",
-        "date": "2026-01-26 09:28",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000090181"
+        "title": "가성비 게이밍 노트북의 새로운 기준, 에이서 니트로 V 16S AI ANV16S-41-R85...",
+        "date": "2026-01-26 09:24",
+        "link": "https://kbench.com/?q=node/275485"
     },
     {
         "title": "삼성전자 갤럭시 북6 울트라, 갤럭시 북6 프로 국내 출시",
@@ -845,14 +1190,14 @@
         "link": "https://www.seoultimes.news/news/article.html?no=2000090174"
     },
     {
-        "title": "SKT, 새학기 부모·자녀 고객 잡기 나서..‘아이러브 ZEM 새 학기 페스티...",
-        "date": "2026-01-26 09:10",
-        "link": "http://kpenews.com/View.aspx?No=3953457"
-    },
-    {
         "title": "SKT, 새 학기 앞둔 고객 대상 ‘아이러브 ZEM 새 학기 페스티벌’ 개최",
         "date": "2026-01-26 09:10",
         "link": "https://www.viva100.com/article/20260126500134"
+    },
+    {
+        "title": "SKT, 새학기 부모·자녀 고객 잡기 나서..‘아이러브 ZEM 새 학기 페스티...",
+        "date": "2026-01-26 09:10",
+        "link": "http://kpenews.com/View.aspx?No=3953457"
     },
     {
         "title": "골프존클라우드, ‘스마트캐디’ 아이폰·애플워치 공개…글로벌 공략...",
@@ -995,11 +1340,6 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421497"
     },
     {
-        "title": "삼성전자, 갤럭시 북6 울트라·프로 국내 출시",
-        "date": "2026-01-26 08:34",
-        "link": "http://thetracker.co.kr/View.aspx?No=3953413"
-    },
-    {
         "title": "애플, AI 중심 새 홈 디바이스 '홈패드' 올봄 출시 가능성",
         "date": "2026-01-26 08:34",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=623771"
@@ -1030,14 +1370,14 @@
         "link": "https://n.news.naver.com/mnews/article/016/0002590704?sid=105"
     },
     {
-        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
-        "date": "2026-01-26 08:24",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=71910"
-    },
-    {
         "title": "삼성전자, '갤럭시 북6 울트라'·'갤럭시 북6 프로' 국내 출시",
         "date": "2026-01-26 08:24",
         "link": "https://www.businessplus.kr/news/articleView.html?idxno=106223"
+    },
+    {
+        "title": "삼성전자, '갤럭시 북6 울트라', '갤럭시 북6 프로' 국내 출시",
+        "date": "2026-01-26 08:24",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=71910"
     },
     {
         "title": "애플, 구글 제미나이 무장한 ‘개인화 시리’ 2월 말 공개",
@@ -1088,11 +1428,6 @@
         "title": "세미파이브-사피엔반도체, 차세대 마이크로 디스플레이 핵심 기술 협력...",
         "date": "2026-01-26 07:24",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421455"
-    },
-    {
-        "title": "소니TV 삼킨 TCL…삼성·LG TV 흔든다",
-        "date": "2026-01-26 07:02",
-        "link": "https://dealsite.co.kr/articles/155576"
     },
     {
         "title": "'왕년의 스타' 모토로라, 공짜로 써볼까? '쌀알 두께' 초슬림폰 출시",
