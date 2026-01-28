@@ -1,5 +1,930 @@
 [
     {
+        "title": "애플, 10년 넘은 구형 아이폰·아이패드 대상 iOS 12.5.8 업데이트 전격...",
+        "date": "2026-01-28 12:43",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=692105"
+    },
+    {
+        "title": "LG디스플레이, 매출 25조 8101억원·영업이익 5170억원",
+        "date": "2026-01-28 12:08",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=261901"
+    },
+    {
+        "title": "칩값 뛰는데 AI는 필수…삼성 MX, S26 '가격·수익성' 고차방정식",
+        "date": "2026-01-28 12:05",
+        "link": "https://n.news.naver.com/mnews/article/119/0003053145?sid=105"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결",
+        "date": "2026-01-28 12:02",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399694"
+    },
+    {
+        "title": "페이크아이즈, '훈련 공백' 메우는 AI·MR 전투훈련 체계 제안… K-IVAS·...",
+        "date": "2026-01-28 11:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808319"
+    },
+    {
+        "title": "삼성전자 이민철 부사장 “인텔 팬서레이크 탑재 ‘갤럭시 북6’ 역대 ...",
+        "date": "2026-01-28 11:56",
+        "link": "https://www.betanews.net/article/view/beta202601280040"
+    },
+    {
+        "title": "'갤럭시S26 울트라' 10비트 OLED 패널 탑재.. 색 단계 64배 업그레이드",
+        "date": "2026-01-28 11:54",
+        "link": "https://kbench.com/?q=node/275636"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환 비결은",
+        "date": "2026-01-28 11:50",
+        "link": "http://www.globalepic.co.kr/view.php?ud=202601281144412048439a4874_29"
+    },
+    {
+        "title": "LGD, 4년 만에 흑자 전환…'OLED 중심' 체질개선 통했다",
+        "date": "2026-01-28 11:48",
+        "link": "https://n.news.naver.com/mnews/article/374/0000489158?sid=101"
+    },
+    {
+        "title": "중국에 고전하던 LG디스플레이… 4년만에 흑자 전환",
+        "date": "2026-01-28 11:37",
+        "link": "https://n.news.naver.com/mnews/article/021/0002767040?sid=101"
+    },
+    {
+        "title": "LG Display Returns to Profit After 4 Years, Shift to OLED Pays Off",
+        "date": "2026-01-28 11:36",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=261891"
+    },
+    {
+        "title": "'AR·VR 게임체인저' 적색 마이크로LED로 현실보다 선명한 화면이 눈앞에",
+        "date": "2026-01-28 11:30",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=123791"
+    },
+    {
+        "title": "카이스트, 초고해상도 적색 마이크로 LED 디스플레이 기술 개발",
+        "date": "2026-01-28 11:30",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=336252"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업이익 5170억원···4년 만 '흑자 전환'",
+        "date": "2026-01-28 11:26",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=116440"
+    },
+    {
+        "title": "“알몸 이미지 합성해 1700억원 벌었다” 선 한참 넘었다…구글·애플 시...",
+        "date": "2026-01-28 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002592247?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4년 만 흑자 전환",
+        "date": "2026-01-28 11:23",
+        "link": "https://n.news.naver.com/mnews/article/016/0002592240?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자... OLED 중심 사업 개편 효과",
+        "date": "2026-01-28 11:22",
+        "link": "https://n.news.naver.com/mnews/article/469/0000911404?sid=101"
+    },
+    {
+        "title": "애플 워치, 고혈압 알림 기능 제공",
+        "date": "2026-01-28 11:21",
+        "link": "https://n.news.naver.com/mnews/article/215/0001239550?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환... OLED 매출 비중 61% 역대 최고",
+        "date": "2026-01-28 11:16",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=31657"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 풀었다…‘현실 같은’ 영상 구현",
+        "date": "2026-01-28 11:15",
+        "link": "https://n.news.naver.com/mnews/article/016/0002592216?sid=105"
+    },
+    {
+        "title": "'구원투수' 정철동 효과 본격화…LGD, OLED 전환으로 4년 만에 '연간 흑...",
+        "date": "2026-01-28 11:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216394?sid=105"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결... VR 기기서 '현실 같은 영상' 구현",
+        "date": "2026-01-28 11:08",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=102495"
+    },
+    {
+        "title": "KAIST, 1700PPI급 초고해상도 마이크로LED 기술 개발",
+        "date": "2026-01-28 11:06",
+        "link": "https://n.news.naver.com/mnews/article/011/0004583857?sid=105"
+    },
+    {
+        "title": "OLED 중심 전략 통했다...LG디스플레이, 불황 터널 뚫고 4년만에 흑자 전...",
+        "date": "2026-01-28 11:04",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=200405"
+    },
+    {
+        "title": "애플·구글, 앱스토어에 ‘딥페이크 앱’ 버젓이...수수료도 챙겨",
+        "date": "2026-01-28 11:03",
+        "link": "https://n.news.naver.com/mnews/article/023/0003955673?sid=105"
+    },
+    {
+        "title": "[그래픽] 스마트폰 AMOLED 패널 출하량 전망",
+        "date": "2026-01-28 11:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2026012810551592908"
+    },
+    {
+        "title": "알몸 합성 'AI 딥페이크 앱', 애플·구글 스토어 유통",
+        "date": "2026-01-28 11:01",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000021235"
+    },
+    {
+        "title": "애플TV, F1 독점 스트리밍 시작…2026시즌 대비 콘텐츠 공개",
+        "date": "2026-01-28 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624588"
+    },
+    {
+        "title": "LGD, 지난해 영업익 5,170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 11:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=202669"
+    },
+    {
+        "title": "LG디스플레이·CNS '웃음', 전자·엔솔 '우울'… LG그룹 실적 희비",
+        "date": "2026-01-28 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005713066?sid=101"
+    },
+    {
+        "title": "위츠, 지난해 연간 매출액 1701억원 달성",
+        "date": "2026-01-28 11:00",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205166"
+    },
+    {
+        "title": "LG디스플레이, 영업익 5170억 4년만 흑자전환…아이폰17 덕에 웃었다",
+        "date": "2026-01-28 10:57",
+        "link": "https://n.news.naver.com/mnews/article/025/0003499549?sid=101"
+    },
+    {
+        "title": "손목에 차면 고혈압 ‘신호’ 잡는다…애플워치, 만성 고혈압 알림 도입",
+        "date": "2026-01-28 10:54",
+        "link": "https://n.news.naver.com/mnews/article/025/0003499546?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 5170억원 흑자전환…사업구조 고도화 효과",
+        "date": "2026-01-28 10:54",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=89070"
+    },
+    {
+        "title": "위츠, 2025년 매출 1701억원 달성…전년比 87% ↑",
+        "date": "2026-01-28 10:47",
+        "link": "https://www.newspim.com/news/view/20260128000359"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 흑자 전환 … 지난해 영업익 5170억",
+        "date": "2026-01-28 10:46",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57872"
+    },
+    {
+        "title": "애플, 구형 아이폰·아이패드용 'iOS 12.5.8' 업데이트 깜짝 출시",
+        "date": "2026-01-28 10:44",
+        "link": "https://kbench.com/?q=node/275631"
+    },
+    {
+        "title": "LG디플 4년 만에 흑자전환 OLED 집중화 전략 통했다",
+        "date": "2026-01-28 10:40",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=349964"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 영업이익 흑자 전환",
+        "date": "2026-01-28 10:40",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257552"
+    },
+    {
+        "title": "VR에서 '현실 같은 영상' 구현…KAIST, 마이크로LED 난제 해결",
+        "date": "2026-01-28 10:39",
+        "link": "https://n.news.naver.com/mnews/article/584/0000036198?sid=105"
+    },
+    {
+        "title": "카이스트 김상현 교수팀, 마이크로LED 난제 해결..VR 기기서 '현실 같은...",
+        "date": "2026-01-28 10:38",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=195712"
+    },
+    {
+        "title": "애플, D램 계약 기간 6개월에서 3개월로 전환",
+        "date": "2026-01-28 10:37",
+        "link": "https://n.news.naver.com/mnews/article/031/0001000713?sid=105"
+    },
+    {
+        "title": "KAIST, 초고해상도 저전력 적색 마이크로 LED 개발",
+        "date": "2026-01-28 10:36",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393982?sid=105"
+    },
+    {
+        "title": "네이버 설날+세일 프로모션에서 ASUS TUF 게이밍 노트북 득템 기회를 잡...",
+        "date": "2026-01-28 10:36",
+        "link": "https://kbench.com/?q=node/275633"
+    },
+    {
+        "title": "LGD, 4년 만에 '흑자 전환''…OLED 중심 체질 개선 결실",
+        "date": "2026-01-28 10:34",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=156316"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자전환…OLED 중심 고도화 효과",
+        "date": "2026-01-28 10:28",
+        "link": "https://n.news.naver.com/mnews/article/374/0000489127?sid=101"
+    },
+    {
+        "title": "영우디에스피·코세스 주가 '방긋'… 전사 수율 잡는 장비주가 마이크로...",
+        "date": "2026-01-28 10:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=422633"
+    },
+    {
+        "title": "LG디스플레이, 4분기 영업이익 1685억원···연간으로는 4년 만 '흑자전...",
+        "date": "2026-01-28 10:28",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=339441"
+    },
+    {
+        "title": "[2025 연간실적] LG디스플레이, 4년 만에 흑자전환…OLED 주력 전략 주효",
+        "date": "2026-01-28 10:24",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=82436"
+    },
+    {
+        "title": "OLED 체질 개선 결실...LG디스플레이, 4년 만에 연간 흑자 전환",
+        "date": "2026-01-28 10:24",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=60328"
+    },
+    {
+        "title": "애플, 제미나이 탑재 차세대 '시리' 다음달 공개.. iOS 26.4 함께 출시",
+        "date": "2026-01-28 10:24",
+        "link": "https://kbench.com/?q=node/275626"
+    },
+    {
+        "title": "경인양행·도우인시스 주가 함박웃음… 차세대 폼팩터 소재가 미래다",
+        "date": "2026-01-28 10:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=422628"
+    },
+    {
+        "title": "마이크로칩, 차량용 ‘maXTouch M1’ 터치 컨트롤러 제품군 확대",
+        "date": "2026-01-28 10:20",
+        "link": "https://www.hellot.net/news/article.html?no=109743"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자 전환…OLED 중심 ‘체질 개선 효과’",
+        "date": "2026-01-28 10:16",
+        "link": "https://www.kukinews.com/article/view/kuk202601280050"
+    },
+    {
+        "title": "LCD 접고 OLED 올인···LG디스플레이, 4년 만에 '흑자' 반전",
+        "date": "2026-01-28 10:14",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2387156"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업이익 5170억…4년만 흑자 전환",
+        "date": "2026-01-28 10:14",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=354127"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환…OLED 체질 개선 '통했다'",
+        "date": "2026-01-28 10:12",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=132332"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드', 美 출시가 415만원…1월30일 판매 개시",
+        "date": "2026-01-28 10:06",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=71579"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 흑자로…2025년 영업익 5170억원",
+        "date": "2026-01-28 10:06",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=727326"
+    },
+    {
+        "title": "LG디플, 4년 만에 흑자전환…성과금 쐈다",
+        "date": "2026-01-28 10:05",
+        "link": "https://n.news.naver.com/mnews/article/648/0000043964?sid=101"
+    },
+    {
+        "title": "OLED 전환 통했다…LG디스플레이, 4년 만에 흑자 전환 성공",
+        "date": "2026-01-28 10:04",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=354431"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자전환…원가 혁신 성과",
+        "date": "2026-01-28 10:04",
+        "link": "https://news.dealsitetv.com/articles/164628"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원...4년 만에 '흑자 전환'",
+        "date": "2026-01-28 10:02",
+        "link": "http://www.metroseoul.co.kr/article/20260128500161"
+    },
+    {
+        "title": "LGD, 4년만 '흑전'…올레드 중심 사업구조 고도화 결실(종합)",
+        "date": "2026-01-28 10:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287576"
+    },
+    {
+        "title": "구글·애플, 안 막나 못 막나…'엉덩이 흔들기' 딥페이크앱 버젓이",
+        "date": "2026-01-28 10:02",
+        "link": "https://n.news.naver.com/mnews/article/057/0001932423?sid=102"
+    },
+    {
+        "title": "마이크로칩, 더욱 폭넓은 화면 크기 지원하는 maXTouch® M1 터치스크린...",
+        "date": "2026-01-28 10:02",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38352"
+    },
+    {
+        "title": "삼성 3단 폴더블폰 '갤럭시Z 트라이폴드' 1월 30일 미국 출시 확정",
+        "date": "2026-01-28 10:00",
+        "link": "https://kbench.com/?q=node/275625"
+    },
+    {
+        "title": "11번가, 삼성 '갤럭시 북6 시리즈' 론칭 라이브…단독 혜택 제공",
+        "date": "2026-01-28 10:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=490394"
+    },
+    {
+        "title": "720Hz까지 확장된 주사율, 탠덤 OLED의 정점, ASUS ROG Swift OLED PG27AQWP-...",
+        "date": "2026-01-28 09:58",
+        "link": "https://kbench.com/?q=node/275612"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자전환…OLED의 힘",
+        "date": "2026-01-28 09:58",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=223285"
+    },
+    {
+        "title": "마이크로칩, 차량용 터치 컨트롤러 ‘맥스터치 M1’ 라인업 확장",
+        "date": "2026-01-28 09:57",
+        "link": "https://n.news.naver.com/mnews/article/366/0001138866?sid=105"
+    },
+    {
+        "title": "‘OLED의 힘’ 키운 체질 개선···LG디스플레이, 4년 만에 흑자 전환",
+        "date": "2026-01-28 09:56",
+        "link": "https://n.news.naver.com/mnews/article/032/0003424264?sid=101"
+    },
+    {
+        "title": "정철동 OLED 승부수 통했다···LGD, 4년 만에 '적자 터널' 벗어나",
+        "date": "2026-01-28 09:52",
+        "link": "https://www.ajunews.com/view/20260128092236444"
+    },
+    {
+        "title": "LGD, 지난해 영업익 5170억원…4년만에 흑자전환",
+        "date": "2026-01-28 09:52",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=195341"
+    },
+    {
+        "title": "마이크로칩, 차량용 터치 컨트롤러 ‘맥스터치 M1’ 라인업 확장",
+        "date": "2026-01-28 09:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216366?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업이익 5170억…4년 만에 흑자 전환",
+        "date": "2026-01-28 09:50",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=828871"
+    },
+    {
+        "title": "'OLED' 가장 빛났다…LG디스플레이 4년 만에 적자 탈출",
+        "date": "2026-01-28 09:48",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7146955"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자전환…“OLED ‘올인’ , 적자터널 탈출”",
+        "date": "2026-01-28 09:46",
+        "link": "https://www.ceoscoredaily.com/page/view/2026012809263951600"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 트라이폴드' 오는 30일 美 판매",
+        "date": "2026-01-28 09:46",
+        "link": "https://www.kpinews.kr/newsView/1065573958998376"
+    },
+    {
+        "title": "LGD, 4년 만에 연간 영업익 흑자 전환 성공",
+        "date": "2026-01-28 09:38",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42803"
+    },
+    {
+        "title": "LGD, 작년 영업익 5170억원…4년 만에 ‘흑자 전환’",
+        "date": "2026-01-28 09:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1289336&inflow=N"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결..VR 기기서'현실 같은 영상'구현",
+        "date": "2026-01-28 09:36",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=595950"
+    },
+    {
+        "title": "고혈압 징후, 의사와 상의하세요…애플 워치, 알림 기능 제공",
+        "date": "2026-01-28 09:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287558"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억…4년만에 흑자 전환",
+        "date": "2026-01-28 09:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=109901"
+    },
+    {
+        "title": "LG디스플레이, 지난해 매출 25조8101억원…4년만에 연간 흑자 전환",
+        "date": "2026-01-28 09:34",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=281610"
+    },
+    {
+        "title": "애플워치로 고혈압 조기 징후 감지… 28일부터 적용",
+        "date": "2026-01-28 09:30",
+        "link": "https://n.news.naver.com/mnews/article/119/0003052990?sid=105"
+    },
+    {
+        "title": "LG디스플레이 2025년 영업이익 5170억 4년 만에 흑자전환, OLED 확대",
+        "date": "2026-01-28 09:28",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428270"
+    },
+    {
+        "title": "비싸질 줄 알았는데 아이폰 18, 부품가 상승에도 '가격 동결' 유력",
+        "date": "2026-01-28 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216358?sid=105"
+    },
+    {
+        "title": "삼성전자 '트라이폴드' 美 상륙...400만원 '훌쩍'",
+        "date": "2026-01-28 09:25",
+        "link": "https://www.newspim.com/news/view/20260128000222"
+    },
+    {
+        "title": "LG디스플레이, OLED 중심 전략으로 4년 만에 흑자 전환 성공",
+        "date": "2026-01-28 09:24",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=855849"
+    },
+    {
+        "title": "LGD, OLED 중심 체질 개선 적중…4년 만에 연간 '흑자전환' 달성",
+        "date": "2026-01-28 09:24",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=85595"
+    },
+    {
+        "title": "9세 이용가에 '옷 벗기기'가 버젓이…애플·구글, 'AI 누드' 방치해 수...",
+        "date": "2026-01-28 09:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216357?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 비중 61% '역대 최대'…흑자 구조 복귀",
+        "date": "2026-01-28 09:20",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=124020"
+    },
+    {
+        "title": "애플,  고혈압 알림 기능 국내 서비스 시작",
+        "date": "2026-01-28 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624554"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 09:20",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=106162"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 흑자 전환…OLED 매출 비중 확대",
+        "date": "2026-01-28 09:20",
+        "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=88909"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 '흑자 전환'…지난해 영업익 5170억",
+        "date": "2026-01-28 09:17",
+        "link": "https://n.news.naver.com/mnews/article/015/0005243154?sid=101"
+    },
+    {
+        "title": "LGD, 지난해 매출 25조8101억·영업익 5170억…4년 만에 '연간 흑자'",
+        "date": "2026-01-28 09:16",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=293400"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자… 영업익 5170억원",
+        "date": "2026-01-28 09:16",
+        "link": "https://www.news2day.co.kr/article/20260128500037"
+    },
+    {
+        "title": "정철동 체제 결실...LG디스플레이, 4년만에 흑자전환",
+        "date": "2026-01-28 09:14",
+        "link": "https://news.mtn.co.kr/news-detail/2026012809054884585"
+    },
+    {
+        "title": "[종합] LG디스플레이, OLED 올인 통했다… 4년 만에 연간 흑자 복귀",
+        "date": "2026-01-28 09:12",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=245754"
+    },
+    {
+        "title": "LG디스플레이, 지난해 연간 영업이익 5천170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 09:10",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=211024"
+    },
+    {
+        "title": "LG디스플레이, 작년 연간 영업이익 5170억 원…4년 만에 흑자전환",
+        "date": "2026-01-28 09:10",
+        "link": "https://n.news.naver.com/mnews/article/079/0004109693?sid=101"
+    },
+    {
+        "title": "LGD, 지난해 4분기 영업익 1685억...전년비 103%↑",
+        "date": "2026-01-28 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624520"
+    },
+    {
+        "title": "'안 팔려도 너무 안 팔린다'…애플, 중국·인도서 '아이폰 에어' 가격 2...",
+        "date": "2026-01-28 09:06",
+        "link": "https://kbench.com/?q=node/275623"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만 '흑자전환'",
+        "date": "2026-01-28 09:06",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571399795267"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만에 흑자전환",
+        "date": "2026-01-28 09:06",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=721985"
+    },
+    {
+        "title": "론칭 특가에 한정 혜택까지…11번가, '갤럭시 북6 시리즈' 라방 실시",
+        "date": "2026-01-28 09:06",
+        "link": "http://theviewers.co.kr/View.aspx?No=3956141"
+    },
+    {
+        "title": "LG디스플레이, 2025년 영업익 5170억원…4년 만에 '흑자 전환'",
+        "date": "2026-01-28 09:04",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=119712"
+    },
+    {
+        "title": "OLED 주력 전략 통했다…LG디스플레이, 4년 만에 흑자전환",
+        "date": "2026-01-28 09:03",
+        "link": "https://n.news.naver.com/mnews/article/014/0005469344?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 연간 흑자 전환…OLED 비중도 '역대 최고'",
+        "date": "2026-01-28 09:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002408005?sid=105"
+    },
+    {
+        "title": "'OLED의 힘' LG디스플레이, 4년 적자 딛고 흑자 전환",
+        "date": "2026-01-28 09:01",
+        "link": "https://n.news.naver.com/mnews/article/293/0000078499?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원… 4년만에 '흑자 전환'",
+        "date": "2026-01-28 09:00",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3368401"
+    },
+    {
+        "title": "LCD 접고 OLED 집중했더니 LGD, 작년영업익 5170억 '4년만 흑자전환'",
+        "date": "2026-01-28 08:59",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=119956"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 08:58",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=290467"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환…지난해 영업익 5170억",
+        "date": "2026-01-28 08:53",
+        "link": "https://n.news.naver.com/mnews/article/029/0003007471?sid=101"
+    },
+    {
+        "title": "적색 마이크로LED, 현실에 가까운 화면으로",
+        "date": "2026-01-28 08:52",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2394338"
+    },
+    {
+        "title": "LG디스플레이, 전년 영업익 5170억원…4년만 흑자 전환",
+        "date": "2026-01-28 08:52",
+        "link": "https://www.asiatime.co.kr/article/20260128500004"
+    },
+    {
+        "title": "고혈압 징후, 의사와 상의하세요…애플 워치, 알림 기능 제공",
+        "date": "2026-01-28 08:52",
+        "link": "https://n.news.naver.com/mnews/article/003/0013734133?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 작년 4년 만에 흑자전환…OLED 매출 비중 61%",
+        "date": "2026-01-28 08:50",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=260844"
+    },
+    {
+        "title": "애플, 애플워치에 '고혈압 알림 기능' 새로 도입",
+        "date": "2026-01-28 08:50",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697138"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결···VR 기기서 '현실 같은 영상' 구현",
+        "date": "2026-01-28 08:49",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2387083"
+    },
+    {
+        "title": "'차세대 디스플레이 핵심' 초고해상도 적색 마이크로LED 난제 해결",
+        "date": "2026-01-28 08:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008738479?sid=102"
+    },
+    {
+        "title": "태성, 국내 디스플레이용 금속 도금 표면처리 기술 기업에 동도금 설비...",
+        "date": "2026-01-28 08:49",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=691987"
+    },
+    {
+        "title": "애플워치, 이제 '고혈압 징후' 알린다…식약처 승인 완료",
+        "date": "2026-01-28 08:48",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697140"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 08:46",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=106389"
+    },
+    {
+        "title": "‘정철동 매직’ LGD, 4년 만에 연간 흑자 전환…작년 영업익 5170억원",
+        "date": "2026-01-28 08:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005628354?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만에 '흑자 전환'",
+        "date": "2026-01-28 08:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1330457"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년만에 흑자전환",
+        "date": "2026-01-28 08:40",
+        "link": "https://n.news.naver.com/mnews/article/031/0001000640?sid=105"
+    },
+    {
+        "title": "'LG디스플레이' 4년 만에 연간 흑자전환…OLED 매출 비중 61%로 최고치",
+        "date": "2026-01-28 08:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15946646"
+    },
+    {
+        "title": "사업구조 고도화 효과...LGD, 지난해 영업익 5170억원...4년 만에 흑자...",
+        "date": "2026-01-28 08:38",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=238504"
+    },
+    {
+        "title": "LGD, 2025년 4분기 영업이익 1685억원…“4년만 연간 흑자 전환”",
+        "date": "2026-01-28 08:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003393888?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억 원…4년만에 흑자전환",
+        "date": "2026-01-28 08:36",
+        "link": "https://www.g-enews.com/view.php?ud=2026012808251577996ed0c62d49_1"
+    },
+    {
+        "title": "정철동 號 LGD, 체질 개선 마무리 … 4년만 흑자전환",
+        "date": "2026-01-28 08:36",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/01/28/2026012800038.html"
+    },
+    {
+        "title": "“심장 센서로 혈관 측정” 애플, 애플워치 ‘고혈압 알림’ 기능 추가",
+        "date": "2026-01-28 08:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0003007468?sid=105"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결...VR 기기서'현실 같은 영상'구현, 1인치당...",
+        "date": "2026-01-28 08:34",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38346"
+    },
+    {
+        "title": "애플워치, 한국서도 고혈압 알림기능 제공 시작",
+        "date": "2026-01-28 08:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005628349?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자…매출 61%가 OLED",
+        "date": "2026-01-28 08:34",
+        "link": "https://www.newspim.com/news/view/20260128000079"
+    },
+    {
+        "title": "LG전자, 베트남 OLED TV 시장서 ‘압도적 1위’ 수성… 점유율 60% 육박",
+        "date": "2026-01-28 08:32",
+        "link": "https://www.g-enews.com/view.php?ud=2026012808291180480c8c1c064d_1"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원…4년 만에 연간 흑자전환",
+        "date": "2026-01-28 08:30",
+        "link": "https://www.ekn.kr/web/view.php?key=20260128028333206"
+    },
+    {
+        "title": "LG디스플레이, 흑자전환…작년 영업익 5170억원",
+        "date": "2026-01-28 08:30",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026012808023710681"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억…4년만에 흑자전환 성공",
+        "date": "2026-01-28 08:28",
+        "link": "https://www.etoday.co.kr/news/view/2550068"
+    },
+    {
+        "title": "마이크로소프트, '에뮬레이팅 게임 시대' 포문...스마트폰서 '트리플A' ...",
+        "date": "2026-01-28 08:28",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=354102"
+    },
+    {
+        "title": "LGD, 4년 만의 흑자 전환…사업고도화·운영효율화 결실",
+        "date": "2026-01-28 08:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002591979?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 08:26",
+        "link": "https://n.news.naver.com/mnews/article/629/0000466737?sid=101"
+    },
+    {
+        "title": "애플워치, 고혈압 ‘징후 알림’ 기능 도입…국내 승인 완료",
+        "date": "2026-01-28 08:25",
+        "link": "https://n.news.naver.com/mnews/article/374/0000489071?sid=101"
+    },
+    {
+        "title": "KAIST, ‘마이크로LED’ 난제 해결…VR기기서 현실같은 영상 본다",
+        "date": "2026-01-28 08:21",
+        "link": "https://n.news.naver.com/mnews/article/016/0002591977?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 흑자전환…OLED 매출 비중 61%",
+        "date": "2026-01-28 08:20",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1328090"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 ‘흑자 전환’…작년 영업익 5170억원",
+        "date": "2026-01-28 08:18",
+        "link": "https://www.sentv.co.kr/article/view/sentv202601280001"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억원…4년 만에 흑자전환",
+        "date": "2026-01-28 08:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148860"
+    },
+    {
+        "title": "LGD, 4년만 '흑전'…올레드 중심 사업구조 고도화 결실(종합)",
+        "date": "2026-01-28 08:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013734060?sid=101"
+    },
+    {
+        "title": "LGD, OLED 집중 '빛'…작년 영업익 5170억 '4년 만에 흑자' (종합)",
+        "date": "2026-01-28 08:15",
+        "link": "https://n.news.naver.com/mnews/article/421/0008738386?sid=101"
+    },
+    {
+        "title": "애플워치, 고혈압도 알려준다...신기능 추가",
+        "date": "2026-01-28 08:14",
+        "link": "https://n.news.naver.com/mnews/article/215/0001239478?sid=004"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환... OLED 사업구조 고도화 결실",
+        "date": "2026-01-28 08:14",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=53367"
+    },
+    {
+        "title": "KAIST, '적색 마이크로LED'난제 해결…고효율·초고해상도 구현",
+        "date": "2026-01-28 08:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005712836?sid=102"
+    },
+    {
+        "title": "LG Display turns to profit in 2025 on robust OLED performance",
+        "date": "2026-01-28 08:13",
+        "link": "https://n.news.naver.com/mnews/article/001/0015870509?sid=104"
+    },
+    {
+        "title": "애플워치, 국내서 고혈압 알림 기능 지원 시작",
+        "date": "2026-01-28 08:12",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=422499"
+    },
+    {
+        "title": "LGD, 지난해 영업익 5170억원…4년 만에 흑자 전환",
+        "date": "2026-01-28 08:12",
+        "link": "https://n.news.naver.com/mnews/article/117/0004030229?sid=103"
+    },
+    {
+        "title": "애플워치, 고혈압도 감지해 알려준다…한국 적용 시작",
+        "date": "2026-01-28 08:11",
+        "link": "https://n.news.naver.com/mnews/article/277/0005712832?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 지난해 영업익 5170억…4년 만에 흑자 전환",
+        "date": "2026-01-28 08:11",
+        "link": "https://n.news.naver.com/mnews/article/277/0005712833?sid=101"
+    },
+    {
+        "title": "“알몸 이미지 합성해 1700억 수익 올렸다” 발칵…애플·구글서 무슨 일...",
+        "date": "2026-01-28 08:10",
+        "link": "https://n.news.naver.com/mnews/article/081/0003612290?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 '흑자 전환'…OLED 중심 사업 통했다",
+        "date": "2026-01-28 08:09",
+        "link": "https://n.news.naver.com/mnews/article/008/0005310381?sid=101"
+    },
+    {
+        "title": "LGD, 4년 만에 흑자 전환...“OLED 전환 전략 적중”",
+        "date": "2026-01-28 08:09",
+        "link": "https://n.news.naver.com/mnews/article/011/0004583736?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4년만에 흑자 전환…OLED 매출 비중 '역대 최대'",
+        "date": "2026-01-28 08:08",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697129"
+    },
+    {
+        "title": "'OLED 중심' 사업 전환 通했다…LGD, 4년 만에 '흑자전환'(종합)",
+        "date": "2026-01-28 08:06",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4395671"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자전환…사업구조 고도화 효과",
+        "date": "2026-01-28 08:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015870499?sid=101"
+    },
+    {
+        "title": "LGD, 작년 영업익 5170억…4년 만에 연간 흑자",
+        "date": "2026-01-28 08:06",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=51454"
+    },
+    {
+        "title": "[마켓포인트] LGD, 작년 영업익 5170억원… 4년 만에 연간 흑자 전환",
+        "date": "2026-01-28 08:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=422490"
+    },
+    {
+        "title": "LGD, 4년만에 연간 영업이익 흑자 전환···전년比 1조원 개선",
+        "date": "2026-01-28 08:02",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=619609"
+    },
+    {
+        "title": "애플, 한국에서도 애플워치 '고혈압 알림' 기능 제공",
+        "date": "2026-01-28 08:01",
+        "link": "https://n.news.naver.com/mnews/article/421/0008738372?sid=105"
+    },
+    {
+        "title": "애플, 애플워치에 '고혈압 알림' 신기능 추가",
+        "date": "2026-01-28 08:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015870496?sid=102"
+    },
+    {
+        "title": "LGD, 4년만에 연간 흑자 성공…OLED 확대 체질개선 주력(상보)",
+        "date": "2026-01-28 08:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006208368?sid=101"
+    },
+    {
+        "title": "LG디스플레이, OLED 판매 역대 최대···4년 만에 흑자 달성",
+        "date": "2026-01-28 08:00",
+        "link": "https://www.ajunews.com/view/20260128074117308"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자 전환…지난해 영업익 5170억원",
+        "date": "2026-01-28 07:59",
+        "link": "https://n.news.naver.com/mnews/article/119/0003052944?sid=101"
+    },
+    {
+        "title": "KAIST, 마이크로LED 난제 해결..VR 기기서'현실 같은 영상'구현",
+        "date": "2026-01-28 07:56",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=156340"
+    },
+    {
+        "title": "LGD, 2025년 영업익 5170억원…4년 만에 '흑자전환'",
+        "date": "2026-01-28 07:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155767"
+    },
+    {
+        "title": "LG디스플레이, 작년 영업익 5170억원… 4년 만에 ‘흑자 전환’",
+        "date": "2026-01-28 07:41",
+        "link": "https://n.news.naver.com/mnews/article/366/0001138815?sid=105"
+    },
+    {
+        "title": "제미나이로 무장한 애플의 추격…'AI폰 2라운드'",
+        "date": "2026-01-28 07:36",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026012715370705733"
+    },
+    {
+        "title": "‘칩 인플레이션’, 디스플레이도 ‘주춤’…고공행진 ‘스마트폰 OLED’...",
+        "date": "2026-01-28 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2026012712475850414"
+    },
+    {
+        "title": "[CEO투데이] '갤럭시 신화' 노태문 사장, 삼성전자 AI 전략 설계자로",
+        "date": "2026-01-28 07:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=703644"
+    },
+    {
+        "title": "삼성·LG, 흔들리는 TV 왕좌 지킨다...프리미엄·보급형 동시 공략",
+        "date": "2026-01-28 07:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005469288?sid=101"
+    },
+    {
+        "title": "애플·구글에 '알몸 딥페이크' AI앱 버젓이...1,700억 수익",
+        "date": "2026-01-28 06:31",
+        "link": "https://n.news.naver.com/mnews/article/660/0000102120?sid=104"
+    },
+    {
+        "title": "음란 이미지 생성앱, 수천억 매출...구글·애플도 '모르쇠'",
+        "date": "2026-01-28 06:27",
+        "link": "https://n.news.naver.com/mnews/article/215/0001239468?sid=004"
+    },
+    {
+        "title": "이승현 인팩코리아 대표 “성공은 한 순간… 나눔과 봉사, 돈 안 돼도 인...",
+        "date": "2026-01-28 06:05",
+        "link": "https://n.news.naver.com/mnews/article/022/0004101121?sid=103"
+    },
+    {
+        "title": "2만원대 중국산 ‘가성비 이어폰’ 공습… 韓 시장 판도 흔드나",
+        "date": "2026-01-28 06:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001138800?sid=105"
+    },
+    {
         "title": "아이폰, 인도 시장 점유율 확대…애플의 전략이 통했다",
         "date": "2026-01-27 21:14",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=624465"
@@ -188,6 +1113,11 @@
         "title": "아이폰 에어2, 초광각 카메라·초박형 페이스ID 탑재 전망",
         "date": "2026-01-27 13:01",
         "link": "https://n.news.naver.com/mnews/article/030/0003393587?sid=104"
+    },
+    {
+        "title": "애플, 'iOS·아이패드 OS 26.2.1' 출시.. 2세대 에어태그 지원, 버그 수정",
+        "date": "2026-01-27 11:54",
+        "link": "https://kbench.com/?q=node/275599"
     },
     {
         "title": "가격은 그대로, 성능은 대폭 강화...애플 에어태그2 출시. 애플워치 연동...",
