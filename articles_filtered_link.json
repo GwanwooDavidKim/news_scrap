@@ -1,5 +1,510 @@
 [
     {
+        "title": "커세어, 스트림덱 통합한 최초의 게이밍 키보드 '갤리온 100 SD' 출시",
+        "date": "2026-01-30 13:58",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=231634"
+    },
+    {
+        "title": "애플, 분기 매출 206조원… 역대 최고",
+        "date": "2026-01-30 13:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156031"
+    },
+    {
+        "title": "애플, 지난해 스마트폰 판매 순위서 상위권 휩쓸어... 갤럭시 플래그십...",
+        "date": "2026-01-30 13:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808409"
+    },
+    {
+        "title": "“아이폰 전례없는 수요”…애플, 사상 최고 분기 매출",
+        "date": "2026-01-30 13:38",
+        "link": "https://n.news.naver.com/mnews/article/081/0003613108?sid=104"
+    },
+    {
+        "title": "애플, 1분기 매출 15.7% 올라… 아이폰 매출도 23% 뛰었다",
+        "date": "2026-01-30 13:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=727780"
+    },
+    {
+        "title": "삼성 '컬러 이페이퍼'로 종이 대체 선언…초저전력·초슬림·초경량",
+        "date": "2026-01-30 13:28",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=85711"
+    },
+    {
+        "title": "정철동 LG디스플레이 대표, 구조조정 끝 4년만의 흑자전환...성과급 결정...",
+        "date": "2026-01-30 13:10",
+        "link": "https://hbnpress.com/news/view/1065579221596443"
+    },
+    {
+        "title": "에스라이즈, 네이버 설날+세일 통해 HP 인기 노트북 라인업 선보여",
+        "date": "2026-01-30 13:02",
+        "link": "https://kbench.com/?q=node/275731"
+    },
+    {
+        "title": "아름게임즈 ‘위시: 아바타 드레스업’ 애플 앱스토어 인기순위 1위 달...",
+        "date": "2026-01-30 12:32",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=219831"
+    },
+    {
+        "title": "커세어, 스트림덱 컨트롤러 탑재 최초의 게이밍 키보드 ‘갤리온 100 SD’...",
+        "date": "2026-01-30 12:24",
+        "link": "https://www.betanews.net/article/view/beta202601300038"
+    },
+    {
+        "title": "애플, 아이폰 수요 오판으로 폐기 부품 '수억달러'",
+        "date": "2026-01-30 11:59",
+        "link": "https://n.news.naver.com/mnews/article/123/0002376854?sid=004"
+    },
+    {
+        "title": "KAIST, 모낭 세포 노화 92% 억제하는 모자형 OLED 개발",
+        "date": "2026-01-30 11:54",
+        "link": "https://www.hellot.net/news/article.html?no=109881"
+    },
+    {
+        "title": "아름게임즈 '위시: 아바타 드레스업' 애플 앱스토어 인기순위 1위 달성",
+        "date": "2026-01-30 11:42",
+        "link": "https://gamefocus.co.kr/detail.php?number=173146"
+    },
+    {
+        "title": "애플 1분기 실적 발표에 와우…AI 전략은 그저 그래",
+        "date": "2026-01-30 11:40",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=51505"
+    },
+    {
+        "title": "애플, 아이폰 '최고 분기'로 실적 점프…매출 1438억달러 '역대 최대'",
+        "date": "2026-01-30 11:40",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328035"
+    },
+    {
+        "title": "애플, 이스라엘 스타트업 Q.AI 인수 'AI 지각생 탈출할까?",
+        "date": "2026-01-30 11:37",
+        "link": "https://n.news.naver.com/mnews/article/123/0002376852?sid=004"
+    },
+    {
+        "title": "애플, 이스라엘 AI 스타트업 Q.ai 20억달러에 인수",
+        "date": "2026-01-30 11:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625429"
+    },
+    {
+        "title": "국민대, 5μm 이하 마이크로-나노 LED 디스플레이 효율 해법 제시",
+        "date": "2026-01-30 11:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003394921?sid=103"
+    },
+    {
+        "title": "애플, 분기 매출 200조 돌파 사상 최고치 또 경신... 압도적 인기 '아이...",
+        "date": "2026-01-30 11:28",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808403"
+    },
+    {
+        "title": "애플, 분기매출 206조원 ‘또 최고치’…아이폰 수요가 실적 견인",
+        "date": "2026-01-30 11:26",
+        "link": "https://www.kukinews.com/article/view/kuk202601300074"
+    },
+    {
+        "title": "커세어, 스트림덱 컨트롤러가 탑재된 최초의 게이밍 키보드 '갤리온 100...",
+        "date": "2026-01-30 11:18",
+        "link": "https://gamefocus.co.kr/detail.php?number=173141"
+    },
+    {
+        "title": "애플, 中서 명성 되찾았다…분기 매출 206조원 '사상최고'",
+        "date": "2026-01-30 11:16",
+        "link": "https://www.ajunews.com/view/20260130104829245"
+    },
+    {
+        "title": "[서학!스타] 아이폰 판매 급증에 애플 분기 실적 최고치 경신…중국 시...",
+        "date": "2026-01-30 11:10",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=552904"
+    },
+    {
+        "title": "애플, 이스라엘 AI 음성기술 스타트업 Q.ai 인수",
+        "date": "2026-01-30 11:08",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=42862"
+    },
+    {
+        "title": "애플, 분기 매출 206조원 '사상 최대'… 아이폰 17 흥행",
+        "date": "2026-01-30 11:04",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3369493"
+    },
+    {
+        "title": "초슬림 '디지털 종이' 뭐길래…삼성전자, 18조원 시장 노린다",
+        "date": "2026-01-30 11:03",
+        "link": "https://n.news.naver.com/mnews/article/015/0005244617?sid=101"
+    },
+    {
+        "title": "아이폰 판매량 훈풍…애플, 분기매출 1,437억6000만 달러 '역대 최고'",
+        "date": "2026-01-30 11:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=202929"
+    },
+    {
+        "title": "'아이폰 17 흥행' 애플, 어닝 서프라이즈…매출 16%↑",
+        "date": "2026-01-30 10:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287790"
+    },
+    {
+        "title": "아이폰17 흥행했는데...애플 발목 잡은 이것",
+        "date": "2026-01-30 10:54",
+        "link": "https://n.news.naver.com/mnews/article/092/0002408487?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 올해도 흑자 '청신호'…애플, 또 분기 최대 매출",
+        "date": "2026-01-30 10:52",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=132557"
+    },
+    {
+        "title": "삼성전자, TV·모바일 플랫폼 사업 육성 '칠전팔기'…왜?",
+        "date": "2026-01-30 10:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148948"
+    },
+    {
+        "title": "애플 분기 매출 16% 급증…아이폰 매출 역대 최대",
+        "date": "2026-01-30 10:44",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202601301039437006bbceadc3c9_23"
+    },
+    {
+        "title": "커세어, 스트림덱 컨트롤러가 탑재된 최초의 게이밍 키보드 ‘갤리온 1...",
+        "date": "2026-01-30 10:38",
+        "link": "https://kbench.com/?q=node/275715"
+    },
+    {
+        "title": "애플, 중국서 ‘화려한 부활’… 아이폰 17 앞세워 매출 38% 폭증",
+        "date": "2026-01-30 10:32",
+        "link": "https://www.g-enews.com/view.php?ud=2026013010301776920c8c1c064d_1"
+    },
+    {
+        "title": "애플에 졌지만 잘 싸웠다…삼성, 물량공세 대신 'S25 울트라' 수익방어",
+        "date": "2026-01-30 10:25",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216643?sid=105"
+    },
+    {
+        "title": "아름게임즈, '위시: 아바타 드레스업' 애플 앱스토어 인기 1위 등극",
+        "date": "2026-01-30 10:22",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260130001020158"
+    },
+    {
+        "title": "“아이폰 수요 엄청나”…애플, 또 역대 최고 분기 매출",
+        "date": "2026-01-30 10:20",
+        "link": "https://n.news.naver.com/mnews/article/005/0001829313?sid=101"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2026-01-30 10:20",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=40053"
+    },
+    {
+        "title": "아름게임즈 '위시: 아바타 드레스업', 애플 앱스토어 인기순위 1위 달성...",
+        "date": "2026-01-30 10:20",
+        "link": "https://www.thisisgame.com/articles/413419"
+    },
+    {
+        "title": "애플, 앱스토어 가격 조정…세금 반영 개발자 수익 변동",
+        "date": "2026-01-30 10:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625368"
+    },
+    {
+        "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
+        "date": "2026-01-30 10:14",
+        "link": "https://www.itworld.co.kr/article/4124728/애플-오디오-ai-스타트업-q-ai-인수역대-두-번째-규모.html"
+    },
+    {
+        "title": "아이폰 수요↑…매출 ‘신기록’ 애플, 이스라엘 AI스타트업 인수",
+        "date": "2026-01-30 10:08",
+        "link": "https://n.news.naver.com/mnews/article/277/0005714414?sid=101"
+    },
+    {
+        "title": "“AI없어도 끄떡없네” 애플 또 사상 최고 분기 매출…스마트폰 판매량...",
+        "date": "2026-01-30 10:06",
+        "link": "https://n.news.naver.com/mnews/article/023/0003956169?sid=105"
+    },
+    {
+        "title": "애플, 1분기 매출 1437억달러 역대 최대…아이폰 23% 급증",
+        "date": "2026-01-30 10:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216635?sid=105"
+    },
+    {
+        "title": "아름게임즈 '위시: 아바타 드레스업', 애플 앱스토어 인기순위 1위 달성",
+        "date": "2026-01-30 10:04",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=300920"
+    },
+    {
+        "title": "애플, 2조원 태운 '독심술 AI' 정체…'Q.ai' 인수해 침묵발화 확보",
+        "date": "2026-01-30 10:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002216634?sid=105"
+    },
+    {
+        "title": "'아이폰 17 흥행' 애플, 분기 매출 '사상최고' 206조",
+        "date": "2026-01-30 10:00",
+        "link": "https://n.news.naver.com/mnews/article/030/0003394853?sid=105"
+    },
+    {
+        "title": "커세어, 스트림덱 컨트롤러 탑재한 최초의 게이밍 키보드 '갤리온 100 SD...",
+        "date": "2026-01-30 10:00",
+        "link": "https://www.cnet.co.kr/view/?no=20260130095107"
+    },
+    {
+        "title": "애플, 분기 매출 206조 ‘사상 최대’..아이폰 17 판매 호조",
+        "date": "2026-01-30 09:44",
+        "link": "http://kpenews.com/View.aspx?No=3959009"
+    },
+    {
+        "title": "애플, 사상 최대 매출 기록…투자자들은 ‘비용 상승’에 주목",
+        "date": "2026-01-30 09:40",
+        "link": "https://n.news.naver.com/mnews/article/123/0002376827?sid=101"
+    },
+    {
+        "title": "애플, 아이폰17·중국 '쌍끌이'에 호실적…시간외서 주가 상승(종합)",
+        "date": "2026-01-30 09:36",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4396361"
+    },
+    {
+        "title": "아이폰16, 글로벌 판매 1위…스마트폰 시장 ‘프리미엄 쏠림’ 가속",
+        "date": "2026-01-30 09:36",
+        "link": "https://n.news.naver.com/mnews/article/117/0004030931?sid=105"
+    },
+    {
+        "title": "[그래픽] 애플 실적 추이",
+        "date": "2026-01-30 09:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0015875675?sid=104"
+    },
+    {
+        "title": "갤럭시S26 '엑시노스 2600' 탑재 효과.. 삼성, 2026년 SoC 출하량 증가 전...",
+        "date": "2026-01-30 09:28",
+        "link": "https://kbench.com/?q=node/275704"
+    },
+    {
+        "title": "애플, 분기 매출 1438억달러 돌파…아이폰17 폭발적 흥행",
+        "date": "2026-01-30 09:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625303"
+    },
+    {
+        "title": "애플, 분기매출 또 '사상최고' 206조원...아이폰 전례없는 수요",
+        "date": "2026-01-30 08:52",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1329421"
+    },
+    {
+        "title": "1월 29일 주식시장 주요공시",
+        "date": "2026-01-30 08:48",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=120070"
+    },
+    {
+        "title": "팀 쿡 애플 CEO 작년 4분기 최대 분기 실적…올해도 성장 지속(종합)",
+        "date": "2026-01-30 08:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148946"
+    },
+    {
+        "title": "애플 실적 별로, 지수 선물 일제 하락…나스닥 0.32%↓",
+        "date": "2026-01-30 08:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0008743697?sid=104"
+    },
+    {
+        "title": "아이폰 폴드 vs. 삼성 와이드 폴드...새로운 4:3 폴더블 전쟁이 시작된다",
+        "date": "2026-01-30 08:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541203"
+    },
+    {
+        "title": "애플, 분기 매출 206조 사상 최대…아이폰 판매 호조",
+        "date": "2026-01-30 08:40",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=51642"
+    },
+    {
+        "title": "애플, 분기매출 206조원 또 ‘역대 최고’…“아이폰 전례없는 수요”",
+        "date": "2026-01-30 08:40",
+        "link": "https://www.kukinews.com/article/view/kuk202601300016"
+    },
+    {
+        "title": "애플, 아이폰 판매 호조에 분기매출 206조원 달성...'사상 최고'",
+        "date": "2026-01-30 08:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=423503"
+    },
+    {
+        "title": "아이폰17 바람 탄 애플 ‘어닝 서프라이즈’…중국 사업 38%↑",
+        "date": "2026-01-30 08:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002408433?sid=105"
+    },
+    {
+        "title": "애플, 분기 매출 ‘사상 최대’⋯‘아이폰17 경이적 인기’에 예상치 상...",
+        "date": "2026-01-30 08:34",
+        "link": "https://www.etoday.co.kr/news/view/2551149"
+    },
+    {
+        "title": "애플, 4분기 매출 전년 대비 16% 증가한 206조원... 아이폰 판매량 급증...",
+        "date": "2026-01-30 08:33",
+        "link": "https://n.news.naver.com/mnews/article/366/0001139405?sid=105"
+    },
+    {
+        "title": "“아이폰이 살렸다” 삼성전자 제친 애플…역대 분기 매출에 주가도↑...",
+        "date": "2026-01-30 08:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002593353?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 판매 급증에 분기 매출 1437억달러…역대 최고",
+        "date": "2026-01-30 08:29",
+        "link": "https://n.news.naver.com/mnews/article/014/0005470747?sid=101"
+    },
+    {
+        "title": "“삼성폰·아이폰 이후 디지털 허브는 뭘까”",
+        "date": "2026-01-30 08:26",
+        "link": "http://www.datanews.co.kr/news/article.html?no=143068"
+    },
+    {
+        "title": "아이폰 16 프로 맥스, 지난해 글로벌 스마트폰 판매 2위…1위는?",
+        "date": "2026-01-30 08:22",
+        "link": "https://n.news.naver.com/mnews/article/119/0003053992?sid=105"
+    },
+    {
+        "title": "작년 가장 많이 팔린 스마트폰 1위 '아이폰16'[모닝폰]",
+        "date": "2026-01-30 08:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006209955?sid=105"
+    },
+    {
+        "title": "아이폰 덕에 애플 분기 매출 '사상 최고' 206조 원",
+        "date": "2026-01-30 08:08",
+        "link": "https://n.news.naver.com/mnews/article/052/0002307915?sid=104"
+    },
+    {
+        "title": "애플, 분기 매출 또 '사상 최고' … 삼성전자 제치고 작년 스마트폰 판...",
+        "date": "2026-01-30 08:02",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/01/30/2026013000018.html"
+    },
+    {
+        "title": "애플, 매출 전년 대비 23% 급증…아이폰17 흥행 효과",
+        "date": "2026-01-30 07:52",
+        "link": "https://news.mtn.co.kr/news-detail/2026013007493776687"
+    },
+    {
+        "title": "[비즈 나우] 애플 '깜짝실적'…AI지각생에서 킹메이커로",
+        "date": "2026-01-30 07:50",
+        "link": "https://n.news.naver.com/mnews/article/374/0000489657?sid=104"
+    },
+    {
+        "title": "“너도 아이폰17 샀어? 나돈데”...불티나더니 애플 매출 16% 쑥",
+        "date": "2026-01-30 07:49",
+        "link": "https://n.news.naver.com/mnews/article/011/0004584707?sid=105"
+    },
+    {
+        "title": "AI 없어도 아이폰은 아이폰…애플, 작년 4분기 최대 분기 실적 달성",
+        "date": "2026-01-30 07:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148945"
+    },
+    {
+        "title": "애플, 작년 4분기 영업이익 73조원...어닝 서프라이즈",
+        "date": "2026-01-30 07:44",
+        "link": "https://n.news.naver.com/mnews/article/031/0001001426?sid=105"
+    },
+    {
+        "title": "아이폰17 날자 실적도 날았다…애플, 분기 매출 206조원 ‘사상 최대’",
+        "date": "2026-01-30 07:43",
+        "link": "https://n.news.naver.com/mnews/article/016/0002593324?sid=105"
+    },
+    {
+        "title": "애플, 사상 최고 분기 매출 달성...시간 외 1% 상승세",
+        "date": "2026-01-30 07:40",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=132519"
+    },
+    {
+        "title": "애플 매출 사상 최고…아이폰17 호조에 '깜짝 실적'",
+        "date": "2026-01-30 07:38",
+        "link": "https://n.news.naver.com/mnews/article/018/0006209935?sid=101"
+    },
+    {
+        "title": "애플 분기매출 '사상최고' 206조원…아이폰 전례없는 수요",
+        "date": "2026-01-30 07:26",
+        "link": "https://n.news.naver.com/mnews/article/422/0000828372?sid=104"
+    },
+    {
+        "title": "애플, 1Q 순이익 60조…전년비 16% 증가",
+        "date": "2026-01-30 07:23",
+        "link": "https://n.news.naver.com/mnews/article/119/0003053977?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 대박에 분기 매출 '사상 최고'…전세계 애플기기 25억대...",
+        "date": "2026-01-30 07:22",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=712892"
+    },
+    {
+        "title": "[자막뉴스] '애플 걱정은 하는게 아니었네'...거품론 비껴간 호평",
+        "date": "2026-01-30 07:17",
+        "link": "https://n.news.naver.com/mnews/article/052/0002307927?sid=104"
+    },
+    {
+        "title": "애플 분기매출 또 '사상최고' 206조원…아이폰 전례없는 수요(종합)",
+        "date": "2026-01-30 07:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0015875429?sid=104"
+    },
+    {
+        "title": "[종합] 애플, '아이폰의 힘'에 분기 실적 '기대 이상'… 중화권서 '폭풍...",
+        "date": "2026-01-30 07:14",
+        "link": "https://www.newspim.com/news/view/20260130000022"
+    },
+    {
+        "title": "애플, 아이폰17 '깜짝 수요'에 매출 예상치 상회...주가 시간 외 1%↑",
+        "date": "2026-01-30 07:10",
+        "link": "https://www.g-enews.com/view.php?ud=202601300640349623bc914ac71_1"
+    },
+    {
+        "title": "애플, 아이폰 판매 급증에 실적 ‘서프라이즈’…분기 매출 16% 성장",
+        "date": "2026-01-30 07:06",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=314948"
+    },
+    {
+        "title": "애플, 아이폰 매출 급증에 호실적…시간외 주가 상승세는 미미",
+        "date": "2026-01-30 07:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005311692?sid=101"
+    },
+    {
+        "title": "'아이폰 17 흥행' 애플, 어닝 서프라이즈…매출 16%↑",
+        "date": "2026-01-30 07:05",
+        "link": "https://n.news.naver.com/mnews/article/003/0013739023?sid=104"
+    },
+    {
+        "title": "애플 지난해 분기 매출액 1438억달러…시장전망치 상회",
+        "date": "2026-01-30 07:04",
+        "link": "https://n.news.naver.com/mnews/article/016/0002593304?sid=104"
+    },
+    {
+        "title": "애플 '깜짝 실적'에도…투자자들, 비용 상승 대응 우려 중",
+        "date": "2026-01-30 07:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697595"
+    },
+    {
+        "title": "애플 깜짝 실적에도 시간외서 1% 상승에 그쳐(종합)",
+        "date": "2026-01-30 06:58",
+        "link": "https://n.news.naver.com/mnews/article/421/0008743598?sid=104"
+    },
+    {
+        "title": "애플 분기 매출 206조 원, 또 ‘사상 최고’",
+        "date": "2026-01-30 06:55",
+        "link": "https://n.news.naver.com/mnews/article/056/0012115510?sid=104"
+    },
+    {
+        "title": "애플 매출, 아이폰이 끌었다...사상 최고치 '206조원'",
+        "date": "2026-01-30 06:52",
+        "link": "https://n.news.naver.com/mnews/article/215/0001239809?sid=004"
+    },
+    {
+        "title": "애플, 아이폰 17 흥행에 역대 최고 분기 매출…전 세계 25억대",
+        "date": "2026-01-30 06:49",
+        "link": "https://n.news.naver.com/mnews/article/015/0005244380?sid=105"
+    },
+    {
+        "title": "애플 깜짝 실적, 시간외서 4% 급등(상보)",
+        "date": "2026-01-30 06:43",
+        "link": "https://n.news.naver.com/mnews/article/421/0008743594?sid=104"
+    },
+    {
+        "title": "애플, 아이폰 수요 폭증에 매출 16% 급증…중국서 38%↑",
+        "date": "2026-01-30 06:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006209917?sid=101"
+    },
+    {
+        "title": "[속보] 애플 아이폰 매출 16% 급증, 시간외서 4% 급등",
+        "date": "2026-01-30 06:32",
+        "link": "https://n.news.naver.com/mnews/article/421/0008743587?sid=104"
+    },
+    {
+        "title": "코스피·코스닥 전 거래일(29일) 주요공시는?... 포스코홀딩스 지난해 영...",
+        "date": "2026-01-30 06:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=423438"
+    },
+    {
         "title": "애플, 이스라엘 오디오 AI 스타트업 Q.AI 인수...20억달러 베팅",
         "date": "2026-01-30 05:28",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625265"
@@ -70,6 +575,11 @@
         "link": "https://kbench.com/?q=node/275700"
     },
     {
+        "title": "삼성전자 첫 과반 노조..단체교섭권 단독 행사 가능",
+        "date": "2026-01-29 17:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2106191"
+    },
+    {
         "title": "‘삼성·애플·구글’ 중심 스마트폰 시대 이을 경쟁 시작… 오픈AI·메...",
         "date": "2026-01-29 17:43",
         "link": "https://n.news.naver.com/mnews/article/366/0001139340?sid=105"
@@ -88,11 +598,6 @@
         "title": "中에 LCD 내준 K-디스플레이…OLED 주도권도 '빨간불'",
         "date": "2026-01-29 17:26",
         "link": "https://www.asiatoday.co.kr/view.php?key=20260129010013616"
-    },
-    {
-        "title": "삼성전자, 메모리 사업 비중 점점 확대...4분기 영업익 82%",
-        "date": "2026-01-29 17:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625156"
     },
     {
         "title": "[비즈톡톡] 하드웨어 중심 삼성, 소프트웨어 매출 날개 단 애플… 부품...",
@@ -165,7 +670,7 @@
         "link": "http://www.metroseoul.co.kr/article/20260129500510"
     },
     {
-        "title": "삼성전자 2025년 4분기 실적 발표 컨퍼런스 콜 전문",
+        "title": "삼성전자 2025년 4분기 실적발표 컨퍼런스콜 전문",
         "date": "2026-01-29 15:54",
         "link": "https://www.thelec.kr/news/articleView.html?idxno=51584"
     },
@@ -330,7 +835,7 @@
         "link": "https://n.news.naver.com/mnews/article/117/0004030631?sid=105"
     },
     {
-        "title": "퀄컴칩 쓴 아이폰은 안 된다…애플, '자체 모뎀' 전용 기능 첫 선",
+        "title": "애플, '자체 모뎀' 전용 기능 첫 선…'정밀 위치 제한' 도입",
         "date": "2026-01-29 11:08",
         "link": "https://n.news.naver.com/mnews/article/138/0002216525?sid=105"
     },
@@ -540,6 +1045,11 @@
         "link": "https://www.youthdaily.co.kr/news/article.html?no=211175"
     },
     {
+        "title": "아이폰18 프로, DSLR급 카메라 도약하나…가변 조리개 도입 가능성[모닝...",
+        "date": "2026-01-29 09:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006209238?sid=105"
+    },
+    {
         "title": "LG디스플레이 실적 반등, OLED 사업으로 향한 가속 페달",
         "date": "2026-01-29 09:04",
         "link": "https://www.gokorea.kr/news/articleView.html?idxno=855979"
@@ -585,11 +1095,6 @@
         "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=293539"
     },
     {
-        "title": "삼성이 돌아왔다 삼성전자, 분기 영업익 20조 돌파..HBM4 1분기 출하...",
-        "date": "2026-01-29 08:45",
-        "link": "https://n.news.naver.com/mnews/article/014/0005470040?sid=101"
-    },
-    {
         "title": "영상·음악·AI 편집 한번에…애플 '크리에이터 스튜디오' 출시",
         "date": "2026-01-29 08:39",
         "link": "https://n.news.naver.com/mnews/article/421/0008741062?sid=105"
@@ -623,11 +1128,6 @@
         "title": "삼성전자, 지난해 4분기 매출·영업익 사상 최대…반도체 영업익 16.4조...",
         "date": "2026-01-29 08:20",
         "link": "https://www.g-enews.com/view.php?ud=2026012907593040486ed0c62d49_1"
-    },
-    {
-        "title": "[종합] 삼성전자, 4분기 매출 93.8조·영업익 20.1조…분기 기준 사상 최...",
-        "date": "2026-01-29 08:18",
-        "link": "https://www.ajunews.com/view/20260129074645204"
     },
     {
         "title": "[종합] 삼성전자, 지난해 4분기 영업이익 20조1000억원…역대 최대 분기...",
