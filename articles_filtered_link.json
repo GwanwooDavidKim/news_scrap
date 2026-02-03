@@ -1,5 +1,150 @@
 [
     {
+        "title": "로봇으로 뻗는 부품 경쟁… 관건은 '기술 국산화'",
+        "date": "2026-02-04 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156283"
+    },
+    {
+        "title": "손목 위 '건강' 경쟁 펼쳐진다",
+        "date": "2026-02-04 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156282"
+    },
+    {
+        "title": "대형 OLED 증착기 호조…선익시스템, 작년 영업익 1115억 '역대급'",
+        "date": "2026-02-03 21:14",
+        "link": "https://dealsite.co.kr/articles/156302"
+    },
+    {
+        "title": "애플, 아이폰·아이패드가 통신사에 주는 위치정보 정밀도 제한",
+        "date": "2026-02-03 19:14",
+        "link": "https://www.hellot.net/news/article.html?no=110026"
+    },
+    {
+        "title": "설마했는데…“애플 접는폰, 드디어 발견”, 삼성 ‘발칵’ 초비상",
+        "date": "2026-02-03 18:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002595377?sid=105"
+    },
+    {
+        "title": "OLED가 살렸다 디스플레이 섹터 3.47% 급등… 코이즈 상한가 안착",
+        "date": "2026-02-03 18:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=425295"
+    },
+    {
+        "title": "韓 고정밀 지도, 구글·애플에 내주면 10년간 최대 197조원 피해",
+        "date": "2026-02-03 18:32",
+        "link": "https://n.news.naver.com/mnews/article/092/0002409046?sid=105"
+    },
+    {
+        "title": "애플 차세대 '카플레이 울트라', 올해 현대·기아 신차 적용되나…테슬...",
+        "date": "2026-02-03 17:33",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000021996"
+    },
+    {
+        "title": "[기자수첩] TCL-소니 합작 충격, 삼성·LG의 '오월동주'",
+        "date": "2026-02-03 17:26",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=51664"
+    },
+    {
+        "title": "애플의 맥미니가 가성비 컴퓨터가 된 이유",
+        "date": "2026-02-03 17:15",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000021991"
+    },
+    {
+        "title": "아내가 두고 간 애플워치, '성관계 약속' 알림이 떴다",
+        "date": "2026-02-03 17:06",
+        "link": "https://lawtalknews.co.kr/article/2C6C3ZUL2EKW"
+    },
+    {
+        "title": "[돈이되는 과학] 삼성도 주목하는 '이 생물'",
+        "date": "2026-02-03 17:02",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=233358"
+    },
+    {
+        "title": "“플립보다 폴드”…삼성 중심이동",
+        "date": "2026-02-03 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003396056?sid=105"
+    },
+    {
+        "title": "아이폰 폴드, 아이패드 미니 유사한 '버튼 배치'",
+        "date": "2026-02-03 16:42",
+        "link": "https://kbench.com/?q=node/275819"
+    },
+    {
+        "title": "[C레벨 트래커] '정철동 매직' 재현…LGD, 다음 과제는 '지속성'",
+        "date": "2026-02-03 16:26",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=195834"
+    },
+    {
+        "title": "하반기, 옆으로 접는 아이폰 나온다는데…위아래로 접는 폴더블은 언제...",
+        "date": "2026-02-03 16:20",
+        "link": "https://n.news.naver.com/mnews/article/009/0005631628?sid=101"
+    },
+    {
+        "title": "삼성 기다려! '가성비폰' 샤오미 좁쌀 같지 않은 도전장 [IT+]",
+        "date": "2026-02-03 16:14",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006738?sid=105"
+    },
+    {
+        "title": "국내 연구진, 모자처럼 쓰는 탈모 치료 기술 개발",
+        "date": "2026-02-03 16:04",
+        "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=55729"
+    },
+    {
+        "title": "[소부장 인사이트] 탄소중립 디스플레이의 도전과 응원",
+        "date": "2026-02-03 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003396025?sid=105"
+    },
+    {
+        "title": "삼성전자, 작년 4분기 미국 스마트폰 시장 점유율 13%로 급락...애플은 ...",
+        "date": "2026-02-03 15:58",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=71889"
+    },
+    {
+        "title": "꼬마김밥 전문 프랜차이즈 애플꼬마김밥, 144호점 ‘오산세교2지구점’...",
+        "date": "2026-02-03 15:36",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026020315202217549aeda69934_23"
+    },
+    {
+        "title": "코오롱인더·PI첨단소재 주가 더 내달리나... OLED·폴리이미드 수요 증...",
+        "date": "2026-02-03 15:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=425175"
+    },
+    {
+        "title": "삼성·LG디스플레이, 나란히 실적 반등…OLED 전략 효과",
+        "date": "2026-02-03 15:24",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=89194"
+    },
+    {
+        "title": "주성엔지니어링·코오롱인더 주가 휘파람...OLED 장비와 소재 수요 확대...",
+        "date": "2026-02-03 15:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=425166"
+    },
+    {
+        "title": "[단독] 정부, 고정밀지도 반출 판단 앞두고 美 구글·애플 본사까지 찾...",
+        "date": "2026-02-03 15:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003395992?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰, 역대 아이폰 중 가장 큰 배터리 탑재 가능성",
+        "date": "2026-02-03 15:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003395993?sid=104"
+    },
+    {
+        "title": "애플 아이폰 미국 판매 점유율 69%로 사상 최고치, 삼성전자는 13% 그쳐",
+        "date": "2026-02-03 14:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=429013"
+    },
+    {
+        "title": "LG디스플레이, OLED 효과로 4년만에 적자 탈출…올해는 1조 클럽 재시동",
+        "date": "2026-02-03 14:48",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=25830"
+    },
+    {
+        "title": "‘OLED 성과’ K디스플레이…올해 IT·전장 날개 단다",
+        "date": "2026-02-03 14:08",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1290055&inflow=N"
+    },
+    {
         "title": "완속충전기 LCD 의무화 선회…정부 '늦은 결정'에 업계만 손실",
         "date": "2026-02-03 14:00",
         "link": "https://www.electimes.com/news/articleView.html?idxno=364714"
@@ -75,11 +220,6 @@
         "link": "http://www.newstnt.com/news/articleView.html?idxno=583014"
     },
     {
-        "title": "[재계 투데이] 삼성전자, 美냉난방공조 전시회 참가 外",
-        "date": "2026-02-03 10:38",
-        "link": "https://news.dealsitetv.com/articles/164969"
-    },
-    {
         "title": "[브리프] 삼성전자 KT SKT 호반 LS일렉트릭 OCI홀딩스 KG에코솔루션 外",
         "date": "2026-02-03 10:32",
         "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348309"
@@ -98,11 +238,6 @@
         "title": "버튼 배치·카메라 색상 등 변화…폴더블 아이폰, 디자인 세부 사양 공...",
         "date": "2026-02-03 10:17",
         "link": "https://n.news.naver.com/mnews/article/092/0002408918?sid=105"
-    },
-    {
-        "title": "애플 '아이폰 폴드' 아이폰 역사상 가장 큰 배터리 탑재",
-        "date": "2026-02-03 10:10",
-        "link": "https://kbench.com/?q=node/275785"
     },
     {
         "title": "애플, 구독 서비스 포트폴리오 확장…서비스 수익 강화 나서",
@@ -153,11 +288,6 @@
         "title": "'아이폰 폴드' 아이패드 미니 DNA 이식…버튼 위치까지 뜯어고친 파격 ...",
         "date": "2026-02-03 09:27",
         "link": "https://n.news.naver.com/mnews/article/138/0002216911?sid=105"
-    },
-    {
-        "title": "삼성전자, 하반기 차세대 갤럭시 워치·탭 시리즈 출시하나",
-        "date": "2026-02-03 09:24",
-        "link": "https://kbench.com/?q=node/275783"
     },
     {
         "title": "스티브 잡스 유품 경매…애플 첫 수표, 240만달러에 낙찰",
@@ -218,1545 +348,5 @@
         "title": "[2월2일] AI 없이 역대 최대 실적 기록한 애플...과도기적 승리, 장기적...",
         "date": "2026-02-03 07:00",
         "link": "https://www.aitimes.com/news/articleView.html?idxno=206217"
-    },
-    {
-        "title": "삼성D 영업익 '4.1조' LGD '흑자 전환'…디스플레이 조용한 날갯짓",
-        "date": "2026-02-03 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156202"
-    },
-    {
-        "title": "비싸야 잘 팔린다…스마트폰 흥행공식 굳히나",
-        "date": "2026-02-03 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013744636?sid=105"
-    },
-    {
-        "title": "[한국 전자산업의 함정] ②중국에 정조준된 OLED 이후를 묻다",
-        "date": "2026-02-03 05:40",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602021405188530229"
-    },
-    {
-        "title": "테슬라도 중국 부품 없으면 옵티머스 못 만들어",
-        "date": "2026-02-03 00:35",
-        "link": "https://n.news.naver.com/mnews/article/023/0003956723?sid=105"
-    },
-    {
-        "title": "많이 팔아도 애플은 저 멀리…갤럭시26 과제는 ‘프리미엄’",
-        "date": "2026-02-03 00:01",
-        "link": "https://n.news.naver.com/mnews/article/025/0003500710?sid=101"
-    },
-    {
-        "title": "에이수스, 프로아트 PX13(ProArt PX13)·프로아트 고프로 에디션(ProArt Go...",
-        "date": "2026-02-02 22:23",
-        "link": "https://m.entertain.naver.com/article/144/0001095527"
-    },
-    {
-        "title": "바쁜 일상 속 성경 통독 돕는 '바이블 애플' 눈길",
-        "date": "2026-02-02 21:20",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=456176"
-    },
-    {
-        "title": "아이폰 폴드, 2026년 하반기 출시설 힘 받나…가격 360만원대?",
-        "date": "2026-02-02 20:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625934"
-    },
-    {
-        "title": "[비즈투데이] 삼성 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 20:06",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1512813"
-    },
-    {
-        "title": "삼성·애플, 신작 스마트폰 눈치싸움… 아이폰, 가격 동결 가닥에 갤럭...",
-        "date": "2026-02-02 20:00",
-        "link": "https://www.ajunews.com/view/20260202152415568"
-    },
-    {
-        "title": "칩플레이션이 쏜 IT산업 수요 위축…PC·TV·차까지 도미노 우려",
-        "date": "2026-02-02 19:09",
-        "link": "https://n.news.naver.com/mnews/article/009/0005631204?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 18:34",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=177121"
-    },
-    {
-        "title": "삼성 OLED TV 등 엔비디아 '지싱크 호환'",
-        "date": "2026-02-02 18:18",
-        "link": "https://n.news.naver.com/mnews/article/014/0005472166?sid=101"
-    },
-    {
-        "title": "사생활 보호·AI 고도화… 삼성, 프리미엄 스마트폰에 힘준다",
-        "date": "2026-02-02 18:18",
-        "link": "https://n.news.naver.com/mnews/article/014/0005472168?sid=105"
-    },
-    {
-        "title": "삼성, 갤럭시 S26 ‘가격인상 전략’ 걸림돌은",
-        "date": "2026-02-02 18:10",
-        "link": "https://www.ekn.kr/web/view.php?key=20260202029505035"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 18:06",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290120987183"
-    },
-    {
-        "title": "'A' 대신 'S' 판매 늘린다…삼성, 부품값 급등에 제품 믹스 새 판 짜기",
-        "date": "2026-02-02 17:57",
-        "link": "https://n.news.naver.com/mnews/article/014/0005472104?sid=105"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 17:56",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292840403238"
-    },
-    {
-        "title": "[도약의 삼성①] HBM·D램 쌍끌이로 年매출 333조 기록 쓴 삼성전자, 올...",
-        "date": "2026-02-02 17:50",
-        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=339641"
-    },
-    {
-        "title": "ST마이크로일렉트로닉스, USB PD 개발 간소화한 STUSB4531 공개",
-        "date": "2026-02-02 17:32",
-        "link": "https://www.hellot.net/news/article.html?no=109970"
-    },
-    {
-        "title": "폴드 이어 플립까지? 애플, 클램셸 폴더블 아이폰 개발 검토",
-        "date": "2026-02-02 17:20",
-        "link": "https://kbench.com/?q=node/275780"
-    },
-    {
-        "title": "삼성전자 OLED TV 전 라인업, 엔비디아 인증 받았다",
-        "date": "2026-02-02 17:14",
-        "link": "https://www.smarttoday.co.kr/ko-kr/articles/102667"
-    },
-    {
-        "title": "삼성 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 16:58",
-        "link": "https://www.g-enews.com/view.php?ud=2026020216233527156ed0c62d49_1"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 16:58",
-        "link": "https://www.g-enews.com/view.php?ud=2026020216422271816ed0c62d49_1"
-    },
-    {
-        "title": "삼성, 최신 F 시리즈 '갤럭시 F70e 5G' 티저 공개",
-        "date": "2026-02-02 16:54",
-        "link": "https://kbench.com/?q=node/275778"
-    },
-    {
-        "title": "‘유출한 특허 관련 기밀로 100만달러 수수’ 전 삼성전자 직원 구속기...",
-        "date": "2026-02-02 16:52",
-        "link": "https://n.news.naver.com/mnews/article/032/0003425316?sid=101"
-    },
-    {
-        "title": "거북목 검색 그만… 시선 너머 더 넓은 세상으로",
-        "date": "2026-02-02 16:46",
-        "link": "https://kookbang.dema.mil.kr/newsWeb/20260203/1/ATCE_CTGR_0020020007/view.do"
-    },
-    {
-        "title": "LGD, 올해 무더기 상표권 출원…흑자 발판 시장 선점 ‘올인’",
-        "date": "2026-02-02 16:40",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1289960&inflow=N"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·모니터 ‘엔비디아 지싱크’ 인증 획득… ...",
-        "date": "2026-02-02 16:34",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=196582"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 16:32",
-        "link": "https://www.ekn.kr/web/view.php?key=20260202028585160"
-    },
-    {
-        "title": "애플, 아이폰 17 흥행에 사상 최대 분기 매출 206조원",
-        "date": "2026-02-02 16:30",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=248924"
-    },
-    {
-        "title": "삼성D, 세계 최초 IT 8세대 OLED라인 5월 양산",
-        "date": "2026-02-02 16:26",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=51760"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증...",
-        "date": "2026-02-02 16:22",
-        "link": "https://www.mhj21.com/news/articleView.html?idxno=250201"
-    },
-    {
-        "title": "삼성전자 폴더블폰, '디스플레이 단품 수리' 마산·영주 서비스센터로 ...",
-        "date": "2026-02-02 16:20",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=728060"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 16:18",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=691420"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 16:18",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=691422"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 16:14",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=728056"
-    },
-    {
-        "title": "삼성전자, '폴더블폰 단품수리' 서비스 확대…2년간 수리비 80억 절감",
-        "date": "2026-02-02 16:09",
-        "link": "https://n.news.naver.com/mnews/article/008/0005312845?sid=105"
-    },
-    {
-        "title": "삼성전자 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 16:08",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=704668"
-    },
-    {
-        "title": "삼성전자 '엑시노스 탑재' 갤럭시S26, 이번에도 한국·유럽에만",
-        "date": "2026-02-02 16:06",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=418961"
-    },
-    {
-        "title": "많이 팔아도 남는 게 없다…삼성의 고민, ‘갤럭시 S26’로 판 뒤집을까",
-        "date": "2026-02-02 16:03",
-        "link": "https://n.news.naver.com/mnews/article/025/0003500631?sid=101"
-    },
-    {
-        "title": "삼성전자 최신 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 16:02",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=292917"
-    },
-    {
-        "title": "XBITU, 애플페이·비자·마스터카드 연동...글로벌 톱10 암호화폐 월렛 ...",
-        "date": "2026-02-02 16:00",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=2026020215575926136cf2d78c68_7"
-    },
-    {
-        "title": "테슬라 옵티머스도 中 부품 없으면 못 만든다",
-        "date": "2026-02-02 15:54",
-        "link": "https://n.news.naver.com/mnews/article/023/0003956654?sid=105"
-    },
-    {
-        "title": "XBITU, 애플페이·렌딩 탑재로 글로벌 B2C금융 시장 확장",
-        "date": "2026-02-02 15:50",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026020215462672356cf2d78c68_29"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 15:43",
-        "link": "https://n.news.naver.com/mnews/article/031/0001002138?sid=105"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증…프리미...",
-        "date": "2026-02-02 15:42",
-        "link": "https://www.todayeconomic.com/news/article.html?no=29535"
-    },
-    {
-        "title": "삼성전자 최신 OLED TV 전 라인업, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 15:41",
-        "link": "https://n.news.naver.com/mnews/article/123/0002376995?sid=004"
-    },
-    {
-        "title": "애플 초슬림 '아이폰 에어' 초기 판매량 6% 불과",
-        "date": "2026-02-02 15:38",
-        "link": "https://kbench.com/?q=node/275775"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 15:37",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=192452"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 15:37",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=192461"
-    },
-    {
-        "title": "[월드 플러스] 잡스가 서명한 ‘애플 최초 수표’ 경매서 35억 원에 낙찰",
-        "date": "2026-02-02 15:37",
-        "link": "https://n.news.naver.com/mnews/article/056/0012117019?sid=104"
-    },
-    {
-        "title": "ST마이크로일렉트로닉스, 하이브리드 컨트롤러 출시",
-        "date": "2026-02-02 15:28",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205300"
-    },
-    {
-        "title": "모자처럼 쓰면 끝... 쓰고만 있어도 '머리카락' 자라나는 'OLED 탈모 치...",
-        "date": "2026-02-02 15:26",
-        "link": "https://www.insight.co.kr/news/541174"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 15:16",
-        "link": "https://www.betanews.net/article/view/beta202602020065"
-    },
-    {
-        "title": "애플의 야심작 카플레이 울트라, 글로벌 확장...현대차·기아에 탑재하...",
-        "date": "2026-02-02 15:14",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541286"
-    },
-    {
-        "title": "애플, 플립형 폴더블까지 저울질…폴더블 아이패드까지 노린다",
-        "date": "2026-02-02 15:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625918"
-    },
-    {
-        "title": "삼성전자 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 15:02",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4393245"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 '디스플레이 단품 수리' 서비스 확대",
-        "date": "2026-02-02 15:02",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=248918"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 G-SYNC 인증 획득",
-        "date": "2026-02-02 15:00",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=883182"
-    },
-    {
-        "title": "삼성전자 올레드 TV, '엔비디아 지싱크' 인증으로 게임 경험 강화",
-        "date": "2026-02-02 15:00",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=60393"
-    },
-    {
-        "title": "아이폰 더 비싸질까…공급망 주도권 흔들린 애플, 수익성 압박",
-        "date": "2026-02-02 14:51",
-        "link": "https://n.news.naver.com/mnews/article/003/0013743699?sid=104"
-    },
-    {
-        "title": "리서치알음 PI첨단소재, 첨단산업용 포트폴리오 다변화·고성능 슬림화...",
-        "date": "2026-02-02 14:45",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=336460"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 부분 수리 서비스 160곳으로 확대",
-        "date": "2026-02-02 14:44",
-        "link": "https://www.insight.co.kr/news/541138"
-    },
-    {
-        "title": "Wearable OLED 'hat' shown to suppress hair follicle cell aging",
-        "date": "2026-02-02 14:38",
-        "link": "https://www.koreabiomed.com/news/articleView.html?idxno=30503"
-    },
-    {
-        "title": "삼성전자, ‘OLED TV &amp; 게이밍 모니터’ 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 14:36",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065574103784011"
-    },
-    {
-        "title": "[E Works] 삼성전자·LG전자·LGD",
-        "date": "2026-02-02 14:32",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=722643"
-    },
-    {
-        "title": "삼성전자, 26년형 OLED TV·오디세이 G6 ‘엔비디아 지싱크 호환’ 인증...",
-        "date": "2026-02-02 14:32",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=800523"
-    },
-    {
-        "title": "돈 있어도 칩 못 만든다 TSMC 눈치보는 애플…인텔 소환 왜?",
-        "date": "2026-02-02 14:32",
-        "link": "https://n.news.naver.com/mnews/article/138/0002216841?sid=105"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 14:20",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124412"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 14:19",
-        "link": "https://n.news.naver.com/mnews/article/366/0001139933?sid=105"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 14:12",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124398"
-    },
-    {
-        "title": "美 성경 읽는 '바이블 리캡', 3년 연속 애플 팟캐스트 톱 10 진입",
-        "date": "2026-02-02 14:10",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=456211"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터 라인업, 엔비디아 ‘지싱크 호환’ 인증",
-        "date": "2026-02-02 14:08",
-        "link": "https://www.kukinews.com/article/view/kuk202602020154"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 '엔비디아 지싱크' 호환 인증",
-        "date": "2026-02-02 14:04",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=134619"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 13:54",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=749145"
-    },
-    {
-        "title": "애플, 폴더블폰 다각화 전략 추진한다... 역대 최대 배터리 '아이폰 폴드...",
-        "date": "2026-02-02 13:48",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808446"
-    },
-    {
-        "title": "“삼성 쫓아가는 애플”…‘아이폰 폴드’ 이어 ‘아이폰 플립’ 개발 ...",
-        "date": "2026-02-02 13:48",
-        "link": "https://n.news.naver.com/mnews/article/050/0000101810?sid=101"
-    },
-    {
-        "title": "삼성전자, '필요 부품만 교체' 하는 폴더블폰·디스플레이 단품 수리 확...",
-        "date": "2026-02-02 13:36",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=96055"
-    },
-    {
-        "title": "이런 저평가 없다 자본 수익률 27%, 업계 압도한 동아엘텍의 진격",
-        "date": "2026-02-02 13:34",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=424602"
-    },
-    {
-        "title": "삼성, 폴더블폰 '화면 단품 수리' 서비스센터 160곳으로 확대",
-        "date": "2026-02-02 13:34",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156142"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 13:32",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=620074"
-    },
-    {
-        "title": "삼성전자 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 13:32",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156141"
-    },
-    {
-        "title": "애플, 차세대 스튜디오 디스플레이 출시 임박…뭐가 달라지나",
-        "date": "2026-02-02 13:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625886"
-    },
-    {
-        "title": "경남농기원, 산청 애플망고 재배농가 대상 맞춤형 컨설팅 실시",
-        "date": "2026-02-02 13:22",
-        "link": "http://www.hortitimes.com/news/articleView.html?idxno=33547"
-    },
-    {
-        "title": "애플, 에어팟 프로3 수요 예측 실패…너무 잘 팔려",
-        "date": "2026-02-02 13:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625890"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰·디스플레이 단품 수리 확대",
-        "date": "2026-02-02 13:20",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=620072"
-    },
-    {
-        "title": "삼성, 폴더블 디스플레이 단품 수리 센터 160곳으로 확대",
-        "date": "2026-02-02 13:14",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=122182"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 '지싱크 호환' 인...",
-        "date": "2026-02-02 13:06",
-        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73829"
-    },
-    {
-        "title": "애플 '플립형 아이폰' 카드 만지작…갤Z플립과 경쟁 붙을까",
-        "date": "2026-02-02 12:56",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=85765"
-    },
-    {
-        "title": "삼성 갤럭시 S26 시리즈, 언팩 직전 공식 렌더링 유출... 대대적 변화 없...",
-        "date": "2026-02-02 12:52",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808441"
-    },
-    {
-        "title": "ST마이크로일렉트로닉스, 프리미엄 USB-C 싱크 애플리케이션 간소화를 ...",
-        "date": "2026-02-02 12:48",
-        "link": "https://kbench.com/?q=node/275768"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 12:44",
-        "link": "http://www.breaknews.com/1181617"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 ‘디스플레이 단품 수리’ 확대…2025년 이용...",
-        "date": "2026-02-02 12:42",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=800516"
-    },
-    {
-        "title": "벤큐, 새학기 맞이 모니터 마우스 구매 고객 대상 ‘포토후기 이벤트’...",
-        "date": "2026-02-02 12:42",
-        "link": "https://kbench.com/?q=node/275766"
-    },
-    {
-        "title": "삼성전자 최신형 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 12:32",
-        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=116527"
-    },
-    {
-        "title": "세계최초 '1040Hz' 주사율로 끊김없이 삼성전자 모니터, 엔비디아 '지...",
-        "date": "2026-02-02 12:30",
-        "link": "https://www.catchnews.kr/news/articleView.html?idxno=120161"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·오디세이 G6, 엔비디아 '지싱크 호환' 인증 ...",
-        "date": "2026-02-02 12:16",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=582562"
-    },
-    {
-        "title": "삼성 스마트폰, 애플에 또 밀렸다. 아이폰, 2억4,060만 대 출하. 3년 연속...",
-        "date": "2026-02-02 12:10",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541272"
-    },
-    {
-        "title": "'2나노 수주 130% 확대' 선언한 삼성…파운드리 반격 본격화",
-        "date": "2026-02-02 12:08",
-        "link": "https://n.news.naver.com/mnews/article/119/0003054978?sid=101"
-    },
-    {
-        "title": "포스트 QD, 국가가 '소재 안보'로 준비해야… SN디스플레이, 페로브스카...",
-        "date": "2026-02-02 12:04",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808438"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환",
-        "date": "2026-02-02 12:04",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026020211111947990ecbf9426b_23"
-    },
-    {
-        "title": "삼성전자, '폴더블폰 디스플레이 단품 수리' 확대…서비스센터 160곳서 ...",
-        "date": "2026-02-02 12:04",
-        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=112989"
-    },
-    {
-        "title": "삼성전자, 고객서비스 확대… 폴더블폰 디스플레이 수리",
-        "date": "2026-02-02 12:01",
-        "link": "https://n.news.naver.com/mnews/article/021/0002768210?sid=105"
-    },
-    {
-        "title": "삼성전자 2026년 OLED TV 전 라인업 지싱크 호환 획득",
-        "date": "2026-02-02 12:00",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3075019"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·모니터 전 제품 '지싱크 호환' 인증",
-        "date": "2026-02-02 11:56",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257756"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 11:46",
-        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=96944"
-    },
-    {
-        "title": "Samsung Secures G-SYNC Compatible Certification for 2026 OLED TV Lineup",
-        "date": "2026-02-02 11:46",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=150460"
-    },
-    {
-        "title": "오픈AI '챗GPT 스마트폰' 출시 가능성, 블룸버그 애플 아이폰에 도전장...",
-        "date": "2026-02-02 11:42",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428839"
-    },
-    {
-        "title": "삼성 2026 OLED TV·게이밍 모니터, '지싱크 호환' 인증…게임 성능 강화",
-        "date": "2026-02-02 11:36",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541264"
-    },
-    {
-        "title": "삼성 2026년형 OLED TV‧게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 11:36",
-        "link": "http://journal.kobeta.com/?post_type=post&p=61638"
-    },
-    {
-        "title": "아이폰수리 업체 '아이픽스' 당일 액정교체, 데이터복구, 중고폰 매입 서...",
-        "date": "2026-02-02 11:34",
-        "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=83761"
-    },
-    {
-        "title": "올 하반기 폴더블 아이폰 내놓는 애플, 플립 형태 폴더블폰도 내놓을까",
-        "date": "2026-02-02 11:31",
-        "link": "https://n.news.naver.com/mnews/article/023/0003956613?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 단품 수리 전국 160개 센터로 확대",
-        "date": "2026-02-02 11:26",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257755"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 11:24",
-        "link": "https://www.pressman.kr/news/articleView.html?idxno=99318"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 '디스플레이 단품 수리' 전국 확대",
-        "date": "2026-02-02 11:24",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3054462"
-    },
-    {
-        "title": "애플, 카플레이 울트라 적용 범위 확대…현대·기아 합류",
-        "date": "2026-02-02 11:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625862"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 11:23",
-        "link": "https://n.news.naver.com/mnews/article/374/0000490107?sid=101"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 지싱크 호환으로 화면 찢어짐·끊김 최소...",
-        "date": "2026-02-02 11:22",
-        "link": "https://n.news.naver.com/mnews/article/031/0001002007?sid=101"
-    },
-    {
-        "title": "‘갤럭시S26’ 이달 공개…삼성 1위 사수 총력전",
-        "date": "2026-02-02 11:22",
-        "link": "https://n.news.naver.com/mnews/article/016/0002594500?sid=105"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 11:18",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3054458"
-    },
-    {
-        "title": "삼성전자 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 11:12",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000090768"
-    },
-    {
-        "title": "삼성, 엔비디아가 인정한 '이것' 하나로 게이밍 판도 바꾼다",
-        "date": "2026-02-02 11:12",
-        "link": "https://www.wikitree.co.kr/articles/1114708"
-    },
-    {
-        "title": "삼성전자 '2026년형 OLED TV·게이밍 모니터', 엔비디아 지싱크 호환 인...",
-        "date": "2026-02-02 11:10",
-        "link": "http://www.metroseoul.co.kr/article/20260202500209"
-    },
-    {
-        "title": "삼성전자, ‘폴더블폰 디스플레이 단품 수리’ 제공 서비스센터 확대",
-        "date": "2026-02-02 11:06",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=82627"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 11:06",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2064670"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 11:04",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=132660"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 11:04",
-        "link": "https://n.news.naver.com/mnews/article/092/0002408734?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 '디스플레이 단품 수리' 서비스 확대",
-        "date": "2026-02-02 11:02",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2064672"
-    },
-    {
-        "title": "수리비 줄이고 환경 보호...삼성전자, 폴더블폰 단품 수리 전국 확대",
-        "date": "2026-02-02 11:00",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=859627"
-    },
-    {
-        "title": "한국은 10만원, 중국은 3000원…'골든타임' 놓친 K로봇 부품[로봇 부품...",
-        "date": "2026-02-02 11:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005715343?sid=101"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 단품 수리 센터 160곳으로 확대",
-        "date": "2026-02-02 10:58",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625822"
-    },
-    {
-        "title": "삼성 폴더블폰, 디스플레이 단품 수리 서비스센터 160곳 확대",
-        "date": "2026-02-02 10:54",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541251"
-    },
-    {
-        "title": "애플, 워치OS 개선…'울트라 액션 버튼' 기능 확장 가능성",
-        "date": "2026-02-02 10:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625817"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 단품 수리 서비스 확대",
-        "date": "2026-02-02 10:51",
-        "link": "https://n.news.naver.com/mnews/article/144/0001095357?sid=105"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:50",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=80705"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:50",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=150451"
-    },
-    {
-        "title": "갤럭시S26 이달 공개… 삼성 1위 사수 총력",
-        "date": "2026-02-02 10:49",
-        "link": "https://n.news.naver.com/mnews/article/016/0002594429?sid=105"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 10:48",
-        "link": "https://n.news.naver.com/mnews/article/016/0002594426?sid=101"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 지원 센터 추가",
-        "date": "2026-02-02 10:46",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7147650"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:44",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=204604"
-    },
-    {
-        "title": "갤Z플립 비켜…애플 '아이폰 플립' 개발 검토, 왜?",
-        "date": "2026-02-02 10:44",
-        "link": "https://n.news.naver.com/mnews/article/243/0000092347?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:42",
-        "link": "https://www.cnbnews.com/news/article.html?no=776426"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증...",
-        "date": "2026-02-02 10:42",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428792"
-    },
-    {
-        "title": "[글로벌] 입모양만으로 AI 제어...애플, 'Q.ai' 인수해 침묵 발화 기술 확...",
-        "date": "2026-02-02 10:42",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=149007"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 지싱크 호환 인증 획득",
-        "date": "2026-02-02 10:41",
-        "link": "https://n.news.naver.com/mnews/article/020/0003694218?sid=101"
-    },
-    {
-        "title": "삼성전자 폴더블폰 디스플레이 정밀 수리 서비스 확대, 160곳서 이용 가...",
-        "date": "2026-02-02 10:40",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428789"
-    },
-    {
-        "title": "삼성 2026년형 OLED TV, 엔비디아 ‘지싱크 호환’ 인증",
-        "date": "2026-02-02 10:39",
-        "link": "https://n.news.naver.com/mnews/article/011/0004585553?sid=101"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 ‘엔비디아 지싱크 호환’ ...",
-        "date": "2026-02-02 10:38",
-        "link": "https://www.ceoscoredaily.com/page/view/2026020209475134368"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 ‘디스플레이 단품 수비’ 서비스센터 확대",
-        "date": "2026-02-02 10:38",
-        "link": "https://www.ceoscoredaily.com/page/view/2026020210071438113"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대··· 서비스센터...",
-        "date": "2026-02-02 10:36",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=134556"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 10:36",
-        "link": "https://n.news.naver.com/mnews/article/011/0004585550?sid=101"
-    },
-    {
-        "title": "엔비디아가 'OK' 찍었다…삼성 OLED, 게이밍 디스플레이 판 흔든다",
-        "date": "2026-02-02 10:34",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=721569"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:30",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3012119"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대… 수리비 부담 줄인다",
-        "date": "2026-02-02 10:26",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=177035"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 '디스플레이 단품 수리' 전국 160곳",
-        "date": "2026-02-02 10:26",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=813776"
-    },
-    {
-        "title": "윈도우에 기본 탑재된 코파일럿, 왜 외면받고 있나",
-        "date": "2026-02-02 10:24",
-        "link": "https://www.itworld.co.kr/article/4125343/윈도우에-기본-탑재된-코파일럿-왜-외면받고-있나.html"
-    },
-    {
-        "title": "애플, 'Z 플립'처럼 접히는 폴더블 아이폰 검토",
-        "date": "2026-02-02 10:20",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156150"
-    },
-    {
-        "title": "삼성전자, OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 10:14",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=813749"
-    },
-    {
-        "title": "삼성전자 2026 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:12",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2106386"
-    },
-    {
-        "title": "삼성전자 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 10:12",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205276"
-    },
-    {
-        "title": "삼성전자 '폴더블폰 디스플레이 단품 수리' 확대..수리비 부담↓",
-        "date": "2026-02-02 10:10",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2106392"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:08",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=82610"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 10:06",
-        "link": "https://n.news.naver.com/mnews/article/030/0003395361?sid=105"
-    },
-    {
-        "title": "애플 낸드플래시 확보 '비상'에 삼성전자 반사이익, 가격 두 배로 인상...",
-        "date": "2026-02-02 10:06",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=428802"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 10:05",
-        "link": "https://n.news.naver.com/mnews/article/030/0003395360?sid=105"
-    },
-    {
-        "title": "삼성, 폴더블폰 '디스플레이 단품 수리' 전국 확대",
-        "date": "2026-02-02 10:05",
-        "link": "https://n.news.naver.com/mnews/article/119/0003054843?sid=101"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 10:04",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205273"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 단품 수리 전국 160곳 확대",
-        "date": "2026-02-02 10:04",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=124341"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 정밀 수리 서비스 확대",
-        "date": "2026-02-02 10:04",
-        "link": "https://n.news.naver.com/mnews/article/215/0001240109?sid=101"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED 전 라인업 엔비디아 인증 받아",
-        "date": "2026-02-02 10:04",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=124339"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰' 디스플레이 단품 수리 서비스센터 추가 확...",
-        "date": "2026-02-02 10:02",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=281957"
-    },
-    {
-        "title": "[K-TECH 글로벌 리더스] 〈삼성전자①〉 “AI가 일상의 동반자”… 스마...",
-        "date": "2026-02-02 10:01",
-        "link": "https://n.news.naver.com/mnews/article/020/0003694196?sid=101"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터 신제품, '엔비디아 인증' 받아",
-        "date": "2026-02-02 10:00",
-        "link": "https://n.news.naver.com/mnews/article/079/0004111232?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 정밀 수리' 서비스센터 확대",
-        "date": "2026-02-02 09:59",
-        "link": "https://n.news.naver.com/mnews/article/079/0004111229?sid=101"
-    },
-    {
-        "title": "삼성전자, OLED TV·게이밍 모니터에 엔비디아 지싱크 호환 탑재",
-        "date": "2026-02-02 09:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625766"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대···수리비 경감...",
-        "date": "2026-02-02 09:54",
-        "link": "https://www.ajunews.com/view/20260202083459118"
-    },
-    {
-        "title": "[오늘 뭐했니?] 삼성전자",
-        "date": "2026-02-02 09:52",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=40093"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 '단품 수리' 전국 확대",
-        "date": "2026-02-02 09:52",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=291125"
-    },
-    {
-        "title": "[카드] 삼성 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:52",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=722574"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증 받아",
-        "date": "2026-02-02 09:50",
-        "link": "https://www.cnet.co.kr/view/?no=20260202094055"
-    },
-    {
-        "title": "삼성전자, ‘비스포크 AI 콤보’에 폐유리 재활용 소재 적용",
-        "date": "2026-02-02 09:50",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=204596"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:48",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=354458"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 '엔비디아 지싱크' 인증",
-        "date": "2026-02-02 09:44",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=248864"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 확대...고객 수리비 부담 줄...",
-        "date": "2026-02-02 09:44",
-        "link": "http://www.metroseoul.co.kr/article/20260202500097"
-    },
-    {
-        "title": "애플 '카플레이 울트라', 올 하반기 현대·기아 신차에 첫 탑재 가능성...",
-        "date": "2026-02-02 09:44",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156140"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품수리 서비스센터 추가 확대",
-        "date": "2026-02-02 09:43",
-        "link": "https://n.news.naver.com/mnews/article/014/0005471654?sid=101"
-    },
-    {
-        "title": "삼성 OLED TV, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 09:43",
-        "link": "https://www.newspim.com/news/view/20260202000193"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:40",
-        "link": "https://n.news.naver.com/mnews/article/215/0001240095?sid=101"
-    },
-    {
-        "title": "삼성전자 신형 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 09:39",
-        "link": "https://n.news.naver.com/mnews/article/117/0004031551?sid=103"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV 전 라인업 엔비디아 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 09:39",
-        "link": "https://n.news.naver.com/mnews/article/138/0002216782?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 필요 부품만 교체",
-        "date": "2026-02-02 09:36",
-        "link": "https://n.news.naver.com/mnews/article/082/0001365195?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 09:32",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=291110"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 09:32",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=106532"
-    },
-    {
-        "title": "삼성전자 폴더블폰, '디스플레이 단품 수리' 확대 … 서비스센터 160곳에...",
-        "date": "2026-02-02 09:32",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=80697"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 전국 확대",
-        "date": "2026-02-02 09:32",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000090738"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 서비스 전국 확대",
-        "date": "2026-02-02 09:32",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=119839"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 09:32",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=287825"
-    },
-    {
-        "title": "삼성전자 2026 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:30",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202602020928388694be44c0aacd_30"
-    },
-    {
-        "title": "마이크로 LED 기대에 장비주 들썩… 레이저쎌 주가 폭주랠리",
-        "date": "2026-02-02 09:30",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=424466"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 센터 160곳으로 확대",
-        "date": "2026-02-02 09:29",
-        "link": "https://n.news.naver.com/mnews/article/138/0002216776?sid=105"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:28",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3370151"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:28",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=195732"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 09:28",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=71781"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV· 게이밍 모니터, 엔비디아 ‘지싱크 호환’...",
-        "date": "2026-02-02 09:26",
-        "link": "https://n.news.naver.com/mnews/article/016/0002594299?sid=101"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV 등 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:26",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=246640"
-    },
-    {
-        "title": "삼성전자 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:24",
-        "link": "https://n.news.naver.com/mnews/article/119/0003054805?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 09:24",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=246317"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:24",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328076"
-    },
-    {
-        "title": "삼성전자서비스, '폴더블폰 디스플레이 단품 수리' 서비스 전국 확대",
-        "date": "2026-02-02 09:24",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=110445"
-    },
-    {
-        "title": "삼성, OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:24",
-        "link": "https://www.sentv.co.kr/article/view/sentv202602020027"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:22",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=281945"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 확대...수리비 부담 줄인다...",
-        "date": "2026-02-02 09:22",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=239041"
-    },
-    {
-        "title": "스마트폰 제조사, 망원 카메라에 승부수…줌 경쟁 본격화",
-        "date": "2026-02-02 09:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625751"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV와 게이밍 모니터 '엔비디아 지싱크 호환' 인...",
-        "date": "2026-02-02 09:20",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=122098"
-    },
-    {
-        "title": "삼성전자 최신 OLED TV 전 라인업, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:20",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=211578"
-    },
-    {
-        "title": "갤Z폴드7 비켜…애플 첫 폴더블폰, 아이폰 역사상 최대 배터리 탑재",
-        "date": "2026-02-02 09:19",
-        "link": "https://n.news.naver.com/mnews/article/138/0002216771?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 '단품 수리' 전국 확대… 수리비 줄이고 환경 보호...",
-        "date": "2026-02-02 09:18",
-        "link": "https://www.sentv.co.kr/article/view/sentv202602020023"
-    },
-    {
-        "title": "삼성전자, '폴더블폰 디스플레이' 단품수리센터 2곳 확대",
-        "date": "2026-02-02 09:18",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1330123"
-    },
-    {
-        "title": "삼성전자, OLED TV·게이밍 모니터 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:18",
-        "link": "https://n.news.naver.com/mnews/article/366/0001139811?sid=105"
-    },
-    {
-        "title": "애플, 아이폰 12월 판매 무려 8100만대에 달해...전년 동월 대비 8%↑'교...",
-        "date": "2026-02-02 09:18",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202602020910589502aaae0046f_30"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:16",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=71774"
-    },
-    {
-        "title": "삼성전자, OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증 획득",
-        "date": "2026-02-02 09:16",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=110439"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·게이밍 모니터 '엔비디아 지싱크 호환' 인증...",
-        "date": "2026-02-02 09:16",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=260360"
-    },
-    {
-        "title": "삼성전자, 엔비디아 '지싱크' 인증 획득…1040Hz 초고주사율 모니터 등 ...",
-        "date": "2026-02-02 09:16",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1332216"
-    },
-    {
-        "title": "삼성전자 올레드 TV·게이밍 모니터, 엔비디아 ‘지싱크 호환’ 인증 획...",
-        "date": "2026-02-02 09:15",
-        "link": "https://n.news.naver.com/mnews/article/029/0003008393?sid=101"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:14",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=546927"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:12",
-        "link": "http://www.datanews.co.kr/news/article.html?no=143124"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:12",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=240332"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 정밀 수리 서비스 확대",
-        "date": "2026-02-02 09:12",
-        "link": "https://n.news.naver.com/mnews/article/022/0004102423?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 09:12",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=211570"
-    },
-    {
-        "title": "삼성전자, OLED 디스플레이 제품 '엔비디아지싱크 호환' 인증 완료",
-        "date": "2026-02-02 09:12",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=713591"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV·모니터 전 라인업 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 09:10",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697861"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:08",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=106517"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 09:08",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/02/2026020200045.html"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:08",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=122691"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 '확대'",
-        "date": "2026-02-02 09:08",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=195725"
-    },
-    {
-        "title": "LG전자, 2025년 전사 영업익 감소…MS사업부 7500억 손실",
-        "date": "2026-02-02 09:08",
-        "link": "https://www.koit.co.kr/news/articleView.html?idxno=205254"
-    },
-    {
-        "title": "아이폰17 잘 팔려도 불안…애플, '역대급 실적'에도 가시지 않는 AI 위...",
-        "date": "2026-02-02 09:07",
-        "link": "https://n.news.naver.com/mnews/article/138/0002216765?sid=105"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV, 엔비디아 지싱크 호환 인증 획득",
-        "date": "2026-02-02 09:06",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=553232"
-    },
-    {
-        "title": "삼성전자, 중동판 '디지털 리더십 이니셔티브' 구축…갤럭시 Z 폴드7 핵...",
-        "date": "2026-02-02 09:06",
-        "link": "https://www.theguru.co.kr/news/article.html?no=97579"
-    },
-    {
-        "title": "삼성전자 신형 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:05",
-        "link": "https://n.news.naver.com/mnews/article/008/0005312491?sid=101"
-    },
-    {
-        "title": "삼성전자, '폴더블폰 디스플레이 단품 수리' 서비스 확대",
-        "date": "2026-02-02 09:04",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=240328"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 전국 확대 발표",
-        "date": "2026-02-02 09:04",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=553227"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블 디스플레이 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 09:04",
-        "link": "https://n.news.naver.com/mnews/article/629/0000468251?sid=105"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:02",
-        "link": "https://www.viva100.com/article/20260202500153"
-    },
-    {
-        "title": "삼성전자, 신형 OLED TV·모니터 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 09:02",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1330105"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 09:02",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412041"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:02",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=260361"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:02",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=713583"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 09:00",
-        "link": "http://www.segyebiz.com/newsView/20260202503224?OutUrl=naver"
-    },
-    {
-        "title": "삼성전자서비스 폴더블폰 디스플레이 단품 수리, 1년새 5배 증가",
-        "date": "2026-02-02 09:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003008389?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블 디스플레이 단품 수리 센터 확대",
-        "date": "2026-02-02 08:59",
-        "link": "https://n.news.naver.com/mnews/article/003/0013742460?sid=101"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 08:58",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747271?sid=101"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 08:58",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747269?sid=101"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 08:58",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747270?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 정밀 수리 서비스 확대",
-        "date": "2026-02-02 08:58",
-        "link": "https://n.news.naver.com/mnews/article/001/0015878851?sid=101"
-    },
-    {
-        "title": "삼성 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:56",
-        "link": "https://n.news.naver.com/mnews/article/014/0005471593?sid=101"
-    },
-    {
-        "title": "삼성전자 “폴더블폰 디스플레이 단품 수리 확대”",
-        "date": "2026-02-02 08:56",
-        "link": "http://theviewers.co.kr/View.aspx?No=3961116"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 08:56",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1332199"
-    },
-    {
-        "title": "KAIST, 모자처럼 쓰는 탈모 예방 OLED 개발",
-        "date": "2026-02-02 08:56",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399966"
-    },
-    {
-        "title": "폴더블 아이폰 다음은…애플, 클램셀 카드 만지작",
-        "date": "2026-02-02 08:54",
-        "link": "https://n.news.naver.com/mnews/article/092/0002408675?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리…2곳 추가 확대",
-        "date": "2026-02-02 08:52",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=829472"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:50",
-        "link": "https://hbnpress.com/news/view/1065570458704464"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 08:50",
-        "link": "http://thetracker.co.kr/View.aspx?No=3961112"
-    },
-    {
-        "title": "삼성전자 최신 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환",
-        "date": "2026-02-02 08:49",
-        "link": "https://n.news.naver.com/mnews/article/417/0001127632?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747238?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747237?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747236?sid=101"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 08:48",
-        "link": "https://www.etoday.co.kr/news/view/2551843"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 정밀 수리 서비스 확대",
-        "date": "2026-02-02 08:46",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=201012"
-    },
-    {
-        "title": "몸값에 막힌 애플 AI 구상…앤트로픽 포기하고 구글로",
-        "date": "2026-02-02 08:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=625719"
-    },
-    {
-        "title": "삼성전자 OLED TV-게이밍 모니터, 엔비디아 ‘지싱크 호환’ 인증",
-        "date": "2026-02-02 08:42",
-        "link": "http://theviewers.co.kr/View.aspx?No=3961092"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:40",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=425743"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:40",
-        "link": "https://www.etoday.co.kr/news/view/2551835"
-    },
-    {
-        "title": "LGD, 외형 줄었지만 흑자 전환…OLED 전환 효과 본격화",
-        "date": "2026-02-02 08:40",
-        "link": "http://www.datanews.co.kr/news/article.html?no=143095"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:40",
-        "link": "http://www.segyebiz.com/newsView/20260202502732?OutUrl=naver"
-    },
-    {
-        "title": "KAIST, 헬맷은 가라...모자처럼 쓰는 탈모 예방 OLED 개발",
-        "date": "2026-02-02 08:40",
-        "link": "http://www.kyosu.net/news/articleView.html?idxno=156717"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 단품 수리 확대...서비스센터 160곳 지원",
-        "date": "2026-02-02 08:38",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=424408"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 단품 수리 센터 160곳으로 확대",
-        "date": "2026-02-02 08:38",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1697846"
-    },
-    {
-        "title": "삼성 폴더블폰 AS 진화…정밀 단품 수리 전국 확대",
-        "date": "2026-02-02 08:37",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=107433"
-    },
-    {
-        "title": "삼성전자 최신 OLED TV 전 라인업, 엔비디아 '지싱크' 인증",
-        "date": "2026-02-02 08:36",
-        "link": "https://n.news.naver.com/mnews/article/018/0006211146?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:30",
-        "link": "https://www.ajunews.com/view/20260202081837100"
-    },
-    {
-        "title": "삼성, 폴더블폰 디스플레이 단품수리 서비스센터 160곳으로 확대",
-        "date": "2026-02-02 08:30",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=308253"
-    },
-    {
-        "title": "'삼성전자 폴더블폰, 디스플레이 단품 수리' 확대",
-        "date": "2026-02-02 08:30",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=106652"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:28",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412032"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 '지싱크 호환' 인증",
-        "date": "2026-02-02 08:28",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=424391"
-    },
-    {
-        "title": "삼성 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:28",
-        "link": "https://n.news.naver.com/mnews/article/001/0015878796?sid=101"
-    },
-    {
-        "title": "삼성전자 폴더블폰, '비용 경감' 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 08:27",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747150?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:26",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=72330"
-    },
-    {
-        "title": "삼성전자, 폴더블폰 디스플레이 정밀 수리 서비스 확대",
-        "date": "2026-02-02 08:26",
-        "link": "https://n.news.naver.com/mnews/article/001/0015878793?sid=101"
-    },
-    {
-        "title": "세계 최초로 1040Hz 구현… 삼성전자 OLED, 엔비디아 '지싱크' 인증",
-        "date": "2026-02-02 08:24",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=246292"
-    },
-    {
-        "title": "삼성전자 최신형 OLED TV·모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:24",
-        "link": "https://n.news.naver.com/mnews/article/092/0002408666?sid=105"
-    },
-    {
-        "title": "Samsung Adds NVIDIA G-SYNC Compatibility to 2026 OLED TVs and Odyssey Mon...",
-        "date": "2026-02-02 08:24",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=150435"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:23",
-        "link": "https://n.news.naver.com/mnews/article/421/0008747141?sid=101"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV와 게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:22",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=106650"
-    },
-    {
-        "title": "삼성전자 OLED TV·게이밍 모니터, 엔비디아 지싱크 호환 인증",
-        "date": "2026-02-02 08:20",
-        "link": "https://n.news.naver.com/mnews/article/277/0005715070?sid=101"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 '디스플레이 단품' 수리 확대",
-        "date": "2026-02-02 08:20",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=53045"
-    },
-    {
-        "title": "삼성, 폴더블 디스플레이 단품 수리 센터 160곳으로 확대",
-        "date": "2026-02-02 08:20",
-        "link": "https://www.newspim.com/news/view/20260202000040"
-    },
-    {
-        "title": "삼성전자서비스, 폴더블폰 단품 수리 서비스센터 확대",
-        "date": "2026-02-02 08:18",
-        "link": "https://n.news.naver.com/mnews/article/018/0006211115?sid=101"
-    },
-    {
-        "title": "삼성과 정면승부? 애플, 두 가지 폴더블 전략으로 시장 확대 꾀한다",
-        "date": "2026-02-02 08:16",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541244"
-    },
-    {
-        "title": "삼성전자 2026년형 OLED TV·모니터, 엔비디아 '지싱크 호환' 인증 획득",
-        "date": "2026-02-02 08:12",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=68520"
-    },
-    {
-        "title": "애플 '아이폰 플립' 개발 검토…폴더블폰 수요 확대 노리나[모닝폰]",
-        "date": "2026-02-02 08:08",
-        "link": "https://n.news.naver.com/mnews/article/018/0006211096?sid=105"
-    },
-    {
-        "title": "삼성전자 폴더블폰, 디스플레이 단품 수리 확대",
-        "date": "2026-02-02 08:06",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=425740"
-    },
-    {
-        "title": "[모바일 On] 애플 아이폰18, 가격 인상은 다음에",
-        "date": "2026-02-02 07:46",
-        "link": "https://kidd.co.kr/news/244839"
-    },
-    {
-        "title": "잡스가 서명한 ‘애플 최초 수표’ 경매서 35억 원에 낙찰 [잇슈 SNS]",
-        "date": "2026-02-02 07:29",
-        "link": "https://n.news.naver.com/mnews/article/056/0012116680?sid=104"
-    },
-    {
-        "title": "[이 시각 세계] 잡스가 서명한 애플 첫 수표 '35억 원' 경매",
-        "date": "2026-02-02 07:20",
-        "link": "https://n.news.naver.com/mnews/article/214/0001478030?sid=104"
-    },
-    {
-        "title": "아이폰 18, 中 BOE 이탈…삼성D·LGD 반사이익 기대",
-        "date": "2026-02-02 07:08",
-        "link": "https://dealsite.co.kr/articles/156107"
     }
 ]
