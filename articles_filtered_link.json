@@ -1,5 +1,265 @@
 [
     {
+        "title": "부산대 노정균·황도훈 교수팀, 양자점 손상 없는 패터닝 기술 개발",
+        "date": "2026-02-04 13:58",
+        "link": "https://www.cnbnews.com/news/article.html?no=777025"
+    },
+    {
+        "title": "부산대·성균관대 공동연구팀, 양자점 마이크로디스플레이 기술 혁신 이...",
+        "date": "2026-02-04 13:50",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=157174"
+    },
+    {
+        "title": "구글·애플 검색 독점 논란, 美 법무부 항소로 재점화",
+        "date": "2026-02-04 13:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626869"
+    },
+    {
+        "title": "애플 Xcode, '클로드 에이전트 SDK' 네이티브 지원… AI 자율 코딩 시대...",
+        "date": "2026-02-04 13:42",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38484"
+    },
+    {
+        "title": "애플, 코딩 도구 'X코드'에 앤트로픽·오픈AI 코딩 에이전트 탑재",
+        "date": "2026-02-04 13:32",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=206367"
+    },
+    {
+        "title": "애플도 접히기 시작했다…삼성 폴더블 시험대",
+        "date": "2026-02-04 13:22",
+        "link": "https://n.news.naver.com/mnews/article/117/0004032386?sid=105"
+    },
+    {
+        "title": "애플, 구버전 차단…iOS 26.2 다운그레이드 불가",
+        "date": "2026-02-04 13:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626844"
+    },
+    {
+        "title": "애플, M5 프로·맥스 칩 탑재한 고급형 맥북 프로 출시 초읽기... 기존 맥...",
+        "date": "2026-02-04 12:54",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808520"
+    },
+    {
+        "title": "日 샤프, 중소형 LCD 자회사 사업 종료",
+        "date": "2026-02-04 12:48",
+        "link": "https://n.news.naver.com/mnews/article/030/0003396312?sid=105"
+    },
+    {
+        "title": "[분석] 中 로봇 부품·완제품 수직계열화 완료···韓 자동화 생태계 '...",
+        "date": "2026-02-04 12:24",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=249332"
+    },
+    {
+        "title": "메타버스 열풍 식었지만 의료 융합기술연구 지속",
+        "date": "2026-02-04 12:22",
+        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=933496"
+    },
+    {
+        "title": "부산대, 양자점 손상 없는 초정밀 패터닝 기술 개발",
+        "date": "2026-02-04 12:06",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=82750"
+    },
+    {
+        "title": "역대급 스펙에 AI 중무장? 미리 보는 삼성 '갤럭시S26'",
+        "date": "2026-02-04 11:57",
+        "link": "https://n.news.naver.com/mnews/article/629/0000469303?sid=105"
+    },
+    {
+        "title": "애플, 삼성 OLED 패널 탑재 '맥북 프로' 4분기 출시 유력",
+        "date": "2026-02-04 11:56",
+        "link": "https://kbench.com/?q=node/275844"
+    },
+    {
+        "title": "수익성 반등 '승부수'…삼성전자, '갤럭시 S26' 25일 공개되나",
+        "date": "2026-02-04 11:52",
+        "link": "https://theviewers.co.kr/View.aspx?No=3964129"
+    },
+    {
+        "title": "FITI시험연, 소부장 기초소재 AX 지원 대표기관 선정",
+        "date": "2026-02-04 11:30",
+        "link": "http://amenews.kr/news/view.php?idx=65697"
+    },
+    {
+        "title": "FITI시험연구원, AX 지원 소부장 융합혁신지원단 기초소재 분과 대표기...",
+        "date": "2026-02-04 11:28",
+        "link": "https://idsn.co.kr/news/view/1065574578467198"
+    },
+    {
+        "title": "애플 비밀번호 앱, iOS 26서 더 강력해진다...'임시 저장' 기능 추가",
+        "date": "2026-02-04 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626776"
+    },
+    {
+        "title": "애플, 앱스토어 SDK 요건 강화… 2026년부터 적용",
+        "date": "2026-02-04 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626765"
+    },
+    {
+        "title": "AI가 현재 스마트폰 대체한다는 머스크의 경고…삼성 갤럭시의 미래는...",
+        "date": "2026-02-04 11:07",
+        "link": "https://n.news.naver.com/mnews/article/003/0013748064?sid=105"
+    },
+    {
+        "title": "삼성, 차기 '갤럭시Z 폴드8' 초기 생산량 늘린다",
+        "date": "2026-02-04 10:50",
+        "link": "https://kbench.com/?q=node/275841"
+    },
+    {
+        "title": "“인텔 버린 애플의 선택은 옳았다” 팬서 레이크 vs. M5 비교",
+        "date": "2026-02-04 10:50",
+        "link": "https://www.itworld.co.kr/article/4126882/인텔을-버린-애플의-선택은-옳았다-팬서-레이크-vs-m5-비.html"
+    },
+    {
+        "title": "한·미 '산업 동맹' 격상···조선·핵잠·SMR 'K-수익 모델' 기대감",
+        "date": "2026-02-04 10:42",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=673132"
+    },
+    {
+        "title": "포토레지스트도, 리간드 교환도 없이 양자점 초정밀 패터닝 성공 양자점...",
+        "date": "2026-02-04 10:36",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=157008"
+    },
+    {
+        "title": "애플, ‘Xcode 26.3′ 에이전틱 코딩 지원 시작",
+        "date": "2026-02-04 10:35",
+        "link": "https://n.news.naver.com/mnews/article/366/0001140419?sid=105"
+    },
+    {
+        "title": "[애널픽] 키움증권 스몰캡 8선",
+        "date": "2026-02-04 10:14",
+        "link": "http://theviewers.co.kr/View.aspx?No=3963992"
+    },
+    {
+        "title": "아이폰도 접는다…애플, 클램셀 폴더블폰 카드 만지작",
+        "date": "2026-02-04 10:11",
+        "link": "https://n.news.naver.com/mnews/article/053/0000055588?sid=101"
+    },
+    {
+        "title": "포토레지스트도, 리간드 교환도 없이 양자점 초정밀 패터닝 성공",
+        "date": "2026-02-04 10:08",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=596902"
+    },
+    {
+        "title": "“열전소자로 AI 칩 발열 잡는다”…나인테크, 신사업 추진",
+        "date": "2026-02-04 10:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003396198?sid=105"
+    },
+    {
+        "title": "애플 맥북 프로, 싹 바뀐다…5년 만의 디자인 대폭 개편",
+        "date": "2026-02-04 09:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626707"
+    },
+    {
+        "title": "애플 분기 최대 실적에...삼성전자, 플래그십·AI 전략으로 반격",
+        "date": "2026-02-04 09:40",
+        "link": "http://www.metroseoul.co.kr/article/20260204500129"
+    },
+    {
+        "title": "아이폰 123조원어치 팔더니…美서 '점유율 70% 육박' 독주",
+        "date": "2026-02-04 09:38",
+        "link": "https://n.news.naver.com/mnews/article/015/0005246521?sid=105"
+    },
+    {
+        "title": "아이폰 18, 외형 변화 없이 A20 칩으로 승부수…2nm 기술 도입",
+        "date": "2026-02-04 09:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541338"
+    },
+    {
+        "title": "[스페셜리포트] AI를 품은 비전, 자율제조의 눈이 되다",
+        "date": "2026-02-04 09:34",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=77671"
+    },
+    {
+        "title": "FITI시험연구원, 소부장 기업 맞춤형 기술지원",
+        "date": "2026-02-04 09:34",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=222576"
+    },
+    {
+        "title": "중국 LCD 산업, 글로벌 주도권 강화...구조조정 '주목'",
+        "date": "2026-02-04 09:30",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=160519"
+    },
+    {
+        "title": "애플 iOS 26.2 업데이트로 에어팟 라이브 번역 지원 확대",
+        "date": "2026-02-04 09:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626720"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S21 시리즈 소프트웨어 지원 종료…5년 약속 완수",
+        "date": "2026-02-04 09:28",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=71926"
+    },
+    {
+        "title": "[연중기획-IT트렌드 캐처] 노트북 여러 대도 가볍게 충전... 240W 고성능 ...",
+        "date": "2026-02-04 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58005"
+    },
+    {
+        "title": "애플, X코드에 에이전틱 코딩 기능 추가...앤트로픽·오픈AI 연동",
+        "date": "2026-02-04 08:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=425385"
+    },
+    {
+        "title": "FITI, AX 지원 소부장 융합혁신지원단 기초소재 분과 대표기관 선정",
+        "date": "2026-02-04 08:44",
+        "link": "https://n.news.naver.com/mnews/article/119/0003055747?sid=101"
+    },
+    {
+        "title": "[원AI] 유비리서치 “지난해 OLED 모니터 출하 64% 증가”",
+        "date": "2026-02-04 08:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003396140?sid=105"
+    },
+    {
+        "title": "FITI시험연구원, AX 지원 소부장 융합혁신지원단 기초소재 분과 대표기...",
+        "date": "2026-02-04 08:36",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=364841"
+    },
+    {
+        "title": "애플 Xcode, 에이전틱 코딩 지원…클로드·코덱스 연동",
+        "date": "2026-02-04 08:32",
+        "link": "https://n.news.naver.com/mnews/article/119/0003055739?sid=105"
+    },
+    {
+        "title": "FITI시험연, AX 지원 소부장 융합혁신지원단 기초소재 분과 대표기관 선...",
+        "date": "2026-02-04 08:10",
+        "link": "http://www.energydaily.co.kr/news/articleView.html?idxno=164354"
+    },
+    {
+        "title": "현대카드, 업계 불황 속 10%대 이익 성장…애플페이가 효자",
+        "date": "2026-02-04 07:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=492604"
+    },
+    {
+        "title": "‘가전의 진화’⋯ ‘콤팩트 넘어 슬림이 대세",
+        "date": "2026-02-04 06:52",
+        "link": "https://www.viva100.com/article/20260203500936"
+    },
+    {
+        "title": "애플, X코드에 앤트로픽·오픈AI 에이전트 추가",
+        "date": "2026-02-04 06:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=626651"
+    },
+    {
+        "title": "삼성 갤럭시 S26, '완성도 vs 실용성' 선택지… 폴더블 중심 전략 재정렬",
+        "date": "2026-02-04 06:12",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260204010001259"
+    },
+    {
+        "title": "中 8.6G OLED 난항…韓 세계 최초 양산 기대",
+        "date": "2026-02-04 06:06",
+        "link": "https://dealsite.co.kr/articles/156299"
+    },
+    {
+        "title": "폴드7보다 작지만 배터리는 더 고용량 폴더블 아이폰 윤곽",
+        "date": "2026-02-04 06:01",
+        "link": "https://n.news.naver.com/mnews/article/421/0008751897?sid=105"
+    },
+    {
+        "title": "“밀라노 두오모에 뜬 갤S26”…삼성, 올림픽 앞두고 유럽 심장부에 ‘...",
+        "date": "2026-02-04 06:01",
+        "link": "https://n.news.naver.com/mnews/article/468/0001214558?sid=101"
+    },
+    {
         "title": "로봇으로 뻗는 부품 경쟁… 관건은 '기술 국산화'",
         "date": "2026-02-04 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156283"
@@ -215,9 +475,19 @@
         "link": "https://n.news.naver.com/mnews/article/123/0002377054?sid=004"
     },
     {
+        "title": "삼성·LG, ISE 2026서 차세대 상업용 디스플레이 격돌",
+        "date": "2026-02-03 10:48",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=134743"
+    },
+    {
         "title": "삼성전자, ISE 2026서 무안경 3D·초대형 마이크로 RGB 등 차세대 상업용...",
         "date": "2026-02-03 10:40",
         "link": "http://www.newstnt.com/news/articleView.html?idxno=583014"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자, 美냉난방공조 전시회 참가 外",
+        "date": "2026-02-03 10:38",
+        "link": "https://news.dealsitetv.com/articles/164969"
     },
     {
         "title": "[브리프] 삼성전자 KT SKT 호반 LS일렉트릭 OCI홀딩스 KG에코솔루션 外",
@@ -238,6 +508,11 @@
         "title": "버튼 배치·카메라 색상 등 변화…폴더블 아이폰, 디자인 세부 사양 공...",
         "date": "2026-02-03 10:17",
         "link": "https://n.news.naver.com/mnews/article/092/0002408918?sid=105"
+    },
+    {
+        "title": "애플 '아이폰 폴드' 아이폰 역사상 가장 큰 배터리 탑재",
+        "date": "2026-02-03 10:10",
+        "link": "https://kbench.com/?q=node/275785"
     },
     {
         "title": "애플, 구독 서비스 포트폴리오 확장…서비스 수익 강화 나서",
@@ -288,6 +563,11 @@
         "title": "'아이폰 폴드' 아이패드 미니 DNA 이식…버튼 위치까지 뜯어고친 파격 ...",
         "date": "2026-02-03 09:27",
         "link": "https://n.news.naver.com/mnews/article/138/0002216911?sid=105"
+    },
+    {
+        "title": "삼성전자, 하반기 차세대 갤럭시 워치·탭 시리즈 출시하나",
+        "date": "2026-02-03 09:24",
+        "link": "https://kbench.com/?q=node/275783"
     },
     {
         "title": "스티브 잡스 유품 경매…애플 첫 수표, 240만달러에 낙찰",
