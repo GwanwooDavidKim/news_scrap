@@ -1,6 +1,536 @@
 [
     {
-        "title": "반도체 지주사 규제 손질…APS '소부장 플랫폼' 확장 기회",
+        "title": "삼성D, 5스택 QD-OLED 브랜드 '펜타 탠덤' 런칭",
+        "date": "2026-02-12 13:51",
+        "link": "https://n.news.naver.com/mnews/article/030/0003399091?sid=105"
+    },
+    {
+        "title": "한국트럼프(TRUMPF), 초정밀 레이저 기술로 반도체 제조 혁신 겨냥",
+        "date": "2026-02-12 13:30",
+        "link": "https://kidd.co.kr/news/244981"
+    },
+    {
+        "title": "삼성전자 기밀 빼내 특허 소송... 안승호 전 부사장, 1심 징역 3년",
+        "date": "2026-02-12 13:30",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=124863"
+    },
+    {
+        "title": "美, 희토류 채굴 및 생산 지원 확대…탈중국 공급망 구축 서두른다",
+        "date": "2026-02-12 13:24",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1699619"
+    },
+    {
+        "title": "인하대, 차세대 PeQLED 효율 극대화 기술 개발",
+        "date": "2026-02-12 13:22",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=654406"
+    },
+    {
+        "title": "“뭘해도 잘팔려서 이러나”…애플 ‘차세대 시리’ 공개 앞두고 또 연...",
+        "date": "2026-02-12 13:19",
+        "link": "https://n.news.naver.com/mnews/article/009/0005636500?sid=105"
+    },
+    {
+        "title": "‘기밀 유출’ 전 삼성전자 부사장 징역 3년",
+        "date": "2026-02-12 13:10",
+        "link": "https://www.naeil.com/news/read/578066?ref=naver"
+    },
+    {
+        "title": "유기재료 5층 발광효율 1.3배 높여",
+        "date": "2026-02-12 13:08",
+        "link": "https://www.naeil.com/news/read/578015?ref=naver"
+    },
+    {
+        "title": "‘파워100’ 김 크리스틴 선, MMCA X LG OLED 작가 선정",
+        "date": "2026-02-12 12:58",
+        "link": "https://n.news.naver.com/mnews/article/011/0004589771?sid=103"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 12:52",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=693421"
+    },
+    {
+        "title": "아이온2 4K 환경 대응 하이엔드 게이밍 PC '몬스타PC VOID'",
+        "date": "2026-02-12 12:14",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58166"
+    },
+    {
+        "title": "삼성 ‘QD-OLED 펜타 탠덤’ 상표 등록",
+        "date": "2026-02-12 11:48",
+        "link": "https://n.news.naver.com/mnews/article/016/0002600195?sid=101"
+    },
+    {
+        "title": "메타의 AI 스마트 안경, 작년 판매량 3배 이상 증가",
+        "date": "2026-02-12 11:48",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398711"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 45억5000만원 규모 디스플레이 장비 계...",
+        "date": "2026-02-12 11:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630603"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 공개",
+        "date": "2026-02-12 11:41",
+        "link": "https://n.news.naver.com/mnews/article/138/0002217951?sid=105"
+    },
+    {
+        "title": "애플, 'AI 시리' 출시 또 연기한다... 구글 제미나이로도 '버그의 늪' 탈...",
+        "date": "2026-02-12 11:38",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808767"
+    },
+    {
+        "title": "LG디스플레이의 결단, 中 난징 라인 정리... 오직 OLED에 올인",
+        "date": "2026-02-12 11:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=428995"
+    },
+    {
+        "title": "인하대, 차세대 페로브스카이트 발광 소자…효율 극대화 기술개발",
+        "date": "2026-02-12 11:19",
+        "link": "https://n.news.naver.com/mnews/article/119/0003059229?sid=102"
+    },
+    {
+        "title": "중앙대, 차세대 OLED 여기자 분석 물리모델 개발",
+        "date": "2026-02-12 11:18",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=292804"
+    },
+    {
+        "title": "아이폰 새 라인업 9월 가시화… 삼성·LG '저전력·친환경' 기술로 공급...",
+        "date": "2026-02-12 11:16",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306115"
+    },
+    {
+        "title": "영우디에스피, 삼성D와 45억 규모 디스플레이 장비 공급계약 체결",
+        "date": "2026-02-12 11:13",
+        "link": "https://n.news.naver.com/mnews/article/018/0006218227?sid=101"
+    },
+    {
+        "title": "LG Display shortens OLED production schedules using Nvidia platform",
+        "date": "2026-02-12 11:12",
+        "link": "https://n.news.naver.com/mnews/article/009/0005636439?sid=104"
+    },
+    {
+        "title": "플립형 가고 인폴딩 폴더블폰 대세된다…아이폰이 큰 역할",
+        "date": "2026-02-12 11:09",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410451?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 11:08",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=112080"
+    },
+    {
+        "title": "'아이폰17e' 출격 초읽기…보급형 흥행 전망 '먹구름'",
+        "date": "2026-02-12 11:08",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1699589"
+    },
+    {
+        "title": "애플, 아이폰17e 가성비 정조준…다이내믹 아일랜드·A19 칩 탑재",
+        "date": "2026-02-12 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630550"
+    },
+    {
+        "title": "삼성D 'QD-OLED 펜타 탠덤' 상표 등록 ···5중 적층으로 밝기·명암 개...",
+        "date": "2026-02-12 10:59",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=621203"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 펜타 탠덤 기술 브랜드 론칭",
+        "date": "2026-02-12 10:54",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=158024"
+    },
+    {
+        "title": "갤럭시서 아이폰 옮기기 더 쉽다… 애플, iOS 26.3 업데이트 실시",
+        "date": "2026-02-12 10:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002217937?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 펜타 탠덤 론칭",
+        "date": "2026-02-12 10:48",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=258319"
+    },
+    {
+        "title": "삼성D 'QD-OLED 펜타 탠덤' 선봬",
+        "date": "2026-02-12 10:48",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156968"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 출시",
+        "date": "2026-02-12 10:44",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=288763"
+    },
+    {
+        "title": "애플, 올해 폴더블 시장 진입… '북타입' 전체 65% 점유 '대세'",
+        "date": "2026-02-12 10:44",
+        "link": "https://n.news.naver.com/mnews/article/138/0002217933?sid=105"
+    },
+    {
+        "title": "'아이폰 폴드' 출시 효과.. 2026년 북스타일 폴더블폰 대세",
+        "date": "2026-02-12 10:42",
+        "link": "https://kbench.com/?q=node/276119"
+    },
+    {
+        "title": "북타입 폴더블 아이폰, 출하량 65% 차지할 듯…시장 판도 바뀔까",
+        "date": "2026-02-12 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630541"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 출시",
+        "date": "2026-02-12 10:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013766098?sid=101"
+    },
+    {
+        "title": "삼성전자 기밀 유출한 안승호 前 부사장, 징역 3년 선고",
+        "date": "2026-02-12 10:36",
+        "link": "https://mdtoday.co.kr/news/view/1065573493385120"
+    },
+    {
+        "title": "국립현대미술관, 'MMCA X LG OLED 시리즈 2026' 김 크리스틴 선(Christine S...",
+        "date": "2026-02-12 10:36",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=205878"
+    },
+    {
+        "title": "애플, 시리 개편에 또 차질…iOS 27로 연기",
+        "date": "2026-02-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630506"
+    },
+    {
+        "title": "애플, 사파리 대규모 개선…성능 업그레이드 본격화",
+        "date": "2026-02-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630511"
+    },
+    {
+        "title": "삼성디스플레이, 5층 쌓은 QD-OLED…밝기·수명 모두 잡았다",
+        "date": "2026-02-12 10:26",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2026/02/12/2026021280050.html"
+    },
+    {
+        "title": "[전자는 지금] 삼성D 'QD-OLED 펜타 탠덤' 런칭 外",
+        "date": "2026-02-12 10:24",
+        "link": "https://dealsite.co.kr/articles/156917"
+    },
+    {
+        "title": "LG디스플레이 흑자 전환... '중국·애플·수요·투자' 4대 리스크는 여전",
+        "date": "2026-02-12 10:18",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=99853"
+    },
+    {
+        "title": "애플, iOS 26.3 정식 출시…뭐가 달라졌나",
+        "date": "2026-02-12 10:15",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410427?sid=105"
+    },
+    {
+        "title": "툴젠, 소송·협상 전문가 구본천 최고법률책임자 영입",
+        "date": "2026-02-12 10:14",
+        "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=323260"
+    },
+    {
+        "title": "올해 폴더블 스마트폰, 북타입 비중 65% 전망...애플 진입이 구조적 전환...",
+        "date": "2026-02-12 10:10",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=72340"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 '펜타 탠덤' 공개",
+        "date": "2026-02-12 10:08",
+        "link": "https://n.news.naver.com/mnews/article/215/0001241611?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 ‘QD-OLED 펜타 탠덤’ 론칭",
+        "date": "2026-02-12 10:00",
+        "link": "https://www.cnbnews.com/news/article.html?no=778709"
+    },
+    {
+        "title": "삼성D, 고화질 TV·모니터용 ‘QD-OLED 펜타 탠덤’ 상표 등록",
+        "date": "2026-02-12 10:00",
+        "link": "https://n.news.naver.com/mnews/article/016/0002599995?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 ‘QD-OLED 펜타 탠덤’ 런칭",
+        "date": "2026-02-12 09:58",
+        "link": "https://www.ceoscoredaily.com/page/view/2026021209471724622"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 09:58",
+        "link": "http://www.datanews.co.kr/news/article.html?no=143352"
+    },
+    {
+        "title": "베일 벗기 힘든 똑똑한 시리…애플, 기술적 난제에 결국 훗날 기약",
+        "date": "2026-02-12 09:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002217905?sid=105"
+    },
+    {
+        "title": "국민연금 美 주식으로 43조 벌었다 애플·일라이릴리·마이크론서 수익",
+        "date": "2026-02-12 09:58",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351398"
+    },
+    {
+        "title": "LED는 시작입니다… 럭스피아, AI 인형·살균기 들고 생활가전 도전장",
+        "date": "2026-02-12 09:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=428908"
+    },
+    {
+        "title": "삼성D, 'QD-OLED 펜타 탠덤' 론칭…광효율 1.3배 개선",
+        "date": "2026-02-12 09:47",
+        "link": "https://n.news.naver.com/mnews/article/374/0000492279?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 초고화질 '펜타 탠덤' 기술 공개",
+        "date": "2026-02-12 09:44",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1336810"
+    },
+    {
+        "title": "페로브스카이트 양자점 발광 소자(PeQLED) 광 추출 효율 극대화 기술 개...",
+        "date": "2026-02-12 09:44",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23913"
+    },
+    {
+        "title": "삼성디스플레이, 5중 적층 ‘QD-OLED 펜타 탠덤’ 브랜드 출시",
+        "date": "2026-02-12 09:29",
+        "link": "https://n.news.naver.com/mnews/article/011/0004589654?sid=101"
+    },
+    {
+        "title": "삼성D, 발광 효율 1.3배 높인 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:27",
+        "link": "https://n.news.naver.com/mnews/article/417/0001129621?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:26",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241144"
+    },
+    {
+        "title": "'펜타 탠덤' 상표화한 삼성D, QD-OLED 성능 기준 다시 썼다",
+        "date": "2026-02-12 09:25",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2394178"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 5층 적층 기술 상표 등록",
+        "date": "2026-02-12 09:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630451"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:23",
+        "link": "https://n.news.naver.com/mnews/article/014/0005477591?sid=101"
+    },
+    {
+        "title": "삼성D, 'QD-OLED 펜타 탠덤' 런칭...발광효율·수명↑",
+        "date": "2026-02-12 09:21",
+        "link": "https://thetracker.co.kr/View.aspx?No=3973453"
+    },
+    {
+        "title": "삼성D, 5층 적층 기술 적용한 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:20",
+        "link": "https://www.g-enews.com/view.php?ud=2026021209144355476ed0c62d49_1"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 09:18",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=196667"
+    },
+    {
+        "title": "삼성D, 발광효율 1.3배 높인 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 09:18",
+        "link": "https://n.news.naver.com/mnews/article/119/0003059103?sid=101"
+    },
+    {
+        "title": "QD-OLED, 4층에서 5층으로 … 삼성D, 펜타 탠덤으로 프리미엄 격차 벌린...",
+        "date": "2026-02-12 09:16",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/12/2026021200101.html"
+    },
+    {
+        "title": "삼성D, 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭…발광효율 1.3배 ↑",
+        "date": "2026-02-12 09:16",
+        "link": "https://n.news.naver.com/mnews/article/117/0004035239?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 유기 재료 5층 쌓은 '펜타 탠덤' 공개… 효율 1.3배·수...",
+        "date": "2026-02-12 09:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=247845"
+    },
+    {
+        "title": "삼성디스플레이, 5중 적층 'QD-OLED 펜타 탠덤' 공개…최대 4500니트 구현",
+        "date": "2026-02-12 09:14",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=100400"
+    },
+    {
+        "title": "삼성D, ‘QD-OLED 펜타 탠덤’ 상표 등록⋯ “5중 적층 구현”",
+        "date": "2026-02-12 09:14",
+        "link": "https://www.viva100.com/article/20260212500243"
+    },
+    {
+        "title": "삼성디스플레이, 5중 적층 'QD-OLED 펜타 탠덤' 상표화",
+        "date": "2026-02-12 09:13",
+        "link": "https://n.news.naver.com/mnews/article/008/0005317584?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 09:11",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410399?sid=105"
+    },
+    {
+        "title": "'MMCA X LG OLED 시리즈 2026'에 김 크리스틴 선",
+        "date": "2026-02-12 09:10",
+        "link": "https://www.ajunews.com/view/20260212085546313"
+    },
+    {
+        "title": "삼성디스플레이, 5중 적층 기술 ‘QD-OLED 펜타 탠덤' 브랜드화",
+        "date": "2026-02-12 09:09",
+        "link": "https://n.news.naver.com/mnews/article/421/0008770406?sid=101"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:06",
+        "link": "https://www.etoday.co.kr/news/view/2555984"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 09:06",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202602120736059016a3c244e1c9_23"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 09:06",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=240616"
+    },
+    {
+        "title": "삼성디스플레이, '펜타 탠덤'으로 프리미엄 OLED 주도권 강화",
+        "date": "2026-02-12 09:06",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125183"
+    },
+    {
+        "title": "삼성디스플레이, 5층 구조 프리미엄 ‘QD-OLED 펜타 탠덤’ 브랜드 출시",
+        "date": "2026-02-12 09:03",
+        "link": "https://n.news.naver.com/mnews/article/366/0001142209?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 5개 적층 'QD-OLED 펜타 탠덤' 공개…화질 한계 넘는다",
+        "date": "2026-02-12 09:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1699553"
+    },
+    {
+        "title": "활성 스마트폰 4대 중 1대는 아이폰",
+        "date": "2026-02-12 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=203928"
+    },
+    {
+        "title": "삼성디스플레이, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 08:58",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1335400"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 런칭",
+        "date": "2026-02-12 08:58",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=123749"
+    },
+    {
+        "title": "삼성바이오에피스, ‘14조 아일리아’ 특허 장벽 모두 넘었다",
+        "date": "2026-02-12 08:55",
+        "link": "https://n.news.naver.com/mnews/article/016/0002599903?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 5중 적층 'QD-OLED 펜타 탠덤' 론칭, 발광효율 1.3배 상승",
+        "date": "2026-02-12 08:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=430081"
+    },
+    {
+        "title": "애플, 차세대 시리 또 연기하나…테스트 중 문제 발생",
+        "date": "2026-02-12 08:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410389?sid=105"
+    },
+    {
+        "title": "국립현대미술관 ‘LG OLED 시리즈 2026’, 김 크리스틴 선 선정",
+        "date": "2026-02-12 08:47",
+        "link": "https://n.news.naver.com/mnews/article/003/0013765618?sid=103"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED 펜타 탠덤' 상표 등록...5중 적층으로 4500니트...",
+        "date": "2026-02-12 08:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=495393"
+    },
+    {
+        "title": "삼성D, ‘QD-OLED 펜타 탠덤’ 론칭…프리미엄 패널 경쟁력 강화",
+        "date": "2026-02-12 08:45",
+        "link": "https://n.news.naver.com/mnews/article/029/0003010656?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, ‘QD-OLED 펜타 탠덤’ 론칭…발광 효율·수명 2배↑",
+        "date": "2026-02-12 08:40",
+        "link": "https://www.sentv.co.kr/article/view/sentv202602120013"
+    },
+    {
+        "title": "삼성D, 프리미엄 기술 브랜드 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 08:40",
+        "link": "https://www.newspim.com/news/view/20260212000077"
+    },
+    {
+        "title": "삼성D, 5중 적층 '펜타 탠덤' 상표화…QD-OLED 밝기·수명 동시 개선",
+        "date": "2026-02-12 08:36",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=52354"
+    },
+    {
+        "title": "삼성D, 수명 2배 길어진 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 08:36",
+        "link": "https://www.ajunews.com/view/20260212081532242"
+    },
+    {
+        "title": "삼성디스플레이, 5층 구조 프리미엄 'QD-OLED 펜타 탠덤' 브랜드 론칭",
+        "date": "2026-02-12 08:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006217983?sid=101"
+    },
+    {
+        "title": "삼성D, 광효율 1.3배 높인 프리미엄 'QD-OLED 펜타 탠덤' 론칭",
+        "date": "2026-02-12 08:28",
+        "link": "https://n.news.naver.com/mnews/article/001/0015901838?sid=101"
+    },
+    {
+        "title": "에이서, 롯데하이마트 잠실점 리뉴얼 맞아 게이밍 노트북 체험·혜택 제...",
+        "date": "2026-02-12 08:24",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=148601"
+    },
+    {
+        "title": "[클릭 e종목]덕산네오룩스, OLED 사이클·자회사 가치 주목…목표가 유...",
+        "date": "2026-02-12 08:12",
+        "link": "https://n.news.naver.com/mnews/article/277/0005720912?sid=101"
+    },
+    {
+        "title": "밀라노 누비는 '올림픽 마케팅'…삼성전자, 폴더블폰·브랜드 위상 제고...",
+        "date": "2026-02-12 08:02",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=212867"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플 또 시리 업데이트 지연…일부 기능 9월로",
+        "date": "2026-02-12 07:27",
+        "link": "https://www.newspim.com/news/view/20260212000036"
+    },
+    {
+        "title": "[TV 생존전략] LG전자, 패널가 20% 낮춘 '보급형 OLED TV' 연내 출시",
+        "date": "2026-02-12 07:06",
+        "link": "https://dealsite.co.kr/articles/156800"
+    },
+    {
+        "title": "애플, AI 시리 또 연기하나...불확실성 다시 커져",
+        "date": "2026-02-12 07:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630400"
+    },
+    {
+        "title": "산업부, 철강·석화 고부가 전환 등 소부장 R&amp;D 1.3兆 투자",
+        "date": "2026-02-12 06:48",
+        "link": "http://www.ferrotimes.com/news/articleView.html?idxno=46329"
+    },
+    {
+        "title": "애플 '차세대 시리' 출시 또 연기 가능성…테스트서 성능·정확도 문제",
+        "date": "2026-02-12 06:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1699534"
+    },
+    {
+        "title": "‘삼성전자 기밀유출’ 前 부사장 1심 3년형",
+        "date": "2026-02-12 06:05",
+        "link": "https://n.news.naver.com/mnews/article/022/0004105382?sid=102"
+    },
+    {
+        "title": "반도체 지주사 규제 손질…APS, '소부장 플랫폼' 확장 기회",
         "date": "2026-02-12 06:00",
         "link": "https://www.newspim.com/news/view/20260211000867"
     },
@@ -60,6 +590,11 @@
         "link": "https://n.news.naver.com/mnews/article/448/0000590053?sid=102"
     },
     {
+        "title": "LGD, 엔비디아 플랫폼 활용 OLED 생산일정 획기적 단축",
+        "date": "2026-02-11 17:53",
+        "link": "https://n.news.naver.com/mnews/article/009/0005636167?sid=101"
+    },
+    {
         "title": "日 'SW결함'·印 '마케팅 과장' 논란… 신뢰 시험대 선 갤럭시",
         "date": "2026-02-11 17:52",
         "link": "https://www.asiatoday.co.kr/view.php?key=20260212010004316"
@@ -108,6 +643,11 @@
         "title": "'기밀유출' 삼성전자 전 특허수장...1심 징역 3년",
         "date": "2026-02-11 17:05",
         "link": "https://n.news.naver.com/mnews/article/052/0002313660?sid=102"
+    },
+    {
+        "title": "'삼성전자 내부 기밀 유출' 안승호 전 부사장 1심 징역 3년",
+        "date": "2026-02-11 17:02",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=830897"
     },
     {
         "title": "삼성·LG, 2025 글로벌 스마트홈 특허 출원에서 각각 2·3위",
@@ -538,6 +1078,16 @@
         "title": "허공에 손짓하면 작동?…에어팟, 비전 프로 스타일 제스처 지원 가능성",
         "date": "2026-02-11 10:10",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=629833"
+    },
+    {
+        "title": "에이수스, AMR 및 로보틱스를 위한 초소형 엣지 AI 컴퓨터 PE1000U 출시",
+        "date": "2026-02-11 10:10",
+        "link": "https://kbench.com/?q=node/276067"
+    },
+    {
+        "title": "에이서, 롯데하이마트 잠실점 리뉴얼 맞아 게이밍 노트북 체험·혜택 제...",
+        "date": "2026-02-11 10:06",
+        "link": "https://kbench.com/?q=node/276064"
     },
     {
         "title": "삼성전자, 美서 오는 26일 언팩 … '갤럭시 S26' 베일 벗는다",
