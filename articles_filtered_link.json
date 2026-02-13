@@ -1,5 +1,405 @@
 [
     {
+        "title": "폴더블폰, 좌우 접는 '북타입'이 대세",
+        "date": "2026-02-13 13:45",
+        "link": "https://n.news.naver.com/mnews/article/374/0000492618?sid=104"
+    },
+    {
+        "title": "애플 '뉴 시리' 테스트에서 문제 발생...지연 불가피",
+        "date": "2026-02-13 13:42",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202602131108148421"
+    },
+    {
+        "title": "‘책처럼 펼치고 접는’ 폴더블폰 비중 65% 전망…하반기 애플 가세로 ...",
+        "date": "2026-02-13 13:40",
+        "link": "https://n.news.naver.com/mnews/article/028/0002791629?sid=101"
+    },
+    {
+        "title": "갤럭시 S26, D램·낸드 몸값 훌쩍 올라도 사전예약서 '더블 스토리지' 혜...",
+        "date": "2026-02-13 13:36",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808807"
+    },
+    {
+        "title": "'중국인 공략' 현대백화점, 유니온페이 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 13:30",
+        "link": "https://www.fashionbiz.co.kr/article/223797"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 13:24",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=817279"
+    },
+    {
+        "title": "LG Display Boosts Market Share with Affordable OLEDs",
+        "date": "2026-02-13 13:16",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=263297"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 '애플페이' 도입",
+        "date": "2026-02-13 12:42",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=706969"
+    },
+    {
+        "title": "현대백화점, 中 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 12:22",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7150376"
+    },
+    {
+        "title": "형태보다 실용성…2026년은 책형 폴더블 전성시대",
+        "date": "2026-02-13 12:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541661"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 손잡고 ‘애플페이’ 도입…춘절 맞아 싼커 ...",
+        "date": "2026-02-13 11:50",
+        "link": "https://www.viva100.com/article/20260213500421"
+    },
+    {
+        "title": "싼커 잡는다…현대백화점·유니온페이, '애플페이' 도입",
+        "date": "2026-02-13 11:48",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=213250"
+    },
+    {
+        "title": "디스플레이 업계 수익성 위주 재편…신규 투자 둔화",
+        "date": "2026-02-13 11:46",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=52429"
+    },
+    {
+        "title": "애플, AI 시리 연내 출시 재확인…지연설에도 계획대로",
+        "date": "2026-02-13 11:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541658"
+    },
+    {
+        "title": "폴더블폰 시장, 클램셸 지고 북타입 뜬다",
+        "date": "2026-02-13 11:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0015905723?sid=105"
+    },
+    {
+        "title": "현대백화점, 유니온페이 '애플페이' 도입..춘절 맞이 '싼커' 공략",
+        "date": "2026-02-13 11:36",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2107565"
+    },
+    {
+        "title": "애플, 4G/LTE 특허 소송 승리…배상금 위기 해소",
+        "date": "2026-02-13 11:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631230"
+    },
+    {
+        "title": "애플 너마저 ‘중국 설’?…서경덕 “글로벌 기업 잘못, 바로 잡아야”",
+        "date": "2026-02-13 11:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002600852?sid=102"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 ‘애플페이’ 도입",
+        "date": "2026-02-13 11:28",
+        "link": "http://www.apparelnews.co.kr/news/news_view/?idx=223289"
+    },
+    {
+        "title": "돌아온 싼커 잡아라… 현대백화점, 유니온페이와 손잡고 '애플페이' 도...",
+        "date": "2026-02-13 11:28",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=248070"
+    },
+    {
+        "title": "美FTC 경고·기술 지연·원가 부담…애플 '삼중 악재'에 시총 291조원 증...",
+        "date": "2026-02-13 11:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=288861"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 손잡고 ‘애플페이’ 도입… “싼커를 잡아라...",
+        "date": "2026-02-13 11:28",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000091746"
+    },
+    {
+        "title": "현대백화점, 춘절 앞두고 애플페이 도입…'싼커' 공략 본격화",
+        "date": "2026-02-13 11:28",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=261933"
+    },
+    {
+        "title": "현대백화점, 유니온페이 손잡고 애플페이 도입…싼커 공략 강화",
+        "date": "2026-02-13 11:26",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1337511"
+    },
+    {
+        "title": "싼커를 잡아라…현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 11:20",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=729821"
+    },
+    {
+        "title": "애플, 해킹 악용 취약점 확인…iOS 26.3 업데이트 필수",
+        "date": "2026-02-13 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631211"
+    },
+    {
+        "title": "유튜브, 애플 비전 프로용 공식 앱 출시…3D·360도 영상 지원",
+        "date": "2026-02-13 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631188"
+    },
+    {
+        "title": "애플, 인터롭 2026 목표 공개…웹 생태계 통합 전략 가속",
+        "date": "2026-02-13 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631189"
+    },
+    {
+        "title": "애플, 1월 中 스마트폰 시장서 나홀로 성장… “에르메스 오렌지 잘나가...",
+        "date": "2026-02-13 11:12",
+        "link": "https://n.news.naver.com/mnews/article/366/0001142588?sid=105"
+    },
+    {
+        "title": "큐닉스, 27인치 300Hz FHD 게이밍 모니터 'QX27B 300 FAST MULTI' 출시",
+        "date": "2026-02-13 11:08",
+        "link": "https://gamefocus.co.kr/detail.php?number=173572"
+    },
+    {
+        "title": "'초슬림' 경쟁의 그늘…노트북 액정 파손, 책임 공방 반복",
+        "date": "2026-02-13 11:08",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=365164"
+    },
+    {
+        "title": "현대百, 유니온페이와 손잡고 '애플페이' 도입...싼커 공략",
+        "date": "2026-02-13 11:06",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120055"
+    },
+    {
+        "title": "중국만 보이나…‘사상 최대 中매출’ 애플, 음력설→중국설 표기 또 논...",
+        "date": "2026-02-13 11:00",
+        "link": "https://www.kukinews.com/article/view/kuk202602130082"
+    },
+    {
+        "title": "애플 공식 홈페이지에 ‘중국설’ 표기 논란…“음력설로 바꿔야”",
+        "date": "2026-02-13 10:56",
+        "link": "https://n.news.naver.com/mnews/article/020/0003697428?sid=102"
+    },
+    {
+        "title": "애플 펜슬 프로를 ‘프로’답게 쓰는 5가지 방법",
+        "date": "2026-02-13 10:54",
+        "link": "https://www.itworld.co.kr/article/4131852/애플-펜슬-프로를-프로답게-쓰는-5가지-방법.html"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 10:52",
+        "link": "https://www.cnbnews.com/news/article.html?no=779050"
+    },
+    {
+        "title": "싼커를 잡아라…현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 10:50",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=232370"
+    },
+    {
+        "title": "비엔엠큐닉스, 게이밍 모니터 신제품 ‘QX27B 300 FAST MULTI’ 출시",
+        "date": "2026-02-13 10:47",
+        "link": "https://n.news.naver.com/mnews/article/009/0005637115?sid=105"
+    },
+    {
+        "title": "현대백화점, 춘절 앞두고 '애플페이' 도입",
+        "date": "2026-02-13 10:45",
+        "link": "https://n.news.naver.com/mnews/article/030/0003399437?sid=101"
+    },
+    {
+        "title": "싼커 잡아라…현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 10:42",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241286"
+    },
+    {
+        "title": "현대백화점, 춘절 앞두고 유니온페이 '애플페이' 도입",
+        "date": "2026-02-13 10:38",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=107833"
+    },
+    {
+        "title": "싼커 잡아라 현대백화점, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 10:36",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1336201"
+    },
+    {
+        "title": "현대백화점, 유니온페이와 손잡고 ‘애플페이’ 도입",
+        "date": "2026-02-13 10:36",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=206048"
+    },
+    {
+        "title": "현대百, 유니온페이와 손잡고 '애플페이' 도입...싼커를 잡아라",
+        "date": "2026-02-13 10:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=112306"
+    },
+    {
+        "title": "현대백화점, 중국인 고객 위한 ‘애플페이’ 도입",
+        "date": "2026-02-13 10:33",
+        "link": "https://n.news.naver.com/mnews/article/050/0000102334?sid=101"
+    },
+    {
+        "title": "중국 설 아닌 음력 설…애플 표기 논란에 서경덕 표현 바꿔야",
+        "date": "2026-02-13 10:26",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=178040"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억원…전년比 68.7%↑",
+        "date": "2026-02-13 10:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410634?sid=105"
+    },
+    {
+        "title": "롯데하이마트 잠실점서 직접 만나는 '에이서 게이밍 노트북'",
+        "date": "2026-02-13 10:24",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58199"
+    },
+    {
+        "title": "내부 위기설 사실무근…애플, 차세대 시리 지연 공식 반박",
+        "date": "2026-02-13 10:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002218067?sid=105"
+    },
+    {
+        "title": "비엔엠큐닉스, 27인치 게이밍 모니터 'QX27B 300 FAST MULTI' 출시",
+        "date": "2026-02-13 10:20",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=55875"
+    },
+    {
+        "title": "큐닉스, 게이밍 모니터 'QX27B 300 FAST MULTI' 출시",
+        "date": "2026-02-13 10:14",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=301433"
+    },
+    {
+        "title": "음력설이 중국설?… 애플 공식 홈페이지 표기에 비판 확산",
+        "date": "2026-02-13 10:13",
+        "link": "https://n.news.naver.com/mnews/article/030/0003399395?sid=104"
+    },
+    {
+        "title": "애플카드, 골드만삭스 떠나 JP모건 체이스로…대전환 예고",
+        "date": "2026-02-13 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631179"
+    },
+    {
+        "title": "중국서 많이 팔면 장땡? 한국 장사 포기하나…또 중국설 표기 논란 애플",
+        "date": "2026-02-13 10:04",
+        "link": "https://n.news.naver.com/mnews/article/009/0005637060?sid=101"
+    },
+    {
+        "title": "애플, 연내 새로워진 '시리' 선보인다…일정 지연설 반박",
+        "date": "2026-02-13 09:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631150"
+    },
+    {
+        "title": "韓 엑시노스·美 퀄컴…삼성전자, 칩셋 '투트랙' 재가동",
+        "date": "2026-02-13 09:44",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1699773"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억…전년比 68.7%↑",
+        "date": "2026-02-13 09:42",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=288808"
+    },
+    {
+        "title": "美FTC 경고·기술 지연·원가 부담…애플 '삼중 악재'에 시총 291조원 증...",
+        "date": "2026-02-13 09:41",
+        "link": "https://n.news.naver.com/mnews/article/003/0013768926?sid=104"
+    },
+    {
+        "title": "배송비 덜고 메뉴 고민 끝... 1인 가구 겨냥 HMR 플랫폼 '국대한끼' 출범",
+        "date": "2026-02-13 09:39",
+        "link": "https://n.news.naver.com/mnews/article/088/0000997026?sid=101"
+    },
+    {
+        "title": "LGD, 보급형 OLED로 시장 점유율 확대 나선다",
+        "date": "2026-02-13 09:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006218970?sid=101"
+    },
+    {
+        "title": "삼성D, 광효율 1.3배 높인 'QD-OLED 펜타 탠덤' 브랜드 출시",
+        "date": "2026-02-13 09:16",
+        "link": "https://n.news.naver.com/mnews/article/031/0001005778?sid=105"
+    },
+    {
+        "title": "싼커 잡아라…현대百, 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-13 09:15",
+        "link": "https://n.news.naver.com/mnews/article/277/0005721720?sid=101"
+    },
+    {
+        "title": "애플, 주요 기기 공급 감소…신형 모델 바뀔 타이밍?",
+        "date": "2026-02-13 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631118"
+    },
+    {
+        "title": "싼커 잡자…현대백화점, 유니온페이와 손잡고 애플페이 도입",
+        "date": "2026-02-13 09:10",
+        "link": "https://n.news.naver.com/mnews/article/421/0008773565?sid=101"
+    },
+    {
+        "title": "애플 ‘중국 설’ 표기 논란",
+        "date": "2026-02-13 08:56",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202602130063"
+    },
+    {
+        "title": "2월 12일 주식시장 주요공시",
+        "date": "2026-02-13 08:52",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=120687"
+    },
+    {
+        "title": "애플 스튜디오, 세브란스 직접 제작…IP 인수",
+        "date": "2026-02-13 08:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631087"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억 ‘사상 최대’...디스플레이 장비 수요...",
+        "date": "2026-02-13 08:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004590121?sid=101"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억... 전년 比 68.7% ↑",
+        "date": "2026-02-13 08:40",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=693586"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억원·전년比 68% ↑",
+        "date": "2026-02-13 08:32",
+        "link": "https://www.newspim.com/news/view/20260213000115"
+    },
+    {
+        "title": "애플, 홈페이지에 ‘Chinese New Year’ 표기 논란…서경덕 “음력 설로...",
+        "date": "2026-02-13 08:26",
+        "link": "https://www.gosiweek.com/article/1065569079053223"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억 원 달성",
+        "date": "2026-02-13 08:20",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=694188"
+    },
+    {
+        "title": "[브리프] 한컴 삼표그룹 KCC 르노코리아 삼성디스플레이",
+        "date": "2026-02-13 08:18",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348971"
+    },
+    {
+        "title": "아바코, 지난해 영업이익 356억…전년比 68.7%↑",
+        "date": "2026-02-13 08:18",
+        "link": "https://n.news.naver.com/mnews/article/003/0013768749?sid=101"
+    },
+    {
+        "title": "애플, AI 시리 개편 지연되나…시총 2000억 달러 증발[모닝폰]",
+        "date": "2026-02-13 08:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006218822?sid=105"
+    },
+    {
+        "title": "게이밍 태블릿에 월드컵 감성 레노버 '리전탭 3세대 FIFA 월드컵 26 에...",
+        "date": "2026-02-13 08:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156964"
+    },
+    {
+        "title": "시리 업그레이드 또 연기될 듯, 애플 5% 급락(상보)",
+        "date": "2026-02-13 07:54",
+        "link": "https://n.news.naver.com/mnews/article/421/0008773393?sid=104"
+    },
+    {
+        "title": "애플, 4월 이후 최대폭 급락…FTC 조사에 시리 업데이트 지연까지 [종목...",
+        "date": "2026-02-13 07:18",
+        "link": "https://n.news.naver.com/mnews/article/015/0005251028?sid=104"
+    },
+    {
+        "title": "폴드 키우는 삼성, 플립 입지 흔들…수익성 고려",
+        "date": "2026-02-13 07:02",
+        "link": "https://dealsite.co.kr/articles/156887"
+    },
+    {
+        "title": "중고폰 시장 '요동'…갤럭시 '웃고' 아이폰 '우는' 이유는?",
+        "date": "2026-02-13 07:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=149438"
+    },
+    {
         "title": "체질 개선 성공한 'K-디스플레이'… '칩플레이션' 우려 현실화",
         "date": "2026-02-13 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092156818"
@@ -113,6 +513,11 @@
         "title": "[AI의 종목 이야기] 보조금 빠진 中 시장, 아이폰17만 웃었다",
         "date": "2026-02-12 16:03",
         "link": "https://www.newspim.com/news/view/20260212001257"
+    },
+    {
+        "title": "애플, iOS 26.3 정식 버전 출시.. 새로운 기능은?",
+        "date": "2026-02-12 15:54",
+        "link": "https://kbench.com/?q=node/276156"
     },
     {
         "title": "中 TCL, 삼성·LG서 인수한 LCD 공장에서 흑자…철저한 비용절감 덕",
@@ -415,11 +820,6 @@
         "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306115"
     },
     {
-        "title": "영우디에스피, 삼성D와 45억 규모 디스플레이 장비 공급계약 체결",
-        "date": "2026-02-12 11:13",
-        "link": "https://n.news.naver.com/mnews/article/018/0006218227?sid=101"
-    },
-    {
         "title": "LG Display shortens OLED production schedules using Nvidia platform",
         "date": "2026-02-12 11:12",
         "link": "https://n.news.naver.com/mnews/article/009/0005636439?sid=104"
@@ -505,14 +905,14 @@
         "link": "https://weekly.cnbnews.com/news/article.html?no=205878"
     },
     {
-        "title": "애플, 시리 개편에 또 차질…iOS 27로 연기",
-        "date": "2026-02-12 10:34",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630506"
-    },
-    {
         "title": "애플, 사파리 대규모 개선…성능 업그레이드 본격화",
         "date": "2026-02-12 10:34",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630511"
+    },
+    {
+        "title": "애플, 시리 개편에 또 차질…iOS 27로 연기",
+        "date": "2026-02-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=630506"
     },
     {
         "title": "삼성디스플레이, 5층 쌓은 QD-OLED…밝기·수명 모두 잡았다",
