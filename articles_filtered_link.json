@@ -1,5 +1,250 @@
 [
     {
+        "title": "버핏의 은퇴 전 선택…애플 팔고 산 종목?",
+        "date": "2026-02-19 13:32",
+        "link": "https://n.news.naver.com/mnews/article/449/0000335692?sid=115"
+    },
+    {
+        "title": "국내 연구진, 페로브스카이트 합성 신기술 개발… 생생한 초실감 TV ‘성...",
+        "date": "2026-02-19 13:30",
+        "link": "https://kidd.co.kr/news/245025"
+    },
+    {
+        "title": "[쇼미더스탁] '일류' 자신감 선익시스템, 우주로 향할까",
+        "date": "2026-02-19 13:10",
+        "link": "https://theviewers.co.kr/View.aspx?No=3977993"
+    },
+    {
+        "title": "“안경 다음은 손목”...메타의 귀환, 애플·삼성 ‘양강 체제’ 흔드나",
+        "date": "2026-02-19 13:09",
+        "link": "https://n.news.naver.com/mnews/article/081/0003618928?sid=101"
+    },
+    {
+        "title": "차세대 디스플레이 소재 '페로브스카이트' 대량 생산 길 열렸다",
+        "date": "2026-02-19 12:12",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3376307"
+    },
+    {
+        "title": "퀄컴, 英 8000억 원대 '특허 남용' 집단소송서 완승 라이선스 관행, 경...",
+        "date": "2026-02-19 11:54",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=730179"
+    },
+    {
+        "title": "삼성·LG, 차세대 ‘탠덤’ 브랜드 론칭 글로벌 주도권 강화",
+        "date": "2026-02-19 11:35",
+        "link": "https://n.news.naver.com/mnews/article/016/0002602184?sid=101"
+    },
+    {
+        "title": "애플, 3월 4일 신제품 내놓나…아이폰 17e 맥북 신형 기대",
+        "date": "2026-02-19 11:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=632038"
+    },
+    {
+        "title": "차세대 디스플레이 핵심 ‘페로브스카이트’ 문 열었다",
+        "date": "2026-02-19 11:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002602164?sid=105"
+    },
+    {
+        "title": "구글·애플, 음악 생성 AI 시장 놓고 맞대결",
+        "date": "2026-02-19 11:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002411029?sid=105"
+    },
+    {
+        "title": "현대백화점 유니온페이와 손잡고 '애플페이' 도입",
+        "date": "2026-02-19 11:12",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6925877"
+    },
+    {
+        "title": "삼성·애플 신작 출시 임박… 통신업계 '가입자 쟁탈전' 예고",
+        "date": "2026-02-19 11:08",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=233764"
+    },
+    {
+        "title": "삼성 S26 울트라 벤치마크 공개…멀티코어 '애플 추월'",
+        "date": "2026-02-19 11:04",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=72472"
+    },
+    {
+        "title": "아이폰 17e부터 저가형 맥북까지… 애플, 3월 초 신제품 무더기 출시",
+        "date": "2026-02-19 11:02",
+        "link": "https://kbench.com/?q=node/276234"
+    },
+    {
+        "title": "Samsung OLED TV sales surpass 2mn units in 2025",
+        "date": "2026-02-19 10:56",
+        "link": "https://n.news.naver.com/mnews/article/009/0005638646?sid=104"
+    },
+    {
+        "title": "OLED·QLED 다음 차세대 디스플레이 소재 양산 길 열렸다",
+        "date": "2026-02-19 10:52",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351710"
+    },
+    {
+        "title": "JDI, 이노룩스와 '이립 OLED 상용화' 협력 중단",
+        "date": "2026-02-19 10:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003400082?sid=105"
+    },
+    {
+        "title": "더 선명하고 생생한 TV ‘성큼’…차세대 디스플레이 소재 양산 길 열었...",
+        "date": "2026-02-19 10:34",
+        "link": "https://n.news.naver.com/mnews/article/082/0001367434?sid=101"
+    },
+    {
+        "title": "펄사 게이밍 기어, 벡시와 협업한 ‘New Pulsar eS 컬렉션’ 공식 출시",
+        "date": "2026-02-19 10:30",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065576331503793"
+    },
+    {
+        "title": "애플 iOS 26.4 업데이트… 아이튠즈 빼고 오디오 연결 강화",
+        "date": "2026-02-19 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631983"
+    },
+    {
+        "title": "폴더블 아이폰, 걸러야 하는 이유",
+        "date": "2026-02-19 10:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410996?sid=105"
+    },
+    {
+        "title": "메타, AI 스마트워치 '말리부 2' 출시 예고…애플워치 맞수?",
+        "date": "2026-02-19 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631979"
+    },
+    {
+        "title": "삼성D, 원가 인하 압박에 수익성 '빨간불' … 8.6세대로 반등 점친다",
+        "date": "2026-02-19 10:20",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/19/2026021900112.html"
+    },
+    {
+        "title": "LGD·삼성D, 차세대 기술 ‘탠덤’ 브랜드 론칭으로 글로벌 주도권 강화",
+        "date": "2026-02-19 10:16",
+        "link": "https://n.news.naver.com/mnews/article/016/0002602047?sid=101"
+    },
+    {
+        "title": "아이폰 17e·저가형 맥북, 어떤 모습일까… 애플, 3월 4일 ‘특별한 경험...",
+        "date": "2026-02-19 10:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002218302?sid=105"
+    },
+    {
+        "title": "유비리서치, ‘Display Korea 2026’ 3월 개최",
+        "date": "2026-02-19 10:00",
+        "link": "https://kbench.com/?q=node/276222"
+    },
+    {
+        "title": "메타, AI 스마트워치 연내 출시 추진…애플·구글과 본격 경쟁 예고",
+        "date": "2026-02-19 09:58",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541706"
+    },
+    {
+        "title": "제미나이 이어 비전 프로까지…협력 강화하는 구글-애플",
+        "date": "2026-02-19 09:54",
+        "link": "https://n.news.naver.com/mnews/article/277/0005722984?sid=105"
+    },
+    {
+        "title": "“카메라 탑재됐던 그 워치?”…메타, ‘말리부 2’로 스마트워치 시장...",
+        "date": "2026-02-19 09:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002218299?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시 S26' 가격 인상 무게…애플 보급형 승부",
+        "date": "2026-02-19 09:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700095"
+    },
+    {
+        "title": "유비리서치, 차세대 디스플레이 행사 '디스플레이 코리아 2026' 개최",
+        "date": "2026-02-19 09:28",
+        "link": "https://n.news.naver.com/mnews/article/138/0002218293?sid=105"
+    },
+    {
+        "title": "애플, 차세대 ‘카플레이 울트라’ 가이드 공개… 차량 통합 및 위젯 지...",
+        "date": "2026-02-19 09:25",
+        "link": "https://n.news.naver.com/mnews/article/138/0002218291?sid=105"
+    },
+    {
+        "title": "유비리서치, 내달 디스플레이 코리아 2026 개최",
+        "date": "2026-02-19 09:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006220589?sid=101"
+    },
+    {
+        "title": "유비리서치, 다음달 '디스플레이 코리아 2026' 개최",
+        "date": "2026-02-19 09:19",
+        "link": "https://n.news.naver.com/mnews/article/031/0001006380?sid=105"
+    },
+    {
+        "title": "애플 아이폰에 중국 D램과 낸드플래시 활용 검토, 삼성전자 SK하이닉스...",
+        "date": "2026-02-19 09:18",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=430469"
+    },
+    {
+        "title": "유비리서치, 'Display Korea 2026' 3월 개최",
+        "date": "2026-02-19 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328764"
+    },
+    {
+        "title": "버크셔, 애플·아마존 비중 줄이고 ‘뉴욕타임스’ 신규 매입…버핏 CEO...",
+        "date": "2026-02-19 08:59",
+        "link": "https://n.news.naver.com/mnews/article/468/0001218151?sid=101"
+    },
+    {
+        "title": "애플 iOS 26.4, 자막 스타일 커스터마이징 기능 강화",
+        "date": "2026-02-19 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631899"
+    },
+    {
+        "title": "LG전자, 스탠바이미2 MAX·프리미엄 LCD TV 출시 유력…'틈새' 공략",
+        "date": "2026-02-19 08:54",
+        "link": "https://n.news.naver.com/mnews/article/421/0008779928?sid=101"
+    },
+    {
+        "title": "유비리서치, '디스플레이 코리아 2026' 3월 개최",
+        "date": "2026-02-19 08:50",
+        "link": "https://n.news.naver.com/mnews/article/119/0003060699?sid=101"
+    },
+    {
+        "title": "유비리서치, '디스플레이 코리아 2026' 3월 12일 개최",
+        "date": "2026-02-19 08:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410951?sid=105"
+    },
+    {
+        "title": "삼성전자 이어 애플 합류…토요타로 車 디지털 키 생태계 '확전'",
+        "date": "2026-02-19 08:36",
+        "link": "https://www.theguru.co.kr/news/article.html?no=98164"
+    },
+    {
+        "title": "삼성전자, 지난해 OLED TV 판매량 200만 대 달성",
+        "date": "2026-02-19 08:36",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=693861"
+    },
+    {
+        "title": "저가형 맥북 색상 정보 유출…이렇게 나온다고?",
+        "date": "2026-02-19 08:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002410948?sid=105"
+    },
+    {
+        "title": "[모닝 리포트] 선익시스템, '퀀텀점프' 증명…페로브스카이트로 확장 ...",
+        "date": "2026-02-19 08:28",
+        "link": "https://www.newspim.com/news/view/20260219000054"
+    },
+    {
+        "title": "차세대 디스플레이 총망라⋯ ’디스플레이 코리아 2026‘, 내달 개최",
+        "date": "2026-02-19 08:08",
+        "link": "https://www.viva100.com/article/20260219500024"
+    },
+    {
+        "title": "애플, AI 웨어러블 3종 개발…스마트 글라스·AI 펜던트·카메라 탑재 에...",
+        "date": "2026-02-19 08:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541704"
+    },
+    {
+        "title": "발광효율 100% 그대로…국산 페로브스카이트 LED, 드디어 '양산 길' 열...",
+        "date": "2026-02-19 08:00",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=54693"
+    },
+    {
+        "title": "삼성·애플, 스마트폰 신작 가격 엇갈리나?…예의주시하는 부품사",
+        "date": "2026-02-19 06:01",
+        "link": "https://n.news.naver.com/mnews/article/119/0003060655?sid=101"
+    },
+    {
         "title": "애플·구글도 스마트 안경… 빅테크 ‘눈싸움’ 시작됐다",
         "date": "2026-02-19 05:05",
         "link": "https://n.news.naver.com/mnews/article/081/0003618798?sid=105"
@@ -65,11 +310,6 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013774436?sid=105"
     },
     {
-        "title": "K-디스플레이, ‘페로브스카이트’로 초격차…더 선명하고 생생한 TV 구...",
-        "date": "2026-02-19 01:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003011417?sid=105"
-    },
-    {
         "title": "10년 한 우물 결실…차세대 디스플레이 소재 양산 길 열었다",
         "date": "2026-02-19 01:00",
         "link": "https://n.news.naver.com/mnews/article/001/0015910703?sid=105"
@@ -83,6 +323,11 @@
         "title": "“OLED 넘는 꿈의 화질”... 韓 연구팀, ‘0도 합성’으로 ‘꿈의 소재’...",
         "date": "2026-02-19 01:00",
         "link": "https://n.news.naver.com/mnews/article/023/0003959786?sid=105"
+    },
+    {
+        "title": "K-디스플레이, ‘페로브스카이트’로 초격차…더 선명하고 생생한 TV ‘...",
+        "date": "2026-02-19 01:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003011417?sid=105"
     },
     {
         "title": "한국이 특허 가진 '초고해상도 디스플레이', 현실화 가능성 '성큼'",
