@@ -1,5 +1,290 @@
 [
     {
+        "title": "[르포] 제철 갤럭시가 왔어요…SKT, MZ 트렌드로 '갤S26' 팔다",
+        "date": "2026-02-27 23:46",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=294491"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시 S26 시리즈로 모바일 AI 리더십 강화할것...",
+        "date": "2026-02-27 23:02",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160300784293561"
+    },
+    {
+        "title": "한투운용 'ACE 애플밸류체인액티브' ETF, 상장 후 수익률 83%",
+        "date": "2026-02-27 20:46",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=126974"
+    },
+    {
+        "title": "[단독] 삼성전기·디스플레이 CEO, MWC 출격…글로벌 수주전 전면에",
+        "date": "2026-02-27 20:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013793398?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
+        "date": "2026-02-27 19:44",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=81816"
+    },
+    {
+        "title": "벨킨, 갤럭시 S26 시리즈용 액세서리 컬렉션 출시",
+        "date": "2026-02-27 19:10",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=209673"
+    },
+    {
+        "title": "오픈AI, '2억달러 MSL행'으로 화제 된 애플 출신 유명 인재 영입",
+        "date": "2026-02-27 18:56",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=207372"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
+        "date": "2026-02-27 18:50",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160282334542697"
+    },
+    {
+        "title": "[이슈체크] 갤럭시 S26, 미쳤다…사생활 보호 액정에 셀프 택시 콜까지...",
+        "date": "2026-02-27 18:36",
+        "link": "https://n.news.naver.com/mnews/article/374/0000495034?sid=101"
+    },
+    {
+        "title": "애플, '시리 AI' 사기 소송 기각 요청...통합 시리 연기 예측 못해",
+        "date": "2026-02-27 18:12",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=207366"
+    },
+    {
+        "title": "자동차부품 관련주, '봄꽃만개' 디젠스·케이비아이동국실업·계양전기...",
+        "date": "2026-02-27 18:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250511"
+    },
+    {
+        "title": "한투운용 ACE 애플밸류체인액티브 ETF, 상장 후 수익률 80% 기록",
+        "date": "2026-02-27 18:00",
+        "link": "https://www.viva100.com/article/20260227500859"
+    },
+    {
+        "title": "삼성전자, 'S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
+        "date": "2026-02-27 17:52",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=117027"
+    },
+    {
+        "title": "한투운용 ACE 애플밸류체인액티브 ETF, 상장 이후 수익률 80% 돌파",
+        "date": "2026-02-27 17:45",
+        "link": "https://n.news.naver.com/mnews/article/629/0000476779?sid=101"
+    },
+    {
+        "title": "'눈치 100단' AI폰…삼성전자 '갤럭시 S26' 출격",
+        "date": "2026-02-27 17:42",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7152074"
+    },
+    {
+        "title": "[AI의 종목 이야기] 美 법원 판결, 애플 인도 전략에 영향 없어...印 생...",
+        "date": "2026-02-27 17:41",
+        "link": "https://www.newspim.com/news/view/20260227000956"
+    },
+    {
+        "title": "[포토 종합] 미국 시민 관심 쏠린 '갤럭시 S26 울트라'",
+        "date": "2026-02-27 17:32",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3379576"
+    },
+    {
+        "title": "차이나 특수 끝물?…BOE 투자 속도 조절에 韓 장비사 긴장",
+        "date": "2026-02-27 17:28",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=52828"
+    },
+    {
+        "title": "나인테크 관계사 연화신소재, 희토류 불화리튬 日 공급",
+        "date": "2026-02-27 17:26",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=498539"
+    },
+    {
+        "title": "신한카드, 애플페이 도입 급물살…현대카드 독주 깨지나",
+        "date": "2026-02-27 17:22",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241930"
+    },
+    {
+        "title": "ACE 애플밸류체인액티브, 상장 후 83%↑…애플보다 3배 가까운 성과",
+        "date": "2026-02-27 17:14",
+        "link": "http://www.metroseoul.co.kr/article/20260227500269"
+    },
+    {
+        "title": "삼성전자, '갤럭시 스튜디오' 오픈…'갤S26 울트라' 비교체험",
+        "date": "2026-02-27 17:08",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2197188"
+    },
+    {
+        "title": "MSI, QD-OLED 모니터 할인 구매 찬스! 'MSI CODEX MLG EDITION' 프로모션 ...",
+        "date": "2026-02-27 16:48",
+        "link": "https://kbench.com/?q=node/276545"
+    },
+    {
+        "title": "삼성전자, 3세대 AI폰 '갤럭시 S26 시리즈' 공개…에이전틱 AI 시대 연다",
+        "date": "2026-02-27 16:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=232808"
+    },
+    {
+        "title": "한투운용, 'ACE 애플밸류체인액티브 ETF' 수익률 80% 돌파…안정적 액티...",
+        "date": "2026-02-27 16:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=498513"
+    },
+    {
+        "title": "[현장] 신선한 제철 쇼핑… SKT, 성수에 'S26 마켓' 팝업 오픈",
+        "date": "2026-02-27 16:34",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3379543"
+    },
+    {
+        "title": "“내 폰과 직접 비교해보세요”… 삼성, ‘갤럭시 S26 울트라’ 체험형...",
+        "date": "2026-02-27 16:28",
+        "link": "https://www.mediapen.com/news/view/1084231"
+    },
+    {
+        "title": "삼성전자의 모바일 AI 패러다임 전환...AI가 내 일상을 대신 처리해준다",
+        "date": "2026-02-27 16:26",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=96929"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
+        "date": "2026-02-27 16:20",
+        "link": "https://hbnpress.com/news/view/1065597379531914"
+    },
+    {
+        "title": "지난해 OLED 발광재료 시장 22.7억달러… 중국 업체 영향력 커졌다",
+        "date": "2026-02-27 16:20",
+        "link": "https://n.news.naver.com/mnews/article/417/0001131938?sid=101"
+    },
+    {
+        "title": "갤S26 나오자마자… 반격나선 팀 쿡, ‘애플의 시간’ 예고",
+        "date": "2026-02-27 16:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219100?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 스튜디오' 오픈",
+        "date": "2026-02-27 16:12",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4468845"
+    },
+    {
+        "title": "한투운용 ACE 애플밸류체인액티브 ETF, 수익률 80% 돌파",
+        "date": "2026-02-27 16:06",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=591982"
+    },
+    {
+        "title": "KT-GSMA, MWC26서 공동 백서 발간…LGU+, MWC26 막바지 작업 한창 [IT오늘...",
+        "date": "2026-02-27 16:06",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=180946"
+    },
+    {
+        "title": "[AT 현장] “오감으로 즐기는 갤럭시 S26”… SKT 팝업, 사전예약 ‘혜택...",
+        "date": "2026-02-27 16:06",
+        "link": "https://www.asiatime.co.kr/article/20260227500314"
+    },
+    {
+        "title": "Chinese Panel Makers Lead in OLED Material Purchases",
+        "date": "2026-02-27 16:04",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=264069"
+    },
+    {
+        "title": "애플 iOS 26.4, 아이폰 앱 대규모 업데이트…AI 활용 기능 강화",
+        "date": "2026-02-27 16:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=635410"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자, '갤럭시 스튜디오' 오픈 ​外",
+        "date": "2026-02-27 15:54",
+        "link": "https://news.dealsitetv.com/articles/166145"
+    },
+    {
+        "title": "한투운용 '애플 밸류체인 액티브' ETF, 상장후 수익률 80% 넘겼다",
+        "date": "2026-02-27 15:49",
+        "link": "https://n.news.naver.com/mnews/article/417/0001131932?sid=101"
+    },
+    {
+        "title": "'누구나 쉽게' 넌지시 일상을 바꾸는 3세대 AI폰 갤럭시 S26 시리즈",
+        "date": "2026-02-27 15:44",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363718368"
+    },
+    {
+        "title": "선익시스템, 본궤도 오른 성장엔진 '올레도스·페로브스카이트'",
+        "date": "2026-02-27 15:44",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340976"
+    },
+    {
+        "title": "보안·AI 승부수…삼성, 체험형 갤럭시 스튜디오 확대",
+        "date": "2026-02-27 15:38",
+        "link": "https://n.news.naver.com/mnews/article/123/0002378576?sid=101"
+    },
+    {
+        "title": "LG디스플레이 '휘도 100%' 삼성 '사생활 보호' 기술 UL 검증",
+        "date": "2026-02-27 15:24",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=498474"
+    },
+    {
+        "title": "팀 쿡 CEO, 다음 주 애플 신제품 발표 공식 확인",
+        "date": "2026-02-27 15:16",
+        "link": "https://kbench.com/?q=node/276536"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
+        "date": "2026-02-27 14:48",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=232795"
+    },
+    {
+        "title": "증권 사기 아니다…애플, AI 기능 관련 소송 기각 신청",
+        "date": "2026-02-27 14:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=635367"
+    },
+    {
+        "title": "애플, 내달 '아이폰 17e' 공개?…보급형 시장 본격 공략",
+        "date": "2026-02-27 14:42",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=180964"
+    },
+    {
+        "title": "[오늘의 게임·IT 소식] 비트플래닛, 비트코인 보유량 300개 달성 外",
+        "date": "2026-02-27 14:40",
+        "link": "https://dealsite.co.kr/articles/157613"
+    },
+    {
+        "title": "OLED 중심 구도에 균열 내는 미니 LED",
+        "date": "2026-02-27 14:36",
+        "link": "https://www.itworld.co.kr/article/4138277/oled-중심-구도에-균열-내는-미니-led.html"
+    },
+    {
+        "title": "삼성, 초슬림폰·트라이폴드폰 후속작 ‘신중 모드’",
+        "date": "2026-02-27 14:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005643112?sid=105"
+    },
+    {
+        "title": "'갤S26' 출시 기념 '쿠키런: 오븐스매시' 스페셜 테마 출시",
+        "date": "2026-02-27 14:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0013792730?sid=105"
+    },
+    {
+        "title": "TECNO, MWC 2026서 모듈형 스마트폰 생태계 콘셉트 공개… 초슬림 마그네...",
+        "date": "2026-02-27 14:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1809130"
+    },
+    {
+        "title": "주름 거의 안 보인다?… 폴더블 아이폰 '역대급 완성도' 예고",
+        "date": "2026-02-27 14:12",
+        "link": "https://n.news.naver.com/mnews/article/030/0003402865?sid=104"
+    },
+    {
+        "title": "삼성vs애플 '세기의 대결'… AI 갤럭시, 아이폰 열풍 잠재울까",
+        "date": "2026-02-27 14:06",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708781"
+    },
+    {
+        "title": "애플, 비전OS 26.3.1 업데이트…애플 TV 앱 화면 깜빡임 해결",
+        "date": "2026-02-27 14:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=635362"
+    },
+    {
+        "title": "OLED 발광재료 시장 2025년 7.2% 성장, 구매비중 중국이 한국 추월",
+        "date": "2026-02-27 14:04",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=431446"
+    },
+    {
+        "title": "에스라이즈, 11번가 월간 십일절서 HP 게이밍 노트북 풍성한 혜택 제공",
+        "date": "2026-02-27 14:02",
+        "link": "https://kbench.com/?q=node/276533"
+    },
+    {
         "title": "[브리핑] 삼성전자, 갤럭시S26 체험 스튜디오 운영",
         "date": "2026-02-27 14:00",
         "link": "http://www.4th.kr/news/articleView.html?idxno=2108229"
@@ -140,7 +425,7 @@
         "link": "https://kbench.com/?q=node/276516"
     },
     {
-        "title": "정부, 1대 5000 축척 지도 해외반출 '허용' 방침...美 구글·애플 공습 본...",
+        "title": "정부,고정밀지도 해외반출 '허용' 방침...美 구글·애플 공습 본격화",
         "date": "2026-02-27 11:18",
         "link": "http://www.seouleconews.com/news/articleView.html?idxno=89658"
     },
@@ -575,11 +860,6 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002219031?sid=105"
     },
     {
-        "title": "삼성전자, 갤럭시 S26 울트라 체험 공간 '갤럭시 스튜디오' 오픈",
-        "date": "2026-02-27 09:20",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=108569"
-    },
-    {
         "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
         "date": "2026-02-27 09:20",
         "link": "http://www.thebigdata.co.kr/view.php?ud=202602270832316668a3c244e1c9_23"
@@ -805,14 +1085,14 @@
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=820117"
     },
     {
-        "title": "삼성전자, '갤럭시 S26 울트라' 체험 공간 오픈",
-        "date": "2026-02-27 08:24",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1341148"
-    },
-    {
         "title": "삼성전자, '갤럭시 S26 울트라' 비교 체험 공간 '갤럭시 스튜디오' 오픈",
         "date": "2026-02-27 08:24",
         "link": "http://www.issuenbiz.com/news/articleView.html?idxno=73496"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 울트라' 체험 공간 오픈",
+        "date": "2026-02-27 08:24",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1341148"
     },
     {
         "title": "삼성전자, 갤럭시 S26 울트라 체험 공간 운영 시작",
@@ -858,1805 +1138,5 @@
         "title": "갤럭시 S26, AI 인프라 선언...초고가·구독 확대에 '전략리스크' 부상",
         "date": "2026-02-27 07:30",
         "link": "https://www.newswhoplus.com/news/articleView.html?idxno=55481"
-    },
-    {
-        "title": "“애플이 베껴야 할 단 하나의 기능”…'갤럭시 S26' 프라이버시 디스플...",
-        "date": "2026-02-27 06:59",
-        "link": "https://n.news.naver.com/mnews/article/138/0002219022?sid=105"
-    },
-    {
-        "title": "배터리 성능 미쳤네 애플워치보다 얇고 가벼운데 열흘 거뜬…가격도 ...",
-        "date": "2026-02-27 06:30",
-        "link": "https://n.news.naver.com/mnews/article/277/0005726899?sid=105"
-    },
-    {
-        "title": "필요한 앱 알아서 찾아주는 ‘갤S26’… 웨어러블도 AI 지원",
-        "date": "2026-02-27 05:05",
-        "link": "https://n.news.naver.com/mnews/article/081/0003621364?sid=105"
-    },
-    {
-        "title": "LGU+, 갤S26 사전예약…'제미나이3·스토리지 2TB' 구글 원 팩 혜택",
-        "date": "2026-02-27 05:04",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3046275"
-    },
-    {
-        "title": "“큰 한 주가 될 것” 애플 신제품 공개 임박…주목할 점은[모닝폰]",
-        "date": "2026-02-27 04:49",
-        "link": "https://n.news.naver.com/mnews/article/018/0006225652?sid=105"
-    },
-    {
-        "title": "노태문 올해 갤럭시 AI 8억대 보급…특권 아닌 기본 인프라로",
-        "date": "2026-02-27 04:30",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3046272"
-    },
-    {
-        "title": "3세대 AI폰 누구나 쉽게 쓴다…삼성전자, '갤S26 시리즈' 공개",
-        "date": "2026-02-27 04:12",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3046271"
-    },
-    {
-        "title": "사지 말고 빌리세요 삼성 구독에 힘준다",
-        "date": "2026-02-27 04:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005323130?sid=105"
-    },
-    {
-        "title": "세계가 놀란 삼성 '프라이버시 디스플레이'…애플 당장 배워야",
-        "date": "2026-02-27 03:22",
-        "link": "https://n.news.naver.com/mnews/article/215/0001243234?sid=101"
-    },
-    {
-        "title": "애플, 삼성의 혁신 기술 따라해야… 외신, 갤S26 '프라이버시 디스플...",
-        "date": "2026-02-27 02:06",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3379337"
-    },
-    {
-        "title": "갤럭시 S26에 ‘엑시노스’ 탑재… 삼성의 승부수",
-        "date": "2026-02-27 00:35",
-        "link": "https://n.news.naver.com/mnews/article/023/0003961386?sid=105"
-    },
-    {
-        "title": "“사생활보호 디스플레이 혁신적… 애플도 빨리 따라해야” 극찬 쏟아져",
-        "date": "2026-02-27 00:31",
-        "link": "https://n.news.naver.com/mnews/article/020/0003700096?sid=101"
-    },
-    {
-        "title": "OLED 나란히 ‘A+’… 삼성 “사생활 보호” LG “밝기 100% 유지”",
-        "date": "2026-02-27 00:24",
-        "link": "https://n.news.naver.com/mnews/article/005/0001834183?sid=101"
-    },
-    {
-        "title": "LG유플러스, 27일부터 '갤럭시 S26' 시리즈 사전예약 실시",
-        "date": "2026-02-27 00:00",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=126780"
-    },
-    {
-        "title": "[인사] 산업통상부",
-        "date": "2026-02-26 23:28",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=83581"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 '갤럭시 S26' 공개…모바일 에이전틱 AI",
-        "date": "2026-02-26 22:26",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2088771"
-    },
-    {
-        "title": "더욱 가볍게 더 오랫동안…극강 가성비 16인치 노트북, 에이서 스위프트...",
-        "date": "2026-02-26 22:22",
-        "link": "https://www.betanews.net/article/view/beta202602260120"
-    },
-    {
-        "title": "K-Display Controls 80% of Automotive OLED Market",
-        "date": "2026-02-26 22:00",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=263976"
-    },
-    {
-        "title": "LG Display's OLED Panels Achieve 100% Luminance Maintenance",
-        "date": "2026-02-26 21:52",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=263972"
-    },
-    {
-        "title": "애플, 인도 애플페이 출시 준비… 현지 은행과 협상",
-        "date": "2026-02-26 21:02",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157744"
-    },
-    {
-        "title": "[갤럭시 언팩 2026] 노태문 삼성전자 대표 갤럭시 S26, 전작 넘는 성과...",
-        "date": "2026-02-26 20:52",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=731162"
-    },
-    {
-        "title": "갤럭시 S26 시리즈, '스펙' 보다 'AI 경험' 더 앞세웠다",
-        "date": "2026-02-26 20:40",
-        "link": "https://it.donga.com/108474/"
-    },
-    {
-        "title": "갤럭시 S26 시리즈… 가볍게·얇게·은밀하게, 베일 벗은 ‘완성형 울트...",
-        "date": "2026-02-26 20:18",
-        "link": "https://www.kyeongin.com/article/1759568"
-    },
-    {
-        "title": "삼성전자, 마침내 베일 벗은 갤럭시 S26…슬그머니 일상에 스며드는 AI ...",
-        "date": "2026-02-26 19:34",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=654959"
-    },
-    {
-        "title": "[브리프] KT LG디스플레이 한컴 한샘 LS머트리얼즈 까사미아 밀리의서재...",
-        "date": "2026-02-26 19:32",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=349522"
-    },
-    {
-        "title": "필립스, 240Hz 올레드 게이밍 모니터 '에브니아 27M2N6501L' 출시 행사 진...",
-        "date": "2026-02-26 19:14",
-        "link": "https://gamefocus.co.kr/detail.php?number=173835"
-    },
-    {
-        "title": "[르포] 갤럭시 S26 시리즈 실물 공개 첫날..차분한 분위기 속 울트라 관...",
-        "date": "2026-02-26 19:06",
-        "link": "https://www.g-enews.com/view.php?ud=202602261657021828ea14faf6f5_1"
-    },
-    {
-        "title": "갤럭시 S26 시리즈, 가격 인상에도 '멀티 에이전트 AI폰'으로 승부수",
-        "date": "2026-02-26 19:04",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=355709"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 '갤럭시 S26 시리즈' 공개",
-        "date": "2026-02-26 18:36",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291426786764"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26에 AI·세계 최초 기술 탑재…갤럭시 AI '대중화’ ...",
-        "date": "2026-02-26 18:32",
-        "link": "https://www.g-enews.com/view.php?ud=2026022614402695186ed0c62d49_1"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S26 시리즈' 사전 판매 시작",
-        "date": "2026-02-26 18:30",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291482674312"
-    },
-    {
-        "title": "'갤 S26 울트라' 프라이버시 기능…외신들 애플도 따라해야 극찬",
-        "date": "2026-02-26 18:30",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832405"
-    },
-    {
-        "title": "LGD, OLED 패널 전 제품 '휘도 유지율 100%'",
-        "date": "2026-02-26 18:26",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483621?sid=101"
-    },
-    {
-        "title": "노태문 삼성 IT기기에 AI 탑재… 구글 합작 AI OS 곧 공개",
-        "date": "2026-02-26 18:23",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483606?sid=105"
-    },
-    {
-        "title": "단말 보상금·더블 스토리지… 갤S26 어디서 살까",
-        "date": "2026-02-26 18:23",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483608?sid=105"
-    },
-    {
-        "title": "자이브솔루션즈·디플러스, 고정밀 3D프린팅 양산 공정 개발 맞손",
-        "date": "2026-02-26 18:20",
-        "link": "http://amenews.kr/news/view.php?idx=65870"
-    },
-    {
-        "title": "진화된 3세대 AI폰 뜨거운 반응",
-        "date": "2026-02-26 18:08",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20260227010008177"
-    },
-    {
-        "title": "[전자는 지금] 삼성D, OLED '프라이버시 디스플레이' 검증 통과 外",
-        "date": "2026-02-26 18:06",
-        "link": "https://dealsite.co.kr/articles/157571"
-    },
-    {
-        "title": "“애플, 당장 따라해야”…갤S26 ‘프라이버시 디스플레이’에 외신들 ...",
-        "date": "2026-02-26 18:04",
-        "link": "https://www.kukinews.com/article/view/kuk202602260280"
-    },
-    {
-        "title": "[써보니] '갤럭시 S26 울트라', 더 편해진 AI에 '프라이버시'도 지켜줘",
-        "date": "2026-02-26 18:04",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832326"
-    },
-    {
-        "title": "베일 벗은 '갤럭시 S26 시리즈'…삼성전자, 'AI 스마트폰' 원조 지킨다",
-        "date": "2026-02-26 18:00",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=283623"
-    },
-    {
-        "title": "'AI OS 첫 탑재'…삼성 갤럭시 S26, 전작 판매 넘어설까",
-        "date": "2026-02-26 18:00",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=52785"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 휘도 유지율 100% 검증···자체 발광 우수성...",
-        "date": "2026-02-26 17:58",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=137095"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S26' 공개… 'AI스마트폰' 주도권 잡나",
-        "date": "2026-02-26 17:50",
-        "link": "https://www.sisaweek.com/news/articleView.html?idxno=233952"
-    },
-    {
-        "title": "노태문 구글과 AI용 OS 개발…앱 안켜도 명령 수행",
-        "date": "2026-02-26 17:45",
-        "link": "https://n.news.naver.com/mnews/article/015/0005255954?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26 전격 공개 AI와 게이밍 성능 향상",
-        "date": "2026-02-26 17:42",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=56176"
-    },
-    {
-        "title": "삼성전자 갤럭시 S26로 모바일 에이전틱 AI 본격화…전작 넘어 AI 리더...",
-        "date": "2026-02-26 17:40",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=263325"
-    },
-    {
-        "title": "애플아, 따라 하기라도 해라…갤럭시 S26 이 기술 보고 휘둥그레",
-        "date": "2026-02-26 17:34",
-        "link": "https://n.news.naver.com/mnews/article/422/0000838185?sid=104"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26 사전판매 27일부터 시작...가장 진보된 모바일 기...",
-        "date": "2026-02-26 17:30",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=208794"
-    },
-    {
-        "title": "애플, 삼성 기술 따라해야… 외신 극찬 쏟아진 '갤럭시 S26'",
-        "date": "2026-02-26 17:28",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157733"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S26 시리즈' 모바일 AI 리더십 강화",
-        "date": "2026-02-26 17:22",
-        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=206391"
-    },
-    {
-        "title": "LG디스플레이, 자사 OLED '휘도 유지율 100%' 입증",
-        "date": "2026-02-26 17:20",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7152017"
-    },
-    {
-        "title": "체감 가치 높였다…갤럭시S26, 프라이버시·에이전트 AI 전면에",
-        "date": "2026-02-26 17:20",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=197390"
-    },
-    {
-        "title": "삼성전자, ‘갤럭시 S26 시리즈’ 공개…기능·카메라·AI 기능 업그레이...",
-        "date": "2026-02-26 17:18",
-        "link": "https://cwn.kr/article/1065586721490868"
-    },
-    {
-        "title": "[현장] ‘갤럭시 S26’, 사용자 마음 읽고 AI 제공해 가격 인상 우려 잠...",
-        "date": "2026-02-26 17:18",
-        "link": "https://www.news2day.co.kr/article/20260226500263"
-    },
-    {
-        "title": "노태문 태블릿·PC·웨어러블까지 AI 도입…구글과 AI OS 공동개발",
-        "date": "2026-02-26 17:14",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483557?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 패널 ‘화면 밝기 유지율’ 100% 검증",
-        "date": "2026-02-26 17:13",
-        "link": "https://n.news.naver.com/mnews/article/366/0001144719?sid=105"
-    },
-    {
-        "title": "갤럭시·아이폰 '파일 공유 장벽' 무너졌다.. 갤럭시S26 시리즈부터 '에...",
-        "date": "2026-02-26 17:10",
-        "link": "https://kbench.com/?q=node/276492"
-    },
-    {
-        "title": "갤럭시 S26 외신 호평  프라이버시 디스플레이는 하드웨어 혁신…애플...",
-        "date": "2026-02-26 17:04",
-        "link": "https://n.news.naver.com/mnews/article/366/0001144714?sid=105"
-    },
-    {
-        "title": "버핏은 팔고 블랙록은 샀다…애플, 지금 사도 될까?",
-        "date": "2026-02-26 17:02",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541926"
-    },
-    {
-        "title": "2025년 인도 스마트폰 시장 정체…삼성, 애플 등 프리미엄 제품 뜨고 중...",
-        "date": "2026-02-26 17:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483550?sid=104"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 ‘갤럭시 S26’ 공개...내달 11일 전 세계 순차 출...",
-        "date": "2026-02-26 17:00",
-        "link": "https://www.m-economynews.com/news/article.html?no=64968"
-    },
-    {
-        "title": "[단독] LG전자, 美 ‘특허 사냥꾼’ 표적 됐다…이미지 처리 기술 도마",
-        "date": "2026-02-26 16:51",
-        "link": "https://n.news.naver.com/mnews/article/117/0004039026?sid=105"
-    },
-    {
-        "title": "200만 원짜리 AI 비서 삼성전자, 갤럭시 S26 공개",
-        "date": "2026-02-26 16:50",
-        "link": "https://n.news.naver.com/mnews/article/050/0000102865?sid=101"
-    },
-    {
-        "title": "노태문 삼성전자 사장 갤럭시 S26 시리즈, 전작 뛰어넘을 것",
-        "date": "2026-02-26 16:42",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=283615"
-    },
-    {
-        "title": "공항 가는 택시 불러줘...갤럭시 S26, AI 에이전트 시대 연다",
-        "date": "2026-02-26 16:40",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=60638"
-    },
-    {
-        "title": "삼성디스플레이, '프라이버시 디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 16:34",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=355732"
-    },
-    {
-        "title": "﻿﻿베일 벗은 '갤럭시 S26'…사용자 의도 읽는 AI스마트폰",
-        "date": "2026-02-26 16:30",
-        "link": "https://www.mhj21.com/news/articleView.html?idxno=250699"
-    },
-    {
-        "title": "말하지 않아도 AI가 넛지…'갤럭시 S26 시리즈' 공개",
-        "date": "2026-02-26 16:30",
-        "link": "https://n.news.naver.com/mnews/article/648/0000044807?sid=101"
-    },
-    {
-        "title": "비싸진 갤럭시 구독해서 쓰세요…삼성전자, 하드웨어 구독 강화",
-        "date": "2026-02-26 16:26",
-        "link": "https://n.news.naver.com/mnews/article/008/0005322959?sid=105"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 갤럭시 S26 시리즈 공개",
-        "date": "2026-02-26 16:24",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3083786"
-    },
-    {
-        "title": "LG디스플레이, 휘도 유지율 100% 검증…OLED 픽셀 디밍 우수성 입증",
-        "date": "2026-02-26 16:24",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=283585"
-    },
-    {
-        "title": "삼성 나보다 먼저 필요한 걸 아는 폰···3개 AI 탑재 갤럭시 S26 공개",
-        "date": "2026-02-26 16:22",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=677037"
-    },
-    {
-        "title": "[Biz&amp;Law] 대만 중화영관 파산…삼성D·LGD 200억 채권 '공중분해 위기'",
-        "date": "2026-02-26 16:22",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708573"
-    },
-    {
-        "title": "AI시대 신시장 선점하라…세계로 뛰는 혁신기술 군단",
-        "date": "2026-02-26 16:22",
-        "link": "https://n.news.naver.com/mnews/article/015/0005255809?sid=101"
-    },
-    {
-        "title": "선익시스템, 고정밀 OLED 제조 기술 일본 독점 깼다…초고해상도 시장 ...",
-        "date": "2026-02-26 16:21",
-        "link": "https://n.news.naver.com/mnews/article/015/0005255803?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 전 제품 ‘밝기 유지율 100%’ 업계 최초 검증",
-        "date": "2026-02-26 16:20",
-        "link": "http://www.metroseoul.co.kr/article/20260226500581"
-    },
-    {
-        "title": "KT, 27일부터 갤럭시 S26 시리즈 사전예약",
-        "date": "2026-02-26 16:20",
-        "link": "https://www.betanews.net/article/view/beta202602260098"
-    },
-    {
-        "title": "LCD 재료 화학물질, 멸종위기 돌고래 뇌까지 침투···“인간도 위험할...",
-        "date": "2026-02-26 16:19",
-        "link": "https://n.news.naver.com/mnews/article/032/0003430003?sid=102"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26 시리즈 사전판매 일정은?",
-        "date": "2026-02-26 16:16",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=557793"
-    },
-    {
-        "title": "삼성 ‘갤럭시 S26’, 에이전틱 AI 시대 열었다…“단순 도구 넘어 개인...",
-        "date": "2026-02-26 16:14",
-        "link": "https://www.ceoscoredaily.com/page/view/2026022615253061743"
-    },
-    {
-        "title": "LG디스플레이, OLED 휘도 유지율 100% 성능 검증",
-        "date": "2026-02-26 16:14",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708586"
-    },
-    {
-        "title": "LGU+, ‘갤럭시 S26 시리즈’ 사전예약..구글 원 팩 제공",
-        "date": "2026-02-26 16:14",
-        "link": "http://www.breaknews.com/1187907"
-    },
-    {
-        "title": "노태문 삼성전자 사장 갤럭시 S26 시리즈로 전작 넘는 성과 만들어 낼...",
-        "date": "2026-02-26 16:14",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412932"
-    },
-    {
-        "title": "'사생활 보호 기능' 탑재…갤럭시 S26 시리즈 첫 공개",
-        "date": "2026-02-26 16:12",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=309288"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 16:10",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708548"
-    },
-    {
-        "title": "[TOP's Pick] 넥사다이내믹스, '장비 슈퍼사이클' 수혜 잡는다",
-        "date": "2026-02-26 16:10",
-        "link": "https://www.topdaily.kr/articles/108975"
-    },
-    {
-        "title": "LG디스플레이, OLED 휘도 유지율 100% 첫 검증",
-        "date": "2026-02-26 16:10",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340404"
-    },
-    {
-        "title": "카톡 전송 이제 안녕... 삼성 갤럭시 S26, 아이폰 '에어드랍' 탑재 전...",
-        "date": "2026-02-26 16:10",
-        "link": "https://www.insight.co.kr/news/544594"
-    },
-    {
-        "title": "[현장] 이보다 쓰기 쉬운 AI폰 없다…편리성 '갑' 삼성 갤럭시 S26",
-        "date": "2026-02-26 16:08",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241801"
-    },
-    {
-        "title": "삼성전자 갤럭시S26 공개…역대 가장 직관적 AI 경험",
-        "date": "2026-02-26 16:06",
-        "link": "https://www.consumuch.com/news/articleView.html?idxno=77431"
-    },
-    {
-        "title": "[분석] AI가 가격 올렸다 갤럭시 S26, 글로벌 시장이 주목한 진짜 이유",
-        "date": "2026-02-26 16:00",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=418326"
-    },
-    {
-        "title": "“코인 거래소에서 애플 주식 산다” 글로벌 3대장 ‘토큰화 증권’ 확...",
-        "date": "2026-02-26 16:00",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483498?sid=105"
-    },
-    {
-        "title": "저장 용량 2배 업그레이드...삼성전자, '갤S26 시리즈' 사전 판매 시작",
-        "date": "2026-02-26 15:58",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=862604"
-    },
-    {
-        "title": "웨어러블 존재감 키우는 '갤럭시 버즈4'…새 카드는 AI",
-        "date": "2026-02-26 15:54",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=159169"
-    },
-    {
-        "title": "삼성전자, 친환경 비전 '지구를 위한 갤럭시' 제시…재활용 소재로 갤럭...",
-        "date": "2026-02-26 15:52",
-        "link": "http://www.metroseoul.co.kr/article/20260226500545"
-    },
-    {
-        "title": "애플, iOS 26.4 베타에서 英 성인 연령 확인 도입",
-        "date": "2026-02-26 15:50",
-        "link": "https://www.hellot.net/news/article.html?no=110711"
-    },
-    {
-        "title": "삼성의 아픈 손가락 모바일AP ‘엑시노스’ 갤S26 타고 부활하나",
-        "date": "2026-02-26 15:50",
-        "link": "https://n.news.naver.com/mnews/article/023/0003961291?sid=105"
-    },
-    {
-        "title": "애플 제조업 R&amp;D 지원센터, 3월 24~26일 'SME 위크' 개최",
-        "date": "2026-02-26 15:48",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=731176"
-    },
-    {
-        "title": "갤럭시 S26, 베일 벗었다…AI를 손 안의 일상으로 [르포]",
-        "date": "2026-02-26 15:44",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=548623"
-    },
-    {
-        "title": "갤럭시S26 울트라, 티타늄 프레임 -> 알루미늄 프레임 변경",
-        "date": "2026-02-26 15:42",
-        "link": "https://kbench.com/?q=node/276489"
-    },
-    {
-        "title": "삼성전자 '에이전틱' 품은 갤S26···애플과 AI 격차 벌릴까",
-        "date": "2026-02-26 15:40",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=419488"
-    },
-    {
-        "title": "[데일리픽] 비트코인 45% 폭락 '통과의례'…삼성 갤럭시 S26 공개",
-        "date": "2026-02-26 15:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634924"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 휘도 유지율 100% 검증",
-        "date": "2026-02-26 15:36",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=258741"
-    },
-    {
-        "title": "노태문 삼성전자 사장 갤럭시 S26, 전작 판매 성과 넘어설 것",
-        "date": "2026-02-26 15:36",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1340988"
-    },
-    {
-        "title": "선익시스템, 대형 OLED 수주 확대에 현금배당…중장기 기반 강화",
-        "date": "2026-02-26 15:32",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340364"
-    },
-    {
-        "title": "삼성전자 갤럭시S26 'AI 비서' 고가폰 공략과 보급형 판매 확대, 노태문...",
-        "date": "2026-02-26 15:32",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=431290"
-    },
-    {
-        "title": "삼성, '갤럭시 S26' 공개… AI 폰 3세대 시대 열었다",
-        "date": "2026-02-26 15:31",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=107931"
-    },
-    {
-        "title": "삼성전자, 모바일 기술 집약 3세대 AI폰 ‘갤럭시 S26 시리즈’ 공개",
-        "date": "2026-02-26 15:28",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065575655297628"
-    },
-    {
-        "title": "[체험기] AI 경험의 완성…삼성전자, 갤럭시 S26 출격",
-        "date": "2026-02-26 15:28",
-        "link": "https://theviewers.co.kr/View.aspx?No=3985764"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 '갤럭시 S26 ' 베일 벗었다",
-        "date": "2026-02-26 15:26",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1086007"
-    },
-    {
-        "title": "삼성전자, 3세대 AI 폰 '갤럭시 S26 시리즈' 공개",
-        "date": "2026-02-26 15:26",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=126784"
-    },
-    {
-        "title": "삼성 갤럭시 S26 시리즈 공개…일반 vs 플러스 vs 울트라, 차이점 총정리",
-        "date": "2026-02-26 15:26",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634901"
-    },
-    {
-        "title": "AI 연구 플랫폼에서 마이크로캡슐까지, 소재 개발 방식을 바꾸는 로드맵...",
-        "date": "2026-02-26 15:24",
-        "link": "https://www.handmk.com/news/articleView.html?idxno=36183"
-    },
-    {
-        "title": "삼성디스플레이, 프라이버시 디스플레이 검증 통과…사생활 보호 기능...",
-        "date": "2026-02-26 15:24",
-        "link": "https://www.sentv.co.kr/article/view/sentv202602260163"
-    },
-    {
-        "title": "[현장] 베일 벗은 삼성전자 갤럭시S26, 직접 체험해보니 | 전문가 수준의...",
-        "date": "2026-02-26 15:24",
-        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23841&Newsnumb=20260223841"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 OLED '휘도 유지율 100%' 성능 입증",
-        "date": "2026-02-26 15:22",
-        "link": "https://www.sentv.co.kr/article/view/sentv202602260159"
-    },
-    {
-        "title": "베일 벗은 ‘갤럭시 S26’…삼성 ‘AI폰 3년차’ 격차 벌리기",
-        "date": "2026-02-26 15:20",
-        "link": "https://www.ekn.kr/web/view.php?key=20260226029373052"
-    },
-    {
-        "title": "삼성의 진보된 모바일 기술 집약된 '갤럭시 S26 시리즈' 공개 [뉴시스Pi...",
-        "date": "2026-02-26 15:16",
-        "link": "https://n.news.naver.com/mnews/article/003/0013790704?sid=105"
-    },
-    {
-        "title": "'갤럭시S26 고객 잡아라'…통신3사, 사전예약 마케팅 돌입",
-        "date": "2026-02-26 15:15",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483462?sid=105"
-    },
-    {
-        "title": "샤오미, 스냅드래곤 8s 3세대 탑재 게이밍 태블릿 '블랙 샤크' 글로벌 출...",
-        "date": "2026-02-26 15:10",
-        "link": "https://kbench.com/?q=node/276488"
-    },
-    {
-        "title": "[현장] 눈치 생긴 AI에 사생활 보호까지…삼성전자 '갤럭시 S26'",
-        "date": "2026-02-26 15:08",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340320"
-    },
-    {
-        "title": "LG디스플레이, 글로벌 인증기관서 OLED '휘도 유지율 100%' 입증",
-        "date": "2026-02-26 15:08",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432576"
-    },
-    {
-        "title": "애플이 따라해야 할 기능 … 갤럭시 S26, 외신들도 호평 일색 [갤럭시...",
-        "date": "2026-02-26 15:08",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/26/2026022600372.html"
-    },
-    {
-        "title": "'갤럭시 S26' 27일 0시 사전판매 개시… 애플이 훔치고 싶을 디스플레이...",
-        "date": "2026-02-26 15:05",
-        "link": "https://n.news.naver.com/mnews/article/469/0000916496?sid=105"
-    },
-    {
-        "title": "“이제 AI가 먼저 움직인다”…갤럭시 S26, 전작과 무엇이 달라졌나",
-        "date": "2026-02-26 15:04",
-        "link": "https://www.kukinews.com/article/view/kuk202602260185"
-    },
-    {
-        "title": "삼성전자, 갤럭시 언팩 행사서 S26 시리즈 공개",
-        "date": "2026-02-26 15:02",
-        "link": "https://www.onews.tv/news/articleView.html?idxno=275331"
-    },
-    {
-        "title": "'알잘딱' AI 비서로 진화···삼성, 갤럭시 S26 '언팩'",
-        "date": "2026-02-26 14:58",
-        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=180912"
-    },
-    {
-        "title": "스마트워치 시장, 프리미엄화 가속…애플·화웨이·샤오미 3강 체제",
-        "date": "2026-02-26 14:58",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634844"
-    },
-    {
-        "title": "LG디스플레이 OLED '휘도 유지율 100%' 성능 입증",
-        "date": "2026-02-26 14:58",
-        "link": "https://n.news.naver.com/mnews/article/374/0000494662?sid=101"
-    },
-    {
-        "title": "[삼성 언팩] BTS 슈가 얼굴 등장하자…함성 쏟아졌다",
-        "date": "2026-02-26 14:58",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4400663"
-    },
-    {
-        "title": "노태문 삼성전자 사장 갤럭시 S26 시리즈, 전작보다 많이 팔릴 것",
-        "date": "2026-02-26 14:56",
-        "link": "https://www.smarttoday.co.kr/ko-kr/articles/103805"
-    },
-    {
-        "title": "“진정한 에이전틱 AI폰” 갤럭시S26, 시연 장면마다 환호·박수 터졌다...",
-        "date": "2026-02-26 14:54",
-        "link": "https://www.kukinews.com/article/view/kuk202602260165"
-    },
-    {
-        "title": "975g 초경량 무게 한국레노버, 요가 11세대 4종 출시",
-        "date": "2026-02-26 14:48",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483432?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 '휘도 유지율 100%' 성능 검증",
-        "date": "2026-02-26 14:48",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=84698"
-    },
-    {
-        "title": "LGD, 대형 OLED '휘도 유지율 100%' 업계 최초 검증…LCD와 차별화",
-        "date": "2026-02-26 14:46",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=731156"
-    },
-    {
-        "title": "갤럭시 S26, 가장 진보된 모바일 기술 집약체",
-        "date": "2026-02-26 14:46",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=902475"
-    },
-    {
-        "title": "삼성 '갤럭시 S26' 시리즈 공개, 주요 기능은?",
-        "date": "2026-02-26 14:44",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=84696"
-    },
-    {
-        "title": "“맥북 한번 써볼까”…애플, 저가형 맥북 출시 임박",
-        "date": "2026-02-26 14:40",
-        "link": "https://n.news.naver.com/mnews/article/050/0000102859?sid=101"
-    },
-    {
-        "title": "[AT 현장] 갤S26, '전면·앱별' 사생활 보호…애플도 적용해야",
-        "date": "2026-02-26 14:38",
-        "link": "https://www.asiatime.co.kr/article/20260226500274"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 14:36",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832253"
-    },
-    {
-        "title": "노태문 삼성전자 사장 “갤럭시 S26으로 전작 성과 넘을 것…구글과 AI ...",
-        "date": "2026-02-26 14:36",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=83555"
-    },
-    {
-        "title": "이통3사, 갤럭시S26 사전예약 일제히 돌입…'혜택 경쟁'",
-        "date": "2026-02-26 14:35",
-        "link": "https://n.news.naver.com/mnews/article/015/0005255709?sid=105"
-    },
-    {
-        "title": "노태문 사장 갤럭시 S26 판매량, 전작 뛰어넘을 것",
-        "date": "2026-02-26 14:34",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832323"
-    },
-    {
-        "title": "SKT·KT·LGU+, '갤럭시 S26' 시리즈 사전예약 혜택 경쟁",
-        "date": "2026-02-26 14:32",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340276"
-    },
-    {
-        "title": "노태문 사장 갤럭시 S26, 모바일 AI 리더십 굳히는 기점 될 것",
-        "date": "2026-02-26 14:32",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=329104"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED '휘도 유지율 100%' 검증…UL솔루션즈 인증 획...",
-        "date": "2026-02-26 14:30",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=263236"
-    },
-    {
-        "title": "LG디스플레이 OLED, 화면 어디를 봐도 '밝기 100%' 입증",
-        "date": "2026-02-26 14:30",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=55143"
-    },
-    {
-        "title": "노태문 삼성전자 사장 “갤럭시 S26 전작 넘는다”…모바일 AI 리더십 강...",
-        "date": "2026-02-26 14:28",
-        "link": "https://n.news.naver.com/mnews/article/117/0004038949?sid=105"
-    },
-    {
-        "title": "엡손 잉크젯 헤드, 프린터 넘어 첨단 산업의 핵심 기술로 진화",
-        "date": "2026-02-26 14:24",
-        "link": "https://www.etoday.co.kr/news/view/2560022"
-    },
-    {
-        "title": "훔쳐보기 '칼차단'...외신이 극찬한 갤럭시 S26 기능 [지금이뉴스]",
-        "date": "2026-02-26 14:17",
-        "link": "https://n.news.naver.com/mnews/article/052/0002319984?sid=101"
-    },
-    {
-        "title": "LGD, 업계 최초 ‘휘도 유지율 100%’ 검증...OLED 더 선명한 이유 찾았다",
-        "date": "2026-02-26 14:16",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483393?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26로 모바일 AI 리더십 강화",
-        "date": "2026-02-26 14:16",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=819920"
-    },
-    {
-        "title": "노태문 '올해 갤럭시 AI 기기 8억 대 목표···모바일 리더십 강화'",
-        "date": "2026-02-26 14:15",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=622224"
-    },
-    {
-        "title": "AI 앞세운 갤럭시 언팩…노태문, “AI는 특권 아니라 기본 인프라”",
-        "date": "2026-02-26 14:13",
-        "link": "https://n.news.naver.com/mnews/article/025/0003505447?sid=101"
-    },
-    {
-        "title": "천재적 애플도 따라할 결심?…찬사 쏟아진 갤S26 디스플레이 뭐길래",
-        "date": "2026-02-26 14:13",
-        "link": "https://n.news.naver.com/mnews/article/008/0005322815?sid=105"
-    },
-    {
-        "title": "256GB→512GB로 무상 업그레이드…'갤럭시 S26 시리즈' 27일부터 사전 판...",
-        "date": "2026-02-26 14:10",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202602261406535135be44c0aacd_30"
-    },
-    {
-        "title": "탑런토탈솔루션, LGD 난징법인 차량용 모듈 사업 인수…LTPS LCD 진출",
-        "date": "2026-02-26 14:10",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=695062"
-    },
-    {
-        "title": "전장용 OLED 80% 장악 K디스플레이…전장 공략 가속",
-        "date": "2026-02-26 14:09",
-        "link": "https://n.news.naver.com/mnews/article/018/0006225340?sid=101"
-    },
-    {
-        "title": "삼성 '프라이버시 디스플레이' 공개하자 외신 애플도 도입해야 [갤럭...",
-        "date": "2026-02-26 14:07",
-        "link": "https://n.news.naver.com/mnews/article/119/0003063413?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26로 ‘모바일 에이전틱 AI’ 시대 연다",
-        "date": "2026-02-26 14:06",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=207013"
-    },
-    {
-        "title": "삼성전자 갤럭시 S26, 누구나 쉽게 사용하는 AI 폰",
-        "date": "2026-02-26 14:04",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634787"
-    },
-    {
-        "title": "삼성전자 노태문 사장, “갤럭시 S26 시리즈 전작 넘어서는 성과 만들어...",
-        "date": "2026-02-26 14:04",
-        "link": "http://www.breaknews.com/1187783"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 OLED ‘휘도 유지율 100%’ 검증 성공",
-        "date": "2026-02-26 14:00",
-        "link": "https://www.g-enews.com/view.php?ud=2026022612594174866ed0c62d49_1"
-    },
-    {
-        "title": "애플 저가형 맥북, 기능 대거 뺀 채 90만원대 출시…논란 예고",
-        "date": "2026-02-26 14:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634808"
-    },
-    {
-        "title": "역대 가장 강력한 갤럭시 AI…노태문 사장 갤럭시 S26, 전작 판매량 뛰...",
-        "date": "2026-02-26 14:00",
-        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=26530"
-    },
-    {
-        "title": "노태문 삼성전자 대표 갤S26 시리즈, 전작 넘어서는 성과 만들 것",
-        "date": "2026-02-26 13:56",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=197421"
-    },
-    {
-        "title": "“애플 이겼다” 반응 나온 갤럭시 S26 언팩...행사 생중계는 ‘울트라...",
-        "date": "2026-02-26 13:56",
-        "link": "https://n.news.naver.com/mnews/article/023/0003961256?sid=105"
-    },
-    {
-        "title": "삼성전자, '겔럭시 S26 시리즈' 사전 판매",
-        "date": "2026-02-26 13:54",
-        "link": "http://www.jndn.com/article.php?aid=1772081440427826004"
-    },
-    {
-        "title": "‘갤럭시S26’ 사전예약 시작…통신3사, AI 체험 마케팅",
-        "date": "2026-02-26 13:53",
-        "link": "https://n.news.naver.com/mnews/article/138/0002218957?sid=105"
-    },
-    {
-        "title": "권한 더 주고, 보안 더 철저히 삼성 갤럭시 S26, AI폰 기준 세웠다",
-        "date": "2026-02-26 13:50",
-        "link": "https://www.bizhankook.com/bk/article/31604"
-    },
-    {
-        "title": "삼성 갤럭시 S26, 필름 없어도 사생활 보호한다…외신 “애플, 삼성 혁신...",
-        "date": "2026-02-26 13:48",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=20260226134207348bbceadc3c9_23"
-    },
-    {
-        "title": "노태문 S26 전 라인업 성장…삼성, 모바일 AI 확장 가속",
-        "date": "2026-02-26 13:46",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125971"
-    },
-    {
-        "title": "[단독]신한카드, 3월 애플페이 출격",
-        "date": "2026-02-26 13:43",
-        "link": "https://n.news.naver.com/mnews/article/030/0003402396?sid=101"
-    },
-    {
-        "title": "폴더블 아이폰, 주름 자국 0.15㎜ 미만…폴더블폰 혁신 가능할까",
-        "date": "2026-02-26 13:41",
-        "link": "https://n.news.naver.com/mnews/article/092/0002412014?sid=105"
-    },
-    {
-        "title": "[WIKI 현장] 삼성 갤럭시AI의 메가 진화…내가 잊은 일정까지 챙겨주는...",
-        "date": "2026-02-26 13:40",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=183923"
-    },
-    {
-        "title": "넥사다이내믹스, OLED 8.6세대 본딩 장비 누적 1000대 납품 돌파",
-        "date": "2026-02-26 13:40",
-        "link": "https://www.etoday.co.kr/news/view/2559981"
-    },
-    {
-        "title": "3세대 AI폰이 왔다…전 세계인 환호성 자아낸 '갤럭시 S26'",
-        "date": "2026-02-26 13:40",
-        "link": "https://thetracker.co.kr/View.aspx?No=3985766"
-    },
-    {
-        "title": "삼성전자, 3세대 AI폰 '갤럭시 S26 시리즈' 공개... AI 시대 사생활 보호...",
-        "date": "2026-02-26 13:36",
-        "link": "https://www.public25.com/news/articleView.html?idxno=41111"
-    },
-    {
-        "title": "[포커스] [갤럭시 언팩 2026] 성능 월등해진 S26…하드웨어·AI 모두 점프...",
-        "date": "2026-02-26 13:36",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=731121"
-    },
-    {
-        "title": "LG디스플레이, OLED 패널 ‘휘도 유지율 100%’ 검증 획득",
-        "date": "2026-02-26 13:34",
-        "link": "https://www.viva100.com/article/20260226500787"
-    },
-    {
-        "title": "SK하이닉스·LGD, 차세대 반도체·DP 주도권 확보 '잰걸음'",
-        "date": "2026-02-26 13:34",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=149722"
-    },
-    {
-        "title": "삼성전자, 갤럭시 S26 시리즈 공개…일상 바꾸는 AI폰",
-        "date": "2026-02-26 13:34",
-        "link": "http://journal.kobeta.com/?post_type=post&p=61899"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S26 시리즈' 사전 판매 개시",
-        "date": "2026-02-26 13:32",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708526"
-    },
-    {
-        "title": "삼성디스플레이, 옆에선 안보이는 '사생활 보호 OLED' 검증 통과",
-        "date": "2026-02-26 13:28",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352258"
-    },
-    {
-        "title": "세계 최초 실리콘렌즈의 힘…아이엘, 자동차 램프 수직계열화 완성",
-        "date": "2026-02-26 13:28",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432525"
-    },
-    {
-        "title": "삼성, 갤럭시 S26 시리즈 3종 공개...에이전틱 AI 탑재",
-        "date": "2026-02-26 13:26",
-        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202602261126417976"
-    },
-    {
-        "title": "LG디스플레이, OLED ‘밝기 유지율 100%’ 성능 입증",
-        "date": "2026-02-26 13:24",
-        "link": "https://n.news.naver.com/mnews/article/011/0004593819?sid=101"
-    },
-    {
-        "title": "삼성전자, 올해 '갤럭시 AI' 8억대 탑재…소비자경험 개선에 역점",
-        "date": "2026-02-26 13:24",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832291"
-    },
-    {
-        "title": "256GB→512GB 무상 업그레이드...'갤럭시S26 시리즈' 사전 판매 개시",
-        "date": "2026-02-26 13:23",
-        "link": "https://n.news.naver.com/mnews/article/092/0002412010?sid=105"
-    },
-    {
-        "title": "삼성전자, 최신 AI폰 '갤럭시 S26 시리즈' 공개",
-        "date": "2026-02-26 13:22",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708517"
-    },
-    {
-        "title": "갤럭시 S26, AI OS 최초 탑재…모바일 에이전틱 AI 방향 제시",
-        "date": "2026-02-26 13:19",
-        "link": "https://n.news.naver.com/mnews/article/417/0001131635?sid=105"
-    },
-    {
-        "title": "삼성디스플레이 사생활 보호기술 국제 검증 통과",
-        "date": "2026-02-26 13:17",
-        "link": "https://n.news.naver.com/mnews/article/011/0004593815?sid=101"
-    },
-    {
-        "title": "넥사다이내믹스, 본딩 장비 누적 1000대 납품…슈퍼사이클 수혜 정조준",
-        "date": "2026-02-26 13:16",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=289396"
-    },
-    {
-        "title": "박보검 코트 어디 거야?…갤S26에 사진 보여줬더니 '깜짝' [영상]",
-        "date": "2026-02-26 13:16",
-        "link": "https://n.news.naver.com/mnews/article/015/0005255649?sid=105"
-    },
-    {
-        "title": "노태문 갤럭시 S26, 역대 최강 성능…모바일 AI 리더십 이어갈 것",
-        "date": "2026-02-26 13:14",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708518"
-    },
-    {
-        "title": "넥사다이내믹스, 본딩 장비 누적 1000대 납품…슈퍼사이클 수혜 정조준",
-        "date": "2026-02-26 13:09",
-        "link": "https://n.news.naver.com/mnews/article/003/0013790164?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 패널 전 제품 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 13:08",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=120472"
-    },
-    {
-        "title": "눈치껏 넌지시 제안하는 갤럭시, 손안의 비서 현실화",
-        "date": "2026-02-26 13:08",
-        "link": "https://www.naeil.com/news/read/579344?ref=naver"
-    },
-    {
-        "title": "청송애플라이온스클럽, 취약계층 위한 라면 40박스 기탁",
-        "date": "2026-02-26 13:08",
-        "link": "https://www.kbsm.net/news/view.php?idx=509809"
-    },
-    {
-        "title": "삼성전자, 미국 캘리포니아에서 '갤럭시 S26 시리즈' 공개...사양별로 1...",
-        "date": "2026-02-26 13:06",
-        "link": "http://www.lkp.news/news/articleView.html?idxno=76918"
-    },
-    {
-        "title": "갤럭시 S26, '모바일 에이전틱 AI'라는 새로운 방향 제시",
-        "date": "2026-02-26 13:04",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=295566"
-    },
-    {
-        "title": "WSJ “애플도 따라해야”…외신, 갤S26 ‘프라이버시 디스플레이’ 집중...",
-        "date": "2026-02-26 12:50",
-        "link": "https://www.etoday.co.kr/news/view/2559961"
-    },
-    {
-        "title": "[갤럭시 S26 언팩] 삼성 초격차 '에이전틱 AI'",
-        "date": "2026-02-26 12:48",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=102166"
-    },
-    {
-        "title": "[위클리오늘] 갤럭시 S26, 역대 최강 성능과 모바일 에이전틱 AI로 전작...",
-        "date": "2026-02-26 12:42",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=761686"
-    },
-    {
-        "title": "노태문 사장, 전 제품군에서 고르게 성장해 '모바일 AI' 리더십 한층 더...",
-        "date": "2026-02-26 12:36",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38826"
-    },
-    {
-        "title": "노태문 삼성전자 사장 갤럭시 S26, 전작 넘는 판매 달성 목표",
-        "date": "2026-02-26 12:26",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241908"
-    },
-    {
-        "title": "내일부터 '갤럭시 S26' 시리즈 사전 예약… 통신사별 혜택은?",
-        "date": "2026-02-26 12:22",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3379028"
-    },
-    {
-        "title": "알파스캔, 32형 QHD 모니터에 100Hz 적용한 홈오피스 최적화 모델 AOC Q32...",
-        "date": "2026-02-26 12:14",
-        "link": "https://gamefocus.co.kr/detail.php?number=173783"
-    },
-    {
-        "title": "AI를 인프라로 선언한 삼성…갤럭시 S26이 던진 전략적 메시지",
-        "date": "2026-02-26 12:08",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=723996"
-    },
-    {
-        "title": "[갤럭시 언팩 2026] 삼성 노태문 AI, 일상 속 인프라로… 갤S26로 '3세대...",
-        "date": "2026-02-26 12:02",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3378880"
-    },
-    {
-        "title": "AI는 모두의 기본 인프라…삼성, S26 앞세워 전 제품군 성장 노린다",
-        "date": "2026-02-26 12:00",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541917"
-    },
-    {
-        "title": "[삼성 파운드리 미래] ⑬ 2나노 경쟁 본격화..삼성의 GAA 전략은 통할까",
-        "date": "2026-02-26 11:58",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241862"
-    },
-    {
-        "title": "프라이버시 기능, 애플이 따라해야…외신도 호평한 갤럭시 S26",
-        "date": "2026-02-26 11:56",
-        "link": "https://n.news.naver.com/mnews/article/001/0015926421?sid=105"
-    },
-    {
-        "title": "KT, 갤럭시 S26 시리즈 사전예약 시작",
-        "date": "2026-02-26 11:56",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241809"
-    },
-    {
-        "title": "애플 '아이폰 폴드' 생산 주문 완료.. 하반기 출시 확정",
-        "date": "2026-02-26 11:52",
-        "link": "https://kbench.com/?q=node/276462"
-    },
-    {
-        "title": "3세대 AI폰으로 모바일 혁신 가속 삼성전자, 갤럭시 S26 시리즈 선봬…...",
-        "date": "2026-02-26 11:50",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=418309"
-    },
-    {
-        "title": "LG디스플레이, OLED 휘도 유지율 100% 검증",
-        "date": "2026-02-26 11:46",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241874"
-    },
-    {
-        "title": "LGD, 업계 최초 OLED ‘휘도 유지율 100%’ 검증",
-        "date": "2026-02-26 11:46",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1292572&inflow=N"
-    },
-    {
-        "title": "삼성전자, '갤럭시 S26 시리즈' 사전 판매 시작...내달 11일 공식 출시",
-        "date": "2026-02-26 11:42",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241864"
-    },
-    {
-        "title": "LG디스플레이, 대형 OLED 패널 '휘도 유지율 100%' 세계 최초 검증",
-        "date": "2026-02-26 11:40",
-        "link": "https://www.mtnews.net/news/articleView.html?idxno=24018"
-    },
-    {
-        "title": "갤럭시 S26, AI가 캘린더 일정 확인하고 사진 공유도 알아서 척척...사생...",
-        "date": "2026-02-26 11:40",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=750824"
-    },
-    {
-        "title": "넥사다이내믹스, OLED 8.6세대 본딩 장비 누적 1000대 납품",
-        "date": "2026-02-26 11:38",
-        "link": "https://n.news.naver.com/mnews/article/277/0005726502?sid=101"
-    },
-    {
-        "title": "애플 iOS 26, 암호 앱 기능 강화…서드파티 없이 통합 관리",
-        "date": "2026-02-26 11:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634777"
-    },
-    {
-        "title": "삼성, 갤럭시 S26 공개…엿보기 방지 기술 눈길",
-        "date": "2026-02-26 11:36",
-        "link": "https://byline.network/?p=9004111222593730"
-    },
-    {
-        "title": "[갤럭시 언팩] AI 무장한 '갤럭시S26', 또 다른 비밀무기 '보안'",
-        "date": "2026-02-26 11:36",
-        "link": "https://n.news.naver.com/mnews/article/629/0000476040?sid=105"
-    },
-    {
-        "title": "삼성D, '프라이버시 디스플레이' UL솔루션즈 검증 통과",
-        "date": "2026-02-26 11:34",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241860"
-    },
-    {
-        "title": "애플, 새 '성인 인증' 시스템 도입…앱 개발자 대상 배포",
-        "date": "2026-02-26 11:32",
-        "link": "https://n.news.naver.com/mnews/article/421/0008795092?sid=104"
-    },
-    {
-        "title": "LGD, OLED '휘도 유지율 100%' 입증...AI 시대 최고의 선택",
-        "date": "2026-02-26 11:30",
-        "link": "https://www.socialvalue.kr/news/view/1065579198650093"
-    },
-    {
-        "title": "“애플도 따라 할 혁신” “삼성 하드웨어의 승리” 외신들, 쏟아지는 ...",
-        "date": "2026-02-26 11:26",
-        "link": "https://n.news.naver.com/mnews/article/016/0002605536?sid=105"
-    },
-    {
-        "title": "LGD ‘OLED가 더 밝은 이유’ 국제 인증 받았다",
-        "date": "2026-02-26 11:23",
-        "link": "https://n.news.naver.com/mnews/article/016/0002605526?sid=101"
-    },
-    {
-        "title": "삼성D, '프라이버시 디스플레이' 패널 일체형 기술 완성",
-        "date": "2026-02-26 11:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634755"
-    },
-    {
-        "title": "AI 스마트 글래스에 쏠리는 시선…VR, 다시 점검대에 오르다",
-        "date": "2026-02-26 11:20",
-        "link": "https://www.itworld.co.kr/article/4137681/ai-스마트-글래스에-쏠리는-시선vr-다시-점검대에-오.html"
-    },
-    {
-        "title": "LGD, OLED '휘도 유지율 100%' 입증…픽셀 단위 디밍 성능 검증",
-        "date": "2026-02-26 11:20",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=52770"
-    },
-    {
-        "title": "LG디스플레이, OLED '휘도 유지율 100%' 업계 첫 검증",
-        "date": "2026-02-26 11:20",
-        "link": "https://www.ajunews.com/view/20260226111538447"
-    },
-    {
-        "title": "LG디스플레이, OLED '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 11:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634706"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 11:14",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=263894"
-    },
-    {
-        "title": "LGD '휘도 유지율 100%' 검증으로 OLED 우수성 입증",
-        "date": "2026-02-26 11:12",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157682"
-    },
-    {
-        "title": "[갤럭시 언팩] 노태문 사장 S26은 AI OS의 첫 출발선···가격 인상은...",
-        "date": "2026-02-26 11:08",
-        "link": "https://www.ajunews.com/view/20260226105439399"
-    },
-    {
-        "title": "'패널로 시야각 제어'…삼성D, 프라이버시 디스플레이 검증",
-        "date": "2026-02-26 11:02",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=52766"
-    },
-    {
-        "title": "선익시스템, BOE와 8.6세대 OLED 증착장비 공급 계약 체결",
-        "date": "2026-02-26 11:01",
-        "link": "https://www.newspim.com/news/view/20260226000281"
-    },
-    {
-        "title": "노태문 S26은 세계 첫 에이전틱 AI폰…AI OS로 패러다임 바꿀 것[갤럭...",
-        "date": "2026-02-26 11:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0003063301?sid=105"
-    },
-    {
-        "title": "노태문 삼성전자 사장 “구글과 AI OS 공동개발… ‘갤럭시S26’에 첫 적...",
-        "date": "2026-02-26 11:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001144566?sid=105"
-    },
-    {
-        "title": "애플 저가형 '맥북' 가격 99만원부터 시작하나?",
-        "date": "2026-02-26 11:00",
-        "link": "https://kbench.com/?q=node/276461"
-    },
-    {
-        "title": "[갤럭시 언팩] 노태문 AI 승부처는 디바이스…샘 올트먼 견해에 공감",
-        "date": "2026-02-26 11:00",
-        "link": "https://n.news.naver.com/mnews/article/629/0000475998?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, FMP 적용 OLED UL 프라이버시 인증 획득",
-        "date": "2026-02-26 10:56",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=258721"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 10:56",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157679"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 OLED '휘도 유지율 100%' 글로벌인증기관 검증...",
-        "date": "2026-02-26 10:54",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=295978"
-    },
-    {
-        "title": "LGD, 업계 최초 OLED ‘휘도 유지율 100%’ 검증",
-        "date": "2026-02-26 10:52",
-        "link": "https://n.news.naver.com/mnews/article/029/0003012802?sid=105"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED '프라이버시 디스플레이' UL 검증 통과",
-        "date": "2026-02-26 10:52",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=250343"
-    },
-    {
-        "title": "삼성디스플레이, '프라이버시 디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 10:52",
-        "link": "https://n.news.naver.com/mnews/article/215/0001243113?sid=101"
-    },
-    {
-        "title": "LG디스플레이, OLED '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:52",
-        "link": "https://n.news.naver.com/mnews/article/215/0001243122?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 업계 첫 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:52",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=250346"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 10:50",
-        "link": "https://www.ajunews.com/view/20260226104407374"
-    },
-    {
-        "title": "LG디스플레이 OLED '휘도 유지율 100%' 검증, LCD는 최저 43%",
-        "date": "2026-02-26 10:48",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=431238"
-    },
-    {
-        "title": "[MWC 2026] 옆에선 깜깜 삼성디스플레이, 사생활 보호 패널 검증 통과",
-        "date": "2026-02-26 10:46",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=249245"
-    },
-    {
-        "title": "[갤럭시 언팩] '에이전틱 AI+사생활 보호' 비결은?...퀄컴·삼성D, '갤럭...",
-        "date": "2026-02-26 10:42",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=149713"
-    },
-    {
-        "title": "LG디스플레이 더 밝고 선명한 OLED, 이유 찾았다",
-        "date": "2026-02-26 10:38",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=294319"
-    },
-    {
-        "title": "애플과 격차 벌인다… 'AI 업그레이드'한 삼성 S26, 보안·프라이버시...",
-        "date": "2026-02-26 10:38",
-        "link": "https://www.mediapen.com/news/view/1083755"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 OLED '휘도 유지율 100%' 검증…LCD 한계 규명",
-        "date": "2026-02-26 10:36",
-        "link": "https://n.news.naver.com/mnews/article/138/0002218941?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, 사생활 보호 기술 '플렉스 매직 픽셀' 국제 검증 통과",
-        "date": "2026-02-26 10:36",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=431232"
-    },
-    {
-        "title": "LG디스플레이 OLED, 업계 최초 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:34",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=108465"
-    },
-    {
-        "title": "삼성디스플레이, MWC26서 'LEAD 2.0' 전면 공개…'일체형 시야 차단 디스...",
-        "date": "2026-02-26 10:34",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=183902"
-    },
-    {
-        "title": "삼성D·LGD, UL 인증으로 OLED 경쟁력 입증…AI 시대 주도권 경쟁",
-        "date": "2026-02-26 10:32",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=113308"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 OLED '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:30",
-        "link": "https://n.news.naver.com/mnews/article/030/0003402257?sid=105"
-    },
-    {
-        "title": "LG디스플레이, OLED 휘도 유지율 100% 입증",
-        "date": "2026-02-26 10:30",
-        "link": "https://n.news.naver.com/mnews/article/031/0001008584?sid=105"
-    },
-    {
-        "title": "삼성D, 사생활 보호기술 'FMP' 적용한 OLED로 글로벌 검증 통과",
-        "date": "2026-02-26 10:29",
-        "link": "https://n.news.naver.com/mnews/article/030/0003402256?sid=105"
-    },
-    {
-        "title": "LG디스플레이 “업계 최초 OLED ‘화면 밝기 유지율 100%’ 검증”",
-        "date": "2026-02-26 10:26",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=83538"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 ‘휘도 유지율 100%’ 검증",
-        "date": "2026-02-26 10:24",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=202602260819165043a3c244e1c9_23"
-    },
-    {
-        "title": "“애플, 제발 삼성 좀 베껴라”…전 세계가 깜짝 놀란 갤S 26의 이 기능",
-        "date": "2026-02-26 10:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005642264?sid=101"
-    },
-    {
-        "title": "'자체발광' LG, '프라이버시' 삼성…디스플레이 명가, 나란히 UL솔루션즈...",
-        "date": "2026-02-26 10:17",
-        "link": "https://n.news.naver.com/mnews/article/277/0005726386?sid=101"
-    },
-    {
-        "title": "LG디플, 화면 줄여도 밝기 그대로…OLED '휘도 유지율 100% 검증",
-        "date": "2026-02-26 10:16",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4400564"
-    },
-    {
-        "title": "한국레노버, 초경량 요가 슬림 7i 울트라 아우라 에디션 등 요가 11세대...",
-        "date": "2026-02-26 10:14",
-        "link": "https://kbench.com/?q=node/276457"
-    },
-    {
-        "title": "선익시스템, 8.6세대 OLED 양산용 증착장비 공급 계약 체결...주가 모습...",
-        "date": "2026-02-26 10:12",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=497967"
-    },
-    {
-        "title": "선익시스템, 中 BOE 8.6세대 OLED 장비 수주…주당 1000원 현금배당",
-        "date": "2026-02-26 10:10",
-        "link": "https://n.news.naver.com/mnews/article/138/0002218932?sid=105"
-    },
-    {
-        "title": "LG디스플레이 OLED가 더 선명한 이유...업계 첫 휘도 유지율 100% 검증",
-        "date": "2026-02-26 10:10",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247173"
-    },
-    {
-        "title": "사생활 보호필름 이제 필요 없다… 삼성D, 옆사람 시선 완벽 차단하는...",
-        "date": "2026-02-26 10:10",
-        "link": "https://n.news.naver.com/mnews/article/138/0002218929?sid=105"
-    },
-    {
-        "title": "'적자 전환' 하이비전시스템, 작년 '실적 저점'....올해 '구조적 턴어라...",
-        "date": "2026-02-26 10:10",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=76979"
-    },
-    {
-        "title": "천재적, 애플이 따라해야…외신 극찬한 갤S26 '프라이버시 디스플레이...",
-        "date": "2026-02-26 10:07",
-        "link": "https://n.news.naver.com/mnews/article/277/0005726379?sid=105"
-    },
-    {
-        "title": "옆에서 1%도 안보인다 삼성D, 사생활보호 OLED로 UL솔루션즈 검증통과",
-        "date": "2026-02-26 10:06",
-        "link": "https://www.catchnews.kr/news/articleView.html?idxno=121045"
-    },
-    {
-        "title": "삼성D·LGD, OLED 성능 검증 성공…기술 경쟁력 입증(종합)",
-        "date": "2026-02-26 10:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006225079?sid=101"
-    },
-    {
-        "title": "LGD, OLED 휘도 유지율 100% 검증 성공…업계 최초",
-        "date": "2026-02-26 10:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006225077?sid=101"
-    },
-    {
-        "title": "LG디스플레이 '휘도 유지율 100%' 업계 첫 검증 … 화면 줄여도 밝기 그...",
-        "date": "2026-02-26 10:02",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/26/2026022600077.html"
-    },
-    {
-        "title": "LG디스플레이 OLED, 업계 최초 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002411962?sid=105"
-    },
-    {
-        "title": "“OLED가 더 밝은 이유 입증”…LGD, 업계 첫 ‘휘도 유지율’ 100% 달성",
-        "date": "2026-02-26 10:01",
-        "link": "https://n.news.naver.com/mnews/article/016/0002605393?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 ‘OLED 휘도 유지율 100%’ 우수성 검증",
-        "date": "2026-02-26 10:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0003063244?sid=101"
-    },
-    {
-        "title": "OLED가 LCD보다 선명한 이유는?…LG디스플레이가 검증했다",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241785"
-    },
-    {
-        "title": "OLED 앞세운 'K-디스플레이', 프라이버시·휘도 글로벌 검증 획득",
-        "date": "2026-02-26 10:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005322609?sid=101"
-    },
-    {
-        "title": "LG디스플레이 OLED, 업계 최초 '화면 밝기 유지율 100%' 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008794535?sid=101"
-    },
-    {
-        "title": "LG디스플레이, OLED가 더 선명한 이유 찾았다… '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700887"
-    },
-    {
-        "title": "LG디스플레이, 업계 첫 '휘도 유지율 100%' 글로벌 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=55382"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.newspim.com/news/view/20260226000282"
-    },
-    {
-        "title": "LG디스플레이, OLED 휘도 유지율 100% 검증…더 밝은 이유 찾았다",
-        "date": "2026-02-26 10:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013789379?sid=101"
-    },
-    {
-        "title": "밝고 선명한 이유 있었네…LG디스플레이, '휘도 유지율 100%' 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1340661"
-    },
-    {
-        "title": "LG디스플레이, OLED '휘도 유지율 100%' 성능 입증",
-        "date": "2026-02-26 10:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0015925685?sid=101"
-    },
-    {
-        "title": "LG디스플레이, UL솔루션즈로부터 '휘도 유지율 100%' 검증 받아",
-        "date": "2026-02-26 10:00",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=197383"
-    },
-    {
-        "title": "LG디스플레이, 업계 최초 ‘휘도 유지율 100%’ 검증",
-        "date": "2026-02-26 10:00",
-        "link": "https://www.etoday.co.kr/news/view/2559843"
-    },
-    {
-        "title": "애플이 망설일 때 삼성, 선 넘었다…샌프란시스코 홀린 'AI 에이전트 초...",
-        "date": "2026-02-26 09:58",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=249227"
-    },
-    {
-        "title": "애플, 프라이버시 디스플레이는 따라하자 갤S26에 외신 '호평'",
-        "date": "2026-02-26 09:56",
-        "link": "https://n.news.naver.com/mnews/article/003/0013789360?sid=105"
-    },
-    {
-        "title": "[Galaxy Unpacked 2026] Beyond Search — Samsung Galaxy S26 Redefines A...",
-        "date": "2026-02-26 09:56",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3378896"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED로 '프라이버시 디스플레이' 검증",
-        "date": "2026-02-26 09:50",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708436"
-    },
-    {
-        "title": "한국레노버, 975g 초경량 프리미엄 노트북 요가 신제품 4종 출시",
-        "date": "2026-02-26 09:50",
-        "link": "https://www.cnet.co.kr/view/?no=20260226094851"
-    },
-    {
-        "title": "삼성D, FMP 적용한 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:48",
-        "link": "http://www.datanews.co.kr/news/article.html?no=143532"
-    },
-    {
-        "title": "SDC, FMP 적용 OLED로 프라이버시 디스플레이 국제 검증 통과",
-        "date": "2026-02-26 09:46",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=731037"
-    },
-    {
-        "title": "삼성디스플레이, 사생활 보호 '디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 09:46",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=289336"
-    },
-    {
-        "title": "브리티시엠 탈모 증상 완화 돕는 애플 민트 샴푸 출시",
-        "date": "2026-02-26 09:46",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202602260943581901204ead0791_12"
-    },
-    {
-        "title": "스마트폰 사생활 보호 제대로 되네 삼성D, 글로벌 검증 통과",
-        "date": "2026-02-26 09:45",
-        "link": "https://n.news.naver.com/mnews/article/014/0005483138?sid=101"
-    },
-    {
-        "title": "“옆에서 안 보여”…삼성디스플레이, ‘프라이버시’ 기술 검증",
-        "date": "2026-02-26 09:44",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1292553&inflow=N"
-    },
-    {
-        "title": "[갤럭시 언팩] 삼성전자, AI폰 흥행 '한번 더' 도전…가격·자체 AP 관건",
-        "date": "2026-02-26 09:42",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=295966"
-    },
-    {
-        "title": "삼성디스플레이, 사생활 보호 화면 기술 UL 검증 통과",
-        "date": "2026-02-26 09:42",
-        "link": "https://n.news.naver.com/mnews/article/016/0002605360?sid=101"
-    },
-    {
-        "title": "브리티시엠, ‘애플 민트 샴푸’ 출시",
-        "date": "2026-02-26 09:40",
-        "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=323787"
-    },
-    {
-        "title": "아이폰17e부터 M5 맥북프로까지…애플 신제품 공개 임박",
-        "date": "2026-02-26 09:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634693"
-    },
-    {
-        "title": "삼성디스플레이, 사생활 보호 ‘프라이버시 디스플레이’ 국제 검증 통...",
-        "date": "2026-02-26 09:36",
-        "link": "https://www.ceoscoredaily.com/page/view/2026022609312184869"
-    },
-    {
-        "title": "삼성디스플레이, '플렉스 매직 픽셀' UL 프라이버시 인증 통과",
-        "date": "2026-02-26 09:36",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125930"
-    },
-    {
-        "title": "삼성D, '갤S26울트라' 첫 적용 사생활보호기술…글로벌 검증 통과",
-        "date": "2026-02-26 09:36",
-        "link": "https://www.smarttoday.co.kr/ko-kr/articles/103766"
-    },
-    {
-        "title": "선익시스템, OLED 수주 확대·현금배당…성장·주주환원 병행",
-        "date": "2026-02-26 09:34",
-        "link": "https://theviewers.co.kr/View.aspx?No=3985126"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:30",
-        "link": "https://thetracker.co.kr/View.aspx?No=3985143"
-    },
-    {
-        "title": "삼성전자, 능동형 AI '갤럭시 S26' 공개...엑시노스·구독 모델 시험대",
-        "date": "2026-02-26 09:30",
-        "link": "https://hbnpress.com/news/view/1065571630088534"
-    },
-    {
-        "title": "삼성D FMP OLED, '프라이버시 디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 09:24",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432435"
-    },
-    {
-        "title": "삼성D, 프라이버시 디스플레이 국제 인증 통과",
-        "date": "2026-02-26 09:24",
-        "link": "https://www.g-enews.com/view.php?ud=2026022609093359846ed0c62d49_1"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:22",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340043"
-    },
-    {
-        "title": "“애플이 삼성 혁신 기술 따라 해야 한다”…외신들, 갤S26 ‘프라이버시...",
-        "date": "2026-02-26 09:21",
-        "link": "https://n.news.naver.com/mnews/article/016/0002605311?sid=105"
-    },
-    {
-        "title": "삼성D, FMP 적용한 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:19",
-        "link": "https://n.news.naver.com/mnews/article/092/0002411940?sid=105"
-    },
-    {
-        "title": "삼성D, FMP 적용한 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:16",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/02/26/2026022600074.html"
-    },
-    {
-        "title": "삼성디스플레이, FMP 적용 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:14",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571934718570"
-    },
-    {
-        "title": "스마트폰 렌즈의 '심장' 잡았다…재영솔루텍, 독보적 구동 기술로 승부...",
-        "date": "2026-02-26 09:14",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432425"
-    },
-    {
-        "title": "삼성D, 갤S26에 처음 적용한 사생활 보호기술…UL 검증 통과",
-        "date": "2026-02-26 09:14",
-        "link": "https://n.news.naver.com/mnews/article/055/0001335866?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 갤S26에 적용한 '사생활 보호기술' 국제 검증 통과",
-        "date": "2026-02-26 09:13",
-        "link": "https://n.news.naver.com/mnews/article/119/0003063175?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, FMP OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:10",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=125117"
-    },
-    {
-        "title": "삼성D, FMP OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:10",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=197372"
-    },
-    {
-        "title": "3세대 갤럭시 AI폰 출격...어떤게 달라졌나",
-        "date": "2026-02-26 09:10",
-        "link": "https://n.news.naver.com/mnews/article/658/0000136293?sid=101"
-    },
-    {
-        "title": "브리티시엠, 신제품 ‘애플 민트 샴푸’ 출시",
-        "date": "2026-02-26 09:08",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=20260226090556215446a9e4dd7f_30"
-    },
-    {
-        "title": "삼성D, 갤S26에 처음 적용한 사생활 보호기술…UL 검증 통과",
-        "date": "2026-02-26 09:03",
-        "link": "https://n.news.naver.com/mnews/article/001/0015925275?sid=101"
-    },
-    {
-        "title": "삼성D, FMP 적용한 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 09:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=202602260754115685a3c244e1c9_23"
-    },
-    {
-        "title": "삼성디스플레이, 사생활 보호 '디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 08:52",
-        "link": "https://n.news.naver.com/mnews/article/003/0013789043?sid=101"
-    },
-    {
-        "title": "2월 25일 주식시장 주요공시",
-        "date": "2026-02-26 08:50",
-        "link": "https://www.catchnews.kr/news/articleView.html?idxno=121035"
-    },
-    {
-        "title": "삼성D FMP OLED, 프라이버시 디스플레이 검증 통과",
-        "date": "2026-02-26 08:49",
-        "link": "https://n.news.naver.com/mnews/article/029/0003012747?sid=101"
-    },
-    {
-        "title": "애플, 브라질서 또 벌금…아이폰 충전기 미포함 제재",
-        "date": "2026-02-26 08:48",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634633"
-    },
-    {
-        "title": "삼성D, '사생활 보호 기술 FMP' 적용 OLED 국제 검증 통과",
-        "date": "2026-02-26 08:46",
-        "link": "https://n.news.naver.com/mnews/article/417/0001131537?sid=101"
-    },
-    {
-        "title": "삼성D, FMP OLED ‘프라이버시 디스플레이’ 검증 통과",
-        "date": "2026-02-26 08:42",
-        "link": "https://n.news.naver.com/mnews/article/018/0006224914?sid=101"
-    },
-    {
-        "title": "삼성D 스마트폰용 프라이버시 디스플레이, UL솔루션즈 검증 통과",
-        "date": "2026-02-26 08:40",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=622165"
-    },
-    {
-        "title": "잡스 생일 다음날 '갤S26' 출시…그의 평가는 어땠을까[모닝폰]",
-        "date": "2026-02-26 08:39",
-        "link": "https://n.news.naver.com/mnews/article/018/0006224909?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, FMP 품은 OLED '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 08:38",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1340653"
-    },
-    {
-        "title": "삼성, ‘갤럭시 버즈4’ 공개⋯AI 더한 역대 최고 음질 승부수",
-        "date": "2026-02-26 08:38",
-        "link": "https://www.viva100.com/article/20260226500083"
-    },
-    {
-        "title": "삼성D, '프라이버시 디스플레이' UL 솔루션즈 인증",
-        "date": "2026-02-26 08:36",
-        "link": "https://www.newspim.com/news/view/20260226000090"
-    },
-    {
-        "title": "'갤S26 울트라' 프라이버시 디스플레이 '사생활 보호' 검증 통과",
-        "date": "2026-02-26 08:34",
-        "link": "https://n.news.naver.com/mnews/article/421/0008794151?sid=101"
-    },
-    {
-        "title": "“공공장소에서 사생활 보호”⋯ 삼성D, ‘프라이버시 디스플레이’ 기...",
-        "date": "2026-02-26 08:32",
-        "link": "https://www.viva100.com/article/20260226500063"
-    },
-    {
-        "title": "‘3세대 AI폰’ 갤럭시 S26 베일 벗다… 외신 프라이버시 디스플레이, ...",
-        "date": "2026-02-26 08:28",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20260226010007809"
-    },
-    {
-        "title": "삼성디스플레이, ‘프라이버시 OLED’ 검증 통과…AI 시대 개인정보 보...",
-        "date": "2026-02-26 08:26",
-        "link": "https://www.etoday.co.kr/news/view/2559733"
-    },
-    {
-        "title": "삼성디스플레이, ‘프라이버시 디스플레이’ UL솔루션즈 검증 통과",
-        "date": "2026-02-26 08:21",
-        "link": "https://n.news.naver.com/mnews/article/366/0001144476?sid=105"
-    },
-    {
-        "title": "선익시스템, 대형 OLED 수주 확대·현금배당…성장과 주주가치 동시 강...",
-        "date": "2026-02-26 08:16",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=694922"
-    },
-    {
-        "title": "갤럭시26이 던진 새 해답…제미나이가 '당신'을 대신합니다[영상]",
-        "date": "2026-02-26 08:12",
-        "link": "https://n.news.naver.com/mnews/article/079/0004119073?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, '프라이버시 디스플레이' 국제 검증 통과",
-        "date": "2026-02-26 08:10",
-        "link": "https://n.news.naver.com/mnews/article/031/0001008479?sid=105"
-    },
-    {
-        "title": "삼성D, FMP 적용 OLED로 ‘프라이버시 디스플레이’ 검증 통과",
-        "date": "2026-02-26 08:06",
-        "link": "https://www.ekn.kr/web/view.php?key=20260226024522953"
-    },
-    {
-        "title": "애플, 맥북 프로에 '다이내믹 아일랜드' 도입 추진…터치스크린도 탑재...",
-        "date": "2026-02-26 08:02",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541892"
-    },
-    {
-        "title": "삼성D, FMP 적용한 OLED로 '프라이버시 디스플레이' 검증 통과",
-        "date": "2026-02-26 07:56",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241779"
-    },
-    {
-        "title": "삼성, 갤럭시 S26 공개…알아서 돕는 'AI'",
-        "date": "2026-02-26 07:52",
-        "link": "https://n.news.naver.com/mnews/article/057/0001937071?sid=101"
-    },
-    {
-        "title": "브리티시엠, 두피 건강케어 '애플 민트 샴푸' 출시",
-        "date": "2026-02-26 07:48",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=719497"
-    },
-    {
-        "title": "‘나만의 AI 비서’ 갤럭시S26 공개…노태문 “AI가 알아서 챙겨주는 ‘...",
-        "date": "2026-02-26 07:20",
-        "link": "https://www.ceoscoredaily.com/page/view/2026022515424855701"
-    },
-    {
-        "title": "비에이치, 폴더블 아이폰 모멘텀 '본격화'…IT OLED 사업 정상 가동으로...",
-        "date": "2026-02-26 07:10",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=725407"
     }
 ]
