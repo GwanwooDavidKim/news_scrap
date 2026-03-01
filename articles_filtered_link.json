@@ -1,5 +1,395 @@
 [
     {
+        "title": "삼성전자, MWC26서 갤럭시 AI 생태계 네트워크 혁신 기술 공개",
+        "date": "2026-03-01 13:56",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1341575"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI 경험과 기술 혁신 공개",
+        "date": "2026-03-01 13:52",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000092551"
+    },
+    {
+        "title": "[MWC 2026] 스마트폰 넘어 공장·병원까지… 삼성전자, 'AI 영토' 확장",
+        "date": "2026-03-01 13:48",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=249539"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S26 기반 AI ·네트워크 혁신 기술 전시 [MWC 2026]",
+        "date": "2026-03-01 13:26",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157893"
+    },
+    {
+        "title": "애플 “딱 기다려라 삼성” 3일 동안 신제품 5개 낸다...아이폰·맥북 ‘...",
+        "date": "2026-03-01 13:06",
+        "link": "https://n.news.naver.com/mnews/article/011/0004594627?sid=105"
+    },
+    {
+        "title": "[MWC26] 삼성전자, '갤럭시 S26 시리즈'로 확장된 생태계 체험",
+        "date": "2026-03-01 13:04",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=349621"
+    },
+    {
+        "title": "[MWC2026] '갤럭시 AI' 전면에…삼성전자, S26부터 AI 네트워크까지 총공...",
+        "date": "2026-03-01 13:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2108316"
+    },
+    {
+        "title": "알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개",
+        "date": "2026-03-01 12:54",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=207421"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 역대 최고 카메라 체험 제공",
+        "date": "2026-03-01 12:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=541982"
+    },
+    {
+        "title": "삼성전자, MWC26 참가...'갤럭시 AI' 기반 기술 혁신 선봬",
+        "date": "2026-03-01 12:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=433201"
+    },
+    {
+        "title": "[MWC 2026] 삼성전자, 갤럭시 AI로 연결되는 생태계 경험·네트워크 혁신...",
+        "date": "2026-03-01 12:35",
+        "link": "https://n.news.naver.com/mnews/article/366/0001145186?sid=105"
+    },
+    {
+        "title": "[MWC26] 삼성전자, 갤럭시 AI 총망라…갤럭시 S26부터 XR·트라이폴드까...",
+        "date": "2026-03-01 12:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=731472"
+    },
+    {
+        "title": "“개발만 5년” 삼성 S26 프라이버시 디스플레이…특허로 진입장벽까지",
+        "date": "2026-03-01 12:09",
+        "link": "https://n.news.naver.com/mnews/article/020/0003700488?sid=105"
+    },
+    {
+        "title": "삼성이 선택한 유티아이, '플래그십 모델' 탑재로 기술력 입증",
+        "date": "2026-03-01 12:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=433188"
+    },
+    {
+        "title": "[MWC26] 삼성전자, 갤럭시 AI 경험과 기술 혁신 선보여",
+        "date": "2026-03-01 12:02",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=81862"
+    },
+    {
+        "title": "삼성전자, 스페인 MWC서 '갤럭시 S26' AI 혁신 전면에",
+        "date": "2026-03-01 11:52",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4401084"
+    },
+    {
+        "title": "삼성전자, MWC26서 '갤럭시 S26' 중심 AI 경험 공개",
+        "date": "2026-03-01 11:48",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3379925"
+    },
+    {
+        "title": "[위클리템] 삼성전자, 에이전틱 AI 탑재 '갤럭시 S26' 및 실용성 높인 '...",
+        "date": "2026-03-01 11:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219174?sid=105"
+    },
+    {
+        "title": "옆에서도, 뒤에서도 안 보여… 갤럭시 S26 ‘프라이버시 디스플레이’ ...",
+        "date": "2026-03-01 11:16",
+        "link": "https://n.news.naver.com/mnews/article/469/0000916931?sid=104"
+    },
+    {
+        "title": "[일문일답]5년 고생 끝에 '이 기능'…갤S26 출시에 '만세' 불러",
+        "date": "2026-03-01 11:08",
+        "link": "https://n.news.naver.com/mnews/article/277/0005727682?sid=105"
+    },
+    {
+        "title": "“애플, 따라올 테면 따라와 봐”…삼성, 갤S26 ‘프라이버시 디스플레...",
+        "date": "2026-03-01 11:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006226585?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 외신 애플도 도입해야…S26울트라 '프라이버시 디스플...",
+        "date": "2026-03-01 11:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000476884?sid=105"
+    },
+    {
+        "title": "울트라 최초 7㎜대…갤럭시S26 하드웨어 기술력도 '초격차'",
+        "date": "2026-03-01 11:01",
+        "link": "https://n.news.naver.com/mnews/article/079/0004120027?sid=101"
+    },
+    {
+        "title": "갤S26 '프라이버시 디스플레이'…애플이 따라해야 호평 쏟아졌다",
+        "date": "2026-03-01 11:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003506022?sid=101"
+    },
+    {
+        "title": "문성훈 삼성전자 부사장 “‘프라이버시 디스플레이’ 경쟁사 모방 어려...",
+        "date": "2026-03-01 11:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001145178?sid=105"
+    },
+    {
+        "title": "필름 붙이면 되는데, 왜?…삼성이 '프라이버시 디스플레이' 5년간 매달...",
+        "date": "2026-03-01 11:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026030107450520381"
+    },
+    {
+        "title": "옆 사람 폰 다 보이는데 메신저는 안 보이네…갤S26 울트라 화면의 비...",
+        "date": "2026-03-01 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013794607?sid=105"
+    },
+    {
+        "title": "애플도 따라하기 어렵다…삼성전자 “프라이버시 디스플레이 특허 대거...",
+        "date": "2026-03-01 11:00",
+        "link": "https://www.etoday.co.kr/news/view/2560772"
+    },
+    {
+        "title": "갤럭시 S26 울트라, 역대급 하드웨어…AI 초격차 견인",
+        "date": "2026-03-01 11:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001243467?sid=101"
+    },
+    {
+        "title": "애플, 절대 못 베낀다...모두가 놀란 갤S26, '이 기능' 자신하는 이유",
+        "date": "2026-03-01 11:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005323821?sid=105"
+    },
+    {
+        "title": "남들 쉽게 따라할 수 없다 S26 울트라 '사생활 철통 보안'의 비밀 [갤...",
+        "date": "2026-03-01 11:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064224?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성전자 '5년 집념' 통했다…'프라이버시 디스플레이' 승...",
+        "date": "2026-03-01 11:00",
+        "link": "https://www.newspim.com/news/view/20260227000013"
+    },
+    {
+        "title": "삼성전자, MWC 갤럭시 S26 필두로 AI 경험 혁신 선보인다",
+        "date": "2026-03-01 10:52",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026030110442257627de3572ddd_18"
+    },
+    {
+        "title": "삼성전자, MWC서 '갤럭시 S26'으로 확장된 AI 기술 공개",
+        "date": "2026-03-01 10:48",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064221?sid=101"
+    },
+    {
+        "title": "이번에는 바르셀로나…'갤럭시 AI' 영토 확장 나선 삼성 [MWC 2026]",
+        "date": "2026-03-01 10:32",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064216?sid=105"
+    },
+    {
+        "title": "“내 마음을 읽는 갤럭시” 삼성, MWC26서 능동형 ‘에이전틱 AI’ 무대...",
+        "date": "2026-03-01 10:28",
+        "link": "https://n.news.naver.com/mnews/article/009/0005643590?sid=105"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI 생태계 선보인다",
+        "date": "2026-03-01 10:20",
+        "link": "https://www.ajunews.com/view/20260301101325984"
+    },
+    {
+        "title": "스펙보다 '동선·보안' … 삼성, MWC26서 S26 '프라이버시 디스플레이' ...",
+        "date": "2026-03-01 10:18",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/01/2026030100035.html"
+    },
+    {
+        "title": "삼성전자, MWC26서 ‘갤럭시 AI 생태계’ 등판… XR·트라이폴드 공개",
+        "date": "2026-03-01 10:12",
+        "link": "https://n.news.naver.com/mnews/article/666/0000097691?sid=101"
+    },
+    {
+        "title": "삼성전자, 스페인 MWC26서 '갤럭시 S26' 등 모바일 제품 출격",
+        "date": "2026-03-01 10:04",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832631"
+    },
+    {
+        "title": "삼성전자, MWC26에서 '갤럭시 AI' 생태계 선보인다",
+        "date": "2026-03-01 10:02",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=355841"
+    },
+    {
+        "title": "K-미래 기술 한 자리에..삼성전자·통신 3사, 바르셀로나 MWC26로 집결",
+        "date": "2026-03-01 10:02",
+        "link": "https://kpenews.com/View.aspx?No=3988403"
+    },
+    {
+        "title": "삐아, 3월 올영세일 맞아 ‘누디 슬림 아이라이너·애플 에디션’ 최대...",
+        "date": "2026-03-01 10:01",
+        "link": "https://n.news.naver.com/mnews/article/396/0000736914?sid=103"
+    },
+    {
+        "title": "삐아, 3월 올영세일 기간 '누디 슬림 아이라이너·애플 에디션' 할인 진...",
+        "date": "2026-03-01 10:00",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=328224"
+    },
+    {
+        "title": "삼성전자, MWC26서 '초연결 갤럭시 AI' 공개",
+        "date": "2026-03-01 09:59",
+        "link": "https://n.news.naver.com/mnews/article/055/0001336616?sid=101"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 'AI 경험과 기술 혁신' 선봬",
+        "date": "2026-03-01 09:40",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=592411"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI로 생태계·네트워크 혁신 비전 제시",
+        "date": "2026-03-01 09:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=294592"
+    },
+    {
+        "title": "삼성전자, MWC서 '갤럭시 S26' 전면에...AI 생태계 확장",
+        "date": "2026-03-01 09:34",
+        "link": "https://www.newspim.com/news/view/20260301000035"
+    },
+    {
+        "title": "[갤럭시 vs 아이폰 폴더블] 엑시노스 2600, '발열의 굴레' 끊어냈다…폴...",
+        "date": "2026-03-01 09:32",
+        "link": "https://www.g-enews.com/view.php?ud=202603010912112600fbbec65dfb_1"
+    },
+    {
+        "title": "[MWC26-개막] 삼성, '갤S26' 앞세워 AI활용 직접체험",
+        "date": "2026-03-01 09:30",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2197278"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI·차세대 네트워크 공개",
+        "date": "2026-03-01 09:20",
+        "link": "https://n.news.naver.com/mnews/article/422/0000839094?sid=101"
+    },
+    {
+        "title": "삼성전자, MWC26서 '갤럭시 AI' 경험 소개",
+        "date": "2026-03-01 09:12",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1341297"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시S26 중심 AI 경험 공개",
+        "date": "2026-03-01 09:03",
+        "link": "https://n.news.naver.com/mnews/article/029/0003013158?sid=105"
+    },
+    {
+        "title": "애플 납품할 장비 기술 中 유출한 일당… 대법 “영업비밀 누설도 처벌...",
+        "date": "2026-03-01 09:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001145164?sid=102"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI 생태계 및 기술 혁신 공개",
+        "date": "2026-03-01 09:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=242135"
+    },
+    {
+        "title": "생각하는 스마트폰 등장…팔 달린 '로봇폰'도 눈길[미리보는 MWC26③]",
+        "date": "2026-03-01 09:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013794396?sid=105"
+    },
+    {
+        "title": "삼성전자, MWC26에서 갤럭시 AI 경험과 기술 혁신 선보여...더욱 확장된...",
+        "date": "2026-03-01 08:56",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=429308"
+    },
+    {
+        "title": "삼성전자, MWC26에서 갤럭시 AI 경험과 기술 혁신 선보여",
+        "date": "2026-03-01 08:52",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=73561"
+    },
+    {
+        "title": "[MWC26] 삼성전자, 갤럭시 AI 생태계 알린다…네트워크 혁신기술도 전시",
+        "date": "2026-03-01 08:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403031?sid=105"
+    },
+    {
+        "title": "삼성전자, 'MWC26'에서 갤럭시 AI 경험과 기술 혁신 선 봬",
+        "date": "2026-03-01 08:22",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=113636"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI·차세대 네트워크 공개...갤럭시 S26울트라...",
+        "date": "2026-03-01 08:08",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=197752"
+    },
+    {
+        "title": "[MWC 2026] 삼성전자, 갤럭시 S26 중심 AI 생태계 공개",
+        "date": "2026-03-01 08:06",
+        "link": "https://dealsite.co.kr/articles/157680"
+    },
+    {
+        "title": "AI폰 우리가 정점…삼성전자, MWC26 갤럭시AI 생태계 뽐낸다",
+        "date": "2026-03-01 08:05",
+        "link": "https://n.news.naver.com/mnews/article/417/0001132039?sid=105"
+    },
+    {
+        "title": "갤럭시AI의 미래...삼성전자, 모바일 혁신 확장",
+        "date": "2026-03-01 08:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002412353?sid=105"
+    },
+    {
+        "title": "[MWC26] 삼성전자 '갤럭시 AI' 혁신 총공세 …미래 청사진 제시",
+        "date": "2026-03-01 08:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=635848"
+    },
+    {
+        "title": "언팩 이어 MWC26…삼성전자 '갤럭시 S26' AI 판 키운다",
+        "date": "2026-03-01 08:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006226526?sid=105"
+    },
+    {
+        "title": "갤럭시 AI·생태계 확장…삼성전자, 언팩 이어 MWC ‘출격’",
+        "date": "2026-03-01 08:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002606717?sid=105"
+    },
+    {
+        "title": "'갤럭시AI' 체험 공간 MWC에 뜬다…에이전틱 AI 전략 공개",
+        "date": "2026-03-01 08:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005484333?sid=105"
+    },
+    {
+        "title": "[MWC26] MWC26 개막...SKT·KT·LG유플러스·삼성전자·LG전자·삼성D, 볼...",
+        "date": "2026-03-01 08:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=149797"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 AI·차세대 네트워크 공개",
+        "date": "2026-03-01 08:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015930777?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S26으로 확장된 갤럭시 AI 생태계 선보인다",
+        "date": "2026-03-01 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008799613?sid=105"
+    },
+    {
+        "title": "[MWC26]막 오르는 세계 최대 통신 전시회…AI·네트워크 혁신 한 자리에",
+        "date": "2026-03-01 08:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005727601?sid=105"
+    },
+    {
+        "title": "삼성 vs 샤오미…상반기 스마트폰 왕좌 주인은",
+        "date": "2026-03-01 07:56",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=695340"
+    },
+    {
+        "title": "IT OLED 투자 열풍 타고 기지개… 아이씨디, 식각 장비 국산화로 승부수",
+        "date": "2026-03-01 07:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=433160"
+    },
+    {
+        "title": "샤오미, 'Xiaomi 17 시리즈'→獨라이카 협업 '라이츠폰' 공개",
+        "date": "2026-03-01 07:24",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=720271"
+    },
+    {
+        "title": "[MWC 2026] 샤오미, 17 시리즈 출격...구글 AI·애플 호환성 동시 강화",
+        "date": "2026-03-01 07:06",
+        "link": "https://www.ajunews.com/view/20260301065850929"
+    },
+    {
+        "title": "필름 떼고 배터리 붙였다... 신화인터텍, 이차전지 소재 기업 변신",
+        "date": "2026-03-01 06:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=433152"
+    },
+    {
+        "title": "[초점] 삼성 35% vs 애플 27%…정체된 유럽서 더 치열해진 스마트폰 양강...",
+        "date": "2026-03-01 05:02",
+        "link": "https://www.g-enews.com/view.php?ud=2026022817270076619a1f309431_1"
+    },
+    {
         "title": "옆에선 안 보이고 피싱은 AI가 차단… 삼성, 스튜디오 운영 [갤럭시 S26 ...",
         "date": "2026-03-01 04:13",
         "link": "https://n.news.naver.com/mnews/article/119/0003064175?sid=105"
@@ -30,14 +420,14 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002219143?sid=105"
     },
     {
-        "title": "필립스, 삼성 QD-OLED와 240Hz를 결합한 프리미엄 게이밍 모니터 에브니...",
-        "date": "2026-02-28 14:04",
-        "link": "http://www.technoa.co.kr/news/articleView.html?idxno=100606"
-    },
-    {
         "title": "한국레노버, QD-OLED 플래그십 리전 프로 게이밍 모니터 출시",
         "date": "2026-02-28 14:04",
         "link": "http://www.technoa.co.kr/news/articleView.html?idxno=100614"
+    },
+    {
+        "title": "필립스, 삼성 QD-OLED와 240Hz를 결합한 프리미엄 게이밍 모니터 에브니...",
+        "date": "2026-02-28 14:04",
+        "link": "http://www.technoa.co.kr/news/articleView.html?idxno=100606"
     },
     {
         "title": "가장 평평한 폴더블폰…中 오포, ‘파인드 N6’ 출격 예고",
