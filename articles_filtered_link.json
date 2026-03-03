@@ -1,5 +1,520 @@
 [
     {
+        "title": "애플, 보급형 '아이폰 17e' 공개…신규 AI도 출격 대기",
+        "date": "2026-03-03 13:54",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403641?sid=105"
+    },
+    {
+        "title": "필립스, 120Hz 고주사율과 멀티스탠드 적용 비즈니스 24인치 모니터 '24B...",
+        "date": "2026-03-03 13:48",
+        "link": "https://gamefocus.co.kr/detail.php?number=173917"
+    },
+    {
+        "title": "애플, A19 칩 탑재 아이폰17e 공개…출고가 인하",
+        "date": "2026-03-03 13:36",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352570"
+    },
+    {
+        "title": "늘려도 밝기 변하지 않는 OLED 기술 개발",
+        "date": "2026-03-03 13:36",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202603031103522465"
+    },
+    {
+        "title": "카이스트, 늘려도 밝기 유지하는 신축성 OLED 구현",
+        "date": "2026-03-03 13:18",
+        "link": "https://n.news.naver.com/mnews/article/366/0001145493?sid=105"
+    },
+    {
+        "title": "KAIST, 늘려도 선명한 '스트레처블 OLED' 구현",
+        "date": "2026-03-03 13:12",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=402750"
+    },
+    {
+        "title": "'가성비 끝판왕' 입소문 나더니…애플·삼성 다 제쳤다 [테크로그]",
+        "date": "2026-03-03 13:05",
+        "link": "https://n.news.naver.com/mnews/article/015/0005257394?sid=105"
+    },
+    {
+        "title": "홍대서 만난 갤럭시 S26, 카메라·AI에 놀라다 [르포]",
+        "date": "2026-03-03 12:48",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=181020"
+    },
+    {
+        "title": "올해 '고액 납세의 탑' 5곳…역대 수상 기업은?",
+        "date": "2026-03-03 12:26",
+        "link": "https://www.taxtimes.co.kr/news/article.html?no=274100"
+    },
+    {
+        "title": "﻿﻿이제 본격적으로 코나아이, 글로벌 메탈카드 양강 입증",
+        "date": "2026-03-03 12:22",
+        "link": "https://www.mhj21.com/news/articleView.html?idxno=250772"
+    },
+    {
+        "title": "삼성D, MWC26서 ‘AI 맞춤 OLED’ 공개…사생활 보호 기술 전면에 [MWC26]",
+        "date": "2026-03-03 12:06",
+        "link": "https://www.kukinews.com/article/view/kuk202603030128"
+    },
+    {
+        "title": "삼성전자 만난 SKT·LGU+ 수장들…끈끈한 'AI 동맹'",
+        "date": "2026-03-03 11:57",
+        "link": "https://n.news.naver.com/mnews/article/374/0000495425?sid=101"
+    },
+    {
+        "title": "코닝, '고릴라 글래스 세라믹 3' 공개…모토로라 차세대 폴더블에 적용",
+        "date": "2026-03-03 11:50",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=52950"
+    },
+    {
+        "title": "피부에 붙이는 디스플레이 상용화 앞당긴다…늘려도 선명한 OLED 개발",
+        "date": "2026-03-03 11:48",
+        "link": "https://n.news.naver.com/mnews/article/584/0000036592?sid=105"
+    },
+    {
+        "title": "애플, AI 강화 보급형 아이폰 17e 출시",
+        "date": "2026-03-03 11:46",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000025042"
+    },
+    {
+        "title": "에이서, 11번가 '월간 십일절'서 니트로 18 AI 게이밍 노트북 최대 31% 할...",
+        "date": "2026-03-03 11:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=173912"
+    },
+    {
+        "title": "애플, 2026 봄 액세서리 컬렉션 발표…신규 색상 추가",
+        "date": "2026-03-03 11:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636145"
+    },
+    {
+        "title": "“고무처럼 쭉 늘려도 선명한 OLED 구현 성공”",
+        "date": "2026-03-03 11:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002607498?sid=105"
+    },
+    {
+        "title": "애플, ‘아이폰 17e’ 공개…256GB 기본 99만원부터",
+        "date": "2026-03-03 11:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006227429?sid=105"
+    },
+    {
+        "title": "LG이노텍, 역대 최고 배당성향 '착시'…배당금 3년째 내리막",
+        "date": "2026-03-03 11:36",
+        "link": "https://n.news.naver.com/mnews/article/293/0000080151?sid=101"
+    },
+    {
+        "title": "삼성 이어 샤오미·애플도 신제품 내놨다…불붙은 스마트폰 경쟁",
+        "date": "2026-03-03 11:31",
+        "link": "https://n.news.naver.com/mnews/article/629/0000477274?sid=105"
+    },
+    {
+        "title": "애플, 아이폰 17e·M4 탑재 아이패드 에어 공개...4일부터 사전 주문",
+        "date": "2026-03-03 11:30",
+        "link": "https://n.news.naver.com/mnews/article/014/0005485277?sid=105"
+    },
+    {
+        "title": "애플, 보급형 아이폰17e·M4칩 아이패드에어 공개…AI 성능강화",
+        "date": "2026-03-03 11:26",
+        "link": "https://www.kbsm.net/news/view.php?idx=510243"
+    },
+    {
+        "title": "삼성전자, MWC26서 '갤럭시 AI' 전면 공개…S26부터 네트워크까지 AI 확장",
+        "date": "2026-03-03 11:22",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=263589"
+    },
+    {
+        "title": "[MWC26] 삼성전자, 가우디의 도시서 '갤럭시 AI' 예술 그렸다",
+        "date": "2026-03-03 11:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=731619"
+    },
+    {
+        "title": "KAIST, 액체 금속 기술로 늘려도 선명한 '신축성 OLED' 구현",
+        "date": "2026-03-03 11:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0015933998?sid=101"
+    },
+    {
+        "title": "용량 2배, 가격은 그대로…애플, 아이폰 17e·아이패드 에어 공개",
+        "date": "2026-03-03 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005728374?sid=105"
+    },
+    {
+        "title": "애플, 'M4칩·AI 특화' 신형 아이패드 에어 공개",
+        "date": "2026-03-03 10:57",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000024994"
+    },
+    {
+        "title": "애플, 신제품 발표 맞춰 보상 판매 금액 조정…맥 최대 70%↓",
+        "date": "2026-03-03 10:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636124"
+    },
+    {
+        "title": "애플, A19·M4칩 탑재한 '아이폰 17e·아이패드 에어' 공개",
+        "date": "2026-03-03 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157966"
+    },
+    {
+        "title": "[주니어전자]KAIST, 늘려도 선명한 '스트레처블 OLED' 구현",
+        "date": "2026-03-03 10:49",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403537?sid=102"
+    },
+    {
+        "title": "삼성디스플레이, ‘MWC26’서 AI 맞춤 OLED 공개",
+        "date": "2026-03-03 10:48",
+        "link": "https://www.cnbnews.com/news/article.html?no=781154"
+    },
+    {
+        "title": "애플 메모리반도체 가격 상승의 방어력 증명, 새 아이폰과 아이패드 용...",
+        "date": "2026-03-03 10:44",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=431647"
+    },
+    {
+        "title": "글로브포인트, 교육 전용 디지털 학습 도구 'VRWARE PAD' 출시",
+        "date": "2026-03-03 10:41",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403518?sid=101"
+    },
+    {
+        "title": "'AI의 완성은 디스플레이'… 삼성D, MWC26서 AI 맞춤 OLED '승부수'",
+        "date": "2026-03-03 10:40",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3380358"
+    },
+    {
+        "title": "애플, 전작 대비 30% 성능 향상된 ‘M4 아이패드 에어’ 공개",
+        "date": "2026-03-03 10:40",
+        "link": "https://kbench.com/?q=node/276560"
+    },
+    {
+        "title": "MWC에서 갤S26 본 통신사 CEO들…신기술에 “필름 회사 망하겠네” “딸...",
+        "date": "2026-03-03 10:39",
+        "link": "https://n.news.naver.com/mnews/article/023/0003962116?sid=105"
+    },
+    {
+        "title": "에이서, 11번가 ‘월간 십일절’서 니트로 18 AI 게이밍 노트북 최대 31...",
+        "date": "2026-03-03 10:36",
+        "link": "https://www.betanews.net/article/view/beta202603030033"
+    },
+    {
+        "title": "‘괴물 카메라’ 샤오미 17 울트라 한국 출시...190만원부터",
+        "date": "2026-03-03 10:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005644263?sid=105"
+    },
+    {
+        "title": "“조용한 강자, 이제 세상에”…코나아이, 글로벌 메탈카드 양강 입증",
+        "date": "2026-03-03 10:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403502?sid=101"
+    },
+    {
+        "title": "갤S26은 광장에, XR·버즈4는 밀실에…삼성전자 내·외부 '인산인해'",
+        "date": "2026-03-03 10:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219325?sid=105"
+    },
+    {
+        "title": "“화면 늘려도 선명하네”…신축성 OLED 한계 극복",
+        "date": "2026-03-03 10:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0003013406?sid=105"
+    },
+    {
+        "title": "삼성전자, MWC26서 '갤럭시 AI' 전면 배치",
+        "date": "2026-03-03 10:18",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250552"
+    },
+    {
+        "title": "'AI 완성은 디스플레이'…삼성D, AI 맞춤 OLED 승부수 [MWC 2026]",
+        "date": "2026-03-03 10:16",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157955"
+    },
+    {
+        "title": "애플, 2026년 신제품 발표 시작.. 첫 타자는 ‘아이폰 17e’",
+        "date": "2026-03-03 10:14",
+        "link": "https://kbench.com/?q=node/276556"
+    },
+    {
+        "title": "삼성전자, MWC26서 '갤럭시 AI' 생태계 확장… 모바일 넘어 네트워크 혁...",
+        "date": "2026-03-03 10:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542017"
+    },
+    {
+        "title": "여성전용 베개 브랜드 '애플라이너', 2년 연속 여성소비자가 뽑은 선호...",
+        "date": "2026-03-03 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=205142"
+    },
+    {
+        "title": "에이서, 11번가 월간 십일절서 니트로 18 AI 게이밍 노트북 최대 31% 할인",
+        "date": "2026-03-03 09:58",
+        "link": "https://kbench.com/?q=node/276555"
+    },
+    {
+        "title": "애플, '아이폰17e' 공개…국내 출고가 99만원",
+        "date": "2026-03-03 09:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=289530"
+    },
+    {
+        "title": "삼성전자, MWC서 AI폰 갤럭시S26 선봬",
+        "date": "2026-03-03 09:52",
+        "link": "https://n.news.naver.com/mnews/article/011/0004595046?sid=101"
+    },
+    {
+        "title": "보급형 아이폰 17e 나왔다...칩플레이션에도 가격 동결",
+        "date": "2026-03-03 09:48",
+        "link": "https://n.news.naver.com/mnews/article/023/0003962100?sid=105"
+    },
+    {
+        "title": "골프공 맞고 농구공 튕겨낸 삼성 '강철 폴더블'[MWC26]",
+        "date": "2026-03-03 09:42",
+        "link": "https://n.news.naver.com/mnews/article/003/0013797201?sid=105"
+    },
+    {
+        "title": "늘려도 선명한 화면 유지...KAIST, 세계 최고 수준 '스트레처블 OLED' 구현",
+        "date": "2026-03-03 09:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003403420?sid=105"
+    },
+    {
+        "title": "코나아이 글로벌 메탈카드 양강 체제 공고화",
+        "date": "2026-03-03 09:38",
+        "link": "https://www.newspim.com/news/view/20260303000216"
+    },
+    {
+        "title": "25% 더 저렴해진 아이폰 17e, 고민할 이유 줄었다",
+        "date": "2026-03-03 09:36",
+        "link": "https://www.itworld.co.kr/article/4139626/25-더-저렴해진-아이폰-17e-고민할-이유-줄었다.html"
+    },
+    {
+        "title": "삼성전자, MWC서 박선기 작가와 '갤럭시 AI' 예술로 표현",
+        "date": "2026-03-03 09:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006227265?sid=103"
+    },
+    {
+        "title": "삼성전자, MWC서 갤럭시 AI 경험과 네트워크 혁신 기술 선봬",
+        "date": "2026-03-03 09:30",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=296285"
+    },
+    {
+        "title": "[MWC] 20주년 맞은 세계 최대 통신 전시회···나흘 간 여정 막 올라",
+        "date": "2026-03-03 09:23",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=622503"
+    },
+    {
+        "title": "카이스트 조힘찬 교수팀, 늘려도 선명한 세계 최고 '스트레처블 OLED'",
+        "date": "2026-03-03 09:20",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=197922"
+    },
+    {
+        "title": "삼성전자, MWC26에서 갤럭시 AI 경험과 기술 혁신 선보여",
+        "date": "2026-03-03 09:18",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026030309101063370ecbf9426b_23"
+    },
+    {
+        "title": "갤럭시S26 이어 갤럭시 A37·A57 출격 준비",
+        "date": "2026-03-03 09:18",
+        "link": "https://kbench.com/?q=node/276548"
+    },
+    {
+        "title": "M4 아이패드 에어…성능은 올리고 가격은 동결",
+        "date": "2026-03-03 09:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636025"
+    },
+    {
+        "title": "삼성전자, MWC26서 갤럭시 생태계 확장...AI가 일상 읽는다",
+        "date": "2026-03-03 09:14",
+        "link": "https://www.newspim.com/news/view/20260303000181"
+    },
+    {
+        "title": "화면 늘어나도 밝기 그대로…한계 극복한 스트레처블 OLED 구현",
+        "date": "2026-03-03 09:13",
+        "link": "https://n.news.naver.com/mnews/article/421/0008802108?sid=102"
+    },
+    {
+        "title": "KAIST, 美中 연구진과 '늘려도 선명한' 스트레처블 OLED 기술 개발",
+        "date": "2026-03-03 09:09",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=622502"
+    },
+    {
+        "title": "KAIST, 늘려도 선명한 세계 최고 ‘스트레처블 OLED’ 구현",
+        "date": "2026-03-03 09:08",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064508?sid=105"
+    },
+    {
+        "title": "애플, M4 탑재 '신형 아이패드 에어' 공개…94만9000원부터",
+        "date": "2026-03-03 09:08",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064509?sid=105"
+    },
+    {
+        "title": "애플, 보급형 '아이폰17e' 공개…99만원부터",
+        "date": "2026-03-03 09:04",
+        "link": "https://n.news.naver.com/mnews/article/241/0003496976?sid=105"
+    },
+    {
+        "title": "KAIST, 늘려도 선명한 세계 최고'스트레처블 OLED'구현",
+        "date": "2026-03-03 09:02",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=600050"
+    },
+    {
+        "title": "[쿠키과학] KAIST, 늘려도 밝기 유지 ‘스트레처블 OLED’ 세계 최초 구...",
+        "date": "2026-03-03 09:00",
+        "link": "https://www.kukinews.com/article/view/kuk202603030021"
+    },
+    {
+        "title": "삼성전자, MWC서 연결형 생태계 ‘갤럭시 AI’ 강조",
+        "date": "2026-03-03 08:58",
+        "link": "https://www.viva100.com/article/20260303500076"
+    },
+    {
+        "title": "보급형 맥북, 놀라운 가성비 자랑한다",
+        "date": "2026-03-03 08:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002412488?sid=105"
+    },
+    {
+        "title": "애플, 보급형 아이폰17e·M4칩 아이패드에어 공개",
+        "date": "2026-03-03 08:54",
+        "link": "https://www.sentv.co.kr/article/view/sentv202603030020"
+    },
+    {
+        "title": "늘려도 빛나는 OLED…KAIST, 신축 디스플레이 한계 돌파",
+        "date": "2026-03-03 08:52",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2400433"
+    },
+    {
+        "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
+        "date": "2026-03-03 08:50",
+        "link": "https://www.itworld.co.kr/article/4139603/애플-아이폰-17e에-맥세이프와-a19-탑재-아쉬운-제한도-존.html"
+    },
+    {
+        "title": "삼성D, MWC2026서 AI 맞춤형 OLED 전시",
+        "date": "2026-03-03 08:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=820734"
+    },
+    {
+        "title": "MWC서 노태문-정재헌 만남…화기애애",
+        "date": "2026-03-03 08:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0003013378?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17e·M4 아이패드 에어 공개…AI 성능 대폭 강화",
+        "date": "2026-03-03 08:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002412483?sid=105"
+    },
+    {
+        "title": "[노태문 리더십③] AI 전략, DX 반등 승부수···스마트폰 성패가 변수",
+        "date": "2026-03-03 08:30",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=622485"
+    },
+    {
+        "title": "갤럭시 보더니 “필름회사 다 망할듯” “딸 사주게 할인 좀”…CEO 누구...",
+        "date": "2026-03-03 08:28",
+        "link": "https://n.news.naver.com/mnews/article/009/0005644149?sid=105"
+    },
+    {
+        "title": "애플 아이폰17e 공개…아이폰17과 무엇이 다를까?",
+        "date": "2026-03-03 08:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636019"
+    },
+    {
+        "title": "애플, '아이폰17e' 공개…국내 출고가 99만원",
+        "date": "2026-03-03 08:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013796909?sid=105"
+    },
+    {
+        "title": "KAIST, 고무줄처럼 늘려도 선명 '스트레처블 OLED' 개발",
+        "date": "2026-03-03 08:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005728110?sid=102"
+    },
+    {
+        "title": "“고무처럼 쭉 늘려도 선명” KAIST, 세계 최고 ‘스트레처블 OLED’ 구현...",
+        "date": "2026-03-03 08:11",
+        "link": "https://n.news.naver.com/mnews/article/016/0002607222?sid=105"
+    },
+    {
+        "title": "저장공간 2배 늘렸다, 가격은 동결…애플, 아이폰 17e 공개",
+        "date": "2026-03-03 08:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005324254?sid=105"
+    },
+    {
+        "title": "지도는 보고 자판은 숨기고…삼성D, MWC서 ‘부분 사생활 보호’ OLED 첫...",
+        "date": "2026-03-03 08:05",
+        "link": "https://n.news.naver.com/mnews/article/081/0003622226?sid=101"
+    },
+    {
+        "title": "모바일 넘는 생태계로…삼성전자, MWC26서 연결성 선보여",
+        "date": "2026-03-03 08:04",
+        "link": "https://n.news.naver.com/mnews/article/008/0005324250?sid=105"
+    },
+    {
+        "title": "미 정부가 내친 앤트로픽 ‘클로드’, 오류 발생에도 애플 앱스토어 1위",
+        "date": "2026-03-03 07:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219283?sid=105"
+    },
+    {
+        "title": "용량은 2배, 가격은 동결…애플, 가성비 끝판왕 ‘아이폰 17e’ 출시",
+        "date": "2026-03-03 07:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219281?sid=105"
+    },
+    {
+        "title": "인터플렉스, 삼성전자 S펜 생태계 확장·폴더블폰 출하 증가 기대…목표...",
+        "date": "2026-03-03 07:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006227138?sid=101"
+    },
+    {
+        "title": "말 눈가리개처럼 시야 꽉 잡았다…삼성D '프라이버시 OLED' 관람객 꽉 ...",
+        "date": "2026-03-03 07:51",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219280?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17e·M4 아이패드 에어 공개…AI 성능 전면 강화",
+        "date": "2026-03-03 07:36",
+        "link": "https://www.ajunews.com/view/20260303073142582"
+    },
+    {
+        "title": "인터플렉스, 삼성전자 내 점유율 증가 속 수익성 개선까지…폴더블폰 ...",
+        "date": "2026-03-03 07:30",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=725763"
+    },
+    {
+        "title": "애플, 아이폰17e·아이패드 에어 공개…“AI 강화 대비 포트폴리오 정비...",
+        "date": "2026-03-03 07:26",
+        "link": "https://www.g-enews.com/view.php?ud=2026030307242082639a1f309431_1"
+    },
+    {
+        "title": "[갤럭시 칩셋 전략] 삼성 '2나노 엑시노스 2600' 자신감…갤럭시 S26 전면...",
+        "date": "2026-03-03 07:24",
+        "link": "https://www.g-enews.com/view.php?ud=20260303070341194fbbec65dfb_1"
+    },
+    {
+        "title": "노태문 만난 홍범식 LGU+ 대표…딸내미에 버즈4 사줘야겠다 [MWC26]",
+        "date": "2026-03-03 07:06",
+        "link": "https://n.news.naver.com/mnews/article/031/0001009556?sid=105"
+    },
+    {
+        "title": "애플, 보급형 아이폰 '17e' 3월11일 출시…599달러부터",
+        "date": "2026-03-03 06:56",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1701294"
+    },
+    {
+        "title": "애플, AI 성능강화한 ‘보급형 아이폰17e’ 출시…가격은?",
+        "date": "2026-03-03 06:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005644126?sid=101"
+    },
+    {
+        "title": "'AI 고도화·사생활 보호' 차별화한 갤럭시 S26...아이폰 제치고 글로벌...",
+        "date": "2026-03-03 06:44",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=750942"
+    },
+    {
+        "title": "99만원에 즐기는 애플 인텔리전스…애플 '아이폰 17e' 4일부터 사전예약",
+        "date": "2026-03-03 06:21",
+        "link": "https://n.news.naver.com/mnews/article/119/0003064463?sid=105"
+    },
+    {
+        "title": "[이슈리포트] 최고가 아닌 최적을 택하는 AI 실용주의가 왔다",
+        "date": "2026-03-03 06:20",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=238189"
+    },
+    {
+        "title": "애플, 보급형 아이폰17e·신형 아이패드 에어 출시",
+        "date": "2026-03-03 06:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636001"
+    },
+    {
+        "title": "갤버즈4 착용한 LG U+ 홍범식 딸 사주고 싶어 [MWC 2026]",
+        "date": "2026-03-03 06:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092157949"
+    },
+    {
         "title": "애플 전략 변화에 광학모듈 수요↑…LG이노텍 '반사이익'",
         "date": "2026-03-03 06:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1701076"
@@ -25,7 +540,7 @@
         "link": "https://n.news.naver.com/mnews/article/374/0000495287?sid=104"
     },
     {
-        "title": "기본 용량 2배, 가격은 유지…애플, 보급형 아이폰17e '가성비로 승부'",
+        "title": "용량 2배, 가격 유지…애플, 보급형 아이폰17e '가성비로 승부'",
         "date": "2026-03-03 04:49",
         "link": "https://n.news.naver.com/mnews/article/469/0000917181?sid=104"
     },
@@ -123,6 +638,11 @@
         "title": "애플, 보급형 '아이폰 17e' 공개...국내 출고가 99만원",
         "date": "2026-03-02 23:34",
         "link": "https://www.techm.kr/news/articleView.html?idxno=149829"
+    },
+    {
+        "title": "‘인텔리전트 OLED 시티’ 소개",
+        "date": "2026-03-02 23:15",
+        "link": "https://n.news.naver.com/mnews/article/022/0004109594?sid=101"
     },
     {
         "title": "[신문과 놀자!/피플 in 뉴스]AI 시대 맞은 애플, 다시 절실해진 ‘잡스식...",
@@ -257,12 +777,12 @@
     {
         "title": "삼성디스플레이, MWC26서 'AI 맞춤 OLED' 공개",
         "date": "2026-03-02 13:48",
-        "link": "https://n.news.naver.com/mnews/article/001/0015932512?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015932510?sid=101"
     },
     {
         "title": "삼성디스플레이, MWC26서 'AI 맞춤 OLED' 공개",
         "date": "2026-03-02 13:48",
-        "link": "https://n.news.naver.com/mnews/article/001/0015932510?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/001/0015932512?sid=101"
     },
     {
         "title": "[MWC26] 삼성D, AI 맞춤형 OLED 대거 공개... 사생활 보호 기술 '눈길'",
