@@ -1,5 +1,35 @@
 [
     {
+        "title": "삼성, 카메라 탑재 ‘AI 스마트 안경’ 공개 임박… 메타 독주 체제에 도...",
+        "date": "2026-03-07 11:42",
+        "link": "https://www.g-enews.com/view.php?ud=2026030711400751710c8c1c064d_1"
+    },
+    {
+        "title": "삼성 스마트 안경에 '눈높이' 카메라 내장...생태계 확장에 중점",
+        "date": "2026-03-07 11:18",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=207664"
+    },
+    {
+        "title": "16인치인데 1.2kg… 초경량 노트북 '젠북 A16' 등장 [PC마켓]",
+        "date": "2026-03-07 10:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158225"
+    },
+    {
+        "title": "신화인터텍, 삼성전자 자회사 하만 공급망 진입…전장 디스플레이 첫 출...",
+        "date": "2026-03-07 10:34",
+        "link": "https://www.fetv.co.kr/news/article.html?no=214488"
+    },
+    {
+        "title": "차기 오포 폴더블폰, 갤Z폴드7보다 배터리 용량 ↑",
+        "date": "2026-03-07 09:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413296?sid=105"
+    },
+    {
+        "title": "국산 스퍼터 장비 앞세운 아바코…BOE 이어 추가 수주 기대",
+        "date": "2026-03-07 08:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434725"
+    },
+    {
         "title": "비싸도 좋은 걸로...갤S26 울트라 '올인' 전략 통했나",
         "date": "2026-03-07 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158232"
@@ -83,6 +113,11 @@
         "title": "KT, 갤럭시 S26 시리즈 사전개통 시작",
         "date": "2026-03-06 17:28",
         "link": "https://www.news2day.co.kr/article/20260306500252"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자, 갤럭시S26 시리즈 국내 사전판매 135만대 外",
+        "date": "2026-03-06 17:26",
+        "link": "https://news.dealsitetv.com/articles/166461"
     },
     {
         "title": "삼성 갤북6 vs. 애플 M5 맥북…새 노트북 라이벌, 비교해 보니",
@@ -555,14 +590,14 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1701685"
     },
     {
-        "title": "[위클리오늘] 갤럭시 S26 시리즈 사전 판매 135만대 기록···역대 S 시리...",
-        "date": "2026-03-06 11:02",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=763514"
-    },
-    {
         "title": "갤럭시 S26 시리즈, 국내 사전 판매 135만대…역대 갤럭시 S 시리즈 최다...",
         "date": "2026-03-06 11:02",
         "link": "https://www.econovill.com/news/articleView.html?idxno=732132"
+    },
+    {
+        "title": "[위클리오늘] 갤럭시 S26 시리즈 사전 판매 135만대 기록···역대 S 시리...",
+        "date": "2026-03-06 11:02",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=763514"
     },
     {
         "title": "삼성전자, 갤럭시S26 사전판매 135만대...역대 최다",
@@ -1033,11 +1068,6 @@
         "title": "'갤럭시 S26 시리즈' 역대 최다 판매, 국내 사전 판매 135만대 돌파",
         "date": "2026-03-06 09:12",
         "link": "https://www.epnc.co.kr/news/articleView.html?idxno=329426"
-    },
-    {
-        "title": "갤럭시 S26, 사전판매 135만대 신기록…S25 기록 경신",
-        "date": "2026-03-06 09:12",
-        "link": "https://www.sentv.co.kr/article/view/sentv202603060023"
     },
     {
         "title": "'갤럭시 S26' 시리즈, 사전예약서 135만대 판매···'역대 최다'",
