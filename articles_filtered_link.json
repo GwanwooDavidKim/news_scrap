@@ -1,5 +1,665 @@
 [
     {
+        "title": "상기코퍼레이션, GMR 센서 기술 고도화로 적용 분야 확대",
+        "date": "2026-03-10 14:00",
+        "link": "https://n.news.naver.com/mnews/article/020/0003702806?sid=101"
+    },
+    {
+        "title": "[AI의 종목 이야기] 아이폰 4대 중 1대는 인도에서 만든다",
+        "date": "2026-03-10 13:52",
+        "link": "https://www.newspim.com/news/view/20260310000857"
+    },
+    {
+        "title": "삼성, 세계 최대 ‘GDC 2026’서 몰입감 높은 게이밍 모니터 신제품 공개",
+        "date": "2026-03-10 13:48",
+        "link": "https://www.ceoscoredaily.com/page/view/2026031013470510938"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 13:38",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=126541"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍 모니터 선보인다…혁신 게이밍 기술도",
+        "date": "2026-03-10 13:36",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=284242"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 13:18",
+        "link": "http://www.breaknews.com/1190398"
+    },
+    {
+        "title": "애플, AI 시리 개발 지연에 스마트홈 디스플레이 출시 연기",
+        "date": "2026-03-10 13:08",
+        "link": "https://n.news.naver.com/mnews/article/009/0005647851?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최대 게임 개발자 행사서 3D 게이밍 모니터 선봬",
+        "date": "2026-03-10 13:02",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=206036"
+    },
+    {
+        "title": "[현장] 진짜 안 흔들리네 전작과 비교 테스트한 갤S26 울트라...직접 ...",
+        "date": "2026-03-10 13:00",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=197315"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 공개…3D·6K·초고주사율로...",
+        "date": "2026-03-10 12:32",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=75795"
+    },
+    {
+        "title": "M5 맥스 맥북 프로 리뷰 : 성능은 예상 범위 안, SSD는 기대 이상",
+        "date": "2026-03-10 12:10",
+        "link": "https://www.itworld.co.kr/article/4142754/m5-맥스-맥북-프로-리뷰-성능은-예상-범위-안-ssd는-기대-이.html"
+    },
+    {
+        "title": "갤럭시 S26 울트라 전용 '프라이버시 디스플레이'…S26·S26+에는 왜 빠졌...",
+        "date": "2026-03-10 12:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542208"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 11:54",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026031011385010110ecbf9426b_23"
+    },
+    {
+        "title": "애플 ‘아이폰 폴드’ 이렇게 나올까? 3D CAD 렌더링 이미지 유출",
+        "date": "2026-03-10 11:54",
+        "link": "https://kbench.com/?q=node/276794"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 생태계 공개",
+        "date": "2026-03-10 11:52",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=208191"
+    },
+    {
+        "title": "게이밍 모니터 경쟁, '고화질' 넘어 '입체 디스플레이'로",
+        "date": "2026-03-10 11:40",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2108832"
+    },
+    {
+        "title": "'비침습 혈당 측정' 꿈꾸는 애플워치, 2027년 시리즈13에 담길까",
+        "date": "2026-03-10 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638950"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 생태계 공개",
+        "date": "2026-03-10 11:30",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=251062"
+    },
+    {
+        "title": "“폰이 엿가락처럼 ‘쭉’ 늘어나?”…삼성 슬라이더블 OLED 실물보니 [영...",
+        "date": "2026-03-10 11:29",
+        "link": "https://n.news.naver.com/mnews/article/009/0005647821?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC에서 무안경 3D 게이밍 모니터 '오디세이 3D' 공개",
+        "date": "2026-03-10 11:28",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=353152"
+    },
+    {
+        "title": "낮아진 OLED 패널 가격…TV 시장 판도 바뀌나",
+        "date": "2026-03-10 11:24",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=353210"
+    },
+    {
+        "title": "삼성전자, 샌프란시스코서 게이밍 생태계 선봬 …'2026년형 오디세이' 신...",
+        "date": "2026-03-10 11:24",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=259240"
+    },
+    {
+        "title": "갤폴드보다 더 넓적하네…폴더블 아이폰 설계 도면 베일 벗었다",
+        "date": "2026-03-10 11:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013812324?sid=105"
+    },
+    {
+        "title": "갤럭시 S26·아이폰 17e, 국내 동시 출격…AI vs 가성비",
+        "date": "2026-03-10 11:20",
+        "link": "https://n.news.naver.com/mnews/article/422/0000842329?sid=101"
+    },
+    {
+        "title": "전자파 잡고 효율 높이고… 아모텍, 신소재로 글로벌 가전·자동차 시...",
+        "date": "2026-03-10 11:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435481"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…6K 게이밍 모니터·3D 게임 120종 확대 공개",
+        "date": "2026-03-10 11:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=732538"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 11:10",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2026031011073134948439a4874_29"
+    },
+    {
+        "title": "삼성전자, 'GDC 페스티벌 오브 게이밍 2026' 참가",
+        "date": "2026-03-10 11:10",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=16548"
+    },
+    {
+        "title": "애플, 아이폰17e·M4 아이패드 에어 지원 추가된 ‘iOS 26.4’ 베타 4 출...",
+        "date": "2026-03-10 11:10",
+        "link": "https://kbench.com/?q=node/276793"
+    },
+    {
+        "title": "'AI폰' 갤S26 vs '가성비' 아이폰17e…11일 국내 동시 출시",
+        "date": "2026-03-10 11:10",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000025802"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 11:08",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=97362"
+    },
+    {
+        "title": "구부러져야 산다… 비에이치, RF-PCB 기술로 초격차 실현",
+        "date": "2026-03-10 11:06",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435478"
+    },
+    {
+        "title": "'AI폰' vs '가성비'…갤S26·아이폰17e 국내 동시 출격",
+        "date": "2026-03-10 11:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015949415?sid=105"
+    },
+    {
+        "title": "차세대 아이폰부터 애플워치까지…애플 2026년 신제품 로드맵",
+        "date": "2026-03-10 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638926"
+    },
+    {
+        "title": "애플, 친환경 제조 혁신 가속…재활용 소재·신공정 도입",
+        "date": "2026-03-10 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638907"
+    },
+    {
+        "title": "맥북 네오 구매 예정자라면 주목, 애플케어+ 비용 및 보장 혜택 정리",
+        "date": "2026-03-10 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638912"
+    },
+    {
+        "title": "애플 iOS 26.4 베타4, 신규 이모지 추가…발레 댄서·범고래 등 포함",
+        "date": "2026-03-10 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638904"
+    },
+    {
+        "title": "램 대란 속 PC 부품값 치솟는데…게이밍 모니터는 구매 적기?",
+        "date": "2026-03-10 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638892"
+    },
+    {
+        "title": "삼성 3D 게임 지원 확대…개발사와 협력 강화",
+        "date": "2026-03-10 11:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=206144"
+    },
+    {
+        "title": "애플, 기업·정부 고객 위한 '파트너 디스커버리 툴' 공개",
+        "date": "2026-03-10 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638887"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍 모니터 생태계 경험 선봬",
+        "date": "2026-03-10 10:58",
+        "link": "http://www.metroseoul.co.kr/article/20260310500209"
+    },
+    {
+        "title": "삼성, GDC 2026 참가…오디세이 3D 게이밍 모니터 등 신제품 공개",
+        "date": "2026-03-10 10:52",
+        "link": "https://n.news.naver.com/mnews/article/079/0004122980?sid=101"
+    },
+    {
+        "title": "일본·독일 비켜… 와이엠티, 독자 기술로 글로벌 PCB 시장 접수",
+        "date": "2026-03-10 10:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435470"
+    },
+    {
+        "title": "애플, 스마트 홈 디스플레이 출시 9월로 연기…시리 지연 탓",
+        "date": "2026-03-10 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638870"
+    },
+    {
+        "title": "삼성전자, GDC서 2026년형 게이밍 모니터 선봬...글로벌 게임사 협업 강...",
+        "date": "2026-03-10 10:44",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=242856"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 오디세이 게이밍 신제품 공개",
+        "date": "2026-03-10 10:42",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=39215"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 확장된 게이밍 모니터 경험 선사",
+        "date": "2026-03-10 10:34",
+        "link": "https://n.news.naver.com/mnews/article/417/0001133427?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC서 게이밍 모니터 경험 선봬",
+        "date": "2026-03-10 10:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413606?sid=105"
+    },
+    {
+        "title": "보조금 끝난 중국, 비어버린 TV 수요···신흥시장과 OLED·미니LED 전쟁...",
+        "date": "2026-03-10 10:32",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=47645"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 차세대 모니터 신제품 대거 공개",
+        "date": "2026-03-10 10:26",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=89854"
+    },
+    {
+        "title": "마이크로소프트, ‘AI 직원 시대’ 준비하나",
+        "date": "2026-03-10 10:26",
+        "link": "https://www.itworld.co.kr/article/4142688/마이크로소프트-ai-직원-시대-준비하나.html"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 3D 게이밍 모니터 생태계 경험 확대",
+        "date": "2026-03-10 10:22",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247454"
+    },
+    {
+        "title": "삼성전자, 美 GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 10:20",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=215023"
+    },
+    {
+        "title": "애플 iOS 26.4 베타4 공개…'리퀴드 글래스' 눈부심 효과 끄기 기능 추가",
+        "date": "2026-03-10 10:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542202"
+    },
+    {
+        "title": "삼성전자, GDC서 2026년형 오디세이 게이밍 모니터 공개",
+        "date": "2026-03-10 10:18",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=596224"
+    },
+    {
+        "title": "[기자수첩]아이폰도 뚫리는데…해킹에 성역은 없다",
+        "date": "2026-03-10 10:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005731934?sid=110"
+    },
+    {
+        "title": "삼성전자, 세계 최대 게임 개발자 컨퍼런스 GDC 2026 참가",
+        "date": "2026-03-10 10:12",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3015683"
+    },
+    {
+        "title": "삼성전자, 'GDC 2026' 참가…게이밍 모니터 생태계 확장",
+        "date": "2026-03-10 10:08",
+        "link": "https://www.fetv.co.kr/news/article.html?no=214648"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 10:08",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000025793"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 확장된 게이밍 모니터 생태계 선보여",
+        "date": "2026-03-10 10:02",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=108547"
+    },
+    {
+        "title": "삼성전자 '오디세이' 신제품 공개, '무안경 3D'로 게이밍 모니터 생태계...",
+        "date": "2026-03-10 09:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=432397"
+    },
+    {
+        "title": "안팎으로 '답답한' 광주 시내버스...도착지 안내 먹통ㆍ미설치 수두룩",
+        "date": "2026-03-10 09:57",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000025680"
+    },
+    {
+        "title": "삼성, 작년 스마트폰 생산 2억 3,980만대... 애플 따라잡았다",
+        "date": "2026-03-10 09:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542201"
+    },
+    {
+        "title": "애플 스마트홈 디스플레이 또 미뤄져…차세대 시리 지연 때문",
+        "date": "2026-03-10 09:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413585?sid=105"
+    },
+    {
+        "title": "[특징주]파인엠텍, 애플 '폴더블 아이폰' 초기 물량 20% 증산 소식에 강...",
+        "date": "2026-03-10 09:52",
+        "link": "https://n.news.naver.com/mnews/article/277/0005731899?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘2026년형 오디세이’ 신제품으로 글로벌 개발자 정조준",
+        "date": "2026-03-10 09:51",
+        "link": "https://n.news.naver.com/mnews/article/468/0001223558?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 09:50",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=329589"
+    },
+    {
+        "title": "삼성전자, GDC2026서 확장된 게이밍 모니터 생태계 경험 선뵌다",
+        "date": "2026-03-10 09:50",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=198263"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 '오디세이 3D' 등 게이밍 모니터 공개",
+        "date": "2026-03-10 09:47",
+        "link": "https://n.news.naver.com/mnews/article/003/0013811777?sid=101"
+    },
+    {
+        "title": "애플, 차세대 스마트홈 허브 ‘J490’ 출시 연기…'시리 A'I 성능 미달 발...",
+        "date": "2026-03-10 09:46",
+        "link": "https://n.news.naver.com/mnews/article/138/0002220049?sid=105"
+    },
+    {
+        "title": "삼성전자, 'GDC 2026'서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 09:46",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=82243"
+    },
+    {
+        "title": "[AI 글래스①] AI 글래스가 AR 글래스로 진화...구글에 모아진 시선",
+        "date": "2026-03-10 09:46",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53290"
+    },
+    {
+        "title": "산업 현장 겨냥한 나노융합 기술, 성능 한계 돌파에 나서다",
+        "date": "2026-03-10 09:44",
+        "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=3681"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍 모니터 생태계 경험 선보인다",
+        "date": "2026-03-10 09:36",
+        "link": "http://www.datanews.co.kr/news/article.html?no=143712"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…'오디세이 3D' 등 게이밍 모니터 공개",
+        "date": "2026-03-10 09:36",
+        "link": "https://n.news.naver.com/mnews/article/138/0002220042?sid=105"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 '무안경 3D·6K' 오디세이 모니터 공개",
+        "date": "2026-03-10 09:36",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=101067"
+    },
+    {
+        "title": "삼성전자, 세계 최대 게임 개발자 컨퍼런스서 2026년형 신제품 공개",
+        "date": "2026-03-10 09:34",
+        "link": "https://www.g-enews.com/view.php?ud=2026031009260694426ed0c62d49_1"
+    },
+    {
+        "title": "삼성전자, 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2026’ 참가",
+        "date": "2026-03-10 09:34",
+        "link": "https://www.cnbnews.com/news/article.html?no=782497"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 09:32",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=109010"
+    },
+    {
+        "title": "삼성전자, GDC서 2026년형 오디세이 신제품 공개",
+        "date": "2026-03-10 09:32",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=710369"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 09:28",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=73236"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…3D·6K 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 09:28",
+        "link": "https://www.public25.com/news/articleView.html?idxno=41548"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 공개",
+        "date": "2026-03-10 09:26",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=242406"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…오디세이 3D·6K 게이밍 모니터 공개",
+        "date": "2026-03-10 09:26",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=295436"
+    },
+    {
+        "title": "애플, 챗GPT서 '샤잠' 지원…음악 검색 한층 더 간편해져",
+        "date": "2026-03-10 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638846"
+    },
+    {
+        "title": "GDC2026 참가하는 삼성전자…오디세이 신제품 선봬",
+        "date": "2026-03-10 09:23",
+        "link": "https://n.news.naver.com/mnews/article/374/0000496826?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍모니터 신제품 대거 공개",
+        "date": "2026-03-10 09:22",
+        "link": "https://www.sentv.co.kr/article/view/sentv202603100028"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 09:20",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=225885"
+    },
+    {
+        "title": "'AI 음악'이라고 이제 표시해주세요! [IZE 진단]",
+        "date": "2026-03-10 09:19",
+        "link": "https://m.entertain.naver.com/article/465/0000016074"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 생태계 공개…3D 게임·HDR10...",
+        "date": "2026-03-10 09:18",
+        "link": "https://www.ajunews.com/view/20260310091205326"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 09:14",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4493950"
+    },
+    {
+        "title": "애플, 아이폰 전 모델에 '맥세이프' 자석 적용",
+        "date": "2026-03-10 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638820"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 선봬",
+        "date": "2026-03-10 09:10",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=309663"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 공개",
+        "date": "2026-03-10 09:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/10/2026031000059.html"
+    },
+    {
+        "title": "메모리발 원가 압박에…삼성은 ‘마진 사수’ vs 애플은 ‘점유율 확대...",
+        "date": "2026-03-10 09:08",
+        "link": "https://www.ceoscoredaily.com/page/view/2026030917134716940"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 ‘오디세이’ 모니터로 몰입형 게이밍 경험 제시",
+        "date": "2026-03-10 09:08",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000093132"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 2026년형 오디세이 신제품 소개",
+        "date": "2026-03-10 09:08",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=120754"
+    },
+    {
+        "title": "삼성전자, 세계 최대 개임 개발자 컨퍼런스 참가…게이밍 모니터 신제품...",
+        "date": "2026-03-10 09:07",
+        "link": "https://n.news.naver.com/mnews/article/366/0001147054?sid=105"
+    },
+    {
+        "title": "삼성전자, 'GDC 26'서 '오디세이' 게이밍 모니터 신제품 소개",
+        "date": "2026-03-10 09:06",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=623136"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 생태계 공개",
+        "date": "2026-03-10 09:02",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=264518"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 09:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1344572"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 '붉은사막' 등 협업...차세대 게이밍 모니터 공개",
+        "date": "2026-03-10 09:00",
+        "link": "https://hbnpress.com/news/view/1065570025063355"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 더욱 확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 08:58",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=73933"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가...6K 게이밍 모니터 등 신제품 대거 공개",
+        "date": "2026-03-10 08:58",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=413190"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍모니터 신제품 대거 공개",
+        "date": "2026-03-10 08:58",
+        "link": "https://n.news.naver.com/mnews/article/119/0003067135?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 08:55",
+        "link": "https://n.news.naver.com/mnews/article/277/0005731806?sid=101"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가⋯확장된 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 08:52",
+        "link": "https://www.etoday.co.kr/news/view/2563554"
+    },
+    {
+        "title": "3월 9일 주식시장 주요공시",
+        "date": "2026-03-10 08:50",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=121428"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…차세대 게이밍 모니터 생태계 공개",
+        "date": "2026-03-10 08:50",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=114627"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 차세대 게이밍 모니터 공개",
+        "date": "2026-03-10 08:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=822750"
+    },
+    {
+        "title": "글로벌 게임사 홀린 '오디세이 3D'…삼성전자, GDC서 혁신기술 공개",
+        "date": "2026-03-10 08:46",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1344450"
+    },
+    {
+        "title": "애플 코스믹 오렌지 컬러 인기…안드로이드폰서 유사 디자인 확산",
+        "date": "2026-03-10 08:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638799"
+    },
+    {
+        "title": "삼성전자, GDC서 게이밍 모니터 신제품 대거 공개",
+        "date": "2026-03-10 08:42",
+        "link": "https://www.newspim.com/news/view/20260310000125"
+    },
+    {
+        "title": "수익성 강화 삼성 vs 판매량 확대 애플…스마트폰 전략 갈렸다",
+        "date": "2026-03-10 08:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435175"
+    },
+    {
+        "title": "삼성전자, GDC 2026서 게이밍모니터 신제품 대거 공개",
+        "date": "2026-03-10 08:30",
+        "link": "https://n.news.naver.com/mnews/article/018/0006231457?sid=101"
+    },
+    {
+        "title": "삼성전자, '오디세이' 신제품 공개…게이밍 모니터 어디까지 왔나",
+        "date": "2026-03-10 08:29",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=108231"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 윤곽…아이패드처럼 넓은 화면",
+        "date": "2026-03-10 08:28",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413550?sid=105"
+    },
+    {
+        "title": "삼성전자, GDC 2026 참가…3D·6K 게이밍 모니터 생태계 확대",
+        "date": "2026-03-10 08:24",
+        "link": "https://n.news.naver.com/mnews/article/001/0015948760?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최대 게임 개발자 컨퍼런스 'GDC 2026' 참가",
+        "date": "2026-03-10 08:24",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3382884"
+    },
+    {
+        "title": "삼성전자, 美 개발자 컨퍼런스 참가...게이밍 모니터 신제품 공개",
+        "date": "2026-03-10 08:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435359"
+    },
+    {
+        "title": "삼성전자, GDC 2026에서 게이밍 모니터 생태계 경험 선보여",
+        "date": "2026-03-10 08:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=430403"
+    },
+    {
+        "title": "안경 벗은 3D와 6K의 만남…삼성전자 게이밍 모니터의 '파괴적 혁신'",
+        "date": "2026-03-10 08:18",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=71028"
+    },
+    {
+        "title": "전작과 다르다 가성비 아이폰 아이폰17e 11일 국내 상륙[모닝폰]",
+        "date": "2026-03-10 08:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006231444?sid=105"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플, 스마트홈 디스플레이 출시 연기...AI 개발 부...",
+        "date": "2026-03-10 07:56",
+        "link": "https://www.newspim.com/news/view/20260310000064"
+    },
+    {
+        "title": "삼성·LG 디스플레이, ‘프리미엄 OLED’로 반격… 8년 만에 시장 점유율...",
+        "date": "2026-03-10 07:56",
+        "link": "https://www.g-enews.com/view.php?ud=2026031007522944650c8c1c064d_1"
+    },
+    {
+        "title": "[Focus] T팩토리에 열린 'S26 마켓'…SKT '제철 혜택' 살펴보니",
+        "date": "2026-03-10 07:56",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=696574"
+    },
+    {
+        "title": "갤럭시 S26, 가격 올라도 흥행…프라이버시 디스플레이 도입 적중",
+        "date": "2026-03-10 07:56",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=696584"
+    },
+    {
+        "title": "우리 고막과 궁합이 좋네요 갤럭시 버즈 4 프로 [체험기]",
+        "date": "2026-03-10 07:01",
+        "link": "https://n.news.naver.com/mnews/article/119/0003067097?sid=105"
+    },
+    {
+        "title": "[창립 50주년 기획] 애플의 반세기, 역사를 만들다",
+        "date": "2026-03-10 06:48",
+        "link": "https://www.g-enews.com/view.php?ud=202603100625158925fbbec65dfb_1"
+    },
+    {
+        "title": "'맥북병' 시달리더니…예쁘면 뭐하나, 사면 후회 돌변 [트렌드+]",
+        "date": "2026-03-10 06:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005260153?sid=101"
+    },
+    {
+        "title": "[소비자의눈] 온라인 플랫폼서 산 애플망고, 10개 중 9개가 짓무르고 변...",
+        "date": "2026-03-10 06:10",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=751412"
+    },
+    {
+        "title": "주름 없는 폴더블 폰 …中 신형 폴더블폰 나왔다는데[1일IT템]",
+        "date": "2026-03-10 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005488710?sid=105"
+    },
+    {
         "title": "'상저하고' 애플 가격 전략…하반기 '맥북 울트라'로 하이엔드 굳히기",
         "date": "2026-03-10 06:00",
         "link": "https://n.news.naver.com/mnews/article/003/0013811409?sid=105"
@@ -300,6 +960,11 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638391"
     },
     {
+        "title": "애플, 차세대 아이맥 색상 새롭게 바꾼다…신규 칩 탑재 가능성도",
+        "date": "2026-03-09 10:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542173"
+    },
+    {
         "title": "ST마이크로, 가격 장벽은 낮추고 기술 수준은 높인 엔트리급 마이크로컨...",
         "date": "2026-03-09 10:20",
         "link": "https://www.aitimes.kr/news/articleView.html?idxno=38964"
@@ -323,6 +988,11 @@
         "title": "애플, 보급형 이어 '울트라' 제품군 확장…프리미엄 시장 공략",
         "date": "2026-03-09 10:06",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638374"
+    },
+    {
+        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
+        "date": "2026-03-09 09:56",
+        "link": "https://www.cnbnews.com/news/article.html?no=782228"
     },
     {
         "title": "삼성전자, 글로벌 TV 시장 점유율 29.1%…20년 연속 1위",
