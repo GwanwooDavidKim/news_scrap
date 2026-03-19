@@ -1,18 +1,403 @@
 [
     {
+        "title": "OLED로 판 바꾼 K디스플레이…애플·AI 타고 '성장 궤도' 진입",
+        "date": "2026-03-20 06:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702871"
+    },
+    {
+        "title": "메타, 호라이즌 월드 VR 지원 중단 결정 하루 만에 철회",
+        "date": "2026-03-20 05:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=643267"
+    },
+    {
+        "title": "[초점] 애플, AI 뒤처졌지만 ‘1조원대 수익’…앱스토어로 돈 번다",
+        "date": "2026-03-20 03:00",
+        "link": "https://www.g-enews.com/view.php?ud=2026031920584321769a1f309431_1"
+    },
+    {
+        "title": "국제디스플레이 학회에서 나란히 위상 입증한 ‘K디스플레이’ 양강",
+        "date": "2026-03-20 00:30",
+        "link": "https://n.news.naver.com/mnews/article/022/0004114272?sid=101"
+    },
+    {
+        "title": "자동차부품 관련주, '봄날의 햇살' 유니온머티리얼,·한일단조·남선알...",
+        "date": "2026-03-20 00:20",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=251719"
+    },
+    {
+        "title": "삼성·LG디스플레이, SID서 ‘석학 펠로·최고상’ 휩쓸어",
+        "date": "2026-03-19 22:32",
+        "link": "https://www.mediapen.com/news/view/1088033"
+    },
+    {
+        "title": "솔루스첨단소재, 함열 OLED 공장 준공",
+        "date": "2026-03-19 20:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415279?sid=105"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 세계최고 권위 학회 '펠로우' 선정",
+        "date": "2026-03-19 19:20",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7155678"
+    },
+    {
+        "title": "솔루스첨단소재, 익산 OLED 공장 준공, 생산능력 2배 확대",
+        "date": "2026-03-19 18:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542506"
+    },
+    {
+        "title": "이청·양준영, 세계 최고 권위 디스플레이학회 펠로 선임",
+        "date": "2026-03-19 18:26",
+        "link": "https://n.news.naver.com/mnews/article/015/0005264558?sid=101"
+    },
+    {
+        "title": "4년 만의 흑자 LG디스플레이, OLED 중심 사업 가속화",
+        "date": "2026-03-19 18:24",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53807"
+    },
+    {
+        "title": "中 오포, 애플 폴더블 아이폰 앞두고 프리미엄 폴더블폰 공세 강화",
+        "date": "2026-03-19 18:22",
+        "link": "https://www.hellot.net/news/article.html?no=111479"
+    },
+    {
+        "title": "라운즈, AI 스마트 안경 판매 시작... 체험에서 렌즈맞춤까지 원스톱으...",
+        "date": "2026-03-19 18:20",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=39161"
+    },
+    {
+        "title": "삼성D 이청 대표, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 18:12",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=825834"
+    },
+    {
+        "title": "애플, 미국서 그린워싱 소송 승소…EU와 시각차",
+        "date": "2026-03-19 18:04",
+        "link": "https://www.hellot.net/news/article.html?no=111476"
+    },
+    {
+        "title": "솔루스첨단소재, 익산 함열 OLED 공장 준공…생산능력 2배 확대",
+        "date": "2026-03-19 17:48",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=733930"
+    },
+    {
+        "title": "애플 가세에 판 커지는 폴더블폰…삼성디스플레이, 중소형 OLED 실적 ‘...",
+        "date": "2026-03-19 17:34",
+        "link": "https://www.ceoscoredaily.com/page/view/2026031917123269445"
+    },
+    {
+        "title": "선 밖 색칠하는 코르티스…애플 50주년과 만난 '독창성'",
+        "date": "2026-03-19 17:33",
+        "link": "https://m.entertain.naver.com/article/003/0013833621"
+    },
+    {
+        "title": "코르티스, 애플 50주년 행사서 '대세 아이돌' 위용 과시 … 신보 기대감...",
+        "date": "2026-03-19 17:32",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/03/19/2026031900444.html"
+    },
+    {
+        "title": "정철동 LGD 사장 OLED 중심 사업고도화…수익성·성장동력 동시 확보",
+        "date": "2026-03-19 17:30",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=549298"
+    },
+    {
+        "title": "차기 갤럭시 A?S26 FE, 중국산 가성비 OLED 패널 대거 채택 전망",
+        "date": "2026-03-19 17:30",
+        "link": "https://kbench.com/?q=node/277133"
+    },
+    {
+        "title": "‘아이폰으로 촬영, 맥북으로 완성’…코르티스가 보여준 애플 창작 생...",
+        "date": "2026-03-19 17:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002616457?sid=105"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 'SID 펠로' 선임",
+        "date": "2026-03-19 17:26",
+        "link": "https://n.news.naver.com/mnews/article/009/0005652917?sid=102"
+    },
+    {
+        "title": "삼성·LG, SID서 나란히 쾌거… 이청·양준영 펠로우 선정에 개인상 수상...",
+        "date": "2026-03-19 17:22",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=259773"
+    },
+    {
+        "title": "4년 만 흑자 전환 LG디스플레이 OLED 고도화로 새 시장 창출",
+        "date": "2026-03-19 17:08",
+        "link": "https://n.news.naver.com/mnews/article/469/0000920460?sid=105"
+    },
+    {
+        "title": "LG디스플레이, SID 최고 권위상 수상·석학회원 배출…기술 경쟁력 입증",
+        "date": "2026-03-19 17:08",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85101"
+    },
+    {
+        "title": "AI 뒤처졌다고? 애플, AI 매출만 1조 5000억원 전망",
+        "date": "2026-03-19 17:04",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=310034"
+    },
+    {
+        "title": "팀 쿡, 중국서 애플 50주년 행사 참석⋯공급망·시장 전략 재확인",
+        "date": "2026-03-19 16:47",
+        "link": "https://n.news.naver.com/mnews/article/031/0001014980?sid=101"
+    },
+    {
+        "title": "더나은보호작업장·시즈더시즌, 발달장애인 작가 콜라보 '베러 애플' 양...",
+        "date": "2026-03-19 16:40",
+        "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=229700"
+    },
+    {
+        "title": "이청 삼성D 사장, SID 펠로 선임…LGD, '브라운상' 수상",
+        "date": "2026-03-19 16:36",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=199073"
+    },
+    {
+        "title": "농심, '웰치스 제로 애플망고맛' 출시",
+        "date": "2026-03-19 16:32",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431704"
+    },
+    {
+        "title": "LG디스플레이, SID 최고 권위상 석권",
+        "date": "2026-03-19 16:30",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53814"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 세계 최고 권위 SID '펠로우' 선임",
+        "date": "2026-03-19 16:20",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=356636"
+    },
+    {
+        "title": "LGD 최현철, SID 최고 권위 '브라운상'…OLED 대중화 이끌어",
+        "date": "2026-03-19 16:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=252063"
+    },
+    {
+        "title": "LG이노텍, 전장·로봇 키운다…카메라 모듈 중심 구조 변화 시동",
+        "date": "2026-03-19 16:12",
+        "link": "https://www.newspim.com/news/view/20260319001078"
+    },
+    {
+        "title": "LGD 작년 대형 OLED 영업이익률 한자릿수 후반",
+        "date": "2026-03-19 16:09",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415220?sid=105"
+    },
+    {
+        "title": "이청 삼성D 사장, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 16:08",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=297054"
+    },
+    {
+        "title": "이청 삼성D 사장, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 16:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1349231"
+    },
+    {
+        "title": "애플 iOS 26.4, 아이폰 ‘키보드 씹힘’ 버그 수정",
+        "date": "2026-03-19 16:00",
+        "link": "https://kbench.com/?q=node/277127"
+    },
+    {
+        "title": "단순 커버가 아니다... 엑스플러스, NFC 스마트 솔루션으로 세계 눈독",
+        "date": "2026-03-19 15:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=438272"
+    },
+    {
+        "title": "LG디스플레이, SID 브라운상·석학회원 동시 배출",
+        "date": "2026-03-19 15:46",
+        "link": "https://n.news.naver.com/mnews/article/031/0001014933?sid=101"
+    },
+    {
+        "title": "AI 뒤처진 애플, 매출은 1.5조원…뛰어난 챗봇도 아이폰 통해야",
+        "date": "2026-03-19 15:45",
+        "link": "https://n.news.naver.com/mnews/article/003/0013833275?sid=104"
+    },
+    {
+        "title": "이청 삼성디스플레이 대표, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 15:45",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=121822"
+    },
+    {
+        "title": "코르티스, 애플 50주년 행사 달궜다…5월 신보 기대감 증폭",
+        "date": "2026-03-19 15:35",
+        "link": "https://m.entertain.naver.com/article/009/0005652828"
+    },
+    {
+        "title": "LGD, SID '칼 페르디난드 브라운상' 수상…석학회원도 배출",
+        "date": "2026-03-19 15:25",
+        "link": "https://n.news.naver.com/mnews/article/008/0005332316?sid=101"
+    },
+    {
+        "title": "메타, 메타버스 사실상 접어…6월부터 '호라이즌 월드' 중단",
+        "date": "2026-03-19 15:25",
+        "link": "https://n.news.naver.com/mnews/article/015/0005264385?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장·양준영 LGD 연구소장, 세계정보디스플레이학회 펠로 ...",
+        "date": "2026-03-19 15:23",
+        "link": "https://n.news.naver.com/mnews/article/025/0003510199?sid=101"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 15:22",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3386150"
+    },
+    {
+        "title": "이청 삼성D 사장, SID 펠로 선임돼…LGD선 최고 권위상 나왔다",
+        "date": "2026-03-19 15:18",
+        "link": "https://n.news.naver.com/mnews/article/014/0005494240?sid=101"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 최고 권위 학회 ‘SID 펠로우’ 발탁",
+        "date": "2026-03-19 15:14",
+        "link": "https://www.news2day.co.kr/article/20260319500184"
+    },
+    {
+        "title": "LGD 최현철 사업부장 세계디스플레이협회 ‘칼 페르디난드 브라운상’ ...",
+        "date": "2026-03-19 15:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005652802?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 업계 최고 권위 ‘브라운상’ 수상자 배출… SID 석학회원...",
+        "date": "2026-03-19 15:08",
+        "link": "https://n.news.naver.com/mnews/article/366/0001149862?sid=105"
+    },
+    {
+        "title": "이청 삼성 디스플레이 대표이사, SID 펠로우 선임",
+        "date": "2026-03-19 15:06",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=353939"
+    },
+    {
+        "title": "[IT스페셜-커스텀 PC] 고성능 PC를 더욱 돋보이게! LCD 탑재 컴포넌트 알...",
+        "date": "2026-03-19 15:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58622"
+    },
+    {
+        "title": "LGD, 주총서 흑자 강조했으나...'다음 먹거리'는 불투명",
+        "date": "2026-03-19 15:00",
+        "link": "http://www.metroseoul.co.kr/article/20260319500365"
+    },
+    {
+        "title": "선익시스템, 평택 공장 152억 증축…OLEDoS·페로브스카이트 정조준",
+        "date": "2026-03-19 14:54",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53790"
+    },
+    {
+        "title": "폴더블·LEAD 기술 공로 인정 삼성디스플레이 이청 사장, SID 펠로우 선...",
+        "date": "2026-03-19 14:46",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=733886"
+    },
+    {
+        "title": "정철동 LG디스플레이 사장 “사업 고도화로 성과 극대화할것”…OLED 중...",
+        "date": "2026-03-19 14:46",
+        "link": "https://www.socialvalue.kr/news/view/1065591133144246"
+    },
+    {
+        "title": "이청 삼성D 사장, 세계정보디스플레이학회 석학회원 선임",
+        "date": "2026-03-19 14:44",
+        "link": "https://n.news.naver.com/mnews/article/417/0001134933?sid=101"
+    },
+    {
+        "title": "LG디스플레이, SID '칼 페르디난드 브라운상' 수상자·석학회원 배출 영...",
+        "date": "2026-03-19 14:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0008836340?sid=101"
+    },
+    {
+        "title": "라운즈, AI 스마트 안경 판매 시작…체험형 유통 모델 도입",
+        "date": "2026-03-19 14:40",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=330120"
+    },
+    {
+        "title": "솔루스첨단소재, 전북 함열에 신규 OLED 소재 공장 준공",
+        "date": "2026-03-19 14:36",
+        "link": "https://n.news.naver.com/mnews/article/011/0004601164?sid=101"
+    },
+    {
+        "title": "솔루스첨단소재, 전북 익산 함열에 'OLED 공장' 준공…OLED 소재 통합 생...",
+        "date": "2026-03-19 14:34",
+        "link": "http://www.snmnews.com/news/articleView.html?idxno=566689"
+    },
+    {
+        "title": "애플 폴더블폰 첫해 점유율 28% 전망…시장 판도 바뀌나",
+        "date": "2026-03-19 14:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542494"
+    },
+    {
+        "title": "[글로벌] 오포 '주름 없는 폴더블' 공개...삼성 애플과 3파전 본격화",
+        "date": "2026-03-19 14:30",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=150357"
+    },
+    {
+        "title": "[글로벌] 애플 핵심 인재 이탈...홈 디바이스 전략 '균열'",
+        "date": "2026-03-19 14:30",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=150358"
+    },
+    {
+        "title": "솔루스첨단소재, 익산 OLED 소재 공장 준공",
+        "date": "2026-03-19 14:29",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415190?sid=105"
+    },
+    {
+        "title": "애플 NFC 정책 도마 위…브라질 경쟁 당국 압박",
+        "date": "2026-03-19 14:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642912"
+    },
+    {
+        "title": "이청 삼성D 사장, SID 펠로 선임…LGD, 최고 권위 '브라운상'(종합)",
+        "date": "2026-03-19 14:20",
+        "link": "https://n.news.naver.com/mnews/article/001/0015969097?sid=101"
+    },
+    {
+        "title": "[Tech &amp; Now] 이청 삼성디스플레이 사장, 세계정보디스플레이학회 펠로우...",
+        "date": "2026-03-19 14:16",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702771"
+    },
+    {
+        "title": "솔루스첨단소재, 익산 OLED 공장 준공…생산능력 2배 확대 본격화",
+        "date": "2026-03-19 14:14",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=115678"
+    },
+    {
+        "title": "이청 삼성D 사장, 세계정보디스플레이학회 석학회원 선임",
+        "date": "2026-03-19 14:14",
+        "link": "https://n.news.naver.com/mnews/article/011/0004601152?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 적자 탈출 하자마자 설비투자 1兆 이상↑···재원은?",
+        "date": "2026-03-19 14:04",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=419898"
+    },
+    {
+        "title": "삼성D·LGD, SID 석학회원 선정…개인상도 나란히 수상(종합)",
+        "date": "2026-03-19 14:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006238692?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차별화 기술로 OLED 게이밍 모니터 시장 잡는다",
+        "date": "2026-03-19 14:02",
+        "link": "https://www.mediapen.com/news/view/1087868"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자…OLED 중심으로 ‘수익 안정화’",
+        "date": "2026-03-19 14:02",
+        "link": "https://www.news2day.co.kr/article/20260319500091"
+    },
+    {
+        "title": "LG디스플레이, 체질 개선 성공… 흑자 전환 이끈 'OLED' 기술 경쟁력",
+        "date": "2026-03-19 14:02",
+        "link": "https://www.asiatime.co.kr/article/20260319500072"
+    },
+    {
         "title": "정철동 LGD, OLED 재무 안정성 확보에 '자신감'…원가 혁신·기술 고도...",
         "date": "2026-03-19 14:00",
         "link": "https://n.news.naver.com/mnews/article/138/0002221208?sid=105"
     },
     {
-        "title": "LG디스플레이, 4년 만에 흑자 전환…'OLED 고도화'로 정면승부",
-        "date": "2026-03-19 14:00",
-        "link": "https://www.sentv.co.kr/article/view/sentv202603190107"
-    },
-    {
         "title": "LG디스플레이, OLED 공정에 AI 전면 도입…연 2000억원 아꼈다",
         "date": "2026-03-19 14:00",
         "link": "https://www.m-i.kr/news/articleView.html?idxno=1355365"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자 전환…'OLED 고도화'로 정면승부",
+        "date": "2026-03-19 14:00",
+        "link": "https://www.sentv.co.kr/article/view/sentv202603190107"
     },
     {
         "title": "솔루스첨단소재, 함열 OLED 신공장 가동…글로벌 소재 시장 공략 가속",
@@ -45,7 +430,7 @@
         "link": "https://n.news.naver.com/mnews/article/003/0013832555?sid=101"
     },
     {
-        "title": "삼성디스플레이 이청 대표 세계적 권위 학회서 '석학' 인정, '디스플레...",
+        "title": "[허프 사람&amp;말] 삼성디스플레이 대표 이청 세계적 권위 학회서 '석학' 인...",
         "date": "2026-03-19 13:40",
         "link": "https://www.huffingtonpost.kr/article/250396"
     },
@@ -215,6 +600,11 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002221157?sid=105"
     },
     {
+        "title": "솔루스첨단소재, ‘함열 공장’ 준공식 개최…OLED 소재 공장 통합",
+        "date": "2026-03-19 10:08",
+        "link": "https://www.ceoscoredaily.com/page/view/2026031909535523653"
+    },
+    {
         "title": "OLED로 증명한 기술력…LG디스플레이, '고객가치'로 승부",
         "date": "2026-03-19 10:05",
         "link": "https://n.news.naver.com/mnews/article/119/0003070732?sid=101"
@@ -250,11 +640,6 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002221150?sid=105"
     },
     {
-        "title": "이청 삼성D 사장, 세계정보디스플레이학회 '펠로우' 선임",
-        "date": "2026-03-19 09:56",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=243049"
-    },
-    {
         "title": "이청 삼성디스플레이 사장, 세계정보디스플레이학회 '펠로우' 선임",
         "date": "2026-03-19 09:56",
         "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=243049"
@@ -273,6 +658,11 @@
         "title": "이청 삼성디스플레이 대표, 세계정보디스플레이학회 펠로우 선임",
         "date": "2026-03-19 09:52",
         "link": "https://n.news.naver.com/mnews/article/138/0002221146?sid=105"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 세계 최고 권위 SID 펠로우 선임 영예",
+        "date": "2026-03-19 09:50",
+        "link": "https://www.ceoscoredaily.com/page/view/2026031909345895675"
     },
     {
         "title": "솔루스첨단소재, 익산 함열에 OLED 통합 생산공장 가동",
@@ -308,6 +698,11 @@
         "title": "솔루스첨단소재 전북 OLED 신규 공장 준공…'그린인광' 하반기 양산",
         "date": "2026-03-19 09:38",
         "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=353953"
+    },
+    {
+        "title": "솔루스첨단소재, 전북 함열 ‘신규 OLED 공장’ 준공",
+        "date": "2026-03-19 09:36",
+        "link": "http://www.datanews.co.kr/news/article.html?no=143863"
     },
     {
         "title": "애플, 에어팟 맥스2 출시하자마자 후속작 준비…18개월 내 신형 등장",
@@ -350,11 +745,6 @@
         "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572678594006"
     },
     {
-        "title": "삼성디스플레이 대표 이청 세계정보디스플레이학회 펠로우로 뽑혀, OLE...",
-        "date": "2026-03-19 09:26",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=433349"
-    },
-    {
         "title": "이청 삼성디스플레이 사장, 세계정보디스플레이학회 펠로우 선임",
         "date": "2026-03-19 09:22",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=127663"
@@ -378,6 +768,11 @@
         "title": "이청 삼성D 사장, 세계정보디스플레이학회 펠로우 선임",
         "date": "2026-03-19 09:18",
         "link": "https://n.news.naver.com/mnews/article/016/0002616005?sid=101"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, 세계정보디스플레이학회 펠로우 선임",
+        "date": "2026-03-19 09:16",
+        "link": "https://www.cnbnews.com/news/article.html?no=784398"
     },
     {
         "title": "이청 삼성디스플레이 사장, 세계정보디스플레이학회 '펠로우' 선정",
@@ -553,495 +948,5 @@
         "title": "삼성전자, 중저가 스마트폰에 중국 차이나스타 OLED 패널 장착",
         "date": "2026-03-19 07:32",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542477"
-    },
-    {
-        "title": "[소비자분쟁 The50 ⑪] 냉장고 도어 플라스틱 조각 하나 떨어졌는데 통...",
-        "date": "2026-03-19 06:20",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=752136"
-    },
-    {
-        "title": "[비즈톡톡] K팝과 손잡는 애플… ‘BTS 동생’ 코르티스와 50주년 기념",
-        "date": "2026-03-19 06:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001149653?sid=105"
-    },
-    {
-        "title": "메타, 메타버스 사업 접는다…호라이즌 월드 VR 종료",
-        "date": "2026-03-19 04:18",
-        "link": "https://n.news.naver.com/mnews/article/374/0000498855?sid=104"
-    },
-    {
-        "title": "솔루스첨단소재, 376억 투자 익산 공장 준공",
-        "date": "2026-03-19 01:16",
-        "link": "https://www.sentv.co.kr/article/view/sentv202603190001"
-    },
-    {
-        "title": "이엘피 IT 8세대 장비, 삼성D·BOE 이어 비전옥스·CSOT서 수주",
-        "date": "2026-03-18 23:42",
-        "link": "https://n.news.naver.com/mnews/article/092/0002415052?sid=105"
-    },
-    {
-        "title": "익산 함열 OLED 소재 생산 공장 본격 가동",
-        "date": "2026-03-18 21:30",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2201288"
-    },
-    {
-        "title": "“차고에서 시작된 반세기 혁신”… 창립 50년 애플, AI시대 재도약 나...",
-        "date": "2026-03-18 20:23",
-        "link": "https://n.news.naver.com/mnews/article/005/0001837936?sid=101"
-    },
-    {
-        "title": "애플 50주년, 韓 행사 주인공은 'BTS 동생' 코르티스",
-        "date": "2026-03-18 20:23",
-        "link": "https://n.news.naver.com/mnews/article/421/0008834637?sid=105"
-    },
-    {
-        "title": "코르티스 뜨자 '북적'⋯애플 창립 50주년 행사에 수백명 몰려",
-        "date": "2026-03-18 19:19",
-        "link": "https://n.news.naver.com/mnews/article/031/0001014631?sid=105"
-    },
-    {
-        "title": "익산 함열에 첨단소재 생산기지 구축…'산업 지도' 바뀐다",
-        "date": "2026-03-18 19:18",
-        "link": "http://sjbnews.com/news/news.php?number=874068"
-    },
-    {
-        "title": "[현장]미친 자들이 세상을 바꾼다 코르티스, 애플 50주년 철학에 답했...",
-        "date": "2026-03-18 18:38",
-        "link": "https://n.news.naver.com/mnews/article/018/0006238141?sid=105"
-    },
-    {
-        "title": "[영상]맥북, 작업하기 편해요…코르티스, 애플 '반백살' 축하나서",
-        "date": "2026-03-18 18:15",
-        "link": "https://n.news.naver.com/mnews/article/008/0005331902?sid=105"
-    },
-    {
-        "title": "PCB·FPCB 관련주, '룰루랄라 콧노래' 티엘비·대덕전자·이수페타시스....",
-        "date": "2026-03-18 18:10",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=251634"
-    },
-    {
-        "title": "밤샘 대기 부른 열기…코르티스, 애플 50년 ‘다름의 가치’를 잇다",
-        "date": "2026-03-18 17:59",
-        "link": "https://n.news.naver.com/mnews/article/081/0003627164?sid=101"
-    },
-    {
-        "title": "매출 57%가 애플, '짝사랑'에도 웃는 LGD···유리기판 '비밀병기' 꺼내...",
-        "date": "2026-03-18 17:55",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2407722"
-    },
-    {
-        "title": "[지자체 이슈] 전북특별자치도, '전북자치도-조달청, 전국 지자체 최초...",
-        "date": "2026-03-18 17:50",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=453303"
-    },
-    {
-        "title": "익산에 OLED 소재 공장 준공…“생산거점 기대”",
-        "date": "2026-03-18 17:47",
-        "link": "https://n.news.naver.com/mnews/article/022/0004113841?sid=102"
-    },
-    {
-        "title": "솔루스첨단소재, 익산 함열농공단지에 OLED 공장 준공",
-        "date": "2026-03-18 17:34",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1348732"
-    },
-    {
-        "title": "가을부터는 신형 폴더블폰 가지려면 300만원 써야…부품값 폭등에 고...",
-        "date": "2026-03-18 17:21",
-        "link": "https://n.news.naver.com/mnews/article/029/0003016666?sid=105"
-    },
-    {
-        "title": "솔루스첨단소재, 익산 농공단지에 공장 준공…OLED 소재 생산",
-        "date": "2026-03-18 17:19",
-        "link": "https://n.news.naver.com/mnews/article/001/0015967205?sid=102"
-    },
-    {
-        "title": "창의성? 예술 영역 아닌 일상 코르티스, 애플과 50주년과 함께한 '영크...",
-        "date": "2026-03-18 17:09",
-        "link": "https://n.news.naver.com/mnews/article/138/0002221078?sid=105"
-    },
-    {
-        "title": "솔루스첨단소재, 익산에 OLED 공장 준공…소부장 거점 도약",
-        "date": "2026-03-18 16:45",
-        "link": "https://n.news.naver.com/mnews/article/421/0008834279?sid=102"
-    },
-    {
-        "title": "벤큐, 맥 컬러 정확히 구현한 5K 27인치 Mac 전용 모니터 'MA270S’ 출시",
-        "date": "2026-03-18 16:44",
-        "link": "https://gamefocus.co.kr/detail.php?number=174405"
-    },
-    {
-        "title": "탑런토탈솔루션, 아우모비오로부터 차량 LCD 백라이트 91억원 규모 수주",
-        "date": "2026-03-18 16:29",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408881?sid=105"
-    },
-    {
-        "title": "솔루스첨단소재, 익산 함열공장 준공… '글로벌 OLED 소재 핵심 거점' 본...",
-        "date": "2026-03-18 16:26",
-        "link": "https://www.mtnews.net/news/articleView.html?idxno=24233"
-    },
-    {
-        "title": "폴더블 400만원 시대···삼성·애플, 원가 압박에 초고가 전략 선회",
-        "date": "2026-03-18 16:24",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2407603"
-    },
-    {
-        "title": "칩플레이션 직격탄...삼성·애플, 소비자 이탈 최소화 사활",
-        "date": "2026-03-18 16:22",
-        "link": "http://www.metroseoul.co.kr/article/20260318500463"
-    },
-    {
-        "title": "LGD 이어 中도 보급형 OLED 양산 속도… ‘시장 전환점’ 기대",
-        "date": "2026-03-18 16:21",
-        "link": "https://n.news.naver.com/mnews/article/029/0003016644?sid=101"
-    },
-    {
-        "title": "원가 고공행진 모바일…하반기 폴더블도 예외 없다",
-        "date": "2026-03-18 16:18",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1294708&inflow=N"
-    },
-    {
-        "title": "애플 50주년 행사에 뜬 '코르티스', 명동서 창작 노하우 푼다",
-        "date": "2026-03-18 16:15",
-        "link": "https://n.news.naver.com/mnews/article/138/0002221061?sid=105"
-    },
-    {
-        "title": "[2026 삼성전자 주주총회] 노태문 사장 “올해 AI 전환기 선도 기업으로...",
-        "date": "2026-03-18 16:12",
-        "link": "https://www.news2day.co.kr/article/20260318500189"
-    },
-    {
-        "title": "솔루스첨단소재, 376억 투자해 익산 OLED 소재 공장 준공",
-        "date": "2026-03-18 16:10",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=53739"
-    },
-    {
-        "title": "익산 '산업지도' 바뀐다…OLED 발광 소재 공장 준공 '디스플레이 거점' ...",
-        "date": "2026-03-18 16:09",
-        "link": "https://n.news.naver.com/mnews/article/002/0002432424?sid=102"
-    },
-    {
-        "title": "바로(VARO), 풀 LCD 탑재 ‘V104L 기계식 키보드’ 출시… 이마트 일렉트...",
-        "date": "2026-03-18 16:08",
-        "link": "https://kbench.com/?q=node/277080"
-    },
-    {
-        "title": "'주총시즌개막' 삼성전자 노태문 불확실성 극복해 AI 전환기 선도",
-        "date": "2026-03-18 16:08",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5002463"
-    },
-    {
-        "title": "LG 보급형 OLED TV, 유럽 출고가 낮춘다",
-        "date": "2026-03-18 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408863?sid=101"
-    },
-    {
-        "title": "애플 맥 시리즈 싹 다 바뀐다…연말까지 신제품 4종 선봬",
-        "date": "2026-03-18 15:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642440"
-    },
-    {
-        "title": "솔루스첨단소재, 함열농공단지 376억 투자 준공",
-        "date": "2026-03-18 15:36",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=436032"
-    },
-    {
-        "title": "LGD, 정관 손질·대규모 투자로 'OLED 전환' 가속",
-        "date": "2026-03-18 15:10",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=825174"
-    },
-    {
-        "title": "팀 쿡 은퇴 없다 사퇴설 일축···폴더블 아이폰, 북미 판도 변화 예...",
-        "date": "2026-03-18 15:08",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2407584"
-    },
-    {
-        "title": "삼성전자, 제57기 정기 주총서 차별화된 근원적 기술 경쟁력으로 경쟁...",
-        "date": "2026-03-18 14:56",
-        "link": "http://www.lkp.news/news/articleView.html?idxno=77871"
-    },
-    {
-        "title": "OCI, 11-나인급 기술력 앞세워 글로벌 공급망 핵심 거점 노린다",
-        "date": "2026-03-18 14:52",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437846"
-    },
-    {
-        "title": "애플, 백그라운드 보안 개선 'iOS 26.3.1 (a)' 마이너 업데이트 출시",
-        "date": "2026-03-18 14:44",
-        "link": "https://kbench.com/?q=node/277073"
-    },
-    {
-        "title": "“얼굴에 AI 카메라 달린다”… 삼성 '갤럭시 글라스' 스마트 안경 판 흔...",
-        "date": "2026-03-18 14:37",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408781?sid=104"
-    },
-    {
-        "title": "삼성전자, 주총서 사업전략 발표...근원적 기술 경쟁력 강화가 최우선...",
-        "date": "2026-03-18 14:30",
-        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=128303"
-    },
-    {
-        "title": "팀 쿡 “애플없는 삶 상상 못해” 은퇴설 일축…‘AI늑장’ 위기론 여전",
-        "date": "2026-03-18 14:30",
-        "link": "https://n.news.naver.com/mnews/article/009/0005652056?sid=105"
-    },
-    {
-        "title": "익산시, 함열농공단지에 첨단소재 생산기지 구축…'산업 지도' 바뀐다",
-        "date": "2026-03-18 14:25",
-        "link": "https://n.news.naver.com/mnews/article/629/0000482699?sid=102"
-    },
-    {
-        "title": "美·日 군용 디스플레이 공조 시사…삼성디스플레이 '긴장'",
-        "date": "2026-03-18 14:06",
-        "link": "https://dealsite.co.kr/articles/158620"
-    },
-    {
-        "title": "메타, '호라이즌 월드' 퀘스트 VR 지원 중단…스마트 안경으로 전략 전...",
-        "date": "2026-03-18 14:02",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=860801"
-    },
-    {
-        "title": "[데이터뉴스] 첫 아이폰 폴더블 출격…애플, 시장 진입 첫해 2위 전망",
-        "date": "2026-03-18 14:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408751?sid=105"
-    },
-    {
-        "title": "익산시, OLED 발광 소재 전용 공장 준공식 개최…'산업 지도' 바뀐다",
-        "date": "2026-03-18 13:54",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5002356"
-    },
-    {
-        "title": "[AI의 종목 이야기] 애플 홈디바이스 수장, 핀란드 오우라 헬스로",
-        "date": "2026-03-18 13:37",
-        "link": "https://www.newspim.com/news/view/20260318000777"
-    },
-    {
-        "title": "점핏, 개발자 대상 경품 이벤트…애플워치·에어팟 등 풍성",
-        "date": "2026-03-18 13:36",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=724739"
-    },
-    {
-        "title": "삼성전자, AI·6G·로보틱스 등 미래 혁신에 전사적 역량",
-        "date": "2026-03-18 13:36",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=413478"
-    },
-    {
-        "title": "메타, VR 헤드셋에서 메타버스 서비스 제외",
-        "date": "2026-03-18 13:24",
-        "link": "https://n.news.naver.com/mnews/article/374/0000498723?sid=104"
-    },
-    {
-        "title": "노태문 삼성 사장 올해 갤럭시 AI 8억대 기기에 탑재…OS까지 AI 결합",
-        "date": "2026-03-18 13:21",
-        "link": "https://n.news.naver.com/mnews/article/003/0013829707?sid=105"
-    },
-    {
-        "title": "롯데칠성, '핫식스 더킹 파인버스트' 출시…파인애플 풍미 강화",
-        "date": "2026-03-18 12:59",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408690?sid=101"
-    },
-    {
-        "title": "벤큐, 맥 컬러 정확히 구현한 5K 27인치 Mac 전용 모니터 ‘MA270S’ 출시",
-        "date": "2026-03-18 12:50",
-        "link": "https://kbench.com/?q=node/277067"
-    },
-    {
-        "title": "기가바이트 게이밍 노트북 3종, 지마켓 ‘빡세일’ 프로모션 참여",
-        "date": "2026-03-18 12:48",
-        "link": "https://kbench.com/?q=node/277066"
-    },
-    {
-        "title": "[2026 주총] '국민주' 삼성전자, HBM4 최초 양산출하에 '훈풍'",
-        "date": "2026-03-18 12:30",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=251839"
-    },
-    {
-        "title": "오포가 지운 '주름', 삼성·애플 차기작에 불 지폈다",
-        "date": "2026-03-18 12:10",
-        "link": "https://n.news.naver.com/mnews/article/293/0000081113?sid=101"
-    },
-    {
-        "title": "메타, VR 헤드셋에서 메타버스 서비스 뺀다",
-        "date": "2026-03-18 11:56",
-        "link": "https://n.news.naver.com/mnews/article/001/0015966054?sid=104"
-    },
-    {
-        "title": "삼성전자 확바뀐 주총 분위기…AI 중심 사업 전략 공개",
-        "date": "2026-03-18 11:56",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=724721"
-    },
-    {
-        "title": "롯데칠성음료, 파인애플의 달콤한 풍미 담은 에너지 음료 '핫식스 더킹...",
-        "date": "2026-03-18 11:40",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247685"
-    },
-    {
-        "title": "‘칩플레이션’에 폴더블폰 400만원 시대",
-        "date": "2026-03-18 11:30",
-        "link": "https://n.news.naver.com/mnews/article/016/0002615552?sid=105"
-    },
-    {
-        "title": "3모드 연결 풀 LCD 기계식 키보드 '바로 V104L'",
-        "date": "2026-03-18 11:22",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58601"
-    },
-    {
-        "title": "“이어폰 불편하고 자꾸 빠져” 사실 반대로 껴야 한다고?",
-        "date": "2026-03-18 11:16",
-        "link": "https://n.news.naver.com/mnews/article/296/0000098649?sid=103"
-    },
-    {
-        "title": "'폴더블 아이폰' 출시가 판 흔드나…북 타입 폴더블 경쟁 구도 재편",
-        "date": "2026-03-18 11:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=207002"
-    },
-    {
-        "title": "100인치 TV보다 비싸네…아이폰 폴더블 최대 400만원대 전망",
-        "date": "2026-03-18 10:53",
-        "link": "https://n.news.naver.com/mnews/article/421/0008832830?sid=105"
-    },
-    {
-        "title": "애플, 50년의 역사…뉴욕 이어 中 대규모 축하 이벤트",
-        "date": "2026-03-18 10:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642316"
-    },
-    {
-        "title": "애플 홈 책임자 이탈…스마트 홈 전략 흔들",
-        "date": "2026-03-18 10:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642305"
-    },
-    {
-        "title": "애플 폴더블 공습…삼성전자, 초격차 전략은",
-        "date": "2026-03-18 10:38",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702660"
-    },
-    {
-        "title": "화웨이, 美 제재 이후 6년 만에 인도 복귀 타진",
-        "date": "2026-03-18 10:35",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408594?sid=105"
-    },
-    {
-        "title": "애플, 폴더블 판 흔들까…글로벌 점유율 30% 육박 전망",
-        "date": "2026-03-18 10:34",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=864858"
-    },
-    {
-        "title": "'웰치스 제로 애플망고맛' 출시",
-        "date": "2026-03-18 10:30",
-        "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71492"
-    },
-    {
-        "title": "솔루스첨단소재, 익산 OLED 공장 준공…전북 소부장 거점 도약",
-        "date": "2026-03-18 10:29",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408579?sid=102"
-    },
-    {
-        "title": "“바뀐 건 칩뿐?”… 아이폰18e '혁신보다 유지' 승부수 통할까",
-        "date": "2026-03-18 10:29",
-        "link": "https://n.news.naver.com/mnews/article/030/0003408578?sid=104"
-    },
-    {
-        "title": "애플TV, 콘텐츠 찾기 쉬워진다…지니어스 브라우저 추가",
-        "date": "2026-03-18 10:26",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642292"
-    },
-    {
-        "title": "애플, iOS 27 공개 앞두고 중국 개발자 커뮤니티 확장",
-        "date": "2026-03-18 10:12",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642243"
-    },
-    {
-        "title": "오포, 화면 주름 획기적으로 개선한 차세대 폴더블폰 ‘파인드 N6’ 공개",
-        "date": "2026-03-18 10:10",
-        "link": "https://kbench.com/?q=node/277042"
-    },
-    {
-        "title": "26년 외길이 만든 초격차 라온텍, 글로벌 XR 기기 핵심 심장부 장악",
-        "date": "2026-03-18 10:10",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437738"
-    },
-    {
-        "title": "애플, 아이폰·아이패드·맥 대상 첫 '백그라운드 보안' 업데이트 실시",
-        "date": "2026-03-18 10:08",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642220"
-    },
-    {
-        "title": "애플, 아이패드OS 26.4 공개 임박…멀티태스킹·AI 기능 추가",
-        "date": "2026-03-18 10:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642210"
-    },
-    {
-        "title": "아이폰17e 분해 결과 공개…대부분 부품 '아이폰16e와 호환'",
-        "date": "2026-03-18 09:42",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542448"
-    },
-    {
-        "title": "홈 기기 하드웨어 수장도 떠났다…애플 떠난 브라이언 린치 '나비효과'",
-        "date": "2026-03-18 09:30",
-        "link": "https://n.news.naver.com/mnews/article/138/0002220947?sid=105"
-    },
-    {
-        "title": "오포의 주름 없는 폴더블폰, 진짜 주름 없나 봤더니",
-        "date": "2026-03-18 09:22",
-        "link": "https://n.news.naver.com/mnews/article/092/0002414856?sid=105"
-    },
-    {
-        "title": "레이저로 반도체 깎는다... 이오테크닉스, 글로벌 반도체 거인들도 '러...",
-        "date": "2026-03-18 09:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437703"
-    },
-    {
-        "title": "롯데칠성음료, 파인애플맛 ‘핫식스 더킹 파인버스트’ 출시",
-        "date": "2026-03-18 09:16",
-        "link": "https://www.news2day.co.kr/article/20260318500053"
-    },
-    {
-        "title": "롯데칠성, 파인애플 '핫식스 더킹 파인버스트' 출시",
-        "date": "2026-03-18 09:08",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=57026"
-    },
-    {
-        "title": "“제로로 즐기는 망고”…농심, ‘웰치스 제로 애플망고맛’ 출시",
-        "date": "2026-03-18 09:07",
-        "link": "https://n.news.naver.com/mnews/article/468/0001225874?sid=101"
-    },
-    {
-        "title": "디월드, ‘고기능소재장비위크’ 참가… AI 기반 비전 검사 솔루션 ‘A...",
-        "date": "2026-03-18 09:06",
-        "link": "https://www.gosiweek.com/article/1065572712487033"
-    },
-    {
-        "title": "롯데칠성, '핫식스 더킹 파인버스트' 출시…파인애플 풍미",
-        "date": "2026-03-18 09:00",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=724666"
-    },
-    {
-        "title": "엄마 나 접는 폰 사줘 했다간 큰일 나겠네…400만원까지 치솟는다",
-        "date": "2026-03-18 08:53",
-        "link": "https://n.news.naver.com/mnews/article/277/0005735978?sid=105"
-    },
-    {
-        "title": "폴더블폰 ‘400만원’ 칩플레이션 직격탄…삼성·애플 하반기 ‘가격’...",
-        "date": "2026-03-18 08:39",
-        "link": "https://n.news.naver.com/mnews/article/016/0002615297?sid=105"
-    },
-    {
-        "title": "입사지원 하고 애플워치 받고 점핏, 개발자 취업 지원 사격",
-        "date": "2026-03-18 08:32",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=309959"
-    },
-    {
-        "title": "애플 '폴더블 아이폰' 출격 준비…점유율 30% 전망",
-        "date": "2026-03-18 07:38",
-        "link": "https://n.news.naver.com/mnews/article/031/0001014287?sid=105"
-    },
-    {
-        "title": "[마켓 인 싱가포르] 기능이 진수성찬...갤럭시 S26, 싱가포르서도 '쾌...",
-        "date": "2026-03-18 07:30",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=150293"
-    },
-    {
-        "title": "中과 손잡은 LGD… 대형 OLED 반등 노린다",
-        "date": "2026-03-18 07:28",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158784"
     }
 ]
