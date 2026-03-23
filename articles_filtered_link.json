@@ -1,5 +1,280 @@
 [
     {
+        "title": "완벽주의 애플의 고집? 폴더블 아이폰 출시 12월로 또 밀리나",
+        "date": "2026-03-23 14:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644186"
+    },
+    {
+        "title": "삼성전자 갤럭시 S26, 애플 에어드롭 호환 지원",
+        "date": "2026-03-23 13:52",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=734385"
+    },
+    {
+        "title": "이엠텍, 베트남·인도네시아 거점 삼아 글로벌 가전 시장 공략 가속 페...",
+        "date": "2026-03-23 13:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=439098"
+    },
+    {
+        "title": "덕산네오룩스·HB테크놀러지 주가 반등… 고부가 패널 수요 확대 기대",
+        "date": "2026-03-23 13:02",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=439094"
+    },
+    {
+        "title": "아이폰18 프로 카메라 승부수…애플, 앱 개발사 인수 무산",
+        "date": "2026-03-23 12:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415630?sid=105"
+    },
+    {
+        "title": "[FreeView] 99만원 맥북·99만원 아이폰...글로벌 'K자형 경제' 고착화 경...",
+        "date": "2026-03-23 12:42",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=150437"
+    },
+    {
+        "title": "삼성 갤럭시, 이제 아이폰과 파일 공유 가능…“퀵쉐어·에어드롭 양방...",
+        "date": "2026-03-23 11:51",
+        "link": "https://n.news.naver.com/mnews/article/366/0001150754?sid=105"
+    },
+    {
+        "title": "애플, 카메라 끝판왕 '할라이드' 핵심 인재 영입",
+        "date": "2026-03-23 11:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644108"
+    },
+    {
+        "title": "운전대 잡는 순간 소름... 애플 비전 프로가 만든 역대급 미친 몰입감",
+        "date": "2026-03-23 11:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644089"
+    },
+    {
+        "title": "애플, 맥북 프로 대대적 리디자인 예고…OLED·터치스크린·M6 칩 탑재",
+        "date": "2026-03-23 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644084"
+    },
+    {
+        "title": "삼성전자 '퀵쉐어', 애플 '에어드롭'과 호환…갤럭시-아이폰 파일 전송...",
+        "date": "2026-03-23 11:39",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000027383"
+    },
+    {
+        "title": "애플 스마트홈 기기 품절 조짐…차세대 제품 나오나",
+        "date": "2026-03-23 11:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644063"
+    },
+    {
+        "title": "美 특허청, 톈마 IPR 기각은 기술 아닌 '안보’ 판단",
+        "date": "2026-03-23 11:28",
+        "link": "https://n.news.naver.com/mnews/article/123/0002379944?sid=004"
+    },
+    {
+        "title": "갤럭시-아이폰 파일 전송 장벽 허물어졌다…갤S26, '에어드롭' 지원 시작",
+        "date": "2026-03-23 11:25",
+        "link": "https://n.news.naver.com/mnews/article/003/0013839499?sid=105"
+    },
+    {
+        "title": "갤럭시 트라이폴드, 해외에서도 '희귀템'으로…美서도 단종 수순",
+        "date": "2026-03-23 11:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=290835"
+    },
+    {
+        "title": "갤럭시 S26서 애플 에어드롭 기능 쓴다",
+        "date": "2026-03-23 11:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005495699?sid=105"
+    },
+    {
+        "title": "갤럭시 트라이폴드, 해외에서도 '희귀템'으로…美서도 단종 수순",
+        "date": "2026-03-23 11:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013839448?sid=105"
+    },
+    {
+        "title": "'가성비' 애플 vs '스펙' 삼성…칩플레이션 뚫을 중급형 승자는",
+        "date": "2026-03-23 11:08",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703066"
+    },
+    {
+        "title": "에이수스, 하이엔드 고성능 OLED 게이밍 모니터 2종 출시",
+        "date": "2026-03-23 10:56",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=712630"
+    },
+    {
+        "title": "OS 장벽 허문다 삼성전자 '에어드롭' 연동…갤럭시·아이폰 파일 전송...",
+        "date": "2026-03-23 10:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=504811"
+    },
+    {
+        "title": "“또 미뤄진다?”… 폴더블 아이폰, 올해 12월에 나온다",
+        "date": "2026-03-23 10:50",
+        "link": "https://n.news.naver.com/mnews/article/030/0003410124?sid=104"
+    },
+    {
+        "title": "갤럭시·아이폰 벽 허문다 삼성전자, 에어드롭 연동",
+        "date": "2026-03-23 10:48",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/23/2026032300137.html"
+    },
+    {
+        "title": "갤럭시폰에서도 애플 에어드롭 쓴다",
+        "date": "2026-03-23 10:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415597?sid=105"
+    },
+    {
+        "title": "삼성 '퀵쉐어' 애플 '에어드롭'과 호환… 이종 기기 파일 전송의 새 시대...",
+        "date": "2026-03-23 10:34",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=861214"
+    },
+    {
+        "title": "애플, 아이폰18 프로 카메라 앱 강화 위해 ‘럭스 옵틱스’ 인수 타진",
+        "date": "2026-03-23 10:28",
+        "link": "https://kbench.com/?q=node/277188"
+    },
+    {
+        "title": "애플 3월 막판 일정 공개 임박…업데이트·신제품 예고",
+        "date": "2026-03-23 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644053"
+    },
+    {
+        "title": "샤오미에 계약서 공개 명령 받은 애플, 재판 불복하고 항소",
+        "date": "2026-03-23 10:16",
+        "link": "https://www.theguru.co.kr/news/article.html?no=99558"
+    },
+    {
+        "title": "갤럭시도 에어드랍 된다…삼성, 파일 공유 장벽 낮춘다",
+        "date": "2026-03-23 10:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542571"
+    },
+    {
+        "title": "드디어 한방에 된다…오늘부터 풀린 갤럭시·아이폰 ‘이 기능’",
+        "date": "2026-03-23 10:10",
+        "link": "https://www.wikitree.co.kr/articles/1126878"
+    },
+    {
+        "title": "에이수스코리아, 고성능 OLED 게이밍 모니터 2종 출시",
+        "date": "2026-03-23 10:08",
+        "link": "https://gamefocus.co.kr/detail.php?number=174533"
+    },
+    {
+        "title": "애플, 보급형 아이패드 신형 준비…A18 칩 탑재 전망",
+        "date": "2026-03-23 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644029"
+    },
+    {
+        "title": "iOS 26, 불편한 홈 화면은 그대로…애플은 왜 외면할까",
+        "date": "2026-03-23 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=644027"
+    },
+    {
+        "title": "에이수스, 한계를 뛰어넘은 차세대 하이앤드 OLED 게이밍 모니터 2종 출...",
+        "date": "2026-03-23 09:54",
+        "link": "https://kbench.com/?q=node/277178"
+    },
+    {
+        "title": "애플 50주년 앞두고 ‘포스트 팀 쿡’ 부상…후계 1순위는 존 터너스",
+        "date": "2026-03-23 09:53",
+        "link": "https://n.news.naver.com/mnews/article/009/0005654272?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 S26에 '에어드롭' 기능 추가…양방향 파일 전송",
+        "date": "2026-03-23 09:47",
+        "link": "https://n.news.naver.com/mnews/article/422/0000847005?sid=101"
+    },
+    {
+        "title": "거실 화면이 나를 따라온다…애플, 로봇 팔 탑재한 AI 홈 허브 'J595' 부...",
+        "date": "2026-03-23 09:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002221515?sid=105"
+    },
+    {
+        "title": "“애플 폴더블폰·피지컬AI ‘쌍끌이’” 평가에…비에이치, 장 초반 5%...",
+        "date": "2026-03-23 09:29",
+        "link": "https://n.news.naver.com/mnews/article/018/0006240736?sid=101"
+    },
+    {
+        "title": "'9월은 프로·12월은 폴더블' 애플, 아이폰18 시리즈로 '패턴 파괴' 승부...",
+        "date": "2026-03-23 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002221510?sid=105"
+    },
+    {
+        "title": "나무 한 그루론 숲 못 이뤄 팀 쿡 애플 CEO, 中 베이징서 규제 뚫고 공...",
+        "date": "2026-03-23 09:15",
+        "link": "https://n.news.naver.com/mnews/article/138/0002221504?sid=105"
+    },
+    {
+        "title": "갤S26, 에어드롭 지원... 아이폰과 파일 공유 가능",
+        "date": "2026-03-23 09:12",
+        "link": "https://n.news.naver.com/mnews/article/030/0003410012?sid=105"
+    },
+    {
+        "title": "패권 갈등이 낳은 디스플레이 지형도 변화··· K-디스플레이 다시 웃는...",
+        "date": "2026-03-23 09:12",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=139911"
+    },
+    {
+        "title": "갤럭시, 드디어 에어드롭 지원...아이폰과 파일 공유 시대 열려[모닝폰...",
+        "date": "2026-03-23 08:59",
+        "link": "https://n.news.naver.com/mnews/article/018/0006240694?sid=105"
+    },
+    {
+        "title": "A18 아이패드, 곧 나온다…AI 기능 대폭 강화",
+        "date": "2026-03-23 08:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002415546?sid=105"
+    },
+    {
+        "title": "비에이치, 애플 폴더블폰 공급에 매출 2조원↑…목표가↑-대신",
+        "date": "2026-03-23 08:43",
+        "link": "https://n.news.naver.com/mnews/article/008/0005333445?sid=101"
+    },
+    {
+        "title": "애플 vs 삼성, 폴더블 정면승부…300만원대 가격이 변수",
+        "date": "2026-03-23 08:40",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=356699"
+    },
+    {
+        "title": "비에이치, 애플 폴더블 출시 '직수혜' 넘어 휴머노이드까지…매출 2조...",
+        "date": "2026-03-23 08:40",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=727769"
+    },
+    {
+        "title": "“비에이치, 애플 폴더블폰 생산 가시화에 목표가↑”-대신",
+        "date": "2026-03-23 08:28",
+        "link": "https://www.itooza.com/common/iview.php?no=2026032308265180447"
+    },
+    {
+        "title": "[클릭 e종목]비에이치, 목표가 상향…애플 폴더블폰 가시화",
+        "date": "2026-03-23 08:25",
+        "link": "https://n.news.naver.com/mnews/article/277/0005738209?sid=101"
+    },
+    {
+        "title": "아이폰 사용자 긴급 경고… 애플 지금 바로 iOS 업데이트해야",
+        "date": "2026-03-23 08:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542566"
+    },
+    {
+        "title": "LGD, 美서 OLED 핵심특허 방어…中 티엔마 무효심판 청구 '각하'",
+        "date": "2026-03-23 08:06",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53885"
+    },
+    {
+        "title": "결국 애플까지 나서서 中 배제…기지개 펴는 K디스플레이",
+        "date": "2026-03-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005265467?sid=101"
+    },
+    {
+        "title": "비에이치, 애플 폴더블폰 공급에 최대 실적 전망…목표가↑-대신",
+        "date": "2026-03-23 07:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006240607?sid=101"
+    },
+    {
+        "title": "[CEO투데이] 삼성D의 '강력한 무기' 이청 사장의 '기술 리더십'",
+        "date": "2026-03-23 06:30",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=712347"
+    },
+    {
+        "title": "팀쿡 애플과 중국은 혁신·친환경·탄소중립 등 공통 목표 공유",
+        "date": "2026-03-23 06:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703039"
+    },
+    {
+        "title": "애플 참전에 中 공세까지…삼성 폴더블 1위 '휘청'",
+        "date": "2026-03-23 06:02",
+        "link": "https://dealsite.co.kr/articles/158855"
+    },
+    {
         "title": "쿡 애플 CEO “중국 파트너 중요”…규제 압박 속 협력 강조",
         "date": "2026-03-23 04:02",
         "link": "https://www.g-enews.com/view.php?ud=2026032221465079429a1f309431_1"
