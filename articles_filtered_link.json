@@ -1,5 +1,285 @@
 [
     {
+        "title": "中 시야테크, 상장으로 4500억 조달…올레도스 투자 확대에 선익 '훈풍'",
+        "date": "2026-03-27 13:56",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=54201"
+    },
+    {
+        "title": "선익시스템, Micro OLED 증착장비 추가 수주.. OLEDoS 투자 확대 본격화",
+        "date": "2026-03-27 13:22",
+        "link": "https://kbench.com/?q=node/277369"
+    },
+    {
+        "title": "선익시스템, 中 업체와 마이크로 OLED 디스플레이 양산용 증착장비 공급...",
+        "date": "2026-03-27 13:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006244224?sid=101"
+    },
+    {
+        "title": "LG Display Targets OLED Monitor Market for Growth",
+        "date": "2026-03-27 13:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266317"
+    },
+    {
+        "title": "레드포스PC방, 큐닉스 QX27B 300hz 게이밍모니터 적용 확대",
+        "date": "2026-03-27 12:52",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=252195"
+    },
+    {
+        "title": "선익시스템, 중국 SeeYA Display와 Micro OLED 증착장비 계약 체결",
+        "date": "2026-03-27 12:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647288"
+    },
+    {
+        "title": "레노버, AI 비즈니스 노트북 3종 출시…2.8K OLED·온디바이스 AI 탑재",
+        "date": "2026-03-27 12:20",
+        "link": "https://www.cnet.co.kr/view/?no=20260327121713"
+    },
+    {
+        "title": "LG Welcomes Samsung's OLED Push, Vows to Stay on Top",
+        "date": "2026-03-27 12:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159366"
+    },
+    {
+        "title": "[Re워치뉴스] 적자 뒤 꺼낸 LG TV 승부수…올레드 넓히고 LCD 차별화",
+        "date": "2026-03-27 12:00",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=78769"
+    },
+    {
+        "title": "[위클리 디지털포스트] 99만원 맥북, 윈도우 PC '재앙' 될까",
+        "date": "2026-03-27 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58535"
+    },
+    {
+        "title": "최원준 삼성전자 사장 “멀티모달 인터페이스 대세 될 것… 스마트 안경...",
+        "date": "2026-03-27 11:37",
+        "link": "https://n.news.naver.com/mnews/article/366/0001152113?sid=105"
+    },
+    {
+        "title": "맥 미니가 80년대 매킨토시로 변신…애플 50주년 기념 레트로 열풍",
+        "date": "2026-03-27 11:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647171"
+    },
+    {
+        "title": "삼성전자, 애플 아이폰에 2억 화소 망원 카메라 센서 공급하나",
+        "date": "2026-03-27 11:08",
+        "link": "https://kbench.com/?q=node/277357"
+    },
+    {
+        "title": "中, BOE·CSOT와 중소업체 '통폐합'…삼성D·LGD 대응 촉각",
+        "date": "2026-03-27 11:06",
+        "link": "https://dealsite.co.kr/articles/159191"
+    },
+    {
+        "title": "삼성전자, 인도 태블릿 시장 1위 수성…점유율 31%로 확대",
+        "date": "2026-03-27 10:54",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74172"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 아이폰18 프로 이후 출시 유력",
+        "date": "2026-03-27 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647116"
+    },
+    {
+        "title": "애플워치 시리즈12, 변화 없는 진화…디자인 전작과 동일할 듯",
+        "date": "2026-03-27 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647074"
+    },
+    {
+        "title": "애플, 맥 프로 판매 종료…차기 모델 계획 없어",
+        "date": "2026-03-27 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647067"
+    },
+    {
+        "title": "애플 기기 무선 스펙 비교…와이파이7부터 블루투스6까지 한눈에",
+        "date": "2026-03-27 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647004"
+    },
+    {
+        "title": "수십만달러 보너스…애플 인재 방어 전략",
+        "date": "2026-03-27 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647064"
+    },
+    {
+        "title": "요청과 다른 음악…애플 AI 추천 기능 논란",
+        "date": "2026-03-27 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=647048"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 올해 공개는 확실...다만 판매 시점 늦어질 수 있다...",
+        "date": "2026-03-27 10:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542730"
+    },
+    {
+        "title": "커세어, 무선 게이밍 키보드 ‘뱅가드 에어 99 무선’과 ‘뱅가드 96 무...",
+        "date": "2026-03-27 10:24",
+        "link": "https://www.betanews.net/article/view/beta202603270020"
+    },
+    {
+        "title": "커세어 고성능 무선 게이밍 키보드 뱅가드 시리즈 2종 출시",
+        "date": "2026-03-27 10:22",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202603271020387407204ead0791_12"
+    },
+    {
+        "title": "커세어 무선 게이밍 키보드, ‘뱅가드 에어 99 무선’와 ‘뱅가드 96 무...",
+        "date": "2026-03-27 10:04",
+        "link": "https://kbench.com/?q=node/277350"
+    },
+    {
+        "title": "[연중기획-IT트렌드 캐처] 내 일상의 A부터 Z까지! 올라운더 모니터 '벤...",
+        "date": "2026-03-27 10:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58700"
+    },
+    {
+        "title": "애플 '빗장' 열리나…iOS27서 '시리' 개방 가능성",
+        "date": "2026-03-27 09:58",
+        "link": "https://n.news.naver.com/mnews/article/421/0008852649?sid=105"
+    },
+    {
+        "title": "삼성 북미 폴더블폰 점유율 15%포인트 급락… 애플·모토로라 '양면 협공...",
+        "date": "2026-03-27 09:52",
+        "link": "https://www.g-enews.com/view.php?ud=202603270926229615fbbec65dfb_1"
+    },
+    {
+        "title": "방탄소년단 '아리랑', 애플뮤직도 싹쓸이…115개 지역 앨범차트 1위",
+        "date": "2026-03-27 09:50",
+        "link": "https://m.entertain.naver.com/article/003/0013849632"
+    },
+    {
+        "title": "애플, iOS 27부터 '리퀴드글래스' 디자인 전면 확대 추진",
+        "date": "2026-03-27 09:38",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542726"
+    },
+    {
+        "title": "‘아리랑’으로 새로 쓰는 기록…방탄소년단, 애플뮤직 115개국 1위",
+        "date": "2026-03-27 09:22",
+        "link": "https://m.entertain.naver.com/article/119/0003073983"
+    },
+    {
+        "title": "인도 태블릿 시장 ‘삼성이 주도’… 프리미엄 기기 전환에 애플·에이...",
+        "date": "2026-03-27 09:16",
+        "link": "https://www.g-enews.com/view.php?ud=2026032709134082960c8c1c064d_1"
+    },
+    {
+        "title": "'아리랑'으로 다시 쓴 진기록…방탄소년단, 애플뮤직 115개국 1위",
+        "date": "2026-03-27 09:14",
+        "link": "https://m.entertain.naver.com/article/465/0000016401"
+    },
+    {
+        "title": "애플, 美 제조 프로그램 확대…공급망에 4개사 추가",
+        "date": "2026-03-27 09:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=646915"
+    },
+    {
+        "title": "제2의 조니 아이브 안돼… 애플, 인재 가로채는 오픈AI에 '돈 보따리'...",
+        "date": "2026-03-27 09:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002222234?sid=105"
+    },
+    {
+        "title": "라라스윗, '저당 애플망고 생요거트바' 출시",
+        "date": "2026-03-27 09:00",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=196405"
+    },
+    {
+        "title": "방탄소년단 ‘아리랑’, 애플뮤직 글로벌 차트 석권…전곡 차트인",
+        "date": "2026-03-27 08:59",
+        "link": "https://m.entertain.naver.com/article/009/0005656879"
+    },
+    {
+        "title": "'애플 의존도↑' LGD, 수익 다변화 어떻게 할까",
+        "date": "2026-03-27 08:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006243958?sid=101"
+    },
+    {
+        "title": "BTS 'ARIRANG', 애플뮤직 115개 국가 및 지역 앨범차트 1위",
+        "date": "2026-03-27 08:51",
+        "link": "https://m.entertain.naver.com/article/629/0000485784"
+    },
+    {
+        "title": "맥 프로 단종…애플 최고 데스크톱 역사 속으로",
+        "date": "2026-03-27 08:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002416370?sid=105"
+    },
+    {
+        "title": "AI 인재 전쟁 불붙었다… 애플, 아이폰 설계 인력에 '이례적 보너스' ...",
+        "date": "2026-03-27 08:42",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159360"
+    },
+    {
+        "title": "열흘에 115개국···BTS ‘아리랑’이 확장한 지도",
+        "date": "2026-03-27 08:41",
+        "link": "https://m.entertain.naver.com/article/144/0001106114"
+    },
+    {
+        "title": "글로벌 휩쓴 방탄소년단…‘아리랑’, 애플뮤직 115개 국가/지역 1위",
+        "date": "2026-03-27 08:36",
+        "link": "https://m.entertain.naver.com/article/241/0003501605"
+    },
+    {
+        "title": "방탄소년단(BTS) '아리랑', 발매와 동시에 애플뮤직 글로벌 차트 석권",
+        "date": "2026-03-27 08:28",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=125369"
+    },
+    {
+        "title": "애플, 시리 완전 개방한다…챗GPT 외 다른 AI챗봇도 연동",
+        "date": "2026-03-27 08:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006243918?sid=101"
+    },
+    {
+        "title": "애플, '맥 프로' 전격 단종… 20년 워크스테이션 역사 마침표",
+        "date": "2026-03-27 08:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002222231?sid=105"
+    },
+    {
+        "title": "시리야, 클로드 불러줘… 애플, 독점 깨고 'AI 허브'로 변신한다",
+        "date": "2026-03-27 08:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002222230?sid=105"
+    },
+    {
+        "title": "폴더블 아이폰, 아이폰18 프로보다 늦게 나온다",
+        "date": "2026-03-27 08:17",
+        "link": "https://n.news.naver.com/mnews/article/092/0002416366?sid=105"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플, iOS27서 시리에 외부 AI 연동 허용",
+        "date": "2026-03-27 08:13",
+        "link": "https://www.newspim.com/news/view/20260327000070"
+    },
+    {
+        "title": "애플 '맥 프로' 단종…'맥 스튜디오'로 세대교체",
+        "date": "2026-03-27 07:38",
+        "link": "https://n.news.naver.com/mnews/article/277/0005740937?sid=104"
+    },
+    {
+        "title": "'더 넥스트 올레드' 진화…LG전자, 2026년형 올레드·마이크로 RGB TV 공개",
+        "date": "2026-03-27 07:30",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=298831"
+    },
+    {
+        "title": "삼성전자 '2나노 최적화' 승부수… 갤럭시 S28 위해 '1.4나노' 직행 멈췄...",
+        "date": "2026-03-27 07:02",
+        "link": "https://www.g-enews.com/view.php?ud=202603270647058666fbbec65dfb_1"
+    },
+    {
+        "title": "애플, 아이폰 디자이너에 수억대 보너스 지급…AI 인재 유출 방어 나서",
+        "date": "2026-03-27 06:56",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703613"
+    },
+    {
+        "title": "애플, 고가 데스크톱 '맥 프로' 단종…맥 스튜디오로 라인업 재편",
+        "date": "2026-03-27 06:50",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703611"
+    },
+    {
+        "title": "中, 8세대 OLED 디스플레이 설비투자 속도… 韓·日서 장비 발주 본격화",
+        "date": "2026-03-27 06:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001152021?sid=105"
+    },
+    {
+        "title": "[PLAY IT] 전용 스냅드래곤8 엘리트 5세대, '갤럭시S26 울트라'에 끼친 영...",
+        "date": "2026-03-27 06:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002222222?sid=105"
+    },
+    {
         "title": "일본은 손 뗀 TV…그래도 포기 못 해 신제품 꺼낸 삼성·LG 왜",
         "date": "2026-03-27 05:00",
         "link": "https://n.news.naver.com/mnews/article/025/0003512051?sid=101"
@@ -48,6 +328,16 @@
         "title": "고수들의 게임 실력 향상 비결 큐닉스 'QX27B' 게이밍 모니터 전국 PC방...",
         "date": "2026-03-26 20:34",
         "link": "https://gamefocus.co.kr/detail.php?number=174698"
+    },
+    {
+        "title": "“의외로 세균 범벅” 차예련, 알코올 솜으로 꼭 닦는다던데… 어디?",
+        "date": "2026-03-26 20:21",
+        "link": "https://n.news.naver.com/mnews/article/346/0000106953?sid=004"
+    },
+    {
+        "title": "[신소재경제&amp;3DPRO 연재기고①]신소재경제 신근순 국장",
+        "date": "2026-03-26 18:50",
+        "link": "http://amenews.kr/news/view.php?idx=66122"
     },
     {
         "title": "애플, '제미나이' 증류해 맞춤형 온디바이스 모델 개발",
@@ -175,6 +465,11 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703524"
     },
     {
+        "title": "삼성디스플레이 저반사∙내구성 강화 '퀀텀 블랙' 필름 개발, 올해 출시...",
+        "date": "2026-03-26 14:26",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434123"
+    },
+    {
         "title": "[이슈] LG전자, '더 넥스트 올레드' 공개…OLED·LCD '투트랙' 전략 본격...",
         "date": "2026-03-26 14:24",
         "link": "http://www.paxetv.com/news/articleView.html?idxno=266959"
@@ -220,14 +515,14 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003411612?sid=104"
     },
     {
-        "title": "에이수스, ROG 게이밍기어 라인업 공개…키보드·마우스·이어폰 등",
-        "date": "2026-03-26 13:30",
-        "link": "https://www.cnet.co.kr/view/?no=20260326122340"
-    },
-    {
         "title": "LG전자, OLED·LCD·웹OS로 ‘TV 적자 탈출’ 시동",
         "date": "2026-03-26 13:30",
         "link": "https://www.ekn.kr/web/view.php?key=20260326027271245"
+    },
+    {
+        "title": "에이수스, ROG 게이밍기어 라인업 공개…키보드·마우스·이어폰 등",
+        "date": "2026-03-26 13:30",
+        "link": "https://www.cnet.co.kr/view/?no=20260326122340"
     },
     {
         "title": "[소상공인 응원 캠페인] '3년 연속 수상' 애플파파N와인, 3대 농부의 품...",
@@ -630,14 +925,14 @@
         "link": "https://www.itworld.co.kr/article/4150286/시리-없이도-꽉-찬-ios-26-4-업데이트-정리.html"
     },
     {
-        "title": "[현장] AI 성능 5.6배 퀀텀점프···LG전자, 2026년형 TV로 '초개인화' ...",
-        "date": "2026-03-26 10:00",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2410882"
-    },
-    {
         "title": "LG전자, '더 넥스트 올레드' 2026년형 신제품 출시 밝기, 컬러, 빛 반사...",
         "date": "2026-03-26 10:00",
         "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247907"
+    },
+    {
+        "title": "[현장] AI 성능 5.6배 퀀텀점프···LG전자, 2026년형 TV로 '초개인화' ...",
+        "date": "2026-03-26 10:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2410882"
     },
     {
         "title": "LG전자, ‘AI·무선 올레드’로 TV 판 바꾼다...‘차세대 올레드’ 공개",
