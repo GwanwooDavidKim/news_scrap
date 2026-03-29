@@ -1,11 +1,76 @@
 [
     {
+        "title": "“애플의 시간은 거꾸로 간다”…10년 전보다 싸진 보급형 기기들",
+        "date": "2026-03-30 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013853050?sid=105"
+    },
+    {
+        "title": "애플페이 2차 도입 초읽기?…토스뱅크, 당국 약관심사 마무리",
+        "date": "2026-03-30 05:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0015988733?sid=101"
+    },
+    {
+        "title": "폭스콘 베트남 6.7억 달러 투자 확대… 애플 공급망 탈중국 가속화 분석",
+        "date": "2026-03-30 03:50",
+        "link": "https://www.g-enews.com/view.php?ud=2026032919244282162bd56fbc3c_1"
+    },
+    {
+        "title": "헬씨올리고 팝, '스트로베리 바닐라·애플체리' 선봬",
+        "date": "2026-03-30 02:30",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=131449"
+    },
+    {
+        "title": "자존심보다 실리… 애플, 아이폰을 ‘AI 터미널’로",
+        "date": "2026-03-30 00:53",
+        "link": "https://n.news.naver.com/mnews/article/005/0001839954?sid=101"
+    },
+    {
+        "title": "AI 시대… 디스플레이, 크기 아닌 성능 경쟁",
+        "date": "2026-03-30 00:36",
+        "link": "https://n.news.naver.com/mnews/article/023/0003967548?sid=105"
+    },
+    {
+        "title": "중소형 집중한 LGD…제품가격 40% 높였다",
+        "date": "2026-03-29 21:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005268350?sid=101"
+    },
+    {
+        "title": "KAIST, 초고해상도 AR·VR 구현 가능성 제시",
+        "date": "2026-03-29 20:38",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=405409"
+    },
+    {
+        "title": "갤럭시 쓰는 남자 별로라더니…셀카 화질 정말 좋아 유튜브에 사용기...",
+        "date": "2026-03-29 18:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005741634?sid=102"
+    },
+    {
+        "title": "LGD, 애플워치 패널 사실상 독점…올해 영업익 1.3조 노린다",
+        "date": "2026-03-29 17:08",
+        "link": "https://n.news.naver.com/mnews/article/011/0004604583?sid=101"
+    },
+    {
+        "title": "크기에서 효율로… OLED, AI 시대 디스플레이 핵심 부상",
+        "date": "2026-03-29 16:17",
+        "link": "https://n.news.naver.com/mnews/article/023/0003967502?sid=105"
+    },
+    {
+        "title": "패션업계 발등의 불, EU '과불화화합물 규제' 어떻게 대응할 것인가",
+        "date": "2026-03-29 14:54",
+        "link": "http://www.ktnews.com/news/articleView.html?idxno=145063"
+    },
+    {
+        "title": "‘갤럭시 폄하 발언’ 프리지아, 갤럭시 찬양 돌변?",
+        "date": "2026-03-29 14:29",
+        "link": "https://m.entertain.naver.com/article/144/0001106440"
+    },
+    {
         "title": "해상도는 높이고, 전력은 줄이고 KAIST, 더 선명한 AR·VR 디스플레이...",
         "date": "2026-03-29 13:21",
         "link": "https://n.news.naver.com/mnews/article/018/0006244935?sid=105"
     },
     {
-        "title": "0.00009와트 초저전력으로 풀 컬러 해상도 구현…다양한 색 표현에 초고...",
+        "title": "0.00009와트 초저전력으로 풀 컬러 해상도 구현… 다양한 색 표현에 초고...",
         "date": "2026-03-29 12:27",
         "link": "https://n.news.naver.com/mnews/article/029/0003018629?sid=105"
     },
@@ -13,11 +78,6 @@
         "title": "전력 줄이고 더 선명한 화면...KAIST, 초고해상도 VR 구현 가능성 제시",
         "date": "2026-03-29 12:03",
         "link": "https://n.news.naver.com/mnews/article/011/0004604533?sid=105"
-    },
-    {
-        "title": "적은 전력으로 선명한 색 표현…초고해상도 AR·VR 구현",
-        "date": "2026-03-29 12:01",
-        "link": "https://n.news.naver.com/mnews/article/031/0001017674?sid=105"
     },
     {
         "title": "KAIST, 저전력·초고해상도 AR·VR 구현 가능성 제시",
@@ -70,7 +130,7 @@
         "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=310365"
     },
     {
-        "title": "디스플레이 패러다임 ‘면적→효율’…OLED, AI 시대 핵심으로 부상",
+        "title": "DP 경쟁력 ‘크기서 효율’로…OLED, AI로 기회",
         "date": "2026-03-29 09:27",
         "link": "https://n.news.naver.com/mnews/article/029/0003018581?sid=101"
     },
@@ -108,100 +168,5 @@
         "title": "TSMC 3나노 ‘완판’ 쇼크… 애플·엔비디아 ‘선점’에 삼성·인텔 추격...",
         "date": "2026-03-29 07:24",
         "link": "https://www.g-enews.com/view.php?ud=202603290717355528fbbec65dfb_1"
-    },
-    {
-        "title": "디스플레이 패러다임 '면적→효율'…OLED, AI 시대 핵심 부상",
-        "date": "2026-03-29 06:30",
-        "link": "https://n.news.naver.com/mnews/article/001/0015987732?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, QD-OLED용 저반사 필름 개발…빛 반사율 20% 더 낮추고,...",
-        "date": "2026-03-28 23:50",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=433205"
-    },
-    {
-        "title": "유명 IT 팁스터 아이폰 18, 다이내믹 아일랜드 작아진다",
-        "date": "2026-03-28 17:05",
-        "link": "https://n.news.naver.com/mnews/article/277/0005741467?sid=105"
-    },
-    {
-        "title": "'고집 꺾은 애플'… 아이폰도 2억 화소 시대 열리나",
-        "date": "2026-03-28 15:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013851581?sid=105"
-    },
-    {
-        "title": "[위클리템] OLED TV부터 올인원 세탁건조기까지…2026년형 가전 출시",
-        "date": "2026-03-28 14:43",
-        "link": "https://n.news.naver.com/mnews/article/138/0002222395?sid=004"
-    },
-    {
-        "title": "올해 OLED 모니터 출하 51% 상승 트렌드포스",
-        "date": "2026-03-28 13:27",
-        "link": "https://n.news.naver.com/mnews/article/092/0002416534?sid=105"
-    },
-    {
-        "title": "애플, '시리' 개선 위해 AI 마케팅 부사장으로 구글 베테랑 임원 영입",
-        "date": "2026-03-28 12:52",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208495"
-    },
-    {
-        "title": "OLED 수요 증가 수혜…엘티씨 성장 궤도 진입",
-        "date": "2026-03-28 12:36",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=440714"
-    },
-    {
-        "title": "한켐, OLED 넘어 첨단소재로…성장 플랫폼 본격화",
-        "date": "2026-03-28 11:52",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=440706"
-    },
-    {
-        "title": "'아이폰' 깨물던 지드래곤도 '좋아요'…애플 '야심작' 뭐길래 [테크로그...",
-        "date": "2026-03-28 11:19",
-        "link": "https://n.news.naver.com/mnews/article/015/0005268061?sid=105"
-    },
-    {
-        "title": "시리 심폐소생술 나선다…애플, 구글 출신 릴리안 린콘 영입",
-        "date": "2026-03-28 10:59",
-        "link": "https://n.news.naver.com/mnews/article/138/0002222391?sid=105"
-    },
-    {
-        "title": "M자 탈모의 완벽한 진화?… 아이폰18, 화면 가림 줄인 새 디자인",
-        "date": "2026-03-28 10:57",
-        "link": "https://n.news.naver.com/mnews/article/138/0002222390?sid=105"
-    },
-    {
-        "title": "라라스윗, 생요거트·통 망고 과육 조합 '저당 애플망고 생요거트바' 출...",
-        "date": "2026-03-28 09:20",
-        "link": "https://www.abcn.kr/news/articleView.html?idxno=87120"
-    },
-    {
-        "title": "메이드 인 USA 아이폰 가속화… 애플, 美 부품망에 4억 달러 추가 투입",
-        "date": "2026-03-28 09:19",
-        "link": "https://n.news.naver.com/mnews/article/138/0002222387?sid=105"
-    },
-    {
-        "title": "인텔 '기업용'·AMD '게임·크리에이터용' 새 프로세서 출격[PC마켓]",
-        "date": "2026-03-28 09:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159433"
-    },
-    {
-        "title": "애플, 구글 출신 릴리안 린콘 영입… AI 마케팅 총괄 맡았다",
-        "date": "2026-03-28 08:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=648174"
-    },
-    {
-        "title": "IT 수요 둔화에도 애플은 견조…디스플레이·부품업계 수혜 기대",
-        "date": "2026-03-28 08:00",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=128795"
-    },
-    {
-        "title": "선익시스템, 마이크로 OLED 증착장비 추가 수주…OLEDoS 투자 확대 본격...",
-        "date": "2026-03-28 07:02",
-        "link": "https://www.hellot.net/news/article.html?no=111682"
-    },
-    {
-        "title": "꽉꽉 눌러 담은 99만원 아이폰…이것 참 아쉽네[테크로그]",
-        "date": "2026-03-28 07:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005336378?sid=105"
     }
 ]
