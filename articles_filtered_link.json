@@ -1,5 +1,40 @@
 [
     {
+        "title": "삼성 OLED TV, 북미서 LG 올레드 '13년 아성' 흔든다",
+        "date": "2026-04-05 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159807"
+    },
+    {
+        "title": "비에이치, 출하량 터졌다…재평가 시작된다",
+        "date": "2026-04-05 04:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442789"
+    },
+    {
+        "title": "애플워치 울트라4 루머 4가지…센서 늘리고 터치ID 개선?",
+        "date": "2026-04-04 20:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653618"
+    },
+    {
+        "title": "페이스ID만 고수하던 애플…아이폰 폴드에 지문인식 탑재설",
+        "date": "2026-04-04 20:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653613"
+    },
+    {
+        "title": "애플, 개발자용 iOS 26.5 베타1 새 빌드 배포…시리 2.0는 아직",
+        "date": "2026-04-04 20:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653611"
+    },
+    {
+        "title": "여보, 물가가 얼만데 5천만원을 예금해? 차라리 버핏따라 '애플'에 올인...",
+        "date": "2026-04-04 15:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005502409?sid=101"
+    },
+    {
+        "title": "세게 문지르면 코팅 손상…삼성·애플도 권장한 스마트폰 안전 소독법...",
+        "date": "2026-04-04 14:11",
+        "link": "https://n.news.naver.com/mnews/article/022/0004118212?sid=103"
+    },
+    {
         "title": "미국 이어 중국도...올해 데스크톱·노트북 출하량 감소",
         "date": "2026-04-04 13:47",
         "link": "https://n.news.naver.com/mnews/article/092/0002417448?sid=105"
@@ -20,313 +55,13 @@
         "link": "https://n.news.naver.com/mnews/article/092/0002417443?sid=105"
     },
     {
+        "title": "삼성페이 눈치 보는 카드업계...애플페이 2호는 토스뱅크?",
+        "date": "2026-04-04 08:08",
+        "link": "https://news.dealsitetv.com/articles/168052"
+    },
+    {
         "title": "[4월3일] 창립 50주년 맞은 애플...앞으로도 계속 '다르게' 생각할 수 있...",
         "date": "2026-04-04 07:00",
         "link": "https://www.aitimes.com/news/articleView.html?idxno=208747"
-    },
-    {
-        "title": "애플의 ‘D램 싹쓸이’… 삼성·안드로이드 진영 ‘기기값 인상’ 벼랑...",
-        "date": "2026-04-04 06:56",
-        "link": "https://www.g-enews.com/view.php?ud=202604040644294387fbbec65dfb_1"
-    },
-    {
-        "title": "애플, 성장주에서 ‘배당 괴물’로 변신 전망…”장기 보유가 답”",
-        "date": "2026-04-04 06:12",
-        "link": "https://www.g-enews.com/view.php?ud=202604040507208532be84d87674_1"
-    },
-    {
-        "title": "LG디스플레이 특허 로열티 수익 매년 증가",
-        "date": "2026-04-04 00:00",
-        "link": "https://n.news.naver.com/mnews/article/092/0002417441?sid=105"
-    },
-    {
-        "title": "큐닉스 300Hz 게이밍 모니터 적용… 경북 '레드포스 PC방 칠곡점' 신규 ...",
-        "date": "2026-04-03 21:00",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=57270"
-    },
-    {
-        "title": "삼성디스플레이도 '과반 노조' 출범",
-        "date": "2026-04-03 18:16",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=54610"
-    },
-    {
-        "title": "'포스트 스마트폰'이라는 스마트 아이웨어, 직접 써보니 [트렌드경제]",
-        "date": "2026-04-03 18:06",
-        "link": "https://n.news.naver.com/mnews/article/088/0001004047?sid=101"
-    },
-    {
-        "title": "서린씨앤아이, 리안리 하이드로시프트 2 LCD-S 360 시리즈 출시",
-        "date": "2026-04-03 17:58",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202604031757085519204ead0791_12"
-    },
-    {
-        "title": "힐링쉴드, 애플워치 스트랩·갤럭시워치 스트랩 50% 할인에 1+1 이벤트",
-        "date": "2026-04-03 17:36",
-        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=236413"
-    },
-    {
-        "title": "[단독] 삼성전자 이어 삼성디스플레이도 ‘과반 노조’ 출범… 근로자 ...",
-        "date": "2026-04-03 16:08",
-        "link": "https://n.news.naver.com/mnews/article/366/0001154109?sid=105"
-    },
-    {
-        "title": "화웨이 차세대 폴더블폰 ‘메이트 X8’, 갤럭시Z 폴드8보다 더 큰 메인 ...",
-        "date": "2026-04-03 16:08",
-        "link": "https://kbench.com/?q=node/277586"
-    },
-    {
-        "title": "선제 투자 빛난 삼성디스플레이 VS 실적 턴 LG디스플레이...1분기 성적표...",
-        "date": "2026-04-03 16:02",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=117460"
-    },
-    {
-        "title": "PC사랑과 함께하는 '11번가' 이달의 MD 추천 PC",
-        "date": "2026-04-03 16:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58818"
-    },
-    {
-        "title": "[금주의 통신] KT, 박윤영 신임 대표 선임…3월 번호이동 증가",
-        "date": "2026-04-03 15:32",
-        "link": "http://www.itdaily.kr/news/articleView.html?idxno=238748"
-    },
-    {
-        "title": "'프라이버시 디스플레이' 스마트폰 확 늘어난다",
-        "date": "2026-04-03 15:14",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=54559"
-    },
-    {
-        "title": "애플, 차기 ‘아이폰18 프로’ 블랙 색상 또 제외?",
-        "date": "2026-04-03 14:42",
-        "link": "https://kbench.com/?q=node/277582"
-    },
-    {
-        "title": "시력 잃어가는 마라토너, 스마트 안경으로 완주 도전",
-        "date": "2026-04-03 14:31",
-        "link": "https://n.news.naver.com/mnews/article/346/0000107426?sid=004"
-    },
-    {
-        "title": "레드포스 PC방, 신규 매장 칠곡점' 오픈...큐닉스 300Hz 게이밍 모니터 ...",
-        "date": "2026-04-03 14:28",
-        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=236363"
-    },
-    {
-        "title": "애플페이는 되고 삼성페이는 안된다?...수수료 '이중잣대' 논란",
-        "date": "2026-04-03 14:26",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=97753"
-    },
-    {
-        "title": "삼성 파운드리, TSMC 공급 공백 파고든다…'파운드리 2.0' 경쟁력 제고가...",
-        "date": "2026-04-03 14:21",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=338797"
-    },
-    {
-        "title": "꼬우면 최신폰 사라? 구형 아이폰도 되는데 삼성은 S26만...소비자들 ...",
-        "date": "2026-04-03 14:20",
-        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=420389"
-    },
-    {
-        "title": "페이커 '대상혁'도 호평...삼성 게이밍 모니터 7년 연속 글로벌 1위",
-        "date": "2026-04-03 14:16",
-        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32046"
-    },
-    {
-        "title": "한·중·일 네트워크 가동…광전자, 맞춤형 솔루션 앞세워 공급망 강화",
-        "date": "2026-04-03 14:04",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442578"
-    },
-    {
-        "title": "더워, 에어컨 켜줘 안된다고?…애플 카플레이용 챗GPT의 한계",
-        "date": "2026-04-03 13:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653275"
-    },
-    {
-        "title": "애플, 4월 30일 Q1 실적 공개…공급난·맥 판매 변수 촉각",
-        "date": "2026-04-03 13:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653277"
-    },
-    {
-        "title": "삼성전자, 2026년형 OLED TV 공개...최대 83형까지 라인업 확대",
-        "date": "2026-04-03 13:51",
-        "link": "https://www.newspim.com/news/view/20260403000691"
-    },
-    {
-        "title": "애플 50년의 이면…FT 日 장인정신 빼앗고, 中 산업 굴기 키웠다",
-        "date": "2026-04-03 13:43",
-        "link": "https://n.news.naver.com/mnews/article/018/0006249385?sid=101"
-    },
-    {
-        "title": "삼성 리포트 유럽인 절반 이상 공공장소에서 타인 스마트폰 들여다봐",
-        "date": "2026-04-03 13:28",
-        "link": "https://www.theguru.co.kr/news/article.html?no=100112"
-    },
-    {
-        "title": "삼성전자, 美서 2나노 인재채용 확대…올 하반기 신공장 가동 채비",
-        "date": "2026-04-03 13:28",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=291612"
-    },
-    {
-        "title": "아이패드도 OLED 시대... 디바이스·제이엠티, 핵심 부품 수요 급증에 '...",
-        "date": "2026-04-03 13:26",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442557"
-    },
-    {
-        "title": "중국, 초고해상도 디스플레이 기술 개발…상용화 가속",
-        "date": "2026-04-03 13:14",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=163281"
-    },
-    {
-        "title": "애플, 아이폰18 프로에서 블랙 제외 가능성 제기",
-        "date": "2026-04-03 13:00",
-        "link": "https://www.cnet.co.kr/view/?no=20260403125850"
-    },
-    {
-        "title": "MSI, '이터널 리턴 마스터즈 시즌10 파이널' 공식 모니터 선정 및 체험 ...",
-        "date": "2026-04-03 12:54",
-        "link": "https://kbench.com/?q=node/277578"
-    },
-    {
-        "title": "에스라이즈 네이버 디지털가전 페스타 참여, ASUS AI 게이밍 프리미엄 노...",
-        "date": "2026-04-03 12:36",
-        "link": "https://kbench.com/?q=node/277575"
-    },
-    {
-        "title": "운전 중에도 '챗GPT'와 대화.. 오픈AI, 애플 카플레이(CarPlay)용 챗GPT 출...",
-        "date": "2026-04-03 11:56",
-        "link": "https://kbench.com/?q=node/277573"
-    },
-    {
-        "title": "갤럭시S26, S시리즈 역대 최대 판매 기록 세우나",
-        "date": "2026-04-03 11:49",
-        "link": "https://n.news.naver.com/mnews/article/016/0002624378?sid=105"
-    },
-    {
-        "title": "미미박스 '누니(nooni)', '애플 립 오일' 올리브영 입점…모델 예린 발탁",
-        "date": "2026-04-03 11:26",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=132300"
-    },
-    {
-        "title": "술 냄새 맡는 아이폰?…애플, 마우스피스 없는 호흡 감지 시스템 특허 ...",
-        "date": "2026-04-03 11:19",
-        "link": "https://n.news.naver.com/mnews/article/009/0005660551?sid=101"
-    },
-    {
-        "title": "사진 한 장으로 완벽한 4K 3D 구현…애플의 차세대 공간 컴퓨팅 치트키...",
-        "date": "2026-04-03 11:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653223"
-    },
-    {
-        "title": "삼성전자, 美서 2나노 인재채용 확대…올 하반기 신공장 가동 채비",
-        "date": "2026-04-03 11:14",
-        "link": "https://n.news.naver.com/mnews/article/003/0013865433?sid=101"
-    },
-    {
-        "title": "레드포스PC방, 대구 칠곡점 신규 오픈… 전 좌석 게이밍 모니터 도입",
-        "date": "2026-04-03 10:50",
-        "link": "http://www.e2news.com/news/articleView.html?idxno=329241"
-    },
-    {
-        "title": "TV·IT 주춤하자···삼성D·LGD, 중대형 OLED '선택과 집중'",
-        "date": "2026-04-03 10:40",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=420239"
-    },
-    {
-        "title": "LG디스플레이, 1Q '깜짝 실적' 예고…OLED·피지컬 AI로 반등 본격화",
-        "date": "2026-04-03 10:40",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1704357"
-    },
-    {
-        "title": "레드포스 PC방 칠곡점 오픈···게이밍 장비 체험·굿즈샵 결합 공간 구...",
-        "date": "2026-04-03 10:36",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=48461"
-    },
-    {
-        "title": "경쟁 게임을 위한 선택, 제이씨현 BattleG 마하 420 BG25FS",
-        "date": "2026-04-03 10:34",
-        "link": "https://kbench.com/?q=node/277546"
-    },
-    {
-        "title": "검정색 대신 딥레드?… 아이폰18 프로, '코스믹 오렌지' 잇는 파격 컬...",
-        "date": "2026-04-03 10:19",
-        "link": "https://n.news.naver.com/mnews/article/138/0002223198?sid=105"
-    },
-    {
-        "title": "미미박스 누니(nooni), '애플 립 오일' 올리브영 입점",
-        "date": "2026-04-03 10:16",
-        "link": "http://www.e2news.com/news/articleView.html?idxno=329239"
-    },
-    {
-        "title": "불명예 퇴진?… 애플 피트니스 핵심 제이 블라닉, 성희롱·폭언 의혹 ...",
-        "date": "2026-04-03 10:15",
-        "link": "https://n.news.naver.com/mnews/article/138/0002223197?sid=105"
-    },
-    {
-        "title": "맥북 프로 어댑터 디자인, 슬쩍 바꾼 애플…액세서리 호환성 '박살'",
-        "date": "2026-04-03 10:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653197"
-    },
-    {
-        "title": "러시아, 애플 결제 전면 차단…디지털 통제 '최대 압박'",
-        "date": "2026-04-03 09:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653189"
-    },
-    {
-        "title": "크로스오버, 화이트 피벗 게이밍 모니터 27LGQ175CM 출시 기념 이벤트",
-        "date": "2026-04-03 09:52",
-        "link": "https://kbench.com/?q=node/277560"
-    },
-    {
-        "title": "갤럭시S26…삼성 S시리즈 역대 최대 판매 기록 세우나",
-        "date": "2026-04-03 09:52",
-        "link": "https://n.news.naver.com/mnews/article/016/0002624174?sid=105"
-    },
-    {
-        "title": "삼성 갤S26 AI 신기능, 작년 출시기종에선 못 쓰나",
-        "date": "2026-04-03 09:43",
-        "link": "https://n.news.naver.com/mnews/article/003/0013864953?sid=105"
-    },
-    {
-        "title": "삼성전자, 원가 압박에 차세대 ‘갤럭시Z 폴드8·플립8’ OLED 소재 동결...",
-        "date": "2026-04-03 09:22",
-        "link": "https://kbench.com/?q=node/277556"
-    },
-    {
-        "title": "애플, 차세대 3D 렌더링 기술 발표… 비전 프로 화질 개선 기대",
-        "date": "2026-04-03 09:20",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542946"
-    },
-    {
-        "title": "iOS 27, 시리 말고도 바뀌는 3가지…UI·기본 앱·폴더블 지원",
-        "date": "2026-04-03 09:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653158"
-    },
-    {
-        "title": "애플 아케이드 4월 공세…드레지 완전판·언패킹 터치 버전 동시 상륙",
-        "date": "2026-04-03 09:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653152"
-    },
-    {
-        "title": "애플 피트니스 기술 책임자 제이 블라닉, 내부 논란 속 7월 퇴임 예정",
-        "date": "2026-04-03 09:02",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542944"
-    },
-    {
-        "title": "세모폰, 갤럭시 S26 사전 예약 1,000대 돌파",
-        "date": "2026-04-03 09:02",
-        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=529924"
-    },
-    {
-        "title": "차 안으로 들어온 챗GPT…애플 카플레이에 음성 AI 탑재",
-        "date": "2026-04-03 08:23",
-        "link": "https://n.news.naver.com/mnews/article/092/0002417371?sid=105"
-    },
-    {
-        "title": "러시아서 애플 결제 전면 중단…앱스토어 사실상 ‘멈춤’[모닝폰]",
-        "date": "2026-04-03 08:13",
-        "link": "https://n.news.naver.com/mnews/article/018/0006249091?sid=105"
-    },
-    {
-        "title": "켐트로닉스, 삼성D와 '폴더블 UTG 중앙 얇게 식각' 특허 2건 공동 출원",
-        "date": "2026-04-03 08:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002417369?sid=105"
     }
 ]
