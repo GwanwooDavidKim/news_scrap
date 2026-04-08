@@ -1,5 +1,360 @@
 [
     {
+        "title": "삼성전자, TV·사운드바 ‘탄소 경쟁력’ 강화… 글로벌 인증 확대",
+        "date": "2026-04-08 14:58",
+        "link": "https://www.mediapen.com/news/view/1092044"
+    },
+    {
+        "title": "애플페이 수수료 0.15% 챙기는데 … 삼성은 왜 못 받나 [비하인드컷]",
+        "date": "2026-04-08 14:52",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/08/2026040800192.html"
+    },
+    {
+        "title": "애플, 9월 '폴드' 전격 공개하나···7.8인치 대화면으로 삼성에 도전장",
+        "date": "2026-04-08 14:51",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2416393"
+    },
+    {
+        "title": "12포트 갖춘 끝판왕급 USB 허브, 아이피타임 'UC312Nstation'",
+        "date": "2026-04-08 14:46",
+        "link": "https://www.betanews.net/article/view/beta202604080057"
+    },
+    {
+        "title": "애플 '아이폰 폴드' 시험 생산… 삼성과 폴더블 경쟁",
+        "date": "2026-04-08 14:28",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=715755"
+    },
+    {
+        "title": "애플 폴더블·AI 서버 호재에 IT 부품주 강세…삼성전기 13%대 급등[특징...",
+        "date": "2026-04-08 14:28",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026040814210783329"
+    },
+    {
+        "title": "삼성디스플레이, 8.6세대 OLED 수율 80% 돌파… 中 추격 따돌린다",
+        "date": "2026-04-08 14:25",
+        "link": "https://n.news.naver.com/mnews/article/366/0001155199?sid=105"
+    },
+    {
+        "title": "4분기 가장 많이 팔린 폰은 '아이폰17 프맥'…'갤S25' 10위",
+        "date": "2026-04-08 14:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008877726?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시Z 폴더블 라인업에 4월 보안 업데이트 배포 개시",
+        "date": "2026-04-08 14:14",
+        "link": "https://kbench.com/?q=node/277704"
+    },
+    {
+        "title": "아이폰18 프로 맥스·폴더블 더미 등장…같은 두께, 다른 폼팩터 눈길",
+        "date": "2026-04-08 14:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654788"
+    },
+    {
+        "title": "디스플레이協, 대만과 마이크로 LED 분야 협력 네트워크 강화",
+        "date": "2026-04-08 13:56",
+        "link": "https://n.news.naver.com/mnews/article/030/0003415902?sid=105"
+    },
+    {
+        "title": "애플 폴더블 아이폰 '지연설' 확산…출시 일정 유지 반박",
+        "date": "2026-04-08 13:34",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74741"
+    },
+    {
+        "title": "MS·구글·애플 총출동... 앤트로픽 주도 보안 프로젝트 ‘글래스윙’ ...",
+        "date": "2026-04-08 13:28",
+        "link": "http://www.boannews.com/media/view.asp?idx=143068&kind=1"
+    },
+    {
+        "title": "애플 폴더블폰 출시 앞두고 中 업체들 '접힘 자국' 없는 디스플레이 출...",
+        "date": "2026-04-08 13:26",
+        "link": "https://www.raonnews.com/news/article.html?no=57333"
+    },
+    {
+        "title": "6G·위성통신 칩도 우리가… 큐에스아이, 국내 최초 RF 파운드리 도전",
+        "date": "2026-04-08 13:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=443823"
+    },
+    {
+        "title": "[특징주] 아이티엠반도체 상한가…애플 폴더블폰 기대에 부품주 강세",
+        "date": "2026-04-08 13:02",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=715845"
+    },
+    {
+        "title": "“아이폰 폴드 아니다?”…폴더블 아이폰, '울트라'로 출시",
+        "date": "2026-04-08 13:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003415855?sid=104"
+    },
+    {
+        "title": "완성형 미니 게이밍 태블릿, 레노버 리전탭 Y700 5세대",
+        "date": "2026-04-08 12:58",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57071"
+    },
+    {
+        "title": "애플 첫 폴더블폰 실물 모형 유출…'가로형 폼팩터'로 삼성과 정면승부",
+        "date": "2026-04-08 12:56",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74737"
+    },
+    {
+        "title": "'중고폰의 반란'…삼성, 애플 제치고 중고 시장 점유율 1위 등극",
+        "date": "2026-04-08 12:22",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=87303"
+    },
+    {
+        "title": "[Tech &amp; Now] KDIA, 한-대만 디스플레이 교류협력단…마이크로LED 주도권...",
+        "date": "2026-04-08 12:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1704777"
+    },
+    {
+        "title": "“접는 아이폰 예정대로 9월 출시”… ‘일정 지연’ 일축",
+        "date": "2026-04-08 12:07",
+        "link": "https://n.news.naver.com/mnews/article/005/0001841950?sid=105"
+    },
+    {
+        "title": "블룸버그, 애플 첫 폴더블 9월 출시 전망.. 초기 물량은 한정판 수준",
+        "date": "2026-04-08 11:54",
+        "link": "https://kbench.com/?q=node/277690"
+    },
+    {
+        "title": "[리뷰] 촉감부터 두뇌까지...흔하지 않은 노트북, 에이수스 젠북 A16",
+        "date": "2026-04-08 11:50",
+        "link": "https://it.donga.com/108639/"
+    },
+    {
+        "title": "[산업소식] 삼성전자 2026년형 TV·사운드바, 獨 '탄소저감' 인증 획득",
+        "date": "2026-04-08 11:44",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2110155"
+    },
+    {
+        "title": "中 OLED 추격 마이크로LED로 따돌린다…한-대만 디스플레이 동맹 강화",
+        "date": "2026-04-08 11:34",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223730?sid=105"
+    },
+    {
+        "title": "‘폰·게임기·노트북’까지 불 붙는 칩플레이션",
+        "date": "2026-04-08 11:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002626564?sid=105"
+    },
+    {
+        "title": "아이들은 이미 알고 있다…차단된다더니 너무 쉽게 뚫리는 키즈폰[청소...",
+        "date": "2026-04-08 11:31",
+        "link": "https://n.news.naver.com/mnews/article/277/0005746541?sid=105"
+    },
+    {
+        "title": "분해조차 어렵다 애플, 노트북·스마트폰 수리 용이성 '낙제점'",
+        "date": "2026-04-08 11:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654761"
+    },
+    {
+        "title": "마이크로LED로 中 맞선다…디스플레이협회, 대만과 협력 모색",
+        "date": "2026-04-08 11:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006252761?sid=101"
+    },
+    {
+        "title": "애플, 9월 첫 폴더블 아이폰 출시… 지연설 일축",
+        "date": "2026-04-08 11:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160005"
+    },
+    {
+        "title": "애플 폴더블 아이폰 명칭은 울트라?...브랜드 통일성 강화",
+        "date": "2026-04-08 11:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654757"
+    },
+    {
+        "title": "애플, 차세대 UI 공개…원하는 부분만 고치는 '스콰이어' 등장",
+        "date": "2026-04-08 11:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654750"
+    },
+    {
+        "title": "특허의 힘 LG디스플레이, OLED 전쟁에서 승기 잡았다",
+        "date": "2026-04-08 11:00",
+        "link": "https://www.newspim.com/news/view/20260408000485"
+    },
+    {
+        "title": "한-대만 디스플레이 교류협력단, 마이크로LED 협력 본격화",
+        "date": "2026-04-08 11:00",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248295"
+    },
+    {
+        "title": "애플-에픽게임즈 '인앱 결제' 분쟁, 또다시 美 연방 대법원행",
+        "date": "2026-04-08 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008877126?sid=101"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 9월 공개 일정 사수…지연설 일축",
+        "date": "2026-04-08 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654746"
+    },
+    {
+        "title": "애플 비전 프로와 스팀 링크의 만남…2D 게이밍의 새로운 지평 연다",
+        "date": "2026-04-08 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654741"
+    },
+    {
+        "title": "애플, iOS 26으로 카플레이 대개편…위젯·실시간 정보 지원",
+        "date": "2026-04-08 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654747"
+    },
+    {
+        "title": "[비즈톡톡] “폴드는 잊어라”… 애플 첫 접이식 스마트폰 이름은 ‘아...",
+        "date": "2026-04-08 10:38",
+        "link": "https://n.news.naver.com/mnews/article/366/0001155112?sid=105"
+    },
+    {
+        "title": "소니 '트루 RGB' TV 출시…차세대 디스플레이 승부수",
+        "date": "2026-04-08 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654734"
+    },
+    {
+        "title": "한-대만 디스플레이 교류협력단, 기술·사업화 연계 본격화",
+        "date": "2026-04-08 10:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008876914?sid=101"
+    },
+    {
+        "title": "中 BOE, 애플 공급망 재진입 시동 … 삼성·LG 독주 균열 조짐",
+        "date": "2026-04-08 10:22",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/08/2026040800085.html"
+    },
+    {
+        "title": "알파스캔, 시력보호와 게이밍 성능을 동시에 만족시키는 원형편광 아이...",
+        "date": "2026-04-08 10:20",
+        "link": "https://gamefocus.co.kr/detail.php?number=174993"
+    },
+    {
+        "title": "LG전자발 실적 훈풍…부품·디스플레이 동반 개선 기대",
+        "date": "2026-04-08 10:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=291845"
+    },
+    {
+        "title": "[산업계 동향] 삼성전자ㆍLG전자ㆍ현대무벡스",
+        "date": "2026-04-08 10:18",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=769890"
+    },
+    {
+        "title": "애플 첫 폴더블폰 '아이폰 폴드' 시험 생산 시작... 맥세이프 빠졌다?",
+        "date": "2026-04-08 10:10",
+        "link": "https://www.insight.co.kr/news/549299"
+    },
+    {
+        "title": "알파스캔, 눈 보호·144Hz 게이밍 모니터 'AOC 24E40L' 출시",
+        "date": "2026-04-08 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260408100742"
+    },
+    {
+        "title": "“오늘이 가장 싸다” 칩플레이션 어디까지 번지나",
+        "date": "2026-04-08 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002626384?sid=105"
+    },
+    {
+        "title": "테스트 단계서 예상밖 큰 난관...9월출시 물거품 [여의도 Pick!]",
+        "date": "2026-04-08 09:50",
+        "link": "https://news.mtn.co.kr/news-detail/2026040809083057080"
+    },
+    {
+        "title": "맥북 네오 뜻밖의 흥행…애플, 핵심 칩 재고 고갈로 '생산 비상'",
+        "date": "2026-04-08 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654705"
+    },
+    {
+        "title": "부품 가격 급등 속 애플 맥, 미국 기업 시장서 영향력 확대",
+        "date": "2026-04-08 09:46",
+        "link": "https://www.itworld.co.kr/article/4155368/부품-가격-급등-속-애플-맥-미국-기업-시장서-영향력-확.html"
+    },
+    {
+        "title": "애플 아이폰 폴드 지연 없다…초기 물량부족 예고",
+        "date": "2026-04-08 09:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223687?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 예정대로 올해 하반기 출시?",
+        "date": "2026-04-08 09:32",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=163488"
+    },
+    {
+        "title": "폴더블 아이폰 출시 지연설에 애플 주가 4% 하락",
+        "date": "2026-04-08 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=654689"
+    },
+    {
+        "title": "[DP's 모닝픽] 갤럭시북·갤럭시탭 최대 90만원 인상",
+        "date": "2026-04-08 09:24",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58883"
+    },
+    {
+        "title": "애플, '아이폰18 프로·아이폰 폴드' 케이스 금형 이미지 유출",
+        "date": "2026-04-08 09:16",
+        "link": "https://kbench.com/?q=node/277674"
+    },
+    {
+        "title": "LG전자발 실적 훈풍…부품·디스플레이 동반 개선 기대",
+        "date": "2026-04-08 09:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013874094?sid=101"
+    },
+    {
+        "title": "애플 ‘폴더블 아이폰’ 시험 생산 돌입…출시 시점은 ‘엇갈린 전망’",
+        "date": "2026-04-08 09:00",
+        "link": "https://news.appstory.co.kr/daily18964"
+    },
+    {
+        "title": "삼성전자, TV·사운드바 탄소저감 인증…친환경 경영 속도",
+        "date": "2026-04-08 08:58",
+        "link": "https://www.newspim.com/news/view/20260408000099"
+    },
+    {
+        "title": "폴더블 아이폰, ‘아이폰 폴드’ 아닌 '아이폰 울트라'",
+        "date": "2026-04-08 08:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002417828?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 디자인 유출… 4대3 화면비 적용 전망",
+        "date": "2026-04-08 08:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543067"
+    },
+    {
+        "title": "‘아이폰 폴드’ 베일 벗었다…폴더블 아이폰 첫 번째 모형 사진 공개",
+        "date": "2026-04-08 08:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002417820?sid=105"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED TV 등 14개 모델 '탄소저감 인증' 획득",
+        "date": "2026-04-08 08:18",
+        "link": "https://www.ajunews.com/view/20260408080541310"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플, 접이식 아이폰 '9월 출시' 차질 없이 진행",
+        "date": "2026-04-08 08:10",
+        "link": "https://www.newspim.com/news/view/20260408000065"
+    },
+    {
+        "title": "애플, 첫 폴더블 아이폰 9월 출시 전망…“2000달러 넘는 가격 책정”",
+        "date": "2026-04-08 07:52",
+        "link": "https://www.g-enews.com/view.php?ud=2026040807495623939a1f309431_1"
+    },
+    {
+        "title": "애플 폴더블 아이폰 9월 출시 가닥… 가격 300만 원대 전망",
+        "date": "2026-04-08 07:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543062"
+    },
+    {
+        "title": "이재용의 2나노 승부수, 퀄컴의 '회군'에 침몰하나... 삼성 파운드리...",
+        "date": "2026-04-08 07:12",
+        "link": "https://www.g-enews.com/view.php?ud=202604080711046648f4f9a46d5b_1"
+    },
+    {
+        "title": "[더벨]원익 '팹리스' 첫 결실, 삼성D에 OLED DDI 공급",
+        "date": "2026-04-08 07:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604061245001000105545"
+    },
+    {
+        "title": "애플 기술적 문제로 폴더블폰 출시 연기, 2.07% 하락",
+        "date": "2026-04-08 06:59",
+        "link": "https://n.news.naver.com/mnews/article/421/0008876307?sid=104"
+    },
+    {
+        "title": "[외신 헤드라인] 애플, 첫 폴더블폰 기술문제로 출시 지연 가능성",
+        "date": "2026-04-08 06:23",
+        "link": "https://n.news.naver.com/mnews/article/374/0000502958?sid=104"
+    },
+    {
         "title": "애플 ‘폴더블 아이폰’ 개발 난항… 엔지니어링 결함에 출시 지연 위기",
         "date": "2026-04-08 05:40",
         "link": "https://www.g-enews.com/view.php?ud=2026040717243086390c8c1c064d_1"
