@@ -1,5 +1,445 @@
 [
     {
+        "title": "대형 OLED 뺨치는 마이크로OLED 몸값…대중화 '마법의 시간' 언제",
+        "date": "2026-04-09 14:48",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223914?sid=105"
+    },
+    {
+        "title": "예선테크, 사업체질 개선 효과 본격화…흑자 전환 후 성장 기반 강화",
+        "date": "2026-04-09 14:40",
+        "link": "https://n.news.naver.com/mnews/article/277/0005747277?sid=101"
+    },
+    {
+        "title": "삼성 파운드리 수율 ‘또’ 말썽...다 잡은 퀄컴 TSMC로 놓치나",
+        "date": "2026-04-09 14:27",
+        "link": "https://n.news.naver.com/mnews/article/082/0001375234?sid=101"
+    },
+    {
+        "title": "남는 칩으로 만들었는데…맥북 네오 판매 급증에 애플 딜레마",
+        "date": "2026-04-09 14:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002418099?sid=105"
+    },
+    {
+        "title": "[단독] 삼성, 7월 런던서 언팩…'와이드 폴드' 공개한다",
+        "date": "2026-04-09 14:08",
+        "link": "https://n.news.naver.com/mnews/article/215/0001248462?sid=101"
+    },
+    {
+        "title": "애플, 신제품까지 DIY 확대…맥북 네오·아이폰 17e 부품 판매",
+        "date": "2026-04-09 14:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655224"
+    },
+    {
+        "title": "코이즈 주가 폭등랠리… OLED 소재 및 부품주 수급 집중",
+        "date": "2026-04-09 13:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444169"
+    },
+    {
+        "title": "아이폰 미니, 마니아의 그리움 속에 남은 이름[옛날신문보기]",
+        "date": "2026-04-09 13:20",
+        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=200067"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 'QD-OLED' 누적 출하량 500만대 달성",
+        "date": "2026-04-09 13:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586078024086"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적출하 500만대 돌파",
+        "date": "2026-04-09 13:06",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=102050"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 출하 500만대",
+        "date": "2026-04-09 13:04",
+        "link": "https://www.naeil.com/news/read/584616?ref=naver"
+    },
+    {
+        "title": "Samsung Display's QD-OLED monitor panels surpass 5 mil. cumulative shipme...",
+        "date": "2026-04-09 12:54",
+        "link": "https://www.koreatimes.co.kr/path/A2026040912300005393"
+    },
+    {
+        "title": "[뉴겜 투데이] 아이덴티티게임즈, '드래곤네스트 월드' 정식 서비스 外",
+        "date": "2026-04-09 11:54",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=83597"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 패널 출하량 500만 대 돌파",
+        "date": "2026-04-09 11:30",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=510138"
+    },
+    {
+        "title": "애플 아이폰, 4분기 톱10 절반 차지…지배력 입증",
+        "date": "2026-04-09 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655177"
+    },
+    {
+        "title": "'美 반독점 소송' 애플, 삼성전자 내부자료 받아달라 법원에 요청",
+        "date": "2026-04-09 11:18",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74823"
+    },
+    {
+        "title": "애플 50년사가 한눈에…네덜란드에 세계 최대 애플 박물관 개관",
+        "date": "2026-04-09 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655170"
+    },
+    {
+        "title": "아이폰·맥북 수리 용이성 ‘최악’ 평가.. ‘수리하기 가장 어려워’",
+        "date": "2026-04-09 11:18",
+        "link": "https://kbench.com/?q=node/277738"
+    },
+    {
+        "title": "QD-OLED 모니터 전성시대…삼성D, 500만대 출하 돌파",
+        "date": "2026-04-09 11:14",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160075"
+    },
+    {
+        "title": "애플, 美 반독점 소송 '반격'…한국 법원에 삼성전자 증거조사 요청",
+        "date": "2026-04-09 11:10",
+        "link": "https://www.kpinews.kr/newsView/1065578980883663"
+    },
+    {
+        "title": "삼성전자 갤S26·버즈4 '인간 중심 디자인' 강화",
+        "date": "2026-04-09 11:10",
+        "link": "https://n.news.naver.com/mnews/article/417/0001138210?sid=105"
+    },
+    {
+        "title": "“진작 살걸”…OLED 모니터가 바꿔놓은 것들",
+        "date": "2026-04-09 11:06",
+        "link": "https://www.itworld.co.kr/article/4156134/진작-살걸oled-모니터가-바꿔놓은-것들.html"
+    },
+    {
+        "title": "애플 월렛 카 키, 토요타·리비안 탑재…포르쉐·GM도 지원 임박",
+        "date": "2026-04-09 11:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655143"
+    },
+    {
+        "title": "인상 부드러워진 갤럭시 S26 울트라의 비밀…'7R'에 있다",
+        "date": "2026-04-09 11:06",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408590"
+    },
+    {
+        "title": "삼성디플, QD-OLED 출하량 500만 돌파 '점유율 75%'",
+        "date": "2026-04-09 11:04",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=716038"
+    },
+    {
+        "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
+        "date": "2026-04-09 10:56",
+        "link": "https://www.itworld.co.kr/article/4156131/아이폰-폴드-지연설-딛고-가을-출시-예정대로-블룸.html"
+    },
+    {
+        "title": "내 삼성 주식, 엔비디아 추월하나?… 애플 '아이폰 폴드' 단독 수주에 영...",
+        "date": "2026-04-09 10:54",
+        "link": "https://www.g-enews.com/view.php?ud=202604091018355494fbbec65dfb_1"
+    },
+    {
+        "title": "'판매부진' 아이폰 에어, 2세대 모델 나온다…뭐가 바뀌나",
+        "date": "2026-04-09 10:51",
+        "link": "https://n.news.naver.com/mnews/article/092/0002418062?sid=105"
+    },
+    {
+        "title": "뻔뻔한 애플, 반독점 소송 방어 위해 '삼성 영업기밀' 요구",
+        "date": "2026-04-09 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160079"
+    },
+    {
+        "title": "삼성D QD-OLED, 500만대 돌파...모니터 시장 '게임체인저'",
+        "date": "2026-04-09 10:45",
+        "link": "https://www.newspim.com/news/view/20260409000458"
+    },
+    {
+        "title": "삼성D, QD-OLED 출하량 양산 4년만에 500만대 돌파",
+        "date": "2026-04-09 10:44",
+        "link": "https://n.news.naver.com/mnews/article/031/0001020864?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-올레드 누적 출하 500만대 달성",
+        "date": "2026-04-09 10:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=291963"
+    },
+    {
+        "title": "투자자 “수요 없다” 평가절하에도…애플, 아이폰 에어 2세대까지 이어...",
+        "date": "2026-04-09 10:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003416308?sid=104"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 달성",
+        "date": "2026-04-09 10:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2026040909230180339"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 500만대 출하",
+        "date": "2026-04-09 10:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003416295?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 패널 출하 500만대 돌파",
+        "date": "2026-04-09 10:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001155447?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 QD-OLED 모니터, 4년만에 500만대 돌파",
+        "date": "2026-04-09 10:18",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=357477"
+    },
+    {
+        "title": "삼성디스플레이, '모니터용 QD-OLED' 출하량 500만대 달성",
+        "date": "2026-04-09 10:14",
+        "link": "https://n.news.naver.com/mnews/article/417/0001138184?sid=101"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 트리폴드, 4월 10일 美 재판매…사실상 마지막 물량...",
+        "date": "2026-04-09 10:10",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74811"
+    },
+    {
+        "title": "아이폰 폴드 9월 베일 벗나…애플 첫 폴더블 도전",
+        "date": "2026-04-09 10:08",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74814"
+    },
+    {
+        "title": "[테크 안테나] LG전자·삼성디스플레이·LG이노텍",
+        "date": "2026-04-09 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1356542"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 500만대 출하 돌파",
+        "date": "2026-04-09 09:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223847?sid=105"
+    },
+    {
+        "title": "[Tech &amp; Now] 한미반도체, 2세대 하이브리드 본더 프로토타입 연내 출시",
+        "date": "2026-04-09 09:54",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1704871"
+    },
+    {
+        "title": "“양산 4년만”…삼성D, 모니터용 QD-OLED 500만대 출하",
+        "date": "2026-04-09 09:50",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1297250&inflow=N"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만 대 돌파",
+        "date": "2026-04-09 09:50",
+        "link": "http://www.datanews.co.kr/news/article.html?no=144244"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 누적 출하 4년 만에 500만대 돌파",
+        "date": "2026-04-09 09:44",
+        "link": "https://n.news.naver.com/mnews/article/029/0003020728?sid=101"
+    },
+    {
+        "title": "LCD 저물고 QD-OLED 뜬다 … 삼성D, 모니터 패널 500만대 돌파",
+        "date": "2026-04-09 09:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/09/2026040900054.html"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 출하 500만대 돌파",
+        "date": "2026-04-09 09:39",
+        "link": "https://n.news.naver.com/mnews/article/374/0000503286?sid=101"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 누적 출하 500만대 돌파…양산 개시 4년만",
+        "date": "2026-04-09 09:38",
+        "link": "https://n.news.naver.com/mnews/article/119/0003078698?sid=101"
+    },
+    {
+        "title": "“LCD 저물고 QD-OLED 모니터 뜬다”…삼성D, 500만대 돌파",
+        "date": "2026-04-09 09:36",
+        "link": "https://n.news.naver.com/mnews/article/011/0004608815?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만 대 달성",
+        "date": "2026-04-09 09:34",
+        "link": "https://www.cnbnews.com/news/article.html?no=788342"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 누적 출하 500만대 돌파…4년간 연평균 성장률...",
+        "date": "2026-04-09 09:32",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=736628"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' 4년만에 500만대 출하",
+        "date": "2026-04-09 09:28",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=128330"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 500만 대 출하…프리미엄 모니터 주도",
+        "date": "2026-04-09 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655101"
+    },
+    {
+        "title": "애플, 내년 봄 ‘아이폰 에어2·18e’ 출시 전망… 라인업 ‘이원화’ 가...",
+        "date": "2026-04-09 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223836?sid=105"
+    },
+    {
+        "title": "'아이폰 폴드' 아닌 '울트라' 9월 출시 가속… 최고가 400만원 육박",
+        "date": "2026-04-09 09:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223834?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 돌파",
+        "date": "2026-04-09 09:22",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244360"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 출하량 500만대 돌파",
+        "date": "2026-04-09 09:15",
+        "link": "https://n.news.naver.com/mnews/article/008/0005341851?sid=101"
+    },
+    {
+        "title": "4년간 무려 320%씩 성장 삼성D, 모니터용 QD-OLED 출하 500만대 돌파",
+        "date": "2026-04-09 09:09",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=122538"
+    },
+    {
+        "title": "QD-OLED 모니터 시대 온다…삼성D, 4년만에 출하량 500만대 돌파",
+        "date": "2026-04-09 09:08",
+        "link": "https://www.g-enews.com/view.php?ud=2026040908461967506ed0c62d49_1"
+    },
+    {
+        "title": "모니터도 LCD 지고 QD-OLED 뜬다…삼성D, 모니터용 QD-OLED 누적 출하 500...",
+        "date": "2026-04-09 09:06",
+        "link": "https://n.news.naver.com/mnews/article/016/0002626965?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 달성",
+        "date": "2026-04-09 09:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=130189"
+    },
+    {
+        "title": "LCD 저물고 QD-OLED 온다…삼성D, 모니터용 QD-OLED 누적 500만대 출하",
+        "date": "2026-04-09 08:51",
+        "link": "https://n.news.naver.com/mnews/article/277/0005746955?sid=101"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 출하 500만대 달성",
+        "date": "2026-04-09 08:50",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=831673"
+    },
+    {
+        "title": "삼성디스플레이 QD-OLED 모니터, 누적 출하 500만대 돌파",
+        "date": "2026-04-09 08:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008879083?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 돌파",
+        "date": "2026-04-09 08:48",
+        "link": "https://www.sentv.co.kr/article/view/sentv202604090016"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 달성",
+        "date": "2026-04-09 08:46",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=837158"
+    },
+    {
+        "title": "삼성디스플레이 모니터용 QD-OLED, 누적 출하량 500만대 돌파",
+        "date": "2026-04-09 08:44",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444040"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-올레드 누적 출하 500만대 달성",
+        "date": "2026-04-09 08:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0013876642?sid=101"
+    },
+    {
+        "title": "LCD 지고 자발광 뜬다… 삼성D, QD-OLED 패널 누적 출하 500만대 달성",
+        "date": "2026-04-09 08:36",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=254825"
+    },
+    {
+        "title": "삼성디스플레이, 모니터 QD-OLED 누적 500만대 출하",
+        "date": "2026-04-09 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002418013?sid=105"
+    },
+    {
+        "title": "안 팔려도 간다…애플 ‘아이폰 에어’ 전략 유지[모닝폰]",
+        "date": "2026-04-09 08:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006253280?sid=105"
+    },
+    {
+        "title": "'500만대 돌파' 삼성디스플레이, 모니터용 QD-OLED 양산 4년만에 대기록",
+        "date": "2026-04-09 08:33",
+        "link": "https://n.news.naver.com/mnews/article/014/0005504864?sid=101"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 누적 출하량 500만대 돌파",
+        "date": "2026-04-09 08:29",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=626011"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 돌파",
+        "date": "2026-04-09 08:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016010963?sid=101"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 누적 출하 500만대 돌파…'LCD 저물고 QD-OLED 부...",
+        "date": "2026-04-09 08:24",
+        "link": "https://www.ajunews.com/view/20260409081712242"
+    },
+    {
+        "title": "삼성D, 모니터용 QD-OLED 500만 대 출하",
+        "date": "2026-04-09 08:24",
+        "link": "https://www.viva100.com/article/20260409500093"
+    },
+    {
+        "title": "폴더블 아이폰, 예정대로 9월 출시…가격 300만원",
+        "date": "2026-04-09 08:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002418010?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 출하량 500만대 달성",
+        "date": "2026-04-09 08:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006253262?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하 500만대 돌파",
+        "date": "2026-04-09 08:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=252914"
+    },
+    {
+        "title": "삼성디스플레이, 모니터용 QD-OLED 누적 출하량 500만대 돌파",
+        "date": "2026-04-09 07:44",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=245915"
+    },
+    {
+        "title": "삼성디스플레이, 애플 폴더블 아이폰용 디스플레이 3년간 독점 공급",
+        "date": "2026-04-09 07:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543105"
+    },
+    {
+        "title": "[GAM]애플 폴더블폰 출시 '메기효과' 기대① A주 테마주 재조명",
+        "date": "2026-04-09 07:00",
+        "link": "https://www.newspim.com/news/view/20260408001099"
+    },
+    {
+        "title": "[GAM]애플 폴더블폰 출시 '메기효과' 기대② A주 테마주 재조명",
+        "date": "2026-04-09 07:00",
+        "link": "https://www.newspim.com/news/view/20260408001100"
+    },
+    {
+        "title": "OLED 집중한 K-디스플레이, 수익성 켰다",
+        "date": "2026-04-09 07:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=300335"
+    },
+    {
+        "title": "유장진 LGD 연구위원 “中 추격에… OLED 우수성 증명하려 지표 개발” ...",
+        "date": "2026-04-09 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004119442?sid=101"
+    },
+    {
+        "title": "[비즈톡톡] R&amp;D에 2조2000억원 쏟은 LG디스플레이… 특허 로열티 수익 1...",
+        "date": "2026-04-09 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001155345?sid=105"
+    },
+    {
+        "title": "[PLAY IT] 맥북 입문자에게 딱…'맥북 네오' 써보니",
+        "date": "2026-04-09 06:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223818?sid=105"
+    },
+    {
         "title": "삼천당제약 기자회견서 설명한 '디오스파마 대표'",
         "date": "2026-04-09 05:56",
         "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935412"
@@ -105,11 +545,6 @@
         "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234538"
     },
     {
-        "title": "[전자 레이더] 삼성전자·LG전자, B2B·친환경 맞춤 솔루션 확대...XR 통합...",
-        "date": "2026-04-08 16:30",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=197978"
-    },
-    {
         "title": "애플 아이폰, 폴더블 출시 초읽기? 실물 모형 유출됐다 [SS이슈]",
         "date": "2026-04-08 16:21",
         "link": "https://n.news.naver.com/mnews/article/468/0001232301?sid=105"
@@ -128,11 +563,6 @@
         "title": "그라비티, 다크 판타지 MMORPG 신작 '레퀴엠M' 국내 사전예약 시작",
         "date": "2026-04-08 15:52",
         "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=221260"
-    },
-    {
-        "title": "[재계는 지금] SK하이닉스, 321단 QLC 낸드 기반 cSSD 공급 外",
-        "date": "2026-04-08 15:48",
-        "link": "https://dealsite.co.kr/articles/159878"
     },
     {
         "title": "“9월 접는 아이폰 나온다”…출시 지연설 일축",
@@ -305,7 +735,7 @@
         "link": "https://n.news.naver.com/mnews/article/016/0002626564?sid=105"
     },
     {
-        "title": "삼성전자 유튜브, 엄만 꿈에도 모를걸…'성인물' 너무 쉽게 뚫리는 키...",
+        "title": "엄만 꿈에도 모를걸…'성인물' 너무 쉽게 뚫리는 키즈폰[청소년 SNS 전...",
         "date": "2026-04-08 11:31",
         "link": "https://n.news.naver.com/mnews/article/277/0005746541?sid=105"
     },
@@ -448,6 +878,11 @@
         "title": "[DP's 모닝픽] 갤럭시북·갤럭시탭 최대 90만원 인상",
         "date": "2026-04-08 09:24",
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58883"
+    },
+    {
+        "title": "삼성전자, TV·사운드바 14종 ‘탄소저감’ 인증 획득",
+        "date": "2026-04-08 09:18",
+        "link": "https://www.sentv.co.kr/article/view/sentv202604080028"
     },
     {
         "title": "애플, '아이폰18 프로·아이폰 폴드' 케이스 금형 이미지 유출",
