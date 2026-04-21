@@ -1,5 +1,905 @@
 [
     {
+        "title": "이엠앤아이, OLED 발광층 소재 강자 입증…실험 자동화로 개발 속도 높인...",
+        "date": "2026-04-21 15:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447284"
+    },
+    {
+        "title": "팀쿡 이어 50세 하드웨어통 선택한 애플…AI 전환도 성공할까",
+        "date": "2026-04-21 14:52",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=228753"
+    },
+    {
+        "title": "석유화학·첨단소재·생명과학... LG화학의 '삼각 편대'가 그리는 미래",
+        "date": "2026-04-21 14:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447280"
+    },
+    {
+        "title": "왜 AI 전문가가 아닐까? 애플 CEO 교체의 속뜻 [이슈크래커]",
+        "date": "2026-04-21 14:46",
+        "link": "https://www.etoday.co.kr/news/view/2577711"
+    },
+    {
+        "title": "애플 차기 CEO, 트럼프·버크셔랑 친해야 산다",
+        "date": "2026-04-21 14:46",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410776"
+    },
+    {
+        "title": "[뉴스 줌인] '운영의 애플' 이끈 팀 쿡…존 터너스 체제는 기술 중심 전...",
+        "date": "2026-04-21 14:37",
+        "link": "https://n.news.naver.com/mnews/article/030/0003420072?sid=105"
+    },
+    {
+        "title": "[주목 이 사람] 차기 애플 CEO 존 터너스",
+        "date": "2026-04-21 14:25",
+        "link": "https://n.news.naver.com/mnews/article/088/0001006523?sid=104"
+    },
+    {
+        "title": "애플 CEO, '공급망'에서 '기술'로 전환...자체 개발에 '올인'",
+        "date": "2026-04-21 14:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005510988?sid=101"
+    },
+    {
+        "title": "[Car 리포트] 현대차, 인도 마이크로모빌리티 부문 협업 등",
+        "date": "2026-04-21 14:14",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360180"
+    },
+    {
+        "title": "팀쿡, 15년 만에 애플 CEO 퇴임…새 수장은 존 터너스",
+        "date": "2026-04-21 14:12",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1298530&inflow=N"
+    },
+    {
+        "title": "애플, 印 반독점 소송 관련 자료 제출 거부...印 당국은 최종 심리일 확...",
+        "date": "2026-04-21 14:09",
+        "link": "https://www.newspim.com/news/view/20260421000930"
+    },
+    {
+        "title": "부품 원가 급등에도 공격적 가격 전략 정책 고수...애플의 노림수 통할...",
+        "date": "2026-04-21 14:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543432"
+    },
+    {
+        "title": "[글로벌] 화면 여백 지운다...화웨이 선공에 '와이드 폴더블' 경쟁 점...",
+        "date": "2026-04-21 14:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=151210"
+    },
+    {
+        "title": "AI 시대, 아이폰 과연 필요할까…차기 CEO '최대 시험대'",
+        "date": "2026-04-21 14:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658847"
+    },
+    {
+        "title": "애플 vs 美 법무부 충돌…'삼성 자료' 확보 놓고 갈등",
+        "date": "2026-04-21 13:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658849"
+    },
+    {
+        "title": "선익시스템, 세계 1위 소형 OLED 증착 기술 앞세워 시장 주도",
+        "date": "2026-04-21 13:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447259"
+    },
+    {
+        "title": "국민성장펀드 ‘OLED 초격차’ 메가프로젝트 가동…넥사다이내믹스 주목",
+        "date": "2026-04-21 13:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006262620?sid=101"
+    },
+    {
+        "title": "애플, 56조원 벌금 위기…인도, 재무자료 미제출에 강경 대응",
+        "date": "2026-04-21 13:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658796"
+    },
+    {
+        "title": "진짜 엔지니어 애플 차기 CEO 존 터너스",
+        "date": "2026-04-21 13:43",
+        "link": "https://n.news.naver.com/mnews/article/277/0005752618?sid=101"
+    },
+    {
+        "title": "15년간 시총 10배 껑충…'팀쿡 체제' 막내린다(종합)",
+        "date": "2026-04-21 13:38",
+        "link": "https://n.news.naver.com/mnews/article/277/0005752606?sid=101"
+    },
+    {
+        "title": "‘반독점 소송’ 애플 시간 끌기?…삼성 기밀자료 요청에 美 법무부 “...",
+        "date": "2026-04-21 13:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002225294?sid=105"
+    },
+    {
+        "title": "픽시오, 초고주사율 게이밍 모니터 '하야부사' 시리즈 국내 출시",
+        "date": "2026-04-21 13:26",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=87880"
+    },
+    {
+        "title": "포브스, 삼성 OLEDTV  극찬 다른 TV들이 넘어야 할 독보적 기준 제시",
+        "date": "2026-04-21 13:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543429"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英 매체서 잇달아 호평…독보적인 기준 제시",
+        "date": "2026-04-21 13:20",
+        "link": "https://www.g-enews.com/view.php?ud=2026042113021240186ed0c62d49_1"
+    },
+    {
+        "title": "효율보다 혁신… 애플, 왜 쿡의 후계자로 '하드웨어 수장' 터너스 택했...",
+        "date": "2026-04-21 12:50",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52252"
+    },
+    {
+        "title": "애플, 15년 만에 CEO 바뀐다...존 터너스 임명",
+        "date": "2026-04-21 12:47",
+        "link": "https://www.bbc.com/korean/articles/cvg0y3n2e0eo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D"
+    },
+    {
+        "title": "삼성전자, OLED TV 'S95H' 미·영 매체 호평… 포브스 독보적 기준 제시...",
+        "date": "2026-04-21 12:36",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=40672"
+    },
+    {
+        "title": "14년만의 CEO 교체…존 터너스 체제로 전환하는 애플",
+        "date": "2026-04-21 12:20",
+        "link": "https://www.itworld.co.kr/article/4161146/14년만의-ceo-교체존-터너스-체제로-전환하는-애플.html"
+    },
+    {
+        "title": "'팀 쿡 시대' 15년 만에 막 내렸다…애플, 엔지니어 출신 터너스로 'AI 승...",
+        "date": "2026-04-21 12:14",
+        "link": "https://www.daily365.news/2026/04/21/%ed%8c%80-%ec%bf%a1-%ec%8b%9c%eb%8c%80-15%eb%85%84-%eb%a7%8c%ec%97%90-%eb%a7%89-%eb%82%b4%eb%a0%b8%eb%8b%a4%ec%95%a0%ed%94%8c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%b6%9c%ec%8b%a0/"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO에서 15년만에 물러나…후임은 존 터너스",
+        "date": "2026-04-21 12:10",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78211"
+    },
+    {
+        "title": "“굿바이 팀쿡”… 15년만에 애플 CEO 교체",
+        "date": "2026-04-21 12:08",
+        "link": "https://n.news.naver.com/mnews/article/021/0002786289?sid=104"
+    },
+    {
+        "title": "애플 15년 만에 세대교체…9월, 존 터너스 취임",
+        "date": "2026-04-21 11:58",
+        "link": "https://n.news.naver.com/mnews/article/374/0000505707?sid=104"
+    },
+    {
+        "title": "애플, 개발자용 ‘iOS 26.5’ 베타 3 공개",
+        "date": "2026-04-21 11:54",
+        "link": "https://kbench.com/?q=node/278075"
+    },
+    {
+        "title": "美 포브스 삼성 OLED TV…다른 TV가 넘어야 할 기준",
+        "date": "2026-04-21 11:50",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838414"
+    },
+    {
+        "title": "美 포브스 삼성 OLED TV, 독보적 기준 제시했다",
+        "date": "2026-04-21 11:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005510915?sid=101"
+    },
+    {
+        "title": "새 수장 맞은 애플, AI·폴더블 시험대",
+        "date": "2026-04-21 11:42",
+        "link": "https://n.news.naver.com/mnews/article/016/0002632994?sid=105"
+    },
+    {
+        "title": "애플 새 사령탑에 존 터너스…'기술혁신' 첨병 기대[피플in포커스]",
+        "date": "2026-04-21 11:39",
+        "link": "https://n.news.naver.com/mnews/article/421/0008902335?sid=102"
+    },
+    {
+        "title": "팀쿡 이어 50세 하드웨어통 선택한 애플…AI 전환도 성공할까(종합)",
+        "date": "2026-04-21 11:36",
+        "link": "https://n.news.naver.com/mnews/article/001/0016033367?sid=104"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO에서 15년 만에 물러나… 후임은 '하드웨어통' 존 터너스...",
+        "date": "2026-04-21 11:36",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237237"
+    },
+    {
+        "title": "“이제는 옆으로 펼친다”…삼성·화웨이, 가로형 폴더블로 ‘2차전’",
+        "date": "2026-04-21 11:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005669074?sid=101"
+    },
+    {
+        "title": "애플, 15년 만의 리더십 교체…'25년 엔지니어' 존 터너스 시대 개막",
+        "date": "2026-04-21 11:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013900082?sid=105"
+    },
+    {
+        "title": "팀 쿡, 15년 만에 퇴장···'애플' 주목할 3가지",
+        "date": "2026-04-21 11:30",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49134"
+    },
+    {
+        "title": "화웨이, 와이드 폴더블폰 ‘퓨라 X 맥스’ 공개.. 가격 238만원부터",
+        "date": "2026-04-21 11:28",
+        "link": "https://kbench.com/?q=node/278074"
+    },
+    {
+        "title": "[人사이더] 물러나는 팀 쿡… 15년 만에 바뀌는 ‘애플 선장’ 후임 누...",
+        "date": "2026-04-21 11:28",
+        "link": "https://n.news.naver.com/mnews/article/029/0003022844?sid=105"
+    },
+    {
+        "title": "[자막뉴스] 의심할 여지 없다 깜짝 공개…'4조 달러 애플' 키운 팀 쿡...",
+        "date": "2026-04-21 11:27",
+        "link": "https://n.news.naver.com/mnews/article/055/0001350175?sid=101"
+    },
+    {
+        "title": "“삼성 OLED TV, 독보적 기준 제시” 英美 호평",
+        "date": "2026-04-21 11:24",
+        "link": "https://n.news.naver.com/mnews/article/016/0002632924?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 독보적 존재감…美 포브스 “다른 TV들이 넘어야 할 기준...",
+        "date": "2026-04-21 11:22",
+        "link": "https://n.news.naver.com/mnews/article/468/0001235487?sid=101"
+    },
+    {
+        "title": "15년 만에 막내린 팀쿡 체제…애플, 엔지니어 출신 CEO 앞세워 ‘기술’...",
+        "date": "2026-04-21 11:16",
+        "link": "https://n.news.naver.com/mnews/article/029/0003022839?sid=105"
+    },
+    {
+        "title": "美·英 매체서 호평 받은 삼성전자 OLED TV… “독보적 기준 제시”",
+        "date": "2026-04-21 11:15",
+        "link": "https://n.news.naver.com/mnews/article/366/0001158470?sid=105"
+    },
+    {
+        "title": "삼성전자·LG전자, 伊 '밀라노 디자인 위크'로 간 까닭은?",
+        "date": "2026-04-21 11:12",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=151199"
+    },
+    {
+        "title": "스티브 잡스·팀 쿡 이을 존 터너스는 누구… 대학 수영 대회 우승, 끈기...",
+        "date": "2026-04-21 11:08",
+        "link": "https://n.news.naver.com/mnews/article/366/0001158467?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英서 호평…LG '독주 체제' 깨질까",
+        "date": "2026-04-21 11:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160676"
+    },
+    {
+        "title": "갤럭시 더 오르나요…MX 수익성 방어 해법에 쏠린 눈",
+        "date": "2026-04-21 11:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0003082845?sid=105"
+    },
+    {
+        "title": "팀 쿡 이어 애플 이끌 존 터너스, 애플의 '혁신 DNA' 되살릴까",
+        "date": "2026-04-21 11:04",
+        "link": "http://www.segyebiz.com/newsView/20260421506893?OutUrl=naver"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英 주요 매체서 호평",
+        "date": "2026-04-21 11:02",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031327"
+    },
+    {
+        "title": "TSMC, 2나노 '수율 90% 안정화'...3나노 글로벌 증산 가속",
+        "date": "2026-04-21 11:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=400692"
+    },
+    {
+        "title": "삼성·애플 ‘배터리 고집’ 꺾였다… EU, 2027년 탈착형 설계 강제",
+        "date": "2026-04-21 10:58",
+        "link": "https://www.g-enews.com/view.php?ud=2026042110544653342bd56fbc3c_1"
+    },
+    {
+        "title": "다른 TV들이 넘어야할 독보적 기준 삼성전자 OLED TV에 포브스 '극찬'",
+        "date": "2026-04-21 10:56",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123019"
+    },
+    {
+        "title": "애플, 15년 만 수장 교체…‘뉴 애플’ 전략 재편 신호탄",
+        "date": "2026-04-21 10:54",
+        "link": "http://www.metroseoul.co.kr/article/20260421500123"
+    },
+    {
+        "title": "외신, 삼성전자 OLED TV 기술 호평",
+        "date": "2026-04-21 10:52",
+        "link": "https://n.news.naver.com/mnews/article/030/0003419901?sid=105"
+    },
+    {
+        "title": "삼성전자, 2026년형 OLED TV 'S95H' 호평 잇따라",
+        "date": "2026-04-21 10:52",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261331"
+    },
+    {
+        "title": "팀 쿡, 사상 최대 실적에도 15년 만에 퇴진… 애플은 왜 지금 ‘엔지니...",
+        "date": "2026-04-21 10:48",
+        "link": "https://n.news.naver.com/mnews/article/366/0001158453?sid=105"
+    },
+    {
+        "title": "거장의 은퇴... '일벌레' 팀 쿡 애플 CEO, 2선 후퇴",
+        "date": "2026-04-21 10:46",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=868232"
+    },
+    {
+        "title": "삼성 OLED TV 'S95H', 美·英 주요 매체서 잇따라 호평",
+        "date": "2026-04-21 10:42",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248633"
+    },
+    {
+        "title": "[테크M 이슈] 굿바이 팀 쿡...다시 '엔지니어' 중심으로 변화하는 애플",
+        "date": "2026-04-21 10:40",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=151198"
+    },
+    {
+        "title": "美·英, 삼성 OLED TV에 호평…“다른 TV가 넘어야 할 독보적 기준 제시...",
+        "date": "2026-04-21 10:38",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=85834"
+    },
+    {
+        "title": "씨아이에스, 설비 발주 지연 뚫고 '전극공정 기술력'으로 승부수",
+        "date": "2026-04-21 10:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447223"
+    },
+    {
+        "title": "애플, 15년 '팀 쿡 시대' 마감…차기 CEO 존 터너스에 쏠린 기대와 과제",
+        "date": "2026-04-21 10:36",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569170"
+    },
+    {
+        "title": "팀 쿡 시대 접는 애플…AI 빅테크 경쟁 '과제' 산더미",
+        "date": "2026-04-21 10:35",
+        "link": "https://n.news.naver.com/mnews/article/421/0008902047?sid=105"
+    },
+    {
+        "title": "코인베이스, 애플페이로 '비트코인' 결제 지원...클릭 한 번이면 끝",
+        "date": "2026-04-21 10:34",
+        "link": "http://coinreaders.com/231858"
+    },
+    {
+        "title": "삼성 OLED TV, 외신들 호평 릴레이…포브스 독보적 기준 제시",
+        "date": "2026-04-21 10:29",
+        "link": "https://www.kpinews.kr/newsView/1065576294833040"
+    },
+    {
+        "title": "애플 시총 10배 늘린 팀쿡, 15년만에 CEO 물러나...후임 존 터너스는 누...",
+        "date": "2026-04-21 10:28",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=201693"
+    },
+    {
+        "title": "외신도 반한 2026년형 삼성전자 OLED TV",
+        "date": "2026-04-21 10:24",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201061"
+    },
+    {
+        "title": "팀 쿡, 15년 만에 애플 CEO 퇴진…오는 9월 존 터너스 체제로 전환",
+        "date": "2026-04-21 10:22",
+        "link": "https://n.news.naver.com/mnews/article/123/0002381711?sid=104"
+    },
+    {
+        "title": "애플, 차기 CEO에 존 터너스 임명…AI·폼팩터 혁신 적임자",
+        "date": "2026-04-21 10:22",
+        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=200436"
+    },
+    {
+        "title": "'포스트 잡스' 시대 폐막... 팀 쿡, 14년 만에 애플 CEO 퇴진",
+        "date": "2026-04-21 10:22",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153188"
+    },
+    {
+        "title": "삼성전자, OLED TV 호평 이어져…글로벌 매체 '기준 제시' 평가",
+        "date": "2026-04-21 10:22",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=182304"
+    },
+    {
+        "title": "삼성전자, OLED TV 해외 호평…프리미엄 TV 경쟁력 확보",
+        "date": "2026-04-21 10:20",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=300821"
+    },
+    {
+        "title": "방미통위 “이동통신 3사 위치정보, 정확도 개선돼”",
+        "date": "2026-04-21 10:16",
+        "link": "https://www.viva100.com/article/20260421500386"
+    },
+    {
+        "title": "9월 물러나는 쿡 CEO, 애플 시총 4500조원으로 끌어올려",
+        "date": "2026-04-21 10:15",
+        "link": "https://n.news.naver.com/mnews/article/014/0005510814?sid=101"
+    },
+    {
+        "title": "애플, 차기 CEO에 ‘엔지니어’ 존 터너스 부사장 내정… 9월 1일 취임",
+        "date": "2026-04-21 10:10",
+        "link": "https://n.news.naver.com/mnews/article/020/0003714052?sid=101"
+    },
+    {
+        "title": "삼성전자 2026년형 OLED TV 글로벌 매체서 호평",
+        "date": "2026-04-21 10:09",
+        "link": "https://n.news.naver.com/mnews/article/031/0001023566?sid=101"
+    },
+    {
+        "title": "팀 쿡, 15년 만에 애플 CEO 퇴진···AI 경쟁 속 세대교체",
+        "date": "2026-04-21 10:08",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=142295"
+    },
+    {
+        "title": "팀쿡 이어 50세 하드웨어통 선택한 애플…AI 전환도 성공할까",
+        "date": "2026-04-21 10:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0016032956?sid=104"
+    },
+    {
+        "title": "美 포브스 삼성 OLED TV, 다른 TV들이 넘어야 할 독보적인 기준 제시",
+        "date": "2026-04-21 10:06",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=228715"
+    },
+    {
+        "title": "애플, '팀 쿡 15년' 마침표…차기 CEO는 엔지니어",
+        "date": "2026-04-21 10:04",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=101283"
+    },
+    {
+        "title": "애플 차기 수장 ‘존 터너스’ 누구인가…‘차세대 기기·AI전략’ 새 시...",
+        "date": "2026-04-21 10:04",
+        "link": "https://n.news.naver.com/mnews/article/016/0002632803?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, 미국·영국서 호평 이어져…독보적 성능",
+        "date": "2026-04-21 09:59",
+        "link": "https://n.news.naver.com/mnews/article/119/0003082760?sid=101"
+    },
+    {
+        "title": "삼성·애플 보고있나…화웨이, 와이드 폴더블 '푸라 X 맥스' 210만원대...",
+        "date": "2026-04-21 09:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002225260?sid=105"
+    },
+    {
+        "title": "삼성 2026년형 OLED TV, 美 포브스 등 주요 외신 극찬",
+        "date": "2026-04-21 09:56",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061359"
+    },
+    {
+        "title": "애플 새로운 CEO 존 터너스...낙관으로 가득 [지금이뉴스]",
+        "date": "2026-04-21 09:53",
+        "link": "https://n.news.naver.com/mnews/article/052/0002343604?sid=104"
+    },
+    {
+        "title": "애플 15년 이끈 팀 쿡 CEO 물러나 이사회 의장에...후임 존 터너스 수석...",
+        "date": "2026-04-21 09:52",
+        "link": "https://hbnpress.com/news/view/1065573294169980"
+    },
+    {
+        "title": "애플의 새로운 시대 이끌 CEO, 존 터너스는 누구",
+        "date": "2026-04-21 09:52",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031280"
+    },
+    {
+        "title": "애플워치 수면 점수, 그냥 보면 손해…'이 설정' 필수",
+        "date": "2026-04-21 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658686"
+    },
+    {
+        "title": "MSI, 4세대 QD-OLED 모니터 2종 출시…압도적 스펙으로 시장 공략",
+        "date": "2026-04-21 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658710"
+    },
+    {
+        "title": "아이폰 폴더블 유출됐나…화웨이 신제품, 디자인 '거의 동일'",
+        "date": "2026-04-21 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658722"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO에서 15년만에 물러나… 후임 존 터너스",
+        "date": "2026-04-21 09:48",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=717870"
+    },
+    {
+        "title": "애플, 하드웨어 총괄에 조니 스루지 임명…팀 쿡 후계 체제 인사 이어져",
+        "date": "2026-04-21 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658735"
+    },
+    {
+        "title": "맥북 네오 성공 주역 존 터너스, 애플 차기 CEO 낙점",
+        "date": "2026-04-21 09:48",
+        "link": "https://kbench.com/?q=node/278061"
+    },
+    {
+        "title": "삼성전자 2026년형 OLED TV, 미·영 주요 IT 매체 호평",
+        "date": "2026-04-21 09:46",
+        "link": "https://n.news.naver.com/mnews/article/138/0002225251?sid=105"
+    },
+    {
+        "title": "APS이노베이션, 레이저 기술력 앞세워 OLED·Micro-LED 공략 가속",
+        "date": "2026-04-21 09:44",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447199"
+    },
+    {
+        "title": "삼성전자 OLED TV 신제품에 외신 호평…독보적 기준 제시",
+        "date": "2026-04-21 09:43",
+        "link": "https://n.news.naver.com/mnews/article/629/0000493152?sid=101"
+    },
+    {
+        "title": "애플 실리콘 신화의 주역…조니 스루지 초대 최고하드웨어책임자 선임",
+        "date": "2026-04-21 09:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002225244?sid=105"
+    },
+    {
+        "title": "애플, CEO 교체…팀쿡 기술 주도한 '존 터너스' 내정",
+        "date": "2026-04-21 09:38",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013265"
+    },
+    {
+        "title": "운영'의 쿡 가고 '엔지니어' 터너스 온다…애플, 15년만의 '기술 회귀' ...",
+        "date": "2026-04-21 09:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002225238?sid=105"
+    },
+    {
+        "title": "잡스 없는 애플? 과연 우려 씻었다...시총 10배 키운 팀 쿡, CEO서 물러...",
+        "date": "2026-04-21 09:34",
+        "link": "https://n.news.naver.com/mnews/article/008/0005346957?sid=101"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO 물러나며 13년 리더십의 막을 내리다",
+        "date": "2026-04-21 09:34",
+        "link": "https://www.m-economynews.com/news/article.html?no=66640"
+    },
+    {
+        "title": "삼성 스마트 안경 ‘갤럭시 글래스’ 원 UI 8.5에서 포착",
+        "date": "2026-04-21 09:28",
+        "link": "https://kbench.com/?q=node/278060"
+    },
+    {
+        "title": "운영을 넘어 혁신으로…터너스, 'AI 강화' 과제 안고 애플호 이끈다",
+        "date": "2026-04-21 09:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002419429?sid=105"
+    },
+    {
+        "title": "팀쿡, 애플 CEO에서 15년만에 물러나…후임은 존 터너스 수석부사장",
+        "date": "2026-04-21 09:24",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=203904"
+    },
+    {
+        "title": "팀 쿡 15년 만에 물러난다…애플 CEO 교체, 존 터너스 승계",
+        "date": "2026-04-21 09:20",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2110704"
+    },
+    {
+        "title": "삼성전자서비스, 리퍼·단품 수리 확대…친환경 AS로 비용·폐기물 동시...",
+        "date": "2026-04-21 09:16",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302073"
+    },
+    {
+        "title": "삼성전자 2026년형 OLED TV, 주요 IT 매체서 호평",
+        "date": "2026-04-21 09:14",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=131437"
+    },
+    {
+        "title": "애플 시총 10배 성장 이끈 팀 쿡 9월 퇴진…후임은 존 터너스",
+        "date": "2026-04-21 09:12",
+        "link": "https://n.news.naver.com/mnews/article/586/0000127397?sid=101"
+    },
+    {
+        "title": "삼성전자서비스, 리퍼 부품·단품 수리로 친환경 서비스 앞장선다",
+        "date": "2026-04-21 09:11",
+        "link": "https://n.news.naver.com/mnews/article/018/0006262361?sid=101"
+    },
+    {
+        "title": "애플 팀 쿡, 15년 만에 CEO서 물러난다…9월 존 터너스 취임 [종합]",
+        "date": "2026-04-21 09:10",
+        "link": "https://www.etoday.co.kr/news/view/2577546"
+    },
+    {
+        "title": "[미르의 글로벌 레이더]삼성, 오는 7월 ‘갤럭시 AI안경’ 출격…스마트...",
+        "date": "2026-04-21 09:10",
+        "link": "https://www.mediapen.com/news/view/1094606"
+    },
+    {
+        "title": "[기원상컬럼] 팀 쿡 15년의 성과와 한계 그리고 한국 기업이 읽어야 할...",
+        "date": "2026-04-21 09:10",
+        "link": "https://www.ajunews.com/view/20260421090443453"
+    },
+    {
+        "title": "팀 쿡 떠난다…애플 차기 CEO에 존 터너스 낙점",
+        "date": "2026-04-21 09:02",
+        "link": "https://n.news.naver.com/mnews/article/629/0000493125?sid=105"
+    },
+    {
+        "title": "옴디아 올해 AMOLED 스마트폰 디스플레이 출하량 급감할 것",
+        "date": "2026-04-21 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=400651"
+    },
+    {
+        "title": "애플, 팀 쿡 시대 마무리…후임 CEO에 존 터너스",
+        "date": "2026-04-21 08:58",
+        "link": "https://www.ajunews.com/view/20260421085550433"
+    },
+    {
+        "title": "‘잡스 없는 애플’ 맡아 혁신 이끈 팀쿡…이사회 의장으로",
+        "date": "2026-04-21 08:57",
+        "link": "https://n.news.naver.com/mnews/article/029/0003022779?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 독보적 기준 제시…美·英 매체 호평",
+        "date": "2026-04-21 08:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006262324?sid=101"
+    },
+    {
+        "title": "삼성전자, 26년형 OLED TV, 영미 주요 매체서 독보적 기준 제시",
+        "date": "2026-04-21 08:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008901662?sid=101"
+    },
+    {
+        "title": "디자인·화질 독보적…삼성 OLED TV, 美·英서 호평일색",
+        "date": "2026-04-21 08:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005752333?sid=101"
+    },
+    {
+        "title": "15년 이끈 애플 떠난다...팀 쿡, 오는 9월 사임·후임엔 존 터너스",
+        "date": "2026-04-21 08:51",
+        "link": "https://n.news.naver.com/mnews/article/660/0000107810?sid=104"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO서 물러나⋯후임은 존 터너스",
+        "date": "2026-04-21 08:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0001023534?sid=101"
+    },
+    {
+        "title": "4월 20일 주식시장 주요공시",
+        "date": "2026-04-21 08:51",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123001"
+    },
+    {
+        "title": "삼성 OLED TV, 미·영서 잇단 호평…디자인·화질 독보적",
+        "date": "2026-04-21 08:48",
+        "link": "https://n.news.naver.com/mnews/article/001/0016032646?sid=101"
+    },
+    {
+        "title": "애플, '포스트 쿡' 체제 전환…차기 CEO에 존 터너스",
+        "date": "2026-04-21 08:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=513337"
+    },
+    {
+        "title": "애플 새 수장은 '엔지니어형 CEO' 터너스 … 아이폰 개발한 '정통 애플맨...",
+        "date": "2026-04-21 08:46",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/04/21/2026042100041.html"
+    },
+    {
+        "title": "美 포브스, 삼성 OLED TV, 독보적인 기준 제시",
+        "date": "2026-04-21 08:43",
+        "link": "https://thetracker.co.kr/View.aspx?No=4049400"
+    },
+    {
+        "title": "삼성전자, '밀라노 디자인위크 2026' 참가",
+        "date": "2026-04-21 08:41",
+        "link": "https://n.news.naver.com/mnews/article/421/0008901616?sid=101"
+    },
+    {
+        "title": "삼성전자 2026년형 OLED TV, 해외 IT 매체서 호평",
+        "date": "2026-04-21 08:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0016032633?sid=101"
+    },
+    {
+        "title": "'4조 달러 제국' 팀 쿡 퇴진...애플, '엔지니어 영혼' 존 터너스 시대 개...",
+        "date": "2026-04-21 08:40",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=217736"
+    },
+    {
+        "title": "애플 14년 이끈 팀 쿡 물러난다…다음 주인공은 누구",
+        "date": "2026-04-21 08:35",
+        "link": "https://n.news.naver.com/mnews/article/053/0000057662?sid=101"
+    },
+    {
+        "title": "‘주름 제로’ 폴더블 기술 개발…디스플레이 판도 바꾼다!",
+        "date": "2026-04-21 08:32",
+        "link": "https://n.news.naver.com/mnews/article/056/0012166324?sid=105"
+    },
+    {
+        "title": "애플 ‘팀 쿡 시대’ 막 내린다…바통은 존 터너스로",
+        "date": "2026-04-21 08:30",
+        "link": "https://magazine.hankyung.com/money/article/202604214655c"
+    },
+    {
+        "title": "더 넓게, 더 크게…삼성, '와이드 폴더블'로 애플·화웨이 추격 따돌릴...",
+        "date": "2026-04-21 08:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446984"
+    },
+    {
+        "title": "美 포브스, 삼성 OLED TV, 다른 TV들이 넘어야 할 독보적인 기준 제시",
+        "date": "2026-04-21 08:28",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75847"
+    },
+    {
+        "title": "애플 새 CEO 터너스…기계공학도 출신 ‘아이폰 설계자’",
+        "date": "2026-04-21 08:20",
+        "link": "https://n.news.naver.com/mnews/article/029/0003022773?sid=104"
+    },
+    {
+        "title": "삼성전자 OLED TV, 해외 매체서 호평...美 포브스, 독보적인 기준 제시...",
+        "date": "2026-04-21 08:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=436307"
+    },
+    {
+        "title": "삼성전자 OLED TV 'S95H', 글로벌 호평 속 차세대 기준 제시",
+        "date": "2026-04-21 08:20",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302046"
+    },
+    {
+        "title": "팀 쿡, 15년만에 애플 CEO 내려놓는다…후임은 존 터너스",
+        "date": "2026-04-21 08:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002419411?sid=105"
+    },
+    {
+        "title": "삼성전자, 밀라노 디자인위크 2026 참가",
+        "date": "2026-04-21 08:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013899304?sid=101"
+    },
+    {
+        "title": "애플 차기 최고경영자에 존 터너스…쿡은 이사회 집행의장으로(상보)",
+        "date": "2026-04-21 08:08",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410622"
+    },
+    {
+        "title": "[리포트]수만 번 접어도 멀쩡⋯폴더블폰 '주름' 잡았다",
+        "date": "2026-04-21 08:00",
+        "link": "https://tjmbc.co.kr/NewsArticle/836312"
+    },
+    {
+        "title": "팀쿡, 애플 CEO에서 15년만에 물러나",
+        "date": "2026-04-21 07:59",
+        "link": "https://n.news.naver.com/mnews/article/448/0000605461?sid=101"
+    },
+    {
+        "title": "팀쿡 애플 CEO에서 15년만에 물러나...후임엔 ‘하드웨어 수장’ 존 터너...",
+        "date": "2026-04-21 07:55",
+        "link": "https://n.news.naver.com/mnews/article/023/0003972072?sid=105"
+    },
+    {
+        "title": "[비즈 나우] 애플, 15년 만에 세대 교체…의미는?",
+        "date": "2026-04-21 07:53",
+        "link": "https://n.news.naver.com/mnews/article/374/0000505605?sid=104"
+    },
+    {
+        "title": "팀 쿡, 15년 만에 애플 CEO 물러난다…4조달러 성장 뒤 터너스 체제 출범",
+        "date": "2026-04-21 07:50",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260421010006377"
+    },
+    {
+        "title": "잡스 없는 애플 우려 씻어낸 팀 쿡, 9월 CEO 퇴임…'아이폰17의 설계자...",
+        "date": "2026-04-21 07:48",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=58229"
+    },
+    {
+        "title": "팀쿡, 15년 만에 애플 CEO 퇴진…후임은 존 터너스",
+        "date": "2026-04-21 07:46",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706022"
+    },
+    {
+        "title": "애플 CEO 교체 공식화…쿡→터너스 체제로 전환",
+        "date": "2026-04-21 07:46",
+        "link": "https://www.g-enews.com/view.php?ud=2026042107424921499a1f309431_1"
+    },
+    {
+        "title": "KAIST 연구진, '주름 제로' 폴더블 기술 개발",
+        "date": "2026-04-21 07:46",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2146805"
+    },
+    {
+        "title": "팀 쿡 CEO 자리 내려온다…애플이 직접 밝힌 후임 보니",
+        "date": "2026-04-21 07:44",
+        "link": "https://n.news.naver.com/mnews/article/055/0001350098?sid=104"
+    },
+    {
+        "title": "[김대호 진단] 애플 CEO 교체 하드웨어 대전환",
+        "date": "2026-04-21 07:38",
+        "link": "https://www.g-enews.com/view.php?ud=202604210726092843906806b77b_1"
+    },
+    {
+        "title": "애플 팀 쿡, 15년 만에 물러난다…새 CEO에 존 터너스",
+        "date": "2026-04-21 07:38",
+        "link": "https://n.news.naver.com/mnews/article/028/0002801650?sid=101"
+    },
+    {
+        "title": "시총 10배 올린 팀 쿡, 애플 CEO서 물러난다⋯후임은 누구?",
+        "date": "2026-04-21 07:34",
+        "link": "https://n.news.naver.com/mnews/article/057/0001945577?sid=104"
+    },
+    {
+        "title": "팀쿡, 애플 CEO에서 15년만에 물러나…후임은 존 터너스",
+        "date": "2026-04-21 07:31",
+        "link": "https://n.news.naver.com/mnews/article/023/0003972070?sid=104"
+    },
+    {
+        "title": "팀 쿡, 15년 만에 물러난다…애플 CEO에 존 터너스",
+        "date": "2026-04-21 07:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=738023"
+    },
+    {
+        "title": "TSMC 2·3나노 가격 인상 '독주'… 삼성 파운드리에 틈새 열릴까",
+        "date": "2026-04-21 07:20",
+        "link": "https://www.g-enews.com/view.php?ud=202604210707248828fbbec65dfb_1"
+    },
+    {
+        "title": "팀 쿡 애플 CEO 9월 사임...하드웨어 담당 터너스가 후임",
+        "date": "2026-04-21 07:14",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=209510"
+    },
+    {
+        "title": "애플, 팀 쿡 CEO에서 집행회장으로…존 터너스 하드웨어 엔지니어링 수...",
+        "date": "2026-04-21 07:13",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031256"
+    },
+    {
+        "title": "애플 결국 세대교체…15년 이끈 팀 쿡 물러나고 뜬 ‘이 인물’ 누구?",
+        "date": "2026-04-21 07:12",
+        "link": "https://www.wikitree.co.kr/articles/1132556"
+    },
+    {
+        "title": "팀쿡, 애플 CEO에서 15년만에 물러나…후임은 존 터너스(종합)",
+        "date": "2026-04-21 07:09",
+        "link": "https://n.news.naver.com/mnews/article/001/0016032552?sid=104"
+    },
+    {
+        "title": "LGD '정철동 매직' 논란…성과급 속 희망퇴직에 주주 외면까지",
+        "date": "2026-04-21 07:06",
+        "link": "https://www.socialvalue.kr/news/view/1065599399104069"
+    },
+    {
+        "title": "팀 쿡 애플 CEO, 9월 사임… 후임 '하드웨어 총괄' 존 터너스",
+        "date": "2026-04-21 07:04",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3395133"
+    },
+    {
+        "title": "아이패드 만든 하드웨어 장인, 애플 이끈다…AI 전쟁통에 ‘역발상 인사...",
+        "date": "2026-04-21 06:49",
+        "link": "https://n.news.naver.com/mnews/article/009/0005668853?sid=105"
+    },
+    {
+        "title": "팀쿡, 15년 만에 애플 CEO서 물러나… 후임은 존 터너스",
+        "date": "2026-04-21 06:46",
+        "link": "https://n.news.naver.com/mnews/article/366/0001158360?sid=104"
+    },
+    {
+        "title": "“팀 쿡 시대 저문다”…애플, 존 터너스 체제로 세대교체",
+        "date": "2026-04-21 06:40",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604210622101260957"
+    },
+    {
+        "title": "애플, 9월에 15년 만 CEO 교체…팀 쿡 후임은 존 터너스",
+        "date": "2026-04-21 06:38",
+        "link": "https://n.news.naver.com/mnews/article/003/0013899252?sid=104"
+    },
+    {
+        "title": "애플 15년 만에 세대교체…새 CEO에 존 터너스",
+        "date": "2026-04-21 06:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006262204?sid=101"
+    },
+    {
+        "title": "애플의 선택 '기술 정통파'…존 터너스, 팀 쿡 잇는 차기 CEO 낙점",
+        "date": "2026-04-21 06:36",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706011"
+    },
+    {
+        "title": "애플 세대교체…팀 쿡 9월 물러나고 후임에 50세 존 터너스",
+        "date": "2026-04-21 06:34",
+        "link": "https://n.news.naver.com/mnews/article/020/0003714034?sid=104"
+    },
+    {
+        "title": "내 인생 최고의 영광…'4조 달러 제국' 이끈 팀쿡, 15년만에 애플 CEO직...",
+        "date": "2026-04-21 06:32",
+        "link": "https://n.news.naver.com/mnews/article/277/0005752238?sid=101"
+    },
+    {
+        "title": "[종합] 애플 팀 쿡 시대 막 내린다…후임 CEO에 하드웨어 전문가 존 터너...",
+        "date": "2026-04-21 06:10",
+        "link": "https://www.newspim.com/news/view/20260421000017"
+    },
+    {
+        "title": "애플, 차기 CEO에 하드웨어 총괄 존 터너스 지명",
+        "date": "2026-04-21 06:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658656"
+    },
+    {
+        "title": "애플 팀 쿡, CEO서 물러나기로…후임자는 존 터너스",
+        "date": "2026-04-21 06:03",
+        "link": "https://n.news.naver.com/mnews/article/437/0000488249?sid=104"
+    },
+    {
+        "title": "“더 얇고 더 강하게”… 갤럭시Z 트라이폴드2, 신형 힌지 탑재하나",
+        "date": "2026-04-21 06:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003419755?sid=104"
+    },
+    {
         "title": "펼쳐도 한 손 조작”…폴더블 아이폰, '물리 버튼'으로 폼팩터 한계 넘...",
         "date": "2026-04-21 06:00",
         "link": "https://n.news.naver.com/mnews/article/003/0013899214?sid=105"
@@ -10,12 +910,22 @@
         "link": "https://n.news.naver.com/mnews/article/014/0005510685?sid=105"
     },
     {
+        "title": "[속보] 팀쿡, 애플 CEO서 15년만에 물러나…후임은 존 터너스",
+        "date": "2026-04-21 06:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003022764?sid=104"
+    },
+    {
         "title": "애플, 새 CEO에 존 터너스…팀 쿡은 회장으로",
         "date": "2026-04-21 05:58",
         "link": "https://n.news.naver.com/mnews/article/014/0005510682?sid=101"
     },
     {
-        "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
+        "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…새 CEO에 존 터너스",
+        "date": "2026-04-21 05:56",
+        "link": "https://n.news.naver.com/mnews/article/025/0003517676?sid=101"
+    },
+    {
+        "title": "애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
         "date": "2026-04-21 05:56",
         "link": "https://n.news.naver.com/mnews/article/015/0005277407?sid=105"
     },
@@ -23,6 +933,11 @@
         "title": "폭발적 성장기 맞은 AR 스마트 안경, 의료·디지털 헬스케어 혁신 이끈...",
         "date": "2026-04-21 05:50",
         "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3003338"
+    },
+    {
+        "title": "[속보] 애플 새 CEO에 존 터너스",
+        "date": "2026-04-21 05:41",
+        "link": "https://www.newspim.com/news/view/20260421000016"
     },
     {
         "title": "인간 신기록 깬 로봇…스마트폰 업체가 어떻게 만들었나[영상]",
