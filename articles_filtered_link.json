@@ -1,5 +1,465 @@
 [
     {
+        "title": "애플, 최상위 ‘울트라’ 브랜드 모든 라인업으로 확장",
+        "date": "2026-04-28 15:54",
+        "link": "https://kbench.com/?q=node/278303"
+    },
+    {
+        "title": "韓 OLED 점유율 68.7%⋯ ‘LTPO·탠덤’ 기술로 中 따돌렸다",
+        "date": "2026-04-28 15:42",
+        "link": "https://www.viva100.com/article/20260428500806"
+    },
+    {
+        "title": "한국, 2025년 OLED 시장 점유율 68.7%…전년比 1.5%↑",
+        "date": "2026-04-28 15:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=703733"
+    },
+    {
+        "title": "플래그십 홀로 ‘대세’…고급화에 K디스플레이 ‘쾌청’",
+        "date": "2026-04-28 15:12",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1299342&inflow=N"
+    },
+    {
+        "title": "오픈AI, 스마트폰 만든다…애플·구글 독점 깰 승부수",
+        "date": "2026-04-28 15:08",
+        "link": "https://byline.network/?p=9004111222600791"
+    },
+    {
+        "title": "토뱅도 애플페이 보류…카드사-삼성페이 '심리전' 속행",
+        "date": "2026-04-28 15:02",
+        "link": "https://www.asiatime.co.kr/article/20260428500239"
+    },
+    {
+        "title": "Korea’s OLED market share rises for first time in years",
+        "date": "2026-04-28 14:35",
+        "link": "https://n.news.naver.com/mnews/article/044/0000283292?sid=104"
+    },
+    {
+        "title": "트렌드포스, “칩플레이션에도 애플·삼성 견조…수직계열화·규모의 경...",
+        "date": "2026-04-28 14:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003422484?sid=105"
+    },
+    {
+        "title": "삼성에 AI 밀렸는데… '하드웨어 장인' 발탁한 애플의 전략 [視리즈]",
+        "date": "2026-04-28 14:26",
+        "link": "https://n.news.naver.com/mnews/article/665/0000007279?sid=105"
+    },
+    {
+        "title": "LG전자 '2026년형 TV 신제품', ESG 관련 3개 인증 획득",
+        "date": "2026-04-28 14:16",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577067780885"
+    },
+    {
+        "title": "덕산테코피아, '소재 다변화'로 글로벌 경쟁력 강화…성장 엔진 가동",
+        "date": "2026-04-28 14:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=449222"
+    },
+    {
+        "title": "현대카드, 체크카드 3종 출시…애플페이 결제 땐 10% 캐시백",
+        "date": "2026-04-28 14:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226194?sid=101"
+    },
+    {
+        "title": "현대카드 체크 3종 선봬…애플페이 시 10% 캐시백",
+        "date": "2026-04-28 13:56",
+        "link": "https://www.g-enews.com/view.php?ud=202604281127585761a6e8311f64_1"
+    },
+    {
+        "title": "타사 도입 지지부진한데…현대카드, 애플페이 10% 캐시백 카드 내놨다",
+        "date": "2026-04-28 13:48",
+        "link": "https://n.news.naver.com/mnews/article/009/0005672493?sid=101"
+    },
+    {
+        "title": "삼성 첫 스마트 안경 디자인 유출… “촬영·오디오 기능에 초점”",
+        "date": "2026-04-28 13:28",
+        "link": "https://n.news.naver.com/mnews/article/030/0003422424?sid=104"
+    },
+    {
+        "title": "“옆으로 넓은 폴드는 처음이지?”…‘가로형’ 폴드8 와이드 등장할까",
+        "date": "2026-04-28 13:27",
+        "link": "https://n.news.naver.com/mnews/article/009/0005672479?sid=101"
+    },
+    {
+        "title": "현대카드, '체크카드 3종' 출시…애플페이 혜택 전면 강화",
+        "date": "2026-04-28 13:22",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137518"
+    },
+    {
+        "title": "'불 붙은' LGD 6세대 증착기 韓-日 수주전…선익 첫 수주 '기대감'",
+        "date": "2026-04-28 13:06",
+        "link": "https://dealsite.co.kr/articles/160910"
+    },
+    {
+        "title": "한국 OLED 시장점유율 68.7%로 확대…중국 추격 속 점유율 첫 반등",
+        "date": "2026-04-28 12:56",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=738909"
+    },
+    {
+        "title": "플라스틱 1만5천톤 절감..LG 올레드, 화질 넘어 '친환경 TV'로 승부",
+        "date": "2026-04-28 12:40",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2111078"
+    },
+    {
+        "title": "한국 OLED, 중국 추격 뚫고 점유율 확대…애플 공급 비중도 상승",
+        "date": "2026-04-28 12:34",
+        "link": "http://www.datanews.co.kr/news/article.html?no=144530"
+    },
+    {
+        "title": "아이폰 울트라·맥북 울트라 출격 준비…프리미엄 시장에 승부수 건다",
+        "date": "2026-04-28 12:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543625"
+    },
+    {
+        "title": "中 공세 넘어섰다…K-디스플레이, OLED 점유율 68.7% '첫 반등'",
+        "date": "2026-04-28 11:44",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1368313"
+    },
+    {
+        "title": "현대카드, 포인트·캐시백·애플페이 리워드 등 체크카드 3종 출시",
+        "date": "2026-04-28 11:44",
+        "link": "https://n.news.naver.com/mnews/article/629/0000495275?sid=101"
+    },
+    {
+        "title": "한국 OLED 시장점유율 68.7%…10년 만에 반등",
+        "date": "2026-04-28 11:42",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303156"
+    },
+    {
+        "title": "“가로로 더 넓게” 삼성 폴드와이드 7월 출시",
+        "date": "2026-04-28 11:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002636487?sid=105"
+    },
+    {
+        "title": "애플, iOS 26.5 베타 4 배포…출시 막바지 점검 단계",
+        "date": "2026-04-28 11:40",
+        "link": "https://news.appstory.co.kr/daily19029"
+    },
+    {
+        "title": "아이폰서 자석 사라지나…애플, 맥세이프 '기본 사양 제외' 카드 만지작",
+        "date": "2026-04-28 11:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660847"
+    },
+    {
+        "title": "기본형은 이름만 플래그십? 애플·삼성, 프로·울트라 중심 재편",
+        "date": "2026-04-28 11:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660844"
+    },
+    {
+        "title": "현대카드, 애플페이 10% 캐시백 등 '신규 체크카드' 3종 출시",
+        "date": "2026-04-28 11:32",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=111794"
+    },
+    {
+        "title": "RTX GPU와 AI 탑재 '슬림 게이밍' 노트북, 5월 선물로 주목",
+        "date": "2026-04-28 11:28",
+        "link": "https://n.news.naver.com/mnews/article/356/0000082011?sid=004"
+    },
+    {
+        "title": "韓, 2025년 OLED 시장점유율 68.7%…中진입 이후 첫 상승",
+        "date": "2026-04-28 11:18",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412073"
+    },
+    {
+        "title": "삼성 차세대 폴더블폰 3종, 더미 유닛 유출... 가로 비율 늘린 '와이드'...",
+        "date": "2026-04-28 11:14",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1810741"
+    },
+    {
+        "title": "[뉴스브리핑] AI 시대에 하드웨어 CEO… 애플은 왜 존 터너스였나",
+        "date": "2026-04-28 11:10",
+        "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114017"
+    },
+    {
+        "title": "폴더블폰 더 넓어진다…하반기 '와이드 폴더블' 격전 예고",
+        "date": "2026-04-28 11:10",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=731768"
+    },
+    {
+        "title": "삼성은 더 얇게, 애플은 첫 폴더블…하반기 스마트폰 대전 열린다",
+        "date": "2026-04-28 11:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706872"
+    },
+    {
+        "title": "中 공세 시달리던 韓 OLED, 10년 만에 깜짝 반등…“프리미엄 기술 통했...",
+        "date": "2026-04-28 11:03",
+        "link": "https://n.news.naver.com/mnews/article/016/0002636397?sid=101"
+    },
+    {
+        "title": "애플 앱스토어 결제 혁신…'1년 약정 월간 구독' 도입",
+        "date": "2026-04-28 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660834"
+    },
+    {
+        "title": "韓 OLED 점유율 68.7% … 중국 공세 뚫고 '초격차' 재확인",
+        "date": "2026-04-28 10:52",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/28/2026042800103.html"
+    },
+    {
+        "title": "지난해 韓 올레드 시장 점유율 69%…中 진입 후 첫 반등",
+        "date": "2026-04-28 10:52",
+        "link": "https://n.news.naver.com/mnews/article/374/0000507089?sid=101"
+    },
+    {
+        "title": "'OLED 종주국' 한국, 10년 만에 시장 점유율 반등 성공",
+        "date": "2026-04-28 10:51",
+        "link": "https://n.news.naver.com/mnews/article/277/0005755757?sid=101"
+    },
+    {
+        "title": "“중국산 써보니 역시나” OLED 시장 9년 만의 ‘대반전’",
+        "date": "2026-04-28 10:49",
+        "link": "https://n.news.naver.com/mnews/article/050/0000105525?sid=101"
+    },
+    {
+        "title": "“폴드 다음은 와이드” 삼성 7월 전세계 출격",
+        "date": "2026-04-28 10:46",
+        "link": "https://n.news.naver.com/mnews/article/016/0002636371?sid=105"
+    },
+    {
+        "title": "디스플레이協 “韓 OLED 점유율 11년만 확대 전환”",
+        "date": "2026-04-28 10:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003422318?sid=105"
+    },
+    {
+        "title": "애플, 차세대 ‘맥북 울트라’ 하반기 공개…M6 칩·터치스크린 첫 탑재",
+        "date": "2026-04-28 10:46",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226142?sid=105"
+    },
+    {
+        "title": "LG전자, TV 신제품 ESG 인증 연달아 획득… “탄소 저감 우수”",
+        "date": "2026-04-28 10:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001160253?sid=105"
+    },
+    {
+        "title": "현대카드, '애플페이 특화형' 체크카드 등 신상품 3종 출시",
+        "date": "2026-04-28 10:44",
+        "link": "https://www.ajunews.com/view/20260428104103107"
+    },
+    {
+        "title": "中 공세 뚫고 반등 성공... K디스플레이, OLED 점유율 68.7%로 확대",
+        "date": "2026-04-28 10:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226139?sid=105"
+    },
+    {
+        "title": "애플 '울트라 라인' 승부수 통할까… 폴더블 아이폰·맥북에 적용",
+        "date": "2026-04-28 10:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003422310?sid=104"
+    },
+    {
+        "title": "맥북 프로 대신 '맥북 울트라' 등판…애플, 차세대 맥 브랜드 개편 시동",
+        "date": "2026-04-28 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660820"
+    },
+    {
+        "title": "韓 OLED 점유율 68.7%… 중국 진출 후 첫 반등",
+        "date": "2026-04-28 10:34",
+        "link": "https://n.news.naver.com/mnews/article/366/0001160245?sid=105"
+    },
+    {
+        "title": "한국 OLED 점유율 68.7%…중국 공세 속 '격차' 유지",
+        "date": "2026-04-28 10:32",
+        "link": "https://n.news.naver.com/mnews/article/031/0001025156?sid=105"
+    },
+    {
+        "title": "韓 OLED 점유율 70% 육박…中 상승세 꺾고 장악력 늘려",
+        "date": "2026-04-28 10:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006268151?sid=101"
+    },
+    {
+        "title": "삼성전자, 32인치 무안경 3D 디스플레이 출시",
+        "date": "2026-04-28 10:32",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=55735"
+    },
+    {
+        "title": "LG전자, 올레드 TV로 ESG 경쟁력 입증…탄소·자원효율 인증 잇달아",
+        "date": "2026-04-28 10:32",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129383"
+    },
+    {
+        "title": "韓 작년 올레드 시장 점유율 69%…종주국 초격차 확대",
+        "date": "2026-04-28 10:29",
+        "link": "https://n.news.naver.com/mnews/article/001/0016046794?sid=101"
+    },
+    {
+        "title": "크로스오버존, 27인치 IPS WQHD 게이밍 화이트 모니터 크로스오버 27QW128...",
+        "date": "2026-04-28 10:24",
+        "link": "https://kbench.com/?q=node/278281"
+    },
+    {
+        "title": "현대카드, 체크카드 3종 공개…M포인트 적립·캐시백·애플페이 특화형...",
+        "date": "2026-04-28 10:22",
+        "link": "https://n.news.naver.com/mnews/article/030/0003422295?sid=101"
+    },
+    {
+        "title": "韓 OLED 시장점유율, 중국 공세 뚫고 10년 만에 반등…68.7% 달성",
+        "date": "2026-04-28 10:18",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248846"
+    },
+    {
+        "title": "韓, OLED 점유율 68.7%로 10년 만에 반등…中 추격 제동",
+        "date": "2026-04-28 10:16",
+        "link": "https://n.news.naver.com/mnews/article/029/0003024069?sid=101"
+    },
+    {
+        "title": "지난해 韓 OLED 점유율 1.5%p ↑···中 견제 뚫고 상승세 진입",
+        "date": "2026-04-28 10:13",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=627569"
+    },
+    {
+        "title": "[데이터 뉴스룸] 정보통신 업체 50곳 영업益 6%대 상승…KT 늘고 vs SK텔레...",
+        "date": "2026-04-28 10:11",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=339906"
+    },
+    {
+        "title": "아이폰18, 베젤 벗는다…삼성D, '4면 커브드 OLED' 공급 전망",
+        "date": "2026-04-28 10:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161114"
+    },
+    {
+        "title": "LG전자, TV 신제품 ESG 인증 3개 연속 획득…지속가능성 인정",
+        "date": "2026-04-28 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006268110?sid=101"
+    },
+    {
+        "title": "LG전자, TV 탄소·자원효율 '3중 인증'…ESG 경쟁력 강화",
+        "date": "2026-04-28 10:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303077"
+    },
+    {
+        "title": "LG전자, 2026년형 TV ESG 관련 3개 인증 획득",
+        "date": "2026-04-28 10:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=245501"
+    },
+    {
+        "title": "LG전자, 2026년형 TV ESG 3관왕…탄소·플라스틱 대폭 감축",
+        "date": "2026-04-28 10:00",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=75673"
+    },
+    {
+        "title": "한국 OLED 점유율 반등…중국 공세 속 '초격차' 다시 증명",
+        "date": "2026-04-28 09:48",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=119669"
+    },
+    {
+        "title": "韓 OLED, 10년 만에 시장점유율 반등…고부가가치 분야 주도 전망",
+        "date": "2026-04-28 09:48",
+        "link": "https://www.etoday.co.kr/news/view/2579797"
+    },
+    {
+        "title": "삼성전자 OLED TV·비스포크 AI 가전 '레드닷 어워드' 최고상 수상",
+        "date": "2026-04-28 09:48",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201402"
+    },
+    {
+        "title": "현대카드, 애플페이 특화형 등 체크 신상품 3종 출시",
+        "date": "2026-04-28 09:44",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303104"
+    },
+    {
+        "title": "삼성 스마트 안경 베일 벗었다…구글 제미나이 품고 메타 레이밴에 도전...",
+        "date": "2026-04-28 09:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226114?sid=105"
+    },
+    {
+        "title": "[DP's 모닝픽] 오픈AI-MS 'AI 동맹' 해체 수순… 소송전 본격화",
+        "date": "2026-04-28 09:16",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59075"
+    },
+    {
+        "title": "현대카드, 애플페이 10% 캐시백 담은 체크카드 3종 출시",
+        "date": "2026-04-28 09:16",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=75684"
+    },
+    {
+        "title": "[AI의 종목 이야기] '접힘 흔적 제로' 폴더블 디스플레이 기술 경쟁 본격...",
+        "date": "2026-04-28 09:14",
+        "link": "https://www.newspim.com/news/view/20260428000170"
+    },
+    {
+        "title": "디자인어워드 휩쓴 삼성전자…OLED TV·비스포크 세탁 '최고상'",
+        "date": "2026-04-28 09:14",
+        "link": "https://n.news.naver.com/mnews/article/422/0000859460?sid=101"
+    },
+    {
+        "title": "삼성전자, 레드닷 디자인 어워드서 16개 수상…OLED TV로 최고상",
+        "date": "2026-04-28 09:13",
+        "link": "https://n.news.naver.com/mnews/article/277/0005755633?sid=101"
+    },
+    {
+        "title": "[Tech &amp; Now] 쏘닉스, 과기정통부 '고성능 양자 파운드리 생태계 구축 사...",
+        "date": "2026-04-28 09:12",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706843"
+    },
+    {
+        "title": "아이폰17·아이폰 에어 일부서 방전 후 전원 먹통 사례... 맥세이프 충전...",
+        "date": "2026-04-28 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660755"
+    },
+    {
+        "title": "세아메카닉스, 1분기 ‘어닝 서프라이즈’…6000억 수주잔고 본격 출하...",
+        "date": "2026-04-28 09:10",
+        "link": "https://www.etoday.co.kr/news/view/2579676"
+    },
+    {
+        "title": "[미르의 글로벌 레이더]퀄컴-오픈AI ‘AI칩 동맹’ 결성… 삼성·애플 향...",
+        "date": "2026-04-28 09:02",
+        "link": "https://www.mediapen.com/news/view/1095945"
+    },
+    {
+        "title": "지분 헐값에 판 것? 후회 않는다 애플 제3 창업자의 고집",
+        "date": "2026-04-28 09:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52318"
+    },
+    {
+        "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
+        "date": "2026-04-28 08:56",
+        "link": "https://www.itworld.co.kr/article/4163930/애플-울트라-로드맵-확인아이폰·맥북까지-확.html"
+    },
+    {
+        "title": "애플 폴더블 아이패드, 결국 못 나온다?…로드맵서 사라졌다",
+        "date": "2026-04-28 08:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660747"
+    },
+    {
+        "title": "삼성전자, 레드닷 2026 '16관왕'…OLED·비스포크로 최고상 2개 확보",
+        "date": "2026-04-28 08:54",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303078"
+    },
+    {
+        "title": "LG전자 OLED TV, 6년 연속 카본트러스트 탄소발자국 인증",
+        "date": "2026-04-28 08:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002420417?sid=105"
+    },
+    {
+        "title": "비에이치, 애플 폴더블폰에 북미 ESS·휴머노이드 진출까지…동종 업체...",
+        "date": "2026-04-28 08:32",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=731719"
+    },
+    {
+        "title": "50g 초경량 스마트 안경…삼성 '갤럭시 글래스' 윤곽 드러나",
+        "date": "2026-04-28 08:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543616"
+    },
+    {
+        "title": "인하대, 용액공정 ‘청색 OLED’ 개발… “세계 최고 효율”",
+        "date": "2026-04-28 08:20",
+        "link": "https://ic.newdaily.co.kr/site/data/html/2026/04/28/2026042800008.html"
+    },
+    {
+        "title": "애플 ‘울트라’ 브랜드 확대 전망…폴더블 아이폰·맥북에 적용",
+        "date": "2026-04-28 08:14",
+        "link": "https://n.news.naver.com/mnews/article/092/0002420415?sid=105"
+    },
+    {
+        "title": "터너스 애플 차기 CEO, 중국 사업 반등 속 ‘시험대’",
+        "date": "2026-04-28 06:02",
+        "link": "https://www.g-enews.com/view.php?ud=2026042720141963959a1f309431_1"
+    },
+    {
+        "title": "칩플레이션 속 기회 노리는 애플..사재기 통해 D램 공급망 고사 작전",
+        "date": "2026-04-28 06:01",
+        "link": "https://n.news.naver.com/mnews/article/023/0003973447?sid=105"
+    },
+    {
         "title": "OLED 초격차 벌리는 K-디스플레이…中 공세 속 수익성 반전",
         "date": "2026-04-28 06:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706708"
@@ -58,11 +518,6 @@
         "title": "삼성 하반기 갤럭시Z 폴더블 라인업 3종 모형 이미지 유출",
         "date": "2026-04-27 17:48",
         "link": "https://kbench.com/?q=node/278263"
-    },
-    {
-        "title": "인하대, 고비용 진공 증착 대체할 용액공정 청색 OLED 기술 최초 입증",
-        "date": "2026-04-27 17:44",
-        "link": "https://www.hellot.net/news/article.html?no=112326"
     },
     {
         "title": "아이폰18 일반 모델, 프로급 12GB 램(RAM) 탑재",
@@ -190,6 +645,11 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=448891"
     },
     {
+        "title": "'맥북 네오를 막아라'…인텔 '와일드캣 레이크'로 판 뒤집기",
+        "date": "2026-04-27 13:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660499"
+    },
+    {
         "title": "애플-삼성, 아이폰 20주년 기념 모델에 탑재될 ‘쿼드 곡면 디스플레이...",
         "date": "2026-04-27 13:54",
         "link": "https://kbench.com/?q=node/278251"
@@ -235,11 +695,6 @@
         "link": "https://edu.donga.com/news/articleView.html?idxno=106835"
     },
     {
-        "title": "인하대 세계 최고 효율의 용액공정 청색 OLED 개발",
-        "date": "2026-04-27 11:56",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=893380"
-    },
-    {
         "title": "[영상] '아이폰 울트라·아이폰18 프로 맥스' 더미 모델 유출",
         "date": "2026-04-27 11:56",
         "link": "https://kbench.com/?q=node/278240"
@@ -273,11 +728,6 @@
         "title": "애플 폴더블폰 출시에 삼성전자 수익률 '상승' 기대",
         "date": "2026-04-27 11:26",
         "link": "https://www.smartbizn.com/news/articleView.html?idxno=142661"
-    },
-    {
-        "title": "[SIMTOS 2026] 숙련공의 손끝을 데이터로 바꾼다...제조 하드웨어의 새 ...",
-        "date": "2026-04-27 11:24",
-        "link": "https://www.hellot.net/news/article.html?no=112310"
     },
     {
         "title": "실리콘 위에 만든다… 한·중·일 '올레도스' 패널 경쟁",
