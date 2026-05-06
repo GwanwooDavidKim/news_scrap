@@ -1,5 +1,790 @@
 [
     {
+        "title": "삼성디스플레이, 미국 전역 돌며 인재 확보전...AI·OLED 초격차 강화",
+        "date": "2026-05-06 16:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=516914"
+    },
+    {
+        "title": "애플, 삼성·인텔과 칩 생산 논의…TSMC 물량 분산 움직임",
+        "date": "2026-05-06 15:58",
+        "link": "https://n.news.naver.com/mnews/article/031/0001026696?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 우수 공학 인재 찾아 美 전역서 채용 행사",
+        "date": "2026-05-06 15:56",
+        "link": "https://n.news.naver.com/mnews/article/020/0003717587?sid=101"
+    },
+    {
+        "title": "삼성파운드리, 테슬라 이어 애플도 잠재 고객?…10년 만에 공급망 복귀...",
+        "date": "2026-05-06 15:54",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=340275"
+    },
+    {
+        "title": "애플, 차세대 iOS에 외부 AI 선택 기능 검토...폐쇄형 전략 변화 신호",
+        "date": "2026-05-06 15:38",
+        "link": "https://www.redian.org/news/articleView.html?idxno=256487"
+    },
+    {
+        "title": "애플의 방문…삼성전자 '2나노 전략' 통할까?",
+        "date": "2026-05-06 15:36",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=719976"
+    },
+    {
+        "title": "애플, 반도체 공급망 다변화 검토...인텔·삼성과 협력 가능성 부상",
+        "date": "2026-05-06 15:34",
+        "link": "https://www.redian.org/news/articleView.html?idxno=256488"
+    },
+    {
+        "title": "[삼성TV 사즉생] ①보르도 신화가 만든 세계 1위",
+        "date": "2026-05-06 15:33",
+        "link": "https://n.news.naver.com/mnews/article/293/0000084026?sid=101"
+    },
+    {
+        "title": "애플, 삼성과 협력 논의 … 파운드리 반등 카드 될까?",
+        "date": "2026-05-06 15:20",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80699"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역 채용 확대…AI·OLED 인재 확보 속도",
+        "date": "2026-05-06 15:18",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1001009"
+    },
+    {
+        "title": "삼성디스플레이, 美전역서 인재 채용",
+        "date": "2026-05-06 15:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005675985?sid=101"
+    },
+    {
+        "title": "삼성 파운드리, '아이폰 두뇌칩' 다시 노린다…10년 만에 재도전",
+        "date": "2026-05-06 15:16",
+        "link": "https://www.newspim.com/news/view/20260506000918"
+    },
+    {
+        "title": "“못생긴 아이폰 누가 사” 혹평 쏟아졌지만 한국서도 ‘불티’…세계...",
+        "date": "2026-05-06 15:14",
+        "link": "https://n.news.naver.com/mnews/article/011/0004617916?sid=105"
+    },
+    {
+        "title": "애플, 인텔·삼성과 파운드리 협력 검토...삼성은 주가 '1조달러' 돌파",
+        "date": "2026-05-06 15:08",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210114"
+    },
+    {
+        "title": "“광고서 약속한 AI 시리' 안나와”…애플, 허위광고 소송서 3714억원 합...",
+        "date": "2026-05-06 15:06",
+        "link": "https://n.news.naver.com/mnews/article/366/0001162223?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 美서 인재 확보 총력전",
+        "date": "2026-05-06 15:04",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1370228"
+    },
+    {
+        "title": "아이폰에서 제미나이·클로드 골라 쓴다…iOS 27서 제공",
+        "date": "2026-05-06 15:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002421495?sid=105"
+    },
+    {
+        "title": "아이폰17 1분기 글로벌 판매 1위...상위3위 싹쓸이",
+        "date": "2026-05-06 14:55",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=295125"
+    },
+    {
+        "title": "애플 '아이폰 에어' 소비자 냉대에 당혹, 경쟁사 슬림모델 개발 줄줄이...",
+        "date": "2026-05-06 14:50",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=87889"
+    },
+    {
+        "title": "애플 아이폰17, 1Q 글로벌 판매 1위…삼성 'A시리즈' 약진",
+        "date": "2026-05-06 14:48",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=869446"
+    },
+    {
+        "title": "AI 시대 디스플레이 비전…삼성D '혁신'· LGD '확장'",
+        "date": "2026-05-06 14:42",
+        "link": "https://www.asiatime.co.kr/article/20260506500272"
+    },
+    {
+        "title": "필옵틱스, 독보적 광학기술 앞세워 차세대 디스플레이·이차전지 공정 ...",
+        "date": "2026-05-06 14:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450782"
+    },
+    {
+        "title": "코리아써키트, 반도체 패키징 시장 정조준…수익성 제고 나선다",
+        "date": "2026-05-06 14:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450773"
+    },
+    {
+        "title": "애플, iOS 27서 외부 AI 모델 소비자 선택 허용 전망",
+        "date": "2026-05-06 14:23",
+        "link": "https://n.news.naver.com/mnews/article/031/0001026628?sid=105"
+    },
+    {
+        "title": "애플·AMD도 러브콜…삼성 파운드리 특수 몰린다",
+        "date": "2026-05-06 14:17",
+        "link": "https://n.news.naver.com/mnews/article/215/0001251203?sid=101"
+    },
+    {
+        "title": "삼성D, 美 전역 돌며 AI 인재 확보전…경영진 직접 발로 뛴다",
+        "date": "2026-05-06 14:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005517724?sid=101"
+    },
+    {
+        "title": "삼성-애플 파운드리 협력 가시화",
+        "date": "2026-05-06 14:10",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20260506140740458648439a4874_29"
+    },
+    {
+        "title": "애플 디벨로퍼 아카데미 6기 모집⋯포트폴리오 없는 ‘패스트 트랙’ 도...",
+        "date": "2026-05-06 14:02",
+        "link": "https://www.kbmaeil.com/article/20260506500379"
+    },
+    {
+        "title": "AI 폰이라더니 '빈 껍데기'… 애플 3600억 배상에 한국은 왜 빠졌나",
+        "date": "2026-05-06 14:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000929242?sid=104"
+    },
+    {
+        "title": "“초격차 이끌 두뇌 찾는다”…삼성D, 美 전역 돌며 ‘박사급 인재’ 잡...",
+        "date": "2026-05-06 14:00",
+        "link": "https://www.kukinews.com/article/view/kuk202605060093"
+    },
+    {
+        "title": "인재가 곧 경쟁력…삼성D, 미국 내 채용 프로그램 확대",
+        "date": "2026-05-06 13:58",
+        "link": "https://www.g-enews.com/view.php?ud=2026050613284351476ed0c62d49_1"
+    },
+    {
+        "title": "해성옵틱스, OIS 사업 강화 및 신사업 확대로 미래 성장 동력 확보",
+        "date": "2026-05-06 13:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450757"
+    },
+    {
+        "title": "시그마인텔, 1분기 스마트폰 OLED 출하량 2억대↑",
+        "date": "2026-05-06 13:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424596?sid=105"
+    },
+    {
+        "title": "“존재하지도 않는 AI 광고” 애플, 美 소송서 3640억 합의… 韓은?",
+        "date": "2026-05-06 13:31",
+        "link": "https://n.news.naver.com/mnews/article/020/0003717546?sid=101"
+    },
+    {
+        "title": "아이폰17 시리즈, 1분기 글로벌 판매 1~3위 휩쓸어...카운터포인트리서...",
+        "date": "2026-05-06 13:20",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026050613124415102aaae0046f_30"
+    },
+    {
+        "title": "애플, 인텔·삼성에 핵심 칩 생산 검토",
+        "date": "2026-05-06 13:10",
+        "link": "https://www.naeil.com/news/read/587756?ref=naver"
+    },
+    {
+        "title": "아이폰 17, 세계 판매 1위...갤럭시S는 10위권 진입 실패 [지금이뉴스]",
+        "date": "2026-05-06 13:07",
+        "link": "https://n.news.naver.com/mnews/article/052/0002349332?sid=101"
+    },
+    {
+        "title": "에스라이즈, 5월 지마켓 빅스마일데이 ASUS 인기 노트북 라인업 특별 혜...",
+        "date": "2026-05-06 13:06",
+        "link": "https://kbench.com/?q=node/278464"
+    },
+    {
+        "title": "이차전지·반도체 동반 반등…SKC, 3대 핵심 사업 재편으로 흑자 전환 신...",
+        "date": "2026-05-06 13:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450739"
+    },
+    {
+        "title": "애플, TSMC ‘독점’ 깨나…삼성·인텔 파운드리 협력 검토",
+        "date": "2026-05-06 12:39",
+        "link": "https://n.news.naver.com/mnews/article/024/0000105369?sid=101"
+    },
+    {
+        "title": "애플, 시리 AI 지연 후폭풍…美 소비자에 3400억원 배상",
+        "date": "2026-05-06 12:22",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424554?sid=105"
+    },
+    {
+        "title": "아이폰 17 시리즈가 상위권 싹쓸이…삼성은 갤럭시 A 시리즈 5종 진입",
+        "date": "2026-05-06 12:05",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226946?sid=105"
+    },
+    {
+        "title": "애플, ‘AI 아이폰’ 과장광고 사실상 시인…빈틈 공략 나선 삼성",
+        "date": "2026-05-06 12:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004617858?sid=101"
+    },
+    {
+        "title": "시그마인텔 삼성디스플레이, 1분기 플렉서블 OLED 출하량 52% 급증",
+        "date": "2026-05-06 12:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437155"
+    },
+    {
+        "title": "미리보는 ‘갤럭시Z 폴드8 와이드’…One UI 9 내부 빌드에서 디자인 포...",
+        "date": "2026-05-06 11:56",
+        "link": "https://kbench.com/?q=node/278455"
+    },
+    {
+        "title": "삼성디스플레이, 미국서 박사급 인재 찾는다",
+        "date": "2026-05-06 11:44",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56077"
+    },
+    {
+        "title": "삼성D, 美서 박사급 인재 채용설명회 확대",
+        "date": "2026-05-06 11:43",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639563?sid=101"
+    },
+    {
+        "title": "애플 'TSMC 일변도' 탈피하나…삼성전자서 칩 생산 검토",
+        "date": "2026-05-06 11:40",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56090"
+    },
+    {
+        "title": "애플 첫 폴더블폰에 티타늄 합금 소재 대거 적용될 듯",
+        "date": "2026-05-06 11:36",
+        "link": "https://www.raonnews.com/news/article.html?no=57952"
+    },
+    {
+        "title": "애플 아이폰 17, 1분기 세계 판매 1위…삼성 A시리즈 5개 모델 '톱10'",
+        "date": "2026-05-06 11:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424530?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 인재 확보 총력…美 전역서 채용 행사",
+        "date": "2026-05-06 11:34",
+        "link": "https://n.news.naver.com/mnews/article/119/0003087533?sid=101"
+    },
+    {
+        "title": "아이폰17 시리즈, 글로벌 스마트폰 판매 '톱3 장악'",
+        "date": "2026-05-06 11:33",
+        "link": "https://n.news.naver.com/mnews/article/001/0016060498?sid=105"
+    },
+    {
+        "title": "AI 시리 뺀 애플, 美 3400억원 합의…韓은 조사 중",
+        "date": "2026-05-06 11:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639545?sid=105"
+    },
+    {
+        "title": "'우수인재 찾아라' 삼성D, 미 전역서 채용행사",
+        "date": "2026-05-06 11:30",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017864"
+    },
+    {
+        "title": "스틸시리즈, 25주년 기념하여 Hi-Res 무선 인증 게이밍 헤드셋 ‘아크티...",
+        "date": "2026-05-06 11:28",
+        "link": "https://www.thisisgame.com/articles/422622"
+    },
+    {
+        "title": "삼성 파운드리, 아이폰 ‘두뇌칩’ 10년 만에 재수주하나",
+        "date": "2026-05-06 11:25",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639522?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역서 채용 확대...글로벌 혁신인재 영입",
+        "date": "2026-05-06 11:24",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=102772"
+    },
+    {
+        "title": "삼성디스플레이, 美 LA서 박사급 글로벌 인재 초청…'테크 포럼' 열어",
+        "date": "2026-05-06 11:22",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=293478"
+    },
+    {
+        "title": "경영진 직접 발로뛰며 글로벌 박사인재 모신다 삼성D, 美전역서 '구인...",
+        "date": "2026-05-06 11:19",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123494"
+    },
+    {
+        "title": "[전자는 지금] 삼성디스플레이, 美 전역서 채용 행사 확대 外",
+        "date": "2026-05-06 11:18",
+        "link": "https://dealsite.co.kr/articles/161295"
+    },
+    {
+        "title": "1분기 판매량 TOP10서 제외된 갤럭시 S26…아이폰 17 1위",
+        "date": "2026-05-06 11:17",
+        "link": "https://n.news.naver.com/mnews/article/374/0000508368?sid=101"
+    },
+    {
+        "title": "WWDC 앞두고…애플, 'AI 시리 허위광고' 소송 3714억에 마무리",
+        "date": "2026-05-06 11:17",
+        "link": "https://n.news.naver.com/mnews/article/092/0002421459?sid=105"
+    },
+    {
+        "title": "삼성·인텔 파운드리 찾은 '애플', 2나노 협력 물밑 접촉",
+        "date": "2026-05-06 11:14",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=401397"
+    },
+    {
+        "title": "애플, 'AI 시리 허위광고' 집단소송서 2억5000만 달러 합의 제안",
+        "date": "2026-05-06 11:14",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=75988"
+    },
+    {
+        "title": "삼성·LG, 美 SID서 차세대 OLED 격돌…AI 시대 디스플레이 주도권 경쟁",
+        "date": "2026-05-06 11:12",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=120348"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 인재 영입전…AI OLED 초격차 '사람'에 건다",
+        "date": "2026-05-06 11:12",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=120361"
+    },
+    {
+        "title": "미국 소비자만 배상 애플 결정에 韓 역차별 논란 재점화…공정위 허...",
+        "date": "2026-05-06 11:10",
+        "link": "https://n.news.naver.com/mnews/article/277/0005758856?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 채용 행사 확대...4월 관심도 26% 증가",
+        "date": "2026-05-06 11:10",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202605061006487137df3c2a17b7_23"
+    },
+    {
+        "title": "'수입산과는 차원이 다른 달콤함' 김해 애플망고 본격 출하",
+        "date": "2026-05-06 11:10",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=550522"
+    },
+    {
+        "title": "아이폰, 글로벌 판매 1~3위 '싹쓸이'…10위 안 갤럭시 '최다'",
+        "date": "2026-05-06 11:05",
+        "link": "https://n.news.naver.com/mnews/article/015/0005283540?sid=105"
+    },
+    {
+        "title": "애플, 인텔?삼성에서 칩 생산 검토.. 초기 협상 단계",
+        "date": "2026-05-06 11:00",
+        "link": "https://kbench.com/?q=node/278453"
+    },
+    {
+        "title": "삼성디스플레이, 5~6월 미국 대륙 돌며 박사급 인재에 '러브콜'",
+        "date": "2026-05-06 10:59",
+        "link": "https://n.news.naver.com/mnews/article/469/0000929210?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 美서 인재 영입 나서…채용 프로그램 ‘테크 포럼’ 개...",
+        "date": "2026-05-06 10:58",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=86454"
+    },
+    {
+        "title": "애플, 에어팟 맥스2 신규 펌웨어 '8E258' 배포…안정성 강화 주력",
+        "date": "2026-05-06 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662778"
+    },
+    {
+        "title": "삼성디스플레이, 美 LA서 박사급 글로벌 인재 초청…'테크 포럼' 열어",
+        "date": "2026-05-06 10:57",
+        "link": "https://n.news.naver.com/mnews/article/003/0013927689?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, 美 '디스플레이위크' 참가...OLED, 中 격차 확대 '총력'",
+        "date": "2026-05-06 10:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=151569"
+    },
+    {
+        "title": "삼성디스플레이 미국 전역에서 인재 확보, LA서 '찾아가는 채용 박람회...",
+        "date": "2026-05-06 10:50",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437136"
+    },
+    {
+        "title": "삼성D, 글로벌 인재 확보 총력…美서 '찾아가는 채용 간담회'",
+        "date": "2026-05-06 10:50",
+        "link": "https://www.socialvalue.kr/news/view/1065577287058943"
+    },
+    {
+        "title": "경영진이 발로 뛴다…삼성D, 글로벌 인재 한국행 총력",
+        "date": "2026-05-06 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161553"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 인재 확보 총력전",
+        "date": "2026-05-06 10:48",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=262062"
+    },
+    {
+        "title": "[김해 소식] '완숙 수확' 애플망고 올 첫 출하 등",
+        "date": "2026-05-06 10:46",
+        "link": "https://n.news.naver.com/mnews/article/417/0001141878?sid=102"
+    },
+    {
+        "title": "인텔·애플 동맹 가시화에…유리기판株 '무더기 상한가'",
+        "date": "2026-05-06 10:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005283522?sid=101"
+    },
+    {
+        "title": "애플 '아이폰17' 1분기 가장 많이 팔렸다…갤럭시 A07 4G 4위",
+        "date": "2026-05-06 10:34",
+        "link": "https://kbench.com/?q=node/278448"
+    },
+    {
+        "title": "삼성D, 美 대륙 전역 채용 프로그램 확대···인재 영입 박차",
+        "date": "2026-05-06 10:32",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=628070"
+    },
+    {
+        "title": "삼성전자 '애플 파운드리 수주' 가능성에 대만언론 적극 견제, 첨단 반...",
+        "date": "2026-05-06 10:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437130"
+    },
+    {
+        "title": "김해 아열대 작물 애플망고 첫 출하…프리미엄 브랜드로",
+        "date": "2026-05-06 10:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013927499?sid=102"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 채용 행사…“글로벌 인재 확보 확대”",
+        "date": "2026-05-06 10:29",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424468?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 인재 영입 위해 美전역서 채용 행사",
+        "date": "2026-05-06 10:24",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413272"
+    },
+    {
+        "title": "삼성디스플레이, 미국 5대 도시 찾아 ‘AI·OLED 두뇌’ 박사급 인재 확...",
+        "date": "2026-05-06 10:23",
+        "link": "https://n.news.naver.com/mnews/article/011/0004617807?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 '찾아가는 채용 간담회' 열어",
+        "date": "2026-05-06 10:22",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7162832"
+    },
+    {
+        "title": "약값도 못 벌어 갤럭시·아이폰 신형폰 유출 장인 은퇴",
+        "date": "2026-05-06 10:20",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161546"
+    },
+    {
+        "title": "삼성디스플레이, 박사급 인재 찾으러 美 채용 행사 확대",
+        "date": "2026-05-06 10:20",
+        "link": "https://n.news.naver.com/mnews/article/374/0000508345?sid=101"
+    },
+    {
+        "title": "큐소닉, 삼성 모니터 최대 25% 할인 ‘2026 상반기 빅스마일데이’ 진행",
+        "date": "2026-05-06 10:18",
+        "link": "https://kbench.com/?q=node/278449"
+    },
+    {
+        "title": "삼성디스플레이, 인재 영입 위해 美 전역서 채용 행사 확대",
+        "date": "2026-05-06 10:16",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575475762029"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역 순회 채용으로 '초격차' 기술 리더십 강화",
+        "date": "2026-05-06 10:14",
+        "link": "https://www.mediapen.com/news/view/1097157"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 인재 확보 총력…美 전역으로 채용 확대",
+        "date": "2026-05-06 10:10",
+        "link": "https://n.news.naver.com/mnews/article/029/0003025187?sid=101"
+    },
+    {
+        "title": "애플, 'TSMC 독점 구조' 흔드나… 삼성·인텔과 공급망 재편 모색",
+        "date": "2026-05-06 10:08",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153561"
+    },
+    {
+        "title": "삼성 파운드리, 아이폰 ‘두뇌칩’ 10년 만에 재수주하나",
+        "date": "2026-05-06 10:06",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639404?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역서 박사급 인재 확보전",
+        "date": "2026-05-06 10:04",
+        "link": "http://www.datanews.co.kr/news/article.html?no=144609"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역으로 채용 확대⋯ ‘글로벌 인재 확보’ 속도",
+        "date": "2026-05-06 10:02",
+        "link": "https://www.viva100.com/article/20260506500091"
+    },
+    {
+        "title": "애플, TSMC 의존 줄이나…인텔·삼성과 협력 타진",
+        "date": "2026-05-06 10:02",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=101403"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 인재 확보 박차…美 채용 행사 확대",
+        "date": "2026-05-06 10:02",
+        "link": "https://www.ajunews.com/view/20260506080201562"
+    },
+    {
+        "title": "삼성D, 美 전역서 글로벌 우수 인재 확보 총력전",
+        "date": "2026-05-06 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273907?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 美서 인재 확보 총력…채용 행사 확대",
+        "date": "2026-05-06 10:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1364111"
+    },
+    {
+        "title": "삼성디스플레이, 美 박사급 인재 확보 나섰다…테크포럼 개최",
+        "date": "2026-05-06 10:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226913?sid=105"
+    },
+    {
+        "title": "삼성D, 美서 박사급 인재 대상 채용설명회 개최",
+        "date": "2026-05-06 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639401?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 美 주요 도시서 채용행사 개최",
+        "date": "2026-05-06 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002421422?sid=105"
+    },
+    {
+        "title": "글로벌 인재 모여라 삼성디스플레이, 美 전역서 AI·OLED 인재 찾는다",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257854"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역서 박사급 인재 채용",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.newspim.com/news/view/20260506000101"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 채용 행사 확대…글로벌 인재 영입 박차",
+        "date": "2026-05-06 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005758770?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 美 채용 행사 확대...글로벌 인재 확보 총력",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450608"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역서 채용 행사 확대…우수 인재 확보 총력",
+        "date": "2026-05-06 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008927921?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 인재 영입 나서…美서 채용행사 확대",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=839853"
+    },
+    {
+        "title": "삼성디스플레이, 인재 영입…美 전역서 채용 행사 확대",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=245843"
+    },
+    {
+        "title": "삼성디스플레이, '인재영입' 위해 美 전역서 채용 행사",
+        "date": "2026-05-06 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005353387?sid=101"
+    },
+    {
+        "title": "글로벌 인재 직접 찾는다…삼성D, 美 전역서 '테크 포럼' 개최",
+        "date": "2026-05-06 10:00",
+        "link": "https://n.news.naver.com/mnews/article/117/0004061463?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 미국 전역서 박사급 채용 확대",
+        "date": "2026-05-06 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662707"
+    },
+    {
+        "title": "삼성디스플레이, LA 등 미국 거점도서시 '찾아가는 채용'",
+        "date": "2026-05-06 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016059956?sid=102"
+    },
+    {
+        "title": "챗GPT 독점 깨진다…애플, iOS 27 AI 엔진 사용자 취향대로 교체",
+        "date": "2026-05-06 09:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226911?sid=105"
+    },
+    {
+        "title": "글로벌 인재 찾자...삼성D, 美 전역서 채용 행사",
+        "date": "2026-05-06 09:57",
+        "link": "https://thetracker.co.kr/View.aspx?No=4067034"
+    },
+    {
+        "title": "나도 아이폰 쓰는데 보상받나? 애플 '반쪽짜리 AI' 美소비자에 3600억원...",
+        "date": "2026-05-06 09:56",
+        "link": "https://n.news.naver.com/mnews/article/277/0005758765?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시A로 시장 지키고 S26으로 실속 챙겼다",
+        "date": "2026-05-06 09:53",
+        "link": "https://www.newspim.com/news/view/20260506000265"
+    },
+    {
+        "title": "'독점' TSMC 성벽 무너지나...삼성전자에 동맹 제안한 애플 [지금이뉴스...",
+        "date": "2026-05-06 09:45",
+        "link": "https://n.news.naver.com/mnews/article/052/0002349209?sid=101"
+    },
+    {
+        "title": "삼성·인텔 '텍사스 동맹' 띄운 애플… TSMC 10년 독점 성벽 무너진다",
+        "date": "2026-05-06 09:42",
+        "link": "https://www.g-enews.com/view.php?ud=202605060915374333fbbec65dfb_1"
+    },
+    {
+        "title": "삼성전자, 시총 1천500조원 돌파…애플發 파운드리 수주 기대(종합)",
+        "date": "2026-05-06 09:40",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413247"
+    },
+    {
+        "title": "TSMC 독점 깨나…애플, 美 칩 자립 위해 인텔·삼성전자 문 두드렸다",
+        "date": "2026-05-06 09:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002226901?sid=105"
+    },
+    {
+        "title": "[특징주] '25만전자' 올라선 삼성전자, 애플 공급망 재편에 10%↑",
+        "date": "2026-05-06 09:35",
+        "link": "https://www.newspim.com/news/view/20260506000229"
+    },
+    {
+        "title": "AI 폰이라더니 빈껍데기? 애플, '인텔리전스 지연'에 3670억 배상…韓...",
+        "date": "2026-05-06 09:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=293400"
+    },
+    {
+        "title": "시리 AI 늦어진 대가…애플, 美서 2.5억달러 배상 합의",
+        "date": "2026-05-06 09:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273855?sid=105"
+    },
+    {
+        "title": "“광고한 핵심 AI 기능 빠졌다”…애플 3400억 합의, 한국은?",
+        "date": "2026-05-06 09:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002639367?sid=105"
+    },
+    {
+        "title": "삼성·LG디플, 美 세계 최대 전시회서 OLED 신기술 공개",
+        "date": "2026-05-06 09:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161540"
+    },
+    {
+        "title": "AI 폰이라더니 빈껍데기? 애플, '인텔리전스 지연'에 3670억 배상…韓...",
+        "date": "2026-05-06 09:28",
+        "link": "https://n.news.naver.com/mnews/article/003/0013927186?sid=105"
+    },
+    {
+        "title": "LGD, 글로벌 디스플레이 주도권 굳힌다…‘3세대 텐덤 OLED’ 글로벌 공...",
+        "date": "2026-05-06 09:26",
+        "link": "https://sateconomy.co.kr/news/view/1065569987802051"
+    },
+    {
+        "title": "Samsung, LG Display unveil next-gen OLED tech at SID 2026",
+        "date": "2026-05-06 09:26",
+        "link": "https://n.news.naver.com/mnews/article/009/0005675701?sid=104"
+    },
+    {
+        "title": "약속한 'AI 시리' 안 나와…애플, 허위광고 소송서 3714억원 합의",
+        "date": "2026-05-06 09:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273838?sid=101"
+    },
+    {
+        "title": "애플 '탈 TSMC' 승부수…삼성전자 카드 꺼냈지만 성능 차이 복병",
+        "date": "2026-05-06 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662692"
+    },
+    {
+        "title": "애플發 파운드리 다변화설…삼성전자, 2나노 수주 확대 기대 커지나",
+        "date": "2026-05-06 09:12",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413232"
+    },
+    {
+        "title": "삼성전자, 애플發 수주 기대에 장초반 10% 넘게 폭등",
+        "date": "2026-05-06 09:12",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413230"
+    },
+    {
+        "title": "애플, iOS 27서 타사 AI 선택권 도입…시리만 쓰던 시대 끝",
+        "date": "2026-05-06 09:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662702"
+    },
+    {
+        "title": "SK증권 애플, 부품 공급난 뚫고 사상 최대 매출",
+        "date": "2026-05-06 09:06",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257858"
+    },
+    {
+        "title": "[연중기획-IT트렌드 캐처] 플랫폼 경계 허문 게이밍 헤드셋... 스틸시리...",
+        "date": "2026-05-06 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59102"
+    },
+    {
+        "title": "LG디스플레이, SID서 3세대 탠덤 OLED 세계 첫 공개",
+        "date": "2026-05-06 08:50",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=249070"
+    },
+    {
+        "title": "“비에이치, 목표가↑…2분기 북미 고객사 수요 지속”-메리츠",
+        "date": "2026-05-06 08:50",
+        "link": "https://www.itooza.com/common/iview.php?no=2026050608493180319"
+    },
+    {
+        "title": "애플, '아이폰18' 보급형-일반형 성능·기능 차이 좁힐까",
+        "date": "2026-05-06 08:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002421382?sid=105"
+    },
+    {
+        "title": "아이폰17, 세계 판매 1위 휩쓸었다…한국선 3배 증가",
+        "date": "2026-05-06 08:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662683"
+    },
+    {
+        "title": "LGD 1.1조 인프라 투자 본격화…OLED 수혜 기업은",
+        "date": "2026-05-06 08:26",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=704425"
+    },
+    {
+        "title": "오픈AI, AI폰 2027년 조기 출시 추진",
+        "date": "2026-05-06 08:26",
+        "link": "https://www.g-enews.com/view.php?ud=2026050608242228759a1f309431_1"
+    },
+    {
+        "title": "[특별기획] 고성능 게이밍 시스템, 델테크놀로지스 '에일리언웨어 3종'...",
+        "date": "2026-05-06 08:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59163"
+    },
+    {
+        "title": "삼성·애플·화웨이, '와이드 폴더블'로 격돌…하반기 승부처",
+        "date": "2026-05-06 07:55",
+        "link": "https://n.news.naver.com/mnews/article/031/0001026497?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, SID 2026서 차세대 OLED 기술 공개",
+        "date": "2026-05-06 07:44",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56069"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 공개 임박…완성도 개선·신형 폼팩터 동시 추진",
+        "date": "2026-05-06 07:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543809"
+    },
+    {
+        "title": "삼성 대 애플… ‘와이드 폴더블’ 전투의 서막",
+        "date": "2026-05-06 07:00",
+        "link": "https://n.news.naver.com/mnews/article/640/0000087972?sid=110"
+    },
+    {
+        "title": "삼성 파운드리 'SF2P' 운명의 2026년… 테슬라 AI5 '진검승부'",
+        "date": "2026-05-06 06:44",
+        "link": "https://www.g-enews.com/view.php?ud=202605060603511252fbbec65dfb_1"
+    },
+    {
+        "title": "애플, 개방형 AI 플랫폼으로…'iOS27'서 외부모델 빗장 푼다[모닝폰]",
+        "date": "2026-05-06 06:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273683?sid=105"
+    },
+    {
+        "title": "현대카드 애플페이 독점 이어지나?...'이중 수수료' 절벽에 신한·KB카드...",
+        "date": "2026-05-06 06:10",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=755094"
+    },
+    {
+        "title": "삼성·LG, 차세대 디스플레이 신기술 경쟁",
+        "date": "2026-05-06 06:03",
+        "link": "https://n.news.naver.com/mnews/article/022/0004125992?sid=101"
+    },
+    {
+        "title": "애플 칩 생산 협상 보도에 인텔 14% 급등…사상 최고가 경신",
+        "date": "2026-05-06 06:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662626"
+    },
+    {
         "title": "애플, 인텔·삼성에 칩 생산 타진…TSMC 의존 탈피 모색",
         "date": "2026-05-06 05:49",
         "link": "https://n.news.naver.com/mnews/article/421/0008927500?sid=101"
@@ -210,6 +995,11 @@
         "link": "https://n.news.naver.com/mnews/article/014/0005517245?sid=101"
     },
     {
+        "title": "블룸버그 애플이 삼성전자와 인텔에 칩 위탁생산 검토, TSMC 의존 축소...",
+        "date": "2026-05-05 13:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437112"
+    },
+    {
         "title": "삼성D·LGD, 'SID 2026'서 격전…3천니트 광색역 OLED부터 3세대 탠덤까지...",
         "date": "2026-05-05 13:46",
         "link": "https://www.econovill.com/news/articleView.html?idxno=739436"
@@ -263,6 +1053,11 @@
         "title": "[1보] “애플, 삼성·인텔과 칩 생산 협력 가능성”",
         "date": "2026-05-05 12:14",
         "link": "https://www.ekn.kr/web/view.php?key=20260505020542187"
+    },
+    {
+        "title": "삼성·LG디스플레이, 미국 SID서 '더 밝고, 더 길게' 차세대 OLED 기술 대...",
+        "date": "2026-05-05 12:04",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437108"
     },
     {
         "title": "SOOP, 4년 만에 별풍선 인앱결제 재도입…구글·애플 정책 수용",
