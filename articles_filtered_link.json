@@ -1,5 +1,185 @@
 [
     {
+        "title": "TSMC 아성에 균열나나…애플이 삼성 공장 찾아간 이유",
+        "date": "2026-05-07 06:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161602"
+    },
+    {
+        "title": "앱 아이콘이 사라진다…오픈AI '비서 폰' 내년 상반기 조기 출격",
+        "date": "2026-05-07 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013929557?sid=105"
+    },
+    {
+        "title": "애플, 脫TSMC 모색하나…“삼성·인텔 칩 병행 땐 품질 차이 우려도”",
+        "date": "2026-05-07 05:00",
+        "link": "https://www.g-enews.com/view.php?ud=2026050620124185989a1f309431_1"
+    },
+    {
+        "title": "애플, 에픽 수수료분쟁 美대법 뒤집기실패…시리과장광고는 합의",
+        "date": "2026-05-07 02:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0016062054?sid=104"
+    },
+    {
+        "title": "'압도적 당도에 진한 풍미'...김해 애플망고 본격 출하",
+        "date": "2026-05-07 01:24",
+        "link": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=53310"
+    },
+    {
+        "title": "삼성디스플레이, 美전역 누비며 인재 찾는다",
+        "date": "2026-05-07 00:31",
+        "link": "https://n.news.naver.com/mnews/article/020/0003717686?sid=101"
+    },
+    {
+        "title": "‘폐쇄형’ 애플도 빗장 푼다… 외부 AI모델 쓸 수 있도록",
+        "date": "2026-05-07 00:18",
+        "link": "https://n.news.naver.com/mnews/article/005/0001847474?sid=101"
+    },
+    {
+        "title": "김해 대표 아열대 작물 애플망고 출시",
+        "date": "2026-05-06 23:22",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=586048"
+    },
+    {
+        "title": "삼성 파운드리 둘러본 애플…수주 가능성 따져 보니",
+        "date": "2026-05-06 20:40",
+        "link": "https://www.g-enews.com/view.php?ud=2026050615165535626ed0c62d49_1"
+    },
+    {
+        "title": "당도·과육 뛰어난 김해 '애플망고' 드셔 보세요",
+        "date": "2026-05-06 19:38",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=636315"
+    },
+    {
+        "title": "애플이 끌고 삼성이 밀었다…1분기 OLED 스마트폰 패널 2억대",
+        "date": "2026-05-06 18:24",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56114"
+    },
+    {
+        "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
+        "date": "2026-05-06 18:16",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56089"
+    },
+    {
+        "title": "AI 인재 선점 삼성D 경영진 美 전역 순회",
+        "date": "2026-05-06 18:13",
+        "link": "https://n.news.naver.com/mnews/article/014/0005517935?sid=101"
+    },
+    {
+        "title": "애플·AMD까지 '삼성' 찾는다…TSMC 과부하에 파운드리 구도 재편",
+        "date": "2026-05-06 18:08",
+        "link": "https://n.news.naver.com/mnews/article/003/0013929264?sid=101"
+    },
+    {
+        "title": "애플, iOS 26.5 출시 임박…RCS 암호화·배경화면 등 소규모 개선",
+        "date": "2026-05-06 18:06",
+        "link": "https://news.appstory.co.kr/daily19054"
+    },
+    {
+        "title": "삼성전자, 10년 만에 ‘아이폰 칩’ 다시 만드나",
+        "date": "2026-05-06 18:04",
+        "link": "https://www.asiatime.co.kr/article/20260506500397"
+    },
+    {
+        "title": "삼성전자, 파운드리 영토 확장…큰 손 고객 ‘애플’ 잡나",
+        "date": "2026-05-06 17:50",
+        "link": "https://www.sentv.co.kr/article/view/sentv202605060056"
+    },
+    {
+        "title": "'AI 아이폰' 나온다더니…애플, 약속한 서비스 지연에 3600억 물어낸다",
+        "date": "2026-05-06 17:40",
+        "link": "https://n.news.naver.com/mnews/article/008/0005353757?sid=104"
+    },
+    {
+        "title": "애플, 인텔·삼성 접촉… TSMC 외 파운드리 다변화 검토",
+        "date": "2026-05-06 17:38",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=739467"
+    },
+    {
+        "title": "삼성디스플레이, 美전역서 인재 채용",
+        "date": "2026-05-06 17:30",
+        "link": "https://n.news.naver.com/mnews/article/009/0005676133?sid=101"
+    },
+    {
+        "title": "삼성·LG디플, 美 '디스플레이 위크 2026'서 차세대 OLED 기술 첫선",
+        "date": "2026-05-06 17:28",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=95635"
+    },
+    {
+        "title": "삼성디스플레이, 美 전역으로 채용 행사 확대…글로벌 인재 확보 박차",
+        "date": "2026-05-06 17:24",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=132953"
+    },
+    {
+        "title": "아이폰18 일반 모델 2027년 출시설 '모락모락'… 아이폰17 생산 주기 연...",
+        "date": "2026-05-06 17:22",
+        "link": "https://kbench.com/?q=node/278480"
+    },
+    {
+        "title": "삼성·LG, '디스플레이 위크'서 OLED 초격차 경쟁",
+        "date": "2026-05-06 17:20",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85873"
+    },
+    {
+        "title": "삼성전자, TV·가전 '저수익 시장' 이탈…고부가가치 중심 재편",
+        "date": "2026-05-06 17:10",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657678"
+    },
+    {
+        "title": "LG디스플레이, 3세대 탠덤 OLED 기술 개발 성공.. 수명·소비 전력 18% 향...",
+        "date": "2026-05-06 17:04",
+        "link": "https://kbench.com/?q=node/278479"
+    },
+    {
+        "title": "애플·메타, AI 열등생들의 반격",
+        "date": "2026-05-06 17:02",
+        "link": "https://n.news.naver.com/mnews/article/009/0005676100?sid=105"
+    },
+    {
+        "title": "스마트폰 탠덤 OLED 힘주는 중국",
+        "date": "2026-05-06 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424788?sid=105"
+    },
+    {
+        "title": "애플, 개발자용 iOS 26.5 RC 버전 공개",
+        "date": "2026-05-06 16:46",
+        "link": "https://kbench.com/?q=node/278478"
+    },
+    {
+        "title": "김해 애플망고 본격 출하, 프리미엄 선물용 인기",
+        "date": "2026-05-06 16:42",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2005007"
+    },
+    {
+        "title": "애플, iOS 27에 외부 AI 서비스 선택 기능 도입…사용자 맞춤 시대 연다",
+        "date": "2026-05-06 16:38",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000033483"
+    },
+    {
+        "title": "'6시내고향' 서귀포 애플망고, 제주 여름 과일 이야기",
+        "date": "2026-05-06 16:38",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=534426"
+    },
+    {
+        "title": "삼성디스플레이, 美 현지 채용 강화…박사급 인재 확보 나서",
+        "date": "2026-05-06 16:18",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303986"
+    },
+    {
+        "title": "삼성전자의 투트랙 전략...Z 폴드8 vs 와이드 폴드 차이점은?",
+        "date": "2026-05-06 16:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543831"
+    },
+    {
+        "title": "신한·KB국민카드 이어 토스뱅크까지 애플페이 도입 신중 모드…왜?",
+        "date": "2026-05-06 16:08",
+        "link": "https://www.mediapen.com/news/view/1097269"
+    },
+    {
+        "title": "애플, '시리 AI 지연' 사기 소송에 3600억 지불 합의... 법적 책임은 부...",
+        "date": "2026-05-06 16:04",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210143"
+    },
+    {
         "title": "삼성디스플레이, 미국 전역 돌며 인재 확보전...AI·OLED 초격차 강화",
         "date": "2026-05-06 16:00",
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=516914"
@@ -295,11 +475,6 @@
         "link": "https://www.catchnews.kr/news/articleView.html?idxno=123494"
     },
     {
-        "title": "[전자는 지금] 삼성디스플레이, 美 전역서 채용 행사 확대 外",
-        "date": "2026-05-06 11:18",
-        "link": "https://dealsite.co.kr/articles/161295"
-    },
-    {
         "title": "1분기 판매량 TOP10서 제외된 갤럭시 S26…아이폰 17 1위",
         "date": "2026-05-06 11:17",
         "link": "https://n.news.naver.com/mnews/article/374/0000508368?sid=101"
@@ -348,11 +523,6 @@
         "title": "아이폰, 글로벌 판매 1~3위 '싹쓸이'…10위 안 갤럭시 '최다'",
         "date": "2026-05-06 11:05",
         "link": "https://n.news.naver.com/mnews/article/015/0005283540?sid=105"
-    },
-    {
-        "title": "애플, 인텔?삼성에서 칩 생산 검토.. 초기 협상 단계",
-        "date": "2026-05-06 11:00",
-        "link": "https://kbench.com/?q=node/278453"
     },
     {
         "title": "삼성디스플레이, 5~6월 미국 대륙 돌며 박사급 인재에 '러브콜'",
@@ -408,11 +578,6 @@
         "title": "인텔·애플 동맹 가시화에…유리기판株 '무더기 상한가'",
         "date": "2026-05-06 10:44",
         "link": "https://n.news.naver.com/mnews/article/015/0005283522?sid=101"
-    },
-    {
-        "title": "애플 '아이폰17' 1분기 가장 많이 팔렸다…갤럭시 A07 4G 4위",
-        "date": "2026-05-06 10:34",
-        "link": "https://kbench.com/?q=node/278448"
     },
     {
         "title": "삼성D, 美 대륙 전역 채용 프로그램 확대···인재 영입 박차",
@@ -758,535 +923,5 @@
         "title": "삼성 대 애플… ‘와이드 폴더블’ 전투의 서막",
         "date": "2026-05-06 07:00",
         "link": "https://n.news.naver.com/mnews/article/640/0000087972?sid=110"
-    },
-    {
-        "title": "삼성 파운드리 'SF2P' 운명의 2026년… 테슬라 AI5 '진검승부'",
-        "date": "2026-05-06 06:44",
-        "link": "https://www.g-enews.com/view.php?ud=202605060603511252fbbec65dfb_1"
-    },
-    {
-        "title": "애플, 개방형 AI 플랫폼으로…'iOS27'서 외부모델 빗장 푼다[모닝폰]",
-        "date": "2026-05-06 06:36",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273683?sid=105"
-    },
-    {
-        "title": "현대카드 애플페이 독점 이어지나?...'이중 수수료' 절벽에 신한·KB카드...",
-        "date": "2026-05-06 06:10",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=755094"
-    },
-    {
-        "title": "삼성·LG, 차세대 디스플레이 신기술 경쟁",
-        "date": "2026-05-06 06:03",
-        "link": "https://n.news.naver.com/mnews/article/022/0004125992?sid=101"
-    },
-    {
-        "title": "애플 칩 생산 협상 보도에 인텔 14% 급등…사상 최고가 경신",
-        "date": "2026-05-06 06:02",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662626"
-    },
-    {
-        "title": "애플, 인텔·삼성에 칩 생산 타진…TSMC 의존 탈피 모색",
-        "date": "2026-05-06 05:49",
-        "link": "https://n.news.naver.com/mnews/article/421/0008927500?sid=101"
-    },
-    {
-        "title": "삼성·LG디스플레이, 피지컬 AI 만나 OLED ‘끝없는 진화’",
-        "date": "2026-05-06 05:03",
-        "link": "https://n.news.naver.com/mnews/article/081/0003641249?sid=101"
-    },
-    {
-        "title": "애플, 삼성·인텔에 SOS…파운드리 협력 검토",
-        "date": "2026-05-06 04:29",
-        "link": "https://n.news.naver.com/mnews/article/374/0000508258?sid=104"
-    },
-    {
-        "title": "AI 칩 품귀에… 애플, 라이벌 삼성에 협력 타진",
-        "date": "2026-05-06 00:31",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717360?sid=101"
-    },
-    {
-        "title": "삼성-LG, 美 ‘디스플레이 위크’서 OLED 신기술 뽐낸다",
-        "date": "2026-05-06 00:31",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717374?sid=101"
-    },
-    {
-        "title": "칩 공급망 다변화 나선 애플, 삼성 파운드리와 협력하나",
-        "date": "2026-05-06 00:20",
-        "link": "https://n.news.naver.com/mnews/article/293/0000083980?sid=105"
-    },
-    {
-        "title": "삼성·LG, 미국 SID서 차세대 OLED 기술 대거 공개",
-        "date": "2026-05-06 00:02",
-        "link": "https://n.news.naver.com/mnews/article/025/0003521190?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 'SID 2026'서 3세대 탠덤 OLED 공개...휴머노이드 로봇용 ...",
-        "date": "2026-05-05 21:36",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=437514"
-    },
-    {
-        "title": "개인 성과·영업 이익 합산 반영 ‘주식으로’",
-        "date": "2026-05-05 21:05",
-        "link": "https://n.news.naver.com/mnews/article/032/0003443980?sid=101"
-    },
-    {
-        "title": "삼성은 30만원이나 올렸는데 애플은 “안 올린다”…천하의 애플이 무슨...",
-        "date": "2026-05-05 20:40",
-        "link": "https://n.news.naver.com/mnews/article/016/0002639228?sid=105"
-    },
-    {
-        "title": "삼성D·LGD, SID 2026서 최첨단 OLED 기술 대거 공개…기술력 '탄탄'",
-        "date": "2026-05-05 20:22",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657639"
-    },
-    {
-        "title": "삼성·LGD, 스마트폰·차량용 등 AI OLED 솔루션 공개",
-        "date": "2026-05-05 19:12",
-        "link": "https://n.news.naver.com/mnews/article/029/0003025136?sid=105"
-    },
-    {
-        "title": "애플, 삼성과 인텔에서도 핵심 프로세서 조달 추진",
-        "date": "2026-05-05 19:09",
-        "link": "https://n.news.naver.com/mnews/article/015/0005283319?sid=101"
-    },
-    {
-        "title": "삼성·LG디스플레이, SID 2026서 차세대 OLED 혁신 기술 격돌",
-        "date": "2026-05-05 18:44",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=358447"
-    },
-    {
-        "title": "애플, 반도체 공급망 다변화 검토…인텔·삼성과 美 생산 논의",
-        "date": "2026-05-05 18:42",
-        "link": "https://www.g-enews.com/view.php?ud=2026050518392520439a1f309431_1"
-    },
-    {
-        "title": "삼성D는 '건강체크' LGD는 '로봇'… 美 홀린 'OLED 초격차 기술'",
-        "date": "2026-05-05 18:35",
-        "link": "https://n.news.naver.com/mnews/article/014/0005517348?sid=101"
-    },
-    {
-        "title": "삼성전자에 소송 걸던 애플…이젠 “칩 생산 좀” 손 내밀었다",
-        "date": "2026-05-05 18:26",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717327?sid=101"
-    },
-    {
-        "title": "삼성D·LGD, '디스플레이 위크 2026' 참가…혁신 제품 전시",
-        "date": "2026-05-05 18:06",
-        "link": "https://www.g-enews.com/view.php?ud=2026050510134983336ed0c62d49_1"
-    },
-    {
-        "title": "삼성디스플레이, SID서 '차세대 화면' 총공세",
-        "date": "2026-05-05 17:24",
-        "link": "https://n.news.naver.com/mnews/article/031/0001026450?sid=105"
-    },
-    {
-        "title": "“TSMC만 믿다간 망한다”…애플, 삼성·인텔에 SOS",
-        "date": "2026-05-05 17:17",
-        "link": "https://n.news.naver.com/mnews/article/011/0004617564?sid=104"
-    },
-    {
-        "title": "애플 '아이폰17', 1Q 세계 판매 1위...삼성 갤럭시는",
-        "date": "2026-05-05 17:05",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421364?sid=105"
-    },
-    {
-        "title": "삼성전자, '100대 남짓' 마이크로 LED TV 사업 축소 수순",
-        "date": "2026-05-05 17:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003424325?sid=105"
-    },
-    {
-        "title": "[산업 뉴스브리핑] LG전자, 글로벌 ESG 평가 ‘그랜드슬램’",
-        "date": "2026-05-05 16:56",
-        "link": "https://www.asiatime.co.kr/article/20260505500164"
-    },
-    {
-        "title": "삼성전자 ‘성과급’ 논란, 해외는 어떻게?···개인 성과 중심 ‘주식...",
-        "date": "2026-05-05 16:41",
-        "link": "https://n.news.naver.com/mnews/article/032/0003443913?sid=101"
-    },
-    {
-        "title": "더 밝고 더 오래…삼성·LG디플, OLED 신기술 공개",
-        "date": "2026-05-05 16:26",
-        "link": "https://n.news.naver.com/mnews/article/011/0004617554?sid=101"
-    },
-    {
-        "title": "'SID 2026' 삼성 vs LG, 차세대 OLED 경쟁 격돌",
-        "date": "2026-05-05 16:20",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017747"
-    },
-    {
-        "title": "'미래 OLED' 한 자리에...삼성D·LGD, 세계 최대 디스플레이 전시회에 신...",
-        "date": "2026-05-05 16:10",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=201932"
-    },
-    {
-        "title": "“애플, 삼성·인텔과 파운드리 협력 검토… 반도체 공급망 다변화”",
-        "date": "2026-05-05 16:10",
-        "link": "https://n.news.naver.com/mnews/article/366/0001161977?sid=105"
-    },
-    {
-        "title": "롤러 한 번이면 수많은 전자소자 '쓱' 옮긴다",
-        "date": "2026-05-05 16:06",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=704062"
-    },
-    {
-        "title": "‘디스플레이 올림픽’ 후끈…삼성 LG OLED 경쟁",
-        "date": "2026-05-05 15:20",
-        "link": "https://n.news.naver.com/mnews/article/658/0000142936?sid=101"
-    },
-    {
-        "title": "삼성디스플레이-LG디스플레이, 美 SID서 차세대 기술 대거 공개",
-        "date": "2026-05-05 15:03",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717292?sid=101"
-    },
-    {
-        "title": "삼성D·LGD, SID 2026서 OLED 격돌...차세대 기술 선봬",
-        "date": "2026-05-05 15:02",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=516845"
-    },
-    {
-        "title": "17년 스마트폰 '스포' 장인의 은퇴…먹고살기 힘들어",
-        "date": "2026-05-05 14:53",
-        "link": "https://n.news.naver.com/mnews/article/421/0008927142?sid=105"
-    },
-    {
-        "title": "포스텍, 초소형 소자 대량 전사 기술 개발⋯공정 시간 0.34초로 단축",
-        "date": "2026-05-05 14:40",
-        "link": "https://www.kbmaeil.com/article/20260505500383"
-    },
-    {
-        "title": "롤처럼 뽑아낸다… 기계연, 차세대 FPCB 공정 제안",
-        "date": "2026-05-05 14:38",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1156130"
-    },
-    {
-        "title": "한국 디스플레이 양강, SID 2026서 OLED 패권 경쟁…차세대 기술 총집결",
-        "date": "2026-05-05 14:26",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=286625"
-    },
-    {
-        "title": "삼성·LG디플 美서 OLED 신기술 공개",
-        "date": "2026-05-05 14:25",
-        "link": "https://n.news.naver.com/mnews/article/009/0005675462?sid=101"
-    },
-    {
-        "title": "애플, 삼성·인텔과 파운드리 손잡나… 공급망 다변화 추진",
-        "date": "2026-05-05 14:20",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161529"
-    },
-    {
-        "title": "LG Display unveils next-gen OLED for AI devices at SID 2026",
-        "date": "2026-05-05 14:16",
-        "link": "https://n.news.naver.com/mnews/article/044/0000283589?sid=104"
-    },
-    {
-        "title": "삼성·LG디스플레이, '디스플레이 위크'서 차세대 OLED 기술 공개",
-        "date": "2026-05-05 14:02",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353520"
-    },
-    {
-        "title": "TSMC 의존도 낮추려는 애플, 삼성전자서 칩생산 검토한다",
-        "date": "2026-05-05 14:01",
-        "link": "https://n.news.naver.com/mnews/article/009/0005675456?sid=105"
-    },
-    {
-        "title": "삼성D '건강정보 측정 OLED' 對 LGD '로봇용 OLED'...美에서 초격차 대결",
-        "date": "2026-05-05 14:00",
-        "link": "https://n.news.naver.com/mnews/article/014/0005517245?sid=101"
-    },
-    {
-        "title": "블룸버그 애플이 삼성전자와 인텔에 칩 위탁생산 검토, TSMC 의존 축소...",
-        "date": "2026-05-05 13:54",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437112"
-    },
-    {
-        "title": "삼성D·LGD, 'SID 2026'서 격전…3천니트 광색역 OLED부터 3세대 탠덤까지...",
-        "date": "2026-05-05 13:46",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=739436"
-    },
-    {
-        "title": "“애플, 공급망 다변화 위해 삼성 · 파운드리 협력 가능성”",
-        "date": "2026-05-05 13:14",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273478?sid=101"
-    },
-    {
-        "title": "LGD, 'SID 디스플레이 위크'서 3세대 탠덤 OLED 첫 공개",
-        "date": "2026-05-05 13:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=211809"
-    },
-    {
-        "title": "애플, 미국 내 핵심 칩 생산 위해 '삼성·인텔' 타진…TSMC 외에 다변화...",
-        "date": "2026-05-05 12:59",
-        "link": "https://www.newspim.com/news/view/20260505000084"
-    },
-    {
-        "title": "LG디스플레이, 美 SID 참가...3세대 탠덤 OLED 기술 최초 공개",
-        "date": "2026-05-05 12:54",
-        "link": "http://www.metroseoul.co.kr/article/20260505500067"
-    },
-    {
-        "title": "AI發 공급부족에…애플, 삼성·인텔과 파운드리 협력 가능성",
-        "date": "2026-05-05 12:52",
-        "link": "https://www.ekn.kr/web/view.php?key=20260505023013490"
-    },
-    {
-        "title": "롤러 한 번이면 수많은 전자소자 '쓱' 옮긴다",
-        "date": "2026-05-05 12:52",
-        "link": "https://www.electimes.com/news/articleView.html?idxno=367647"
-    },
-    {
-        "title": "팀 쿡 퇴임 기념?...애플, '무지개 색' 워치 밴드 공개",
-        "date": "2026-05-05 12:41",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421356?sid=105"
-    },
-    {
-        "title": "삼성·LG디스플레이, 美 ‘SID 2026’서 차세대 OLED 대거 선보여",
-        "date": "2026-05-05 12:30",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=86437"
-    },
-    {
-        "title": "삼성D·LGD, SID서 차세대 OLED 기술 격돌…3000니트·3세대 탠덤 공개",
-        "date": "2026-05-05 12:28",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=839824"
-    },
-    {
-        "title": "[1보] “애플, 삼성·인텔과 칩 생산 협력 가능성”",
-        "date": "2026-05-05 12:14",
-        "link": "https://www.ekn.kr/web/view.php?key=20260505020542187"
-    },
-    {
-        "title": "삼성·LG디스플레이, 미국 SID서 '더 밝고, 더 길게' 차세대 OLED 기술 대...",
-        "date": "2026-05-05 12:04",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437108"
-    },
-    {
-        "title": "SOOP, 4년 만에 별풍선 인앱결제 재도입…구글·애플 정책 수용",
-        "date": "2026-05-05 12:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003424253?sid=101"
-    },
-    {
-        "title": "[SID 2026] 1만 5000시간 구동 가능 LGD, 차세대 탠덤 OLED 공개",
-        "date": "2026-05-05 11:42",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257821"
-    },
-    {
-        "title": "LG디스플레이, 美서 3세대 탠덤 OLED 공개",
-        "date": "2026-05-05 11:37",
-        "link": "https://www.newspim.com/news/view/20260505000066"
-    },
-    {
-        "title": "[SID 2026] OLED 한계 허물었다 삼성D, AI 시대 '디스플레이 표준' 제시",
-        "date": "2026-05-05 11:28",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257820"
-    },
-    {
-        "title": "LGD, SID서 3세대 차량 탠덤 OLED 첫 공개...연내 양산",
-        "date": "2026-05-05 11:27",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421345?sid=105"
-    },
-    {
-        "title": "삼성D·LGD, 美 '디스플레이 위크' 참가… 차세대 OLED 선봬",
-        "date": "2026-05-05 11:26",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3398494"
-    },
-    {
-        "title": "삼성D, 美 SID서 차세대 OLED 기술 공개",
-        "date": "2026-05-05 11:26",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=836924"
-    },
-    {
-        "title": "삼성D·LGD, 美서 'K-디스플레이' 기술 나란히 공개",
-        "date": "2026-05-05 11:26",
-        "link": "https://n.news.naver.com/mnews/article/008/0005353098?sid=101"
-    },
-    {
-        "title": "스마트팩토리 맞춤형 솔루션 강화…PS일렉트로닉스의 신성장동력은?",
-        "date": "2026-05-05 11:26",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450527"
-    },
-    {
-        "title": "삼성디스플레이, 차세대 OLED 공개…3000니트·광색역 기술 첫선",
-        "date": "2026-05-05 11:22",
-        "link": "https://www.newspim.com/news/view/20260505000060"
-    },
-    {
-        "title": "LG디스플레이, '3세대 탠덤 OLED' 최초 공개",
-        "date": "2026-05-05 11:20",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201655"
-    },
-    {
-        "title": "삼성D·LGD, 美 SID 출격…차세대 OLED 주도권 고삐",
-        "date": "2026-05-05 11:10",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1369896"
-    },
-    {
-        "title": "Samsung Display, LG Display to showcase next-gen OLED tech in LA",
-        "date": "2026-05-05 11:10",
-        "link": "https://www.koreatimes.co.kr/path/A2026050510590004166"
-    },
-    {
-        "title": "삼성D·LGD, 美 ‘디스플레이 위크’ 참가⋯차세대 OLED 기술 공개",
-        "date": "2026-05-05 10:48",
-        "link": "https://www.viva100.com/article/20260505500186"
-    },
-    {
-        "title": "삼성D, SID서 '500니트' EL-QD 전시...올해의 우수논문상 수상",
-        "date": "2026-05-05 10:37",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421341?sid=105"
-    },
-    {
-        "title": "LGD, 美 ‘SID 2026’서 3세대 탠덤 OLED 세계 최초 공개",
-        "date": "2026-05-05 10:36",
-        "link": "https://n.news.naver.com/mnews/article/138/0002226851?sid=105"
-    },
-    {
-        "title": "삼성D, 美 ‘SID 2026’서 초격차 기술 과시… “3000니트 OLED부터 스트...",
-        "date": "2026-05-05 10:31",
-        "link": "https://n.news.naver.com/mnews/article/138/0002226849?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, 美 SID서 차세대 OLED 기술 대거 공개",
-        "date": "2026-05-05 10:28",
-        "link": "https://n.news.naver.com/mnews/article/003/0013925944?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 고휘도·장수명 3세대 탠덤 OLED 첫선",
-        "date": "2026-05-05 10:26",
-        "link": "https://n.news.naver.com/mnews/article/366/0001161890?sid=105"
-    },
-    {
-        "title": "삼성·LG디스플레이, SID 2026서 차세대 OLED 기술 전격 공개",
-        "date": "2026-05-05 10:24",
-        "link": "https://www.tokenpost.kr/news/tech/356310"
-    },
-    {
-        "title": "차세대 OLED 공개…삼성D·LGD, 세계 최대 디스플레이 전시회 참가",
-        "date": "2026-05-05 10:23",
-        "link": "https://n.news.naver.com/mnews/article/374/0000508212?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, SID 2026서 차세대 OLED·QD 기술 공개",
-        "date": "2026-05-05 10:19",
-        "link": "https://n.news.naver.com/mnews/article/366/0001161887?sid=105"
-    },
-    {
-        "title": "삼성디플·LGD, 美SID서 혁신 OLED 기술 공개",
-        "date": "2026-05-05 10:14",
-        "link": "https://www.etoday.co.kr/news/view/2581614"
-    },
-    {
-        "title": "삼성디스플레이, 'SID 2026'서 3000니트 OLED·스트레처블 공개",
-        "date": "2026-05-05 10:12",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=132881"
-    },
-    {
-        "title": "LG디스플레이, 'SID 2026'서 세계 최초 3세대 탠덤 OLED 공개",
-        "date": "2026-05-05 10:11",
-        "link": "https://n.news.naver.com/mnews/article/003/0013925932?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 美서 3세대 탠덤 OLED 공개…미래 기술 선도",
-        "date": "2026-05-05 10:10",
-        "link": "https://n.news.naver.com/mnews/article/421/0008926646?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 美 SID서 차세대 OLED·QD 기술 대거 공개",
-        "date": "2026-05-05 10:06",
-        "link": "https://www.socialvalue.kr/news/view/1065571670881849"
-    },
-    {
-        "title": "LG디스플레이, 美 SID서 AI 시대 겨냥 차세대 OLED 기술 공개",
-        "date": "2026-05-05 10:06",
-        "link": "https://www.socialvalue.kr/news/view/1065570957023423"
-    },
-    {
-        "title": "OLED 기술력 뽐낸다… 삼성D·LGD, 美 SID서 차세대 디스플레이 패권 경...",
-        "date": "2026-05-05 10:04",
-        "link": "https://www.ajunews.com/view/20260505095622817"
-    },
-    {
-        "title": "삼성D·LGD, 美 '디스플레이 위크' 출격…차세대 OLED 선보인다(종합)",
-        "date": "2026-05-05 10:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273409?sid=101"
-    },
-    {
-        "title": "혈압 재는 OLED·궁극의 QD…삼성D, 혁신 기술 선보인다",
-        "date": "2026-05-05 10:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273407?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 수명 두배 늘린 3세대 탠덤 OLED 최초 공개",
-        "date": "2026-05-05 10:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273408?sid=101"
-    },
-    {
-        "title": "'BT.2020 96%'…삼성D, 美 SID서 초광색역 OLED 등 신기술 열전",
-        "date": "2026-05-05 10:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003424231?sid=105"
-    },
-    {
-        "title": "'3세대 탠덤 OLED' LGD, 美 SID서 차세대 디스플레이 신기술 전시",
-        "date": "2026-05-05 10:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003424230?sid=105"
-    },
-    {
-        "title": "[Tech &amp; Now] LG전자, 글로벌 ESG 평가서 '최상위'…지속가능 경영 리더십...",
-        "date": "2026-05-05 10:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1707584"
-    },
-    {
-        "title": "삼성D·LGD, 세계 최대 디스플레이 전시회서 '미래 OLED' 선보여",
-        "date": "2026-05-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0016058637?sid=101"
-    },
-    {
-        "title": "“전력↓·수명↑”…LGD, 美 SID서 3세대 탠덤 OLED 공개",
-        "date": "2026-05-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003025008?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, ‘SID 2026’서 3000니트 OLED 공개…차세대 기술 총출...",
-        "date": "2026-05-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003025007?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 美 SID서 차세대 혁신 기술 대거 공개…초격차 뽐낸다",
-        "date": "2026-05-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008926627?sid=101"
-    },
-    {
-        "title": "접는 아이폰·만지는 맥북…애플 '울트라 생태계'로 판 바꾼다",
-        "date": "2026-05-05 10:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013925919?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 3세대 탠덤 OLED 최초 공개… AI 시대 초격차 기술로 승...",
-        "date": "2026-05-05 10:00",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=268956"
-    },
-    {
-        "title": "덕산네오룩스, 유기발광 소재 넘어 비발광 소재까지 사업 영역 확대 박...",
-        "date": "2026-05-05 09:06",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=450490"
-    },
-    {
-        "title": "'5월의 인사' TV 수장 전격 교체한 삼성전자, '군살 빼기' 더 속도 내나",
-        "date": "2026-05-05 08:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013925819?sid=101"
-    },
-    {
-        "title": "LG 구광모, 전자 빅3 합산매출 35조…'체질 개선' 결실",
-        "date": "2026-05-05 07:10",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017436"
-    },
-    {
-        "title": "애플 CEO 물러나는 팀 쿡의 그림자 [유레카]",
-        "date": "2026-05-05 07:02",
-        "link": "https://n.news.naver.com/mnews/article/028/0002803688?sid=110"
-    },
-    {
-        "title": "포켓몬이냐 아이폰이냐…어린이날 '동심' 잡는 스마트폰 대격돌",
-        "date": "2026-05-05 07:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013925783?sid=105"
     }
 ]
