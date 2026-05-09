@@ -1,5 +1,30 @@
 [
     {
+        "title": "걸음 느려졌다면 청력 둔화 의심해야 애플·미시간대 공동 연구",
+        "date": "2026-05-10 04:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005519169?sid=104"
+    },
+    {
+        "title": "인텔, '애플 칩' 제조한다… 트럼프 행정부 지원 결실",
+        "date": "2026-05-09 21:44",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210297"
+    },
+    {
+        "title": "갤럭시 '1등'이라더니…심상치 않은 삼성 내부 상황",
+        "date": "2026-05-09 19:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005284963?sid=105"
+    },
+    {
+        "title": "스마트워치 OLED 채택 확대…LG디스플레이 수혜 기대",
+        "date": "2026-05-09 17:48",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=869735"
+    },
+    {
+        "title": "과거의 성공이 미래의 족쇄됐다…자만했던 휴대폰 황제 '노키아'의 이...",
+        "date": "2026-05-09 17:19",
+        "link": "https://n.news.naver.com/mnews/article/022/0004126913?sid=105"
+    },
+    {
         "title": "애플, 인텔에 칩 생산 맡긴다…트럼프 행정부, 협력 설득",
         "date": "2026-05-09 14:41",
         "link": "https://n.news.naver.com/mnews/article/031/0001027454?sid=105"
@@ -30,7 +55,7 @@
         "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=720228"
     },
     {
-        "title": "인텔 파운드리, 애플·엔비디아·스페이스X ‘빅3’ 잡았다…‘미국 제...",
+        "title": "‘미국 제조’ 부활 신호탄…인텔 파운드리, 애플·엔비디아·스페이스...",
         "date": "2026-05-09 10:43",
         "link": "https://n.news.naver.com/mnews/article/138/0002227310?sid=105"
     },
@@ -85,353 +110,8 @@
         "link": "https://n.news.naver.com/mnews/article/028/0002804327?sid=103"
     },
     {
-        "title": "애플, 인텔서 칩 생산 예비합의…트럼프 행정부 물밑 지원",
-        "date": "2026-05-09 07:50",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=204388"
-    },
-    {
         "title": "시그마인텔 中패널업체, 삼성 갤럭시S 일반형 OLED 공급 노린다",
         "date": "2026-05-09 07:01",
         "link": "https://n.news.naver.com/mnews/article/092/0002421966?sid=105"
-    },
-    {
-        "title": "애플, 인텔서 칩 생산 예비합의…트럼프 행정부 물밑 지원",
-        "date": "2026-05-09 06:12",
-        "link": "https://n.news.naver.com/mnews/article/374/0000509045?sid=104"
-    },
-    {
-        "title": "[인터뷰] ‘창립 50주년’ 애플에 등장한 공동 창업자… 로널드 웨인 “...",
-        "date": "2026-05-09 06:01",
-        "link": "https://n.news.naver.com/mnews/article/366/0001162949?sid=105"
-    },
-    {
-        "title": "“인텔, 애플과 파운드리 계약 초기 합의…트럼프 영향 커”",
-        "date": "2026-05-09 05:00",
-        "link": "https://n.news.naver.com/mnews/article/018/0006276510?sid=101"
-    },
-    {
-        "title": "“애플, 인텔서 자체 설계 칩 생산 예비합의”",
-        "date": "2026-05-09 04:31",
-        "link": "https://n.news.naver.com/mnews/article/056/0012177846?sid=104"
-    },
-    {
-        "title": "애플, 인텔서 칩 생산 예비합의…트럼프 행정부 물밑 지원",
-        "date": "2026-05-09 04:04",
-        "link": "https://n.news.naver.com/mnews/article/001/0016066825?sid=104"
-    },
-    {
-        "title": "접는폰 시장 지각변동 올까…'갤Z폴드와이드·아이폰폴드' 출격 대기",
-        "date": "2026-05-09 00:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000497730?sid=105"
-    },
-    {
-        "title": "차세대 에어팟 신박한 기능...애플, 파격적 승부수 [지금이뉴스]",
-        "date": "2026-05-08 18:44",
-        "link": "https://n.news.naver.com/mnews/article/052/0002350546?sid=104"
-    },
-    {
-        "title": "삼성에 소송 걸던 애플이 SOS?…뒤처진 AI에 칩 생산도 '난항'",
-        "date": "2026-05-08 17:44",
-        "link": "https://news.mtn.co.kr/news-detail/2026050816373866598"
-    },
-    {
-        "title": "삼성D 특허침해금지·부당이득반환해야 vs. 톱텍 작년 선고와 중복",
-        "date": "2026-05-08 17:40",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421942?sid=105"
-    },
-    {
-        "title": "중국 TCL, 광저우 t9 법인 100% 확보…LCD 사업 넓힌다",
-        "date": "2026-05-08 17:36",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=56235"
-    },
-    {
-        "title": "애플 '앱개발 올림픽' 톱50 꼽힌 카이스트생",
-        "date": "2026-05-08 17:32",
-        "link": "https://n.news.naver.com/mnews/article/009/0005677228?sid=105"
-    },
-    {
-        "title": "애플, AI 허위광고 논란에 이례적 반박… 공정위 조사 변수 되나",
-        "date": "2026-05-08 17:05",
-        "link": "https://n.news.naver.com/mnews/article/366/0001162887?sid=105"
-    },
-    {
-        "title": "[사이다] ② 전자소자 롤러로 찍어서 옮기는 기술 개발",
-        "date": "2026-05-08 16:56",
-        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=0047&key=202605081601366585"
-    },
-    {
-        "title": "삼성 파운드리 차기 아이폰용 AP 생산하나, 1.4나노 공정 기술력에 애플...",
-        "date": "2026-05-08 16:54",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437376"
-    },
-    {
-        "title": "[위클리 IT뷰] 애플-에픽 수수료 분쟁과 업스테이지의 다음 인수 임박",
-        "date": "2026-05-08 16:46",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57769"
-    },
-    {
-        "title": "스마트폰 빈자리 메우는 노트북·차량용 OLED… 삼성·LG디스플레이, 고...",
-        "date": "2026-05-08 16:36",
-        "link": "https://n.news.naver.com/mnews/article/366/0001162867?sid=105"
-    },
-    {
-        "title": "애플의 첫 AI 기기는 '카메라 탑재' 에어팟...막바지 테스트 중",
-        "date": "2026-05-08 16:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=210235"
-    },
-    {
-        "title": "귀에 '눈' 단 에어팟…애플, AI 시대 승부수 던졌다",
-        "date": "2026-05-08 16:00",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=295386"
-    },
-    {
-        "title": "앤디포스, 프리미엄 브랜드 '지벤트' 앞세워 국내 윈도우 필름 시장 정...",
-        "date": "2026-05-08 15:52",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451390"
-    },
-    {
-        "title": "삼성 '홀로그램 디스플레이' 개발설…애플 공간형 아이폰과 맞붙나",
-        "date": "2026-05-08 15:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=663918"
-    },
-    {
-        "title": "퀄컴, 스냅드래곤 6 Gen 5·4 Gen 5 발표…중급기 AI·게이밍 강화",
-        "date": "2026-05-08 15:50",
-        "link": "https://news.appstory.co.kr/daily19064"
-    },
-    {
-        "title": "애플, '공간형 아이폰' 검토설 재점화.. 삼성 홀로그래픽 패널 적용 가능...",
-        "date": "2026-05-08 15:40",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=129722"
-    },
-    {
-        "title": "AP시스템, 1분기 매출 1961억원…전년비 60% 증가",
-        "date": "2026-05-08 15:40",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=56244"
-    },
-    {
-        "title": "LCD 수랭 시스템 탑재 하이엔드 PC, '몬스타PC 터치미' 리뉴얼",
-        "date": "2026-05-08 15:18",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59265"
-    },
-    {
-        "title": "미국에 3600억 퍼준 애플…'한국 홀대' 논란에 입 열었다",
-        "date": "2026-05-08 15:04",
-        "link": "https://n.news.naver.com/mnews/article/015/0005284620?sid=105"
-    },
-    {
-        "title": "램 부족에 원가 상승 압박…애플 '맥북 네오' 기본형 사라지나",
-        "date": "2026-05-08 15:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=663836"
-    },
-    {
-        "title": "애플 맥은 왜 해킹에 강할까…실리콘부터 앱 배포까지 겹겹이 막는다",
-        "date": "2026-05-08 15:00",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=151691"
-    },
-    {
-        "title": "애플, 카메라 내장 에어팟 프로 개발 막바지? “고급 테스트 단계 진입...",
-        "date": "2026-05-08 14:58",
-        "link": "https://news.appstory.co.kr/daily19063"
-    },
-    {
-        "title": "‘시리의 눈’ 되는 에어팟… 애플, 카메라 무선이어폰으로 AI 기기 경쟁...",
-        "date": "2026-05-08 14:43",
-        "link": "https://n.news.naver.com/mnews/article/366/0001162803?sid=105"
-    },
-    {
-        "title": "악기 없이 비올라 연습…애플이 주목한 KAIST 학생",
-        "date": "2026-05-08 14:31",
-        "link": "https://n.news.naver.com/mnews/article/009/0005677102?sid=105"
-    },
-    {
-        "title": "한국 호구 아니다…애플, 'AI 허위광고' 비판에 이례적 정면 반박",
-        "date": "2026-05-08 14:26",
-        "link": "https://n.news.naver.com/mnews/article/003/0013933550?sid=105"
-    },
-    {
-        "title": "AP시스템, 올해 1분기 영업익 180억원…전년비 135.4% 증가",
-        "date": "2026-05-08 14:22",
-        "link": "https://www.newspim.com/news/view/20260508000952"
-    },
-    {
-        "title": "카메라 달린 에어팟 나온다...“애플 최종 테스트 중”",
-        "date": "2026-05-08 14:02",
-        "link": "https://www.etoday.co.kr/news/view/2582736"
-    },
-    {
-        "title": "해성옵틱스, 스마트폰용 OIS 사업 '날개'… 신성장 동력 확보 박차",
-        "date": "2026-05-08 14:00",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451341"
-    },
-    {
-        "title": "출하량 줄어도 더 비싸게 판다…애플·삼성 '프리미엄 경쟁' 격화",
-        "date": "2026-05-08 13:44",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001807"
-    },
-    {
-        "title": "애플, 호실적 속 메모리 비용부담 커져...AI로 '최고가 행진' 이어갈까",
-        "date": "2026-05-08 13:32",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138084"
-    },
-    {
-        "title": "[공멸위기 자초 삼전노조②] 외신도 경고한 총파업...AI 반도체 공급망...",
-        "date": "2026-05-08 13:22",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=517876"
-    },
-    {
-        "title": "안경 없이 3D?…애플 ‘공간 아이폰’ 내놓을까",
-        "date": "2026-05-08 13:19",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421870?sid=105"
-    },
-    {
-        "title": "에스라이즈, 2026 NEW ASUS 게이밍 노트북 TUF A14 쿠팡 사전 예판 진행",
-        "date": "2026-05-08 12:50",
-        "link": "https://kbench.com/?q=node/278550"
-    },
-    {
-        "title": "귀에 달린 AI 카메라…애플, 차세대 에어팟으로 승부수",
-        "date": "2026-05-08 12:00",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543899"
-    },
-    {
-        "title": "눈 달린 에어팟 곧 온다…애플, AI 카메라 탑재 에어팟 개발 막바지",
-        "date": "2026-05-08 11:15",
-        "link": "https://n.news.naver.com/mnews/article/003/0013933014?sid=105"
-    },
-    {
-        "title": "‘눈 달린 에어팟’ 베일 벗나…애플, AI 시각 지능 탑재해 하반기 출격",
-        "date": "2026-05-08 10:59",
-        "link": "https://n.news.naver.com/mnews/article/666/0000106210?sid=104"
-    },
-    {
-        "title": "삼성전자, 1Q 스마트폰 시장서 매출·출하량 2위…애플 매출 22% 성장",
-        "date": "2026-05-08 10:50",
-        "link": "https://n.news.naver.com/mnews/article/374/0000508899?sid=101"
-    },
-    {
-        "title": "삼성, 5월 갤S26 생산계획 확대...'울트라 중심' 실적 방어 총력",
-        "date": "2026-05-08 10:49",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421856?sid=105"
-    },
-    {
-        "title": "[#게임스테이션] 티쓰리 '실적'·'서든어택 챔피언십' 개막·'블소 레볼...",
-        "date": "2026-05-08 10:42",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=840142"
-    },
-    {
-        "title": "中 HKC, OLED 신규 투자 준비 한창…6세대 노컷 증착 신기술 도입",
-        "date": "2026-05-08 10:29",
-        "link": "https://n.news.naver.com/mnews/article/030/0003425389?sid=105"
-    },
-    {
-        "title": "애플, 카메라 내장 에어팟 완성 단계…음성비서 시리 눈 역할",
-        "date": "2026-05-08 10:26",
-        "link": "https://n.news.naver.com/mnews/article/018/0006275638?sid=105"
-    },
-    {
-        "title": "애플이 드디어…'눈 달린' 에어팟 출격 예고",
-        "date": "2026-05-08 10:24",
-        "link": "https://n.news.naver.com/mnews/article/215/0001251441?sid=105"
-    },
-    {
-        "title": "시리의 '눈'이 된 에어팟...애플, 카메라 탑재 AI 이어폰 출시 임박",
-        "date": "2026-05-08 10:21",
-        "link": "https://n.news.naver.com/mnews/article/052/0002350302?sid=104"
-    },
-    {
-        "title": "'눈 달린 에어팟' 나오나…애플, 최종 테스트 중",
-        "date": "2026-05-08 10:18",
-        "link": "https://n.news.naver.com/mnews/article/055/0001354491?sid=104"
-    },
-    {
-        "title": "넵튠, '앵커패닉' 역주행 성공···구글 1위·애플 2위 달성",
-        "date": "2026-05-08 09:58",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2427310"
-    },
-    {
-        "title": "시리에 눈 달린다…애플, 카메라 탑재 에어팟 개발 막바지",
-        "date": "2026-05-08 09:57",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421835?sid=105"
-    },
-    {
-        "title": "눈 달린 에어팟…애플, 최종 테스트 중",
-        "date": "2026-05-08 09:57",
-        "link": "https://n.news.naver.com/mnews/article/001/0016065170?sid=104"
-    },
-    {
-        "title": "넵튠 수집형 RPG ‘앵커패닉’, 약 1년 만 구글 1위·애플 2위 달성",
-        "date": "2026-05-08 09:46",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573700114143"
-    },
-    {
-        "title": "애플, 30년 만에 ‘R&amp;D 10% 시대’...아이폰 이후 가장 큰 전환점",
-        "date": "2026-05-08 09:23",
-        "link": "https://n.news.naver.com/mnews/article/018/0006275560?sid=105"
-    },
-    {
-        "title": "맥북 네오 '대박'에 비상 걸린 애플…칩 재고 떨어져 500만대 추가 생산",
-        "date": "2026-05-08 09:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=663674"
-    },
-    {
-        "title": "애플, 삼성과 손잡고 '홀로그래픽 아이폰' 도전",
-        "date": "2026-05-08 09:20",
-        "link": "https://n.news.naver.com/mnews/article/138/0002227192?sid=105"
-    },
-    {
-        "title": "삼성, 1분기 스마트폰 점유율 22%로 1위. 6,540만대 출하",
-        "date": "2026-05-08 08:58",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543888"
-    },
-    {
-        "title": "챗GPT 독점 끝…애플, 올가을부터 'AI 골라 쓰기' 도입",
-        "date": "2026-05-08 08:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=663655"
-    },
-    {
-        "title": "애플, 인도 친환경 사업 확대…재생에너지 인프라에 155억 투입",
-        "date": "2026-05-08 08:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=663649"
-    },
-    {
-        "title": "에어팟, 눈을 뜬다…애플, 시리 연동 카메라 내장 개발 막바지",
-        "date": "2026-05-08 08:50",
-        "link": "https://n.news.naver.com/mnews/article/138/0002227186?sid=105"
-    },
-    {
-        "title": "삼성전자 성과급 논란…45조 뒤에 숨은 300조를 찾아라[오민규의 인사이...",
-        "date": "2026-05-08 08:30",
-        "link": "https://n.news.naver.com/mnews/article/002/0002440640?sid=101"
-    },
-    {
-        "title": "맥북 네오 인기 폭발…애플, A18 프로 칩 추가 주문 검토",
-        "date": "2026-05-08 08:25",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421811?sid=105"
-    },
-    {
-        "title": "[AI의 종목 이야기] 애플, 카메라 에어팟 양산 임박...테스트 막바지",
-        "date": "2026-05-08 08:07",
-        "link": "https://www.newspim.com/news/view/20260508000073"
-    },
-    {
-        "title": "애플 '아이맥' OLED 공급전…앞서는 삼성D vs LGD '추격'",
-        "date": "2026-05-08 08:02",
-        "link": "https://dealsite.co.kr/articles/161360"
-    },
-    {
-        "title": "에어팟에 카메라 탑재… 애플, 9월 ‘시각 지능’ 승부수 던진다",
-        "date": "2026-05-08 07:20",
-        "link": "https://www.g-enews.com/view.php?ud=202605080717298070fbbec65dfb_1"
-    },
-    {
-        "title": "삼성D·LGD, 스마트폰 OLED 출하량 고공행진…“프리미엄으로 초격차 굳...",
-        "date": "2026-05-08 07:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2026050717180653502"
-    },
-    {
-        "title": "애플, 삼성전자에 칩 생산 타진… TSMC 의존 탈피 의도",
-        "date": "2026-05-08 07:02",
-        "link": "https://n.news.naver.com/mnews/article/037/0000038115?sid=101"
     }
 ]
