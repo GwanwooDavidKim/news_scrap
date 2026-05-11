@@ -1,5 +1,275 @@
 [
     {
+        "title": "이재용 삼성 회장, '슈퍼사이클' 타고 10년 만에 애플 AP 수주하나",
+        "date": "2026-05-11 15:54",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=246160"
+    },
+    {
+        "title": "삼성, 7월 런던서 폴더블·AI 글래스 동시 출격하나",
+        "date": "2026-05-11 15:52",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=59187"
+    },
+    {
+        "title": "대만 경제전문가 애플·인텔 칩 생산 합의에 TSMC 위기감 고조",
+        "date": "2026-05-11 15:50",
+        "link": "https://n.news.naver.com/mnews/article/001/0016070130?sid=104"
+    },
+    {
+        "title": "삼성, 7월 폴더블 신작 공개 전망…AI 글래스도 관심",
+        "date": "2026-05-11 15:47",
+        "link": "https://n.news.naver.com/mnews/article/001/0016070119?sid=105"
+    },
+    {
+        "title": "벤큐, 500Hz 초고사율 지원하는 OLED 게이밍 모니터 'MOBIUZ OLED' 3종 출시",
+        "date": "2026-05-11 15:40",
+        "link": "https://www.cnet.co.kr/view/?no=20260511153616"
+    },
+    {
+        "title": "유리 덩어리 같은 아이폰?…‘존 터너스 체제’ 애플, 20주년 비밀 무기...",
+        "date": "2026-05-11 15:40",
+        "link": "https://n.news.naver.com/mnews/article/009/0005678191?sid=101"
+    },
+    {
+        "title": "우리이앤엘하루틴, 미니·마이크로LED 특허 확보",
+        "date": "2026-05-11 15:38",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=838050"
+    },
+    {
+        "title": "OLED 슈퍼사이클 오나…한울반도체 상한가·주성엔지니어링 주가 훨훨",
+        "date": "2026-05-11 15:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451849"
+    },
+    {
+        "title": "레노버 게이밍폰 '리전 Y70(2026)' 스냅드래곤 8 5세대 탑재하고 긱벤치...",
+        "date": "2026-05-11 15:18",
+        "link": "https://kbench.com/?q=node/278601"
+    },
+    {
+        "title": "‘애플 쫒아온다’...삼성, 국내외 갤럭시 프로모션 잇따라",
+        "date": "2026-05-11 15:07",
+        "link": "https://n.news.naver.com/mnews/article/023/0003975770?sid=105"
+    },
+    {
+        "title": "아이패드, 안드로이드 아니라 '구형'이 최대 경쟁자 된 이유",
+        "date": "2026-05-11 15:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664510"
+    },
+    {
+        "title": "부품에서 헬스케어·전장까지…이엠텍, 고부가 제품군으로 실적 우상향",
+        "date": "2026-05-11 14:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451820"
+    },
+    {
+        "title": "삼성이 깔아놓은 판에 애플도 뛰어든다…폴더블폰 '진검승부' 예고",
+        "date": "2026-05-11 14:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005285363?sid=105"
+    },
+    {
+        "title": "'와이드형 폴드' 뜬다…화웨이 흥행에 새 폼팩터 경쟁 점화",
+        "date": "2026-05-11 14:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003426173?sid=105"
+    },
+    {
+        "title": "벤큐, 500Hz 초고주사율 지원 ‘모비우스 OLED’ 게이밍 모니터 3종 출시...",
+        "date": "2026-05-11 14:08",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227420?sid=105"
+    },
+    {
+        "title": "기가바이트, ‘빅스마일데이’서 게이밍 노트북 ‘게이밍 A16 3VH’ 프로...",
+        "date": "2026-05-11 14:06",
+        "link": "https://kbench.com/?q=node/278599"
+    },
+    {
+        "title": "애플, 인텔과 칩 생산 잠정 합의…TSMC 독주에 균열",
+        "date": "2026-05-11 14:00",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=101452"
+    },
+    {
+        "title": "벤큐, 최대 500Hz 지원하는 모비우스 OLED 게이밍 모니터 3종 출시",
+        "date": "2026-05-11 13:55",
+        "link": "https://m.sports.naver.com/esports/article/442/0000192296"
+    },
+    {
+        "title": "벤큐, 최대 500Hz 지원하는 모비우스 OLED 게이밍 모니터 3종 출시",
+        "date": "2026-05-11 13:14",
+        "link": "https://kbench.com/?q=node/278595"
+    },
+    {
+        "title": "ALD 원조 강자 주성엔지니어링, '반도체·태양광' 쌍끌이로 퀀텀점프 예...",
+        "date": "2026-05-11 13:02",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451791"
+    },
+    {
+        "title": "韓 지난해 중소형 OLED 점유율 64%…中 경쟁 시작 후 첫 반등",
+        "date": "2026-05-11 13:00",
+        "link": "https://n.news.naver.com/mnews/article/030/0003426091?sid=105"
+    },
+    {
+        "title": "진짜 파업하나 삼성에 전화한 애플·HP... 고객사·협력사·직원 모두...",
+        "date": "2026-05-11 12:46",
+        "link": "https://n.news.naver.com/mnews/article/469/0000930039?sid=105"
+    },
+    {
+        "title": "눈 달린 에어팟 출시되나... 애플, AI 카메라 탑재 에어팟 테스트 막바...",
+        "date": "2026-05-11 12:46",
+        "link": "https://www.insight.co.kr/news/553508"
+    },
+    {
+        "title": "여권이야 폰이야? 애플이 준비 중인 '뭉툭한 폴더블폰'의 비밀",
+        "date": "2026-05-11 12:24",
+        "link": "https://n.news.naver.com/mnews/article/665/0000007356?sid=105"
+    },
+    {
+        "title": "애플, ‘iOS 26.5’ 정식 버전 출시 앞서 RC 2 버전 공개",
+        "date": "2026-05-11 12:08",
+        "link": "https://kbench.com/?q=node/278585"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장, '무베젤·폴더블 OLED'로 中 추격 대응",
+        "date": "2026-05-11 11:18",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41142"
+    },
+    {
+        "title": "저가 공세에도… 삼성D·LGD, 중국과 '초격차' 시동",
+        "date": "2026-05-11 11:14",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=720309"
+    },
+    {
+        "title": "'기동카' 애플페이 태운다",
+        "date": "2026-05-11 11:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003426040?sid=105"
+    },
+    {
+        "title": "LG전자 OLED 모니터, 현대 N 레이싱 시뮬레이터에 탑재",
+        "date": "2026-05-11 10:48",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56316"
+    },
+    {
+        "title": "[산업계 동향] 삼성전자ㆍLG전자(5.11)",
+        "date": "2026-05-11 10:42",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=774890"
+    },
+    {
+        "title": "200PPI 스트레처블 공개…삼성디스플레이, 차세대 웨어러블 인터페이...",
+        "date": "2026-05-11 10:18",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=98355"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S26 흥행 이어간다…패밀리 페스타 기간 연장",
+        "date": "2026-05-11 10:14",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201906"
+    },
+    {
+        "title": "일론 머스크·애플 끌어온 인텔…490% 폭등 뒤 숨겨진 '불안'",
+        "date": "2026-05-11 09:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664387"
+    },
+    {
+        "title": "스마트폰 점유율 '세계 1위' 삼성전자, '갤럭시 S26 패밀리 페스타' 혜택...",
+        "date": "2026-05-11 09:50",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138170"
+    },
+    {
+        "title": "삼성전자, 인도 스마트폰 시장 1분기 17%로 2위",
+        "date": "2026-05-11 09:48",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=76236"
+    },
+    {
+        "title": "우리이앤엘하루틴 미니·마이크로LED 핵심 구동 기술 확보",
+        "date": "2026-05-11 09:32",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=401588"
+    },
+    {
+        "title": "우리이앤엘하루틴, 미니·마이크로LED 기술로 북미 공략",
+        "date": "2026-05-11 09:27",
+        "link": "https://n.news.naver.com/mnews/article/018/0006278174?sid=101"
+    },
+    {
+        "title": "천원 벌면 400원 구글·애플에…넷마블, 올해 수수료 30% 벽 깬다",
+        "date": "2026-05-11 09:26",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026050718382259252"
+    },
+    {
+        "title": "차이나스타, 6조 장비 발주 돌입…디엠에스 등 수혜 예상",
+        "date": "2026-05-11 09:23",
+        "link": "https://n.news.naver.com/mnews/article/014/0005519518?sid=101"
+    },
+    {
+        "title": "삼성 첫 와이드 폴더블폰 '갤럭시Z 폴드8 와이드' 케이스, 中 알리바바에...",
+        "date": "2026-05-11 09:20",
+        "link": "https://kbench.com/?q=node/278568"
+    },
+    {
+        "title": "마이크로소프트 “가짜 맥OS 해결 글로 암호화폐 지갑 탈취 악성코드 유...",
+        "date": "2026-05-11 09:10",
+        "link": "https://www.tokenpost.kr/news/breaking/358256"
+    },
+    {
+        "title": "LG전자 OLED 모니터, 현대차 '레이싱 시뮬레이터'에 탑재",
+        "date": "2026-05-11 09:08",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=202913"
+    },
+    {
+        "title": "[IT마니아 Pick&amp;play-AR 글래스] 3D의 부활? AR 글래스로 3D 영상 감상하...",
+        "date": "2026-05-11 09:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59173"
+    },
+    {
+        "title": "가독성 문제 손본다…애플, 맥OS 27 디자인 개선 추진",
+        "date": "2026-05-11 08:53",
+        "link": "https://n.news.naver.com/mnews/article/092/0002422038?sid=105"
+    },
+    {
+        "title": "애플-인텔 미국 칩 제조 협력, 예비 합의 체결",
+        "date": "2026-05-11 08:46",
+        "link": "https://www.itworld.co.kr/article/4169138/애플-인텔-미국-칩-제조-협력-예비-합의-체결.html"
+    },
+    {
+        "title": "5월 8일 주식시장 주요공시",
+        "date": "2026-05-11 08:45",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123657"
+    },
+    {
+        "title": "애플, ‘비전 프로’ 전담 조직 해체…헤드셋 대신 '카메라 에어팟'에 ...",
+        "date": "2026-05-11 08:33",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227362?sid=105"
+    },
+    {
+        "title": "LG전자, 현대차에 OLED 모니터 공급…'레이싱 시뮬레이터' 정조준",
+        "date": "2026-05-11 08:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006278077?sid=101"
+    },
+    {
+        "title": "BofA 애플, 실적 발표 후 상승 여력 충분",
+        "date": "2026-05-11 08:32",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414000"
+    },
+    {
+        "title": "[Tech &amp; Now] LG 올레드 모니터, 현대차 레이싱 시뮬레이터 탑재 등",
+        "date": "2026-05-11 08:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1708177"
+    },
+    {
+        "title": "LCD 맥에선 안 읽힌다…애플, 맥OS 27서 '타호' 디자인 결함 수정 착수",
+        "date": "2026-05-11 08:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227360?sid=105"
+    },
+    {
+        "title": "애플 iOS 27 사파리, AI가 탭 자동 정리…브라우징 혁신 예고",
+        "date": "2026-05-11 07:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543927"
+    },
+    {
+        "title": "애플의 TSMC 의존도 낮추기...삼성에 이어 인텔과도 협력설",
+        "date": "2026-05-11 07:16",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56312"
+    },
+    {
+        "title": "美 Z세대 아이폰만 쓰더라...삼성 팬사이트 운영자가 꼽은 이유는 [1일...",
+        "date": "2026-05-11 07:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005519455?sid=105"
+    },
+    {
         "title": "아이폰20 ‘4면 곡면’ 전망에 안드로이드 진영 ‘긴장 모드’",
         "date": "2026-05-11 06:00",
         "link": "https://www.g-enews.com/view.php?ud=2026051020311364529a1f309431_1"
