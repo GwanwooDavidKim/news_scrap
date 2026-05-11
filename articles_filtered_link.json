@@ -1,5 +1,260 @@
 [
     {
+        "title": "게임도 OLED로, 삼성·LG '모니터 대결'",
+        "date": "2026-05-12 04:03",
+        "link": "https://n.news.naver.com/mnews/article/008/0005356015?sid=101"
+    },
+    {
+        "title": "Chinese TCL Races Samsung in 8.6-Gen OLED Push",
+        "date": "2026-05-12 01:06",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=269241"
+    },
+    {
+        "title": "폰 1위인데 탭은 역성장… 삼성, ‘고급화’로 활로 모색",
+        "date": "2026-05-12 00:43",
+        "link": "https://n.news.naver.com/mnews/article/005/0001848353?sid=101"
+    },
+    {
+        "title": "우리이앤엘하루틴, 북미 고객 제품에 마이크로 LED 구동 특허 적용",
+        "date": "2026-05-12 00:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002422220?sid=105"
+    },
+    {
+        "title": "“글로벌 1위 지켜라” 삼성 갤럭시 국내외 할인 마케팅",
+        "date": "2026-05-12 00:34",
+        "link": "https://n.news.naver.com/mnews/article/023/0003975840?sid=105"
+    },
+    {
+        "title": "[신(新)인물탐구(31)] 한화그룹 김동관 부회장③ 경영 철학 - 산업 질서...",
+        "date": "2026-05-12 00:32",
+        "link": "https://www.news2day.co.kr/article/20260511500099"
+    },
+    {
+        "title": "애플·인텔 '칩 생산 합의'… TSMC 애플 독점 시대 끝날까",
+        "date": "2026-05-11 21:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=838110"
+    },
+    {
+        "title": "애플, 인텔과의 칩 생산 협력 검토…TSMC와의 독점 시대 끝나나",
+        "date": "2026-05-11 21:20",
+        "link": "https://www.tokenpost.kr/news/tech/358458"
+    },
+    {
+        "title": "삼성, 갤럭시의 상징 포기하나… 중국산 OLED 탑재 가능성",
+        "date": "2026-05-11 21:18",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=87991"
+    },
+    {
+        "title": "잘나가는 삼성에도 ‘아픈 손가락’ 있다",
+        "date": "2026-05-11 21:01",
+        "link": "https://n.news.naver.com/mnews/article/024/0000105488?sid=101"
+    },
+    {
+        "title": "삼성전자, 2026년 폴더블 스마트폰 전쟁 포문... 애플과 맞대결 예고",
+        "date": "2026-05-11 20:40",
+        "link": "https://www.tokenpost.kr/news/tech/358444"
+    },
+    {
+        "title": "삼전 노사 사후조정 첫날 입장차 여전‥애플은 '대응전략' 문의",
+        "date": "2026-05-11 20:05",
+        "link": "https://n.news.naver.com/mnews/article/214/0001498212?sid=102"
+    },
+    {
+        "title": "삼성, 7월 런던서 '폴드8' 공개 전망…AI 글래스도 등판하나",
+        "date": "2026-05-11 18:43",
+        "link": "https://n.news.naver.com/mnews/article/031/0001027854?sid=105"
+    },
+    {
+        "title": "'이 기능 추가됐다고?' 삼성 원UI 8.5 업데이트 해야하는 이유",
+        "date": "2026-05-11 18:42",
+        "link": "https://www.betanews.net/article/view/beta202605110091"
+    },
+    {
+        "title": "애플도 脫TSMC?… '美 지원' 인텔 파운드리에 자체 칩 설계 맡기나",
+        "date": "2026-05-11 18:30",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=303994"
+    },
+    {
+        "title": "미국선 3600억 합의,한국은 조사 지지부진...애플 AI 광고 논란 쟁점은...",
+        "date": "2026-05-11 18:20",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=229647"
+    },
+    {
+        "title": "AI폴더블폰 경쟁력 입증… 삼성, 中점유율 끌어올린다",
+        "date": "2026-05-11 18:19",
+        "link": "https://n.news.naver.com/mnews/article/014/0005519940?sid=105"
+    },
+    {
+        "title": "중국發 디스플레이 투자 훈풍… 국내 장비기업 살아난다",
+        "date": "2026-05-11 18:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005519928?sid=101"
+    },
+    {
+        "title": "벤큐, 500Hz 4K QD-OLED 모비우스 공개",
+        "date": "2026-05-11 18:10",
+        "link": "http://www.technoa.co.kr/news/articleView.html?idxno=100896"
+    },
+    {
+        "title": "中 TCL, 8.6세대 OLED ‘속도전’… 삼성D 턱밑 추격",
+        "date": "2026-05-11 18:04",
+        "link": "https://n.news.naver.com/mnews/article/029/0003026067?sid=101"
+    },
+    {
+        "title": "삼성, 7월 ‘갤Z폴드·플립8’ 공개할 듯…AI안경도 나올까",
+        "date": "2026-05-11 18:03",
+        "link": "https://n.news.naver.com/mnews/article/029/0003026061?sid=105"
+    },
+    {
+        "title": "애플도 삼성 2나노에 '노크'··· 美 테일러팹 앞세워 파운드리 재편 가...",
+        "date": "2026-05-11 18:02",
+        "link": "https://www.ajunews.com/view/20260511152748329"
+    },
+    {
+        "title": "[단독] '아이폰은 나가있어'…세계 최강 미군이 삼성폰만 찾는 이유",
+        "date": "2026-05-11 17:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005285530?sid=101"
+    },
+    {
+        "title": "에이서, 지마켓 빅스마일데이서 게이밍·AI 노트북 최대 36% 할인",
+        "date": "2026-05-11 17:40",
+        "link": "https://kbench.com/?q=node/278609"
+    },
+    {
+        "title": "애플-인텔, 차세대 맥북 네오 칩(A21) 개발하나",
+        "date": "2026-05-11 17:34",
+        "link": "https://kbench.com/?q=node/278607"
+    },
+    {
+        "title": "中 HKC 신기술 도입에 한국 장비사 부담↑",
+        "date": "2026-05-11 17:32",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56321"
+    },
+    {
+        "title": "삼성전자, 7월 런던서 '갤럭시 Z 시리즈' 공개 전망",
+        "date": "2026-05-11 17:22",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1365854"
+    },
+    {
+        "title": "삼성전자, 7월 런던서 차기 폴더블 선봬…'폴드 와이드' 공개하나",
+        "date": "2026-05-11 17:13",
+        "link": "https://www.newspim.com/news/view/20260511001249"
+    },
+    {
+        "title": "삼성, 비용 절감위해 ‘갤럭시S27’ 기본 모델에 中 BOE 패널 탑재설",
+        "date": "2026-05-11 17:10",
+        "link": "https://kbench.com/?q=node/278606"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S26 패밀리 페스타' 연장···추가 보상·혜택 확대",
+        "date": "2026-05-11 17:04",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=254238"
+    },
+    {
+        "title": "애플망고·우지 말차·시칠리아 토마토까지… 파라다이스, 여름 빙수 라...",
+        "date": "2026-05-11 17:04",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599865875119"
+    },
+    {
+        "title": "TSMC, 애플·인텔 칩 생산 합의설에 위기감…최대 파트너 지위는 유지",
+        "date": "2026-05-11 17:02",
+        "link": "https://www.ajunews.com/view/20260511163959501"
+    },
+    {
+        "title": "[DD퇴근길] 애플 비전프로는 죽어서 무엇을 남겼을까",
+        "date": "2026-05-11 17:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227463?sid=105"
+    },
+    {
+        "title": "“자료 안 내고 협의 운운”…서울YMCA, 애플 재차 비판",
+        "date": "2026-05-11 16:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006278556?sid=105"
+    },
+    {
+        "title": "애플, 허위광고 논란 지속…서울 YMCA, 공정위에 진행상황 공개 촉구",
+        "date": "2026-05-11 16:50",
+        "link": "https://www.ajunews.com/view/20260511164801527"
+    },
+    {
+        "title": "경고등 켜진 TSMC?…“애플·인텔칩 생산 합의에 위기” 대만 전문가 분...",
+        "date": "2026-05-11 16:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002641813?sid=104"
+    },
+    {
+        "title": "'가성비' 스마트폰도 칩플레이션 타격…삼성·애플, 중저가 전략 재편",
+        "date": "2026-05-11 16:40",
+        "link": "http://www.metroseoul.co.kr/article/20260511500351"
+    },
+    {
+        "title": "“수익이냐 점유율이냐”…삼성·애플, 가격 인상 놓고 셈법 복잡",
+        "date": "2026-05-11 16:38",
+        "link": "https://www.etoday.co.kr/news/view/2583329"
+    },
+    {
+        "title": "대만 전문가 “애플·인텔 칩 생산 합의는 TSMC 위기”",
+        "date": "2026-05-11 16:38",
+        "link": "https://n.news.naver.com/mnews/article/029/0003026029?sid=104"
+    },
+    {
+        "title": "'웰스토리 공판 출석' 삼성전자 CFO 미전실, 의사결정기관 아냐",
+        "date": "2026-05-11 16:33",
+        "link": "https://n.news.naver.com/mnews/article/293/0000084361?sid=101"
+    },
+    {
+        "title": "애플-인텔, 1년 넘는 협상 끝 칩 생산 예비 계약 체결",
+        "date": "2026-05-11 16:26",
+        "link": "https://www.hellot.net/news/article.html?no=112486"
+    },
+    {
+        "title": "삼성전자, 갤럭시S27에 BOE OLED 적용 검토...RFI 발송",
+        "date": "2026-05-11 16:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002422182?sid=105"
+    },
+    {
+        "title": "고사양 게임 겨냥 비싼 모니터…삼성·LG, OLED 모니터 맞대결",
+        "date": "2026-05-11 16:20",
+        "link": "https://n.news.naver.com/mnews/article/008/0005355856?sid=101"
+    },
+    {
+        "title": "삼성전자, 7월 런던서 폴더블 신작 공개 전망",
+        "date": "2026-05-11 16:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1708313"
+    },
+    {
+        "title": "우리이앤엘하루틴, 미니·마이크로LED 구동 기술 특허 ··· 북미 고객사...",
+        "date": "2026-05-11 16:16",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=211531"
+    },
+    {
+        "title": "엔지니어 CEO 택한 애플…AI 혁신 '발등의 불'",
+        "date": "2026-05-11 16:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005285446?sid=105"
+    },
+    {
+        "title": "대형 고객 잃을 판에 TSMC '안절부절'...인텔 손 잡은 애플 [지금이뉴스...",
+        "date": "2026-05-11 16:09",
+        "link": "https://n.news.naver.com/mnews/article/052/0002351516?sid=104"
+    },
+    {
+        "title": "삼성, 7월 런던서 폴더블 신작 공개…AI 글래스도 관심",
+        "date": "2026-05-11 16:08",
+        "link": "https://n.news.naver.com/mnews/article/422/0000863559?sid=101"
+    },
+    {
+        "title": "애플 맥OS 27, 리퀴드 글래스 폐기 대신 대대적 다듬기 전망",
+        "date": "2026-05-11 16:06",
+        "link": "https://news.appstory.co.kr/daily19068"
+    },
+    {
+        "title": "삼성전자 7월 런던서 폴더블 신작 공개…폴드 와이드도 관심",
+        "date": "2026-05-11 16:02",
+        "link": "https://n.news.naver.com/mnews/article/374/0000509366?sid=101"
+    },
+    {
+        "title": "TSMC, 애플 칩 독점 생산 종말에 위기감 고조",
+        "date": "2026-05-11 16:02",
+        "link": "https://n.news.naver.com/mnews/article/374/0000509367?sid=104"
+    },
+    {
         "title": "이재용 삼성 회장, '슈퍼사이클' 타고 10년 만에 애플 AP 수주하나",
         "date": "2026-05-11 15:54",
         "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=246160"
@@ -230,6 +485,11 @@
         "link": "https://www.catchnews.kr/news/articleView.html?idxno=123657"
     },
     {
+        "title": "[기자수첩] 텃밭 떠나는 K-디스플레이 소부장들",
+        "date": "2026-05-11 08:36",
+        "link": "https://dealsite.co.kr/articles/161455"
+    },
+    {
         "title": "애플, ‘비전 프로’ 전담 조직 해체…헤드셋 대신 '카메라 에어팟'에 ...",
         "date": "2026-05-11 08:33",
         "link": "https://n.news.naver.com/mnews/article/138/0002227362?sid=105"
@@ -268,105 +528,5 @@
         "title": "美 Z세대 아이폰만 쓰더라...삼성 팬사이트 운영자가 꼽은 이유는 [1일...",
         "date": "2026-05-11 07:01",
         "link": "https://n.news.naver.com/mnews/article/014/0005519455?sid=105"
-    },
-    {
-        "title": "아이폰20 ‘4면 곡면’ 전망에 안드로이드 진영 ‘긴장 모드’",
-        "date": "2026-05-11 06:00",
-        "link": "https://www.g-enews.com/view.php?ud=2026051020311364529a1f309431_1"
-    },
-    {
-        "title": "애플, 인텔서 칩 생산 예비 합의…트럼프 물밑 지원",
-        "date": "2026-05-11 04:24",
-        "link": "https://n.news.naver.com/mnews/article/374/0000509154?sid=104"
-    },
-    {
-        "title": "범용 원자재도 전략 품목으로 관리 나서야 할때",
-        "date": "2026-05-10 21:42",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=574821"
-    },
-    {
-        "title": "애플, ‘인텔서 칩 생산’ 예비합의",
-        "date": "2026-05-10 18:56",
-        "link": "https://n.news.naver.com/mnews/article/029/0003025852?sid=105"
-    },
-    {
-        "title": "애플, 인텔과 칩 생산 잠정 합의⋯ TSMC 의존 ‘확’ 줄이나",
-        "date": "2026-05-10 17:42",
-        "link": "https://www.viva100.com/article/20260510500492"
-    },
-    {
-        "title": "프로이천, 세계 최초 기술력 앞세워 반도체·디스플레이 시장 정조준",
-        "date": "2026-05-10 17:26",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451632"
-    },
-    {
-        "title": "차세대 소재 PSF OLED가 온다…韓·中 유기재료 경쟁",
-        "date": "2026-05-10 17:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003425845?sid=105"
-    },
-    {
-        "title": "모바일 AP 확보전...삼성은 자체 파운드리·애플은 생산처 다변화 승부...",
-        "date": "2026-05-10 16:34",
-        "link": "http://www.metroseoul.co.kr/article/20260510500162"
-    },
-    {
-        "title": "삼성 사랑하지만 애플 세상…세계 최대 행사장서 '깜짝'",
-        "date": "2026-05-10 14:52",
-        "link": "https://n.news.naver.com/mnews/article/015/0005285025?sid=105"
-    },
-    {
-        "title": "트럼프가 밀고 쿡이 응답했다…애플·인텔, 칩 협력 부활",
-        "date": "2026-05-10 14:16",
-        "link": "https://www.etoday.co.kr/news/view/2583025"
-    },
-    {
-        "title": "애플 '뜻밖의 암초' 굴욕…빈틈 파고든 삼성은 웃는다 [테크로그]",
-        "date": "2026-05-10 14:02",
-        "link": "https://n.news.naver.com/mnews/article/015/0005285015?sid=105"
-    },
-    {
-        "title": "애플 품은 인텔…파운드리 판 흔들까",
-        "date": "2026-05-10 13:52",
-        "link": "https://www.news2day.co.kr/article/20260510500026"
-    },
-    {
-        "title": "인텔, 애플과 손잡는데 삼성전자는 '노조 리스크'로 허우적",
-        "date": "2026-05-10 13:34",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153643"
-    },
-    {
-        "title": "1분기 OLED 타고 날아오른 LGD…정철동 '원팀 리더십' 통했다",
-        "date": "2026-05-10 13:01",
-        "link": "https://n.news.naver.com/mnews/article/648/0000046989?sid=101"
-    },
-    {
-        "title": "애플, 인텔서 칩 생산 예비합의…美 정부 물밑 지원",
-        "date": "2026-05-10 12:49",
-        "link": "https://n.news.naver.com/mnews/article/030/0003425802?sid=105"
-    },
-    {
-        "title": "결국 '맥세이프' 품나···갤럭시 S27, 아이폰 닮은 '가로형 디자인' 검...",
-        "date": "2026-05-10 11:40",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2427742"
-    },
-    {
-        "title": "애플, 차세대 결제혁신 시스템 공개...금융플랫폼 지배력 강화",
-        "date": "2026-05-10 09:50",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=165003"
-    },
-    {
-        "title": "삼성은 센서 넣고 LG는 수명 늘렸다…AI 시대 OLED 경쟁",
-        "date": "2026-05-10 09:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026050814534914080ecbf9426b_23"
-    },
-    {
-        "title": "달라진 시리·AI 모델 연동…'iOS 27' 애플 반격 신호탄 쏜다",
-        "date": "2026-05-10 08:10",
-        "link": "https://n.news.naver.com/mnews/article/421/0008935191?sid=105"
-    },
-    {
-        "title": "삼성전자, 1분기 태블릿 출하량 12.6% 감소...애플은 7.9%↑",
-        "date": "2026-05-10 07:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002421979?sid=105"
     }
 ]
