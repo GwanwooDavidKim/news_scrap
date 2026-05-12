@@ -1,5 +1,320 @@
 [
     {
+        "title": "풀 화이트 감성 살린 게이밍PC '몬스타PC 시엘로'",
+        "date": "2026-05-12 15:44",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59299"
+    },
+    {
+        "title": "선익시스템, LGD 6세대 증착기 수주 유력",
+        "date": "2026-05-12 15:40",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56419"
+    },
+    {
+        "title": "칩플레이션에 中 OLED 타격…K디스플레이는 기회",
+        "date": "2026-05-12 15:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006279235?sid=101"
+    },
+    {
+        "title": "삼성 트리폴드폰, 자석식 S펜 충전 구조 특허 등장",
+        "date": "2026-05-12 15:30",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=76355"
+    },
+    {
+        "title": "서울YMCA, 애플 입장문 반박…공정위에 진행 상황 질의",
+        "date": "2026-05-12 14:58",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202605121455277885de3f0aa1be_7"
+    },
+    {
+        "title": "애플, 'AI 시리' 허위 광고에 3600억 합의…수수료 분쟁도 제동",
+        "date": "2026-05-12 14:50",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=98687"
+    },
+    {
+        "title": "접는 폰도 '와이드' 시대.. 中 제조사 3곳, 와이드 폴더블폰 개발 중",
+        "date": "2026-05-12 14:44",
+        "link": "https://kbench.com/?q=node/278632"
+    },
+    {
+        "title": "삼성전자, BOE에 갤럭시S27 OLED RFI 발송",
+        "date": "2026-05-12 14:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003426686?sid=105"
+    },
+    {
+        "title": "메모리 호황에 OLED 시장 '흔들'…스마트폰 출하량 감소 영향",
+        "date": "2026-05-12 14:32",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56406"
+    },
+    {
+        "title": "갤럭시·아이폰 '문자 장벽' 사라진다…RCS 종단간 암호화 도입",
+        "date": "2026-05-12 14:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161940"
+    },
+    {
+        "title": "'애플 의식했나'…삼성, 폴더블 핵심 시장에 '스냅드래곤' 재투입",
+        "date": "2026-05-12 14:30",
+        "link": "https://www.newspim.com/news/view/20260512000847"
+    },
+    {
+        "title": "인탑스, IT·가전 넘어 미래차 부품까지… 사업 포트폴리오 전방위 확장",
+        "date": "2026-05-12 14:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452117"
+    },
+    {
+        "title": "삼성전자 파운드리, TSMC 공급체증에 중장기 수혜 기대",
+        "date": "2026-05-12 13:58",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41181"
+    },
+    {
+        "title": "벤큐, '500Hz' 지원 모비우스 OLED 게이밍 모니터 3종 출시",
+        "date": "2026-05-12 13:40",
+        "link": "https://www.betanews.net/article/view/beta202605120039"
+    },
+    {
+        "title": "中 BOE, WOLED 패널 첫 고객은 에이수스",
+        "date": "2026-05-12 13:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003426618?sid=105"
+    },
+    {
+        "title": "애플, 한국 앱스토어 일부 가격 조정...국내 개발자 영향은 제한적",
+        "date": "2026-05-12 13:20",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=151755"
+    },
+    {
+        "title": "'AI 뻥카' 논란 애플 3500억 배상 합의... 아이폰 유저 최대 13만원 받는...",
+        "date": "2026-05-12 13:18",
+        "link": "https://www.insight.co.kr/news/553674"
+    },
+    {
+        "title": "아이폰 없어도 잔액 확인 가능…애플 카드 저축 계좌 웹 서비스 개시",
+        "date": "2026-05-12 13:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664902"
+    },
+    {
+        "title": "초실감 디스플레이 '꿈의 소재' 정밀 제어 길 열렸다",
+        "date": "2026-05-12 13:00",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=910217"
+    },
+    {
+        "title": "삼성전자 애플에 '영업비밀 공개' 미국에서 허가, 한국 법원으로 공 넘...",
+        "date": "2026-05-12 12:40",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437586"
+    },
+    {
+        "title": "애플 ‘아이폰 울트라’ 두 가지 색상으로 출시",
+        "date": "2026-05-12 11:54",
+        "link": "https://kbench.com/?q=node/278624"
+    },
+    {
+        "title": "영우디에스피, 삼성D에 검사 장비 공급…34억 규모",
+        "date": "2026-05-12 11:42",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=56403"
+    },
+    {
+        "title": "갤럭시Z 폴드8 vs 폴드8 와이드 비교 영상 공개",
+        "date": "2026-05-12 11:22",
+        "link": "https://kbench.com/?q=node/278623"
+    },
+    {
+        "title": "애플, iOS 26.5 배포…RCS 메시지 종단간 암호화·지도 추천 기능 추가",
+        "date": "2026-05-12 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664861"
+    },
+    {
+        "title": "애플, 맥OS 26.5 배포…데스크톱 맥용 '전원 제어' 설정 추가",
+        "date": "2026-05-12 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664848"
+    },
+    {
+        "title": "‘첫 카드’ 문턱 낮췄다…현대카드, 애플페이 특화 카드 ‘눈길’",
+        "date": "2026-05-12 10:58",
+        "link": "https://n.news.naver.com/mnews/article/029/0003026144?sid=101"
+    },
+    {
+        "title": "Smartphone OLED Shipments Fall 12% Worldwide as China Slides",
+        "date": "2026-05-12 10:48",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=269261"
+    },
+    {
+        "title": "애플, iOS 26.5 공식 출시…종단간 암호화 RCS 메시지 지원",
+        "date": "2026-05-12 10:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002422280?sid=105"
+    },
+    {
+        "title": "중국, 무려 2만5400 PPI 초고해상도 QLED 개발",
+        "date": "2026-05-12 10:30",
+        "link": "https://www.newspim.com/news/view/20260512000375"
+    },
+    {
+        "title": "이승진 켄텍 연구팀, OLED보다 선명한 'PeLED' 실현 기술 성과",
+        "date": "2026-05-12 10:28",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1366049"
+    },
+    {
+        "title": "켄텍, 시드 구조 설계로 '고효율 PeLED' 구현... 상용화 기대감",
+        "date": "2026-05-12 10:26",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=426093"
+    },
+    {
+        "title": "씨엔티솔루션, 無금속·투명·잉크젯 가능 정전기 방지 CQD 잉크 개발",
+        "date": "2026-05-12 10:14",
+        "link": "http://amenews.kr/news/view.php?idx=66667"
+    },
+    {
+        "title": "전쟁터에서는 왜 애플 아이폰보다 삼성 갤럭시를 쓸까",
+        "date": "2026-05-12 10:14",
+        "link": "https://www.etoday.co.kr/news/view/2583576"
+    },
+    {
+        "title": "중국 OLED 출하량 17% 급감…한국보다 감소폭 두 배 컸다",
+        "date": "2026-05-12 10:12",
+        "link": "https://n.news.naver.com/mnews/article/586/0000128876?sid=101"
+    },
+    {
+        "title": "1분기 스마트폰 OLED 출하량 12% 감소, 중국이 한국보다 2배 타격받아",
+        "date": "2026-05-12 10:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437568"
+    },
+    {
+        "title": "중국은 라인 늘리고 삼성은 박사 뽑는다…삼성디스플레이, OLED 초격차...",
+        "date": "2026-05-12 09:57",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=98389"
+    },
+    {
+        "title": "美 법원, 애플 손 들어줬다…삼성 자료 확보 요청 '승인'",
+        "date": "2026-05-12 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664792"
+    },
+    {
+        "title": "스마트폰 OLED 패널 출하량 12%↓…중국 하락폭, 한국의 2배",
+        "date": "2026-05-12 09:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016070998?sid=101"
+    },
+    {
+        "title": "구글 압박에 결국 움직인 애플...아이폰·안드 문자 암호화 시작",
+        "date": "2026-05-12 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664746"
+    },
+    {
+        "title": "중국 17% 급감할 때 한국은 버텼다···1분기 스마트폰 OLED 점유율 확대",
+        "date": "2026-05-12 09:18",
+        "link": "https://www.ajunews.com/view/20260512090858076"
+    },
+    {
+        "title": "초실감 디스플레이 핵심 소재 ‘페로브스카이트’ 제어 기술 개발",
+        "date": "2026-05-12 09:14",
+        "link": "https://n.news.naver.com/mnews/article/081/0003642899?sid=103"
+    },
+    {
+        "title": "[DP's 모닝픽] 글로벌 PC '노트북' 압도 … 연간 2억대 출하",
+        "date": "2026-05-12 09:14",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59288"
+    },
+    {
+        "title": "1분기 스마트폰용 OLED 출하량, 中 업체 감소폭 韓 2배…전년동기比 12%...",
+        "date": "2026-05-12 09:12",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=401635"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 34억 공급계약 소식에 5%↑[특징주]",
+        "date": "2026-05-12 09:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0006278853?sid=101"
+    },
+    {
+        "title": "美 법원, 애플 손 들어줬다… 삼성전자 본사 ‘내부 기밀’ 소환 승인",
+        "date": "2026-05-12 09:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227498?sid=105"
+    },
+    {
+        "title": "초실감 디스플레이 핵심 소재 '페로브스카이트' 원하는 결정구조로 정밀...",
+        "date": "2026-05-12 08:58",
+        "link": "https://www.veritas-a.com/news/articleView.html?idxno=609496"
+    },
+    {
+        "title": "증착기 수주 호조…선익시스템, 4년만에 우량기업부 복귀",
+        "date": "2026-05-12 08:56",
+        "link": "https://dealsite.co.kr/articles/161618"
+    },
+    {
+        "title": "5월 11일 주식시장 주요공시",
+        "date": "2026-05-12 08:55",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123717"
+    },
+    {
+        "title": "애플, 사진·영상 색보정 전문 ‘Color.io’ 인수… 편집 툴 고도화 예고",
+        "date": "2026-05-12 08:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227493?sid=105"
+    },
+    {
+        "title": "삼성은 지켰고 中은 무너졌다... 1분기 스마트폰용 OLED 판도 변화",
+        "date": "2026-05-12 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664736"
+    },
+    {
+        "title": "애플, EU서 타사 웨어러블 개방… ‘에어팟·애플워치’ 특권 풀렸다",
+        "date": "2026-05-12 08:51",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227492?sid=105"
+    },
+    {
+        "title": "270만원 넘는데 색상은 단 두 개?…애플 아이폰 울트라, 디자인보다 '...",
+        "date": "2026-05-12 08:46",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227491?sid=105"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 34억 규모 공급계약 체결",
+        "date": "2026-05-12 08:41",
+        "link": "https://n.news.naver.com/mnews/article/018/0006278809?sid=101"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 34억 원 규모 공급계약 체결",
+        "date": "2026-05-12 08:39",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=703163"
+    },
+    {
+        "title": "1달러 동전에 애플 창업자 '스티브 잡스' 들어간다",
+        "date": "2026-05-12 08:36",
+        "link": "https://www.koreadaily.com/article/20260511163605661"
+    },
+    {
+        "title": "폴더블 아이폰, 2가지 색상만 제공…왜?",
+        "date": "2026-05-12 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002422225?sid=105"
+    },
+    {
+        "title": "삼성, 차세대 폴더블 승부수…애플과 프리미엄 격차 좁힌다",
+        "date": "2026-05-12 08:20",
+        "link": "https://www.ekn.kr/web/view.php?key=20260512025413712"
+    },
+    {
+        "title": "애플-구글 ‘메시지 동맹’ 결실… iOS 26.5 안드로이드-아이폰 RCS 암호...",
+        "date": "2026-05-12 08:19",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227488?sid=105"
+    },
+    {
+        "title": "애플·HP, 삼성전자 파업 우려 공식 문의…공급망 이탈 시사",
+        "date": "2026-05-12 07:36",
+        "link": "https://n.news.naver.com/mnews/article/011/0004619745?sid=101"
+    },
+    {
+        "title": "삼성전자, 7월 폴더블 신작 공개…AI 글래스도 눈길 [biz-플러스]",
+        "date": "2026-05-12 06:18",
+        "link": "https://n.news.naver.com/mnews/article/011/0004619710?sid=101"
+    },
+    {
+        "title": "[비즈톡톡] 멕시코서 애플에 밀리는데… 삼성 갤럭시, BTS 아미 군단 덕...",
+        "date": "2026-05-12 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001163450?sid=105"
+    },
+    {
+        "title": "투명 UI 안보인다 지적에…애플, 맥OS 27서 '리퀴드 글래스' 손본다[1일...",
+        "date": "2026-05-12 06:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005520034?sid=105"
+    },
+    {
+        "title": "[PLAY IT] “가성비 수랭 쿨러 종결자” 마이크로닉스 EL-360 디지털",
+        "date": "2026-05-12 06:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002227484?sid=105"
+    },
+    {
         "title": "게임도 OLED로, 삼성·LG '모니터 대결'",
         "date": "2026-05-12 04:03",
         "link": "https://n.news.naver.com/mnews/article/008/0005356015?sid=101"
@@ -45,11 +360,6 @@
         "link": "https://www.abcn.kr/news/articleView.html?idxno=87991"
     },
     {
-        "title": "잘나가는 삼성에도 ‘아픈 손가락’ 있다",
-        "date": "2026-05-11 21:01",
-        "link": "https://n.news.naver.com/mnews/article/024/0000105488?sid=101"
-    },
-    {
         "title": "삼성전자, 2026년 폴더블 스마트폰 전쟁 포문... 애플과 맞대결 예고",
         "date": "2026-05-11 20:40",
         "link": "https://www.tokenpost.kr/news/tech/358444"
@@ -58,11 +368,6 @@
         "title": "삼전 노사 사후조정 첫날 입장차 여전‥애플은 '대응전략' 문의",
         "date": "2026-05-11 20:05",
         "link": "https://n.news.naver.com/mnews/article/214/0001498212?sid=102"
-    },
-    {
-        "title": "삼성, 7월 런던서 '폴드8' 공개 전망…AI 글래스도 등판하나",
-        "date": "2026-05-11 18:43",
-        "link": "https://n.news.naver.com/mnews/article/031/0001027854?sid=105"
     },
     {
         "title": "'이 기능 추가됐다고?' 삼성 원UI 8.5 업데이트 해야하는 이유",
@@ -98,11 +403,6 @@
         "title": "中 TCL, 8.6세대 OLED ‘속도전’… 삼성D 턱밑 추격",
         "date": "2026-05-11 18:04",
         "link": "https://n.news.naver.com/mnews/article/029/0003026067?sid=101"
-    },
-    {
-        "title": "삼성, 7월 ‘갤Z폴드·플립8’ 공개할 듯…AI안경도 나올까",
-        "date": "2026-05-11 18:03",
-        "link": "https://n.news.naver.com/mnews/article/029/0003026061?sid=105"
     },
     {
         "title": "애플도 삼성 2나노에 '노크'··· 美 테일러팹 앞세워 파운드리 재편 가...",
@@ -195,11 +495,6 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003026029?sid=104"
     },
     {
-        "title": "'웰스토리 공판 출석' 삼성전자 CFO 미전실, 의사결정기관 아냐",
-        "date": "2026-05-11 16:33",
-        "link": "https://n.news.naver.com/mnews/article/293/0000084361?sid=101"
-    },
-    {
         "title": "애플-인텔, 1년 넘는 협상 끝 칩 생산 예비 계약 체결",
         "date": "2026-05-11 16:26",
         "link": "https://www.hellot.net/news/article.html?no=112486"
@@ -235,19 +530,9 @@
         "link": "https://n.news.naver.com/mnews/article/052/0002351516?sid=104"
     },
     {
-        "title": "삼성, 7월 런던서 폴더블 신작 공개…AI 글래스도 관심",
-        "date": "2026-05-11 16:08",
-        "link": "https://n.news.naver.com/mnews/article/422/0000863559?sid=101"
-    },
-    {
         "title": "애플 맥OS 27, 리퀴드 글래스 폐기 대신 대대적 다듬기 전망",
         "date": "2026-05-11 16:06",
         "link": "https://news.appstory.co.kr/daily19068"
-    },
-    {
-        "title": "삼성전자 7월 런던서 폴더블 신작 공개…폴드 와이드도 관심",
-        "date": "2026-05-11 16:02",
-        "link": "https://n.news.naver.com/mnews/article/374/0000509366?sid=101"
     },
     {
         "title": "TSMC, 애플 칩 독점 생산 종말에 위기감 고조",
@@ -260,7 +545,7 @@
         "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=246160"
     },
     {
-        "title": "삼성, 7월 런던서 폴더블·AI 글래스 동시 출격하나",
+        "title": "삼성 이번엔 폰이다...7월 런던서 폴더블·AI 글래스 동시 출시",
         "date": "2026-05-11 15:52",
         "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=59187"
     },
@@ -268,11 +553,6 @@
         "title": "대만 경제전문가 애플·인텔 칩 생산 합의에 TSMC 위기감 고조",
         "date": "2026-05-11 15:50",
         "link": "https://n.news.naver.com/mnews/article/001/0016070130?sid=104"
-    },
-    {
-        "title": "삼성, 7월 폴더블 신작 공개 전망…AI 글래스도 관심",
-        "date": "2026-05-11 15:47",
-        "link": "https://n.news.naver.com/mnews/article/001/0016070119?sid=105"
     },
     {
         "title": "벤큐, 500Hz 초고사율 지원하는 OLED 게이밍 모니터 'MOBIUZ OLED' 3종 출시",
@@ -413,11 +693,6 @@
         "title": "삼성전자, 갤럭시 S26 흥행 이어간다…패밀리 페스타 기간 연장",
         "date": "2026-05-11 10:14",
         "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201906"
-    },
-    {
-        "title": "일론 머스크·애플 끌어온 인텔…490% 폭등 뒤 숨겨진 '불안'",
-        "date": "2026-05-11 09:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664387"
     },
     {
         "title": "스마트폰 점유율 '세계 1위' 삼성전자, '갤럭시 S26 패밀리 페스타' 혜택...",
