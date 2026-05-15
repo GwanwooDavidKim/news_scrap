@@ -1,5 +1,110 @@
 [
     {
+        "title": "빅테크 ‘동지에서 적으로’… 오픈AI, 애플에 소송 검토",
+        "date": "2026-05-16 01:42",
+        "link": "https://n.news.naver.com/mnews/article/020/0003720018?sid=101"
+    },
+    {
+        "title": "5년 공들였다던 애플 핵심 보안벽…앤스로픽 미토스, 5일 만에 뚫었다",
+        "date": "2026-05-16 00:39",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055443?sid=102"
+    },
+    {
+        "title": "[주요공시] 삼성전자, 알테오젠, 이수화학, 다우데이타, 삼천당제약, 대...",
+        "date": "2026-05-15 23:54",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=205317"
+    },
+    {
+        "title": "LG유플러스, 실속파 취향 저격 ‘갤럭시 버디5’ 단독 출시… “50만원대...",
+        "date": "2026-05-15 20:46",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=895957"
+    },
+    {
+        "title": "오픈AI, 애플 ‘챗GPT-시리’ 운영 방식에 반발…법적 대응 검토",
+        "date": "2026-05-15 20:26",
+        "link": "https://www.tokenpost.kr/news/tech/360133"
+    },
+    {
+        "title": "매력적이지만 가까이하기에는 먼 당신, 소니 엑스페리아 1 VIII",
+        "date": "2026-05-15 19:38",
+        "link": "https://news.appstory.co.kr/free19085"
+    },
+    {
+        "title": "애플이 5년 공들인 맥OS 보안 체계, '미소스'로 5일 만에 무너져",
+        "date": "2026-05-15 18:52",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210563"
+    },
+    {
+        "title": "'미세스 그린 애플' 와카이 히로토 온다",
+        "date": "2026-05-15 18:01",
+        "link": "https://m.entertain.naver.com/article/003/0013948165"
+    },
+    {
+        "title": "DMS, 1Q 매출 138억원 …수익 인식 기준 변경 영향",
+        "date": "2026-05-15 18:00",
+        "link": "https://dealsite.co.kr/articles/161967"
+    },
+    {
+        "title": "삼성전자, AI 올라타자 점유율 다 뛰었다...TV·HBM·스마트폰 동반 상승",
+        "date": "2026-05-15 17:54",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=519716"
+    },
+    {
+        "title": "오픈AI, 애플에 계약 위반 통보 검토? AI 동맹 흔들리나",
+        "date": "2026-05-15 17:36",
+        "link": "https://news.appstory.co.kr/daily19089"
+    },
+    {
+        "title": "삼성전자, 호주 테크 세미나서 AI TV·차세대 디스플레이 공개",
+        "date": "2026-05-15 17:17",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=703682"
+    },
+    {
+        "title": "‘철벽 보안’이라더니…애플 맥OS도 앤트로픽 ‘미토스’에 뚫렸다",
+        "date": "2026-05-15 17:09",
+        "link": "https://n.news.naver.com/mnews/article/366/0001164732?sid=105"
+    },
+    {
+        "title": "“애플과의 2년 동맹 균열…오픈AI, 계약 위반 법적 대응 검토”",
+        "date": "2026-05-15 17:06",
+        "link": "https://www.etoday.co.kr/news/view/2585028"
+    },
+    {
+        "title": "올해 어떤 갤럭시 기기 안드로이드 17 기반 '원UI 9' 업데이트 받나?",
+        "date": "2026-05-15 16:50",
+        "link": "https://kbench.com/?q=node/278766"
+    },
+    {
+        "title": "합천군, 애플수박 첫 출하식…올해 50만통 생산",
+        "date": "2026-05-15 16:46",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1001921"
+    },
+    {
+        "title": "LG U+, 실속형 스마트폰 '갤럭시 버디5' 출시",
+        "date": "2026-05-15 16:46",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=239347"
+    },
+    {
+        "title": "삼성전자, 2026 호주 테크 세미나서 차세대 디스플레이 기술 공개",
+        "date": "2026-05-15 16:20",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=357126"
+    },
+    {
+        "title": "육체 다음 얼굴… '피지컬 AI 디스플레이'가 뜨는 이유",
+        "date": "2026-05-15 16:16",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=235535"
+    },
+    {
+        "title": "합천군, 애플수박 본격 출하···전국 생산량의 약 70% 차지",
+        "date": "2026-05-15 16:15",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2429950"
+    },
+    {
+        "title": "미소스, 단 5일 만에 '철통 보안' 애플마저 뚫었다",
+        "date": "2026-05-15 16:15",
+        "link": "https://n.news.naver.com/mnews/article/469/0000930968?sid=104"
+    },
+    {
         "title": "LG 유플러스, '갤럭시 버디5' 출시…실속형 수요 공략",
         "date": "2026-05-15 15:56",
         "link": "https://www.fetv.co.kr/news/articleView.html?idxno=302498"
@@ -198,6 +303,11 @@
         "title": "‘칩플레이션’에 스마트폰·게임기 안 산다",
         "date": "2026-05-15 11:47",
         "link": "https://n.news.naver.com/mnews/article/016/0002643974?sid=105"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자, 차세대 디스플레이 기술 선보여 外",
+        "date": "2026-05-15 11:44",
+        "link": "https://news.dealsitetv.com/articles/170424"
     },
     {
         "title": "애플 맥OS 보안도 AI 앞에 흔들⋯앤트로픽 모델로 우회 성공",
@@ -595,14 +705,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666032"
     },
     {
-        "title": "LG유플러스, 50만원대 실속형 스마트폰 '갤럭시버디5' 출시",
-        "date": "2026-05-15 09:00",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2429647"
-    },
-    {
         "title": "효도폰으로 딱…LGU+, 50만원대 '갤럭시 버디5' 출시",
         "date": "2026-05-15 09:00",
         "link": "https://n.news.naver.com/mnews/article/421/0008946099?sid=105"
+    },
+    {
+        "title": "LG유플러스, 50만원대 실속형 스마트폰 '갤럭시버디5' 출시",
+        "date": "2026-05-15 09:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2429647"
     },
     {
         "title": "LG유플러스, 50만원대 실속형 스마트폰 '갤럭시 버디5' 출시",
@@ -743,365 +853,5 @@
         "title": "5년 걸린 애플 최첨단 보안, 미토스가 5일 만에 뚫어",
         "date": "2026-05-15 07:19",
         "link": "https://n.news.naver.com/mnews/article/018/0006281814?sid=101"
-    },
-    {
-        "title": "오픈AI, 애플 상대 법적 대응 검토…AI 동맹 흔들",
-        "date": "2026-05-15 06:40",
-        "link": "https://www.ajunews.com/view/20260515063902634"
-    },
-    {
-        "title": "'제미나이 낙점' 애플에 발끈…오픈AI, 소송 검토 착수",
-        "date": "2026-05-15 06:30",
-        "link": "https://n.news.naver.com/mnews/article/015/0005287242?sid=105"
-    },
-    {
-        "title": "오픈AI, 애플 상대 법적 대응 검토…챗GPT 통합 기대 못 미쳐",
-        "date": "2026-05-15 06:23",
-        "link": "https://n.news.naver.com/mnews/article/277/0005763158?sid=104"
-    },
-    {
-        "title": "오픈AI, '제미나이 낙점' 애플에 소송 검토…챗GPT 통합 소홀",
-        "date": "2026-05-15 06:04",
-        "link": "https://n.news.naver.com/mnews/article/055/0001356341?sid=104"
-    },
-    {
-        "title": "삼성 헬스·갤럭시 워치 ‘천만 러너’ 잡는다",
-        "date": "2026-05-15 06:04",
-        "link": "https://n.news.naver.com/mnews/article/022/0004128322?sid=101"
-    },
-    {
-        "title": "커스터마이징에 시리 검색까지…애플 iOS 27, 카메라 앱 전면 개편[1일I...",
-        "date": "2026-05-15 06:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005521861?sid=105"
-    },
-    {
-        "title": "'손목 위 주치의'…삼성·애플, 치열해진 워치 헬스케어 경쟁",
-        "date": "2026-05-15 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162080"
-    },
-    {
-        "title": "오픈AI ‘애플 소송’ 검토…“챗GPT 통합 성의 없었다” 불만",
-        "date": "2026-05-15 06:00",
-        "link": "https://n.news.naver.com/mnews/article/025/0003523475?sid=104"
-    },
-    {
-        "title": "시리, '멍청한 비서' 오명 벗나…iOS 27, 애플판 생성형 에이전트 서막",
-        "date": "2026-05-15 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013946150?sid=105"
-    },
-    {
-        "title": "오픈AI, '제미나이 낙점' 애플에 소송 검토...챗GPT 통합 소홀",
-        "date": "2026-05-15 05:20",
-        "link": "https://n.news.naver.com/mnews/article/052/0002353190?sid=104"
-    },
-    {
-        "title": "로봇의 얼굴 ‘디스플레이’… 내구성·유연성 ‘체력 검정’ 시대",
-        "date": "2026-05-15 05:04",
-        "link": "https://n.news.naver.com/mnews/article/081/0003643983?sid=105"
-    },
-    {
-        "title": "오픈AI, '제미나이 낙점' 애플에 소송 검토…챗GPT 통합 소홀",
-        "date": "2026-05-15 04:44",
-        "link": "https://n.news.naver.com/mnews/article/001/0016078364?sid=104"
-    },
-    {
-        "title": "오픈AI, 애플에 법적 대응 검토…파트너십 파열음",
-        "date": "2026-05-15 04:25",
-        "link": "https://www.newspim.com/news/view/20260515000010"
-    },
-    {
-        "title": "애플, 앱스토어에 'AI 에이전트' 승인 검토...앱 사라져도 수익 구조 고...",
-        "date": "2026-05-14 19:24",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=210523"
-    },
-    {
-        "title": "광학 매출 늘어난 LG이노텍…애플 매출 4.46조",
-        "date": "2026-05-14 18:54",
-        "link": "https://n.news.naver.com/mnews/article/031/0001028752?sid=101"
-    },
-    {
-        "title": "서울드래곤시티, 여름 프리미엄 빙수 선보여…애플망고·석청 활용",
-        "date": "2026-05-14 18:46",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202605141843313492204ead0791_12"
-    },
-    {
-        "title": "삼성전자, 손목 위 헬스케어 키운다",
-        "date": "2026-05-14 17:54",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=56625"
-    },
-    {
-        "title": "셰에라자드, 오디지 'LCD-5s' 플래그십 헤드폰 출시",
-        "date": "2026-05-14 17:12",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=838895"
-    },
-    {
-        "title": "골프장 넘어 대형 작업장까지… 소룩스, 조명 시장 영토 확장 속도 낸다",
-        "date": "2026-05-14 16:58",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452806"
-    },
-    {
-        "title": "고려대, '커패시터를 사용하지 않는 능동형 OLED 디스플레이 구동 회로...",
-        "date": "2026-05-14 16:25",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2429330"
-    },
-    {
-        "title": "OLED 힘 준 LG디스플레이…순손실 커졌지만 재무체력은 개선",
-        "date": "2026-05-14 15:58",
-        "link": "https://www.topdaily.kr/articles/110083"
-    },
-    {
-        "title": "인텔, 파운드리 투자 잰걸음...애플 고객사 확보 총력",
-        "date": "2026-05-14 15:50",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=56567"
-    },
-    {
-        "title": "반크, 갤럭시 날씨앱 독도 '북한지역' 표기 오류에 항의 서한",
-        "date": "2026-05-14 15:48",
-        "link": "https://n.news.naver.com/mnews/article/001/0016077760?sid=100"
-    },
-    {
-        "title": "롯데이노베이트, 칼리버스 선택 기로…메타버스 플랫폼서 콘텐츠로 선회",
-        "date": "2026-05-14 15:26",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1367159"
-    },
-    {
-        "title": "비에이치, 고부가가치 FPCB 시장 정조준… IT 기기 핵심 공급망 안착",
-        "date": "2026-05-14 15:06",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452721"
-    },
-    {
-        "title": "삼성헬스, 애플·가민보다 낫다…수면도 챙기는 종합 건강관리 앱",
-        "date": "2026-05-14 14:45",
-        "link": "https://n.news.naver.com/mnews/article/008/0005357750?sid=105"
-    },
-    {
-        "title": "'워치시장 4등' 삼성전자, 갤워치9, '신규 러닝 기능'으로 반전 노려",
-        "date": "2026-05-14 14:42",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421084"
-    },
-    {
-        "title": "[특징주] 아바코, LGD 차세대 OLED 핵심 장비 공급사 선정 소식에 7%대 강...",
-        "date": "2026-05-14 14:26",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=294022"
-    },
-    {
-        "title": "독도가 북한 땅?… 반크, 삼성 갤럭시 날씨 앱 표기 오류 시정 촉구",
-        "date": "2026-05-14 14:26",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=229788"
-    },
-    {
-        "title": "[영상]기업 투자 여력 잠식 우려 삼성 노조 15% 요구안에 업계 비판",
-        "date": "2026-05-14 14:24",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=111775"
-    },
-    {
-        "title": "LG전자 주가 더 뜨거워지나... '전장·디스플레이' 쌍끌이 경쟁력 주목",
-        "date": "2026-05-14 14:22",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452701"
-    },
-    {
-        "title": "고려대, 전기 덜 쓰는 차세대 OLED 회로 개발",
-        "date": "2026-05-14 14:19",
-        "link": "https://n.news.naver.com/mnews/article/018/0006281030?sid=102"
-    },
-    {
-        "title": "코아시아씨엠 주가 상한가 직행… 이미지센서·카메라모듈 확대 박차",
-        "date": "2026-05-14 14:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452699"
-    },
-    {
-        "title": "아마존, LG 39인치 울트라기어 OLED 커브드 게이밍 모니터 반값 판매",
-        "date": "2026-05-14 14:06",
-        "link": "https://kbench.com/?q=node/278722"
-    },
-    {
-        "title": "[특징주] 아바코, LGD 차세대 OLED 투자 본격화에 ↑…신기술 인프라 공...",
-        "date": "2026-05-14 14:00",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=705727"
-    },
-    {
-        "title": "'러닝족인데 아직 없어?'…세계적 마라토너도 극찬한 필수템 [영상]",
-        "date": "2026-05-14 13:25",
-        "link": "https://n.news.naver.com/mnews/article/015/0005286922?sid=105"
-    },
-    {
-        "title": "LGD, OLED 신기술 투자 장비 업체로 선익·아바코 선정",
-        "date": "2026-05-14 13:22",
-        "link": "https://n.news.naver.com/mnews/article/030/0003427582?sid=105"
-    },
-    {
-        "title": "'독도가 북한땅?'...갤럭시 날씨앱, '조선민주주의인민공화국' 표기",
-        "date": "2026-05-14 13:20",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=58031"
-    },
-    {
-        "title": "[에듀플러스]고려대, 커패시터 없는 아몰레드 기술 구현…초고해상도 디...",
-        "date": "2026-05-14 13:17",
-        "link": "https://n.news.naver.com/mnews/article/030/0003427577?sid=102"
-    },
-    {
-        "title": "고려대, 커패시터 없는 OLED 구동 기술 구현…저전력·회로 단순화 성과",
-        "date": "2026-05-14 13:06",
-        "link": "https://n.news.naver.com/mnews/article/030/0003427557?sid=105"
-    },
-    {
-        "title": "가민·애플 잡아라…삼성, 갤럭시워치 '러닝 코칭' 승부수",
-        "date": "2026-05-14 13:02",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162077"
-    },
-    {
-        "title": "갤럭시 워치가 '천만 러너' 건강 지킨다…종합 건강관리 승부",
-        "date": "2026-05-14 12:27",
-        "link": "https://n.news.naver.com/mnews/article/421/0008944488?sid=105"
-    },
-    {
-        "title": "삼성, 7월 갤럭시 언팩에서 어떤 신제품 공개하나",
-        "date": "2026-05-14 11:56",
-        "link": "https://kbench.com/?q=node/278706"
-    },
-    {
-        "title": "알파스캔 업무와 엔터테인먼트 환경에서 모두 사용 가능한 모니터 'AOC ...",
-        "date": "2026-05-14 11:54",
-        "link": "https://gamefocus.co.kr/detail.php?number=175856"
-    },
-    {
-        "title": "씨유테크, 1분기 매출 16% 감소...삼성D 中스마트폰 OLED 사업 영향 풀이",
-        "date": "2026-05-14 11:46",
-        "link": "https://n.news.naver.com/mnews/article/092/0002422712?sid=105"
-    },
-    {
-        "title": "레노버 게이밍폰 '리전 Y70(2026)' 추가 사양 공개",
-        "date": "2026-05-14 11:22",
-        "link": "https://kbench.com/?q=node/278705"
-    },
-    {
-        "title": "고려대 커패시터 없는 AMOLED 기술 구현…초고해상도 디스플레이 가격 ...",
-        "date": "2026-05-14 11:20",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=610008"
-    },
-    {
-        "title": "'마음건강까지 AI가 관리' … 삼성전자, 차세대 디지털 헬스 플랫폼 선...",
-        "date": "2026-05-14 11:18",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/14/2026051400085.html"
-    },
-    {
-        "title": "애플, EU의 구글 압박에 반기...안드로이드 강제개방, 사생활·보안 위...",
-        "date": "2026-05-14 11:12",
-        "link": "http://www.impacton.net/news/articleView.html?idxno=18863"
-    },
-    {
-        "title": "미디어텍 ‘디멘시티 9600’ 세부 정보 유출.. 멀티코어 성능 애플 칩 능...",
-        "date": "2026-05-14 11:02",
-        "link": "https://kbench.com/?q=node/278704"
-    },
-    {
-        "title": "속도 낮추세요·오늘은 쉬세요…갤럭시 워치, '손목 위 러닝 코치'로",
-        "date": "2026-05-14 11:00",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2111736"
-    },
-    {
-        "title": "안경형 디스플레이 혁명 고려대, 초고효율·초고해상도 AMOLED 기술 개...",
-        "date": "2026-05-14 11:00",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=124036"
-    },
-    {
-        "title": "LG이노텍, 애플 공급망 경쟁력 부각에 투자심리 개선",
-        "date": "2026-05-14 10:54",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452641"
-    },
-    {
-        "title": "[포토] 현대차 '더 뉴 그랜저' 슬림 디스플레이",
-        "date": "2026-05-14 10:50",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2429007"
-    },
-    {
-        "title": "고려대, 커패시터 없는 아몰레드 기술 구현… 초고해상도 디스플레이 가...",
-        "date": "2026-05-14 10:48",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=107540"
-    },
-    {
-        "title": "삼성 첫 와이드 폴더블폰 ‘갤럭시Z 폴드8 와이드’ 카메라 사양 유출",
-        "date": "2026-05-14 10:42",
-        "link": "https://kbench.com/?q=node/278697"
-    },
-    {
-        "title": "지아이에스, 육·해군 국산화 사업 선정…방산 MRO 시장 본격 진출",
-        "date": "2026-05-14 10:39",
-        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=703449"
-    },
-    {
-        "title": "고려대 연구팀, 커패시터 없는 멤리스터 기반 AMOLED 회로 구현…5,000 PP...",
-        "date": "2026-05-14 10:22",
-        "link": "https://www.newstnt.com/news/articleView.html?idxno=702381"
-    },
-    {
-        "title": "애플, AI 코딩 앱 허용 검토…앱스토어 판 흔들리나?",
-        "date": "2026-05-14 10:18",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=544061"
-    },
-    {
-        "title": "괴물 스펙에 최고가…애플, A20 프로 탑재한 아이폰 울트라로 승부수",
-        "date": "2026-05-14 10:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=665695"
-    },
-    {
-        "title": "아이폰 사용자 중 14%, 폴더블폰 구매 고려",
-        "date": "2026-05-14 09:54",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=76479"
-    },
-    {
-        "title": "셰에라자드, ‘오디지(AUDEZE)’ 플래그십 평판형 헤드폰 ‘LCD-5s’ 런칭",
-        "date": "2026-05-14 09:52",
-        "link": "https://kbench.com/?q=node/278692"
-    },
-    {
-        "title": "원풍물산, 마이크로 LED 부품 공급 기대감에 강세… 테마 자금 유입",
-        "date": "2026-05-14 09:50",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452610"
-    },
-    {
-        "title": "올고른, 애플망고 재배 농업인 대상 실전 재배 교육 성료",
-        "date": "2026-05-14 09:46",
-        "link": "https://n.news.naver.com/mnews/article/050/0000106128?sid=101"
-    },
-    {
-        "title": "[기업탐방] 에프엔에스테크, 장비 넘어 소부장으로…아사히 램프·CMP 패...",
-        "date": "2026-05-14 09:44",
-        "link": "https://theviewers.co.kr/View.aspx?No=4077379"
-    },
-    {
-        "title": "서울드래곤시티, 여름 한정 프리미엄 빙수 출시…제주 애플 망고·지리...",
-        "date": "2026-05-14 09:36",
-        "link": "https://n.news.naver.com/mnews/article/468/0001240370?sid=103"
-    },
-    {
-        "title": "애플, EU 안드로이드 개방안 공개 비판…AI 보안 위험 초래",
-        "date": "2026-05-14 09:36",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=76475"
-    },
-    {
-        "title": "에프엔에스테크, 반도체 소부장 체질 전환, 실적 레벨업 기대 - 그로쓰...",
-        "date": "2026-05-14 08:59",
-        "link": "https://www.newspim.com/news/view/20260514000144"
-    },
-    {
-        "title": "그로쓰리서치 에프엔에스테크, 실적 레벨업 기대",
-        "date": "2026-05-14 08:54",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=705635"
-    },
-    {
-        "title": "폴더블·AI, 스마트폰 교체 주요인 아니다…이유 봤더니",
-        "date": "2026-05-14 08:43",
-        "link": "https://n.news.naver.com/mnews/article/092/0002422635?sid=105"
-    },
-    {
-        "title": "에프엔에스테크, 고수익성 소재·부품 성장에 유리기판 모멘텀까지…멀...",
-        "date": "2026-05-14 08:28",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=733401"
-    },
-    {
-        "title": "스마트폰→車·노트북 ‘OLED 시프트’…LG·삼성 ‘디스플레이 장벽’...",
-        "date": "2026-05-14 08:14",
-        "link": "https://www.ekn.kr/web/view.php?key=20260514025104450"
     }
 ]
