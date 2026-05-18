@@ -1,5 +1,80 @@
 [
     {
+        "title": "제일 날씬한데 고별작…'갤럭시 Z 플립8' 이후 차기작이 없다?",
+        "date": "2026-05-19 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013952712?sid=105"
+    },
+    {
+        "title": "AI 스마트 글라스, 스마트폰 10년 내 대체… 퀄컴 CEO 2027~2028년 전환점...",
+        "date": "2026-05-19 05:32",
+        "link": "https://www.g-enews.com/view.php?ud=2026051820190515982bd56fbc3c_1"
+    },
+    {
+        "title": "XRP 10년 상승률 2만3500%…비트코인·금·테슬라·애플 비교해보니",
+        "date": "2026-05-19 00:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666759"
+    },
+    {
+        "title": "이러다 또 20대한테 ‘아재폰’ 소리 듣는다?…삼성 ‘접는 폰’ 단종되...",
+        "date": "2026-05-18 21:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002645070?sid=105"
+    },
+    {
+        "title": "AI 가전의 다음 격전지는 '워치·안경'… 포스트 스마트폰 주도권 다툼...",
+        "date": "2026-05-18 21:06",
+        "link": "https://www.betanews.net/article/view/beta202605180097"
+    },
+    {
+        "title": "삼성 플립형 폴더블 미래 불투명? 갤럭시 Z 플립 단종설 제기",
+        "date": "2026-05-18 19:36",
+        "link": "https://news.appstory.co.kr/daily19099"
+    },
+    {
+        "title": "애플 독주에 중국 공세까지…삼성 ‘갤럭시탭’ 입지 ‘흔들’",
+        "date": "2026-05-18 18:14",
+        "link": "https://www.ceoscoredaily.com/page/view/2026051817235622888"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB TV, 영·미 매체 '만점'···해외 주요 매체 호평",
+        "date": "2026-05-18 18:04",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=254539"
+    },
+    {
+        "title": "애플, 시리에 업계 최초 '채팅 자동 삭제' 도입...개인 정보보호 우선...",
+        "date": "2026-05-18 18:04",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210637"
+    },
+    {
+        "title": "삼성전자 마이크로 RGB TV, 美·英 주요 매체서 호평",
+        "date": "2026-05-18 17:54",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=304798"
+    },
+    {
+        "title": "[조성준의 스케치] '폰 다음은 안경'…삼성전자 MX 반등 책임질 'AI 글래...",
+        "date": "2026-05-18 17:50",
+        "link": "https://www.ajunews.com/view/20260518151508970"
+    },
+    {
+        "title": "갤럭시Z 플립8, 삼성의 마지막 폴더블폰 되나?",
+        "date": "2026-05-18 17:36",
+        "link": "https://www.betanews.net/article/view/beta202605180090"
+    },
+    {
+        "title": "애플, iOS 27 시리에 ‘채팅 자동 삭제’ 넣는다… AI 지연 만회 카드",
+        "date": "2026-05-18 17:30",
+        "link": "https://n.news.naver.com/mnews/article/366/0001165313?sid=105"
+    },
+    {
+        "title": "애플 'iOS 26.3' 독자 모뎀 전용 '위치 추적 제한’ 기능 추가",
+        "date": "2026-05-18 17:28",
+        "link": "https://kbench.com/?q=node/278809"
+    },
+    {
+        "title": "애플, AI 스마트안경 개발 가속...차세대 플랫폼 경쟁 본격 돌입",
+        "date": "2026-05-18 17:04",
+        "link": "https://www.redian.org/news/articleView.html?idxno=256618"
+    },
+    {
         "title": "구글 ‘제미나이 인텔리전스’… 갤럭시Z 폴드8·플립8 최초 탑재",
         "date": "2026-05-18 16:58",
         "link": "https://kbench.com/?q=node/278808"
@@ -60,11 +135,6 @@
         "link": "https://www.topstarnews.net/news/articleView.html?idxno=16063835"
     },
     {
-        "title": "‘곧 나온다’는 말만 10여년째…스마트 글래스 세상 올까",
-        "date": "2026-05-18 15:17",
-        "link": "https://n.news.naver.com/mnews/article/029/0003027207?sid=105"
-    },
-    {
         "title": "“OLED 넘었다”…삼성 마이크로 RGB TV, 해외 매체 ‘만점’ 릴레이",
         "date": "2026-05-18 14:53",
         "link": "https://n.news.naver.com/mnews/article/011/0004621970?sid=101"
@@ -88,6 +158,11 @@
         "title": "서피스 듀오 단종됐지만.. MS, 차세대 폴더블 겨냥 '스프링 힌지' 특허 ...",
         "date": "2026-05-18 14:36",
         "link": "https://kbench.com/?q=node/278800"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자 마이크로 RGB TV, 해외 주요 매체서 호평 ​外",
+        "date": "2026-05-18 14:36",
+        "link": "https://news.dealsitetv.com/articles/170556"
     },
     {
         "title": "삼성 중저가 ‘갤럭시 A27’ 투명 케이스 유출.. 전체 디자인 공개",
@@ -210,6 +285,11 @@
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=839215"
     },
     {
+        "title": "삼성전자 RGB 마이크로 TV, 해외 주요 매체서 기술력 호평 받아",
+        "date": "2026-05-18 10:56",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=438022"
+    },
+    {
         "title": "갤럭시Z플립8이 마지막?…갤Z플립 단종설 솔솔",
         "date": "2026-05-18 10:53",
         "link": "https://n.news.naver.com/mnews/article/092/0002423147?sid=105"
@@ -300,7 +380,7 @@
         "link": "https://www.newscj.com/news/articleView.html?idxno=3401564"
     },
     {
-        "title": "삼성전자 ‘마이크로 RGB TV’ 글로벌 호평…英·美 IT 매체서 잇단 만점",
+        "title": "삼성전자 ‘마이크로 RGB TV’ 글로벌 호평… 英·美 IT 매체서 잇단 만...",
         "date": "2026-05-18 09:13",
         "link": "https://n.news.naver.com/mnews/article/029/0003027111?sid=101"
     },
@@ -433,110 +513,5 @@
         "title": "‘시리’ 앱으로 독립…애플, WWDC서 AI 반격 예고[모닝폰]",
         "date": "2026-05-18 07:17",
         "link": "https://n.news.naver.com/mnews/article/018/0006283961?sid=105"
-    },
-    {
-        "title": "애플 시리 개편에 대화 자동 삭제 기능 포함될까",
-        "date": "2026-05-18 06:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666565"
-    },
-    {
-        "title": "“삼성보다 우리가 훨씬 낫다” 끈질긴 도발, 결국 통했나…10일 만에 ‘...",
-        "date": "2026-05-17 19:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002644508?sid=105"
-    },
-    {
-        "title": "합천군 애플수박 출하식 개최",
-        "date": "2026-05-17 17:48",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=475790"
-    },
-    {
-        "title": "애플 보안도 뚫렸다…앤트로픽 '미토스'가 촉발한 AI 해킹 시대의 공...",
-        "date": "2026-05-17 17:44",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=40060"
-    },
-    {
-        "title": "[박정일 칼럼] 삼전 총파업 막을 마지막 기회, ‘실리’에 답 있다",
-        "date": "2026-05-17 17:26",
-        "link": "https://n.news.naver.com/mnews/article/029/0003027040?sid=110"
-    },
-    {
-        "title": "[이슈플러스]로봇청소기로 시작한 中 가전, 스마트홈까지 삼킨다",
-        "date": "2026-05-17 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003428367?sid=105"
-    },
-    {
-        "title": "[이슈플러스] OLED 초격차 뒤 허물어지는 미들하이-프리미엄…日·中 합...",
-        "date": "2026-05-17 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003428363?sid=101"
-    },
-    {
-        "title": "플래그십 OLED 핵심 기술…덕산네오룩스 확산 수혜",
-        "date": "2026-05-17 14:44",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453239"
-    },
-    {
-        "title": "“애플 너마저” 앤트로픽, ‘난공불락’ 애플 보안체계도 뚫어",
-        "date": "2026-05-17 13:04",
-        "link": "https://n.news.naver.com/mnews/article/021/0002791716?sid=101"
-    },
-    {
-        "title": "합천군, 작지만 알찬 고품질 애플수박 출하식",
-        "date": "2026-05-17 12:16",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=2005838"
-    },
-    {
-        "title": "합천군, 작지만 알찬 고품질 애플수박 본격 출하",
-        "date": "2026-05-17 11:30",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=552391"
-    },
-    {
-        "title": "[IT썰]애플이 5년 쌓은 보안장벽, 미토스 5일 만에…'버그마겟돈' 우려",
-        "date": "2026-05-17 10:37",
-        "link": "https://n.news.naver.com/mnews/article/008/0005358763?sid=105"
-    },
-    {
-        "title": "갤럭시 Z 폴드7도, 픽셀9도 AI도 플래그십 스마트폰 아니다?",
-        "date": "2026-05-17 10:02",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=312274"
-    },
-    {
-        "title": "[폴더블 대전③] 중국의 가파른 추격···글로벌 폴더블폰 시장 재편",
-        "date": "2026-05-17 10:00",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=628927"
-    },
-    {
-        "title": "1달러→211달러, 젠슨 황도 못참고 투자한 광섬유기업",
-        "date": "2026-05-17 09:21",
-        "link": "https://n.news.naver.com/mnews/article/008/0005358748?sid=101"
-    },
-    {
-        "title": "오픈AI, 애플 상대 소송 검토…‘챗GPT 홀대’에 동맹 균열",
-        "date": "2026-05-17 08:02",
-        "link": "https://www.sentv.co.kr/article/view/sentv202605150052"
-    },
-    {
-        "title": "[주간AI노트] 오픈AI, 애플 상대 소송 검토…“챗GPT 통합 소극적”",
-        "date": "2026-05-17 08:00",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=86890"
-    },
-    {
-        "title": "애플워치 시리즈12, 디자인 유지 속 칩 성능 개선 가능성…터치ID 도입은...",
-        "date": "2026-05-17 07:56",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666528"
-    },
-    {
-        "title": "SK증권 대만 인수 효과 터졌다…에프엔에스테크 실적 레벨업",
-        "date": "2026-05-17 07:42",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453190"
-    },
-    {
-        "title": "인텔·애플 연합 가시화… 1.8나노 공정이 흔드는 파운드리 판도",
-        "date": "2026-05-17 07:14",
-        "link": "https://www.g-enews.com/view.php?ud=202605170651393598fbbec65dfb_1"
-    },
-    {
-        "title": "비서 말고 동료…구글·애플, 말귀 알아듣는 'AI 에이전트' 대전",
-        "date": "2026-05-17 07:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013949155?sid=105"
     }
 ]
