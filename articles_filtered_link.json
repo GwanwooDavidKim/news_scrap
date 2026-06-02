@@ -1,5 +1,115 @@
 [
     {
+        "title": "삼성D·LGD, 대만서 고객사 쟁탈전···차세대 게이밍 OLED '총출동'",
+        "date": "2026-06-03 07:00",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421478"
+    },
+    {
+        "title": "맥북 네오보다 가볍다… 델, 599달러 'XPS 13' 메인스트림 정조준 [컴퓨...",
+        "date": "2026-06-03 06:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002229773?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블폰 과연 통할까…아이폰 울트라 구매의향 35%",
+        "date": "2026-06-03 06:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=671562"
+    },
+    {
+        "title": "MS, 애플 맥미니에 반격…엔비디아 손잡고 AI용 PC 공개",
+        "date": "2026-06-03 04:03",
+        "link": "https://n.news.naver.com/mnews/article/015/0005294302?sid=105"
+    },
+    {
+        "title": "[미국 특징주] 마이크로소프트, 연례 개발자 콘퍼런스서 PC·클라우드 AI...",
+        "date": "2026-06-03 00:04",
+        "link": "https://www.newspim.com/news/view/20260603000002"
+    },
+    {
+        "title": "[컴퓨텍스 2026] MSI의 비즈니스 노트북 업데이트, RTX Spark 적용 AI 노트...",
+        "date": "2026-06-02 23:24",
+        "link": "https://kbench.com/?q=node/279215"
+    },
+    {
+        "title": "[컴퓨텍스] 마이크로닉스, 발열 개선 어항형 케이스부터 3000W PSU까지 신...",
+        "date": "2026-06-02 23:24",
+        "link": "https://kbench.com/?q=node/279219"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 창립 40주년 타이탄 18 HX 드래곤 에디션, 인텔 아크 G3...",
+        "date": "2026-06-02 23:00",
+        "link": "https://kbench.com/?q=node/279200"
+    },
+    {
+        "title": "삼성디스플레이, 엔비디아와 협업...올레드 게이밍 화질 체험존 운영",
+        "date": "2026-06-02 21:00",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=439181"
+    },
+    {
+        "title": "[컴퓨텍스 2026] XPS 13으로 맥북 네오 정조준... 델 테크놀로지스",
+        "date": "2026-06-02 19:36",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59564"
+    },
+    {
+        "title": "[포토]'엔비디아 협력존' 마련한 삼성D…젠슨 황 친필 서명도",
+        "date": "2026-06-02 19:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006296317?sid=101"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 한미마이크로닉스, 위즈맥스 신제품 대거 공개",
+        "date": "2026-06-02 18:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002229753?sid=105"
+    },
+    {
+        "title": "애플 WWDC 2026 슬로건은 ‘빛날 준비 완료’…대규모 UI 개편 암시하나",
+        "date": "2026-06-02 18:24",
+        "link": "https://news.appstory.co.kr/daily19176"
+    },
+    {
+        "title": "삼성D·엔비디아, 고화질 게이밍 모니터 구현",
+        "date": "2026-06-02 18:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005529773?sid=101"
+    },
+    {
+        "title": "[컴퓨텍스 2026]삼성D의 비장의 카드…고객사만 보던 ‘4K·360㎐ OLED’ 첫...",
+        "date": "2026-06-02 18:11",
+        "link": "https://n.news.naver.com/mnews/article/029/0003029739?sid=101"
+    },
+    {
+        "title": "삼성D, '컴퓨텍스 2026'서 엔비디아와 손잡고 화질체험존 운영",
+        "date": "2026-06-02 18:08",
+        "link": "https://www.g-enews.com/view.php?ud=2026060209505740006ed0c62d49_1"
+    },
+    {
+        "title": "아바코, LGD에 6세대 OLED 증착 자동화 장비 공급",
+        "date": "2026-06-02 17:56",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=57516"
+    },
+    {
+        "title": "영수증 찍으면 자동 정산…애플, WWDC서 차세대 결제 기능 공개 전망",
+        "date": "2026-06-02 17:50",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=211268"
+    },
+    {
+        "title": "'갤럭시Z 폴드8 울트라' 정체 드러났다.. 블루투스 인증서 통해 최초 확...",
+        "date": "2026-06-02 17:46",
+        "link": "https://kbench.com/?q=node/279212"
+    },
+    {
+        "title": "삼성전자, 글로벌 TV ‘1위’ 지켰지만…‘미니 LED’ 앞세운 TCL 도전 거...",
+        "date": "2026-06-02 17:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2026060217135705448"
+    },
+    {
+        "title": "나인테크, 국내 대기업과 254억 디스플레이 장비 공급계약",
+        "date": "2026-06-02 17:32",
+        "link": "https://news.mtn.co.kr/news-detail/2026060217260560842"
+    },
+    {
+        "title": "나인테크, LG전자와 254억원 디스플레이 장비 공급계약",
+        "date": "2026-06-02 17:02",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=57518"
+    },
+    {
         "title": "iOS 28, 아이폰 20주년 맞춰 대변화 예고…애플 차세대 업데이트 개발 착...",
         "date": "2026-06-02 16:52",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=544588"
@@ -235,6 +345,11 @@
         "link": "https://kbench.com/?q=node/279182"
     },
     {
+        "title": "Samsung Display, Nvidia team up to showcase premium OLED gaming",
+        "date": "2026-06-02 11:50",
+        "link": "https://www.koreatimes.co.kr/path/A2026060211310004947"
+    },
+    {
         "title": "커세어, 컴퓨텍스 2026서 홀 이펙트·8K 폴링 기반 게이밍 기어 공개",
         "date": "2026-06-02 11:50",
         "link": "https://www.cnet.co.kr/view/?no=20260602114714"
@@ -268,11 +383,6 @@
         "title": "[컴퓨텍스 2026] 삼성D, 엔비디아 RTX 5080와 만나다",
         "date": "2026-06-02 11:34",
         "link": "https://www.econovill.com/news/articleView.html?idxno=741397"
-    },
-    {
-        "title": "[머니 취향템 연구소] 애플페이 쓸 이유 생겼네…애플 생태계 겨냥한...",
-        "date": "2026-06-02 11:26",
-        "link": "https://dealsite.co.kr/articles/162699"
     },
     {
         "title": "애플, iOS 26.5.1 배포…아이폰17 제품군 충전 문제 손봤다",
@@ -480,14 +590,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=671185"
     },
     {
-        "title": "잔상없이 선명…삼성D, 엔비디아 손잡고 올레드 게이밍 화질 선보인다",
-        "date": "2026-06-02 09:08",
-        "link": "https://n.news.naver.com/mnews/article/003/0013981095?sid=101"
-    },
-    {
         "title": "삼성D, 엔비디아와 맞손…컴퓨텍스서 OLED 게이밍 화질 공개",
         "date": "2026-06-02 09:08",
         "link": "https://www.sentv.co.kr/article/view/sentv202606020014"
+    },
+    {
+        "title": "잔상없이 선명…삼성D, 엔비디아 손잡고 올레드 게이밍 화질 선보인다",
+        "date": "2026-06-02 09:08",
+        "link": "https://n.news.naver.com/mnews/article/003/0013981095?sid=101"
     },
     {
         "title": "삼성디스플레이, 엔비디아 협업해 'OLED' 게이밍 초고화질 선보여",
@@ -588,1030 +698,5 @@
         "title": "Samsung, LG turn to Taiwan into latest battleground for OLED gaming displ...",
         "date": "2026-06-02 07:00",
         "link": "https://n.news.naver.com/mnews/article/640/0000089308?sid=105"
-    },
-    {
-        "title": "'지각생' 우려냐 '계산된 정공법'이냐…애플, 첫 스마트 안경 내년 말 출...",
-        "date": "2026-06-02 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013980878?sid=105"
-    },
-    {
-        "title": "애플 첫 폴더블 코앞에…삼성, '폴드 울트라'로 승부수 될까",
-        "date": "2026-06-02 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0013980857?sid=105"
-    },
-    {
-        "title": "개인 AI 비서 시대 성큼...온디바이스 경쟁 거세진다[김창영의 실리콘밸...",
-        "date": "2026-06-02 05:20",
-        "link": "https://n.news.naver.com/mnews/article/011/0004626793?sid=104"
-    },
-    {
-        "title": "폴 매카트니“비틀즈 해체, 각자 가정과 삶으로 돌아간 것”···애플뮤...",
-        "date": "2026-06-02 01:34",
-        "link": "https://m.entertain.naver.com/article/144/0001118584"
-    },
-    {
-        "title": "‘게이밍 OLED’ 불꽃 경쟁… 삼성 “울트라 슬림” vs LG “최고 해상도...",
-        "date": "2026-06-02 00:31",
-        "link": "https://n.news.naver.com/mnews/article/020/0003723831?sid=101"
-    },
-    {
-        "title": "[포토] 입장하는 이청 삼성디스플레이 사장",
-        "date": "2026-06-02 00:22",
-        "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34148"
-    },
-    {
-        "title": "OLED 판 키우는 삼성·LG…‘게임’ 한판승부",
-        "date": "2026-06-02 00:02",
-        "link": "https://n.news.naver.com/mnews/article/025/0003527321?sid=101"
-    },
-    {
-        "title": "“3세대 Xe 기반 GPU 제대로 다듬었다” 인텔, 아크 G3로 휴대용 게이밍...",
-        "date": "2026-06-01 23:46",
-        "link": "https://it.donga.com/108968/"
-    },
-    {
-        "title": "[김국현의 과학기술 유행어 도감] [11] ‘스마트 안경’ 원년?",
-        "date": "2026-06-01 23:39",
-        "link": "https://n.news.naver.com/mnews/article/023/0003979656?sid=103"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 OLED 맞대결… 게이밍 시장 주도권 경쟁",
-        "date": "2026-06-01 23:38",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3405720"
-    },
-    {
-        "title": "AI發 PC 업계 재편 현실로...애플 vs 엔비디아 빅매치",
-        "date": "2026-06-01 22:52",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=671146"
-    },
-    {
-        "title": "게이머 마음 잡아라…삼성D·LGD OLED 기술력 뽐내(종합)",
-        "date": "2026-06-01 22:47",
-        "link": "https://n.news.naver.com/mnews/article/018/0006295645?sid=101"
-    },
-    {
-        "title": "[포토] 삼성 호암상 종료 후 퇴장하는 이청 삼성디스플레이 사장",
-        "date": "2026-06-01 21:41",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1710929"
-    },
-    {
-        "title": "엔비디아, 윈도우 PC시장 진출…인텔·AMD가 주도한 'x86'체제에 도전",
-        "date": "2026-06-01 21:16",
-        "link": "https://n.news.naver.com/mnews/article/015/0005293879?sid=101"
-    },
-    {
-        "title": "“손잡아야 살아남는다” 한국-베트남, EU 규제 앞 '공급망 동반자' 확인",
-        "date": "2026-06-01 21:10",
-        "link": "https://www.hellot.net/news/article.html?no=112928"
-    },
-    {
-        "title": "BOE, 이달 중순 IT 8세대 OLED 양산 출하식...수율 30% 이하 추정",
-        "date": "2026-06-01 19:15",
-        "link": "https://n.news.naver.com/mnews/article/092/0002424976?sid=105"
-    },
-    {
-        "title": "삼성D, 대만 '컴퓨텍스 2026'서 최신 OLED 제품 16종 공개",
-        "date": "2026-06-01 19:00",
-        "link": "https://www.g-enews.com/view.php?ud=202606011700198026ed0c62d49_1"
-    },
-    {
-        "title": "LGD, 대만서 세계 최대 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 18:44",
-        "link": "https://www.g-enews.com/view.php?ud=2026060117171416736ed0c62d49_1"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 OLED 격돌… 게이밍 시장 주도권 기싸움",
-        "date": "2026-06-01 18:41",
-        "link": "https://n.news.naver.com/mnews/article/029/0003029626?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 게이밍 OLED 16종 공개",
-        "date": "2026-06-01 18:32",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=135554"
-    },
-    {
-        "title": "삼성, 스마트안경 '메타 독점' 깰까… 애플 출시 연기도 '호재'",
-        "date": "2026-06-01 18:32",
-        "link": "https://n.news.naver.com/mnews/article/014/0005529268?sid=105"
-    },
-    {
-        "title": "삼성D·LGD, 차세대 게이밍 OLED 왕좌 놓고 대만서 격돌[컴퓨텍스 2026]",
-        "date": "2026-06-01 18:12",
-        "link": "https://n.news.naver.com/mnews/article/014/0005529204?sid=101"
-    },
-    {
-        "title": "애플 AI 안경 출시 연기…2027년 말 목표로 늦춰졌다",
-        "date": "2026-06-01 18:10",
-        "link": "https://www.cnet.co.kr/view/?no=20260601180838"
-    },
-    {
-        "title": "이재용, 호암상 시상식 5년 연속 참석...'인재제일' 경영철학 계승 재확...",
-        "date": "2026-06-01 18:06",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=842514"
-    },
-    {
-        "title": "'뇌·눈 갈아낀 PC'… 역대 최고 AI 성능 엔비디아 이어 삼성D·LGD OLED 대...",
-        "date": "2026-06-01 18:02",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741317"
-    },
-    {
-        "title": "LGD, 애플이 점찍은 '고이동도 옥사이드' 기술 개발",
-        "date": "2026-06-01 17:52",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=57416"
-    },
-    {
-        "title": "본우리집밥, 헥토그룹 구내식당서 ‘애플하우스’ 협업 특식 진행...레트...",
-        "date": "2026-06-01 17:48",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=2026060117442943969aeda69934_7"
-    },
-    {
-        "title": "에프제이코리아, 피치트리 신제품 ‘애플트리’과 소용량 ‘200ml’ 출시",
-        "date": "2026-06-01 17:42",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=2026060117063070369aeda69934_30"
-    },
-    {
-        "title": "K-OLED 투톱 삼성·LG, 대만서 ‘왕좌의 게임’",
-        "date": "2026-06-01 17:36",
-        "link": "https://n.news.naver.com/mnews/article/011/0004626678?sid=101"
-    },
-    {
-        "title": "피치트리, 새로운 플레이버 '애플트리' 및 '피치트리 200ml' 출시",
-        "date": "2026-06-01 17:36",
-        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=239704"
-    },
-    {
-        "title": "ASUS, 신형 휴대용 게이밍 PC 'ROG Ally X20' 발표.. OLED 패널·라이젠 Z...",
-        "date": "2026-06-01 17:28",
-        "link": "https://kbench.com/?q=node/279169"
-    },
-    {
-        "title": "피치트리, 홈술·혼술 겨냥...애플트리 및 피치트리 200ml 출시",
-        "date": "2026-06-01 17:14",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=214729"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스 2026 참가…게이밍용 OLED 공개",
-        "date": "2026-06-01 17:10",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=359812"
-    },
-    {
-        "title": "피치트리, 新제품 '애플트리' 및 '피치트리 200ml' 韓시장 선봬",
-        "date": "2026-06-01 17:10",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=748983"
-    },
-    {
-        "title": "피치트리, ‘애플트리·피치트리 200ml’ 선보여",
-        "date": "2026-06-01 17:08",
-        "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065600326442874"
-    },
-    {
-        "title": "2nm A20 프로·가변 조리개 적용…'아이폰18 프로' 가격 오를까",
-        "date": "2026-06-01 17:06",
-        "link": "https://kbench.com/?q=node/279168"
-    },
-    {
-        "title": "삼성D vs LGD 대만서 게이밍 OLED 기술력 대전",
-        "date": "2026-06-01 17:05",
-        "link": "https://n.news.naver.com/mnews/article/008/0005365789?sid=101"
-    },
-    {
-        "title": "'VR보다 웨어러블'…메타, 하반기 1000만대 승부수",
-        "date": "2026-06-01 17:02",
-        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=201525"
-    },
-    {
-        "title": "피치트리, ‘애플트리’와 ‘피치트리 200ml’ 2종 선보여",
-        "date": "2026-06-01 17:02",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=2026060117011774879aeda69934_7"
-    },
-    {
-        "title": "하이엔드 시장 주도권 잡아라...삼성D·LGD 대만서 맞붙는다",
-        "date": "2026-06-01 16:53",
-        "link": "https://n.news.naver.com/mnews/article/014/0005529178?sid=101"
-    },
-    {
-        "title": "컴퓨텍스 개막 D-1…젠슨 황, 韓 기업 회동 주목",
-        "date": "2026-06-01 16:52",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=735381"
-    },
-    {
-        "title": "피치트리, '애플트리' 및 '피치트리 200ml' 출시",
-        "date": "2026-06-01 16:46",
-        "link": "http://www.e2news.com/news/articleView.html?idxno=330946"
-    },
-    {
-        "title": "LGD, 대만서 '최첨단 게이밍 OLED' 공개…주요 고객사 대상",
-        "date": "2026-06-01 16:38",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263171"
-    },
-    {
-        "title": "[포토] 호암상 시상식 참석하는 이청 삼성디스플레이 사장",
-        "date": "2026-06-01 16:38",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3405621"
-    },
-    {
-        "title": "피치트리, 새로운 플레이버 ‘애플트리’ 선보여...‘피치트리 200ml’는...",
-        "date": "2026-06-01 16:38",
-        "link": "https://www.kbsm.net/news/view.php?idx=521473"
-    },
-    {
-        "title": "갤럭시 Z 폴드8 실물 유출?…더 넓어진 화면에 듀얼 카메라 디자인 포착",
-        "date": "2026-06-01 16:36",
-        "link": "https://news.appstory.co.kr/daily19164"
-    },
-    {
-        "title": "남편 불륜·내연녀 임신 알게 된 '만삭 아내'... '애플워치'가 결정적 증...",
-        "date": "2026-06-01 16:16",
-        "link": "https://www.insight.co.kr/news/556471"
-    },
-    {
-        "title": "하이브로 신작 수집형 RPG '드래곤빌리지3', 구글-애플 인기 게임 순위 ...",
-        "date": "2026-06-01 16:16",
-        "link": "https://gamefocus.co.kr/detail.php?number=176290"
-    },
-    {
-        "title": "삼성, 1분기 폴더블폰 점유율 두 배 증가.. '갤럭시Z 폴드7·플립7' 견인",
-        "date": "2026-06-01 16:12",
-        "link": "https://kbench.com/?q=node/279162"
-    },
-    {
-        "title": "애플 스마트 글래스, 2027년 말 출시 전망…AI 웨어러블 경쟁 본격화",
-        "date": "2026-06-01 15:40",
-        "link": "https://news.appstory.co.kr/daily19163"
-    },
-    {
-        "title": "애플 차기 운영체제 개발 이미 착수…iOS 28 코드명은 'Bell'",
-        "date": "2026-06-01 15:38",
-        "link": "https://kbench.com/?q=node/279158"
-    },
-    {
-        "title": "삼바 슈테가, 애플 TV '플루리버스' 행사 참석해 눈길",
-        "date": "2026-06-01 15:26",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3597705"
-    },
-    {
-        "title": "삼성디스플레이 컴퓨텍스서 '울트라슬림' 등 OLED·QD-OLED 최신 제품 공...",
-        "date": "2026-06-01 15:22",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=204350"
-    },
-    {
-        "title": "로봇의 심장 쥔 에스피지, 정밀 모터 기술로 XR·휴머노이드 장악 나선...",
-        "date": "2026-06-01 15:22",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456855"
-    },
-    {
-        "title": "삼바 슈테가, 애플 TV '플루리버스' FYC 행사 참석",
-        "date": "2026-06-01 15:22",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3597700"
-    },
-    {
-        "title": "아이폰18 프로 색상 전면 교체하나…애플, 새 컬러 전략 주목",
-        "date": "2026-06-01 15:04",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670890"
-    },
-    {
-        "title": "하이브로, ‘드래곤빌리지3’ 양대 마켓 인기 1위·애플 매출 5위 달성",
-        "date": "2026-06-01 15:01",
-        "link": "https://n.news.naver.com/mnews/article/396/0000745750?sid=105"
-    },
-    {
-        "title": "노트북 두께 20%이상 줄인 울트라 슬림 삼성D, 게이밍용OLED 첫선",
-        "date": "2026-06-01 15:00",
-        "link": "https://www.catchnews.kr/news/articleView.html?idxno=124492"
-    },
-    {
-        "title": "엔비디아, PC용 '슈퍼칩' 연내 출격…애플·인텔과 정면 승부",
-        "date": "2026-06-01 14:54",
-        "link": "https://www.newspim.com/news/view/20260601000850"
-    },
-    {
-        "title": "안드로이드 오토 쓰면 휴대폰이 뜨거워지는 이유…해결법 8가지",
-        "date": "2026-06-01 14:52",
-        "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065592027963850"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 OLED 정면승부…게이밍 시장 선점 경쟁",
-        "date": "2026-06-01 14:51",
-        "link": "https://n.news.naver.com/mnews/article/025/0003527185?sid=101"
-    },
-    {
-        "title": "삼성D·LGD, 게임용 OLED '총공세'...'컴퓨텍스2026' 홍보전 '점화'",
-        "date": "2026-06-01 14:48",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=152274"
-    },
-    {
-        "title": "삼성·LG, OLED 기술력 앞세워 대만서 ‘정면 승부’",
-        "date": "2026-06-01 14:40",
-        "link": "https://www.ekn.kr/web/view.php?key=20260601026409680"
-    },
-    {
-        "title": "LG디스플레이, 세계 최대 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 14:38",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591329477973"
-    },
-    {
-        "title": "LGD, 대만서 게이밍 OLED 로드쇼 개최",
-        "date": "2026-06-01 14:28",
-        "link": "https://n.news.naver.com/mnews/article/092/0002424895?sid=105"
-    },
-    {
-        "title": "엔비디아, 애플 제치고 TSMC 최대 고객 등극…AI 돈잔치 어디까지",
-        "date": "2026-06-01 14:27",
-        "link": "https://n.news.naver.com/mnews/article/123/0002383972?sid=101"
-    },
-    {
-        "title": "삼성.LG 디스플레이, 대만 '컴퓨텍스 2026'서 최신 OLED 패널로 맞대결",
-        "date": "2026-06-01 14:24",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=544538"
-    },
-    {
-        "title": "LG·삼성D, 대만서 '게이밍 OLED' 주도권 경쟁",
-        "date": "2026-06-01 14:18",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1377660"
-    },
-    {
-        "title": "LG전자, 1분기 OLED TV 점유율 50.5%…14년 연속 세계 1위 청신호",
-        "date": "2026-06-01 14:00",
-        "link": "https://n.news.naver.com/mnews/article/366/0001168552?sid=105"
-    },
-    {
-        "title": "주목할 디스플레이 기술은…“非FMM·고이동성 옥사이드”",
-        "date": "2026-06-01 13:58",
-        "link": "https://n.news.naver.com/mnews/article/030/0003433278?sid=105"
-    },
-    {
-        "title": "삼성 vs LG, 대만서 '게이밍 OLED' 신기술 맞불",
-        "date": "2026-06-01 13:50",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026106"
-    },
-    {
-        "title": "필립스, QHD·280Hz OLED 게이밍 모니터 ‘27M2N6550PF’ 출시",
-        "date": "2026-06-01 13:50",
-        "link": "https://www.cnet.co.kr/view/?no=20260601124232"
-    },
-    {
-        "title": "삼성Dvs LGD 게이밍 OLED 시장 왕좌 두고 대만서 '격돌'",
-        "date": "2026-06-01 13:42",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139363"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 '울트라슬림' 첫 공개",
-        "date": "2026-06-01 13:33",
-        "link": "https://n.news.naver.com/mnews/article/001/0016111806?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 게이밍용 OLED 총동원",
-        "date": "2026-06-01 13:31",
-        "link": "https://n.news.naver.com/mnews/article/001/0016111801?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 '울트라슬림' 첫 공개",
-        "date": "2026-06-01 13:31",
-        "link": "https://n.news.naver.com/mnews/article/001/0016111802?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 세계 최초 4K 360Hz 공개...게이밍 OLED 초격차 과시",
-        "date": "2026-06-01 13:30",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=522904"
-    },
-    {
-        "title": "삼성D vs LGD, 대만서 OLED 정면승부…게이밍 패널 주도권 경쟁",
-        "date": "2026-06-01 13:30",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000096191"
-    },
-    {
-        "title": "삼성·LG디스플레이, ‘컴퓨텍스 2026’서 최신 게이밍 OLED 라인업 선봬",
-        "date": "2026-06-01 13:26",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=87530"
-    },
-    {
-        "title": "애플, 첫 스마트글래스 200~500달러 검토...대중 시장 공략 무게",
-        "date": "2026-06-01 13:22",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670893"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 차세대 게이밍 OLED 공개",
-        "date": "2026-06-01 13:20",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=57407"
-    },
-    {
-        "title": "LG Display Showcases Gaming OLEDs in Taiwan",
-        "date": "2026-06-01 13:20",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=270450"
-    },
-    {
-        "title": "지갑 열리는 프리미엄… 슈피겐코리아, 글로벌 아이폰 특수 제대로 탔다",
-        "date": "2026-06-01 13:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456778"
-    },
-    {
-        "title": "삼성D, 대만 컴퓨텍스서 게이밍 OLED·QD-OLED 신제품 16종 공개",
-        "date": "2026-06-01 13:10",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=357980"
-    },
-    {
-        "title": "[미국 특징주] 델, 애플 맥북 네오 정면 겨냥한 신형 XPS 13 출시",
-        "date": "2026-06-01 13:05",
-        "link": "https://www.newspim.com/news/view/20260601000702"
-    },
-    {
-        "title": "K디스플레이, 게임용 OLED 총공세",
-        "date": "2026-06-01 13:02",
-        "link": "https://www.naeil.com/news/read/590385?ref=naver"
-    },
-    {
-        "title": "삼성디스플레이, '컴퓨텍스 2026'에서 게이밍용 OLED 대거 공개",
-        "date": "2026-06-01 12:30",
-        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1003283"
-    },
-    {
-        "title": "갤럭시Z 폴드8 vs 갤럭시Z 폴드8 울트라 디자인 비교",
-        "date": "2026-06-01 12:28",
-        "link": "https://kbench.com/?q=node/279147"
-    },
-    {
-        "title": "LG디스플레이, 세계 최대 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 12:10",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2186602"
-    },
-    {
-        "title": "LGD, 대만서 게이밍 OLED 로드쇼 개최...모니터 세트사 20곳 대상",
-        "date": "2026-06-01 11:54",
-        "link": "https://n.news.naver.com/mnews/article/031/0001032147?sid=105"
-    },
-    {
-        "title": "LG전자 OLED TV, 1분기 글로벌시장 점유율 50.5%로 1위",
-        "date": "2026-06-01 11:52",
-        "link": "https://n.news.naver.com/mnews/article/021/0002794835?sid=101"
-    },
-    {
-        "title": "게이밍 OLED에 힘 싣는다…삼성D, 대만 '컴퓨텍스 2026'서 풀라인업 공개",
-        "date": "2026-06-01 11:36",
-        "link": "https://www.socialvalue.kr/news/view/1065579518726709"
-    },
-    {
-        "title": "LG디스플레이, 게이밍 OLED 라인업 대만서 공개",
-        "date": "2026-06-01 11:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670785"
-    },
-    {
-        "title": "델, XPS 13 부활 카드 꺼냈다…599달러로 맥북 네오 정조준",
-        "date": "2026-06-01 11:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670850"
-    },
-    {
-        "title": "삼성D ‘4K·360Hz’ QD-OLED 첫 선",
-        "date": "2026-06-01 11:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650661?sid=101"
-    },
-    {
-        "title": "LGD ‘세계 최대’ 게이밍 제품군 공개",
-        "date": "2026-06-01 11:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650665?sid=101"
-    },
-    {
-        "title": "LG디스플레이, '대만 게이밍 OLED 로드쇼'서 플래그십 라인업 공개",
-        "date": "2026-06-01 11:28",
-        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=103315"
-    },
-    {
-        "title": "LGD·삼성D, 대만서 게이밍 OLED 라인업 총출동...'완벽한 게임 경험' 자...",
-        "date": "2026-06-01 11:20",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026060110235583890ecbf9426b_23"
-    },
-    {
-        "title": "삼성디스플레이, 대만 '컴퓨텍스 2026'서 게이밍용 OLED 16종 공개",
-        "date": "2026-06-01 11:12",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7166948"
-    },
-    {
-        "title": "LG디스플레이, 대만 고객사 대상 '게이밍 OLED 로드쇼' 개최",
-        "date": "2026-06-01 11:12",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7166945"
-    },
-    {
-        "title": "애플 첫 폴더블 아이폰, 중국 공장서 유출 영상 등장…2026년 출시 전망",
-        "date": "2026-06-01 11:12",
-        "link": "https://kbench.com/?q=node/279146"
-    },
-    {
-        "title": "LG디스플레이, 대형 TV OLED 증설 접고 신기술에 1.1조 베팅",
-        "date": "2026-06-01 11:11",
-        "link": "https://www.newspim.com/news/view/20260601000509"
-    },
-    {
-        "title": "LG디스플레이, 대만에서 차세대 게이밍 'OLED 라인업' 예고",
-        "date": "2026-06-01 11:10",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=255078"
-    },
-    {
-        "title": "삼성디스플레이, 대만 컴퓨텍스서 '울트라슬림' 첫 공개...두께 20% 이상...",
-        "date": "2026-06-01 11:10",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=202372"
-    },
-    {
-        "title": "삼성디스플레이, '컴퓨텍스 2026'서 게이밍용 OLED 16종 공개",
-        "date": "2026-06-01 11:04",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577834659920"
-    },
-    {
-        "title": "LG디스플레이, 대만서 '게이밍 OLED 로드쇼' 개최...하이엔드 시장 정조...",
-        "date": "2026-06-01 11:04",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139353"
-    },
-    {
-        "title": "LG디스플레이, 대만서 5K2K·RGB스트라이프 포함 게이밍 OLED 공개",
-        "date": "2026-06-01 11:04",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=438983"
-    },
-    {
-        "title": "삼성디스플레이, '컴퓨텍스 2026' 출격…게이밍용 OLED 쏟아낸다",
-        "date": "2026-06-01 11:00",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1377618"
-    },
-    {
-        "title": "LGD 대형 OLED 기술 역량 토대로 게이밍 시장 공략 강화",
-        "date": "2026-06-01 11:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=214658"
-    },
-    {
-        "title": "LG디스플레이, 대만서 최첨단 '게이밍 OLED' 선봬",
-        "date": "2026-06-01 11:00",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1377647"
-    },
-    {
-        "title": "애플 신형 비츠, 스페인 축구 천재 라민 야말 SNS서 포착…에어팟 맥스...",
-        "date": "2026-06-01 11:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670828"
-    },
-    {
-        "title": "LGD, 대만서 'OLED 로드쇼'…게이밍 경험의 정점 제시할 것",
-        "date": "2026-06-01 10:57",
-        "link": "https://n.news.naver.com/mnews/article/079/0004152737?sid=101"
-    },
-    {
-        "title": "삼성·LG 대만 컴퓨텍스서 'OLED 승부'···게이밍 모니터 시장 정면 대...",
-        "date": "2026-06-01 10:54",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=145108"
-    },
-    {
-        "title": "차기 '아이폰18 프로' 투톤 디자인 사라지나? 새로운 더미 유출",
-        "date": "2026-06-01 10:54",
-        "link": "https://kbench.com/?q=node/279144"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스서 게이밍 OLED 16종 공개⋯4K 360Hz QD-OLED 첫선",
-        "date": "2026-06-01 10:52",
-        "link": "https://n.news.naver.com/mnews/article/031/0001032123?sid=105"
-    },
-    {
-        "title": "[IT는 지금] LG디스플레이, 세계 최대 게이밍 OLED 라인업 공개 外",
-        "date": "2026-06-01 10:52",
-        "link": "https://dealsite.co.kr/articles/162796"
-    },
-    {
-        "title": "LG디스플레이, 대만서 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 10:52",
-        "link": "http://www.lawissue.co.kr/view.php?ud=20260601092210809817d053b9_12"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스 2026서 게이밍 OLED 신제품 16종 공개",
-        "date": "2026-06-01 10:52",
-        "link": "https://www.dizzotv.com/site/data/html_dir/2026/06/01/2026060180044.html"
-    },
-    {
-        "title": "삼성디스플레이 대만서 노트북용 OLED '울트라 슬림' 공개, 두께 20% 감소",
-        "date": "2026-06-01 10:50",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=438980"
-    },
-    {
-        "title": "삼성·LGD, 대만서 게이밍 OLED 격돌…'플레이하는 디스플레이' 경쟁 본...",
-        "date": "2026-06-01 10:46",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=122762"
-    },
-    {
-        "title": "삼성·LG디스플레이, 대만서 게이밍 OLED 라인업 대거 공개",
-        "date": "2026-06-01 10:46",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=842430"
-    },
-    {
-        "title": "LG디스플레이, 게이밍 OLED 라인업 공개…시장 공략 속도",
-        "date": "2026-06-01 10:46",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=287637"
-    },
-    {
-        "title": "OLED 전장 대만으로…삼성D·LGD, 게이밍 패널 경쟁",
-        "date": "2026-06-01 10:43",
-        "link": "https://n.news.naver.com/mnews/article/374/0000513319?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대만서 게이밍 OLED 로드쇼 개최…차세대 기술·최대 라인...",
-        "date": "2026-06-01 10:40",
-        "link": "https://n.news.naver.com/mnews/article/029/0003029457?sid=101"
-    },
-    {
-        "title": "산청군, 고품질 애플망고 생산 체계 구축",
-        "date": "2026-06-01 10:40",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434688"
-    },
-    {
-        "title": "OLED TV에 넷플까지 한 번에···LG전자 '구독' 상품 출시",
-        "date": "2026-06-01 10:40",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434673"
-    },
-    {
-        "title": "LG디스플레이, 차세대 게이밍 OLED 총공세… 하이엔드 모니터 시장 정조...",
-        "date": "2026-06-01 10:38",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=154138"
-    },
-    {
-        "title": "LG디스플레이, 대만서 ‘게이밍 OLED 로드쇼’⋯ 차세대 기술 로드맵 공...",
-        "date": "2026-06-01 10:38",
-        "link": "https://www.viva100.com/article/20260601500092"
-    },
-    {
-        "title": "삼성디스플레이, 대만서 게이밍용 OLED 총공세…초격차 자신감",
-        "date": "2026-06-01 10:36",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417713"
-    },
-    {
-        "title": "Samsung Display to start world’s first 8.6G OLED production",
-        "date": "2026-06-01 10:36",
-        "link": "https://n.news.naver.com/mnews/article/009/0005687624?sid=104"
-    },
-    {
-        "title": "삼성D·LGD, 게이밍 OLED 정면승부 … '초고주사율 vs 초고화질' 기술대...",
-        "date": "2026-06-01 10:34",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/01/2026060100105.html"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스 2026 참가⋯ 게이밍 OLED 16종 선보인다",
-        "date": "2026-06-01 10:34",
-        "link": "https://www.viva100.com/article/20260601500232"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스 2026서 게이밍 OLED 총공세…세계 최초 ‘4K 360Hz’ 패널...",
-        "date": "2026-06-01 10:33",
-        "link": "https://n.news.naver.com/mnews/article/366/0001168491?sid=105"
-    },
-    {
-        "title": "삼성D, 차세대 게이밍 OLED 공개…고주사율·고화질 경쟁 본격화 [컴퓨텍...",
-        "date": "2026-06-01 10:32",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/01/2026060100003.html"
-    },
-    {
-        "title": "삼성D, '컴퓨텍스 2026'서 게이밍용 OLED 신제품 16종 공개",
-        "date": "2026-06-01 10:32",
-        "link": "https://n.news.naver.com/mnews/article/018/0006295169?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 게이밍 OLED 16종 공개",
-        "date": "2026-06-01 10:32",
-        "link": "https://www.ajunews.com/view/20260601080610889"
-    },
-    {
-        "title": "삼성디스플레이, '컴퓨텍스 2026'서 게이밍 디스플레이 라인업 16종 공개",
-        "date": "2026-06-01 10:32",
-        "link": "https://www.mediapen.com/news/view/1101935"
-    },
-    {
-        "title": "삼성D, 대만 '컴퓨텍스'서 게이밍용 OLED 기술 전면에…울트라 스펙",
-        "date": "2026-06-01 10:32",
-        "link": "https://n.news.naver.com/mnews/article/079/0004152713?sid=101"
-    },
-    {
-        "title": "LG디스플레이, '대만 게이밍 OLED 로드쇼' 개최…기술력 선보여",
-        "date": "2026-06-01 10:32",
-        "link": "https://n.news.naver.com/mnews/article/018/0006295170?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대만에서 '게이밍 올레드' 라인업 공개",
-        "date": "2026-06-01 10:32",
-        "link": "https://www.ajunews.com/view/20260601081851916"
-    },
-    {
-        "title": "게이머가 꿈꾸는 완벽한 화면 LGD, 차세대 OLED 로드맵 공개 [컴퓨텍스...",
-        "date": "2026-06-01 10:32",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/01/2026060100002.html"
-    },
-    {
-        "title": "[COMPUTEX 2026] 삼성D, 컴퓨텍스서 차세대 게이밍 OLED '총공세'",
-        "date": "2026-06-01 10:32",
-        "link": "https://dealsite.co.kr/articles/162782"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스 2026서 ‘4K·360Hz’ QD-OLED 첫 선",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650537?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, '컴퓨텍스 2026'서 차세대 게이밍 OLED 대거 공개",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/092/0002424851?sid=105"
-    },
-    {
-        "title": "삼성D, '컴퓨텍스 2026'서 게이밍 OLED 총공세…'기술 초격차' 과시",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/014/0005528887?sid=101"
-    },
-    {
-        "title": "삼성D ‘컴퓨텍스 2026’ 참가, 게이밍용 OLED 혁신 기술 대거 선보인다",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/011/0004626493?sid=101"
-    },
-    {
-        "title": "[컴퓨텍스 2026] 삼성D, 게이밍 OLED 총공세… ‘울트라’ 스펙 뽐낸다",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229502?sid=105"
-    },
-    {
-        "title": "LGD, 대만서 ‘세계 최대 라인업’ 게이밍 OLED 공개",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650538?sid=101"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스 2026서 게이밍용 OLED 16종 공개 '총공세'",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003433120?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 대만 로드쇼서 차세대 게이밍 OLED 공개…고객사 20곳 공...",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/011/0004626494?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대만서 세계 최대 게이밍 OLED 라인업 뽐낸다",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/014/0005528886?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 대만 로드쇼서 차세대 게이밍 OLED 기술 공개",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003433122?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 새 게이밍 OLED 모니터 라인업 공개…하이엔드 시장 정조...",
-        "date": "2026-06-01 10:31",
-        "link": "https://n.news.naver.com/mnews/article/366/0001168490?sid=105"
-    },
-    {
-        "title": "LCD 밀어낸 자발광 승부···삼성D, 게이밍 OLED 16종 총공세",
-        "date": "2026-06-01 10:30",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434669"
-    },
-    {
-        "title": "삼성D, 게이밍 OLED 16종 공개…4K·360Hz QD-OLED 첫선",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/008/0005365439?sid=101"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스서 게이밍용 OLED 총동원…'울트라슬림' 첫 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/001/0016111170?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 대만 컴퓨텍스서 게이밍 OLED 16종 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456665"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 게이밍 OLED 격돌…모니터 시장 정조준",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/119/0003096513?sid=101"
-    },
-    {
-        "title": "[Tech &amp; Now] 삼성·LG디스플레이, 대만서 게이밍 OLED 신기술 격돌",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1710772"
-    },
-    {
-        "title": "삼성D, 컴퓨텍스서 OLED 총공세…세계 첫 4K 360㎐ QD-OLED 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/029/0003029454?sid=101"
-    },
-    {
-        "title": "삼성D, '컴퓨텍스'서 게이밍 'OLED' 총공세…라인업 16종 선보여",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/421/0008977229?sid=101"
-    },
-    {
-        "title": "[컴퓨텍스 2026] 삼성디스플레이, 게이밍 OLED 16종 공개… '4K 360Hz' 세계...",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=261087"
-    },
-    {
-        "title": "삼성D, 4K 360Hz QD-OLED 세계 최초 선봬",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670774"
-    },
-    {
-        "title": "“AI 다음은 게이밍”…삼성디플·LGD, 대만서 OLED 진검승부 [컴퓨텍스...",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.etoday.co.kr/news/view/2589468"
-    },
-    {
-        "title": "'컴퓨텍스 2026' 삼성D, 게이밍 OLED 총공세…16종 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025995"
-    },
-    {
-        "title": "삼성D, '컴퓨텍스 2026'서 게이밍 OLED 총공세...4K·360Hz 모니터 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=251042"
-    },
-    {
-        "title": "LG디스플레이, 대만서 고객사 대상 '게이밍 OLED 로드쇼' 진행",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/277/0005770270?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 컴퓨텍스서 게이밍 OLED 16종 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.newspim.com/news/view/20260601000171"
-    },
-    {
-        "title": "게이머 마음 잡아라…삼성D·LGD, 대만서 차세대 OLED 초격차 경쟁",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0013979034?sid=101"
-    },
-    {
-        "title": "LG디스플레이, 5K2K·240Hz 게이밍 OLED 앞세워 시장 공략",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/421/0008977228?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 두께 20% 줄인 차세대 게이밍 패널 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/629/0000503859?sid=101"
-    },
-    {
-        "title": "LGD, 대만서 고객사 초청 로드쇼…차세대 게이밍 OLED 대거 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/008/0005365438?sid=101"
-    },
-    {
-        "title": "[컴퓨텍스 2026] LGD, 대만서 게이밍 OLED 로드쇼… 차세대 라인업 공개",
-        "date": "2026-06-01 10:30",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229500?sid=105"
-    },
-    {
-        "title": "LGD, 대만서 게이밍 OLED 로드쇼 열고 시장 공략",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.newspim.com/news/view/20260601000174"
-    },
-    {
-        "title": "삼성디스플레이, '플레이하는 OLED' 들고 컴퓨텍스 참가",
-        "date": "2026-06-01 10:30",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1372370"
-    },
-    {
-        "title": "LG·삼성 디스플레이, 게이밍 OLED 시장 공략 본격화",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=303423"
-    },
-    {
-        "title": "LG디스플레이, 차세대 OLED 라인업 공개…프리미엄 모니터 시장 공략",
-        "date": "2026-06-01 10:30",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=80132"
-    },
-    {
-        "title": "삼성D, 대만 '컴퓨텍스' 참가...게이밍용 OLED 총공세",
-        "date": "2026-06-01 10:28",
-        "link": "https://thetracker.co.kr/View.aspx?No=4097205"
-    },
-    {
-        "title": "에이서, 컴퓨텍스 2026 참가…50주년 기념 차세대 AI·게이밍 제품 공개",
-        "date": "2026-06-01 10:22",
-        "link": "https://www.betanews.net/article/view/beta202605310004"
-    },
-    {
-        "title": "애플의 늦어진 AI 승부수…신형 애플TV·홈팟 미니 출격",
-        "date": "2026-06-01 10:20",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670808"
-    },
-    {
-        "title": "'아이패드OS 26' 1년 써보니…전업 사용자가 꼽은 장단점",
-        "date": "2026-06-01 10:20",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670807"
-    },
-    {
-        "title": "애플 스마트글래스, 또 밀렸다…메타만 웃는 이유",
-        "date": "2026-06-01 10:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670798"
-    },
-    {
-        "title": "충남도, 기술사업화 원스톱 지원체계 구축…중소기업 혁신성장 견인",
-        "date": "2026-06-01 10:12",
-        "link": "https://www.viva100.com/article/20260601500302"
-    },
-    {
-        "title": "엔비디아, 노트북 칩 시장 진출 임박…AMD·퀄컴에 도전장",
-        "date": "2026-06-01 10:10",
-        "link": "https://www.itworld.co.kr/article/4179029/엔비디아-노트북-칩-시장-진출-임박amd·퀄컴에-도전.html"
-    },
-    {
-        "title": "14만원 '핏빗 에어' vs 120만원 '애플워치 울트라3'…10km 뛰어보니 의외...",
-        "date": "2026-06-01 10:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670792"
-    },
-    {
-        "title": "LG디스플레이, 대만서 세계 최대 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 10:00",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=249905"
-    },
-    {
-        "title": "LG디스플레이, 대만서 게이밍 OLED 로드쇼 개최",
-        "date": "2026-06-01 10:00",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=270421"
-    },
-    {
-        "title": "LG디스플레이, 대만서 세계 최대 게이밍 OLED 라인업 공개",
-        "date": "2026-06-01 10:00",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1372374"
-    },
-    {
-        "title": "애플 AI 스마트 안경, 내년 말 출시 전망",
-        "date": "2026-06-01 09:48",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=77276"
-    },
-    {
-        "title": "삼성, 와이드 디자인 '갤럭시Z 폴드8' 초도 생산량 100만대 전망",
-        "date": "2026-06-01 09:42",
-        "link": "https://kbench.com/?q=node/279134"
-    },
-    {
-        "title": "배민, 애플페이 해외카드 결제 도입...외국인도 손쉽게 K-배달 즐긴다",
-        "date": "2026-06-01 09:30",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=522791"
-    },
-    {
-        "title": "애플 스마트 안경 출시 연기설 '모락모락'…2027년 출시 전망",
-        "date": "2026-06-01 09:26",
-        "link": "https://kbench.com/?q=node/279131"
-    },
-    {
-        "title": "에스켐, 순환정제 생산시설 고도화 완료… 2분기부터 매출 본격화 기대",
-        "date": "2026-06-01 09:22",
-        "link": "https://n.news.naver.com/mnews/article/018/0006295073?sid=101"
-    },
-    {
-        "title": "애플, 신형 애플 TV 및 홈팟 미니 하드웨어 개발 완료",
-        "date": "2026-06-01 09:18",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229459?sid=105"
-    },
-    {
-        "title": "챗GPT처럼 쓴다…애플, iOS 27서 시리 앱 독립·AI 동기화 강화",
-        "date": "2026-06-01 09:16",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229458?sid=105"
-    },
-    {
-        "title": "제2의 애플워치 만든다…애플, 메타 겨냥한 스마트 글래스 개발 가속...",
-        "date": "2026-06-01 09:12",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229457?sid=105"
-    },
-    {
-        "title": "더블유미디어 엔터테인먼트 윤철우 대표 애플은 제품을 팔지 않는다",
-        "date": "2026-06-01 09:10",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=578388"
-    },
-    {
-        "title": "'갤럭시Z 폴드8' 추정 기기 포착… '와이드 폴드' 디자인 적용되나",
-        "date": "2026-06-01 09:00",
-        "link": "https://kbench.com/?q=node/279130"
-    },
-    {
-        "title": "에스켐, OLED 순환정제 설비 투자 마무리…2분기부터 매출 본격 반영 기...",
-        "date": "2026-06-01 08:58",
-        "link": "https://n.news.naver.com/mnews/article/277/0005770119?sid=101"
-    },
-    {
-        "title": "애플, 웨어러블 혁신 재도전…애플글래스 개발 박차",
-        "date": "2026-06-01 08:43",
-        "link": "https://n.news.naver.com/mnews/article/092/0002424810?sid=105"
-    },
-    {
-        "title": "AI 스마트 안경 '후끈'...애플, 첫 제품 내년 출시?",
-        "date": "2026-06-01 08:24",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=166002"
-    },
-    {
-        "title": "엔비디아 차세대 AI칩, 애플 3년 전 칩과 비슷?",
-        "date": "2026-06-01 08:12",
-        "link": "https://www.g-enews.com/view.php?ud=2026060107582080839a1f309431_1"
-    },
-    {
-        "title": "갤럭시 Z 폴드8 실물 추정 사진 국내서 포착...듀얼 카메라 눈길",
-        "date": "2026-06-01 08:02",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=544525"
-    },
-    {
-        "title": "[AI핫이슈] 애플·MS AI 전략 심판대..AI 비용 급증 논란",
-        "date": "2026-06-01 07:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670687"
-    },
-    {
-        "title": "노트북·태블릿 화면 더 ‘짱짱’하게…삼성, 세계 첫 8.6세대 OLED 양산",
-        "date": "2026-06-01 07:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005687525?sid=101"
     }
 ]
