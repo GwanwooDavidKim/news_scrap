@@ -1,5 +1,90 @@
 [
     {
+        "title": "애플 앱스토어 상위 앱 40%가 AI 탑재…결제 증가율 4배",
+        "date": "2026-06-05 06:34",
+        "link": "https://www.ajunews.com/view/20260605063134022"
+    },
+    {
+        "title": "경쟁사 속도전에 자극받았나…애플, 비전 프로 접고 안경으로 급선회",
+        "date": "2026-06-05 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013988102?sid=105"
+    },
+    {
+        "title": "고품질 ‘애플수박’ 첫 온라인 판매 나서",
+        "date": "2026-06-05 05:01",
+        "link": "https://n.news.naver.com/mnews/article/662/0000096640?sid=102"
+    },
+    {
+        "title": "마치 '갤럭시 북' 같다...갤럭시 Z 폴드 8, 태블릿에 가까워지다",
+        "date": "2026-06-05 00:00",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313131"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 에이서, 스위프트 에어 14 노트북과 공유기 그리고 엔터...",
+        "date": "2026-06-04 23:40",
+        "link": "https://kbench.com/?q=node/279281"
+    },
+    {
+        "title": "애플페이 티머니, 카카오페이로 충전한다",
+        "date": "2026-06-04 22:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006297752?sid=105"
+    },
+    {
+        "title": "GOODTV 창사 30주년 '바이블 애플' 이벤트 성료…성경 읽기 문화 확산",
+        "date": "2026-06-04 22:02",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=460502"
+    },
+    {
+        "title": "[미디어포커스] 애플, 차세대 AI '시리' 9월 출시…복잡한 작업은 구글클...",
+        "date": "2026-06-04 21:14",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550156"
+    },
+    {
+        "title": "애플 앱스토어서 러 국가주도 메신저 '막스' 삭제",
+        "date": "2026-06-04 19:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0016120673?sid=104"
+    },
+    {
+        "title": "'OLED 초격차 승부' LGD, 대만서 게이밍 모니터 판 키운다",
+        "date": "2026-06-04 18:18",
+        "link": "https://n.news.naver.com/mnews/article/014/0005530718?sid=101"
+    },
+    {
+        "title": "LGD 올레드 게임모니터 몰입감 최고",
+        "date": "2026-06-04 17:56",
+        "link": "https://n.news.naver.com/mnews/article/009/0005689480?sid=101"
+    },
+    {
+        "title": "마이크로소프트, AI 에이전트 전용 플랫폼 ‘프로젝트 솔라라’ 공개",
+        "date": "2026-06-04 17:54",
+        "link": "https://news.appstory.co.kr/daily19190"
+    },
+    {
+        "title": "'아이폰 울트라' 실물에 가까운 유출 등장…삼성과 정면 승부 시작되나",
+        "date": "2026-06-04 17:50",
+        "link": "https://www.betanews.net/article/view/beta202606040109"
+    },
+    {
+        "title": "커세어, TC80 게이밍 체어 등 신제품 공개",
+        "date": "2026-06-04 17:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=842502"
+    },
+    {
+        "title": "삼성, 폴더블폰 선전에도 1위 탈환 실패…“‘폴드 와이드’로 반격 노...",
+        "date": "2026-06-04 17:34",
+        "link": "https://www.ceoscoredaily.com/page/view/2026060416315820868"
+    },
+    {
+        "title": "AI 앞세워 21년 연속 석권…삼성전자, 글로벌 TV 시장 1위 등극",
+        "date": "2026-06-04 17:26",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=261460"
+    },
+    {
+        "title": "텍사스 앱스토어 연령 확인법 시행…애플, 미성년자 앱 다운로드에 부모...",
+        "date": "2026-06-04 17:12",
+        "link": "https://news.appstory.co.kr/daily19188"
+    },
+    {
         "title": "삼성D, 8세대 IT OLED 양산 앞둬…경쟁사는 '온도차'",
         "date": "2026-06-04 17:00",
         "link": "http://www.srtimes.kr/news/articleView.html?idxno=204586"
@@ -175,7 +260,7 @@
         "link": "https://www.betanews.net/article/view/beta202606040039"
     },
     {
-        "title": "LGD의 자신감 “中 OLED 추격? 13년 기술·공급망 격차 있어”",
+        "title": "LGD의 자신감 “中 OLED 추격? 아직 상당한 격차”",
         "date": "2026-06-04 13:24",
         "link": "https://n.news.naver.com/mnews/article/029/0003030055?sid=101"
     },
@@ -393,125 +478,5 @@
         "title": "599달러 맥북이 시장 흔들었다…애플 '네오', 생산 두 배 늘린 이유",
         "date": "2026-06-04 07:00",
         "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313081"
-    },
-    {
-        "title": "'카툭튀' 줄이려다 벽돌폰되나…애플 아이폰18, 카메라 욕심에 무게 늘...",
-        "date": "2026-06-04 06:02",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163171"
-    },
-    {
-        "title": "애플 주가, 지난달 15% 급등한 이유…“AI 기대감·아이폰 판매 호조”",
-        "date": "2026-06-04 03:02",
-        "link": "https://www.g-enews.com/view.php?ud=2026060322474780169a1f309431_1"
-    },
-    {
-        "title": "인텔 코어 시리즈 3 프로세서, 중저가 노트북 PC 시장 확대 나선다",
-        "date": "2026-06-04 02:24",
-        "link": "https://it.donga.com/108975/"
-    },
-    {
-        "title": "가독성 좋아진 OLED, 사무용 모니터 시장 노크",
-        "date": "2026-06-04 00:35",
-        "link": "https://n.news.naver.com/mnews/article/023/0003980041?sid=105"
-    },
-    {
-        "title": "인텔·애플 M5 다 비켜…퀄컴 '스냅드래곤 X2 엘리트' 성능 지표 '압도...",
-        "date": "2026-06-03 18:45",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229801?sid=105"
-    },
-    {
-        "title": "[컴퓨텍스 2026] 개인화된 PC 하드웨어로 승부한다... 커세어",
-        "date": "2026-06-03 18:30",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59567"
-    },
-    {
-        "title": "같은 게임인데 이렇게 다르네 … 삼성디스플레이 OLED 체험장 관람객...",
-        "date": "2026-06-03 18:18",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/03/2026060300070.html"
-    },
-    {
-        "title": "BOE, 오는 17일 8.6세대 OLED 양산식…삼성D와 본격 양산 경쟁 시작",
-        "date": "2026-06-03 18:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003434075?sid=105"
-    },
-    {
-        "title": "애플 “패스워드 완전히 없애라”... 패스키 생태계 협력 강조",
-        "date": "2026-06-03 17:36",
-        "link": "http://www.boannews.com/media/view.asp?idx=143937&kind=3"
-    },
-    {
-        "title": "비밀번호 없이 '패스키'만으로 로그인…애플이 그리는 미래 [어센티케이...",
-        "date": "2026-06-03 17:28",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163221"
-    },
-    {
-        "title": "가독성·번인 약점 잡고 사무용 시장 노리는 디스플레이 업계",
-        "date": "2026-06-03 17:01",
-        "link": "https://n.news.naver.com/mnews/article/023/0003979970?sid=105"
-    },
-    {
-        "title": "가벼워진 ‘갤럭시 Z 폴드’…가로형 디자인으로 아이폰 폴더블 견제",
-        "date": "2026-06-03 15:41",
-        "link": "https://n.news.naver.com/mnews/article/029/0003029852?sid=105"
-    },
-    {
-        "title": "길쭉한 폴더블폰 종말? 삼성, 애플, 화웨이 '여권폰 동상삼몽' [IT+]",
-        "date": "2026-06-03 15:33",
-        "link": "https://n.news.naver.com/mnews/article/665/0000007488?sid=105"
-    },
-    {
-        "title": "삼성디스플레이, 엔비디아와 OLED 게이밍 화질 체험존 운영",
-        "date": "2026-06-03 14:47",
-        "link": "https://n.news.naver.com/mnews/article/031/0001032651?sid=105"
-    },
-    {
-        "title": "[르포] 엔비디아와 손잡은 삼성디플 OLED…보는 전시서 ‘체험형’으로...",
-        "date": "2026-06-03 14:44",
-        "link": "https://www.etoday.co.kr/news/view/2590092"
-    },
-    {
-        "title": "[테크M 트렌드] 애플 '맥북 네오' 인기에 보급형 시장 흔들...반격 채비...",
-        "date": "2026-06-03 13:32",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=152331"
-    },
-    {
-        "title": "젠슨 황 가는 곳마다 터지는 환호…삼성·SK '엔비디아 협력' 전면에",
-        "date": "2026-06-03 13:26",
-        "link": "https://n.news.naver.com/mnews/article/018/0006296565?sid=101"
-    },
-    {
-        "title": "국내 첫 그래핀 국제 기술교류회 열린다…상용화·글로벌 협력 모색",
-        "date": "2026-06-03 12:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003433997?sid=105"
-    },
-    {
-        "title": "[포토] 삼성D, '4K·360Hz 동시 구현 OLED' 컴퓨텍스 2026서 첫선",
-        "date": "2026-06-03 11:56",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1373114"
-    },
-    {
-        "title": "F1 머신 질주도 선명하게…삼성 QD-OLED가 끌어올린 게임 몰입감",
-        "date": "2026-06-03 10:44",
-        "link": "https://n.news.naver.com/mnews/article/008/0005366561?sid=101"
-    },
-    {
-        "title": "애플 iOS 27, 시리 대개편부터 영상 자막까지 주목할 변화 5선",
-        "date": "2026-06-03 07:58",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=671600"
-    },
-    {
-        "title": "아이폰도 AI 비서 전면전…iOS 27, '새 시리' 앞세워 반격",
-        "date": "2026-06-03 07:52",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313027"
-    },
-    {
-        "title": "영수증 찍으면 자동 계산…애플, iOS27에 더치페이 기능 추가",
-        "date": "2026-06-03 07:52",
-        "link": "https://n.news.naver.com/mnews/article/092/0002425154?sid=105"
-    },
-    {
-        "title": "삼성D·LGD, 대만서 고객사 쟁탈전···차세대 게이밍 OLED '총출동'",
-        "date": "2026-06-03 07:00",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421478"
     }
 ]
