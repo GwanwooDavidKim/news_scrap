@@ -1,5 +1,695 @@
 [
     {
+        "title": "삼성 AI 대전환 본격화...전체 관계사 모든 업무에 AI 도입",
+        "date": "2026-06-09 16:50",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=15711"
+    },
+    {
+        "title": "애플, 2년 만에 ‘시리 AI’ 공개…지각생 오명 벗나",
+        "date": "2026-06-09 16:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0003030864?sid=105"
+    },
+    {
+        "title": "애플, 2년 만에 '시리AI' 내놨지만… 두뇌는 제미나이, 기능도 글쎄",
+        "date": "2026-06-09 16:40",
+        "link": "https://n.news.naver.com/mnews/article/469/0000935494?sid=105"
+    },
+    {
+        "title": "[전자는 지금] 삼성, 모든 업무에 AI 도입 본격화 外",
+        "date": "2026-06-09 16:36",
+        "link": "https://dealsite.co.kr/articles/163229"
+    },
+    {
+        "title": "CEO로서 마지막 기조발표 팀 쿡…“탱큐” 연발에 15년 회고 눈물도",
+        "date": "2026-06-09 16:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0003030858?sid=104"
+    },
+    {
+        "title": "애플, 미성년자 보호에 규제보다 먼저 움직였다",
+        "date": "2026-06-09 16:20",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=239728"
+    },
+    {
+        "title": "애플, 제미나이 입힌 시리 공개…‘AI 에이전트’로 반격 시도",
+        "date": "2026-06-09 16:14",
+        "link": "https://n.news.naver.com/mnews/article/028/0002808824?sid=101"
+    },
+    {
+        "title": "베일 벗은 iOS 27…아이폰 성능 확 바꿀 핵심 기능 7가지",
+        "date": "2026-06-09 16:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673343"
+    },
+    {
+        "title": "삼성 One UI 8.5 업데이트 설치해도 기종별 신기능 일부 빠져 논란",
+        "date": "2026-06-09 16:10",
+        "link": "https://news.appstory.co.kr/daily19209"
+    },
+    {
+        "title": "애플, iOS 27서 드디어 바꿨다…잠금 화면 음악 위젯 '스와이프 삭제' 지...",
+        "date": "2026-06-09 16:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673325"
+    },
+    {
+        "title": "베일 벗은 애플 AI…시장 반응은 “이미 본 거네”",
+        "date": "2026-06-09 15:57",
+        "link": "https://n.news.naver.com/mnews/article/011/0004629234?sid=101"
+    },
+    {
+        "title": "WWDC서 공개된 애플의 새 AI 시리 똑똑한 비서보다 눈치 빠른 비서",
+        "date": "2026-06-09 15:52",
+        "link": "https://www.bizhankook.com/bk/article/32479"
+    },
+    {
+        "title": "애플, '제미나이 품은' 시리 AI 공개…iOS 27 가을 공식 출시",
+        "date": "2026-06-09 15:44",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=741904"
+    },
+    {
+        "title": "비엔엠큐닉스, 게이밍모니터 신제품 'CORE MG32B 280' 출시",
+        "date": "2026-06-09 15:28",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=240192"
+    },
+    {
+        "title": "이재용의 삼성 파운드리, 4년 만에 '흑자전환' 축포 쏘나",
+        "date": "2026-06-09 15:24",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=247857"
+    },
+    {
+        "title": "비엔엠큐닉스, 게이밍모니터 신제품 'CORE MG32B 280' 공개",
+        "date": "2026-06-09 15:20",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1058956"
+    },
+    {
+        "title": "공간 컴퓨팅 시대의 눈(眼)… 라온텍, 독보적 반도체 설계로 기술 장벽...",
+        "date": "2026-06-09 15:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458754"
+    },
+    {
+        "title": "진화한 시리, 화면 내용·대화 맥락 읽는다",
+        "date": "2026-06-09 15:02",
+        "link": "https://n.news.naver.com/mnews/article/030/0003435947?sid=105"
+    },
+    {
+        "title": "비엔엠큐닉스, 게이밍모니터 'CORE MG32B 280' 출시…신제품 라인업 첫 공...",
+        "date": "2026-06-09 14:54",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=88553"
+    },
+    {
+        "title": "애플, 2년 기다린 시리 AI 내놨다…AI 경쟁 복귀 신호탄",
+        "date": "2026-06-09 14:40",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=91701"
+    },
+    {
+        "title": "외산 의존 깨트린다… 켐트로닉스, 차세대 유리 관통 전극(TGV) 공정 내재...",
+        "date": "2026-06-09 14:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458739"
+    },
+    {
+        "title": "마이크로닉스 '컴퓨텍스 2026'에서 AI 및 고성능 전원 솔루션 전시",
+        "date": "2026-06-09 14:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=176489"
+    },
+    {
+        "title": "글로벌 패널사 가동률 폭발… 코세스, 플렉서블 장비 수주 모멘텀 본격...",
+        "date": "2026-06-09 14:30",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458733"
+    },
+    {
+        "title": "앱 실행 30%·에어드롭 80% 빠르다…애플 새 OS, 성능 개선 대신 구형 기...",
+        "date": "2026-06-09 14:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673249"
+    },
+    {
+        "title": "아이폰17 일반 모델, 애플 최신 AI 기능 못 쓴다",
+        "date": "2026-06-09 14:17",
+        "link": "https://n.news.naver.com/mnews/article/092/0002425891?sid=105"
+    },
+    {
+        "title": "애플, WWDC 2026서 시리 AI와 애플 인텔리전스 전면 강화한 iOS 27 공개",
+        "date": "2026-06-09 14:14",
+        "link": "https://news.appstory.co.kr/daily19208"
+    },
+    {
+        "title": "애플, 앱 설치 승인·SNS 사용시간 제한 지원하는 새로운 자녀 보호 기능...",
+        "date": "2026-06-09 14:10",
+        "link": "https://kbench.com/?q=node/279400"
+    },
+    {
+        "title": "애플, EU 규제 충돌로 시리 AI 아이폰 출시 무기한 연기",
+        "date": "2026-06-09 14:04",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=19162"
+    },
+    {
+        "title": "스마트폰 넘어 로봇·XR까지… 나무가, AI 공간 인식 센서로 체질 개선",
+        "date": "2026-06-09 13:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458714"
+    },
+    {
+        "title": "'삼성전자 기밀 유출' 안승호 2심 시작…영업비밀인지 다툰다",
+        "date": "2026-06-09 13:46",
+        "link": "https://n.news.naver.com/mnews/article/008/0005369221?sid=102"
+    },
+    {
+        "title": "2년 기다린 '시리 AI' 공개…애플, 혁신 대신 안정 택했다",
+        "date": "2026-06-09 13:46",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=101785"
+    },
+    {
+        "title": "1분기 글로벌 파운드리 30% 성장…TSMC 점유율 73%",
+        "date": "2026-06-09 13:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003435867?sid=105"
+    },
+    {
+        "title": "삼성 기밀로 삼성 상대 특허소송···안승호 2심서 '영업비밀성' 재공방",
+        "date": "2026-06-09 13:32",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421598"
+    },
+    {
+        "title": "애플페이 이용자는 늘었는데…카드사들은 왜 망설이나",
+        "date": "2026-06-09 13:18",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=45412"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 에이수스, 로그 20주년 기념 제품 공개…AI·게이밍 라인...",
+        "date": "2026-06-09 13:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=402798"
+    },
+    {
+        "title": "마시모(MASI), 14조원 규모 다나허(DHR) 품으로…지수 퇴출·애플 소송 승...",
+        "date": "2026-06-09 13:00",
+        "link": "https://www.tokenpost.kr/news/market/367345"
+    },
+    {
+        "title": "늦어진 애플 AI, 구글 손잡고 반격…관건은 ‘체감 성능’",
+        "date": "2026-06-09 12:58",
+        "link": "https://n.news.naver.com/mnews/article/018/0006301432?sid=105"
+    },
+    {
+        "title": "애플 2년만에 'AI 시리' 공개했지만...'한 방'은 없었다",
+        "date": "2026-06-09 12:52",
+        "link": "https://news.mtn.co.kr/news-detail/2026060911562394860"
+    },
+    {
+        "title": "선익시스템, 페로브스카이트 디스플레이 증착기 만든다",
+        "date": "2026-06-09 12:40",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=57784"
+    },
+    {
+        "title": "S9 칩이 기준, 워치OS 27 지원 모델 절반 이하로 줄어",
+        "date": "2026-06-09 12:06",
+        "link": "https://www.itworld.co.kr/article/4182672/s9-칩이-기준-워치os-27-지원-모델-절반-이하로-줄어.html"
+    },
+    {
+        "title": "애플, 2년 만에 새 시리 AI 공개...제미나이 기반 기능 통합",
+        "date": "2026-06-09 11:56",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202606091106212417"
+    },
+    {
+        "title": "로지텍, 무선 게이밍 마우스 및 커스터마이징 키보드 출시",
+        "date": "2026-06-09 11:50",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=744206"
+    },
+    {
+        "title": "ROG 20년 기술력·미래 비전 담았다…에이수스, 컴퓨텍스 2026서 하이엔드...",
+        "date": "2026-06-09 11:50",
+        "link": "https://www.cnet.co.kr/view/?no=20260609114118"
+    },
+    {
+        "title": "베일 벗은 ‘시리 AI’, 유럽에선 못 쓴다... 애플과 EU의 디지털 시장법...",
+        "date": "2026-06-09 11:40",
+        "link": "http://www.boannews.com/media/view.asp?idx=144019&kind=4"
+    },
+    {
+        "title": "에이수스 '컴퓨텍스 2026'서 ROG 20주년 기념 노하우 담은 하이엔드 라인...",
+        "date": "2026-06-09 11:38",
+        "link": "https://gamefocus.co.kr/detail.php?number=176483"
+    },
+    {
+        "title": "팀 쿡 애플 CEO 마지막 WWDC에서 ‘시리 AI’ 공개",
+        "date": "2026-06-09 11:38",
+        "link": "https://n.news.naver.com/mnews/article/016/0002653994?sid=101"
+    },
+    {
+        "title": "“2년 만에 돌아왔지만…” 시리 AI, 제미나이가 이미 지나간 길을 걷다",
+        "date": "2026-06-09 11:36",
+        "link": "https://www.itworld.co.kr/article/4182652/2년-만에-돌아왔지만-시리-ai-제미나이가-이미-지나간.html"
+    },
+    {
+        "title": "애즈락 '컴퓨텍스 2026' 통해 Taichi 10주년 기념 라인업 공개",
+        "date": "2026-06-09 11:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=176478"
+    },
+    {
+        "title": "가온인터내셔날, 게이밍 마우스 VGN Dragonfly 3 시리즈 국내 출시",
+        "date": "2026-06-09 11:32",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=205962"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 마이크로닉스, 550건 이상 수출 상담 진행… 글로벌 시...",
+        "date": "2026-06-09 11:22",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59627"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 에이수스, ROG 20주년 한정 하이엔드 라인업 '에디션 20...",
+        "date": "2026-06-09 11:22",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59629"
+    },
+    {
+        "title": "삼성, '갤럭시 워치8·워치7' 보안 강화.. 5월 Wear OS 업데이트 배포",
+        "date": "2026-06-09 11:22",
+        "link": "https://kbench.com/?q=node/279389"
+    },
+    {
+        "title": "애플 2년만에 '새 시리' 내놨지만…구글 따라가는 수준 혹평",
+        "date": "2026-06-09 11:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005296607?sid=105"
+    },
+    {
+        "title": "시리 하나 바뀌는데…애플TV부터 스마트글래스까지 줄줄이 영향",
+        "date": "2026-06-09 11:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673194"
+    },
+    {
+        "title": "'시리 AI' 공개한 애플, 새 아이폰-스마트 안경-게임은 패스",
+        "date": "2026-06-09 11:02",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=58542"
+    },
+    {
+        "title": "애플도 AI 에이전트 전쟁 참전…시리 전면 개편 승부수",
+        "date": "2026-06-09 11:00",
+        "link": "http://www.metroseoul.co.kr/article/20260609500098"
+    },
+    {
+        "title": "선익시스템-에스엔디스플레이, 페로브스카이트 디스플레이 사업 MOU",
+        "date": "2026-06-09 10:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=295390"
+    },
+    {
+        "title": "애플의 진짜 승부수…AI를 운영체제로 확장하다",
+        "date": "2026-06-09 10:58",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=239714"
+    },
+    {
+        "title": "애플 폴더블 진입로 차단...삼성전자, 7월 언팩서 '폴드8·울트라' 투트...",
+        "date": "2026-06-09 10:56",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=251679"
+    },
+    {
+        "title": "애플, 구글과 함께 새 AI 아키텍처 공개…'적과의 동침' 통할까",
+        "date": "2026-06-09 10:56",
+        "link": "https://n.news.naver.com/mnews/article/092/0002425868?sid=105"
+    },
+    {
+        "title": "선익시스템 에스엔디스플레이와 페로브스카이트 디스플레이 사업화 협...",
+        "date": "2026-06-09 10:54",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606090045"
+    },
+    {
+        "title": "iOS 27에 등장한 의문의 코드…폴더블 아이폰 암시",
+        "date": "2026-06-09 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673152"
+    },
+    {
+        "title": "애플, 아동 보호 승부수…유해 이미지 차단 기능 추가",
+        "date": "2026-06-09 10:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673149"
+    },
+    {
+        "title": "애플, 시리 AI 개편…화면 인식·앱 연동 기능 확대",
+        "date": "2026-06-09 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673104"
+    },
+    {
+        "title": "iOS 27, 아이폰 아이콘 또 바꿨다…리퀴드 글래스 재정비",
+        "date": "2026-06-09 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673127"
+    },
+    {
+        "title": "업데이트 앞둔 아이폰 사용자 필독…iOS 27 출시 시점 공개",
+        "date": "2026-06-09 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673124"
+    },
+    {
+        "title": "iOS 27서 확 달라진 애플뮤직…시리 AI와 전면 연동",
+        "date": "2026-06-09 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673118"
+    },
+    {
+        "title": "애플 AI 본격 반격…하반기 갤럭시·아이폰 패권 경쟁 ‘2라운드’",
+        "date": "2026-06-09 10:40",
+        "link": "https://n.news.naver.com/mnews/article/119/0003099128?sid=105"
+    },
+    {
+        "title": "선익시스템, 에스엔디스플레이와 페로브스카이트 디스플레이 사업화 협...",
+        "date": "2026-06-09 10:39",
+        "link": "https://n.news.naver.com/mnews/article/030/0003435791?sid=105"
+    },
+    {
+        "title": "유니젯, AI 스마트 글래스 '웨이브가이드' 공정 수주",
+        "date": "2026-06-09 10:38",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=32683"
+    },
+    {
+        "title": "구글 두뇌 장착한 '시리 AI'…애플, WWDC서 플랫폼 에이전트 반격",
+        "date": "2026-06-09 10:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163529"
+    },
+    {
+        "title": "유니젯, 유럽 광학 장비 업체에 잉크젯 공정 수주",
+        "date": "2026-06-09 10:37",
+        "link": "https://n.news.naver.com/mnews/article/030/0003435783?sid=105"
+    },
+    {
+        "title": "'AI 지각생' 애플, 갤럭시 AI 넘을 혁신은 없었다[IT썰]",
+        "date": "2026-06-09 10:34",
+        "link": "https://n.news.naver.com/mnews/article/008/0005369130?sid=105"
+    },
+    {
+        "title": "AI서 체면 구겼던 애플..새 ‘애플 인텔리전스’로 기사회생할까",
+        "date": "2026-06-09 10:30",
+        "link": "https://kpenews.com/View.aspx?No=4105232"
+    },
+    {
+        "title": "[컴퓨텍스 2026] 수출 상담 450만 달러 규모…한미마이크로닉스, 글로...",
+        "date": "2026-06-09 10:23",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230302?sid=105"
+    },
+    {
+        "title": "'시리 AI' 내놓은 애플 … 시장 반응은 '실망'",
+        "date": "2026-06-09 10:22",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=243315"
+    },
+    {
+        "title": "가온인터내셔날, 게이밍 마우스 ‘VGN Dragonfly 3’ 시리즈 2종 출시",
+        "date": "2026-06-09 10:22",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606090037"
+    },
+    {
+        "title": "약속인가 미끼인가, 아이폰 16 프로 사용자에게 건넨 애플 AI의 민낯",
+        "date": "2026-06-09 10:16",
+        "link": "https://www.itworld.co.kr/article/4182625/약속인가-미끼인가-아이폰-16-프로-사용자에게-건넨-애.html"
+    },
+    {
+        "title": "[월드IT뷰] 'AI 시대 지각생' 애플, 구글 AI 매년 1조5270억씩 빌린다…...",
+        "date": "2026-06-09 10:16",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=843282"
+    },
+    {
+        "title": "아이폰16 프로 사용자 '당혹'…애플 인텔리전스 일부 기능 제외",
+        "date": "2026-06-09 10:12",
+        "link": "https://kbench.com/?q=node/279377"
+    },
+    {
+        "title": "애플, WWDC서 ‘시리 AI’ 공개…음성비서에서 맞춤형 AI 비서로",
+        "date": "2026-06-09 10:07",
+        "link": "https://n.news.naver.com/mnews/article/277/0005773721?sid=105"
+    },
+    {
+        "title": "‘굿바이 팀 쿡’…WWDC 2026서 ‘시리 AI’로 경쟁력 재정비",
+        "date": "2026-06-09 10:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230294?sid=105"
+    },
+    {
+        "title": "폼팩터 트렌드 주도하는 폴더블…업체 간 경쟁 핵심은 '와이드'",
+        "date": "2026-06-09 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=215448"
+    },
+    {
+        "title": "애플, 차세대 '시리 AI' 공개…화면 내용·대화 맥락까지 읽는다",
+        "date": "2026-06-09 09:58",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=164957"
+    },
+    {
+        "title": "애플, 구글 AI 기술 활용 '시리 AI' 공개…종합형 AI 도우미 진화",
+        "date": "2026-06-09 09:58",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260609010002857"
+    },
+    {
+        "title": "[온실가스 100만톤클럽 시즌3] 배출량 45% 줄인 LG디스플레이...감축 1위...",
+        "date": "2026-06-09 09:56",
+        "link": "https://www.newspenguin.com/news/articleView.html?idxno=21718"
+    },
+    {
+        "title": "애플 첫 폴더블폰 윤곽…티타늄 초박형 프레임·화이트 단일 색상",
+        "date": "2026-06-09 09:54",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=77581"
+    },
+    {
+        "title": "애플 시리, 2년만에 똑똑해졌다…앙숙 구글과 맞손",
+        "date": "2026-06-09 09:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008993005?sid=105"
+    },
+    {
+        "title": "인텔 맥 시대 막 내린다…애플, 'macOS 27 골든 게이트' 공개",
+        "date": "2026-06-09 09:52",
+        "link": "https://kbench.com/?q=node/279373"
+    },
+    {
+        "title": "애플 주가, 301.54달러 1.89% 하락 마감",
+        "date": "2026-06-09 09:50",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16084517"
+    },
+    {
+        "title": "[주니어전자]애플, 자녀 계정·앱 사용 관리 기능 강화",
+        "date": "2026-06-09 09:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003435716?sid=102"
+    },
+    {
+        "title": "유니젯, 'AI 글래스' 핵심 공정 기반 성장 '주목'",
+        "date": "2026-06-09 09:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006301258?sid=101"
+    },
+    {
+        "title": "애플 '아이폰 울트라' 출시 임박?…iOS 27 베타 코드서 정황 포착",
+        "date": "2026-06-09 09:32",
+        "link": "https://kbench.com/?q=node/279372"
+    },
+    {
+        "title": "필립스, 눈이 편한 144Hz 모니터 '24B2N2200GW' 출시",
+        "date": "2026-06-09 09:32",
+        "link": "https://gamefocus.co.kr/detail.php?number=176462"
+    },
+    {
+        "title": "김치 발효과학 앱으로 소개한 韓식품공학도…애플 개발대회 수상",
+        "date": "2026-06-09 09:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016127476?sid=104"
+    },
+    {
+        "title": "굿바이 쿡, 웰컴 시리 AI… 애플 'AI 지각생' 오명 벗나",
+        "date": "2026-06-09 09:26",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52761"
+    },
+    {
+        "title": "한경농협, 애플망고 공동출하회 첫 출하개시",
+        "date": "2026-06-09 09:24",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=322088"
+    },
+    {
+        "title": "새로운 시리 AI 담았다…애플, 개발자용 iOS 27 베타 배포",
+        "date": "2026-06-09 09:14",
+        "link": "https://kbench.com/?q=node/279371"
+    },
+    {
+        "title": "애플, 제미나이 얹은 '시리 AI' 공개⋯2년 지연 끝 반격 나서",
+        "date": "2026-06-09 09:13",
+        "link": "https://n.news.naver.com/mnews/article/031/0001033725?sid=105"
+    },
+    {
+        "title": "EU가 막았다…애플, 아이폰·아이패드용 시리 AI 출시 무기한 연기",
+        "date": "2026-06-09 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673100"
+    },
+    {
+        "title": "인텔 맥 지원 종료…애플, 실리콘 시대 본격 개막",
+        "date": "2026-06-09 09:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673092"
+    },
+    {
+        "title": "애플, AI 경쟁 본격화…차세대 애플 인텔리전스·시리 AI 공개",
+        "date": "2026-06-09 09:08",
+        "link": "https://kbench.com/?q=node/279370"
+    },
+    {
+        "title": "애플, WWDC 2026서 '시리 AI' 공개…운영체제 전반 AI 확대",
+        "date": "2026-06-09 09:04",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=402768"
+    },
+    {
+        "title": "AI 만난 애플 '시리' 더 강해졌다…어떤 점 달라졌나",
+        "date": "2026-06-09 09:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002425820?sid=105"
+    },
+    {
+        "title": "애플, iOS 27 개발자 베타 배포 시작…정식 출시는 올가을",
+        "date": "2026-06-09 09:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673086"
+    },
+    {
+        "title": "애플, 구글 제미나이와 손잡고 AI 대반격…'애플 인텔리전스' 전면 공개",
+        "date": "2026-06-09 08:58",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=40395"
+    },
+    {
+        "title": "기본형 아이폰17 제외…애플, 온디바이스 AI 12GB 장벽",
+        "date": "2026-06-09 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673077"
+    },
+    {
+        "title": "선익시스템 에스엔디스플레이와 디스플레이 기술 협력",
+        "date": "2026-06-09 08:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1374653"
+    },
+    {
+        "title": "애플, 제미나이 품은 새 '시리 AI' 공개…프라이버시 최우선",
+        "date": "2026-06-09 08:56",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606090010"
+    },
+    {
+        "title": "애플 '시리 AI', EU·중국엔 못간다...AI규제 탓[글로벌AI브리핑]",
+        "date": "2026-06-09 08:51",
+        "link": "https://n.news.naver.com/mnews/article/014/0005532272?sid=105"
+    },
+    {
+        "title": "애플 iOS 27 발표…iOS 26 지원 아이폰 모두 업그레이드",
+        "date": "2026-06-09 08:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673071"
+    },
+    {
+        "title": "애플, 충격적인 AI 사진 기술 공개…촬영 후 카메라 위치까지 바꾼다",
+        "date": "2026-06-09 08:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673078"
+    },
+    {
+        "title": "아이들 스마트폰서 음란물 차단하라…영국, 애플·구글에 경고",
+        "date": "2026-06-09 08:46",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260609010002794"
+    },
+    {
+        "title": "애플, 시리에 AI 심었지만...'개인 에이전트' 기대엔 못 미치며 주가 하...",
+        "date": "2026-06-09 08:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=152454"
+    },
+    {
+        "title": "애플, 인텔리전스 발표 2년 만 '시리 AI' 공개···시장 반응 '냉담'",
+        "date": "2026-06-09 08:44",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=630648"
+    },
+    {
+        "title": "재탄생한 애플의 AI 비서, '시리 AI' 전격 공개…차세대 애플 인텔리전...",
+        "date": "2026-06-09 08:42",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=40394"
+    },
+    {
+        "title": "삼성, AI로 무장하고 TV·가전·웨어러블 전선 넓히다",
+        "date": "2026-06-09 08:42",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=360129"
+    },
+    {
+        "title": "선익시스템, 에스엔디스플레이와 업무 협약",
+        "date": "2026-06-09 08:34",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=708918"
+    },
+    {
+        "title": "WWDC 2026 공개: 구글 제미나이 수혈받은 'Siri AI' [ 글로벌 IB리포트 ]",
+        "date": "2026-06-09 08:34",
+        "link": "https://n.news.naver.com/mnews/article/215/0001254725?sid=101"
+    },
+    {
+        "title": "‘AI 심폐 소생술’ 해낸 팀 쿡의 애플… ‘시리 AI’ 마침내 선보여",
+        "date": "2026-06-09 08:33",
+        "link": "https://n.news.naver.com/mnews/article/023/0003980980?sid=105"
+    },
+    {
+        "title": "애플, 시리AI 공개…제미나이통합에도 개인정보 구글에 안넘겨(종합)",
+        "date": "2026-06-09 08:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016127257?sid=104"
+    },
+    {
+        "title": "선익시스템-에스엔디스플레이, 페로브스카이트 디스플레이 사업 MOU",
+        "date": "2026-06-09 08:24",
+        "link": "https://n.news.naver.com/mnews/article/003/0013994884?sid=101"
+    },
+    {
+        "title": "새로운 시리를 발표한 팀 쿡의 마지막 'WWDC'",
+        "date": "2026-06-09 08:22",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000040882"
+    },
+    {
+        "title": "[WWDC26] 싹 바뀐 애플 시리, 애플 생태계와 완전 통합",
+        "date": "2026-06-09 08:20",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313291"
+    },
+    {
+        "title": "[미국 특징주] 애플, EU 아이폰용 시리 AI 출시 보류…당국과 마찰",
+        "date": "2026-06-09 08:18",
+        "link": "https://www.newspim.com/news/view/20260609000095"
+    },
+    {
+        "title": "[미국 특징주] 애플 투자자들 WWDC 반응 시큰둥...주가 2% 하락",
+        "date": "2026-06-09 08:18",
+        "link": "https://www.newspim.com/news/view/20260609000096"
+    },
+    {
+        "title": "[미국 특징주] 애플 WWDC 핵심 6가지 간단 정리",
+        "date": "2026-06-09 08:18",
+        "link": "https://www.newspim.com/news/view/20260609000098"
+    },
+    {
+        "title": "iOS 27 지원 기기·설치 방법 안내",
+        "date": "2026-06-09 08:12",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202606090066"
+    },
+    {
+        "title": "유니젯, 유럽 고객에 'AR글래스 웨이브가이드용' 잉크젯 설비 공급",
+        "date": "2026-06-09 08:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002425809?sid=105"
+    },
+    {
+        "title": "팀 쿡 마지막 WWDC…애플 AI 경쟁력 시험대로",
+        "date": "2026-06-09 07:57",
+        "link": "https://n.news.naver.com/mnews/article/031/0001033715?sid=105"
+    },
+    {
+        "title": "[비즈 나우] AI 입은 애플 시리…두뇌엔 제미나이",
+        "date": "2026-06-09 07:53",
+        "link": "https://n.news.naver.com/mnews/article/374/0000514849?sid=104"
+    },
+    {
+        "title": "2년 늦은 애플 AI 반격… 시리, 화면·메일·사진 맥락까지 읽는다",
+        "date": "2026-06-09 07:38",
+        "link": "https://n.news.naver.com/mnews/article/366/0001170311?sid=105"
+    },
+    {
+        "title": "폴더블 아이폰·스마트 안경 '티저'도 없어…AI 신기능에만 집중한 애...",
+        "date": "2026-06-09 07:37",
+        "link": "https://n.news.naver.com/mnews/article/003/0013994833?sid=105"
+    },
+    {
+        "title": "시리 출시 이후 최대 개편…애플, 생성형 AI 반격 카드 꺼냈다",
+        "date": "2026-06-09 07:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002653706?sid=105"
+    },
+    {
+        "title": "애플, 사생활 보호 강화한 ‘제미나이 시리’ 공개",
+        "date": "2026-06-09 07:33",
+        "link": "https://n.news.naver.com/mnews/article/029/0003030717?sid=104"
+    },
+    {
+        "title": "애플, 구글 제미나이 기반 '시리AI' 공개…올가을 일반 출시",
+        "date": "2026-06-09 07:30",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=744093"
+    },
+    {
+        "title": "내 화면 보고 대화까지…애플, 훨씬 똑똑해진 차세대 '시리 AI' 공개",
+        "date": "2026-06-09 07:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013994821?sid=105"
+    },
+    {
+        "title": "구글 제미나이 품은 애플 AI…베일 벗은 차세대 애플 인텔리전스",
+        "date": "2026-06-09 07:11",
+        "link": "https://n.news.naver.com/mnews/article/003/0013994820?sid=105"
+    },
+    {
         "title": "애플, 제미나이 붙인 '시리 AI' 공개…시장 평가는 미지근",
         "date": "2026-06-09 06:46",
         "link": "https://www.ajunews.com/view/20260609064321265"
@@ -13,6 +703,11 @@
         "title": "애플, 2년 만에 새 시리 AI 공개...제미나이 기반 기능 통합",
         "date": "2026-06-09 06:40",
         "link": "https://n.news.naver.com/mnews/article/052/0002363796?sid=104"
+    },
+    {
+        "title": "“아동 음란물 막아라”…英 정부, 애플·구글 압박",
+        "date": "2026-06-09 06:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002653685?sid=104"
     },
     {
         "title": "애플, 제미나이 탑재한 새 '시리 AI' 공개",
@@ -40,7 +735,7 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003030706?sid=105"
     },
     {
-        "title": "구글 ‘제미나이’ 품은 애플, 차세대 ‘시리 AI’ 공개…편하지만 한방...",
+        "title": "구글 ‘제미나이’ 품은 애플, 차세대 ‘시리 AI’ 공개",
         "date": "2026-06-09 05:54",
         "link": "https://n.news.naver.com/mnews/article/029/0003030705?sid=105"
     },
@@ -235,14 +930,14 @@
         "link": "https://n.news.naver.com/mnews/article/421/0008991683?sid=104"
     },
     {
-        "title": "[Biz&amp;Law] 한국 NPE 브릿지나인, 애플 상대로 '비전프로' 특허침해 소송...",
-        "date": "2026-06-08 14:18",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=722114"
-    },
-    {
         "title": "애플, 폴더블폰 힌지에 올인…'방열판 역할' 부여 전망",
         "date": "2026-06-08 14:18",
         "link": "https://www.theguru.co.kr/news/article.html?no=102766"
+    },
+    {
+        "title": "[Biz&amp;Law] 한국 NPE 브릿지나인, 애플 상대로 '비전프로' 특허침해 소송...",
+        "date": "2026-06-08 14:18",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=722114"
     },
     {
         "title": "[컴퓨텍스 2026] 키보드 마니아 시선 집중... 체리",
@@ -270,14 +965,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672788"
     },
     {
-        "title": "AI 반격 나서는 '지각생' 애플… WWDC 관전 포인트",
-        "date": "2026-06-08 13:44",
-        "link": "https://n.news.naver.com/mnews/article/277/0005773278?sid=105"
-    },
-    {
         "title": "애플 맥OS 27, 성능·완성도 강화 무게…'스노 레퍼드'식 업데이트 주목",
         "date": "2026-06-08 13:44",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672793"
+    },
+    {
+        "title": "AI 반격 나서는 '지각생' 애플… WWDC 관전 포인트",
+        "date": "2026-06-08 13:44",
+        "link": "https://n.news.naver.com/mnews/article/277/0005773278?sid=105"
     },
     {
         "title": "시스윈로보틱스, 표준 저상형 AMR 'A-BOT' 출시…“합리적 가격으로 자동...",
@@ -385,14 +1080,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672645"
     },
     {
-        "title": "iOS 27 공개 임박…애플, 기본 앱 대대적 변화 예고",
-        "date": "2026-06-08 10:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672661"
-    },
-    {
         "title": "애플, 아이패드OS 27 공개 임박…AI 기능 대거 탑재 전망",
         "date": "2026-06-08 10:10",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672658"
+    },
+    {
+        "title": "iOS 27 공개 임박…애플, 기본 앱 대대적 변화 예고",
+        "date": "2026-06-08 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672661"
     },
     {
         "title": "'갤럭시 워치9·울트라2' 3C 인증 통과…충전 속도 변화 없나",
