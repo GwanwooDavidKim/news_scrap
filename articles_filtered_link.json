@@ -1,5 +1,185 @@
 [
     {
+        "title": "삼성전자 '와이드폴드' UTG, 갤Z폴드8보다 30% 두껍다...주름 개선 기대",
+        "date": "2026-06-12 16:14",
+        "link": "https://n.news.naver.com/mnews/article/092/0002426418?sid=105"
+    },
+    {
+        "title": "현대카드 'EMV 태그리스' 혁신 주도…정태영 부회장 '뚝심' 빛났다",
+        "date": "2026-06-12 16:04",
+        "link": "https://www.asiatime.co.kr/article/20260612500293"
+    },
+    {
+        "title": "애플 '시리 AI' 메모리 변수...최신 아이폰서만 온전히 사용 가능",
+        "date": "2026-06-12 15:21",
+        "link": "https://n.news.naver.com/mnews/article/031/0001034745?sid=105"
+    },
+    {
+        "title": "글로벌 디스플레이 시장 패러다임 전환…OLED 가치사슬, 장기 성장 국면...",
+        "date": "2026-06-12 14:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459716"
+    },
+    {
+        "title": "장기성장 발판 마련한 LGD…‘비수기’ 2분기 시험대",
+        "date": "2026-06-12 14:48",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1303847&inflow=N"
+    },
+    {
+        "title": "애플 iOS 27, 자녀 보호 기능 손질…웹 차단·연락처 승인 강화",
+        "date": "2026-06-12 14:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674556"
+    },
+    {
+        "title": "맥에도 터치 들어온다?…애플 신형 맥북 출시설 확산",
+        "date": "2026-06-12 14:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674529"
+    },
+    {
+        "title": "무료 AI로 사용자 싹쓸이 애플·구글 vs 기업 고객 집중 오픈AI",
+        "date": "2026-06-12 14:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674534"
+    },
+    {
+        "title": "애플, 생성형 AI 기능 지원 아이폰 1분기 누적 4.5억대 출하",
+        "date": "2026-06-12 14:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0009000729?sid=105"
+    },
+    {
+        "title": "현대차 이어 글로벌 거물까지…티엑스알로보틱스, 물류 로봇 영토 확장...",
+        "date": "2026-06-12 14:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459694"
+    },
+    {
+        "title": "삼성 '갤럭시S26 FE'…달라진 디자인 4가지 살펴보니",
+        "date": "2026-06-12 14:12",
+        "link": "https://kbench.com/?q=node/279526"
+    },
+    {
+        "title": "삼성전자 구글 TPU 부품 품나… '2나노 수주' 눈앞",
+        "date": "2026-06-12 14:06",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=722471"
+    },
+    {
+        "title": "애플 승부수, 시리… AI 생태계 흡수 나선다",
+        "date": "2026-06-12 13:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674520"
+    },
+    {
+        "title": "LG디스플레이의 OLED 혁신...게이머들 주머니 사정 덜었다",
+        "date": "2026-06-12 13:11",
+        "link": "https://www.newspim.com/news/view/20260612000521"
+    },
+    {
+        "title": "AI 경쟁 다크호스 된 애플 음성비서 '시리'",
+        "date": "2026-06-12 13:02",
+        "link": "https://www.naeil.com/news/read/591634?ref=naver"
+    },
+    {
+        "title": "애플꼬마김밥, 147호점 루원시티점 오픈",
+        "date": "2026-06-12 12:34",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=383272"
+    },
+    {
+        "title": "이안, '2026 대한민국 가상융합대상' 수상",
+        "date": "2026-06-12 12:00",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=239809"
+    },
+    {
+        "title": "애플워치 '워키토키' 퇴출?…워치OS 27서 자취 감췄다",
+        "date": "2026-06-12 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674483"
+    },
+    {
+        "title": "맥북도 화면 터치한다…차세대 '맥북 울트라' 유출",
+        "date": "2026-06-12 10:58",
+        "link": "https://kbench.com/?q=node/279513"
+    },
+    {
+        "title": "삼성전자 '갤럭시 와이드 모델' 7월 출시…폴드·플립 중간 가격에 여성...",
+        "date": "2026-06-12 10:54",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=843657"
+    },
+    {
+        "title": "애플TV 대표 첩보물 '슬로 호시스', 시즌6 온다…9월 16일 공개",
+        "date": "2026-06-12 10:26",
+        "link": "https://m.entertain.naver.com/article/119/0003100407"
+    },
+    {
+        "title": "잡스가 반대한 ‘터치스크린 맥북’ 현실화되나",
+        "date": "2026-06-12 10:15",
+        "link": "https://n.news.naver.com/mnews/article/092/0002426349?sid=105"
+    },
+    {
+        "title": "애플, 새 OS서 가을 신제품 단서 대거 유출…폴더블 폰·터치 맥북 온다",
+        "date": "2026-06-12 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674444"
+    },
+    {
+        "title": "애플 iOS 27, 메일 앱 검색 전면 개편…AI 연동으로 검색 정확도 대폭 향...",
+        "date": "2026-06-12 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674433"
+    },
+    {
+        "title": "애플, 맥OS용 '컨테이너 머신' 공개…리눅스 작업환경 빠르게 전환",
+        "date": "2026-06-12 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674409"
+    },
+    {
+        "title": "애플, 일기 앱 대대적 기능 개선…글쓰기 제안·동기화 시각화",
+        "date": "2026-06-12 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674422"
+    },
+    {
+        "title": "애플 iOS 27, AI 배경화면 생성 기능 탑재…개인별 커스텀 강화",
+        "date": "2026-06-12 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674436"
+    },
+    {
+        "title": "AI 그 이상 담았다…디테일과 속도 끌어올린 애플 새 맥OS 훑어보기",
+        "date": "2026-06-12 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674393"
+    },
+    {
+        "title": "글로벌 메디컬 플랫폼 'K-Dia' 베일 벗었다…구글·애플 마켓 정식 론칭",
+        "date": "2026-06-12 10:00",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=240307"
+    },
+    {
+        "title": "갤럭시Z 폴드8 와이드·워치 울트라2, 인도 인증 포착…출시 기대감↑",
+        "date": "2026-06-12 09:36",
+        "link": "https://kbench.com/?q=node/279506"
+    },
+    {
+        "title": "시리 AI는 어떻게 작동하나…애플·구글 협력 구조 윤곽 드러나",
+        "date": "2026-06-12 09:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674387"
+    },
+    {
+        "title": "[애널픽] '독보적 기술' 도우인시스, 고성장 사이클 진입",
+        "date": "2026-06-12 08:40",
+        "link": "https://theviewers.co.kr/View.aspx?No=4109646"
+    },
+    {
+        "title": "애플 ‘시리 AI’ 도입에…삼전닉스, 메모리 수혜 기대",
+        "date": "2026-06-12 08:07",
+        "link": "https://n.news.naver.com/mnews/article/018/0006303925?sid=101"
+    },
+    {
+        "title": "도우인시스, 신규 모델 효과에 증설까지…성장궤도 진입-키움",
+        "date": "2026-06-12 07:50",
+        "link": "https://n.news.naver.com/mnews/article/018/0006303905?sid=101"
+    },
+    {
+        "title": "스마트폰, '스펙'보다 'AI 경험'⋯지능형 단말 시대 본격화",
+        "date": "2026-06-12 07:47",
+        "link": "https://n.news.naver.com/mnews/article/031/0001034591?sid=105"
+    },
+    {
+        "title": "LCD 넘보는 LGD…보급형 OLED 모니터 출격",
+        "date": "2026-06-12 07:02",
+        "link": "https://dealsite.co.kr/articles/163372"
+    },
+    {
         "title": "창원지법, 매장 애플워치 등 전자기기 팔아 5천만 원 횡령 '집유·사회봉...",
         "date": "2026-06-12 06:30",
         "link": "http://www.lawissue.co.kr/view.php?ud=2026061121322620609a8c8bf58f_12"
@@ -313,11 +493,6 @@
         "title": "ETRI, 차세대 AI·XR 디스플레이용 '초미세 접합 기술' 개발...HBM4보다 정...",
         "date": "2026-06-11 09:06",
         "link": "https://n.news.naver.com/mnews/article/030/0003436562?sid=105"
-    },
-    {
-        "title": "초등학생도 구글, 애플 등 기업을 분석할 수 있다... 윤진기 경남대 명...",
-        "date": "2026-06-11 09:04",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199304"
     },
     {
         "title": "'베젤 더 얇아졌다'…갤럭시Z 폴드8 울트라, 유출 이미지 등장",
