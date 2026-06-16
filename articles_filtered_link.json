@@ -1,5 +1,470 @@
 [
     {
+        "title": "갤럭시 워치9 클래식 출시 '오리무중'… FCC·CMIIT서 연이어 제외",
+        "date": "2026-06-16 18:00",
+        "link": "https://kbench.com/?q=node/279614"
+    },
+    {
+        "title": "실적 경고등 켜진 DX… 노태문號, AI 중심 반등 전략 짠다",
+        "date": "2026-06-16 18:00",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260617010005707"
+    },
+    {
+        "title": "마이크로이, 애플비전프로용 소형 트래킹 디바이스 '스페이셜 앵커 R1·...",
+        "date": "2026-06-16 17:52",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82213"
+    },
+    {
+        "title": "투자 줄여 부채 8조 감축…신기술 경쟁에 부메랑 되나[재무포커스]",
+        "date": "2026-06-16 17:50",
+        "link": "https://n.news.naver.com/mnews/article/011/0004631757?sid=101"
+    },
+    {
+        "title": "삼성전자, 'AI 대전환'으로 체질 개선 속도…원가 부담 해법 찾는다",
+        "date": "2026-06-16 17:48",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308461"
+    },
+    {
+        "title": "PC∙모바일부터 구글∙애플 앱 마켓-공식채널 동기화…넷마블, 'SOL: e...",
+        "date": "2026-06-16 17:38",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=262775"
+    },
+    {
+        "title": "갤럭시, 피싱앱 실행까지 막는다… 하반기 출시 One UI 9.0부터 제공",
+        "date": "2026-06-16 17:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=742549"
+    },
+    {
+        "title": "자동차 디스플레이 저전력 핵심 '제로 편광필름' 기술 뜬다",
+        "date": "2026-06-16 17:18",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=58167"
+    },
+    {
+        "title": "갤럭시 A16 5G도 One UI 9 받나… 삼성 테스트 펌웨어 포착",
+        "date": "2026-06-16 16:42",
+        "link": "https://news.appstory.co.kr/daily19229"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 기능 고도화…피싱 앱 실행 원천 차단",
+        "date": "2026-06-16 16:22",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=58142"
+    },
+    {
+        "title": "아이폰 18 기본 모델 2027년 출시설… 애플 출시 전략 변화 가능성",
+        "date": "2026-06-16 16:18",
+        "link": "https://news.appstory.co.kr/daily19228"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 강화로 악성 앱·메시지·보이스피싱 '차단'",
+        "date": "2026-06-16 16:18",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=757559"
+    },
+    {
+        "title": "[TOP's Pick] [전자·IT] 삼성전자, 갤럭시 기기 보안 '사전 차단'으로 고...",
+        "date": "2026-06-16 16:13",
+        "link": "https://www.topdaily.kr/articles/110563"
+    },
+    {
+        "title": "삼성전자, AI 노트북 '갤럭시 북6 엣지' 美 출시",
+        "date": "2026-06-16 15:54",
+        "link": "https://www.newspim.com/news/view/20260616000948"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 강화…피싱앱 실행까지 차단",
+        "date": "2026-06-16 15:54",
+        "link": "https://www.todayeconomic.com/news/article.html?no=30982"
+    },
+    {
+        "title": "LGD '2Q 적자 전망' 불구, 기대감에 더 무게 실리는 이유는",
+        "date": "2026-06-16 15:50",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140114"
+    },
+    {
+        "title": "애플, iOS 26.5.2 마이너 업데이트 출시 준비하나",
+        "date": "2026-06-16 15:42",
+        "link": "https://kbench.com/?q=node/279606"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 강화…피싱 앱 사전 차단으로 고도화",
+        "date": "2026-06-16 15:36",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=360559"
+    },
+    {
+        "title": "영풍전자, 매출 74% 증발 뒤 공정위 조사…협력사에 떠넘긴 경영위기 의...",
+        "date": "2026-06-16 15:32",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=98886"
+    },
+    {
+        "title": "삼성전자, 내년 갤럭시S27에 BOE OLED 적용 가능성 낮아져",
+        "date": "2026-06-16 15:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002426850?sid=105"
+    },
+    {
+        "title": "[2026 산업AX KOREA] 포스텍, 스마트 데이터·공정·품질 3대 랩으로 중소...",
+        "date": "2026-06-16 15:20",
+        "link": "https://www.hellot.net/news/article.html?no=113241"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 '사전 차단'으로 고도화",
+        "date": "2026-06-16 15:18",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593783727275"
+    },
+    {
+        "title": "삼성전자 피싱앱 실행 전 막는다…갤럭시 보안 업그레이드",
+        "date": "2026-06-16 14:55",
+        "link": "https://n.news.naver.com/mnews/article/119/0003101552?sid=105"
+    },
+    {
+        "title": "애플 OS 27, 미러링 기능 강화…창 크기 조절·DRM 영상 지원",
+        "date": "2026-06-16 14:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675485"
+    },
+    {
+        "title": "애플, 올해 아이폰 못 접나…‘아이폰 울트라’ 내년 출시설",
+        "date": "2026-06-16 14:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002426841?sid=105"
+    },
+    {
+        "title": "'S자'로 접는다… 화웨이 신개념 3단 폴더블폰 특허 출원",
+        "date": "2026-06-16 14:26",
+        "link": "https://kbench.com/?q=node/279604"
+    },
+    {
+        "title": "애플 iOS 26.6 베타2 배포…차단 연락처 제한·도난 방지 기능 포함",
+        "date": "2026-06-16 14:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675440"
+    },
+    {
+        "title": "맥OS 26으로 인텔 맥 지원 종료…애플이 인텔을 버린 이유",
+        "date": "2026-06-16 14:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675438"
+    },
+    {
+        "title": "애플 시리 AI '유료 요금제' 도입되나…과금 시나리오 부상",
+        "date": "2026-06-16 14:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675431"
+    },
+    {
+        "title": "애플, iOS 27서 메시지 앱 대수술…전송·동기화 오류 줄인다",
+        "date": "2026-06-16 14:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675435"
+    },
+    {
+        "title": "청송 주왕산면 '애플난타단', 지역사회 활력소",
+        "date": "2026-06-16 14:00",
+        "link": "https://www.kbsm.net/news/view.php?idx=523155"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 ‘사전 차단’으로 고도화한다",
+        "date": "2026-06-16 13:42",
+        "link": "http://www.boannews.com/media/view.asp?idx=144133&kind=3"
+    },
+    {
+        "title": "힘찬 북소리로 하나 된 마을… 청송 부일2리 ‘애플난타단‘ 활약으로 ...",
+        "date": "2026-06-16 13:34",
+        "link": "https://www.kbmaeil.com/article/20260616500340"
+    },
+    {
+        "title": "사흘간 열리는 삼성전자 ‘글로벌 전략회의’…사업부별 주요 의제는",
+        "date": "2026-06-16 13:26",
+        "link": "https://www.news2day.co.kr/article/20260616500075"
+    },
+    {
+        "title": "삼성, 스냅드래곤 X2 엘리트 품은 '갤럭시 북6 엣지' 미국서 출시.. 가격...",
+        "date": "2026-06-16 13:20",
+        "link": "https://kbench.com/?q=node/279602"
+    },
+    {
+        "title": "내 폰에 몰래 숨어든 악성 앱, 삼성 갤럭시가 다 잡아낸다",
+        "date": "2026-06-16 13:19",
+        "link": "https://n.news.naver.com/mnews/article/009/0005694459?sid=105"
+    },
+    {
+        "title": "[글로벌] 애플, 시리에 외부 AI 연결 검토...iOS 27서 '멀티 AI' 확장 가능...",
+        "date": "2026-06-16 13:18",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=152638"
+    },
+    {
+        "title": "옴디아 “2026년 대형 디스플레이 시장서 LCD 주춤, OLED 성장”",
+        "date": "2026-06-16 12:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003438061?sid=105"
+    },
+    {
+        "title": "[산업 뉴스브리핑] 갤럭시 보안 고도화하는 삼성전자…피싱앱 설치 넘...",
+        "date": "2026-06-16 12:32",
+        "link": "https://www.asiatime.co.kr/article/20260616500213"
+    },
+    {
+        "title": "MSI, 'MAG 322UP QD-OLED E16' 및 'MAG 272UP QD-OLED E16' 모니터 출시",
+        "date": "2026-06-16 12:26",
+        "link": "https://m.sports.naver.com/esports/article/442/0000193454"
+    },
+    {
+        "title": "삼성전자, 머스크 자회사의 ‘두뇌 이식용’ 칩 개발",
+        "date": "2026-06-16 12:00",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1304123&inflow=N"
+    },
+    {
+        "title": "갤럭시Z 폴드8 울트라 美 FCC 통과… 와이드 모델은 아직",
+        "date": "2026-06-16 11:54",
+        "link": "https://kbench.com/?q=node/279596"
+    },
+    {
+        "title": "비에이치 주가 9%↑ 애플 폴더블폰·로봇 신사업 수혜",
+        "date": "2026-06-16 11:40",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3609531"
+    },
+    {
+        "title": "삼성전자, 갤럭시 '피싱앱·보이스피싱' 사전 차단한다...보안기능 고도...",
+        "date": "2026-06-16 11:28",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=91835"
+    },
+    {
+        "title": "삼성, 악성앱 실행까지 막는다..갤럭시 보안 '사전 차단' 강화",
+        "date": "2026-06-16 11:26",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2113243"
+    },
+    {
+        "title": "애플 iOS 27, 짐킷 확장…아이폰·에어팟만으로 운동 기록",
+        "date": "2026-06-16 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675392"
+    },
+    {
+        "title": "애플 iOS 27, 미리보기 앱 경험 강화…확대경 기능 도입",
+        "date": "2026-06-16 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675402"
+    },
+    {
+        "title": "배터리 아끼면 느려진다?…애플, iOS 27서 '저전력 모드' 대폭 손봐",
+        "date": "2026-06-16 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675381"
+    },
+    {
+        "title": "설치 막고 실행도 차단…삼성 갤럭시, 보이스피싱 앱 원천 봉쇄한다",
+        "date": "2026-06-16 11:12",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=295829"
+    },
+    {
+        "title": "아이폰18 기본 모델 없다고?…내년 초 출시 무게",
+        "date": "2026-06-16 11:10",
+        "link": "https://n.news.naver.com/mnews/article/092/0002426794?sid=105"
+    },
+    {
+        "title": "아이폰17 프로 논란 재현되나? 아이폰18 프로 색상 내구성 우려",
+        "date": "2026-06-16 10:56",
+        "link": "https://kbench.com/?q=node/279594"
+    },
+    {
+        "title": "새 색상 ‘다크체리’뿐?…외형 변화 적은 아이폰 18 프로, ‘속’ 들여...",
+        "date": "2026-06-16 10:52",
+        "link": "https://n.news.naver.com/mnews/article/009/0005694388?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 강화…피싱앱 설치 넘어 실행까지 차단",
+        "date": "2026-06-16 10:46",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202606161045147338de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 체계 한층 강화-악성 앱 실행 차단부터 보이스피...",
+        "date": "2026-06-16 10:44",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=81074"
+    },
+    {
+        "title": "둥둥둥 울려 퍼진 북소리…청송 부일2리 애플난타단, 마을에 활력 더...",
+        "date": "2026-06-16 10:37",
+        "link": "https://n.news.naver.com/mnews/article/088/0001014726?sid=102"
+    },
+    {
+        "title": "마이크로 LED 국산화 주도…광전자, 독보적 기술력으로 시장 정조준",
+        "date": "2026-06-16 10:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460473"
+    },
+    {
+        "title": "애플, iOS 26.6·iPadOS 26.6 개발자 베타 2 출시",
+        "date": "2026-06-16 10:34",
+        "link": "https://kbench.com/?q=node/279593"
+    },
+    {
+        "title": "갤럭시Z 폴드8 와이드, IMDA 인증 통과… UWB 지원 확인",
+        "date": "2026-06-16 10:22",
+        "link": "https://kbench.com/?q=node/279591"
+    },
+    {
+        "title": "아너 매직 V6 공개…IP69 품은 세계 첫 폴더블폰",
+        "date": "2026-06-16 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675313"
+    },
+    {
+        "title": "삼성, 보이스피싱 막는 '원 UI 9.0' 공개…보안 경쟁력 강화",
+        "date": "2026-06-16 10:14",
+        "link": "https://news.mtn.co.kr/news-detail/2026061609501179830"
+    },
+    {
+        "title": "그래핀스퀘어, 에스엔디스플레이와 MOU 체결",
+        "date": "2026-06-16 10:10",
+        "link": "https://n.news.naver.com/mnews/article/277/0005776900?sid=101"
+    },
+    {
+        "title": "[메자닌 투자파일] 아나패스, OLED·신사업 속도…글로벌 주도권 겨냥",
+        "date": "2026-06-16 10:08",
+        "link": "https://n.news.naver.com/mnews/article/293/0000086310?sid=101"
+    },
+    {
+        "title": "삼성전자, 악성 앱·메시지·보이스피싱 대응 강화...갤럭시 '사전 차단...",
+        "date": "2026-06-16 10:06",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=103666"
+    },
+    {
+        "title": "갤럭시, '피싱앱' 설치부터 실행까지 원천 봉쇄...보안 AI 고도화",
+        "date": "2026-06-16 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006307301?sid=105"
+    },
+    {
+        "title": "갤럭시Z 폴드 정조준…비보 'X 폴드6' 삼성 최신 OLED 패널·2억 화소 카...",
+        "date": "2026-06-16 09:58",
+        "link": "https://kbench.com/?q=node/279582"
+    },
+    {
+        "title": "그래핀스퀘어-에스엔디스플레이, 업무협약 체결... “디스플레이·태양...",
+        "date": "2026-06-16 09:54",
+        "link": "https://www.etoday.co.kr/news/view/2593979"
+    },
+    {
+        "title": "[칼럼] WWDC26, 기대와 실망 사이: 애플의 AI와 미래에 대한 냉정한 평가",
+        "date": "2026-06-16 09:52",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=58713"
+    },
+    {
+        "title": "그래핀스퀘어·에스엔디스플레이, 차세대 디스플레이 소재 개발 협력",
+        "date": "2026-06-16 09:45",
+        "link": "https://n.news.naver.com/mnews/article/016/0002657081?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 '사전 차단'으로 고도화 나섰다",
+        "date": "2026-06-16 09:44",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=205355"
+    },
+    {
+        "title": "삼성전자, '갤럭시' 보안 고도화…악성 앱·메시지 사전 차단",
+        "date": "2026-06-16 09:42",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=122723"
+    },
+    {
+        "title": "삼성전자, '악성 앱 사전 차단' 체계 구축 통해 갤럭시 기기 보안 강화",
+        "date": "2026-06-16 09:36",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82156"
+    },
+    {
+        "title": "삼성, 갤럭시 A27 주요 사양 실수로 공개…스냅드래곤 6 3세대 탑재",
+        "date": "2026-06-16 09:34",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=77949"
+    },
+    {
+        "title": "스마트폰 한계 넘는다…KH바텍, 폴더블폰 팽창에 실적 견인",
+        "date": "2026-06-16 09:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460446"
+    },
+    {
+        "title": "인텔 맥 시대 완전 종말…애플, 최대 규모 구형 하드웨어 숙청",
+        "date": "2026-06-16 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230984?sid=105"
+    },
+    {
+        "title": "삼성전자, 악성앱·보이스피싱 선제 차단…갤럭시 보안 체계 한층 강화",
+        "date": "2026-06-16 09:26",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=131504"
+    },
+    {
+        "title": "WWDC서 숨겼다…애플, 아이폰 18 프로 맞춤형 웰메이드 카메라 UI 예고",
+        "date": "2026-06-16 09:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230981?sid=105"
+    },
+    {
+        "title": "'하반기 공개' 삼성전자 갤럭시, 강력한 보안 기능 탑재",
+        "date": "2026-06-16 09:20",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=913698"
+    },
+    {
+        "title": "시리가 직접 앱 제어한다…애플, AI 에이전트 시장 조준",
+        "date": "2026-06-16 09:19",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230980?sid=105"
+    },
+    {
+        "title": "폴드 울트라도 있네…갤Z8 실물 유출에 갤럭시 부품주 강세",
+        "date": "2026-06-16 09:19",
+        "link": "https://n.news.naver.com/mnews/article/008/0005372383?sid=101"
+    },
+    {
+        "title": "삼성, 갤럭시S27에 中 BOE 패널 채택하나… 사실상 확정 단계",
+        "date": "2026-06-16 09:16",
+        "link": "https://kbench.com/?q=node/279579"
+    },
+    {
+        "title": "LG디스플레이, 3분기 연속 흑자 행진 멈추나…하반기 실적 개선에 무게",
+        "date": "2026-06-16 09:12",
+        "link": "https://www.ceoscoredaily.com/page/view/2026061517015771156"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 고도화…악성 앱 실행까지 차단",
+        "date": "2026-06-16 09:10",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=745531"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 강화…설치된 악성앱도 즉시 실행 차단",
+        "date": "2026-06-16 09:10",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=304847"
+    },
+    {
+        "title": "삼성전자, 갤럭시 악성 메시지 차단 강화…보안 고도화",
+        "date": "2026-06-16 09:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230977?sid=105"
+    },
+    {
+        "title": "설치 막고 실행도 차단…삼성 갤럭시, 보이스피싱 앱 원천 봉쇄한다",
+        "date": "2026-06-16 09:06",
+        "link": "https://n.news.naver.com/mnews/article/003/0014008244?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI로 금융사기 '원천 봉쇄'…전용 보안 기능 대폭 강화",
+        "date": "2026-06-16 09:02",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=113091"
+    },
+    {
+        "title": "삼성전자, '갤럭시' 보안 강화…피싱앱 설치 넘어 실행까지 차단",
+        "date": "2026-06-16 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675289"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 '사전 차단'으로 진화…AI로 보이스피싱·악성앱...",
+        "date": "2026-06-16 08:48",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=40515"
+    },
+    {
+        "title": "현대적 스릴러로 부활…애플 TV ‘케이프 피어’ 몰입도 최고조 관전 포...",
+        "date": "2026-06-16 08:36",
+        "link": "https://m.entertain.naver.com/article/382/0001278461"
+    },
+    {
+        "title": "삼성전자, 갤럭시 보안 ‘사전 차단’으로 고도화",
+        "date": "2026-06-16 08:34",
+        "link": "https://n.news.naver.com/mnews/article/082/0001385575?sid=101"
+    },
+    {
+        "title": "악성 앱·메시지 사전 차단...삼성전자, 갤럭시 보안 고도화",
+        "date": "2026-06-16 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460376"
+    },
+    {
+        "title": "비에이치, 애플 폴더블폰·로봇 신사업 동시 수혜…저평가 구간-대신",
+        "date": "2026-06-16 07:58",
+        "link": "https://n.news.naver.com/mnews/article/018/0006307132?sid=101"
+    },
+    {
+        "title": "[Who Is ?] 박형세 LG전자 MS사업본부장 사장",
+        "date": "2026-06-16 07:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=439633"
+    },
+    {
         "title": "저것도 갤Z폴드야? 새 디자인 나오나...폴더블 세 종류 실물 유출[IT...",
         "date": "2026-06-16 07:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005372333?sid=105"
