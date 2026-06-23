@@ -1,18 +1,373 @@
 [
     {
+        "title": "게이밍 브랜드 앤트게이머, 750Hz 모니터 포함 4종 국내 공식 런칭",
+        "date": "2026-06-23 16:58",
+        "link": "https://www.betanews.net/article/view/beta202606230063"
+    },
+    {
+        "title": "구글·애플 인앱결제 논란 확산…한국만 30% 부담 '불공정'",
+        "date": "2026-06-23 16:54",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=305422"
+    },
+    {
+        "title": "에이수스, 'ASUS Business 비전' 공개… 컨슈머 PC 시장 기술 기반 커머셜...",
+        "date": "2026-06-23 16:50",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59813"
+    },
+    {
+        "title": "비수기에 개통 늘었다…삼성 감사제에 통신업계도 '방긋'",
+        "date": "2026-06-23 16:45",
+        "link": "https://www.newspim.com/news/view/20260623000891"
+    },
+    {
+        "title": "타타 뚫리자 애플·테슬라도 털렸다…‘공급망’ 해킹 경보",
+        "date": "2026-06-23 16:36",
+        "link": "https://n.news.naver.com/mnews/article/029/0003033249?sid=105"
+    },
+    {
+        "title": "아이폰18 기다리다 더 비싸질까…애플 가격 인상 조기 적용 관측",
+        "date": "2026-06-23 16:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677504"
+    },
+    {
+        "title": "삼성 '갤럭시 워치 울트라2' 렌더링 유출...더 얇아진 베젤 적용?",
+        "date": "2026-06-23 16:28",
+        "link": "https://kbench.com/?q=node/279813"
+    },
+    {
+        "title": "지난해 OLED 발광재료 시장 22억 달러 돌파 … 2026년은 성장 둔화 전망",
+        "date": "2026-06-23 16:16",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=85945"
+    },
+    {
+        "title": "바이오부터 웨어러블까지 '실리콘 점착 소재', 차세대 헬스케어 시장의...",
+        "date": "2026-06-23 15:58",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=146856"
+    },
+    {
+        "title": "애플 스튜디오 디스플레이 대안…벤큐, 5K 맥 전용 모니터",
+        "date": "2026-06-23 15:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677566"
+    },
+    {
+        "title": "“중국 iOS 개발자들, 규제당국에 애플 독점 신고”",
+        "date": "2026-06-23 15:42",
+        "link": "https://www.etoday.co.kr/news/view/2596425"
+    },
+    {
+        "title": "애플, 에어포트 유틸리티 앱 서비스 종료 예정",
+        "date": "2026-06-23 15:40",
+        "link": "https://kbench.com/?q=node/279811"
+    },
+    {
+        "title": "KCC실리콘, APFE 2026 참가… 글로벌 소재 시장 공략 강화",
+        "date": "2026-06-23 15:36",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=422162"
+    },
+    {
+        "title": "애플, 패널 3사에 13.8인치 OLED 맥북 RFI 발송",
+        "date": "2026-06-23 15:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002427730?sid=105"
+    },
+    {
+        "title": "청와대 앞으로 달려간 게임업계…구글·애플 우회 수수료 막아달라",
+        "date": "2026-06-23 15:05",
+        "link": "https://n.news.naver.com/mnews/article/008/0005375883?sid=105"
+    },
+    {
+        "title": "애플·테슬라 영업기밀 털렸다…인도 제조사 타타, 630GB 데이터 해킹 사...",
+        "date": "2026-06-23 14:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677508"
+    },
+    {
+        "title": "구형 아이폰 유저 주의…애플도 못 고치는 패치 불가 취약점 발견",
+        "date": "2026-06-23 14:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677495"
+    },
+    {
+        "title": "애플, iOS 27 개발자 베타2 배포…시리 AI 어디까지 진화했나",
+        "date": "2026-06-23 14:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677496"
+    },
+    {
+        "title": "브라질 수수료 5%, 中 왜 25% 내나?…中개발자, '애플 시장독점' 신고",
+        "date": "2026-06-23 14:12",
+        "link": "https://n.news.naver.com/mnews/article/374/0000517683?sid=104"
+    },
+    {
+        "title": "내리찍은 사진도 살린다, 애플의 차세대 아이폰 카메라 업그레이드",
+        "date": "2026-06-23 13:41",
+        "link": "https://www.gqkorea.co.kr/2026/06/23/%eb%82%b4%eb%a6%ac%ec%b0%8d%ec%9d%80-%ec%82%ac%ec%a7%84%eb%8f%84-%ec%82%b4%eb%a6%b0%eb%8b%a4-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%b0%a8%ec%84%b8%eb%8c%80-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%b9%b4%eb%a9%94/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "애플, iOS 27서 에어포트 유틸리티 앱 종료 예고… 2027년 지원 중단",
+        "date": "2026-06-23 13:38",
+        "link": "https://news.appstory.co.kr/daily19261"
+    },
+    {
+        "title": "中개발자들, '애플 시장독점' 신고…앱스토어 선택지 확대요구",
+        "date": "2026-06-23 13:34",
+        "link": "https://n.news.naver.com/mnews/article/001/0016153832?sid=104"
+    },
+    {
+        "title": "반도체 가격 고공행진에 OLED 시장 성장도 주춤",
+        "date": "2026-06-23 13:32",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=58463"
+    },
+    {
+        "title": "인도 타타 해킹 사고에…애플·테슬라 핵심 기밀 다크웹 유출",
+        "date": "2026-06-23 12:44",
+        "link": "https://n.news.naver.com/mnews/article/018/0006312985?sid=104"
+    },
+    {
+        "title": "HKC 게이밍 브랜드 ‘앤트게이머’ 국내 상륙…750Hz 모니터 공개",
+        "date": "2026-06-23 12:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260623120102"
+    },
+    {
+        "title": "1분기 출하량 28% 급감한 삼성 스마트워치, 신제품에 사활",
+        "date": "2026-06-23 11:33",
+        "link": "https://n.news.naver.com/mnews/article/008/0005375774?sid=105"
+    },
+    {
+        "title": "애플 폴더블 아이폰 한 걸음 더.. OLED 생산 승인 완료",
+        "date": "2026-06-23 11:32",
+        "link": "https://kbench.com/?q=node/279792"
+    },
+    {
+        "title": "[자막뉴스] 삼전 주식 올라 좋았는데…삼성·애플 '진퇴양난'에 폰 한...",
+        "date": "2026-06-23 11:25",
+        "link": "https://n.news.naver.com/mnews/article/055/0001366547?sid=101"
+    },
+    {
+        "title": "에이수스, 한국 커머셜 PC시장 본격 도전... 3년 내 외산 브랜드 1위 달...",
+        "date": "2026-06-23 11:22",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59791"
+    },
+    {
+        "title": "애플, iOS 27서 지갑 대변신…지출 데이터 분석 기능 도입",
+        "date": "2026-06-23 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677450"
+    },
+    {
+        "title": "'대만 애플망고 맛보세요'",
+        "date": "2026-06-23 11:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0009018301?sid=101"
+    },
+    {
+        "title": "대만 애플망고 출시",
+        "date": "2026-06-23 11:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0009018303?sid=101"
+    },
+    {
+        "title": "HKC 프리미엄 게이밍 브랜드 앤트게이머, 750Hz 초고주사율 모니터 포함...",
+        "date": "2026-06-23 11:00",
+        "link": "https://www.thisisgame.com/articles/426704"
+    },
+    {
+        "title": "[ME2026] 에이피아이, 대기압 플라즈마 기술로 표면처리 혁신 제시",
+        "date": "2026-06-23 11:00",
+        "link": "https://kidd.co.kr/news/246437"
+    },
+    {
+        "title": "애플·테슬라 영업비밀 무더기로 다크웹에…인도 제조사 해킹 영향",
+        "date": "2026-06-23 10:59",
+        "link": "https://n.news.naver.com/mnews/article/437/0000497527?sid=104"
+    },
+    {
+        "title": "애플, 개발자용 iOS 27 베타 2 배포...시리 AI·RCS 기능 강화",
+        "date": "2026-06-23 10:56",
+        "link": "https://kbench.com/?q=node/279789"
+    },
+    {
+        "title": "애플, 아이패드OS 27 베타2 배포…시리 AI·UI 개선 본격화",
+        "date": "2026-06-23 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677445"
+    },
+    {
+        "title": "폴더블 아이폰, 9월 출격하나…부품 공급·시생산 포착",
+        "date": "2026-06-23 10:44",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164369"
+    },
+    {
+        "title": "화면 곡면이 곧 기술력… 제이앤티씨, 글로벌 빅테크 러브콜 쏟아진다",
+        "date": "2026-06-23 10:44",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462321"
+    },
+    {
+        "title": "현대백화점, 여름맞이 '대만 애플망고 특가전' 진행",
+        "date": "2026-06-23 10:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016153299?sid=101"
+    },
+    {
+        "title": "현대백화점, 여름맞이 '대만 애플망고 특가전' 진행",
+        "date": "2026-06-23 10:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016153300?sid=101"
+    },
+    {
+        "title": "또 하나의 애플 유산 사라진다…에어포트 앱 퇴출 예고",
+        "date": "2026-06-23 10:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677434"
+    },
+    {
+        "title": "HKC 게이밍 브랜드 '앤트게이머', 750Hz 고주사율 모니터 출시",
+        "date": "2026-06-23 10:38",
+        "link": "https://n.news.naver.com/mnews/article/092/0002427685?sid=105"
+    },
+    {
+        "title": "이게 이제 되네?…애플, RCS 메시지 대폭 개선",
+        "date": "2026-06-23 10:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677421"
+    },
+    {
+        "title": "애플, AI 글쓰기 기능 전면 개편…시리와 통합",
+        "date": "2026-06-23 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677412"
+    },
+    {
+        "title": "KCC실리콘, 중국 기능성 필름 시장 공략 본격",
+        "date": "2026-06-23 10:34",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2113565"
+    },
+    {
+        "title": "애플 아이폰·테슬라 설계도 유출 논란…인도 타타전자 해킹 주장",
+        "date": "2026-06-23 10:24",
+        "link": "https://n.news.naver.com/mnews/article/031/0001036869?sid=105"
+    },
+    {
+        "title": "작년 OLED 발광재료 시장 규모 22.8억달러…전년比 7% 증가",
+        "date": "2026-06-23 10:20",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873045"
+    },
+    {
+        "title": "스마트폰 시대 저무나… 시장의 70%를 삼킨 '얼굴 위 컴퓨터'",
+        "date": "2026-06-23 10:19",
+        "link": "https://n.news.naver.com/mnews/article/088/0001015783?sid=101"
+    },
+    {
+        "title": "아이폰18 프로, 대형 카메라 탑재하나.. 카메라 모듈 2mm 커진다",
+        "date": "2026-06-23 10:12",
+        "link": "https://kbench.com/?q=node/279779"
+    },
+    {
+        "title": "[리뷰] 강력·딴딴·가뿐한 팔방미인 노트북, 에이수스 엑스퍼트북 울트...",
+        "date": "2026-06-23 10:10",
+        "link": "https://it.donga.com/109066/"
+    },
+    {
+        "title": "애플·테슬라, 인도 협력업체 해킹으로 기밀정보 유출",
+        "date": "2026-06-23 10:10",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=212549"
+    },
+    {
+        "title": "역사상 가장 비싼 아이폰 온다…폴더블 '울트라' 9월 베일 벗나",
+        "date": "2026-06-23 10:07",
+        "link": "https://n.news.naver.com/mnews/article/003/0014021779?sid=105"
+    },
+    {
+        "title": "[미국 특징주] 애플·테슬라 영업비밀 등 다크웹에 유출…印 타타전자 ...",
+        "date": "2026-06-23 10:07",
+        "link": "https://www.newspim.com/news/view/20260623000306"
+    },
+    {
+        "title": "OLED 발광재료 시장 지난해 3.5조원 돌파…中 추격 속 성장세 지속",
+        "date": "2026-06-23 10:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1713524"
+    },
+    {
+        "title": "아이폰 도면부터 모델3 설계도까지... 애플·테슬라 핵심 극비문서 무더...",
+        "date": "2026-06-23 10:04",
+        "link": "https://www.insight.co.kr/news/559725"
+    },
+    {
+        "title": "휴대성·성능·내구성·보안 모두 타협 없다... 비즈니스 노트북 '에이수...",
+        "date": "2026-06-23 10:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59788"
+    },
+    {
+        "title": "애플 차기 CEO 존 터너스, 디자인 중심 경영으로 승부수 던지나?",
+        "date": "2026-06-23 09:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545099"
+    },
+    {
+        "title": "애플·테슬라 '630GB' 영업비밀 다크웹 유출…인도 타타 해킹",
+        "date": "2026-06-23 09:41",
+        "link": "https://n.news.naver.com/mnews/article/123/0002385191?sid=104"
+    },
+    {
+        "title": "작년 OLED 발광재료 시장 규모 22.8억달러…1년 새 7% 증가",
+        "date": "2026-06-23 09:39",
+        "link": "https://n.news.naver.com/mnews/article/001/0016153002?sid=101"
+    },
+    {
+        "title": "KCC실리콘, APFE 2026 참가...친환경·고기능 소재 앞세워 중국 시장 공략",
+        "date": "2026-06-23 09:28",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=124512"
+    },
+    {
+        "title": "삼성디스플레이, 애플 폴더블 아이폰용 OLED 패널 독점 공급. 베트남서...",
+        "date": "2026-06-23 09:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545090"
+    },
+    {
+        "title": "칩플레이션에 패널 출하 감소…올해 OLED 발광재료 성장 둔화",
+        "date": "2026-06-23 09:05",
+        "link": "https://n.news.naver.com/mnews/article/018/0006312760?sid=101"
+    },
+    {
+        "title": "애플·테슬라 기밀 유출 의혹…인도 협력사 해킹에 공급망 비상",
+        "date": "2026-06-23 09:00",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606230011"
+    },
+    {
+        "title": "LG디스플레이, 에이수스 24.5인치 OLED 게이밍 모니터에 최신 탠덤 WOLED ...",
+        "date": "2026-06-23 08:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545087"
+    },
+    {
+        "title": "연기는 없다…애플, 7.8인치 화면 접는 '아이폰 울트라' 9월 순항",
+        "date": "2026-06-23 08:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002231702?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블 ‘아이폰 울트라’, 예정대로 9월 출시",
+        "date": "2026-06-23 08:11",
+        "link": "https://n.news.naver.com/mnews/article/092/0002427621?sid=105"
+    },
+    {
+        "title": "우리이앤엘하루틴, AI노트북용 미니LED 백라이트 양산 본격화",
+        "date": "2026-06-23 08:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=216990"
+    },
+    {
+        "title": "[이 시각 세계] 애플·테슬라 영업비밀 다크웹 유출",
+        "date": "2026-06-23 07:16",
+        "link": "https://n.news.naver.com/mnews/article/214/0001507097?sid=104"
+    },
+    {
+        "title": "애플·테슬라 영업비밀 무더기 유출...인도 타타 해킹당해 [마켓핫]",
+        "date": "2026-06-23 07:08",
+        "link": "https://www.etoday.co.kr/news/view/2596128"
+    },
+    {
         "title": "애플·테슬라 영업비밀 다크웹에…인도 제조사 해킹한 듯",
         "date": "2026-06-23 06:53",
         "link": "https://n.news.naver.com/mnews/article/215/0001256247?sid=101"
     },
     {
-        "title": "인도 타타, 해킹 공격 시인…애플·테슬라 영업기밀도 유출된 듯",
-        "date": "2026-06-23 06:14",
-        "link": "https://n.news.naver.com/mnews/article/277/0005779897?sid=104"
+        "title": "애플·테슬라 영업비밀 다크웹 유출…인도 제조사 타타 해킹",
+        "date": "2026-06-23 06:36",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=205275"
     },
     {
         "title": "카메라 달린 에어팟, 내년말 출시 전망…스스로 사물 식별까지?[모닝폰...",
         "date": "2026-06-23 06:14",
         "link": "https://n.news.naver.com/mnews/article/018/0006312622?sid=105"
+    },
+    {
+        "title": "애플·테슬라 영업기밀도 다 털렸다…해킹 사고 시인한 인도 반도체 ...",
+        "date": "2026-06-23 06:14",
+        "link": "https://n.news.naver.com/mnews/article/277/0005779897?sid=104"
     },
     {
         "title": "[PLAY IT] 퀄컴 스냅드래곤X2 엘리트 기반 '갤럭시북6 엣지' 써보니",
@@ -125,6 +480,11 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005697261?sid=101"
     },
     {
+        "title": "HKC 고성능 게이밍 모니터 '앤트게이머', 한국 시장 본격 진출",
+        "date": "2026-06-22 17:40",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59635"
+    },
+    {
         "title": "우리이앤엘하루틴, AI 노트북에 미니LED 공급",
         "date": "2026-06-22 17:26",
         "link": "https://www.thelec.kr/news/articleView.html?idxno=58428"
@@ -198,6 +558,11 @@
         "title": "애플 '아이폰 울트라' 공급망 가동 시작…2026년 출격 전망",
         "date": "2026-06-22 16:08",
         "link": "https://kbench.com/?q=node/279767"
+    },
+    {
+        "title": "더 시에나 라운지 청담, 벨라비타 여름 디너 코스 개편·애플망고 빙수...",
+        "date": "2026-06-22 16:08",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606220122"
     },
     {
         "title": "애플, 미국 애플스토어 3곳 영구 폐점… 첫 노조 매장도 결국 문 닫아",
@@ -415,14 +780,14 @@
         "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=271730"
     },
     {
-        "title": "애플워치 대신 스마트링…오우라 링 5가 내세운 강점",
-        "date": "2026-06-22 11:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677061"
-    },
-    {
         "title": "스마트폰 시장 9주째 추락…애플·화웨이만 웃었다",
         "date": "2026-06-22 11:30",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677066"
+    },
+    {
+        "title": "애플워치 대신 스마트링…오우라 링 5가 내세운 강점",
+        "date": "2026-06-22 11:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677061"
     },
     {
         "title": "애플 내부 대변화 예고…존 터너스, 디자인 DNA 되살린다",
@@ -540,6 +905,11 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676987"
     },
     {
+        "title": "LG디스플레이 OLED, 세계 최초 인터텍 ‘색·밝기’ 인증 100% 획득",
+        "date": "2026-06-22 10:20",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=88317"
+    },
+    {
         "title": "더치페이·일정관리·사진추천까지…애플, iOS 27 AI 기능 대거 공개",
         "date": "2026-06-22 10:16",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676962"
@@ -570,14 +940,14 @@
         "link": "https://www.seoulfn.com/news/articleView.html?idxno=631606"
     },
     {
-        "title": "LG디스플레이 OLED, 색·밝기 정확도 100%⋯ 글로벌 인증 획득",
-        "date": "2026-06-22 10:02",
-        "link": "https://www.viva100.com/article/20260622500137"
-    },
-    {
         "title": "LG디스플레이 원작 의도 그대로…OLED 세계 첫 '색·밝기 정확도' 인증",
         "date": "2026-06-22 10:02",
         "link": "https://www.sentv.co.kr/article/view/sentv202606220004"
+    },
+    {
+        "title": "LG디스플레이 OLED, 색·밝기 정확도 100%⋯ 글로벌 인증 획득",
+        "date": "2026-06-22 10:02",
+        "link": "https://www.viva100.com/article/20260622500137"
     },
     {
         "title": "LG디스플레이 올레드, '완벽한 색·밝기' 인증 세계 최초 획득",
@@ -590,24 +960,24 @@
         "link": "https://n.news.naver.com/mnews/article/003/0014019455?sid=101"
     },
     {
-        "title": "원작자 의도 완벽 반영…LG디스플레이 OLED, 글로벌 인증 획득",
-        "date": "2026-06-22 10:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002427488?sid=105"
-    },
-    {
         "title": "“원작자 의도 완벽 구현” LGD OLED, 세계 최초 ‘색/밝기 정확도 100%’...",
         "date": "2026-06-22 10:01",
         "link": "https://n.news.naver.com/mnews/article/016/0002659578?sid=101"
     },
     {
-        "title": "LG디스플레이 OLED, '완벽한 색·밝기' 인증 세계 첫 획득",
+        "title": "원작자 의도 완벽 반영…LG디스플레이 OLED, 글로벌 인증 획득",
         "date": "2026-06-22 10:01",
-        "link": "https://n.news.naver.com/mnews/article/018/0006311880?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/092/0002427488?sid=105"
     },
     {
         "title": "LG디스플레이, 대형 OLED '색·밝기 정확도' 인증 획득",
         "date": "2026-06-22 10:01",
         "link": "https://n.news.naver.com/mnews/article/030/0003439773?sid=105"
+    },
+    {
+        "title": "LG디스플레이 OLED, '완벽한 색·밝기' 인증 세계 첫 획득",
+        "date": "2026-06-22 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006311880?sid=101"
     },
     {
         "title": "LGD OLED, LCD 한계 넘었다···색·밝기 정확도 100% 입증",
@@ -640,14 +1010,14 @@
         "link": "https://n.news.naver.com/mnews/article/277/0005779475?sid=101"
     },
     {
-        "title": "원작 의도 그대로…LGD OLED, 세계 최초 색·밝기 100% 인증",
-        "date": "2026-06-22 10:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005375065?sid=101"
-    },
-    {
         "title": "LGD OLED, 인터텍 '색/밝기 정확도' 인증 최초 획득",
         "date": "2026-06-22 10:00",
         "link": "https://www.itbiznews.com/news/articleView.html?idxno=216852"
+    },
+    {
+        "title": "원작 의도 그대로…LGD OLED, 세계 최초 색·밝기 100% 인증",
+        "date": "2026-06-22 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005375065?sid=101"
     },
     {
         "title": "원작 그대로 구현…LGD OLED, '색·밝기 정확도' 글로벌 인증 획득",
