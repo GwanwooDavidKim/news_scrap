@@ -1,5 +1,575 @@
 [
     {
+        "title": "애플 OLED 승인 마무리…삼성D·LGD, 패널 양산 본격화",
+        "date": "2026-07-02 15:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320951?sid=101"
+    },
+    {
+        "title": "삼성, 애플 첫 폴더블폰 맞서 라인업 재편…'와이드형' 카드 꺼냈다",
+        "date": "2026-07-02 15:54",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=249417"
+    },
+    {
+        "title": "비엔엠컴퍼니, 게이밍 모니터 ‘큐닉스’ 지분 100% 인수… 하드웨어 시...",
+        "date": "2026-07-02 15:53",
+        "link": "https://n.news.naver.com/mnews/article/020/0003731085?sid=101"
+    },
+    {
+        "title": "[리뷰] AI PC 시대의 '끝판왕' 슬림북, LG 그램 프로 AI 2026",
+        "date": "2026-07-02 15:50",
+        "link": "https://it.donga.com/109123/"
+    },
+    {
+        "title": "성능 업그레이드된 신형 아이패드 프로 나온다…2027년 봄 출시 전망",
+        "date": "2026-07-02 15:46",
+        "link": "https://kbench.com/?q=node/280098"
+    },
+    {
+        "title": "KT, 50만원대 AI폰 ‘갤럭시 점프5’ 단독 출시",
+        "date": "2026-07-02 15:44",
+        "link": "https://www.todayeconomic.com/news/article.html?no=31176"
+    },
+    {
+        "title": "SK·삼성, 2·3차 협력사까지 상생 확대…“AI시대 공급망 경쟁력 강화”",
+        "date": "2026-07-02 15:40",
+        "link": "https://www.ekn.kr/web/view.php?key=20260702029488210"
+    },
+    {
+        "title": "SK, 협력사와 상생 협약 체결…동반성장 생태계 강화",
+        "date": "2026-07-02 15:36",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440553"
+    },
+    {
+        "title": "ETRI QD-QLED 구조적 한계 개선…적층형 집적 기술 개발",
+        "date": "2026-07-02 15:34",
+        "link": "https://n.news.naver.com/mnews/article/277/0005784822?sid=102"
+    },
+    {
+        "title": "'故 이건희 탕정 승부수' 던졌던 아산서 이재용, '140조' 부품·소재 투...",
+        "date": "2026-07-02 15:33",
+        "link": "https://n.news.naver.com/mnews/article/014/0005542990?sid=101"
+    },
+    {
+        "title": "삼성전기 다음은 삼성SDI·삼성디스플레이…성과급 '밀당' 도미노",
+        "date": "2026-07-02 15:28",
+        "link": "http://www.metroseoul.co.kr/article/20260702500384"
+    },
+    {
+        "title": "새 폰값 뛰자 ‘장롱폰’ 돈 된다…중고폰 시장도 15% 성장",
+        "date": "2026-07-02 15:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320917?sid=105"
+    },
+    {
+        "title": "'애플·엔비디아 족집게' 댄 아이브스, 8년 만에 웨드부시 떠난다…새 ...",
+        "date": "2026-07-02 15:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680783"
+    },
+    {
+        "title": "“비싸도 넓은 게 좋아”…AI 시대 대세 폰 등극한 ‘폴더블폰’",
+        "date": "2026-07-02 15:14",
+        "link": "https://n.news.naver.com/mnews/article/024/0000106609?sid=102"
+    },
+    {
+        "title": "기가바이트 4K QD-OLED 게이밍 모니터 3종 쿠팡 특가",
+        "date": "2026-07-02 15:10",
+        "link": "https://www.thisisgame.com/articles/427449"
+    },
+    {
+        "title": "390만원도 통할까…애플, 첫 폴더블 아이폰 울트라 1000만대 베팅",
+        "date": "2026-07-02 15:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680777"
+    },
+    {
+        "title": "[Telecom &amp; Now] KT, 50만원대 AI폰 '갤럭시 점프5' 단독 출시",
+        "date": "2026-07-02 15:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1714881"
+    },
+    {
+        "title": "삼성, 미래 성장 위해 충청에 140조원 투자…일자리 25만개 창출",
+        "date": "2026-07-02 14:50",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845891"
+    },
+    {
+        "title": "'옆 사람은 못 본다' 갤S27 4종 모두 프라이버시 모드 적용",
+        "date": "2026-07-02 14:46",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=58938"
+    },
+    {
+        "title": "애플, 올 하반기~내년 상반기까지 폴더블 아이폰을 포함한 5개 라인업 출...",
+        "date": "2026-07-02 14:42",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026070214374084632aaae0046f_30"
+    },
+    {
+        "title": "지하 세계 비밀 공개된다…‘지하창고 사일로의 비밀3’, 내일(3일) 애플...",
+        "date": "2026-07-02 14:37",
+        "link": "https://m.entertain.naver.com/article/241/0003517928"
+    },
+    {
+        "title": "ETRI, 차세대 QD-OLED 단일 기판 공정 기술 구현",
+        "date": "2026-07-02 14:36",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=896856"
+    },
+    {
+        "title": "[쿠키과학] ‘기판 한 장에 QD-OLED 구현’… ETRI, 잉크젯 공정 차세대...",
+        "date": "2026-07-02 14:34",
+        "link": "https://www.kukinews.com/article/view/kuk202607020104"
+    },
+    {
+        "title": "폴더블 아이폰, 첫해 패널 점유율 29% 전망…1위 삼성 바짝 추격",
+        "date": "2026-07-02 14:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680747"
+    },
+    {
+        "title": "애플, 맥북프로 확 바꾼다…2027년 디자인 개편·터치 맥북 닮은꼴 전망",
+        "date": "2026-07-02 14:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680742"
+    },
+    {
+        "title": "EU 디지털 신분증의 역설…구글·애플 독점 더 키운다",
+        "date": "2026-07-02 14:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680753"
+    },
+    {
+        "title": "“포도밭이 세계 최대 단지로”…삼성D, 67조원 투입해 아산 최첨단 디...",
+        "date": "2026-07-02 14:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002664929?sid=101"
+    },
+    {
+        "title": "삼성, 충청에 OLED·HBM·배터리·패키지 기판 종합투자…140조 규모",
+        "date": "2026-07-02 14:26",
+        "link": "https://n.news.naver.com/mnews/article/079/0004164201?sid=101"
+    },
+    {
+        "title": "비엔엠컴퍼니, PC방 게이밍 모니터 브랜드 큐닉스 인수…단독 경영 체제...",
+        "date": "2026-07-02 14:20",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3624508"
+    },
+    {
+        "title": "[3대 메가프로젝트] 삼성, 충청에 140조 투자…초격차 소재·부품 중심...",
+        "date": "2026-07-02 14:20",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036733"
+    },
+    {
+        "title": "[김영욱의 테크&amp;가젯] 애플, 내년 봄 신제품 쏟아낸다…‘보급형’ 맥북...",
+        "date": "2026-07-02 14:18",
+        "link": "https://n.news.naver.com/mnews/article/029/0003034986?sid=105"
+    },
+    {
+        "title": "AI가 키운 '큰 화면' 트렌드…삼성전자, 대화면 생태계 이끈다",
+        "date": "2026-07-02 14:16",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1387651"
+    },
+    {
+        "title": "비엔엠컴퍼니, PC방 게이밍모니터 브랜드 큐닉스 인수",
+        "date": "2026-07-02 14:16",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=331915"
+    },
+    {
+        "title": "칩스앤미디어, 애플 독점 깨고 미 빅테크 G사와 APV IP 계약…‘글로벌...",
+        "date": "2026-07-02 14:10",
+        "link": "https://www.etoday.co.kr/news/view/2599640"
+    },
+    {
+        "title": "삼성, 미래 성장 위해 충청 '140조원' 투자",
+        "date": "2026-07-02 14:06",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=256682"
+    },
+    {
+        "title": "TMR 탑재한 하이엔드 게이밍 키보드, 체리 '엑스트리파이 K5 PRO TMR 8K 65%'...",
+        "date": "2026-07-02 14:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59919"
+    },
+    {
+        "title": "삼성, 충청에 140조원 투자…첨단 소재 · 부품 허브로 육성",
+        "date": "2026-07-02 14:00",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=299857"
+    },
+    {
+        "title": "KT, 실속형 AI 폰 '갤럭시 점프5' 단독 출시",
+        "date": "2026-07-02 13:52",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=206591"
+    },
+    {
+        "title": "Consumer preference for flagship devices gives advantage for LG Display",
+        "date": "2026-07-02 13:52",
+        "link": "https://www.koreatimes.co.kr/path/A2026070211500001821"
+    },
+    {
+        "title": "아이폰18 프로 실물 유출⋯X 게시글 삭제·계정 정지 '이례적'",
+        "date": "2026-07-02 13:50",
+        "link": "https://n.news.naver.com/mnews/article/031/0001039312?sid=105"
+    },
+    {
+        "title": "암참, 오픈AI·테슬라·애플 등과 AI 리더십 위원회 출범",
+        "date": "2026-07-02 13:45",
+        "link": "https://n.news.naver.com/mnews/article/422/0000880759?sid=101"
+    },
+    {
+        "title": "이재용 충청, IT소재·부품 글로벌 허브로 성장",
+        "date": "2026-07-02 13:44",
+        "link": "https://dealsite.co.kr/articles/164657"
+    },
+    {
+        "title": "애플 효과 시작되나…폴더블폰 패널 출하 24% 반등 전망",
+        "date": "2026-07-02 13:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680724"
+    },
+    {
+        "title": "삼성, 충청에 140조 투자…HBM·OLED 승부수 [영상PICK]",
+        "date": "2026-07-02 13:08",
+        "link": "http://www.metroseoul.co.kr/article/20260702500180"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 첫해 패널 점유율 29% 전망…삼성 턱밑 추격",
+        "date": "2026-07-02 13:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545416"
+    },
+    {
+        "title": "암참, AI 리더십 위원회 공식 출범…애플·AWS 등 AI 기업 총출동",
+        "date": "2026-07-02 13:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005784732?sid=101"
+    },
+    {
+        "title": "삼하마 칩만 사던 애플, “중국 메모리 칩 구매 협상 중”",
+        "date": "2026-07-02 12:35",
+        "link": "https://n.news.naver.com/mnews/article/081/0003657809?sid=104"
+    },
+    {
+        "title": "[기획인터뷰] 한국판 타임스퀘어 시대가 온다… 안 꺼지는 전광판으로 ...",
+        "date": "2026-07-02 12:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1812123"
+    },
+    {
+        "title": "애플꼬마김밥 “김해삼계점 신규 오픈으로 150호점 돌파 눈앞”",
+        "date": "2026-07-02 11:56",
+        "link": "https://www.gosiweek.com/article/1065581510444363"
+    },
+    {
+        "title": "[메가프로젝트] 삼성, 충청권에 140兆 투입…AI·소부장 허브 구축",
+        "date": "2026-07-02 11:41",
+        "link": "https://n.news.naver.com/mnews/article/293/0000087114?sid=101"
+    },
+    {
+        "title": "KT, 50만원대 AI폰 '갤럭시 점프5' 출시…통신사 가성비폰 경쟁 가열",
+        "date": "2026-07-02 11:40",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2114092"
+    },
+    {
+        "title": "‘아이폰 18 프로의 심장’ A20 프로 해부 – 2nm 공정이 바꾸는 것들",
+        "date": "2026-07-02 11:36",
+        "link": "https://www.itworld.co.kr/article/4191956/아이폰-18-프로의-심장-a20-프로-해부-2nm-공정이-바꾸는-것.html"
+    },
+    {
+        "title": "아이폰17 프로에만 준다…애플, 새 카메라 기능 '차별화'",
+        "date": "2026-07-02 11:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680635"
+    },
+    {
+        "title": "보급형 AI폰도 50만원대…KT, 갤럭시 점프5 단독 출시",
+        "date": "2026-07-02 11:32",
+        "link": "https://n.news.naver.com/mnews/article/374/0000519569?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장 충청권 140조원 투자…소재·부품 미래 실현",
+        "date": "2026-07-02 11:26",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=738837"
+    },
+    {
+        "title": "유아이디, 티에스테크 인수… 자동차 전장 소재 시장 진출",
+        "date": "2026-07-02 11:16",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1506933"
+    },
+    {
+        "title": "삼성, 충청권에 140조 투자…HBM·OLED·배터리 집중 육성",
+        "date": "2026-07-02 11:14",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440581"
+    },
+    {
+        "title": "삼성, 충청에 140조 투자…이재용 IT 소재·부품 글로벌 허브 육성",
+        "date": "2026-07-02 11:12",
+        "link": "https://n.news.naver.com/mnews/article/417/0001149975?sid=101"
+    },
+    {
+        "title": "AI 소재·부품 중심지로 키운다…삼성, 충청권에 140조 투자",
+        "date": "2026-07-02 11:12",
+        "link": "https://www.ajunews.com/view/20260702110922264"
+    },
+    {
+        "title": "KT, '갤럭시 점프5' 단독 출시…'실속형 AI폰'",
+        "date": "2026-07-02 11:12",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204329"
+    },
+    {
+        "title": "삼성, 충청에 140조 투자…HBM·OLED·배터리·AI 기판 키운다",
+        "date": "2026-07-02 11:10",
+        "link": "https://www.etoday.co.kr/news/view/2599581"
+    },
+    {
+        "title": "삼성, 충청권에 140조 투자…IT 부품 글로벌 허브로 도약할까",
+        "date": "2026-07-02 11:08",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=241755"
+    },
+    {
+        "title": "애플, 2027년 아이패드 프로·맥북 프로 출시 준비 중 …M7 칩 조기 투입...",
+        "date": "2026-07-02 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680657"
+    },
+    {
+        "title": "애플, 내년 상반기 아이패드 프로·보급형 맥북 출시",
+        "date": "2026-07-02 11:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165010"
+    },
+    {
+        "title": "레노버, OLED 탑재 소형 게이밍 태블릿 준비 중… 8월 출시 전망",
+        "date": "2026-07-02 10:58",
+        "link": "https://kbench.com/?q=node/280080"
+    },
+    {
+        "title": "KT, 50만원대 AI폰 ‘갤럭시 점프5’ 단독 출시",
+        "date": "2026-07-02 10:57",
+        "link": "https://n.news.naver.com/mnews/article/009/0005701731?sid=105"
+    },
+    {
+        "title": "애플, 전국 애플스토어서 여름방학 어린이 캠프 진행",
+        "date": "2026-07-02 10:53",
+        "link": "https://n.news.naver.com/mnews/article/030/0003443744?sid=105"
+    },
+    {
+        "title": "이재용 삼성의 꿈, 충청서 결실…140조 투자해 소재·부품 허브로",
+        "date": "2026-07-02 10:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320671?sid=101"
+    },
+    {
+        "title": "유아이디, 자동차 소재 기업 티에스테크 인수…전장 소재 사업 확대",
+        "date": "2026-07-02 10:52",
+        "link": "https://dealsite.co.kr/articles/164652"
+    },
+    {
+        "title": "삼성디스플레이, 충청권에 140조원 투자…AI 소재·부품 거점으로 키운...",
+        "date": "2026-07-02 10:52",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417062"
+    },
+    {
+        "title": "애플 참전 앞둔 폴더블 패널 시장, 2026년 반등 전망",
+        "date": "2026-07-02 10:46",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=78804"
+    },
+    {
+        "title": "가장 약한 공급망 고리가 뚫렸다, 애플 협력사 연이어 해킹 피해",
+        "date": "2026-07-02 10:46",
+        "link": "https://www.itworld.co.kr/article/4191939/가장-약한-공급망-고리가-뚫렸다-애플-협력사-연이어.html"
+    },
+    {
+        "title": "이청 삼성디플 사장 충청에 140조 투자…AI 소재·부품 초격차 중심지...",
+        "date": "2026-07-02 10:46",
+        "link": "https://www.etoday.co.kr/news/view/2599563"
+    },
+    {
+        "title": "이청 삼성D 사장 아산·천안 67조원 투자…디스플레이 클러스터 완성",
+        "date": "2026-07-02 10:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0014042465?sid=101"
+    },
+    {
+        "title": "이청 삼성D 사장 충청권 투자, 인력 확보가 최우선 … GTX, 천안아산역...",
+        "date": "2026-07-02 10:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200110.html"
+    },
+    {
+        "title": "[Epic in Picture] 삼성 8세대 폴더블폰은 어떤 모습?",
+        "date": "2026-07-02 10:38",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20260702103452104948439a4874_29"
+    },
+    {
+        "title": "50만원대에 갤럭시 AI 쓴다…KT, 단독 가성비폰 '점프5' 출시",
+        "date": "2026-07-02 10:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=296833"
+    },
+    {
+        "title": "삼성디스플레이 충청에 140조 투자…GTX 천안·아산 연장 지원 요청",
+        "date": "2026-07-02 10:32",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423030"
+    },
+    {
+        "title": "KT, 전용 단말 '갤럭시 점프5' 단독 출시",
+        "date": "2026-07-02 10:30",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=250923"
+    },
+    {
+        "title": "잉크젯으로 차세대 QD-OLED 구현…ETRI, 단일 기판 집적 기술 개발",
+        "date": "2026-07-02 10:28",
+        "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/100284"
+    },
+    {
+        "title": "아이폰18 프로 유출은 시작?…타타 해킹에 다크웹 '비상'",
+        "date": "2026-07-02 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680628"
+    },
+    {
+        "title": "애플, 내년 상반기 M7 프로세서 및 신형 아이패드 프로·맥북 프로 출시",
+        "date": "2026-07-02 10:28",
+        "link": "https://www.ajunews.com/view/20260702093834010"
+    },
+    {
+        "title": "삼성, 충청권 ‘140조’ 투자 선언…“소재·부품 충청에서 실현”",
+        "date": "2026-07-02 10:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637368?sid=101"
+    },
+    {
+        "title": "아이폰 폴드, 폴더블폰 29% 점유…삼성 이어 2위",
+        "date": "2026-07-02 10:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002428970?sid=105"
+    },
+    {
+        "title": "[속보] 삼성디스플레이, 아산에 67조 투자…2단지 신규 라인 증설",
+        "date": "2026-07-02 10:19",
+        "link": "https://n.news.naver.com/mnews/article/015/0005305443?sid=101"
+    },
+    {
+        "title": "[속보]삼성디스플레이, 아산에 67조 투자…2단지 신규 라인 증설",
+        "date": "2026-07-02 10:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0009036583?sid=101"
+    },
+    {
+        "title": "애플, M6 탑재 14인치 맥북 프로 연내 출시하나… OLED 탑재 M7 모델은 2...",
+        "date": "2026-07-02 10:10",
+        "link": "https://kbench.com/?q=node/280069"
+    },
+    {
+        "title": "익명인 줄 알았는데…애플 '나의 이메일 가리기' 실제 주소 노출 의혹",
+        "date": "2026-07-02 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680596"
+    },
+    {
+        "title": "맥북 가격 인상 후폭풍…글로벌 노트북 출하량 '13.6% 감소' 전망",
+        "date": "2026-07-02 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680607"
+    },
+    {
+        "title": "‘삼성 감사 페스티벌’ 5일 종료…홈쇼핑도 막판 혜택 총력",
+        "date": "2026-07-02 10:02",
+        "link": "https://www.news2day.co.kr/article/20260702500087"
+    },
+    {
+        "title": "희비 엇갈린 XR 시장…VR헤드셋 침체, AR글래스는 약진",
+        "date": "2026-07-02 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=217924"
+    },
+    {
+        "title": "ETRI·덕산네오룩스·고산테크, 단일기판 적층형 QD-OLED 집적기술 확보",
+        "date": "2026-07-02 09:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0014042168?sid=102"
+    },
+    {
+        "title": "애플 맥북 가격 인상에 노트북 수요 불확실성 확대…2026년 글로벌 출하...",
+        "date": "2026-07-02 09:50",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=78796"
+    },
+    {
+        "title": "[#사이언스 리포트] ETRI 'QD-OLED​​​​​​​패널'·UNIST '유기 반도...",
+        "date": "2026-07-02 09:46",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845821"
+    },
+    {
+        "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤, KT(7.2)",
+        "date": "2026-07-02 09:42",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=783036"
+    },
+    {
+        "title": "[단독] 국내 최대 규모 애플 리셀러 프리스비…투자유치 추진",
+        "date": "2026-07-02 09:41",
+        "link": "https://n.news.naver.com/mnews/article/015/0005305420?sid=101"
+    },
+    {
+        "title": "KT, 50만원대 전용 AI 스마트폰 '갤럭시 점프5' 단독 출시",
+        "date": "2026-07-02 09:40",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=113617"
+    },
+    {
+        "title": "“더 얇고 선명한 디스플레이 나온다” ETRI, 차세대 QD-OLED 직접기술 구...",
+        "date": "2026-07-02 09:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002664636?sid=105"
+    },
+    {
+        "title": "[르포] 실차 없이 서킷 주행하고 금형 없이 뚝딱…현대차 남양연구소 R...",
+        "date": "2026-07-02 09:32",
+        "link": "https://www.theguru.co.kr/news/article.html?no=103837"
+    },
+    {
+        "title": "애플, '아이폰18 프로' 독자 통신칩 C2·퀄컴모뎀 교차…국가별 다르다",
+        "date": "2026-07-02 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232855?sid=105"
+    },
+    {
+        "title": "KT, 전용폰 '갤럭시 점프5' 출시…AI 기능 강화",
+        "date": "2026-07-02 09:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680563"
+    },
+    {
+        "title": "이름만 보안 기능이었나…애플, 이메일 은폐 오류 1년간 해결 안 해",
+        "date": "2026-07-02 09:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232851?sid=105"
+    },
+    {
+        "title": "50만원대에 갤럭시 AI 쓴다…KT, 단독 가성비폰 '점프5' 출시",
+        "date": "2026-07-02 09:22",
+        "link": "https://n.news.naver.com/mnews/article/003/0014042025?sid=105"
+    },
+    {
+        "title": "아이폰18 프로 3색 유력…다크체리 앞세워 블랙은 또 없다",
+        "date": "2026-07-02 09:18",
+        "link": "https://www.wikitree.co.kr/articles/1144297"
+    },
+    {
+        "title": "삼성D·LGD, 하반기 ‘모바일 OLED’ 훈풍 분다… “폴더블·프리미엄폰...",
+        "date": "2026-07-02 09:14",
+        "link": "https://www.ceoscoredaily.com/page/view/2026070117121758925"
+    },
+    {
+        "title": "애플, 2027년 상반기 M7 칩 탑재 차세대 아이패드 프로·맥북 프로 출시",
+        "date": "2026-07-02 09:13",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232849?sid=105"
+    },
+    {
+        "title": "원풍물산, 美 선다이오드와 마이크로LED 공정 협력… 방산용 AR 디스플레...",
+        "date": "2026-07-02 09:08",
+        "link": "https://n.news.naver.com/mnews/article/081/0003657734?sid=101"
+    },
+    {
+        "title": "KT 전용폰 '갤럭시 점프5' 출시…54만원대",
+        "date": "2026-07-02 09:08",
+        "link": "https://n.news.naver.com/mnews/article/008/0005380428?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 탭 S12 시리즈 9월 공개 전망… 플러스·울트라 모델 출격",
+        "date": "2026-07-02 09:00",
+        "link": "https://kbench.com/?q=node/280064"
+    },
+    {
+        "title": "中企 탄소중립 설비투자 30곳 지원…대·중견 17곳 ‘동참’",
+        "date": "2026-07-02 08:56",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607020018"
+    },
+    {
+        "title": "애플 히든 마이 이메일, 1년째 방치된 실주소 노출 버그",
+        "date": "2026-07-02 08:40",
+        "link": "https://www.wikitree.co.kr/articles/1144298"
+    },
+    {
+        "title": "애플, 내년 봄 신형 아이패드 프로·맥북 프로 출시 준비 중",
+        "date": "2026-07-02 08:38",
+        "link": "https://n.news.naver.com/mnews/article/092/0002428914?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시Z폴드8 티저 시작…인스타 계정 대부분 지웠다",
+        "date": "2026-07-02 08:06",
+        "link": "https://www.wikitree.co.kr/articles/1144300"
+    },
+    {
+        "title": "[미국 특징주] 애플, '아이패드·맥북' 프로 제품군 새단장...내년 상반...",
+        "date": "2026-07-02 07:53",
+        "link": "https://www.newspim.com/news/view/20260702000046"
+    },
+    {
         "title": "탈중국 하려다 '날벼락'…애플, 인도서 아이폰18 실물 유출",
         "date": "2026-07-02 06:46",
         "link": "https://n.news.naver.com/mnews/article/015/0005305330?sid=105"
@@ -20,11 +590,6 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003034852?sid=105"
     },
     {
-        "title": "[유리기판 대전] 'TGV 원티어' 필옵틱스, 풀 라인업 구축 성큼",
-        "date": "2026-07-02 06:00",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=343845"
-    },
-    {
         "title": "삼성전자 8세대 폴더블, AI시대 새 라인업 예고",
         "date": "2026-07-02 00:31",
         "link": "https://n.news.naver.com/mnews/article/020/0003730889?sid=101"
@@ -40,6 +605,11 @@
         "link": "https://n.news.naver.com/mnews/article/025/0003534739?sid=101"
     },
     {
+        "title": "아이폰 보유율 높은 지역일수록 출산율 낮았다… 美 연구 결과",
+        "date": "2026-07-01 22:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680515"
+    },
+    {
         "title": "스마트폰 '가격 인상 쓰나미' 오나…'원가 폭풍'에 생산량 15% 급감 전망",
         "date": "2026-07-01 20:00",
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845671"
@@ -48,11 +618,6 @@
         "title": "팔면 팔수록 '착한 매출'…에크리어, 통신사 CSR을 사업 기회로 바꾼 스...",
         "date": "2026-07-01 19:06",
         "link": "https://kr.aving.net/news/articleView.html?idxno=1812110"
-    },
-    {
-        "title": "삼성전자 스마트 안경 '갤럭시 글래스' 정보 유출…카메라와 AI 기능 탑...",
-        "date": "2026-07-01 19:00",
-        "link": "https://news.appstory.co.kr/daily19299"
     },
     {
         "title": "삼성, 갤럭시A18 4G에 미디어텍 AP 사용...5G는 퀄컴",
@@ -130,11 +695,6 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005701385?sid=105"
     },
     {
-        "title": "지아이에스, 육·해군 부품 국산화 개발 착수…방산 MRO 사업 확대",
-        "date": "2026-07-01 17:04",
-        "link": "https://n.news.naver.com/mnews/article/018/0006320213?sid=101"
-    },
-    {
         "title": "폴더블폰 가격 더 뛴다…올해 평균 판매가 18% 상승 전망",
         "date": "2026-07-01 17:03",
         "link": "https://n.news.naver.com/mnews/article/001/0016171187?sid=105"
@@ -143,16 +703,6 @@
         "title": "[기자수첩]폴더블의 시간은 이제부터",
         "date": "2026-07-01 17:02",
         "link": "http://www.metroseoul.co.kr/article/20260701500466"
-    },
-    {
-        "title": "비엔엠컴퍼니, ‘큐닉스’ 운영사 인수 합병...게이밍 디스플레이 사업...",
-        "date": "2026-07-01 17:02",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=2026070116273151289aeda69934_7"
-    },
-    {
-        "title": "비엔엠컴퍼니, 비엔엠큐닉스 지분 전량 인수…게이밍 모니터 사업 단독...",
-        "date": "2026-07-01 17:02",
-        "link": "https://www.kbsm.net/news/view.php?idx=525225"
     },
     {
         "title": "애플발 가격 인상, 삼성전자에겐 호재일까 악재일까…엇갈리는 득실 계...",
@@ -168,21 +718,6 @@
         "title": "중국·애플 협공 속…삼성, 런던 언팩서 AI·폴더블 승부 건다",
         "date": "2026-07-01 16:35",
         "link": "https://n.news.naver.com/mnews/article/025/0003534649?sid=101"
-    },
-    {
-        "title": "비엔엠컴퍼니, 큐닉스 지분 전량 인수… 신제품 10종 출시하며 브랜드 ...",
-        "date": "2026-07-01 16:30",
-        "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065596976098855"
-    },
-    {
-        "title": "'국민평형'까지만 사내 대출 5억 원? 삼성디스플레이 노조, 찬반투표 돌...",
-        "date": "2026-07-01 16:29",
-        "link": "https://n.news.naver.com/mnews/article/469/0000939782?sid=105"
-    },
-    {
-        "title": "비엔엠컴퍼니, 비엔엠큐닉스 단독 경영 전환...B2C 게이밍 모니터 시장...",
-        "date": "2026-07-01 16:28",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=2026070116254154209aeda69934_30"
     },
     {
         "title": "TCL, 미니 LED·OLED⁺ 게이밍 모니터 2종 출시",
@@ -205,11 +740,6 @@
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361407"
     },
     {
-        "title": "비엔엠컴퍼니, 큐닉스 지분 전량 인수···신제품 10종 출시하며 브랜...",
-        "date": "2026-07-01 16:12",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=51923"
-    },
-    {
         "title": "삼성, 8세대 폴더블 티저 공개…'폴드·플립' 넘어 새 선택지 예고",
         "date": "2026-07-01 16:02",
         "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=314402"
@@ -225,11 +755,6 @@
         "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202305"
     },
     {
-        "title": "검증된 듀얼 챔버 케이스, 마이크로닉스 'WIZMAX 우드리안 MAX' [2026 상반...",
-        "date": "2026-07-01 16:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59903"
-    },
-    {
         "title": "삼성 폴더블폰 라인업 확장",
         "date": "2026-07-01 15:57",
         "link": "https://n.news.naver.com/mnews/article/382/0001281105?sid=105"
@@ -238,11 +763,6 @@
         "title": "차세대 애플워치 2027년 확 바뀐다…기존 밴드 못 쓸 수도",
         "date": "2026-07-01 15:50",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680221"
-    },
-    {
-        "title": "삼성전기, '영업익 10% 성과급' 97.1% 찬성 의미는",
-        "date": "2026-07-01 15:46",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305551"
     },
     {
         "title": "초콜릿 부러뜨린 갤럭시 티저…‘새 비율’ 8세대 폴더블폰 예고",
@@ -285,11 +805,6 @@
         "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131288"
     },
     {
-        "title": "2026년 다크호스 게이밍 모니터, 앤트게이머 'ANT27VU PRO' [2026 상반기 ...",
-        "date": "2026-07-01 15:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59902"
-    },
-    {
         "title": "삼성전자, 8세대 폴더블폰 라인업 재편",
         "date": "2026-07-01 14:58",
         "link": "https://www.news2day.co.kr/article/20260701500106"
@@ -318,11 +833,6 @@
         "title": "삼성전자, 8세대 폴더블폰 라인업 재편 모바일 AI 초점",
         "date": "2026-07-01 14:30",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218296"
-    },
-    {
-        "title": "유아이디, 자동차 고기능성 소재 기업 '티에스테크' 인수…전장 시장 진...",
-        "date": "2026-07-01 14:30",
-        "link": "https://n.news.naver.com/mnews/article/277/0005784153?sid=101"
     },
     {
         "title": "삼성전자, 갤럭시 언팩 앞두고 8세대 폴더블 티저 영상 공개",
@@ -520,11 +1030,6 @@
         "link": "http://www.breaknews.com/1218138"
     },
     {
-        "title": "원풍물산, 美 선다이오드와 마이크로LED 디스플레이 기술 협력 MOU 체결",
-        "date": "2026-07-01 10:44",
-        "link": "https://n.news.naver.com/mnews/article/015/0005304933?sid=101"
-    },
-    {
         "title": "TCL 고성능 게이밍 모니터 2종 동시 출시",
         "date": "2026-07-01 10:43",
         "link": "https://n.news.naver.com/mnews/article/030/0003443178?sid=101"
@@ -558,11 +1063,6 @@
         "title": "삼성, 언팩 앞두고 '와이드형 폴더블' 암시..라인업 재편",
         "date": "2026-07-01 10:30",
         "link": "http://www.4th.kr/news/articleView.html?idxno=2114007"
-    },
-    {
-        "title": "마이크로 LED 시대가 온다… 차세대 디스플레이 장비株 일제히 거침없는...",
-        "date": "2026-07-01 10:30",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464548"
     },
     {
         "title": "아이폰18 프로 신규 색상 '다크 체리' SIM 카드 트레이 유출",
@@ -603,11 +1103,6 @@
         "title": "삼성, 언팩 앞두고 '새 라인업' 예고…'와이드' 형태 암시",
         "date": "2026-07-01 10:20",
         "link": "http://www.newsprime.co.kr/news/article.html?no=738633"
-    },
-    {
-        "title": "[단독]삼성디스플레이, '5억 대출' 국평 제한 진통…조합원 '찬반 투표'",
-        "date": "2026-07-01 10:19",
-        "link": "https://n.news.naver.com/mnews/article/008/0005379831?sid=101"
     },
     {
         "title": "삼성·LG, '화면 경험' 재편 속도…AI 폴더블·이동식 스크린 공략",
@@ -658,11 +1153,6 @@
         "title": "이달 공개할 삼성 '8세대 폴더블폰' 이렇게 바뀐다…3개 라인업 재편",
         "date": "2026-07-01 10:02",
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845650"
-    },
-    {
-        "title": "STUDER, S33의 마이크로미터 정밀도 활용 사례 - 유압 분야의 선구자 도...",
-        "date": "2026-07-01 09:54",
-        "link": "https://www.mfgkr.com/news/articleView.html?idxno=28277"
     },
     {
         "title": "삼성전자, 차세대 '폴더블폰·파운드리' 전략 공개",
@@ -720,6 +1210,11 @@
         "link": "https://www.aitimes.kr/news/articleView.html?idxno=40766"
     },
     {
+        "title": "삼성전자, 언팩 앞두고 8세대 폴더블폰 재편 방향 공개",
+        "date": "2026-07-01 09:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232696?sid=105"
+    },
+    {
         "title": "삼성, 폴더블 3트랙 체제 예고…'갤럭시 Z 폴드8 와이드' 나오나",
         "date": "2026-07-01 09:32",
         "link": "https://n.news.naver.com/mnews/article/119/0003106591?sid=105"
@@ -728,11 +1223,6 @@
         "title": "폴드·플립 넘어 와이드형…삼성 폴더블 선택지 넓힌다",
         "date": "2026-07-01 09:32",
         "link": "https://n.news.naver.com/mnews/article/030/0003443096?sid=105"
-    },
-    {
-        "title": "샤오미, 가성비 게이밍폰 '레드미 K90 울트라' 출시…스냅드래곤 8 엘리...",
-        "date": "2026-07-01 09:32",
-        "link": "https://kbench.com/?q=node/280022"
     },
     {
         "title": "삼성, 갤럭시 폴드8 티저 공개…가로로 넓어진다",
