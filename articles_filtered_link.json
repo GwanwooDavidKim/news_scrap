@@ -1,5 +1,565 @@
 [
     {
+        "title": "삼성디스플레이, 중국 최대 서브컬쳐 박람회서 첨단 OLED 기술 소개",
+        "date": "2026-07-10 16:00",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7173825"
+    },
+    {
+        "title": "삼성, 인도서 갤럭시 Z 폴더블 스마트폰 및 스마트워치 사전 예약 시작",
+        "date": "2026-07-10 16:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546641?sid=101"
+    },
+    {
+        "title": "[비즈톡톡] 인도, 스마트폰 부품 관세 면제… 삼성전자보다 애플·샤오...",
+        "date": "2026-07-10 15:58",
+        "link": "https://n.news.naver.com/mnews/article/366/0001178327?sid=105"
+    },
+    {
+        "title": "동글동글 키캡에 디저트 색상까지…한성컴퓨터, '감성 게이밍 키보드' ...",
+        "date": "2026-07-10 15:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545666"
+    },
+    {
+        "title": "삼성D, 中 7억 게임 인구 정조준…亞 최대 서브컬처 박람회 참가",
+        "date": "2026-07-10 15:54",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607100118"
+    },
+    {
+        "title": "삼성디스플레이, 빌리빌리 월드 첫 참가…중국 게이밍 디바이스 시장 공...",
+        "date": "2026-07-10 15:48",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=139724"
+    },
+    {
+        "title": "삼성D, 中 서브컬처 박람회 '빌리빌리 월드'참가",
+        "date": "2026-07-10 15:48",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=207274"
+    },
+    {
+        "title": "HMD, 10만원 짜리 초저가폰 'HMD 아크2' 20일 태국서 출시",
+        "date": "2026-07-10 15:48",
+        "link": "https://kbench.com/?q=node/280308"
+    },
+    {
+        "title": "인도, 스마트폰 부품·장비 관세 혜택 2029년까지 연장…삼성 등 현지 생...",
+        "date": "2026-07-10 15:47",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546632?sid=104"
+    },
+    {
+        "title": "삼성디스플레이, 中 게이밍 시장 공략…신브랜드 '오블릭스' 첫 공개",
+        "date": "2026-07-10 15:41",
+        "link": "https://www.newspim.com/news/view/20260710000099"
+    },
+    {
+        "title": "삼성D, 아시아 최대 서브컬처 박람회 '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 15:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016187839?sid=101"
+    },
+    {
+        "title": "삼성D, 아시아 최대 서브컬처 박람회 '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 15:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0016187833?sid=101"
+    },
+    {
+        "title": "아이폰18 프로 맥스, 부품값만 최대 45만원↑…애플 '용량별 가격 인상...",
+        "date": "2026-07-10 15:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683211"
+    },
+    {
+        "title": "통신 3사, 갤럭시 폴더블폰 마케팅 조기 가동…가입자 유치전 점화",
+        "date": "2026-07-10 15:36",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92335"
+    },
+    {
+        "title": "삼성D, 中 '빌리빌리 월드' 첫 참가…'프리미엄 게이밍 디스플레이' 출...",
+        "date": "2026-07-10 15:34",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92046"
+    },
+    {
+        "title": "삼성디스플레이 중국 '빌리빌리 월드' 첫 참가, 게이밍 OLED 공략 본격화",
+        "date": "2026-07-10 15:20",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442075"
+    },
+    {
+        "title": "갤럭시 Z 폴드 8·폴드 8 울트라 미국 출시 가격 유출…울트라 2,000달러...",
+        "date": "2026-07-10 15:16",
+        "link": "https://news.appstory.co.kr/daily19344"
+    },
+    {
+        "title": "삼성D, 중국 콘텐츠 전시회 ‘빌리빌리 월드’ 첫 참가…게이밍 OLED 대...",
+        "date": "2026-07-10 15:00",
+        "link": "https://www.socialvalue.kr/news/view/1065590314891283"
+    },
+    {
+        "title": "삼성D, 7억 中 게이머 잡는다…노트북 OLED ‘오블릭스’ 첫선 外 딥엑스...",
+        "date": "2026-07-10 15:00",
+        "link": "https://www.kukinews.com/article/view/kuk202607100077"
+    },
+    {
+        "title": "갤럭시 언팩, 서울·파리·브루클린 거쳐 런던으로",
+        "date": "2026-07-10 14:54",
+        "link": "https://n.news.naver.com/mnews/article/031/0001041320?sid=105"
+    },
+    {
+        "title": "삼성D, 텐센트와 中 게임시장 공략…'오블릭스' 첫 공개",
+        "date": "2026-07-10 14:52",
+        "link": "https://n.news.naver.com/mnews/article/031/0001041318?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 中 '빌리빌리 월드' 첫 참가…게이밍 OLED 시장 공략",
+        "date": "2026-07-10 14:50",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=306209"
+    },
+    {
+        "title": "갤폴드8 울트라 시작가 2099달러…300만원 폴더블폰 시대 눈앞",
+        "date": "2026-07-10 14:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0014059415?sid=105"
+    },
+    {
+        "title": "스마트폰 고사양화의 핵심 보루…디케이티, 고부가가치 전자 모듈 공급...",
+        "date": "2026-07-10 14:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467372"
+    },
+    {
+        "title": "삼성디스플레이, 亞 최대 서브컬처 박람회 출격",
+        "date": "2026-07-10 14:34",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1390365"
+    },
+    {
+        "title": "삼성디스플레이, 중국으로 발 뻗는다…'7억' 게임 인구 공략에 가속도",
+        "date": "2026-07-10 14:32",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265879"
+    },
+    {
+        "title": "파리바게뜨, 여름 시즌 디저트 '애플망고가 상큼한 시간' 출시",
+        "date": "2026-07-10 14:32",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=713042"
+    },
+    {
+        "title": "삼성D, OLED로 ‘7억 게임 대국’ 잡는다…亞 최대 서브컬처 박람회 첫 ...",
+        "date": "2026-07-10 14:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002668694?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 7억 中 게임유저 공략…'빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 14:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264459"
+    },
+    {
+        "title": "파리바게뜨, '애플망고가 상큼한 시간' 출시",
+        "date": "2026-07-10 14:24",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441007"
+    },
+    {
+        "title": "삼성D, 7억 中 게이머 잡는다…텐센트 신작으로 OLED 체험전",
+        "date": "2026-07-10 14:20",
+        "link": "https://n.news.naver.com/mnews/article/119/0003110158?sid=101"
+    },
+    {
+        "title": "[재계는 지금] 삼성D, '빌리빌리 월드 2026' 참가…게이밍 OLED 공략 外",
+        "date": "2026-07-10 14:18",
+        "link": "https://dealsite.co.kr/articles/165118"
+    },
+    {
+        "title": "선익시스템, 인도 주정부와 OLED·페로브스카이트 협력 논의",
+        "date": "2026-07-10 14:12",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=59358"
+    },
+    {
+        "title": "삼성D, 中에서 게이밍 QD-OLED로 고급 시장 수요 뚫는다",
+        "date": "2026-07-10 14:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=744815"
+    },
+    {
+        "title": "삼성디스플레이, 아시아 최대 서브컬처 박람회 '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 14:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589530819718"
+    },
+    {
+        "title": "OLED로 中 7억 게이머 홀린다…삼성디스플레이, '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 14:10",
+        "link": "https://www.g-enews.com/view.php?ud=202607101305489221ea14faf6f5_1"
+    },
+    {
+        "title": "LG디스플레이 구조조정에서도 존재감 드러낸 'OLED 중심 전략' : 정철동...",
+        "date": "2026-07-10 14:10",
+        "link": "https://www.huffingtonpost.kr/article/258630"
+    },
+    {
+        "title": "애플, 브로드컴에 45조원 추가 투자… AI 시대, 기술 주도권 확보 위한 ...",
+        "date": "2026-07-10 14:08",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=40929"
+    },
+    {
+        "title": "식후엔 애망시 파리바게뜨, 애플망고 활용한 여름 디저트 선보여",
+        "date": "2026-07-10 13:44",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3124653"
+    },
+    {
+        "title": "픽시오, 34인치 UWQHD 커브드 게이밍 모니터 'PXC348CN Curved Neo' 출시",
+        "date": "2026-07-10 13:32",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89050"
+    },
+    {
+        "title": "[자막뉴스] '가격 후려치기'로 세계 1위 노리더니…팔수록 손해 역습...",
+        "date": "2026-07-10 13:32",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371434?sid=104"
+    },
+    {
+        "title": "삼성디스플레이, 中 최대 게임쇼…'빌리빌리 월드' 첫 출격",
+        "date": "2026-07-10 13:30",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237370"
+    },
+    {
+        "title": "앤디코, LCD·핫스왑·키락 갖춘 데이터 보호형 RAIDKIT iR2822 출시",
+        "date": "2026-07-10 13:28",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=218813"
+    },
+    {
+        "title": "AWOL Vision &amp; Valerion",
+        "date": "2026-07-10 13:27",
+        "link": "http://www.audioht.co.kr/news/articleView.html?idxno=19730"
+    },
+    {
+        "title": "삼성디스플레이, 텐센트 맞손…中 7억 게이머 정조준",
+        "date": "2026-07-10 13:26",
+        "link": "https://n.news.naver.com/mnews/article/011/0004640277?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 中 '빌리빌리 월드 2026' 참가…OLED·QD-OLED 전면 배치",
+        "date": "2026-07-10 13:22",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=269537"
+    },
+    {
+        "title": "삼성디스플레이 협력사 다우인시스비나, 타이응우옌성서 제2공장 착공",
+        "date": "2026-07-10 13:22",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546527?sid=101"
+    },
+    {
+        "title": "파리바게뜨, 여름 시즌 디저트 '애플망고가 상큼한 시간' 출시",
+        "date": "2026-07-10 13:20",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=126225"
+    },
+    {
+        "title": "아이폰18 프로 맥스, 부품 값만 300달러↑…AI 때문에 또 오르나",
+        "date": "2026-07-10 13:13",
+        "link": "https://n.news.naver.com/mnews/article/022/0004142061?sid=102"
+    },
+    {
+        "title": "삼성디스플레이, 중국 게임시장 공략 나서",
+        "date": "2026-07-10 13:06",
+        "link": "https://www.naeil.com/news/read/594904?ref=naver"
+    },
+    {
+        "title": "파리바게뜨, 애플망고 활용 디저트 ‘애플망고가 상큼한 시간’ 출시",
+        "date": "2026-07-10 12:46",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065577154337312"
+    },
+    {
+        "title": "인텔 아크 GPU 탑재한 MSI 휴대용 게임기 '클로 8 EX AI+'",
+        "date": "2026-07-10 12:42",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59242"
+    },
+    {
+        "title": "삼성디스플레이, 中 '빌리빌리 월드' 첫 참가…게이밍 OLED 시장 공략",
+        "date": "2026-07-10 12:32",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202607101200045310ecbf9426b_23"
+    },
+    {
+        "title": "삼성D, 7억 中 게임 유저 정조준…'빌리빌리 월드' 첫 출격",
+        "date": "2026-07-10 12:26",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=126216"
+    },
+    {
+        "title": "파리바게뜨, 애플망고 적용 수플레 디저트 선보여",
+        "date": "2026-07-10 12:24",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202607101220253493204ead0791_12"
+    },
+    {
+        "title": "삼성디스플레이, '빌리빌리 월드 2026' 참가…中 게이밍 시장 정조준",
+        "date": "2026-07-10 12:18",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=713018"
+    },
+    {
+        "title": "파리바게뜨, 여름맞이 '애플망고가 상큼한 시간' 출시",
+        "date": "2026-07-10 12:06",
+        "link": "https://www.hg-times.com/news/articleView.html?idxno=303500"
+    },
+    {
+        "title": "삼성D, ‘7억 게임 시장’ 중국 공략⋯ ‘빌리빌리 월드’ 첫 참가",
+        "date": "2026-07-10 12:02",
+        "link": "https://www.viva100.com/article/20260710500252"
+    },
+    {
+        "title": "삼성D, 7억명 中 게임인구 공략…상하이 '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 12:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006327065?sid=101"
+    },
+    {
+        "title": "삼성D, 서브컬처 박람회 中빌리빌리월드서 게이밍 OLED 전시...첫 참가",
+        "date": "2026-07-10 12:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002430060?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 中 '빌리빌리 월드 2026' 첫 참가…게이밍 브랜드 '오블...",
+        "date": "2026-07-10 12:01",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788330?sid=101"
+    },
+    {
+        "title": "삼성D, 中 최대 게임사와 협력해 OLED 전시…7억명 시장 공략",
+        "date": "2026-07-10 12:01",
+        "link": "https://n.news.naver.com/mnews/article/079/0004167116?sid=101"
+    },
+    {
+        "title": "삼성D, 中 전시회서 게이밍 노트북 OLED 브랜드 '오블릭스' 공개",
+        "date": "2026-07-10 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003446527?sid=105"
+    },
+    {
+        "title": "WWDC 26으로 읽어보는 애플과 AI 전략",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59842"
+    },
+    {
+        "title": "삼성D, 中 '빌리빌리 월드' 첫 출격...게이밍 OLED 브랜드 '오블릭스' 선...",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254881"
+    },
+    {
+        "title": "[Tech &amp; Now] 삼성D, 中 게이밍 시장 정조준…'빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715823"
+    },
+    {
+        "title": "삼성D, '빌리빌리 월드' 첫 참가…게이밍 노트북용 OLED 브랜드 공개",
+        "date": "2026-07-10 12:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1384777"
+    },
+    {
+        "title": "삼성디스플레이, 中 최대 게임쇼 첫 출격…OLED 앞세워 7억 게임시장 공...",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=531967"
+    },
+    {
+        "title": "삼성D, '빌리빌리 월드' 참가…OLED로 中 게이밍 시장 공략",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467211"
+    },
+    {
+        "title": "삼성디스플레이, OLED·QD로 '7억 게임 대국' 中 사로잡는다",
+        "date": "2026-07-10 12:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009052372?sid=101"
+    },
+    {
+        "title": "삼성디플, 中 '빌리빌리 월드' 첫 참가…게이밍 OLED 공략 강화",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.etoday.co.kr/news/view/2602336"
+    },
+    {
+        "title": "삼성전자 'TV'·삼성D 'OLED' 1위 지킨다...콘텐츠 협업 확대",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153279"
+    },
+    {
+        "title": "7억명 게임 대국 노린다…삼성D, 중국서 '오블릭스' 공개",
+        "date": "2026-07-10 12:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001258280?sid=101"
+    },
+    {
+        "title": "삼성D, '빌리빌리 월드' 첫 참가…OLED로 중국 게임 시장 공략",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039529"
+    },
+    {
+        "title": "삼성D, 아시아 최대 서브컬처 박람회서 최신 올레드 공개…中 게임 시...",
+        "date": "2026-07-10 12:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014059018?sid=101"
+    },
+    {
+        "title": "삼성D, 아시아 최대 서브컬처 박람회 '빌리빌리 월드' 첫 참가",
+        "date": "2026-07-10 12:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016187311?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 아시아 최대 게임·애니 박람회 '빌리빌리 월드' 첫 참...",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=89166"
+    },
+    {
+        "title": "삼성D, 서브컬처 박람회 '빌리빌리 월드' 첫 참가…中 게이머 사로 잡는...",
+        "date": "2026-07-10 12:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546513?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 中 '빌리빌리 월드' 첫 참가…차세대 게이밍 기술 공개",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.ajunews.com/view/20260710083550789"
+    },
+    {
+        "title": "삼성디스플레이, '빌리빌리 월드' 첫 참가...中게이머 정조준",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683038"
+    },
+    {
+        "title": "애플페이 다음은 스테이블코인…정태영 '혁신 DNA' 시험대",
+        "date": "2026-07-10 12:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026071011461548967"
+    },
+    {
+        "title": "차석호 함안군수, 새 소득 작목 애플망고 재배 현장 방문",
+        "date": "2026-07-10 11:50",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447555"
+    },
+    {
+        "title": "갤럭시 언팩 앞두고 어깨 무거운 노태문…하반기 수익성 방어 과제",
+        "date": "2026-07-10 11:38",
+        "link": "https://n.news.naver.com/mnews/article/629/0000514997?sid=101"
+    },
+    {
+        "title": "삼성 차세대 폴더블 히든카드는 'AI 신뢰성'",
+        "date": "2026-07-10 11:20",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128114"
+    },
+    {
+        "title": "차석호 함안군수, 애플망고 농가 찾아…안정적 생산 지원",
+        "date": "2026-07-10 11:16",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=739877"
+    },
+    {
+        "title": "애플도 눈독…中 CXMT, 6조 실탄으로 삼성·SK 추격",
+        "date": "2026-07-10 11:15",
+        "link": "https://n.news.naver.com/mnews/article/648/0000048798?sid=105"
+    },
+    {
+        "title": "[테크家] 갤럭시 ㅣ '언팩 2026' 예고…AI 폴더블·생태계 전략 공개",
+        "date": "2026-07-10 11:14",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=588043"
+    },
+    {
+        "title": "책상보다 현장 택한 차석호 함안군수…애플망고 농가서 농정 해법 찾기",
+        "date": "2026-07-10 11:14",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003816"
+    },
+    {
+        "title": "망고 치즈 수플레로 기분전환 하세요 파리바게뜨, '애플망고' 케이크...",
+        "date": "2026-07-10 11:11",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384259?sid=101"
+    },
+    {
+        "title": "갤럭시Z 플립8이 마지막?…또다시 단종설 제기",
+        "date": "2026-07-10 11:10",
+        "link": "https://kbench.com/?q=node/280291"
+    },
+    {
+        "title": "'나노코리아 2026', AI 시대 핵심 나노기술 총집결",
+        "date": "2026-07-10 11:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404112"
+    },
+    {
+        "title": "파리바게뜨, 여름 시즌 디저트 '애플망고가 상큼한 시간' 출시",
+        "date": "2026-07-10 10:50",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4094316"
+    },
+    {
+        "title": "선익시스템 인도 안드라프라데시주 정부 투자협의회서 협력기반 논의",
+        "date": "2026-07-10 10:48",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788253?sid=101"
+    },
+    {
+        "title": "초슬림폰 경쟁 1년 뒤…삼성은 더 얇게, 애플은 더 오래가게",
+        "date": "2026-07-10 10:44",
+        "link": "https://n.news.naver.com/mnews/article/003/0014058663?sid=105"
+    },
+    {
+        "title": "[협력사의 재발견③] 이재용·최태원·구광모…오너들이 키우는 '상생 생...",
+        "date": "2026-07-10 10:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715849"
+    },
+    {
+        "title": "선익시스템, 인도 투자협의회 참석…차세대 OLED·페로브스카이트 협력...",
+        "date": "2026-07-10 10:38",
+        "link": "https://n.news.naver.com/mnews/article/018/0006327004?sid=101"
+    },
+    {
+        "title": "아이폰18 프로 맥스 원가 최대 300달러↑…가격 인상 불가피",
+        "date": "2026-07-10 10:38",
+        "link": "https://kbench.com/?q=node/280290"
+    },
+    {
+        "title": "OLED와 AI PC를 더한 14형 비즈니스 노트북, MSI 모던 14S AI+ G3MG-U7 OLED",
+        "date": "2026-07-10 10:26",
+        "link": "https://kbench.com/?q=node/280269"
+    },
+    {
+        "title": "접는 폰은 300만원대…칩플레이션 딛고 '갤럭시 Z 폴드8' 승기 잡을까",
+        "date": "2026-07-10 10:26",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788227?sid=105"
+    },
+    {
+        "title": "MSI, KEL 슈퍼위크 대전서 게이밍 모니터 지원…체험 부스도 운영",
+        "date": "2026-07-10 10:20",
+        "link": "https://www.cnet.co.kr/view/?no=20260710101942"
+    },
+    {
+        "title": "애플, 9년 만에 RAW 엔진 업그레이드…iOS 27 'RAW 9' 도입",
+        "date": "2026-07-10 10:12",
+        "link": "https://kbench.com/?q=node/280284"
+    },
+    {
+        "title": "구미시·AGC화인테크노한국㈜, 투자양해각서(MOU) 체결",
+        "date": "2026-07-10 10:00",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1390146"
+    },
+    {
+        "title": "파리바게뜨, 시즌 디저트 ‘애플망고가 상큼한 시간’ 출시",
+        "date": "2026-07-10 09:54",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20260710095017813946a9e4dd7f_30"
+    },
+    {
+        "title": "최신 갤럭시 폴더블·S25 시리즈, 7월 보안 업데이트 확대",
+        "date": "2026-07-10 09:46",
+        "link": "https://kbench.com/?q=node/280280"
+    },
+    {
+        "title": "차석호 함안군수, 애플망고 재배 농가 방문 애로사항 청취",
+        "date": "2026-07-10 09:40",
+        "link": "https://www.newspim.com/news/view/20260710000289"
+    },
+    {
+        "title": "새 아이폰 얼마나 비싸지려고…아이폰18 프맥, 원가만 45만원 '껑충'",
+        "date": "2026-07-10 09:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=297365"
+    },
+    {
+        "title": "한양증권 DMS, OLED 후행 수혜에 유리기판까지..밸류체인 확장 기대",
+        "date": "2026-07-10 09:09",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546383?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시Z 폴드8 울트라, S26 울트라급 카메라 경험 제공한다",
+        "date": "2026-07-10 09:06",
+        "link": "https://kbench.com/?q=node/280277"
+    },
+    {
+        "title": "애플 시리 AI 지연 보상, 최대 14만원…미국만 해당",
+        "date": "2026-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002429998?sid=105"
+    },
+    {
+        "title": "문화도시 도는 ‘갤럭시 언팩’, 올해 런던서 ‘새 형태’ 펼친다[모닝...",
+        "date": "2026-07-10 08:24",
+        "link": "https://n.news.naver.com/mnews/article/018/0006326825?sid=105"
+    },
+    {
+        "title": "선익시스템, 인도 안드라프라데시주 정부 투자협의회 참석",
+        "date": "2026-07-10 08:10",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=712954"
+    },
+    {
+        "title": "구미시, AGC화인테크노한국 대규모 설비투자 협약",
+        "date": "2026-07-10 08:06",
+        "link": "http://www.metroseoul.co.kr/article/20260709500464"
+    },
+    {
         "title": "[GAM]로봇이 바꾼 산업지도① 소비전자 기업 '新플레이어'로",
         "date": "2026-07-10 07:00",
         "link": "https://www.newspim.com/news/view/20260709001065"
