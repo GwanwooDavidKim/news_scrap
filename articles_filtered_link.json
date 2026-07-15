@@ -1,5 +1,325 @@
 [
     {
+        "title": "펼칠 때마다 신경 쓰였는데…삼성 폴더블, 마침내 '주름 잡았다'",
+        "date": "2026-07-16 06:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005386763?sid=105"
+    },
+    {
+        "title": "LGD, OLED 집중… 하반기 반등 ‘청신호’",
+        "date": "2026-07-16 05:05",
+        "link": "https://n.news.naver.com/mnews/article/081/0003661672?sid=101"
+    },
+    {
+        "title": "주름 줄이고 20배 단단하게… 삼성 차세대 폴더블 나온다",
+        "date": "2026-07-16 05:04",
+        "link": "https://n.news.naver.com/mnews/article/081/0003661655?sid=101"
+    },
+    {
+        "title": "“우주선에 쓰는 티타늄, 폴더블폰 속으로”",
+        "date": "2026-07-16 00:32",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734261?sid=101"
+    },
+    {
+        "title": "“폴더블 폰 화면 주름 거의 안 보여” 삼성전자, 티타늄 디스플레이 공...",
+        "date": "2026-07-16 00:31",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987836?sid=105"
+    },
+    {
+        "title": "오픈AI, 화면 없는 스마트 스피커로 애플·아마존 정조준",
+        "date": "2026-07-16 00:16",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62054"
+    },
+    {
+        "title": "[마켓인사이드] AI 초거대 투자 대신 가격인상 전략 택한 애플, 신고가 ...",
+        "date": "2026-07-15 23:32",
+        "link": "https://www.news2day.co.kr/article/20260715500318"
+    },
+    {
+        "title": "[미국 특징주] 알리바바, 애플 인텔리전스 中 등록에 7% 급등",
+        "date": "2026-07-15 22:58",
+        "link": "https://www.newspim.com/news/view/20260715001401"
+    },
+    {
+        "title": "애플, 中 정부와 애플 인텔리전스 출시 합의",
+        "date": "2026-07-15 22:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684484"
+    },
+    {
+        "title": "[미국 특징주] 애플 인텔리전스, 중국 출시 '초읽기'…알리바바·바이두...",
+        "date": "2026-07-15 20:54",
+        "link": "https://www.newspim.com/news/view/20260715001384"
+    },
+    {
+        "title": "오픈AI, 가정용 AI컴퓨터 기능하는 스마트스피커 곧 공개",
+        "date": "2026-07-15 20:41",
+        "link": "https://n.news.naver.com/mnews/article/015/0005310507?sid=101"
+    },
+    {
+        "title": "“티타늄으로 화면 주름 잡았다”…삼성전자, ‘플렉스 티타늄’ 디스플...",
+        "date": "2026-07-15 20:28",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065598737393342"
+    },
+    {
+        "title": "삼성전자, 주름 없앤 차세대 폴더블 폰 나오나?",
+        "date": "2026-07-15 20:01",
+        "link": "https://n.news.naver.com/mnews/article/449/0000353034?sid=101"
+    },
+    {
+        "title": "[창간 21주년 특집] 노태문의 삼성전자, DX·DS 두 축으로 'ESG 혁신' 앞장",
+        "date": "2026-07-15 19:58",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362128"
+    },
+    {
+        "title": "삼성 차세대 폴더블 핵심 기술 '플렉스 티타늄' 발표…주름·내구성 개...",
+        "date": "2026-07-15 19:02",
+        "link": "https://news.appstory.co.kr/daily19368"
+    },
+    {
+        "title": "폰값 뛰자 中판매마저 부진…‘가성비’ 떠받친 부품 공급망도 위태",
+        "date": "2026-07-15 18:54",
+        "link": "https://n.news.naver.com/mnews/article/011/0004642024?sid=101"
+    },
+    {
+        "title": "삼성전자, 티타늄 기술로 폴더블 기기 주름 편다",
+        "date": "2026-07-15 18:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005548730?sid=105"
+    },
+    {
+        "title": "폴더블 경쟁 키워드는 '주름'…삼성전자, 플렉스 티타늄 공개",
+        "date": "2026-07-15 18:22",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356010"
+    },
+    {
+        "title": "[전자] 삼성 폴더블 주름 줄인 티타늄 화면 / LG전자 임직원 브랜드 실천...",
+        "date": "2026-07-15 18:16",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2233995"
+    },
+    {
+        "title": "AI로 QLED 공정 최적화 기술 개발…소자 효율·수명 향상",
+        "date": "2026-07-15 18:10",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202607151809129564f4ab64559d_12"
+    },
+    {
+        "title": "삼성 폴더블폰에 ‘플렉스 티타늄’",
+        "date": "2026-07-15 18:01",
+        "link": "https://n.news.naver.com/mnews/article/082/0001389910?sid=101"
+    },
+    {
+        "title": "안경테 툭 치니 눈 앞에 ‘정답’…시험장 ‘스마트 안경’ 비상",
+        "date": "2026-07-15 17:48",
+        "link": "https://n.news.naver.com/mnews/article/028/0002814278?sid=102"
+    },
+    {
+        "title": "주름 줄이고 내구성 높이고 … 삼성, 폴더블 신기술 선보여",
+        "date": "2026-07-15 17:44",
+        "link": "https://n.news.naver.com/mnews/article/009/0005707999?sid=105"
+    },
+    {
+        "title": "[오늘의 전자] 삼성전자·LG전자",
+        "date": "2026-07-15 17:40",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43592"
+    },
+    {
+        "title": "언팩 D-7 베일벗는 갤럭시Z8, 하반기 애플과 폴더블 대전",
+        "date": "2026-07-15 17:34",
+        "link": "https://news.mtn.co.kr/news-detail/2026071516133074593"
+    },
+    {
+        "title": "몰입감의 역설…VR 멀미, AI가 해결사 될까",
+        "date": "2026-07-15 17:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006331037?sid=105"
+    },
+    {
+        "title": "중국, 애플 인텔리전스 등 온디바이스 AI 7종 등록",
+        "date": "2026-07-15 17:32",
+        "link": "https://www.tokenpost.kr/news/breaking/378065"
+    },
+    {
+        "title": "'삼성D 천안 직주근접' 대우건설, 두정역 푸르지오 그랑피크 8월분양",
+        "date": "2026-07-15 17:29",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=126224"
+    },
+    {
+        "title": "삼성전자, 차세대 갤럭시 폴더블 적용 '플렉스 티타늄' 디스플레이 기술...",
+        "date": "2026-07-15 17:26",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=97835"
+    },
+    {
+        "title": "BTS 제이홉 손에 들린 '갤럭시Z 폴드8 울트라'?…새로운 티저 공개",
+        "date": "2026-07-15 17:26",
+        "link": "https://kbench.com/?q=node/280423"
+    },
+    {
+        "title": "삼성, 차기 폴더블폰에 '티타늄' 입힌다…주름 없앤 신기술 공개",
+        "date": "2026-07-15 17:22",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1392069"
+    },
+    {
+        "title": "서린씨앤아이, 컴퓨존서 리안리 '하이드로시프트 II OLED 커브드 360' 수...",
+        "date": "2026-07-15 17:22",
+        "link": "https://www.thisisgame.com/articles/427829"
+    },
+    {
+        "title": "접으면 주름? 옛말 됐다…삼성, '티타늄 폴더블' 승부수",
+        "date": "2026-07-15 17:06",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=917063"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품 주름 개선한 ‘플렉스 티타늄’ 기술 공개",
+        "date": "2026-07-15 17:01",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987777?sid=105"
+    },
+    {
+        "title": "삼성전자, '플렉스 티타늄' 기술 공개 … 가장 얇은 폴더블 디스플레이...",
+        "date": "2026-07-15 16:56",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86788"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블 디스플레이 기술 '플렉스 티타늄' 전격 공개",
+        "date": "2026-07-15 16:56",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131000"
+    },
+    {
+        "title": "애플 따돌릴 비밀병기?…삼성, 주름 줄인 폴더블 신기술 공개",
+        "date": "2026-07-15 16:50",
+        "link": "https://n.news.naver.com/mnews/article/024/0000106889?sid=101"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블 디스플레이 '플렉스 티타늄' 공개",
+        "date": "2026-07-15 16:50",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362144"
+    },
+    {
+        "title": "[다시 뛰는 구미] 방산부터 K-푸드까지…세계시장 삼킨 'Made in 구미'",
+        "date": "2026-07-15 16:47",
+        "link": "https://n.news.naver.com/mnews/article/088/0001019246?sid=102"
+    },
+    {
+        "title": "“폴더블폰 주름 잡았다”… 삼성, 플라스틱 대신 ‘티타늄 합금’ 첫 ...",
+        "date": "2026-07-15 16:46",
+        "link": "https://n.news.naver.com/mnews/article/005/0001861164?sid=101"
+    },
+    {
+        "title": "삼성전자, '플렉스 티타늄' 디스플레이 공개…내구성·유연성 20배↑",
+        "date": "2026-07-15 16:38",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3125693"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드 8·플립 8, 사전예약 무료 더블 스토리지 혜택 사라...",
+        "date": "2026-07-15 16:36",
+        "link": "https://news.appstory.co.kr/daily19364"
+    },
+    {
+        "title": "서린씨앤아이, 컴퓨존서 리안리 하이드로시프트 II OLED 커브드 360 수랭...",
+        "date": "2026-07-15 16:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=177474"
+    },
+    {
+        "title": "삼성디스플레이, 5년 만에 국세청 세무조사…해외법인 거래 들여다보나",
+        "date": "2026-07-15 16:28",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133042"
+    },
+    {
+        "title": "삼성 차세대 폴더블, 플라스틱 필름 대신 '티타늄 합금'",
+        "date": "2026-07-15 16:24",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=240427"
+    },
+    {
+        "title": "폴더블 주름·내구성 개선…삼성전자, '플렉스 티타늄' 기술 공개",
+        "date": "2026-07-15 16:22",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=311424"
+    },
+    {
+        "title": "미국 법원, 애플 아이클라우드 집단소송 기각…플랫폼 책임 없어",
+        "date": "2026-07-15 16:20",
+        "link": "https://news.appstory.co.kr/daily19363"
+    },
+    {
+        "title": "디스플레이 업계 2분기 '숨고르기'…하반기 OLED 성수기 기대",
+        "date": "2026-07-15 16:08",
+        "link": "https://www.etoday.co.kr/news/view/2604035"
+    },
+    {
+        "title": "[GAM] 메모리값 방어 나선 애플, 다음 아이폰18 유력…올려도 팔린다",
+        "date": "2026-07-15 16:06",
+        "link": "https://www.newspim.com/news/view/20260715001174"
+    },
+    {
+        "title": "애플·구글 이어 삼성도…스마트폰 '칩플레이션' 가격 인상 도미노",
+        "date": "2026-07-15 16:02",
+        "link": "https://n.news.naver.com/mnews/article/417/0001151791?sid=105"
+    },
+    {
+        "title": "[엑시노스]①소비자 외면...성능·효율, 제품서 입증",
+        "date": "2026-07-15 16:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850451"
+    },
+    {
+        "title": "삼성전자, 폴더블에 티타늄 첫 적용··· '강하고 주름 없는' 디스플레...",
+        "date": "2026-07-15 15:58",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307105"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블 ‘플렉스 티타늄’ 공개…내구성·주름 개선",
+        "date": "2026-07-15 15:49",
+        "link": "https://n.news.naver.com/mnews/article/666/0000115377?sid=101"
+    },
+    {
+        "title": "애플, iOS 27 공개 베타 출시…시리 AI, 일반 사용자에 첫 공개",
+        "date": "2026-07-15 15:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002430652?sid=105"
+    },
+    {
+        "title": "삼성전자, 플렉스 티타늄 선보여...런던서 차세대 폴더블 전격 공개",
+        "date": "2026-07-15 15:40",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=903972"
+    },
+    {
+        "title": "삼성전자, 차세대 갤럭시 폴더블용 '플렉스 티타늄' 디스플레이 공개",
+        "date": "2026-07-15 15:38",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1096211"
+    },
+    {
+        "title": "[건설 Pick] 현대건설·포스코이앤씨·대우건설·GS건설, 신사업·프리미...",
+        "date": "2026-07-15 15:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204982"
+    },
+    {
+        "title": "[산업계 동향] 삼성전자ㆍLG전자ㆍ고려아연(7.15)",
+        "date": "2026-07-15 15:28",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=785475"
+    },
+    {
+        "title": "스마트폰 다음은 글라스… 삼성, '항상 연결된 AI' 구축",
+        "date": "2026-07-15 15:26",
+        "link": "https://www.mediapen.com/news/view/1110338"
+    },
+    {
+        "title": "삼성전자, 폴더블 혁신 집약체 ‘플렉스 티타늄’ 기술 공개",
+        "date": "2026-07-15 15:26",
+        "link": "http://journal.kobeta.com/?post_type=post&p=63307"
+    },
+    {
+        "title": "삼성전자, 차세대 디스플레이 기술 ‘플렉스 티타늄’ 공개… 주름 줄이...",
+        "date": "2026-07-15 15:24",
+        "link": "https://www.mediawatch.kr/news/article.html?no=260382"
+    },
+    {
+        "title": "오픈AI, 화면 없는 AI 스피커로 애플에 도전장",
+        "date": "2026-07-15 15:05",
+        "link": "https://n.news.naver.com/mnews/article/138/0002234291?sid=105"
+    },
+    {
+        "title": "유비리서치, '디스플레이 넥스트 2027' 개최…공급망 재편 조망",
+        "date": "2026-07-15 15:02",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026071514113146710ecbf9426b_23"
+    },
+    {
+        "title": "갤럭시 폴더블 주름 줄였다…‘플렉스 티타늄’ 새기술 공개",
+        "date": "2026-07-15 15:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734131?sid=101"
+    },
+    {
         "title": "삼성전자, 차세대 갤럭시 폴더블 '플렉스 티타늄 기술' 공개",
         "date": "2026-07-15 14:56",
         "link": "http://www.finomy.com/news/articleView.html?idxno=257396"
@@ -8,11 +328,6 @@
         "title": "캠시스, 상반기 영업익 87억원 '흑자 전환'…갤럭시 S26 공급 효과",
         "date": "2026-07-15 14:40",
         "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114679"
-    },
-    {
-        "title": "애플·구글 이어 삼성도…원가 부담에 '갤럭시 Z 폴드8' 가격 인상 전망",
-        "date": "2026-07-15 14:30",
-        "link": "http://www.metroseoul.co.kr/article/20260715500272"
     },
     {
         "title": "[줌인] 삼성전자, 폴더블에 '티타늄 이중 구조' 도입...두께 줄이고 주름...",
@@ -115,7 +430,7 @@
         "link": "https://www.aitimes.com/news/articleView.html?idxno=212776"
     },
     {
-        "title": "젖은 휴대폰, 쌀통에 넣지 마세요…갤럭시·아이폰이 알려준 '말리는...",
+        "title": "젖은 휴대폰, 쌀통에 넣지 마세요…삼성전자·애플이 알려준 '휴대폰...",
         "date": "2026-07-15 12:20",
         "link": "https://www.econovill.com/news/articleView.html?idxno=745291"
     },
@@ -650,6 +965,11 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005707646?sid=101"
     },
     {
+        "title": "삼성전자, 차세대 갤럭시 폴더블에 '플렉스 티타늄' 적용한다",
+        "date": "2026-07-15 09:26",
+        "link": "http://www.datanews.co.kr/news/article.html?no=145600"
+    },
+    {
         "title": "삼성전자, 차세대 폴더블 '플렉스 티타늄' 공개…내구성↑·주름↓",
         "date": "2026-07-15 09:26",
         "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123325"
@@ -865,7 +1185,7 @@
         "link": "https://thetracker.co.kr/View.aspx?No=4149544"
     },
     {
-        "title": "삼성전자, '갤럭시 AI 폰 승부수' 통했다... 국내 사용률 81%·세계시장 ...",
+        "title": "삼성전자, '갤럭시 AI 폰 승부수' 적중... 국내 사용률 81%·세계시장 1위...",
         "date": "2026-07-15 08:00",
         "link": "https://www.banronbodo.com/news/articleView.html?idxno=32638"
     },
@@ -893,660 +1213,5 @@
         "title": "삼성전자, 애플 꺾고 스마트폰 1위 탈환…비결은? [1일IT템]",
         "date": "2026-07-15 07:00",
         "link": "https://n.news.naver.com/mnews/article/014/0005548262?sid=105"
-    },
-    {
-        "title": "오픈AI, 애플 소송 그늘 속 화면없는 AI 스피커 2027년 출시",
-        "date": "2026-07-15 06:54",
-        "link": "https://www.wikitree.co.kr/articles/1146472"
-    },
-    {
-        "title": "[미국 특징주] 오픈AI 첫 하드웨어는 '이동형 스피커'…AI 동반자 노린다",
-        "date": "2026-07-15 06:35",
-        "link": "https://www.newspim.com/news/view/20260715000037"
-    },
-    {
-        "title": "“왜 이렇게 아이폰이 많죠?” 이재용 ‘뼈 있는 농담’…‘애플 충성’...",
-        "date": "2026-07-15 06:29",
-        "link": "https://n.news.naver.com/mnews/article/081/0003661302?sid=101"
-    },
-    {
-        "title": "“아이폰 대항마, 싹부터 자른다”…애플, 오픈AI 하드웨어 도전 ‘제동...",
-        "date": "2026-07-15 06:01",
-        "link": "https://n.news.naver.com/mnews/article/005/0001861047?sid=101"
-    },
-    {
-        "title": "삼성, 애플 제치고 스마트폰 1위 탈환… 이젠 폴더블·AI 대전",
-        "date": "2026-07-15 05:05",
-        "link": "https://n.news.naver.com/mnews/article/081/0003661278?sid=101"
-    },
-    {
-        "title": "갤럭시, 아이폰 제치고 세계 1위 탈환… S26 시리즈 통했다",
-        "date": "2026-07-15 00:32",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733928?sid=101"
-    },
-    {
-        "title": "1.8나노 수율 잡은 인텔…파운드리 2위 경쟁 후끈",
-        "date": "2026-07-15 00:02",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537611?sid=101"
-    },
-    {
-        "title": "iOS 27 퍼블릭베타 새 시리, 영어만 지원·EU 제외",
-        "date": "2026-07-14 23:24",
-        "link": "https://www.wikitree.co.kr/articles/1146462"
-    },
-    {
-        "title": "[미국 특징주] 키뱅크, 애플 투자의견 '비중축소'로 하향...주가 1%↓",
-        "date": "2026-07-14 22:52",
-        "link": "https://www.newspim.com/news/view/20260714001205"
-    },
-    {
-        "title": "“오빠 ‘갤레기’ 써요?” 40대 아재폰인 줄로만 알았는데…깜짝 놀랄...",
-        "date": "2026-07-14 21:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002670297?sid=105"
-    },
-    {
-        "title": "스마트폰 시장 역성장에도 점유율 늘린 삼성전자...애플도 제쳤다",
-        "date": "2026-07-14 20:06",
-        "link": "https://www.pennmike.com/news/articleView.html?idxno=123688"
-    },
-    {
-        "title": "갤Z폴드8 울트라, 폴더블폰 최초 '반사 방지 디스플레이' 탑재할까",
-        "date": "2026-07-14 19:40",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430535?sid=105"
-    },
-    {
-        "title": "中 OLED 추격 거세지는데…삼성디스플레이, 8.6세대 IT OLED로 초격차 수...",
-        "date": "2026-07-14 18:50",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237537"
-    },
-    {
-        "title": "“스마트폰 비싸서 못 사겠다” 라더니 삼성폰은 잘나갔다…애플 제치...",
-        "date": "2026-07-14 18:21",
-        "link": "https://n.news.naver.com/mnews/article/011/0004641563?sid=105"
-    },
-    {
-        "title": "[반도체 전쟁] 인텔 18A '웨이퍼 변동성' 극복… 요동치는 파운드리 판도...",
-        "date": "2026-07-14 18:08",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273036"
-    },
-    {
-        "title": "애플, iOS 27 퍼블릭 베타 배포 시작…일반 사용자도 미리 체험 가능",
-        "date": "2026-07-14 17:48",
-        "link": "https://news.appstory.co.kr/daily19361"
-    },
-    {
-        "title": "이재용 농담 현실이 됐다…아이폰 즐겨쓰던 20대도 '돌변'",
-        "date": "2026-07-14 17:45",
-        "link": "https://n.news.naver.com/mnews/article/015/0005309936?sid=105"
-    },
-    {
-        "title": "삼성, 애플 제치고 다시 스마트폰 세계 1위로…2분기 점유율 24%",
-        "date": "2026-07-14 17:41",
-        "link": "https://n.news.naver.com/mnews/article/003/0014066734?sid=105"
-    },
-    {
-        "title": "2분기 글로벌 스마트폰…삼성, 애플 제치고 1위",
-        "date": "2026-07-14 17:40",
-        "link": "https://n.news.naver.com/mnews/article/015/0005309925?sid=101"
-    },
-    {
-        "title": "삼성전자, 애플 제치고 글로벌 스마트폰 시장 1위 탈환",
-        "date": "2026-07-14 17:38",
-        "link": "https://news.mtn.co.kr/news-detail/2026071417043596373"
-    },
-    {
-        "title": "'폴더블 아이폰' 기대…애플 주가 사상 최고치·시총 975조원 증가",
-        "date": "2026-07-14 17:37",
-        "link": "https://n.news.naver.com/mnews/article/654/0000190418?sid=101"
-    },
-    {
-        "title": "삼성전자 'AI폰' 전략 통했다 … 애플 제치고 세계 1위 재탈환",
-        "date": "2026-07-14 17:34",
-        "link": "https://n.news.naver.com/mnews/article/009/0005707446?sid=105"
-    },
-    {
-        "title": "AI 모델 대신 디바이스 생태계 집중…애플만 웃었다",
-        "date": "2026-07-14 17:33",
-        "link": "https://n.news.naver.com/mnews/article/011/0004641523?sid=104"
-    },
-    {
-        "title": "삼성, 애플 제치고 2분기 스마트폰 세계 1위 탈환",
-        "date": "2026-07-14 17:21",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733847?sid=101"
-    },
-    {
-        "title": "전자 소재 키우는 LG화학…OLED 핵심 특허 지켰다",
-        "date": "2026-07-14 17:20",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189729"
-    },
-    {
-        "title": "갤럭시Z 폴드8, 15W 시대 끝…20W 무선충전 적용 가능성",
-        "date": "2026-07-14 17:16",
-        "link": "https://kbench.com/?q=node/280379"
-    },
-    {
-        "title": "“삼성도 쓴다”…LG전자, 의료용 모니터 美공략 가속도",
-        "date": "2026-07-14 17:14",
-        "link": "https://n.news.naver.com/mnews/article/029/0003037057?sid=101"
-    },
-    {
-        "title": "300달러 뛴 아이폰 원가…갤럭시Z폴드8 인상 불가피",
-        "date": "2026-07-14 17:14",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026071415511041932"
-    },
-    {
-        "title": "삼성, 글로벌 스마트폰 시장 1위 유지…침체 속 애플 제쳤다",
-        "date": "2026-07-14 17:06",
-        "link": "https://news.appstory.co.kr/daily19359"
-    },
-    {
-        "title": "LGD, 이달 말 6세대 TFT 설비 투자 심의…신기술 생산라인 확보 차원",
-        "date": "2026-07-14 17:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003447768?sid=105"
-    },
-    {
-        "title": "비수기 진입한 디스플레이, 하반기 신작 출시 전 '숨고르기' 돌입 [디스...",
-        "date": "2026-07-14 16:50",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234187?sid=105"
-    },
-    {
-        "title": "AI 거품론 비껴간 애플… '도파민 파티' 끝난 월가의 새로운 대안",
-        "date": "2026-07-14 16:48",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=753356"
-    },
-    {
-        "title": "애플·오픈AI 영업비밀 소송 확전…과거 분쟁 사례까지 재조명",
-        "date": "2026-07-14 16:44",
-        "link": "https://news.appstory.co.kr/daily19358"
-    },
-    {
-        "title": "로봇이 옷 만드는 시대 피지컬 AI, 패션 공급망 다시 짠다",
-        "date": "2026-07-14 16:44",
-        "link": "http://www.ktnews.com/news/articleView.html?idxno=147180"
-    },
-    {
-        "title": "애플, iPadOS 27·macOS 27 개발자 베타 수정 버전 배포",
-        "date": "2026-07-14 16:42",
-        "link": "https://kbench.com/?q=node/280378"
-    },
-    {
-        "title": "인텔 18A 수율 반등…삼성전자와 파운드리 경쟁 후끈",
-        "date": "2026-07-14 16:28",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537518?sid=101"
-    },
-    {
-        "title": "핵융합硏-세기원, 플라즈마 공정 세라믹 데이터 표준화 추진",
-        "date": "2026-07-14 16:24",
-        "link": "http://amenews.kr/news/view.php?idx=67424"
-    },
-    {
-        "title": "하이로닉, 창립 20주년 맞아 2세대 마이크로웨이브 장비 '미글로우(MIGLO...",
-        "date": "2026-07-14 16:18",
-        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83478"
-    },
-    {
-        "title": "삼성전자, 스마트폰 시장 정상 탈환…애플 제치고 1위",
-        "date": "2026-07-14 16:18",
-        "link": "https://n.news.naver.com/mnews/article/448/0000626755?sid=101"
-    },
-    {
-        "title": "애플 소송에 발목 잡힌 오픈AI…'인재 확보·공급망' 비상",
-        "date": "2026-07-14 16:12",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=212735"
-    },
-    {
-        "title": "삼성, 애플 제쳤다...2분기 글로벌 스마트폰 1위 탈환",
-        "date": "2026-07-14 16:10",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=751750"
-    },
-    {
-        "title": "삼성전자 애플 올가을 폴더블폰 전쟁, 노태문 경량화·주름 개선으로 1...",
-        "date": "2026-07-14 16:10",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442310"
-    },
-    {
-        "title": "코오롱인더, 사업 포트폴리오 재편…mPPO·CPI 중심 고부가 전략 강화",
-        "date": "2026-07-14 15:57",
-        "link": "https://n.news.naver.com/mnews/article/119/0003111351?sid=101"
-    },
-    {
-        "title": "“벌써 매장에?”…베일 벗기 전 유출된 갤럭시Z폴드8, 어떤 모습?",
-        "date": "2026-07-14 15:45",
-        "link": "https://n.news.naver.com/mnews/article/009/0005707343?sid=101"
-    },
-    {
-        "title": "갤럭시 생태계 굳힌 삼성…엑시노스로 탄력받나",
-        "date": "2026-07-14 15:44",
-        "link": "http://www.metroseoul.co.kr/article/20260714500416"
-    },
-    {
-        "title": "삼성전자, 2분기 글로벌 스마트폰 1위 탈환…애플 제치고 점유율 24%",
-        "date": "2026-07-14 15:44",
-        "link": "https://www.public25.com/news/articleView.html?idxno=50639"
-    },
-    {
-        "title": "이재용의 ‘갤럭시 홍보’ 통했나... 20대 갤럭시 선호 높아졌다",
-        "date": "2026-07-14 15:43",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987549?sid=101"
-    },
-    {
-        "title": "애플 의존도 낮추려는 LG이노텍, 기판 사업 체질 개선",
-        "date": "2026-07-14 15:32",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46257"
-    },
-    {
-        "title": "[삼성 모바일 40년]② '애니콜' 왕관 깨고 '갤럭시' 새 신화 쓰다",
-        "date": "2026-07-14 15:14",
-        "link": "https://n.news.naver.com/mnews/article/293/0000087612?sid=101"
-    },
-    {
-        "title": "삼성, 스마트폰 시장 역성장에도 점유율 확대…글로벌 1위 탈환",
-        "date": "2026-07-14 15:12",
-        "link": "http://www.segyebiz.com/newsView/20260714516265?OutUrl=naver"
-    },
-    {
-        "title": "CNT솔루션, 투명 CQD·CNT 등 탄소 나노소재 플랫폼 확대",
-        "date": "2026-07-14 15:10",
-        "link": "http://amenews.kr/news/view.php?idx=67423"
-    },
-    {
-        "title": "OLED TV LG C6와 삼성 S95H 비교해 보니...화질은 삼성. 가성비는 LG",
-        "date": "2026-07-14 15:08",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545747"
-    },
-    {
-        "title": "애플-오픈AI 소송전, 8가지 핵심 쟁점…시리 AI 협력도 흔들리나",
-        "date": "2026-07-14 15:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684003"
-    },
-    {
-        "title": "메모리 값 급등에 中 스마트폰 양극화… 화웨이·애플 약진",
-        "date": "2026-07-14 15:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165775"
-    },
-    {
-        "title": "“메모리 대란에도 웃었다”…삼성전자, 애플 제치고 글로벌 스마트폰...",
-        "date": "2026-07-14 14:55",
-        "link": "https://n.news.naver.com/mnews/article/009/0005707280?sid=105"
-    },
-    {
-        "title": "삼성전자, 2분기 애플 제치고 글로벌 스마트폰 '왕좌'",
-        "date": "2026-07-14 14:46",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1391312"
-    },
-    {
-        "title": "아이폰 가세… 삼성, 투트랙 폴드 혁신 카드로 애플 공세 막는다",
-        "date": "2026-07-14 14:44",
-        "link": "https://www.viva100.com/article/20260714500835"
-    },
-    {
-        "title": "삼성, '갤럭시Z 폴드8·플립8' 카메라 어시스턴트 업데이트 예고…'미러...",
-        "date": "2026-07-14 14:44",
-        "link": "https://kbench.com/?q=node/280373"
-    },
-    {
-        "title": "‘포스트 아이폰’ 싹 자른다…애플, 소송 카드로 오픈AI 압박",
-        "date": "2026-07-14 14:34",
-        "link": "https://www.ekn.kr/web/view.php?key=20260714025492319"
-    },
-    {
-        "title": "폴드에 '울트라' 카드 꺼내나…삼성, 폴더블 시장 수성 총력",
-        "date": "2026-07-14 14:34",
-        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936418"
-    },
-    {
-        "title": "AI 메모리 쇼크에 폰 시장 위축…‘갤Z폴드8’ 가격도 오르나",
-        "date": "2026-07-14 14:26",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234143?sid=105"
-    },
-    {
-        "title": "삼성의 게이밍 노트북 OLED 패널 브랜드, '오블릭스(OBLYX)' 중국서 발표",
-        "date": "2026-07-14 14:12",
-        "link": "https://m.sports.naver.com/esports/article/442/0000194381"
-    },
-    {
-        "title": "AI 메모리 쏠림에 중저가폰 직격탄…삼성·애플만 버틴 스마트폰 시장",
-        "date": "2026-07-14 14:02",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=132986"
-    },
-    {
-        "title": "애플워치, 시리 AI로 더 똑똑해진다…watchOS 27 공개 베타 시작",
-        "date": "2026-07-14 13:54",
-        "link": "https://kbench.com/?q=node/280371"
-    },
-    {
-        "title": "애플 vs 오픈에이아이, AI 하드웨어 시장서 격돌: 영업비밀 소송 시작",
-        "date": "2026-07-14 13:54",
-        "link": "https://www.tokenpost.kr/news/tech/377549"
-    },
-    {
-        "title": "삼성전자, 애플 제치고 2분기 스마트폰 글로벌 1위 되찾아",
-        "date": "2026-07-14 13:50",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699409"
-    },
-    {
-        "title": "오픈AI, 애플 출신 조니 아이브 동원해 아이폰 대항마 준비",
-        "date": "2026-07-14 13:49",
-        "link": "https://n.news.naver.com/mnews/article/029/0003036978?sid=104"
-    },
-    {
-        "title": "갤럭시, 韓 점유율 81% 독주…1020 아이폰 강세 이어져",
-        "date": "2026-07-14 13:42",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=745158"
-    },
-    {
-        "title": "게이밍 PC 못지 않은 강력한 게이밍 노트북 '에이수스 ROG Strix SCAR 18 (20...",
-        "date": "2026-07-14 13:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60017"
-    },
-    {
-        "title": "칩인플레에 아이폰 18 원가 급등 전망…갤럭시도 압박 심화",
-        "date": "2026-07-14 13:00",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46249"
-    },
-    {
-        "title": "[탐사경]AI 열풍의 역설…왜 '가장 AI 같지 않은 기업' 애플이 월가의 승...",
-        "date": "2026-07-14 12:38",
-        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5071"
-    },
-    {
-        "title": "애플, M6 프로·맥스 건너뛴다…이유는 'AI'",
-        "date": "2026-07-14 11:44",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430453?sid=105"
-    },
-    {
-        "title": "오픈AI, '제2의 아이폰' 생산하나?...애플 '정조준'",
-        "date": "2026-07-14 11:30",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=79895"
-    },
-    {
-        "title": "삼성전자, 2분기 글로벌 스마트폰 1위 탈환 … 인도·중동서 애플 제쳤...",
-        "date": "2026-07-14 11:28",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400140.html"
-    },
-    {
-        "title": "삼성전자, 올해 2Q 글로벌 스마트폰 점유율 애플 제치고 1위 탈환",
-        "date": "2026-07-14 11:20",
-        "link": "https://www.mediawatch.kr/news/article.html?no=260366"
-    },
-    {
-        "title": "삼성, 애플 제치고 스마트폰 1위 탈환…2분기 점유율 24%",
-        "date": "2026-07-14 11:18",
-        "link": "https://n.news.naver.com/mnews/article/031/0001041999?sid=105"
-    },
-    {
-        "title": "애플 iOS 27 공개 베타…시리 AI·애플 인텔리전스 전면 확대",
-        "date": "2026-07-14 11:14",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683946"
-    },
-    {
-        "title": "서린씨앤아이, 리안리 커브드 OLED 디스플레이 적용 수랭 쿨러 '하이드로...",
-        "date": "2026-07-14 11:14",
-        "link": "https://www.thisisgame.com/articles/427775"
-    },
-    {
-        "title": "왜 애플의 노트북 '가격 인상'을 주목해야 하는가 [질문의 기술]",
-        "date": "2026-07-14 11:12",
-        "link": "https://n.news.naver.com/mnews/article/665/0000007747?sid=105"
-    },
-    {
-        "title": "애플 iOS 27 공개 베타 배포…가장 먼저 써볼 핵심 기능 3가지",
-        "date": "2026-07-14 11:12",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683958"
-    },
-    {
-        "title": "제2의 아이폰 막아라...애플, 핵심 인력 싹쓸이 오픈AI에 '소송 철퇴'",
-        "date": "2026-07-14 11:11",
-        "link": "https://n.news.naver.com/mnews/article/052/0002379167?sid=104"
-    },
-    {
-        "title": "파리바게뜨, 애플망고 활용 시즌 디저트 '애망시' 출시",
-        "date": "2026-07-14 11:10",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040611"
-    },
-    {
-        "title": "스마트폰 부품값만 300달러 폭등... 차세대 아이폰·갤럭시 가격 인상 압...",
-        "date": "2026-07-14 11:07",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987497?sid=105"
-    },
-    {
-        "title": "삼성, 애플 제치고 스마트폰 '왕좌' 탈환…2분기 점유율 24%",
-        "date": "2026-07-14 11:04",
-        "link": "https://www.ajunews.com/view/20260714105210042"
-    },
-    {
-        "title": "오픈AI, '제2의 아이폰'으로 애플 정조준…소송이 최대 변수",
-        "date": "2026-07-14 10:58",
-        "link": "https://n.news.naver.com/mnews/article/001/0016193005?sid=101"
-    },
-    {
-        "title": "삼성, 스마트폰 시장 역성장에도 1위…애플 맹추격",
-        "date": "2026-07-14 10:57",
-        "link": "https://n.news.naver.com/mnews/article/003/0014065147?sid=105"
-    },
-    {
-        "title": "아이폰 꺾은 삼성전자 갤럭시, 81% 점유율의 비밀…글로벌 시장서도 압...",
-        "date": "2026-07-14 10:56",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266416"
-    },
-    {
-        "title": "폴더블 대전 막 오른다 … 삼성·애플 신작에 OLED 업계 '기대감'",
-        "date": "2026-07-14 10:54",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400094.html"
-    },
-    {
-        "title": "‘AI 늑장’이 반전 카드 됐다… 애플, AI 과열론에 홀로 급등",
-        "date": "2026-07-14 10:50",
-        "link": "https://n.news.naver.com/mnews/article/024/0000106853?sid=102"
-    },
-    {
-        "title": "삼성, 2분기 글로벌 스마트폰 1위 탈환…애플 제쳤다",
-        "date": "2026-07-14 10:48",
-        "link": "https://www.kbsm.net/news/view.php?idx=526664"
-    },
-    {
-        "title": "[경제일보] 현대카드, 애플페이 독점 장기화에 반사이익…경쟁사 연내 ...",
-        "date": "2026-07-14 10:40",
-        "link": "https://www.ajunews.com/view/20260710152952465"
-    },
-    {
-        "title": "LG디스플레이, 반등 기대감 커져..고부가가치 시장서 존재감 확대",
-        "date": "2026-07-14 10:38",
-        "link": "https://kpenews.com/View.aspx?No=4148060"
-    },
-    {
-        "title": "갤럭시Z 플립8, 커버 디스플레이 대폭 개선…위젯 없이 앱 그대로 실행",
-        "date": "2026-07-14 10:34",
-        "link": "https://kbench.com/?q=node/280358"
-    },
-    {
-        "title": "삼성, 2분기 애플 넘어 글로벌 스마트폰 1위 탈환",
-        "date": "2026-07-14 10:33",
-        "link": "https://n.news.naver.com/mnews/article/586/0000133697?sid=101"
-    },
-    {
-        "title": "삼성전자, 글로벌 스마트폰 왕좌 되찾았다…애플 제치고 점유율 24%",
-        "date": "2026-07-14 10:32",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=532653"
-    },
-    {
-        "title": "오픈AI, 애플 소송에 '아이폰 대항마' 개발 제동",
-        "date": "2026-07-14 10:28",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165746"
-    },
-    {
-        "title": "삼성, 애플 제치고 2분기 글로벌 스마트폰 1위 탈환",
-        "date": "2026-07-14 10:26",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=79891"
-    },
-    {
-        "title": "삼성전자, 애플 제치고 글로벌 스마트폰 1위 탈환",
-        "date": "2026-07-14 10:22",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987483?sid=105"
-    },
-    {
-        "title": "삼성전자, 2분기 글로벌 스마트폰 시장서 애플 제치고 1위 탈환",
-        "date": "2026-07-14 10:20",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83278"
-    },
-    {
-        "title": "애플, iOS 27 공개 베타 출시…시리 AI·앱 실행 속도 30% 개선",
-        "date": "2026-07-14 10:18",
-        "link": "https://kbench.com/?q=node/280349"
-    },
-    {
-        "title": "메타 레이밴 메타도 에어팟처럼 연결해 달라…EU 규제 놓고 애플과 정...",
-        "date": "2026-07-14 10:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683897"
-    },
-    {
-        "title": "침체장서 더 강했다…애플, 2분기 출하 점유율 역대 최고·삼성은 1위 탈...",
-        "date": "2026-07-14 10:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683912"
-    },
-    {
-        "title": "삼성 갤럭시, 한 분기 만에 '글로벌 1위' 탈환…점유율 24%로 애플 제쳐",
-        "date": "2026-07-14 10:04",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92203"
-    },
-    {
-        "title": "삼성전자, 애플 제치고 스마트폰 왕좌 탈환…2분기 점유율 24%",
-        "date": "2026-07-14 09:56",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237487"
-    },
-    {
-        "title": "애플, AI 회의론 속 '안전 자산'으로 부상…시총 4조6,600억 달러 돌파",
-        "date": "2026-07-14 09:56",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388078"
-    },
-    {
-        "title": "삼성전자, 2분기 글로벌 스마트폰 1위 탈환…점유율 24%로 애플 제쳐",
-        "date": "2026-07-14 09:46",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=118983"
-    },
-    {
-        "title": "삼성전자, 2분기 글로벌 스마트폰 1위 탈환…갤럭시 S26 통했다",
-        "date": "2026-07-14 09:44",
-        "link": "https://www.sentv.co.kr/article/view/sentv202607140038"
-    },
-    {
-        "title": "트라이폴드2보다 슬라이드폰 먼저?…삼성, 폴더블 로드맵 변화 가능성",
-        "date": "2026-07-14 09:42",
-        "link": "https://kbench.com/?q=node/280347"
-    },
-    {
-        "title": "삼성, 애플 제치고 2분기 글로벌 스마트폰 1위 복귀...'칩플레이션' 여파...",
-        "date": "2026-07-14 09:38",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=203308"
-    },
-    {
-        "title": "삼성, 2분기 스마트폰 1위 탈환…애플 제치고 점유율 24%",
-        "date": "2026-07-14 09:38",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733720?sid=101"
-    },
-    {
-        "title": "글로벌 스마트폰 출하량 4% 감소…삼성·애플은 점유율 확대",
-        "date": "2026-07-14 09:36",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=79385"
-    },
-    {
-        "title": "삼성, 2분기 스마트폰 출하량 24%로 1위···애플은 20%",
-        "date": "2026-07-14 09:32",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=148466"
-    },
-    {
-        "title": "AI 투자 불안에 갈린 빅테크, 애플은 사상 최고가 기록",
-        "date": "2026-07-14 09:26",
-        "link": "https://n.news.naver.com/mnews/article/586/0000133682?sid=101"
-    },
-    {
-        "title": "삼성전자, 2분기 스마트폰 1위 회복…시장 위축에도 점유율 24%",
-        "date": "2026-07-14 09:22",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=139974"
-    },
-    {
-        "title": "'갤S26 효과'로 애플 제쳤다…삼성, 스마트폰 세계 1위 탈환",
-        "date": "2026-07-14 09:18",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4838070"
-    },
-    {
-        "title": "포스트 아이폰 노리던 오픈AI에 브레이크… 애플, 기밀 탈취 전면전 선...",
-        "date": "2026-07-14 09:14",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234084?sid=105"
-    },
-    {
-        "title": "도난 노트북·비밀 첩자 동원…애플이 폭로한 오픈AI의 '기밀 탈취 전략...",
-        "date": "2026-07-14 09:10",
-        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53205"
-    },
-    {
-        "title": "삼성, 2분기 글로벌 스마트폰 점유율 1위…애플 앞서",
-        "date": "2026-07-14 09:07",
-        "link": "https://n.news.naver.com/mnews/article/422/0000884816?sid=101"
-    },
-    {
-        "title": "삼성, 갤럭시 S26 흥행에 웃었다…글로벌 스마트폰 1위 탈환",
-        "date": "2026-07-14 09:06",
-        "link": "https://n.news.naver.com/mnews/article/654/0000190340?sid=101"
-    },
-    {
-        "title": "삼성전자, 2Q 글로벌 스마트폰 점유율 24%…애플 제치고 1위 탈환",
-        "date": "2026-07-14 09:04",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716243"
-    },
-    {
-        "title": "칩플레이션 여파 서민 가계로...완제품부터 수리비까지 가격 도미노 인...",
-        "date": "2026-07-14 09:04",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=255103"
-    },
-    {
-        "title": "AI 거품 우려에 애플만 웃었다",
-        "date": "2026-07-14 08:56",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=916846"
-    },
-    {
-        "title": "삼성 갤럭시, 국내 시장서 '훨훨'…2021年 이후 재구매 의향 '상승 곡선...",
-        "date": "2026-07-14 08:50",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92192"
-    },
-    {
-        "title": "삼성, 2분기 글로벌 스마트폰 1위 탈환…애플 제쳤다",
-        "date": "2026-07-14 08:45",
-        "link": "https://n.news.naver.com/mnews/article/001/0016192476?sid=105"
-    },
-    {
-        "title": "“AI전쟁, 이제는 하드웨어”…애플-오픈AI 소장에 드러난 실태 [이규화...",
-        "date": "2026-07-14 08:23",
-        "link": "https://n.news.naver.com/mnews/article/029/0003036899?sid=104"
-    },
-    {
-        "title": "[미국 특징주] 오픈AI, 애플 소송 한 방에 '기기 야심' 급제동",
-        "date": "2026-07-14 08:05",
-        "link": "https://www.newspim.com/news/view/20260714000053"
-    },
-    {
-        "title": "[주간 데이터동향] 소비자 38% 스마트폰 구매 시 AI 고려... 인지도 1위...",
-        "date": "2026-07-14 08:00",
-        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32629"
-    },
-    {
-        "title": "삼성전자, 국민이 뽑은 AI 기업 1위…구글·오픈AI 앞서",
-        "date": "2026-07-14 07:47",
-        "link": "https://n.news.naver.com/mnews/article/031/0001041900?sid=101"
-    },
-    {
-        "title": "2분기 스마트폰 시장 역성장...삼성·애플만 점유율 늘려",
-        "date": "2026-07-14 07:43",
-        "link": "https://n.news.naver.com/mnews/article/031/0001041899?sid=105"
-    },
-    {
-        "title": "“아버지의 목소리를 다시 보여주고 싶었다”…이성욱 긱스로프트 대표...",
-        "date": "2026-07-14 07:25",
-        "link": "https://www.venturesquare.net/1098201/"
-    },
-    {
-        "title": "포스트 아이폰 싹 자른다…애플, 오픈AI 하드웨어 야심 '맹공'[모닝폰...",
-        "date": "2026-07-14 07:13",
-        "link": "https://n.news.naver.com/mnews/article/018/0006329532?sid=105"
     }
 ]
