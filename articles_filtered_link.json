@@ -1,11 +1,126 @@
 [
     {
+        "title": "'폴더블폰 원조' 삼성, 4대3 황금비율로 선두 굳힌다",
+        "date": "2026-07-20 06:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387765?sid=105"
+    },
+    {
+        "title": "삼성전자, 프리미엄 '폴드8 울트라'·AI 안경 출격 준비",
+        "date": "2026-07-20 05:14",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=212916"
+    },
+    {
+        "title": "[NBS 하이라이트] 양평서 애플망고 농사짓는 김병연씨",
+        "date": "2026-07-20 05:01",
+        "link": "https://n.news.naver.com/mnews/article/662/0000099941?sid=103"
+    },
+    {
+        "title": "[출퇴근포인트] 세제·재정지원 뒷받침되면…대기업 4곳 중 1곳 3년내 지...",
+        "date": "2026-07-20 04:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312311"
+    },
+    {
+        "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
+        "date": "2026-07-20 00:34",
+        "link": "https://n.news.naver.com/mnews/article/023/0003988422?sid=105"
+    },
+    {
+        "title": "애플, 日서 아이폰 가격 10% 인상… 엔화 약세 반영",
+        "date": "2026-07-20 00:31",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734900?sid=101"
+    },
+    {
+        "title": "AI 못해 AI 안한 애플…AI고점론에 돈 붙는다",
+        "date": "2026-07-20 00:02",
+        "link": "https://n.news.naver.com/mnews/article/025/0003538591?sid=105"
+    },
+    {
+        "title": "갤럭시 언팩 앞두고 사전 알림 혜택 경쟁 후끈…이통3사 중 어디가 실속...",
+        "date": "2026-07-19 21:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545864"
+    },
+    {
+        "title": "갤럭시 스마트폰 이어 웨어러블도 '녹색 줄' 현상 발견...해외 커뮤니티...",
+        "date": "2026-07-19 20:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545863"
+    },
+    {
+        "title": "폴드 와이드·AI 글라스 출격…삼성, 경쟁사 추격 뿌리친다",
+        "date": "2026-07-19 18:12",
+        "link": "https://n.news.naver.com/mnews/article/015/0005311416?sid=101"
+    },
+    {
+        "title": "새 폴더블 라인업 삼성, 영국서 공개",
+        "date": "2026-07-19 18:09",
+        "link": "https://n.news.naver.com/mnews/article/082/0001390312?sid=101"
+    },
+    {
+        "title": "애플, 엔저에 日 아이폰17 가격 10% 인상… 애플워치·에어팟도 올라",
+        "date": "2026-07-19 18:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001180189?sid=105"
+    },
+    {
+        "title": "베일 벗는 8세대 갤럭시 Z·첫 AI 글래스…삼성, 하반기 실적 승부수",
+        "date": "2026-07-19 18:02",
+        "link": "https://www.ajunews.com/view/20260719124536356"
+    },
+    {
+        "title": "삼성 폴더블 3종 출격…'엑시노스 2600' 비메모리 반등 시험대",
+        "date": "2026-07-19 17:54",
+        "link": "https://n.news.naver.com/mnews/article/031/0001043052?sid=105"
+    },
+    {
+        "title": "‘사과 맛 예전 같지 않다’던 애플의 재부상…과거 록펠러 닮았다 [팩...",
+        "date": "2026-07-19 17:46",
+        "link": "https://n.news.naver.com/mnews/article/025/0003538532?sid=105"
+    },
+    {
+        "title": "삼성전자, 22일 갤럭시 언팩…폴드8울트라ㆍAI글래스 베일 벗는다",
+        "date": "2026-07-19 17:20",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607191041447230569"
+    },
+    {
+        "title": "이번 주 갤럭시 Z8 시리즈 공개…삼성 모바일 반등 계기 주목",
+        "date": "2026-07-19 17:16",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006577"
+    },
+    {
+        "title": "삼성전자, 22일 런던서 언팩…폴드8 울트라·AI 글래스 공개",
+        "date": "2026-07-19 17:06",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=533698"
+    },
+    {
+        "title": "애플, 日서 아이폰17 가격 10% 인상…엔화 약세 영향",
+        "date": "2026-07-19 16:58",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734849?sid=101"
+    },
+    {
+        "title": "삼성전자, 22일 런던서 '갤럭시 언팩 2026'…신형 폴드 모델 선보인다",
+        "date": "2026-07-19 16:13",
+        "link": "https://n.news.naver.com/mnews/article/448/0000627811?sid=101"
+    },
+    {
+        "title": "동국대 류승윤 교수팀, OLED 수명 저하 원인 실시간 규명 … 엑시톤 산란...",
+        "date": "2026-07-19 16:06",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/19/2026071900079.html"
+    },
+    {
+        "title": "애플, 가성비 노트북 앞세워 2분기 PC 시장 '나홀로 약진'",
+        "date": "2026-07-19 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003448819?sid=105"
+    },
+    {
+        "title": "[기고] 대체불가 디스플레이 강국을 향한 담대한 도전",
+        "date": "2026-07-19 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003448820?sid=105"
+    },
+    {
         "title": "갤럭시 언팩 D-3…'300만원 폴더블' 승부수",
         "date": "2026-07-19 15:41",
         "link": "https://n.news.naver.com/mnews/article/215/0001259170?sid=105"
     },
     {
-        "title": "‘갤럭시 Z 폴드·플립 8’ 출격…AI 글래스로 AI생태계 확장도 시도",
+        "title": "‘갤럭시 Z 폴드·플립 8’ 출격… AI 글래스로 AI생태계 확장도 시도",
         "date": "2026-07-19 15:28",
         "link": "https://n.news.naver.com/mnews/article/029/0003037605?sid=105"
     },
@@ -38,6 +153,11 @@
         "title": "삼성 브랜드 가치 145조 평가 글로벌 테크 기업 중 8위…애플 '1위'",
         "date": "2026-07-19 14:17",
         "link": "https://n.news.naver.com/mnews/article/421/0009066762?sid=101"
+    },
+    {
+        "title": "'AI 안경 출시' 삼성전자, 스마트글라스 시장 참전...메타·애플 정면승...",
+        "date": "2026-07-19 14:03",
+        "link": "https://n.news.naver.com/mnews/article/660/0000113418?sid=101"
     },
     {
         "title": "AI 낙오자 애플, 15개월만에 장중 시총 1위... AI 투자 덜한 덕분?",
@@ -163,205 +283,5 @@
         "title": "애플, 日서 아이폰 17 가격 10% 기습 인상",
         "date": "2026-07-19 07:13",
         "link": "https://n.news.naver.com/mnews/article/092/0002430946?sid=105"
-    },
-    {
-        "title": "아이폰18 프로, 9월 출시 앞두고 가격 최대 300달러 인상 전망",
-        "date": "2026-07-19 06:46",
-        "link": "https://www.wikitree.co.kr/articles/1147132"
-    },
-    {
-        "title": "삼성, 22일 언팩…'폴드8 울트라'·AI 글래스 공개",
-        "date": "2026-07-19 06:13",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201480?sid=105"
-    },
-    {
-        "title": "공개 임박 삼성전자 8세대 갤럭시 Z…비메모리 반등 이끌까",
-        "date": "2026-07-19 06:13",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201481?sid=105"
-    },
-    {
-        "title": "삼성, 갤럭시 언팩서 '스마트글래스' 첫선…메타 독주 흔들까",
-        "date": "2026-07-19 06:06",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026071613433989025"
-    },
-    {
-        "title": "갤럭시Z8 시리즈 '와이드 폴드' 가장 많이 만든다",
-        "date": "2026-07-19 06:02",
-        "link": "https://n.news.naver.com/mnews/article/030/0003448712?sid=105"
-    },
-    {
-        "title": "퀄컴에 밀린 엑시노스… 갤럭시 확대 전략 제동",
-        "date": "2026-07-19 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166009"
-    },
-    {
-        "title": "삼성 새 폴더블 출격 임박…이통3사, 사전 마케팅 경쟁",
-        "date": "2026-07-19 06:00",
-        "link": "https://n.news.naver.com/mnews/article/031/0001043007?sid=105"
-    },
-    {
-        "title": "美 샌프란시스코, 애플·구글에 ‘누디파이 앱’ 퇴출 압박",
-        "date": "2026-07-19 03:02",
-        "link": "https://www.g-enews.com/view.php?ud=2026071819103017899a1f309431_1"
-    },
-    {
-        "title": "'접는 폰'의 다음 10년 보여줄까···'갤럭시 언팩'이 기대되는 이유",
-        "date": "2026-07-19 02:30",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=148707"
-    },
-    {
-        "title": "한배 탔던 애플·오픈AI…이젠 '소송 전쟁'",
-        "date": "2026-07-18 19:32",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259125?sid=105"
-    },
-    {
-        "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
-        "date": "2026-07-18 18:40",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=212906"
-    },
-    {
-        "title": "애플, 오픈AI 이직 前직원 40명에 경고장…AI 동맹, 소송전으로",
-        "date": "2026-07-18 18:27",
-        "link": "https://n.news.naver.com/mnews/article/022/0004144007?sid=104"
-    },
-    {
-        "title": "애플, 오픈AI로 이직한 직원들에 법적 서한…영업비밀 유출 증거 확보...",
-        "date": "2026-07-18 18:13",
-        "link": "https://n.news.naver.com/mnews/article/003/0014073664?sid=104"
-    },
-    {
-        "title": "애플, 오픈AI로 옮긴 직원들에 경고…기밀 탈취",
-        "date": "2026-07-18 17:00",
-        "link": "https://n.news.naver.com/mnews/article/469/0000942913?sid=104"
-    },
-    {
-        "title": "“내부 기밀 빼돌렸지?”…애플, 오픈AI로 이직한 직원들에 경고장",
-        "date": "2026-07-18 14:48",
-        "link": "https://n.news.naver.com/mnews/article/009/0005708949?sid=101"
-    },
-    {
-        "title": "40명에게 메신저 기록 삭제하지 마…전 직장에서 날아온 '공포의 경고...",
-        "date": "2026-07-18 14:14",
-        "link": "https://n.news.naver.com/mnews/article/277/0005791375?sid=104"
-    },
-    {
-        "title": "애플, 오픈AI 이직자 40명 조준…'기밀 탈취' 소송전 확전",
-        "date": "2026-07-18 14:12",
-        "link": "https://n.news.naver.com/mnews/article/243/0000100574?sid=105"
-    },
-    {
-        "title": "아이폰17 잘 팔렸다는데 2위?... 삼성, 스마트폰 왕좌 탈환",
-        "date": "2026-07-18 14:10",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1169383"
-    },
-    {
-        "title": "동맹에서 숙적으로⋯ 애플, 오픈AI 향해 “우리 기밀 훔쳤다” 전면전",
-        "date": "2026-07-18 14:08",
-        "link": "https://www.viva100.com/article/20260718500114"
-    },
-    {
-        "title": "애플, 오픈AI로 옮긴 직원들에 경고장...'기밀 탈취' 공세",
-        "date": "2026-07-18 14:04",
-        "link": "https://n.news.naver.com/mnews/article/052/0002381142?sid=104"
-    },
-    {
-        "title": "애플, 오픈AI 옮긴 직원들에 ‘기밀 탈취’ 소송 경고장 발송",
-        "date": "2026-07-18 13:31",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671700?sid=104"
-    },
-    {
-        "title": "올해 노트북 OLED 출하량 66% 상승 전망",
-        "date": "2026-07-18 13:29",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430932?sid=105"
-    },
-    {
-        "title": "애플의 2차 반격… 오픈AI로 떠난 40명에 ‘기밀 유지’ 경고장",
-        "date": "2026-07-18 13:26",
-        "link": "https://n.news.naver.com/mnews/article/029/0003037488?sid=105"
-    },
-    {
-        "title": "애플, 美 법무부와 '슈퍼앱' 반독점 소송 합의 시도",
-        "date": "2026-07-18 13:17",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430931?sid=105"
-    },
-    {
-        "title": "애플, 오픈AI 이직자에 경고장…'내부기밀 탈취' 공세",
-        "date": "2026-07-18 13:17",
-        "link": "https://n.news.naver.com/mnews/article/015/0005311225?sid=101"
-    },
-    {
-        "title": "애플, 오픈AI 이직 직원 40명에 경고장…'기밀 유출' 공방 확산",
-        "date": "2026-07-18 13:15",
-        "link": "https://n.news.naver.com/mnews/article/374/0000522312?sid=101"
-    },
-    {
-        "title": "삼성, 스파이더맨 영상서 '갤럭시 Z폴드8' 첫 공개...가로로 넓어졌다",
-        "date": "2026-07-18 13:10",
-        "link": "https://www.insight.co.kr/news/563552"
-    },
-    {
-        "title": "애플, 오픈AI로 옮긴 직원들에 경고장…'기밀 탈취' 공세",
-        "date": "2026-07-18 13:05",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201205?sid=104"
-    },
-    {
-        "title": "[Biz&amp;Law] 삼성전자, 갤럭시 AR·위치결정 美 특허침해 피소",
-        "date": "2026-07-18 12:56",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724607"
-    },
-    {
-        "title": "BTS 제이홉, 미공개 ‘폴드8’ 먼저 펼쳤나",
-        "date": "2026-07-18 12:14",
-        "link": "https://m.entertain.naver.com/article/144/0001126835"
-    },
-    {
-        "title": "애플, AI 전망 재평가에 엔비디아 제치고 시총 1위 재탈환",
-        "date": "2026-07-18 12:00",
-        "link": "https://n.news.naver.com/mnews/article/293/0000087756?sid=101"
-    },
-    {
-        "title": "애플, 오픈AI '하드웨어 이직자' 40명에 경고 서한 발송..증거 보존하라...",
-        "date": "2026-07-18 11:58",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=212898"
-    },
-    {
-        "title": "[트럼프 스톡커] AI 투자 못한 ‘폰 회사’가 약세장에선 대장주네",
-        "date": "2026-07-18 11:01",
-        "link": "https://n.news.naver.com/mnews/article/011/0004642659?sid=104"
-    },
-    {
-        "title": "PC·태블릿 올리더니 아이폰도 별수 없다…日 가격 최대 11% 인상",
-        "date": "2026-07-18 10:28",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234539?sid=105"
-    },
-    {
-        "title": "올가을 애플워치12, 달라지는 4가지",
-        "date": "2026-07-18 10:19",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430929?sid=105"
-    },
-    {
-        "title": "“화면비 4대3에 출고가 280만원”…갤럭시 폴더블폰 이렇게 나온다",
-        "date": "2026-07-18 10:01",
-        "link": "https://n.news.naver.com/mnews/article/011/0004642643?sid=101"
-    },
-    {
-        "title": "[엑시노스]②엑시노스에 공들이는 삼성, 생존전략은",
-        "date": "2026-07-18 09:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850646"
-    },
-    {
-        "title": "애플, 엔비디아 제치고 시총 1위 탈환-중국 AI 서비스 승인 효과 주목",
-        "date": "2026-07-18 08:12",
-        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83830"
-    },
-    {
-        "title": "애플, 일본 아이폰 가격 올렸다…아이폰 에어 11% 인상",
-        "date": "2026-07-18 07:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685003"
-    },
-    {
-        "title": "애플, 미국서 애플뮤직 요금 인상...개인형 월 11.99달러",
-        "date": "2026-07-18 07:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685000"
     }
 ]
