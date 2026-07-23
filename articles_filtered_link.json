@@ -1,5 +1,2340 @@
 [
     {
+        "title": "삼성·넷플릭스 AI 맞손…갤럭시 잠금화면서 사용자 맞춤형 콘텐츠 추천",
+        "date": "2026-07-23 15:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=534878"
+    },
+    {
+        "title": "호요버스 코리아, 갤럭시Z 폴드8 출시 기념 '원신'·'붕괴: 스타레일' 스...",
+        "date": "2026-07-23 14:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450396?sid=105"
+    },
+    {
+        "title": "이용자 동의 없이 개인정보 수집 '틱톡·애플' 과징금 105억 철퇴",
+        "date": "2026-07-23 14:58",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312972"
+    },
+    {
+        "title": "[현장] 접어도 아이폰 두께? 삼성전자 4:3 新 화면비...'사전예약' 흥...",
+        "date": "2026-07-23 14:56",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807527"
+    },
+    {
+        "title": "노태문 삼성전자 대표, 폴더블 다음 경쟁력은 AI...올해 8억명에 갤럭시...",
+        "date": "2026-07-23 14:56",
+        "link": "https://hbnpress.com/news/view/1065592168311837"
+    },
+    {
+        "title": "산단 승인 20년 된 탕정 삼성디스플레이 2단지…투자 발표만으론 못 믿...",
+        "date": "2026-07-23 14:56",
+        "link": "https://n.news.naver.com/mnews/article/656/0000182224?sid=102"
+    },
+    {
+        "title": "삼성전자 스마트워치 신제품 울트라2·워치9 공개",
+        "date": "2026-07-23 14:56",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026072314520610187de3572ddd_18"
+    },
+    {
+        "title": "명조·원신·붕스·이환...갤럭시 신규 모델, 서브컬처 맞손",
+        "date": "2026-07-23 14:52",
+        "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216112"
+    },
+    {
+        "title": "'적법 근거 없이 개인정보수집·이용' 틱톡·애플 제재",
+        "date": "2026-07-23 14:52",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80077"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8로 폴더블 선택지 확대…노태문 대표 “폴더블은 이...",
+        "date": "2026-07-23 14:50",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=821672"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 폴드8', 넷플릭스 앱 안 열어도 AI 추천",
+        "date": "2026-07-23 14:49",
+        "link": "https://m.entertain.naver.com/article/001/0016211226"
+    },
+    {
+        "title": "퀄컴, 갤럭시 폴더블·워치·아이웨어에 스냅드래곤 공급 확대",
+        "date": "2026-07-23 14:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546033"
+    },
+    {
+        "title": "폴더블 기준 다시 세운다...갤럭시 Z8 시리즈 출격",
+        "date": "2026-07-23 14:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686354"
+    },
+    {
+        "title": "Samsung, LG Display pitch OLED for humanoid face",
+        "date": "2026-07-23 14:42",
+        "link": "https://n.news.naver.com/mnews/article/044/0000287264?sid=104"
+    },
+    {
+        "title": "[현장] '생산성은 울트라, 콘텐츠는 폴드'…삼성전자, 폴더블 3종 라인업...",
+        "date": "2026-07-23 14:40",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=875867"
+    },
+    {
+        "title": "삼성, 애플 폴더블에 선공 …7년 격차 못 따라온다",
+        "date": "2026-07-23 14:40",
+        "link": "https://n.news.naver.com/mnews/article/215/0001259733?sid=101"
+    },
+    {
+        "title": "퍼펙트월드, 삼성전자와 손잡고 신규 '갤럭시 Z' 시리즈 '이환' 민트 스...",
+        "date": "2026-07-23 14:40",
+        "link": "https://gamefocus.co.kr/detail.php?number=177655"
+    },
+    {
+        "title": "삼성 갤럭시 최고급폰 맞대결…Z 폴드8 울트라 vs S26 울트라, 승자는?",
+        "date": "2026-07-23 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686328"
+    },
+    {
+        "title": "애플 차세대 아이폰18 프로 양산 돌입…9월 출시 준비 본격화",
+        "date": "2026-07-23 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686340"
+    },
+    {
+        "title": "[현장] 폴더블 스마트폰 뉴노멀 시대가 왔다 '완성형'으로 돌아온 갤...",
+        "date": "2026-07-23 14:34",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83594"
+    },
+    {
+        "title": "틱톡·애플, 동의 없이 개인정보 수집…과징금 105억5800만원",
+        "date": "2026-07-23 14:34",
+        "link": "https://idsn.co.kr/news/view/1065590937198509"
+    },
+    {
+        "title": "‘삼성 폴더블’ 런던 언팩, 외신보도 살펴보니…",
+        "date": "2026-07-23 14:30",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2026072314242585648439a4874_29"
+    },
+    {
+        "title": "[리뷰] 갤럭시 Z폴드8, 4대3 화면비가 바꾼 폴더블 콘텐츠 경험",
+        "date": "2026-07-23 14:28",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717485"
+    },
+    {
+        "title": "'완벽비율 4대 3'…삼성전자 '갤럭시 Z 폴드8' 첫선",
+        "date": "2026-07-23 14:28",
+        "link": "https://n.news.naver.com/mnews/article/648/0000049129?sid=101"
+    },
+    {
+        "title": "AI부터 미래차까지… 삼성·LG디스플레이, 차세대 기술 맞대결",
+        "date": "2026-07-23 14:27",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235151?sid=105"
+    },
+    {
+        "title": "'갤럭시 폴더블 신제품 사전예약하세요'",
+        "date": "2026-07-23 14:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211112?sid=101"
+    },
+    {
+        "title": "'갤럭시 폴더블 신제품 사전예약하세요'",
+        "date": "2026-07-23 14:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211113?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 사전예약 28일부터",
+        "date": "2026-07-23 14:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211111?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 사전예약 28일부터",
+        "date": "2026-07-23 14:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211101?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 사전예약 28일부터",
+        "date": "2026-07-23 14:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211102?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 사전예약 28일부터",
+        "date": "2026-07-23 14:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211100?sid=101"
+    },
+    {
+        "title": "[TOP's Pick] [전자·IT] 삼성전자, 갤럭시Z 폴더블 라인업 3종 추가 확대...",
+        "date": "2026-07-23 14:24",
+        "link": "https://www.topdaily.kr/articles/111106"
+    },
+    {
+        "title": "동의 없이 클릭·구매기록 수집…틱톡·애플 105억 과징금",
+        "date": "2026-07-23 14:24",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=20260723140940840de3f0aa1be_7"
+    },
+    {
+        "title": "같은 개인정보 침해인데 과징금 40배 차이… 틱톡·애플 무엇이 달랐나",
+        "date": "2026-07-23 14:20",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181281?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴더블 3종 체제 재편…'갤럭시 Z 폴드8 울트라' 첫선",
+        "date": "2026-07-23 14:14",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936847"
+    },
+    {
+        "title": "삼성전자, 폴더블 신작 3종 공개",
+        "date": "2026-07-23 14:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211071?sid=101"
+    },
+    {
+        "title": "폴더블 신제품과 함께 공개된 갤럭시 워치9ㆍ울트라2",
+        "date": "2026-07-23 14:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211067?sid=101"
+    },
+    {
+        "title": "폴더블 신제품과 함께 공개된 갤럭시 워치9ㆍ울트라2",
+        "date": "2026-07-23 14:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211068?sid=101"
+    },
+    {
+        "title": "폴더블 신제품과 함께 공개된 갤럭시 워치9ㆍ울트라2",
+        "date": "2026-07-23 14:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211066?sid=101"
+    },
+    {
+        "title": "삼성전자, 폴더블 신작 3종 공개",
+        "date": "2026-07-23 14:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211070?sid=101"
+    },
+    {
+        "title": "“갤럭시에 올라탄 구글 AI”⋯제미나이, ‘주머니 속 에이전트’로 진...",
+        "date": "2026-07-23 14:14",
+        "link": "https://www.viva100.com/article/20260723500648"
+    },
+    {
+        "title": "힌지·카메라까지 완벽 방어! 케이스티파이, 갤럭시 Z8 시리즈 전용 액...",
+        "date": "2026-07-23 14:12",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546031"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8' 공개…여권 크기 디자인에 국내외 호평",
+        "date": "2026-07-23 14:08",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32700"
+    },
+    {
+        "title": "[갤럭시언팩] 노태문 사장 접는 폰이 대세…'갤럭시 Z8'로 에이전틱 A...",
+        "date": "2026-07-23 14:08",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=475632"
+    },
+    {
+        "title": "삼성 갤럭시 폴더블 신제품 살펴보는 시민들",
+        "date": "2026-07-23 14:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211017?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 폴더블 신제품 살펴보는 시민들",
+        "date": "2026-07-23 14:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211019?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 폴더블 신제품 살펴보는 시민들",
+        "date": "2026-07-23 14:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211018?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z폴드8 '울트라' 문법 첫 적용…폴더블 최상위 시장...",
+        "date": "2026-07-23 14:06",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587366106455"
+    },
+    {
+        "title": "개보위, 개인정보 무단 수집 틱톡·애플에 과징금 105억 부과",
+        "date": "2026-07-23 14:06",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1307988&inflow=N"
+    },
+    {
+        "title": "삼성전자 스마트폰 폴더블 3종 체제로 재편…수요 중심으로 선택의 폭...",
+        "date": "2026-07-23 14:04",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=208136"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 등 폴더블 신제품 공개",
+        "date": "2026-07-23 14:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210987?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 등 폴더블 신제품 공개",
+        "date": "2026-07-23 14:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210982?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 등 폴더블 신제품 공개",
+        "date": "2026-07-23 14:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210988?sid=101"
+    },
+    {
+        "title": "구글·퀄컴 AI 경험의 새 기준…삼성과 차세대 모바일 AI 생태계 확장",
+        "date": "2026-07-23 14:02",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260723010008241"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 등 폴더블 신제품 공개",
+        "date": "2026-07-23 14:02",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210977?sid=101"
+    },
+    {
+        "title": "kt m&amp;s, 직영 매장 KT플라자서 '갤럭시Z 폴드8' 체험존 열어",
+        "date": "2026-07-23 14:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=208140"
+    },
+    {
+        "title": "삼성 '갤럭시 Z' 3종 써보니…AI 에이전트 전면 배치",
+        "date": "2026-07-23 13:58",
+        "link": "https://theviewers.co.kr/View.aspx?No=4159683"
+    },
+    {
+        "title": "삼성 첫 AI 글라스 공개…'AI 안경' 시대, 삼성전기·삼성D 기술력 주목",
+        "date": "2026-07-23 13:58",
+        "link": "https://n.news.naver.com/mnews/article/003/0014084034?sid=101"
+    },
+    {
+        "title": "[재계 투데이] 노태문 사장, 폴더블폰 3종 올해 역대 최대 판매 목표 공...",
+        "date": "2026-07-23 13:58",
+        "link": "https://news.dealsitetv.com/articles/173664"
+    },
+    {
+        "title": "'갤럭시 언팩 2026' 신제품에 담긴 삼성전자의 차별화 전략",
+        "date": "2026-07-23 13:56",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87124"
+    },
+    {
+        "title": "[현장] 여권만한 '폴드8'부터 울트라까지…삼성, 신제품 3종으로 폴더블...",
+        "date": "2026-07-23 13:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470852"
+    },
+    {
+        "title": "[현장] 손목으로 미리 하는 건강관리…삼성, 더 똑똑해진 갤럭시 위치...",
+        "date": "2026-07-23 13:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470871"
+    },
+    {
+        "title": "폴더블 7년 기술, 하루아침에 못 따라와… 애플 참전에 삼성 '자신감'",
+        "date": "2026-07-23 13:45",
+        "link": "https://n.news.naver.com/mnews/article/469/0000943897?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] 폴더블 '선택의 시대' 선언… 노태문, AI 전략 가속",
+        "date": "2026-07-23 13:42",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356354"
+    },
+    {
+        "title": "노태문 폴더블폰 대세…7년 노하우 쉽게 따라잡을 수 없어",
+        "date": "2026-07-23 13:42",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1394589"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블 '갤럭시 Z 8' 시리즈 공개",
+        "date": "2026-07-23 13:41",
+        "link": "https://www.newspim.com/news/view/20260723000810"
+    },
+    {
+        "title": "갤럭시 Z 8 시리즈와 공개되는 갤럭시 워치9",
+        "date": "2026-07-23 13:41",
+        "link": "https://www.newspim.com/news/view/20260723000808"
+    },
+    {
+        "title": "공개되는 폴더블 스마트폰 '갤럭시 Z 폴드8'",
+        "date": "2026-07-23 13:41",
+        "link": "https://www.newspim.com/news/view/20260723000811"
+    },
+    {
+        "title": "삼성전자, 폴더블 스마트폰 신제품 '갤럭시 Z 폴드8' 공개",
+        "date": "2026-07-23 13:40",
+        "link": "https://www.newspim.com/news/view/20260723000807"
+    },
+    {
+        "title": "베일 벗은 갤럭시 Z 폴드8 시리즈",
+        "date": "2026-07-23 13:40",
+        "link": "https://www.newspim.com/news/view/20260723000804"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·갤럭시 워치9 공개",
+        "date": "2026-07-23 13:40",
+        "link": "https://www.newspim.com/news/view/20260723000806"
+    },
+    {
+        "title": "베일 벗은 '여권 사이즈' 폴더블 삼성 갤럭시 Z 폴드8",
+        "date": "2026-07-23 13:40",
+        "link": "https://www.newspim.com/news/view/20260723000798"
+    },
+    {
+        "title": "삼성, 갤럭시 Z 폴드8 울트라·폴드8·플립8 공개",
+        "date": "2026-07-23 13:40",
+        "link": "https://www.newspim.com/news/view/20260723000799"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 폴드8 시리즈'에 관심 집중",
+        "date": "2026-07-23 13:39",
+        "link": "https://www.newspim.com/news/view/20260723000794"
+    },
+    {
+        "title": "노태문 삼성전자 대표 갤럭시Z8 시리즈, 폴더블의 새로운 기준",
+        "date": "2026-07-23 13:37",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451531"
+    },
+    {
+        "title": "갤럭시 폴드8 울트라부터 스마트글래스까지…언팩 총정리",
+        "date": "2026-07-23 13:26",
+        "link": "https://byline.network/?p=9004111222612811"
+    },
+    {
+        "title": "삼성전자, 인도서 신형 폴더블 폰 '갤럭시 Z 폴드8·플립8' 등 사전 예약...",
+        "date": "2026-07-23 13:25",
+        "link": "https://n.news.naver.com/mnews/article/014/0005551943?sid=101"
+    },
+    {
+        "title": "베일 벗은 삼성 갤럭시Z 폴드8·울트라·플립8 [뉴시스Pic]",
+        "date": "2026-07-23 13:18",
+        "link": "https://n.news.naver.com/mnews/article/003/0014083873?sid=105"
+    },
+    {
+        "title": "삼성전자, 금융 프로그램 앞세워 침체된 인도 스마트폰 시장 공략 나선...",
+        "date": "2026-07-23 13:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005551938?sid=101"
+    },
+    {
+        "title": "[포토] 갤럭시 언팩 2026, 폴더블·갤럭시 워치·아이웨어로 가득찬 런던...",
+        "date": "2026-07-23 13:14",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267614"
+    },
+    {
+        "title": "이제는 '하이 빅스비' 대신 '하이 에이메스', '명조', 갤럭시 신제품 출...",
+        "date": "2026-07-23 13:10",
+        "link": "https://gamefocus.co.kr/detail.php?number=177639"
+    },
+    {
+        "title": "노태문 폴더블 대세… 연내 8억명에 '갤럭시 AI' 경험할 것",
+        "date": "2026-07-23 13:06",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3419292"
+    },
+    {
+        "title": "틱톡·애플, 개인정보 불법수집·이용 제재",
+        "date": "2026-07-23 13:06",
+        "link": "https://www.naeil.com/news/read/596311?ref=naver"
+    },
+    {
+        "title": "틱톡·애플에 105억대 과징금…‘동의 없는 개인정보 수집’ 철퇴",
+        "date": "2026-07-23 13:05",
+        "link": "https://n.news.naver.com/mnews/article/662/0000100286?sid=102"
+    },
+    {
+        "title": "4 대 3 비율, 주름 줄인 화면으로 폴더블 주도권 지킨다",
+        "date": "2026-07-23 13:04",
+        "link": "https://www.naeil.com/news/read/596237?ref=naver"
+    },
+    {
+        "title": "[A 현장] 가벼워진 폴드8·캠코더 변신 플립8...삼성전자, 폴더블 신제품...",
+        "date": "2026-07-23 13:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256149"
+    },
+    {
+        "title": "국경 넘은 개인정보 '경고등'...틱톡·애플 과징금 철퇴",
+        "date": "2026-07-23 13:00",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=105351"
+    },
+    {
+        "title": "[써봤다] 4:3 화면비 폴더블폰은 왜 필요할까...삼성전자 '갤럭시Z폴드8...",
+        "date": "2026-07-23 12:58",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153604"
+    },
+    {
+        "title": "“호주머니에도 쏘옥”..삼성전자, 갤럭시 Z 폴드8 울트라·폴드8·플립...",
+        "date": "2026-07-23 12:58",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62102"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8' 3종 공개…폴더블 라인업 확대·에이전틱 AI로 시...",
+        "date": "2026-07-23 12:56",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=711366"
+    },
+    {
+        "title": "개보위, 틱톡·애플에 105억 과징금… 동의 없이 개인정보 수집·이용",
+        "date": "2026-07-23 12:56",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3419288"
+    },
+    {
+        "title": "[포토] 갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 12:52",
+        "link": "https://www.ajunews.com/view/20260723124921898"
+    },
+    {
+        "title": "애플 참전 앞둔 삼성의 승부수…폴더블 넘어 'AI 생태계' 키운다",
+        "date": "2026-07-23 12:50",
+        "link": "https://n.news.naver.com/mnews/article/648/0000049125?sid=105"
+    },
+    {
+        "title": "[현장] 대화면 AI·선제적 케어로 진화한 삼성전자 '갤럭시Z 시리즈'",
+        "date": "2026-07-23 12:50",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3419286"
+    },
+    {
+        "title": "'갤럭시 언팩 2026'행사…갤럭시 Z 폴드8 울트라·폴드8·플립8 등 3종 라...",
+        "date": "2026-07-23 12:48",
+        "link": "http://www.digitalbizon.com/news/articleView.html?idxno=2343411"
+    },
+    {
+        "title": "콘텐트 볼 때는 폴드8, 일할 때는 울트라…삼성전자, 새로운 폴더블폰 ...",
+        "date": "2026-07-23 12:34",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426447"
+    },
+    {
+        "title": "삼성 폴더블, 왕좌 수성 넘어 미래 연다",
+        "date": "2026-07-23 12:30",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128321"
+    },
+    {
+        "title": "틱톡은 103억, 애플은 2억원…개인정보위 과징금 처분 갈린 이유",
+        "date": "2026-07-23 12:30",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235123?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴더 8 등 발표 … 게임업계도 큰 관심",
+        "date": "2026-07-23 12:30",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=405918"
+    },
+    {
+        "title": "틱톡·애플, 적법 근거 없이 개인정보 수집·이용",
+        "date": "2026-07-23 12:26",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=89850"
+    },
+    {
+        "title": "시그마인텔 “내년 글로벌 스마트폰 출하량 10억대 수준”",
+        "date": "2026-07-23 12:20",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1307992&inflow=N"
+    },
+    {
+        "title": "삼성전자 노태문 대표, 갤럭시 Z8으로 폴더블 혁신 선언",
+        "date": "2026-07-23 12:18",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=714390"
+    },
+    {
+        "title": "‘이게 손 안에 AI 미래다’ 삼성전자, 차세대 폴더블 갤럭시 Z8 시리즈...",
+        "date": "2026-07-23 12:17",
+        "link": "https://n.news.naver.com/mnews/article/144/0001127692?sid=105"
+    },
+    {
+        "title": "“펼치면 태블릿, 접으면 스마트폰”⋯ 삼성전자, 폴더블 대중화 ‘승부...",
+        "date": "2026-07-23 12:16",
+        "link": "https://www.viva100.com/article/20260723500523"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 12:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210765?sid=101"
+    },
+    {
+        "title": "호요버스 코리아, 삼성전자 ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 출...",
+        "date": "2026-07-23 12:12",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=223594"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 12:09",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210750?sid=101"
+    },
+    {
+        "title": "퀄컴, 삼성 갤럭시 협력 확대···스마트폰 넘어 워치·안경까지",
+        "date": "2026-07-23 12:08",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312924"
+    },
+    {
+        "title": "더 가볍고 편하게…VOC 반영해 강력해진 갤럭시Z8 시리즈",
+        "date": "2026-07-23 12:06",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074930?sid=105"
+    },
+    {
+        "title": "[현장] 폴드8은 수첩, 플립8은 캠코더…갤럭시 폴더블의 진화",
+        "date": "2026-07-23 12:04",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2115129"
+    },
+    {
+        "title": "구글, 삼성 폴더블폰에 '제미나이' 기능 확대…아이폰 이사 문턱 낮춘다",
+        "date": "2026-07-23 12:04",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62023"
+    },
+    {
+        "title": "[포토] 갤럭시 새로운 폴더블 라인업 공개",
+        "date": "2026-07-23 12:01",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038507?sid=105"
+    },
+    {
+        "title": "틱톡 103억·애플 2.5억 과징금…이용자 행태·음성 무단 활용(종합)",
+        "date": "2026-07-23 12:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793685?sid=105"
+    },
+    {
+        "title": "같은 '동의 없는 수집'인데…틱톡 103억, 애플 2.5억 과징금 차이 이유",
+        "date": "2026-07-23 11:57",
+        "link": "https://n.news.naver.com/mnews/article/018/0006335395?sid=105"
+    },
+    {
+        "title": "삼성, '여권형 폴드'로 판 키운다…애플에 선공",
+        "date": "2026-07-23 11:55",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523274?sid=101"
+    },
+    {
+        "title": "행태정보 광고에 쓴 틱톡 103억·시리 음성 모은 애플 2억…왜?",
+        "date": "2026-07-23 11:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074873?sid=105"
+    },
+    {
+        "title": "갤럭시Z 폴드8 시리즈 , 프라이버시 디스플레이 빠졌다.. S26 울트라만 독...",
+        "date": "2026-07-23 11:54",
+        "link": "https://kbench.com/?q=node/280594"
+    },
+    {
+        "title": "노태문, 애플 직격…“폴더블 7년 노하우, 하루아침에 못 따라와”",
+        "date": "2026-07-23 11:53",
+        "link": "https://n.news.naver.com/mnews/article/021/0002806500?sid=101"
+    },
+    {
+        "title": "[써보니] 갤럭시 Z 폴드8…화면비 변화가 가장 먼저 눈길",
+        "date": "2026-07-23 11:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210634?sid=105"
+    },
+    {
+        "title": "노태문 7년 쌓은 폴더블 노하우 쉽게 못 따라와…갤럭시Z8 흥행 자신",
+        "date": "2026-07-23 11:52",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7175563"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z' 라인업 3종 확대...차세대 인텔리전스 시대 여는 8...",
+        "date": "2026-07-23 11:44",
+        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318078"
+    },
+    {
+        "title": "‘945만명 타사기록 수집’ 틱톡에 과징금 103억…애플도 제재",
+        "date": "2026-07-23 11:44",
+        "link": "https://n.news.naver.com/mnews/article/028/0002815396?sid=105"
+    },
+    {
+        "title": "[포토] 갤럭시 새로운 폴더블폰은",
+        "date": "2026-07-23 11:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450270?sid=105"
+    },
+    {
+        "title": "개인정보위, 틱톡 103억·애플 2.5억 원 과징금…행태·음성정보 등 무단...",
+        "date": "2026-07-23 11:42",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119323"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금 105억 원...개인정보 위반 적발",
+        "date": "2026-07-23 11:42",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=51089"
+    },
+    {
+        "title": "[포토] 갤럭시 새로운 폴더블 라인업 공개",
+        "date": "2026-07-23 11:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450271?sid=105"
+    },
+    {
+        "title": "[현장] 삼성전자 폴더블 대화면과 AI 결합…멀티태스킹 경험 진화",
+        "date": "2026-07-23 11:40",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717469"
+    },
+    {
+        "title": "美선 1400억 합의한 '시리' 음성 수집 논란…韓선 과징금 2.5억, 왜?",
+        "date": "2026-07-23 11:38",
+        "link": "https://n.news.naver.com/mnews/article/003/0014083576?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 사장 7년 폴더블 노하우, 하루아침에 못 따라와",
+        "date": "2026-07-23 11:36",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119316"
+    },
+    {
+        "title": "노태문 폴더블폰, 역대 최대 판매 목표…韓시장 중요도 고려 국내가격...",
+        "date": "2026-07-23 11:36",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=753685"
+    },
+    {
+        "title": "삼성, 애플보다 먼저 폴더블 3종 꺼냈다…울트라·폴드·플립으로 판 키...",
+        "date": "2026-07-23 11:35",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000051716"
+    },
+    {
+        "title": "틱톡에 103억·애플에 2억 5천 과징금…행태·음성 정보 무단활용",
+        "date": "2026-07-23 11:35",
+        "link": "https://n.news.naver.com/mnews/article/055/0001374800?sid=101"
+    },
+    {
+        "title": "[갤럭시 Z8 언팩] '손안에 AI' 폴더블의 진화",
+        "date": "2026-07-23 11:34",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=105342"
+    },
+    {
+        "title": "케이스티파이 시크한 스타일과 강력한 보호력 갖춘 갤럭시 Z8 시리즈 케...",
+        "date": "2026-07-23 11:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=177638"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금 총 105억원…개인정보 무단 이용",
+        "date": "2026-07-23 11:34",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362919"
+    },
+    {
+        "title": "노태문 “역대 최대 판매 목표”…폴더블 1위 수성",
+        "date": "2026-07-23 11:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673982?sid=105"
+    },
+    {
+        "title": "노태문 갤럭시8, 폴더블의 새로운 출발점...연내 갤럭시AI 8억명 제공할...",
+        "date": "2026-07-23 11:30",
+        "link": "http://www.metroseoul.co.kr/article/20260723500172"
+    },
+    {
+        "title": "콘텐츠 최적화…'4대3' 와이드 폴더블 폰 갤Z폴드8에 외신도 호평",
+        "date": "2026-07-23 11:29",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074816?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 11:28",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=51084"
+    },
+    {
+        "title": "LGD, 사무용 OLED 모니터 첫 선",
+        "date": "2026-07-23 11:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673972?sid=101"
+    },
+    {
+        "title": "새 갤럭시 폴더블 시리즈 살펴보는 남아공 인플루언서",
+        "date": "2026-07-23 11:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210510?sid=105"
+    },
+    {
+        "title": "새 갤럭시 폴더블 시리즈 살펴보는 남아공 인플루언서",
+        "date": "2026-07-23 11:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210511?sid=105"
+    },
+    {
+        "title": "남아공서도 갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 11:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210512?sid=105"
+    },
+    {
+        "title": "남아공서도 갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 11:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210503?sid=105"
+    },
+    {
+        "title": "남아공서도 갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 11:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210505?sid=105"
+    },
+    {
+        "title": "새 갤럭시 폴더블 시리즈 살펴보는 남아공 인플루언서",
+        "date": "2026-07-23 11:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210500?sid=105"
+    },
+    {
+        "title": "남아공서도 갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 11:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210504?sid=105"
+    },
+    {
+        "title": "새 갤럭시 폴더블 시리즈 살펴보는 남아공 인플루언서",
+        "date": "2026-07-23 11:25",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210499?sid=105"
+    },
+    {
+        "title": "삼성전자, 차세대 폴더블 '갤럭시 Z 8' 3종 공개…오는 8월 7일 글로벌 ...",
+        "date": "2026-07-23 11:24",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200245"
+    },
+    {
+        "title": "폰·워치·안경 모두 스냅드래곤…퀄컴·삼성, AI 생태계 동맹 강화",
+        "date": "2026-07-23 11:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166353"
+    },
+    {
+        "title": "퀄컴-삼성, 스냅드래곤 협력 확대…신규 갤럭시 폴더블·워치·아이웨어...",
+        "date": "2026-07-23 11:20",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83588"
+    },
+    {
+        "title": "노태문 폴더블 7년 기술력, 하루아침에 못따라와",
+        "date": "2026-07-23 11:20",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46447"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금 105억원…개인정보 무단 이용 제재",
+        "date": "2026-07-23 11:20",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=140945"
+    },
+    {
+        "title": "삼성 갤럭시 폴더블폰 언팩",
+        "date": "2026-07-23 11:20",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307524"
+    },
+    {
+        "title": "“손목 위 동반자”..삼성전자, ‘갤럭시 워치 울트라2·워치9’ 공개",
+        "date": "2026-07-23 11:20",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62101"
+    },
+    {
+        "title": "[뉴스1 PICK] 삼성, '더 똑똑해진' AI 폴더블폰 3종 공개",
+        "date": "2026-07-23 11:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074788?sid=101"
+    },
+    {
+        "title": "화면·AI·성능 혁신…삼성전자, 갤럭시 폴더블 신제품 3종 공개",
+        "date": "2026-07-23 11:16",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=208112"
+    },
+    {
+        "title": "[갤럭시 언팩] 노태문 삼성전자 대표 “폴더블 7년 기술력…하루아침에...",
+        "date": "2026-07-23 11:14",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=89652"
+    },
+    {
+        "title": "호요버스, 새로운 갤럭시Z 시리즈 출시에 맞춰 '원신'과 '붕괴스타레일...",
+        "date": "2026-07-23 11:14",
+        "link": "https://game.donga.com/123494/"
+    },
+    {
+        "title": "고성지역자활센터, 애플수박 수확 체험",
+        "date": "2026-07-23 11:14",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=563833"
+    },
+    {
+        "title": "삼성, '갤럭시 Z 폴드8 시리즈' 공개",
+        "date": "2026-07-23 11:12",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4858763"
+    },
+    {
+        "title": "“7년 폴더블 경험, 하루아침에 못 따라와”…노태문, 애플 참전 앞두고...",
+        "date": "2026-07-23 11:11",
+        "link": "https://n.news.naver.com/mnews/article/020/0003735952?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 8번째 시리즈 공개",
+        "date": "2026-07-23 11:11",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074755?sid=105"
+    },
+    {
+        "title": "'삼성의 새 폴더블 폰 3종을 소개합니다'",
+        "date": "2026-07-23 11:11",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074754?sid=105"
+    },
+    {
+        "title": "삼성전자, 새로운 갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 11:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0014083395?sid=105"
+    },
+    {
+        "title": "애플, 맥북 네오 램 12GB로 성능 강화 검토…가격도 함께 오를까",
+        "date": "2026-07-23 11:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686249"
+    },
+    {
+        "title": "삼성전자, 런던서 '갤럭시 Z8' 공개…노태문 대표이사 역대 최경량 폴더...",
+        "date": "2026-07-23 11:08",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1642"
+    },
+    {
+        "title": "‘베젤 최소화로 ‘영상 몰입도’ 최대화 [갤럭시 언팩 2026]",
+        "date": "2026-07-23 11:08",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673934?sid=105"
+    },
+    {
+        "title": "4대3 화면 ‘여권’처럼 펼치자…‘AI 폴더블폰’ 시대 열렸다 [갤럭시...",
+        "date": "2026-07-23 11:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673932?sid=105"
+    },
+    {
+        "title": "폴더블폰 새 기준 제시한 갤럭시 런던 언팩…구글·퀄컴 협력성과도 빛...",
+        "date": "2026-07-23 11:07",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038486?sid=105"
+    },
+    {
+        "title": "틱톡에 103억·애플에 2억5천 과징금…행태·음성 정보 무단활용(종합)",
+        "date": "2026-07-23 11:07",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210430?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개…강력한 성능에 AI 헬스케...",
+        "date": "2026-07-23 11:06",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=714373"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개",
+        "date": "2026-07-23 11:05",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000051700"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 공개-폴더블 혁신 넘어 AI·디지털 헬스로...",
+        "date": "2026-07-23 11:04",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=84374"
+    },
+    {
+        "title": "[AI 인사이드] 인류는 ‘사각형 유리판(휴대폰)’에서 해방될 것인가",
+        "date": "2026-07-23 11:04",
+        "link": "https://www.news2day.co.kr/article/20260723500077"
+    },
+    {
+        "title": "삼성전자, 폴드8·플립8 등 공개...화면비 바꾸고 AI기능 강화",
+        "date": "2026-07-23 11:04",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80069"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] ③노태문, 애플 추격에 ‘7년 폴더블 노하우·AI’로...",
+        "date": "2026-07-23 11:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607230947101780190"
+    },
+    {
+        "title": "노태문 삼성 사장, '폴더블 대세화' 선언…'Z8'로 AI·폼팩터 초격차 연...",
+        "date": "2026-07-23 11:02",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661009"
+    },
+    {
+        "title": "삼성전자, 폴드8·울트라·플립8 출시해 프리미엄 시장 공략…AI 생태계...",
+        "date": "2026-07-23 11:02",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30154"
+    },
+    {
+        "title": "호요버스 코리아, 삼성전자 '갤럭시 Z 폴드8·플립8' 출시 기념 '원신'·...",
+        "date": "2026-07-23 11:02",
+        "link": "https://www.thisisgame.com/articles/428077"
+    },
+    {
+        "title": "여권 사이즈 펼치면 작은 책 되는 갤럭시 'z폴드8' 등 신제품 3종 [TF사진...",
+        "date": "2026-07-23 11:02",
+        "link": "https://n.news.naver.com/mnews/article/629/0000518343?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 11:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210414?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 사장 이제 폴더블은 일상, 글로벌 폴더블 시장 선도할...",
+        "date": "2026-07-23 11:00",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=289463"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 공개…폴더블폰 대중화 속도",
+        "date": "2026-07-23 11:00",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242073"
+    },
+    {
+        "title": "퍼펙트 월드 게임즈, 삼성전자와 협업해 '갤럭시 Z 폴드8 울트라·폴드8...",
+        "date": "2026-07-23 11:00",
+        "link": "https://www.thisisgame.com/articles/428074"
+    },
+    {
+        "title": "'국민 FPS' 서든어택, 프레임 200 FPS로",
+        "date": "2026-07-23 11:00",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=360712"
+    },
+    {
+        "title": "개보위, 행태정보 무단 수집한 틱톡에 103억 과징금…애플도 2.5억원 제...",
+        "date": "2026-07-23 10:59",
+        "link": "https://n.news.naver.com/mnews/article/119/0003114095?sid=105"
+    },
+    {
+        "title": "건설현장 낙하·추락 가상공간에… 안전공단, LB VR 도입으로 산재 예...",
+        "date": "2026-07-23 10:59",
+        "link": "https://n.news.naver.com/mnews/article/008/0005389816?sid=101"
+    },
+    {
+        "title": "노태문 폴더블은 선택하는 제품…삼성, Z8 시장 변화 대응",
+        "date": "2026-07-23 10:58",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=737781"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z폴드8로 폴더블폰 시장 선두 굳힌다",
+        "date": "2026-07-23 10:54",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16143717"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 10:54",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210382?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 10:54",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210383?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 8번째 시리즈 'Z 폴드8·플립8' 공개",
+        "date": "2026-07-23 10:54",
+        "link": "https://n.news.naver.com/mnews/article/119/0003114087?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 10:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210381?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 10:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210380?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 스마트폰 신작 공개",
+        "date": "2026-07-23 10:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210378?sid=105"
+    },
+    {
+        "title": "폴더블은 선택의 시대··· 삼성, Z8 3종 공개 뒤 자신감 내보여",
+        "date": "2026-07-23 10:52",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700660"
+    },
+    {
+        "title": "애플도 폴더블폰 출시 예정...노태문 “경쟁자 와도 환영…삼성 1위 지...",
+        "date": "2026-07-23 10:48",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711144?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성, 갤럭시워치 신제품 2종 공개…스마트글래스 연내 ...",
+        "date": "2026-07-23 10:48",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=89640"
+    },
+    {
+        "title": "삼성전자, 첫 스마트글래스 공개…직관적인 AI 기능 활용",
+        "date": "2026-07-23 10:48",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=741246"
+    },
+    {
+        "title": "공개된 삼성의 새로운 갤럭시 폴더블 시리즈",
+        "date": "2026-07-23 10:47",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074625?sid=105"
+    },
+    {
+        "title": "삼성전자의 새로운 폴더블 시리즈 3종 체험해요",
+        "date": "2026-07-23 10:47",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074626?sid=105"
+    },
+    {
+        "title": "개인정보위, 틱톡에 과징금 103억원...애플 '시리'에도 2억5000만원 부과",
+        "date": "2026-07-23 10:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=534744"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210339?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210340?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210337?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210336?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 '얇아지고 가벼워지고'",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210342?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 '얇아지고 가벼워지고'",
+        "date": "2026-07-23 10:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210341?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 대표 폴더블은 이제 일상…한발 앞서 새 기준 제시할...",
+        "date": "2026-07-23 10:44",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312897"
+    },
+    {
+        "title": "게임쇼 시즌 앞두고 게이밍 셋업 주목…신작 몰입 높일 장비 3종",
+        "date": "2026-07-23 10:44",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=753676"
+    },
+    {
+        "title": "더 얇고 강력해진 삼성 폴더블폰…'갤럭시 Z 폴드8·울트라·플립8' 공개",
+        "date": "2026-07-23 10:42",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119309"
+    },
+    {
+        "title": "최고 화질은 최강 게임으로…삼성이 택한 펄어비스 '붉은사막'",
+        "date": "2026-07-23 10:42",
+        "link": "https://n.news.naver.com/mnews/article/003/0014083212?sid=105"
+    },
+    {
+        "title": "베일 벗은 삼성전자 8세대 폴더블 신제품",
+        "date": "2026-07-23 10:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074586?sid=105"
+    },
+    {
+        "title": "8년만에 크기 바꾼 새로운 폴더블 '갤럭시Z폴드8'",
+        "date": "2026-07-23 10:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074589?sid=105"
+    },
+    {
+        "title": "애플 따라한 급조품 갤Z8 혹평하더니…틀렸다 외신들 돌변",
+        "date": "2026-07-23 10:41",
+        "link": "https://n.news.naver.com/mnews/article/015/0005312971?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210322?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210323?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성전자, '갤럭시 워치9·울트라2' 공개…디지털 헬스 경...",
+        "date": "2026-07-23 10:40",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098037"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210319?sid=105"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 공개",
+        "date": "2026-07-23 10:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210320?sid=105"
+    },
+    {
+        "title": "'삼성 폴더블 신제품 3종이 궁금해'",
+        "date": "2026-07-23 10:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074582?sid=105"
+    },
+    {
+        "title": "삼성 폴더블 '갤럭시Z 폴드8 시리즈' 체험해요",
+        "date": "2026-07-23 10:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074581?sid=105"
+    },
+    {
+        "title": "개인정보 무단 수집·이용 틱톡·애플, 105억 과징금 폭탄",
+        "date": "2026-07-23 10:40",
+        "link": "https://theopiniontimes.news/%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%ac%b4%eb%8b%a8-%ec%88%98%ec%a7%91%c2%b7%ec%9d%b4%ec%9a%a9-%ed%8b%b1%ed%86%a1%c2%b7%ec%95%a0%ed%94%8c-105%ec%96%b5-%ea%b3%bc%ec%a7%95%ea%b8%88-%ed%8f%ad/"
+    },
+    {
+        "title": "삼성전자 노태문 사장, “폴더블은 이제 일상..기술 격차로 시장 선도할...",
+        "date": "2026-07-23 10:38",
+        "link": "http://www.breaknews.com/1223719"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금 105억원… 개인정보 무단 수집",
+        "date": "2026-07-23 10:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166346"
+    },
+    {
+        "title": "삼성전자, 폴더블 3종으로 판 넓힌다…美애플 진입 전 선제 대응",
+        "date": "2026-07-23 10:36",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92569"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8' 폴더블 3종 공개...최상위 '울트라' 추가",
+        "date": "2026-07-23 10:36",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=74215"
+    },
+    {
+        "title": "[단독]국민성장펀드, LG디스플레이에 1.3조 저리대출…총 3조 OLED 투자 지...",
+        "date": "2026-07-23 10:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711127?sid=101"
+    },
+    {
+        "title": "'명조: 워더링 웨이브', '갤럭시 Z 폴드8 울트라·폴드8·플립8' 출시 기...",
+        "date": "2026-07-23 10:34",
+        "link": "https://www.thisisgame.com/articles/428060"
+    },
+    {
+        "title": "삼성의 폴더블 스마트폰 '갤럭시Z 플립8·폴드8'",
+        "date": "2026-07-23 10:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074550?sid=105"
+    },
+    {
+        "title": "'삼성 갤럭시 폴더블 3종 출격'",
+        "date": "2026-07-23 10:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074547?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 폴더블 3종 공개",
+        "date": "2026-07-23 10:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074546?sid=105"
+    },
+    {
+        "title": "개보위, ‘개인정보 무단 수집·활용’ 틱톡에 103억·애플에 2억5000만원...",
+        "date": "2026-07-23 10:33",
+        "link": "https://n.news.naver.com/mnews/article/032/0003459876?sid=101"
+    },
+    {
+        "title": "노태문 삼성전자 대표 폴더블, 선택의 시대 접어들었다",
+        "date": "2026-07-23 10:32",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309388"
+    },
+    {
+        "title": "애플 차세대 맥 로드맵 유출…디자인 바뀐 OLED 맥북 울트라 내년 초 출...",
+        "date": "2026-07-23 10:32",
+        "link": "https://kbench.com/?q=node/280590"
+    },
+    {
+        "title": "이환, 삼성전자 협업 … 갤럭시 Z8 시리즈 스페셜 테마 등장",
+        "date": "2026-07-23 10:32",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306609"
+    },
+    {
+        "title": "노태문 “대세로 떠오른 폴더블…7년 쌓은 주도권 쉽게 못 따라잡을 것...",
+        "date": "2026-07-23 10:31",
+        "link": "https://n.news.naver.com/mnews/article/243/0000100761?sid=101"
+    },
+    {
+        "title": "노태문 삼성전자 대표 폴더블은 이제 선택의 영역 ... '갤럭시 Z8'로 폴...",
+        "date": "2026-07-23 10:28",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87026"
+    },
+    {
+        "title": "무단 수집 안 된다…틱톡·애플에 과징금 제재",
+        "date": "2026-07-23 10:28",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000051681"
+    },
+    {
+        "title": "폴더블 주름 잡고 AI 강화한 삼성전자…Z 폴드 울트라 등 차세대 라인업...",
+        "date": "2026-07-23 10:26",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=360692"
+    },
+    {
+        "title": "삼성, 갤럭시 폴더블 3종 공개...Z폴드 더 가벼워졌다",
+        "date": "2026-07-23 10:26",
+        "link": "https://futurechosun.com/?p=155316"
+    },
+    {
+        "title": "성능 대폭 강화된 갤럭시 Z 폴드8 울트라, 전작에 비해 어떤 점 달라졌...",
+        "date": "2026-07-23 10:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546019"
+    },
+    {
+        "title": "8억명 맥락까지 '척척'… 노태문 갤럭시 Z8이 새로운 기준이다",
+        "date": "2026-07-23 10:24",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60089"
+    },
+    {
+        "title": "6K·무안경 3D·610Hz…게임이 모니터 신기술 시험대",
+        "date": "2026-07-23 10:24",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=360689"
+    },
+    {
+        "title": "삼성전자 노태문 7년 기술력 하루아침에 못 따라잡아...'4대 3 비율' 폴...",
+        "date": "2026-07-23 10:22",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=221890"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개…AI 기반 맞춤형 건강관...",
+        "date": "2026-07-23 10:22",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309383"
+    },
+    {
+        "title": "삼성전자, 언팩서 '갤럭시 Z8 3종' 공개…폴더블 AI 경쟁 본격화",
+        "date": "2026-07-23 10:20",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237870"
+    },
+    {
+        "title": "폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준",
+        "date": "2026-07-23 10:18",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374"
+    },
+    {
+        "title": "외신 삼성, 애플과 폴더블폰 정면승부 시작",
+        "date": "2026-07-23 10:18",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431570?sid=105"
+    },
+    {
+        "title": "AI 접목 속도전… 부품·통신·물류·모바일 동시다발",
+        "date": "2026-07-23 10:18",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=102848"
+    },
+    {
+        "title": "퀄컴·삼성 협력 확대…차세대 갤럭시 AI 생태계에 스냅드래곤 전면 탑...",
+        "date": "2026-07-23 10:16",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155408"
+    },
+    {
+        "title": "“개인정보 무단 활용했다”… 틱톡 103억·애플 2억5000만원 과징금",
+        "date": "2026-07-23 10:16",
+        "link": "https://www.kbmaeil.com/article/20260723500148"
+    },
+    {
+        "title": "사진보다 실물이 훨씬 낫다…'여권 모양' 폴드8에 외신 찬사 쏟아져",
+        "date": "2026-07-23 10:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0014083033?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴드8·폴드8 울트라·플립8 공개…폴더블 3종 체제로 확대",
+        "date": "2026-07-23 10:14",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309380"
+    },
+    {
+        "title": "다가오는 글로벌 게임쇼에서 공개될 신작 세팅의 시작은 게이밍 아이템...",
+        "date": "2026-07-23 10:14",
+        "link": "https://gamefocus.co.kr/detail.php?number=177630"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성전자, 폴드8·울트라·플립8 등 폴더블 3종 라인업 공...",
+        "date": "2026-07-23 10:12",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=89633"
+    },
+    {
+        "title": "노태문 한국 소비자가 키운 갤럭시…가격으로 보답…미국보다 최대 5...",
+        "date": "2026-07-23 10:10",
+        "link": "https://n.news.naver.com/mnews/article/031/0001044182?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8' 공개…노태문 폴더블은 일상…올해 갤럭시 AI 8억...",
+        "date": "2026-07-23 10:10",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82138"
+    },
+    {
+        "title": "삼성전자 '갤럭시워치 울트라2·워치9' 공개…역대 최강 성능 구현",
+        "date": "2026-07-23 10:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847921"
+    },
+    {
+        "title": "달라진 화면비에 주름도 없앴다…삼성전자, 런던서 '갤럭시Z' 3종 공개",
+        "date": "2026-07-23 10:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847911"
+    },
+    {
+        "title": "[삼성 갤럭시 언팩] ① 울트라급 혁신·에이전틱 AI로 따라올 수 없는 ...",
+        "date": "2026-07-23 10:08",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141923"
+    },
+    {
+        "title": "[삼성 갤럭시 언팩] ② 내 몸과 하나로 눈 앞에 펼쳐지는 AI·24시간 체...",
+        "date": "2026-07-23 10:08",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141927"
+    },
+    {
+        "title": "내 목소리·대화록 몰래 썼다…정부, 애플 '시리' 무단 활용에 과징금",
+        "date": "2026-07-23 10:08",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298083"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] 노태문 사장 연내 갤럭시 AI 8억대로… 폴더블, 선...",
+        "date": "2026-07-23 10:06",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745890"
+    },
+    {
+        "title": "개보위, 애플·틱톡에 과징금…동의없이 개인정보 수집·이용",
+        "date": "2026-07-23 10:06",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171162?sid=103"
+    },
+    {
+        "title": "케이스티파이, 갤럭시 Z8 시리즈 전용 액세서리 컬렉션 공개",
+        "date": "2026-07-23 10:04",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20260723100126775946a9e4dd7f_30"
+    },
+    {
+        "title": "삼성전자 노태문 폴더블은 이제 일상…올해 안에 갤럭시 AI 8억명 제공...",
+        "date": "2026-07-23 10:02",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307496"
+    },
+    {
+        "title": "개인정보법 위반 애플 과징금 2억5000만원",
+        "date": "2026-07-23 10:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431556?sid=105"
+    },
+    {
+        "title": "“틱톡 103억·애플 2.5억 철퇴”…개인정보위, 글로벌 빅테크 개인정보...",
+        "date": "2026-07-23 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006335254?sid=105"
+    },
+    {
+        "title": "개인정보위, 적법 근거 없이 개인정보 수집·이용한 틱톡·애플에 106억...",
+        "date": "2026-07-23 10:02",
+        "link": "https://www.etoday.co.kr/news/view/2606518"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플 105억대 과징금…이용자 몰래 개인정보 수집",
+        "date": "2026-07-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005312943?sid=105"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금 총 105억원…“적법 근거 없이 개인정...",
+        "date": "2026-07-23 10:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181169?sid=105"
+    },
+    {
+        "title": "노태문, 폴더블 원조 자신감..7년 축적 기술력 하루아침에 못 따라와",
+        "date": "2026-07-23 10:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2115111"
+    },
+    {
+        "title": "내 목소리·대화록 몰래 썼다…정부, 애플 '시리' 무단 활용에 과징금",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082947?sid=105"
+    },
+    {
+        "title": "개인정보 무단 수집 틱톡에 과징금 103억…애플도 2.5억 부과",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793545?sid=105"
+    },
+    {
+        "title": "틱톡에 103억·애플에 2억5천 과징금…행태·음성 정보 무단활용",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016210033?sid=105"
+    },
+    {
+        "title": "적법 근거 없이 개인정보 수집…틱톡·애플에 총 105억대 과징금",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235079?sid=105"
+    },
+    {
+        "title": "개인정보위, 틱톡·애플에 과징금...적법 근거 없이 개인정보수집·이용",
+        "date": "2026-07-23 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686184"
+    },
+    {
+        "title": "틱톡 945만명 행태정보 수집·애플 시리 무단 활용…과징금 총 105억",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074416?sid=105"
+    },
+    {
+        "title": "틱톡·애플 개인정보법 위반 제재…개보위, 과징금 105억 원 부과",
+        "date": "2026-07-23 10:00",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4096540"
+    },
+    {
+        "title": "케이스티파이, 갤럭시 Z8 시리즈 케이스 라인업 공개",
+        "date": "2026-07-23 10:00",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=753651"
+    },
+    {
+        "title": "타 서비스 이용 기록도 무단 수집·이전한 ‘틱톡’에 103억 과징금",
+        "date": "2026-07-23 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038463?sid=105"
+    },
+    {
+        "title": "노태문 사장 폴더블은 이제 선택의 시대…갤럭시 Z8 시리즈로 시장 재...",
+        "date": "2026-07-23 09:56",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251528"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8'로 폴더블 라인업 확대…갤럭시 AI·삼성 헬스로 예방 ...",
+        "date": "2026-07-23 09:54",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=185589"
+    },
+    {
+        "title": "퀄컴, 갤럭시 Z 폴드8·플립8에 차세대 스냅드래곤 공급",
+        "date": "2026-07-23 09:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235073?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 언팩 2026에서 폴더블 신제품 공개… 혁신적 AI 기능과 강...",
+        "date": "2026-07-23 09:54",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=872861"
+    },
+    {
+        "title": "[WIKI 현장] 삼성디스플레이, 화면 넘어 인터페이스로…OLED 무한 확장성...",
+        "date": "2026-07-23 09:52",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190011"
+    },
+    {
+        "title": "노태문 폴더블 대세…7년 기술력은 하루아침에 못 따라와",
+        "date": "2026-07-23 09:52",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171152?sid=101"
+    },
+    {
+        "title": "kt m&amp;s, 전국 KT플라자에 '갤럭시Z 폴드8' 체험존 확대-원스톱 상담 서비...",
+        "date": "2026-07-23 09:52",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=84357"
+    },
+    {
+        "title": "[포토] 가볍고 크고 주름도 없네 글로벌 사로잡는 '갤Z8' 시리즈",
+        "date": "2026-07-23 09:50",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043630"
+    },
+    {
+        "title": "삼성 노태문 갤Z8 라인업, 폴더블 새 기준…AI 비전 강조",
+        "date": "2026-07-23 09:50",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043682"
+    },
+    {
+        "title": "7년 기술, 하루아침에 못 따라잡아…삼성, 애플 참전 앞두고 폴더블 ...",
+        "date": "2026-07-23 09:48",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270196"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 3종 출격…이청 삼성D 사장 다른 차원의 시장...",
+        "date": "2026-07-23 09:48",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298068"
+    },
+    {
+        "title": "삼성전자 노태문 폴더블 7년 노하우, 하루아침에 따라잡기 어렵다",
+        "date": "2026-07-23 09:48",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=875823"
+    },
+    {
+        "title": "삼성전자, 폴더블 3종 체제로…갤럭시 Z 폴드8 울트라·폴드8·플립8 공...",
+        "date": "2026-07-23 09:44",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251521"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, 폴더블·워치 신제품 동시 공개…갤럭시 AI 생태...",
+        "date": "2026-07-23 09:44",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=786671"
+    },
+    {
+        "title": "애플 맥 로드맵 유출…OLED 맥북 프로·신형 아이맥 출격 전망",
+        "date": "2026-07-23 09:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546014"
+    },
+    {
+        "title": "삼성 노태문 폴더블 7년 주도권, 쉽게 못 따라올 것",
+        "date": "2026-07-23 09:42",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523224?sid=101"
+    },
+    {
+        "title": "폴더블 승부처는 '유리 지키는 소재'… 아이씨에이치, 삼성과 애플에 단...",
+        "date": "2026-07-23 09:40",
+        "link": "https://n.news.naver.com/mnews/article/008/0005389706?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘선제적 건강 관리’ 갤럭시 워치 울트라2·워치9 공개",
+        "date": "2026-07-23 09:38",
+        "link": "http://www.breaknews.com/1223706"
+    },
+    {
+        "title": "스마트 안경 이어 '갤럭시 링' 후속작 나온다…노태문 사장 찍어내듯 ...",
+        "date": "2026-07-23 09:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298053"
+    },
+    {
+        "title": "삼성전자 대표 노태문 폴더블폰 대세로 자리 잡아 올해 8억 명에게 갤...",
+        "date": "2026-07-23 09:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442922"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] 노태문 폴더블 대중화시대···7년 기술력 못 따라...",
+        "date": "2026-07-23 09:34",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=149180"
+    },
+    {
+        "title": "아이씨에이치, '갤럭시 Z 폴더블 3종'에 노이즈 차단·완충 소재 공급",
+        "date": "2026-07-23 09:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298049"
+    },
+    {
+        "title": "[갤럭시언팩] 삼성, 폴더블 판 다시 짰다…'Z 폴드8 울트라'로 AI폰 승부...",
+        "date": "2026-07-23 09:34",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=475594"
+    },
+    {
+        "title": "삼성전자 노태문 올해 8억명에 갤럭시 AI 공급...에이전틱 AI로 시장 이...",
+        "date": "2026-07-23 09:34",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256095"
+    },
+    {
+        "title": "노태문 삼성전자 대표 폴더블 기준 새로 쓴다…8억 명에 '갤럭시 AI' 제...",
+        "date": "2026-07-23 09:32",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123487"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시 Z8시리즈, 폴더블 새로운 기준될것",
+        "date": "2026-07-23 09:32",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=126466"
+    },
+    {
+        "title": "베일 벗은 '여권형' 폴더블…삼성, Z폴드 울트라 공개",
+        "date": "2026-07-23 09:30",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=741215"
+    },
+    {
+        "title": "'한단계 더 도약' 내건 노태문 올해 8억명에 갤럭시 AI 제공…차별화된...",
+        "date": "2026-07-23 09:30",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267556"
+    },
+    {
+        "title": "애플, 아이폰부터 맥까지 구독형 '임대 프로그램' 도입... 28일 미국서 첫...",
+        "date": "2026-07-23 09:30",
+        "link": "https://www.insight.co.kr/news/564246"
+    },
+    {
+        "title": "노태문 삼성전자 대표 “7년 간의 폴더블 주도권 지킬 것”…갤럭시 수...",
+        "date": "2026-07-23 09:30",
+        "link": "http://sateconomy.co.kr/news/view/1065571896810409"
+    },
+    {
+        "title": "퀄컴-삼성, 협력 대폭 확대…신규 갤럭시 생태계 전반에 '스냅드래곤' 탑...",
+        "date": "2026-07-23 09:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404599"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8' 공개",
+        "date": "2026-07-23 09:30",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070090"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성전자 노태문 폴더블은 선택의 시대…AI로 모바일 새...",
+        "date": "2026-07-23 09:29",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098025"
+    },
+    {
+        "title": "노태문 올해 8억 명에 갤럭시 AI 제공…폴더블 시장 선도할 것",
+        "date": "2026-07-23 09:28",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=223554"
+    },
+    {
+        "title": "쇼핑부터 예약까지…구글 제미나이, 삼성전자 갤럭시 폴드8서 40개 앱 자...",
+        "date": "2026-07-23 09:28",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=534692"
+    },
+    {
+        "title": "내 눈앞에 펼쳐지는 AI 비서…삼성 ‘인텔리전트 아이웨어’로 차세대 ...",
+        "date": "2026-07-23 09:27",
+        "link": "https://n.news.naver.com/mnews/article/468/0001255402?sid=105"
+    },
+    {
+        "title": "[포토] 폴더블도 취향 따라 고른다...삼성 갤럭시 Z 3종 라인업 색상 공...",
+        "date": "2026-07-23 09:26",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104603"
+    },
+    {
+        "title": "‘애플 얼마든지 드루와!’ 삼성의 폴더블 자신감…노태문 사장 “삼성...",
+        "date": "2026-07-23 09:25",
+        "link": "https://n.news.naver.com/mnews/article/022/0004145233?sid=101"
+    },
+    {
+        "title": "노태문 “폴더블이 대세⋯ 7년 기술력, 하루아침에 못 따라잡아”",
+        "date": "2026-07-23 09:24",
+        "link": "https://www.viva100.com/article/20260723500163"
+    },
+    {
+        "title": "노태문 폴더블 7년 경쟁력 축적…올해 역대 최대 판매 목표",
+        "date": "2026-07-23 09:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166322"
+    },
+    {
+        "title": "노태문 “올해 8억명에 갤럭시AI 제공”…영국 언팩엔 긴 줄",
+        "date": "2026-07-23 09:24",
+        "link": "https://n.news.naver.com/mnews/article/081/0003663842?sid=101"
+    },
+    {
+        "title": "삼성전자, 런던서 '갤럭시 AI 생태계' 확장…폴더블 넘어 안경·워치로",
+        "date": "2026-07-23 09:22",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132289"
+    },
+    {
+        "title": "노태문 “폴더블, 이제 선택의 시대”..삼성전자, 갤럭시 Z8으로 시장 선...",
+        "date": "2026-07-23 09:22",
+        "link": "https://kpenews.com/View.aspx?No=4158924"
+    },
+    {
+        "title": "삼성전자, 폴더블 스마트폰 라인업 확대…패널 시장도 성장 국면",
+        "date": "2026-07-23 09:22",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=166989"
+    },
+    {
+        "title": "삼성전자 노태문 폴더블은 선택의 시대…승부처는 '에이전틱 AI'",
+        "date": "2026-07-23 09:20",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133322"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드8 vs 폴드8 울트라, 어떤 새 폴더블이 나에게 더 맞을...",
+        "date": "2026-07-23 09:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686207"
+    },
+    {
+        "title": "삼성전자 노태문 폴더블 새 기준 제시…시장 선도할 것 자신감",
+        "date": "2026-07-23 09:20",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1388483"
+    },
+    {
+        "title": "삼성 노태문 사장, 갤럭시 언팩 행사서 Z8 폴더블 새 기준 제시...AI·헬...",
+        "date": "2026-07-23 09:20",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=41558"
+    },
+    {
+        "title": "노태문 폴더블 7년 노하우, 단기간 따라잡기 힘들다",
+        "date": "2026-07-23 09:18",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=59920"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성전자, 폴더블 전략 새판 짰다…첫 '울트라' 앞세워 A...",
+        "date": "2026-07-23 09:18",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098023"
+    },
+    {
+        "title": "[갤럭시 언팩] 노태문 대표 폴더블폰 '일상'...7년 노하우, 추격 쉽지 ...",
+        "date": "2026-07-23 09:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153588"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8 울트라’ 최초 공개..7세대 폴더블 라인업...",
+        "date": "2026-07-23 09:16",
+        "link": "http://www.breaknews.com/1223704"
+    },
+    {
+        "title": "노태문 대표 폴더블은 선택의 시대…갤럭시 Z8 전략 공개",
+        "date": "2026-07-23 09:16",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404595"
+    },
+    {
+        "title": "아이폰 넘어라 오픈AI '하드웨어 드림팀'의 야망",
+        "date": "2026-07-23 09:16",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53298"
+    },
+    {
+        "title": "“희망퇴직 비용만 2400억 썼습니다”…상반기 LGD, 사실상 5년만에 흑자",
+        "date": "2026-07-23 09:16",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711068?sid=101"
+    },
+    {
+        "title": "삼성전자, 폴더블 첫 '울트라' 승부수....갤럭시 Z 3종 출격",
+        "date": "2026-07-23 09:14",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104599"
+    },
+    {
+        "title": "[IT큐레이션] 갤럭시가 서말이어도 스냅드래곤이 꿰어야 보배다",
+        "date": "2026-07-23 09:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745893"
+    },
+    {
+        "title": "아이씨에이치, '갤럭시 Z 폴더블' 소재 공급 소식에 24%↑[특징주]",
+        "date": "2026-07-23 09:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006335185?sid=101"
+    },
+    {
+        "title": "삼성, 역대 가장 가볍고 얇은 폴더블폰 공개...8월 7일부터 글로벌 순차...",
+        "date": "2026-07-23 09:10",
+        "link": "https://www.raonnews.com/news/article.html?no=59736"
+    },
+    {
+        "title": "삼성전자, Z8 3종으로 폴더블 승부수…노태문 7년 기술력 못 따라와",
+        "date": "2026-07-23 09:08",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417536"
+    },
+    {
+        "title": "“고성능 모니터가 직원 복지”…LGD, 사무용 특화 OLED 모니터 첫 선",
+        "date": "2026-07-23 09:08",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673784?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 공개…폴더블 넘어 AI폰 시대 연다",
+        "date": "2026-07-23 09:08",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133321"
+    },
+    {
+        "title": "노태문 갤럭시 Z8, 폴더블의 새로운 출발점…연내 8억명에 갤럭시 AI 제...",
+        "date": "2026-07-23 09:08",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233587"
+    },
+    {
+        "title": "노태문 대표 7년 기술력은 하루아침에 못 따라잡아",
+        "date": "2026-07-23 09:08",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=114463"
+    },
+    {
+        "title": "삼성, 갤럭시Z 폴드8 울트라·폴드8 공개…최초 티타늄·저반사 기술 적...",
+        "date": "2026-07-23 09:04",
+        "link": "https://kbench.com/?q=node/280581"
+    },
+    {
+        "title": "[갤럭시 Z8 언팩] 노태문 폴더블은 이제 선택의 시대…갤럭시 Z 라인업...",
+        "date": "2026-07-23 09:03",
+        "link": "https://n.news.naver.com/mnews/article/119/0003113986?sid=105"
+    },
+    {
+        "title": "갤럭시 Z8 써보세요…KT M&amp;S, KT 플라자에서 체험존 운영",
+        "date": "2026-07-23 09:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686202"
+    },
+    {
+        "title": "퀄컴, 삼성 신규 갤럭시 스마트폰·워치·인텔리전트 아이웨어에 스냅드...",
+        "date": "2026-07-23 09:00",
+        "link": "https://www.ajunews.com/view/20260723081741256"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 'Z 라인업' 3종 공개",
+        "date": "2026-07-23 08:58",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=306960"
+    },
+    {
+        "title": "[미르의 글로벌 레이더]칩셋 비용이 원가의 30%…삼성 폴더블폰 가격 인...",
+        "date": "2026-07-23 08:58",
+        "link": "https://www.mediapen.com/news/view/1111676"
+    },
+    {
+        "title": "[CEO 직썰] 노태문 삼성전자 사장 AI, 필요한 일 수행하는 에이전틱으로...",
+        "date": "2026-07-23 08:58",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=140892"
+    },
+    {
+        "title": "노태문 “폴더블이 대세… 7년 기술, 하루아침에 못 따라잡아”",
+        "date": "2026-07-23 08:57",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181147?sid=105"
+    },
+    {
+        "title": "애플 차세대 아이폰 18 프로 시리즈, 중국서 양산 돌입",
+        "date": "2026-07-23 08:56",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168560"
+    },
+    {
+        "title": "노태문 삼성전자 사장 폴더블 다음 경쟁력, 하드웨어 넘어 AI서 만들어...",
+        "date": "2026-07-23 08:56",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570705355380"
+    },
+    {
+        "title": "노태문 삼성전자 대표 “연내 갤럭시 AI 8억명”…Z8로 폴더블 기준 바...",
+        "date": "2026-07-23 08:56",
+        "link": "https://n.news.naver.com/mnews/article/117/0004087610?sid=105"
+    },
+    {
+        "title": "삼성 폴더블에 실린 구글 두뇌…제미나이가 앱 40개 대신 써준다",
+        "date": "2026-07-23 08:56",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745883"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개…내달 7일 출시",
+        "date": "2026-07-23 08:56",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=144984"
+    },
+    {
+        "title": "7월 22일 주식시장 주요공시",
+        "date": "2026-07-23 08:54",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=126463"
+    },
+    {
+        "title": "“역대 가장 강력하고 다재다능한 폴더블”…1200여명 사로잡은 갤럭시...",
+        "date": "2026-07-23 08:53",
+        "link": "https://n.news.naver.com/mnews/article/011/0004644260?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8 시리즈' 공개…역대 최강 폴더블·AI 헬스 혁신 예...",
+        "date": "2026-07-23 08:52",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=591169"
+    },
+    {
+        "title": "노태문 “7년 노하우로 초격차”…‘갤럭시 Z8’로 폴더블 최대 실적 노...",
+        "date": "2026-07-23 08:52",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607230009"
+    },
+    {
+        "title": "여권처럼 ‘펼쳤더니’ AI 폴더블폰 시대 ‘열렸다’…3종 새 폴더블에...",
+        "date": "2026-07-23 08:50",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673768?sid=105"
+    },
+    {
+        "title": "삼성 노태문 “역대 폴더블폰 최대 판매 목표”…시장 1위 수성 자신감",
+        "date": "2026-07-23 08:50",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673766?sid=105"
+    },
+    {
+        "title": "삼성전자 노태문 글로벌 폴더블 시장 선도해 나갈 것",
+        "date": "2026-07-23 08:50",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/109725"
+    },
+    {
+        "title": "노태문 삼성전자 사장 폴더블은 선택의 시대…올해 8억 명에 갤럭시 AI...",
+        "date": "2026-07-23 08:50",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=114886"
+    },
+    {
+        "title": "노태문 7년 쌓은 폴더블 노하우, 따라올 수 없어…애플 겨냥 자신감 표...",
+        "date": "2026-07-23 08:48",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847988"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8·워치 신제품 공개…AI·예방형 헬스로 모바일 경쟁...",
+        "date": "2026-07-23 08:48",
+        "link": "http://www.knpnews.com/news/articleView.html?idxno=34157"
+    },
+    {
+        "title": "노태문 사장 “차세대 폴더블 시장서 한 단계 도약”",
+        "date": "2026-07-23 08:48",
+        "link": "https://www.news2day.co.kr/article/20260723500023"
+    },
+    {
+        "title": "삼성, 갤럭시 Z8 시리즈 공개…폴더블은 이제 선택의 시대",
+        "date": "2026-07-23 08:48",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520187"
+    },
+    {
+        "title": "삼성, 새 갤럭시 폴더블폰 공개에 런던 들썩…AI 기능 고도화",
+        "date": "2026-07-23 08:48",
+        "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/101343"
+    },
+    {
+        "title": "[모닝 리포트] LG디스플레이 목표가 1만6000원…수익성 방어가 관건",
+        "date": "2026-07-23 08:46",
+        "link": "https://www.newspim.com/news/view/20260723000115"
+    },
+    {
+        "title": "K-디스플레이, 차세대 ‘무기발광’ 시장 선점 속도",
+        "date": "2026-07-23 08:46",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673762?sid=101"
+    },
+    {
+        "title": "“AI는 일상의 인프라”…삼성, 연내 8억대에 갤럭시 AI 심는다",
+        "date": "2026-07-23 08:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711048?sid=105"
+    },
+    {
+        "title": "화면 주름 드디어 잡았다… 티타늄 입고 더 얇아진 갤럭시 Z 폴드8",
+        "date": "2026-07-23 08:44",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=114884"
+    },
+    {
+        "title": "삼성 노태문 폴더블은 이제 일상...글로벌 시장 선도할 것",
+        "date": "2026-07-23 08:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470726"
+    },
+    {
+        "title": "노태문 갤럭시 AI, 올해 안에 8억 명이 경험할 것",
+        "date": "2026-07-23 08:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074098?sid=105"
+    },
+    {
+        "title": "아이씨에이치, ‘갤럭시 Z 폴더블 3종’에 노이즈 차단·정밀 완충 핵심...",
+        "date": "2026-07-23 08:39",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711044?sid=101"
+    },
+    {
+        "title": "삼성전자, 폴더블·워치 동시 출격…AI가 갤럭시 경험 바꾼다",
+        "date": "2026-07-23 08:38",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264850"
+    },
+    {
+        "title": "갤럭시 Z8, 폴더블 경쟁 기준 바꾼다…노태문 AI가 다음 승부처",
+        "date": "2026-07-23 08:38",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264848"
+    },
+    {
+        "title": "노태문 삼성, 폴더블 기준 다시 세웠다…'갤럭시 Z8' 승부수",
+        "date": "2026-07-23 08:37",
+        "link": "https://n.news.naver.com/mnews/article/629/0000518241?sid=101"
+    },
+    {
+        "title": "우리 만남은 우연이 아니야 갤럭시에 스며든 퀄컴 스냅드래곤",
+        "date": "2026-07-23 08:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745877"
+    },
+    {
+        "title": "[인터뷰] 노태문 삼성전자 대표 폴더블 성숙기, 다음 경쟁은 AI",
+        "date": "2026-07-23 08:34",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315457"
+    },
+    {
+        "title": "노태문 “이제 폴더블은 대세…7년 노하우는 하루아침에 못따라와”",
+        "date": "2026-07-23 08:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711041?sid=101"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] 노태문 폴더블은 이제 일상…삼성, 갤럭시 Z8로 AI...",
+        "date": "2026-07-23 08:32",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=534652"
+    },
+    {
+        "title": "화웨이·애플 와도 안 밀린다…노태문 사장, 폴더블 자신감 내비쳐",
+        "date": "2026-07-23 08:30",
+        "link": "https://n.news.naver.com/mnews/article/417/0001152637?sid=105"
+    },
+    {
+        "title": "갤럭시Z 폴드8 직접 써보자…KT플라자 체험존 운영",
+        "date": "2026-07-23 08:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074084?sid=105"
+    },
+    {
+        "title": "노태문 올해 폴더블폰 역대 최대 판매…애플엔 7년 기술력 못 따라와...",
+        "date": "2026-07-23 08:29",
+        "link": "https://n.news.naver.com/mnews/article/014/0005551722?sid=105"
+    },
+    {
+        "title": "[갤럭시 Z8 언팩] 노태문 사장 Z8은 폴더블 기준·역사 출발점",
+        "date": "2026-07-23 08:27",
+        "link": "https://n.news.naver.com/mnews/article/293/0000087957?sid=101"
+    },
+    {
+        "title": "[포토] 폴더블 신제품 체험",
+        "date": "2026-07-23 08:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450083?sid=105"
+    },
+    {
+        "title": "노태문 새 갤Z폴드 시리즈, 역대 폴더블 최대 판매 목표",
+        "date": "2026-07-23 08:24",
+        "link": "https://n.news.naver.com/mnews/article/031/0001044135?sid=105"
+    },
+    {
+        "title": "“갤럭시 Z8 시리즈가 폴더블의 새로운 기준이 될 겁니다.”",
+        "date": "2026-07-23 08:23",
+        "link": "https://n.news.naver.com/mnews/article/082/0001390912?sid=101"
+    },
+    {
+        "title": "아이씨에이치, 삼성 '갤럭시 Z 폴더블 3종'에 핵심 소재 공급",
+        "date": "2026-07-23 08:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006335109?sid=101"
+    },
+    {
+        "title": "노태문 삼성전자 대표 폴더블은 선택의 시대…갤럭시 Z8, AI·헬스로 경...",
+        "date": "2026-07-23 08:22",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=79863"
+    },
+    {
+        "title": "삼성전자, 폴더블 3종 체제로 확대…갤럭시 Z 폴드8 울트라 첫선",
+        "date": "2026-07-23 08:22",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=79864"
+    },
+    {
+        "title": "노태문 삼성전자 사장 폴더블 역대 최대 판매 목표…7년 쌓은 기술력 ...",
+        "date": "2026-07-23 08:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441637"
+    },
+    {
+        "title": "노태문 사장 폴더블은 이제 선택의 시대…에이전틱 AI로 차별화",
+        "date": "2026-07-23 08:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717401"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈 공개. 노태문사장, 폴더블의 기준을 다시 세우는 출...",
+        "date": "2026-07-23 08:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546012"
+    },
+    {
+        "title": "노태문 이제 폴더블이 대세 … 올해 8억 명에 갤럭시 AI 제공 [갤럭시...",
+        "date": "2026-07-23 08:20",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/23/2026072300016.html"
+    },
+    {
+        "title": "아이씨에이치, 삼성 신제품 '갤럭시 Z'에 노이즈 차단 소재 공급",
+        "date": "2026-07-23 08:20",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793396?sid=101"
+    },
+    {
+        "title": "아이씨에이치, '갤럭시 Z 폴더블 3종'에 노이즈 차단·완충 소재 공급",
+        "date": "2026-07-23 08:18",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082634?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 울트라2·워치9 공개…헬스 기능 강화",
+        "date": "2026-07-23 08:18",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233578"
+    },
+    {
+        "title": "노태문 “삼성 7년간 폴더블 주도권…하루 아침에 따라잡을 수 없어”",
+        "date": "2026-07-23 08:17",
+        "link": "https://n.news.naver.com/mnews/article/032/0003459854?sid=101"
+    },
+    {
+        "title": "디스플레이협회, 무기발광 분과위 개최…차세대 시장 공략 논의",
+        "date": "2026-07-23 08:17",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793393?sid=101"
+    },
+    {
+        "title": "노태문 폴더블 기준 다시 쓴다…'갤럭시Z8'로 새판짜기 [폴더블 언팩 ...",
+        "date": "2026-07-23 08:06",
+        "link": "https://news.mtn.co.kr/news-detail/2026072216343347623"
+    },
+    {
+        "title": "폴더블은 이미 대세…노태문 7년 쌓은 주도권, 쉽게 못 따라잡을 것...",
+        "date": "2026-07-23 08:06",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61869"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 공개…28일부터 국내 사전판매",
+        "date": "2026-07-23 08:06",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233577"
+    },
+    {
+        "title": "LG디스플레이, 북미 고객사 스마트폰 다변화 '수혜'…아이폰18 프리미엄...",
+        "date": "2026-07-23 08:04",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=741180"
+    },
+    {
+        "title": "[오늘의DT인]노태문 삼성전자 사장, 애플 폴더블 진출에도 시장 수성 ‘...",
+        "date": "2026-07-23 08:02",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038428?sid=105"
+    },
+    {
+        "title": "“폴더블 경쟁자 환영”…노태문 “7년 축적한 삼성의 경험은 쉽게 못 ...",
+        "date": "2026-07-23 08:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006335087?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] '폴더블 대중화' 선언한 노태문 사장 3종 라인업으로 갤...",
+        "date": "2026-07-23 08:02",
+        "link": "https://www.ajunews.com/view/20260723043720085"
+    },
+    {
+        "title": "노태문 삼성전자 사장 “갤럭시Z8, 폴더블 역대 최다 판매 목표…메모리...",
+        "date": "2026-07-23 08:02",
+        "link": "https://n.news.naver.com/mnews/article/011/0004644245?sid=101"
+    },
+    {
+        "title": "애플·중국 공세에도 자신감…노태문 “경험이 삼성 폴더블 경쟁력” [...",
+        "date": "2026-07-23 08:02",
+        "link": "https://www.kukinews.com/article/view/kuk202607230002"
+    },
+    {
+        "title": "노태문 사장 올해 폴더블폰 3종, 역대 최대 판매 목표",
+        "date": "2026-07-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431521?sid=105"
+    },
+    {
+        "title": "노태문 사장 갤Z폴드8·울트라 UTG 두께, 티타늄·크기 따라 다르다",
+        "date": "2026-07-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431520?sid=105"
+    },
+    {
+        "title": "노태문 삼성 사장 “갤럭시Z8 역대 최대 판매 목표”…폴더블 1위 수성...",
+        "date": "2026-07-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450080?sid=105"
+    },
+    {
+        "title": "노태문 갤럭시Z8, 역대 최다 판매 기록 세울 것",
+        "date": "2026-07-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005312862?sid=101"
+    },
+    {
+        "title": "삼성 노태문 “스마트폰 원가 부담, 소비자에 무작정 안 떠넘겨”",
+        "date": "2026-07-23 08:01",
+        "link": "https://n.news.naver.com/mnews/article/023/0003989146?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 노태문 다양한 제품군 삼성의 강점이자 의무...글로벌 전...",
+        "date": "2026-07-23 08:00",
+        "link": "https://www.newspim.com/news/view/20260723000024"
+    },
+    {
+        "title": "노태문 사장 “폴더블 최대 판매 목표…7년 기술력 하루아침에 못 따라...",
+        "date": "2026-07-23 08:00",
+        "link": "https://www.etoday.co.kr/news/view/2606289"
+    },
+    {
+        "title": "노태문의 이유있는 '폴더블' 배짱…7년 경험 못 따라와, 경쟁사 환영",
+        "date": "2026-07-23 08:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005389640?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 7년 기술력 쉽게 못 따라와…노태문, 폴더블 자신감",
+        "date": "2026-07-23 08:00",
+        "link": "https://www.newspim.com/news/view/20260722001091"
+    },
+    {
+        "title": "노태문 폴더블 기준 다시 세웠다...1위 수성, 역대 최대 판매 목표",
+        "date": "2026-07-23 08:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793379?sid=105"
+    },
+    {
+        "title": "노태문 폴더블이 대세…7년 쌓은 주도권 쉽게 못 따라잡을 것",
+        "date": "2026-07-23 08:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016209651?sid=105"
+    },
+    {
+        "title": "스마트 안경 이어 '갤럭시 링' 후속작 나온다…노태문 사장 찍어내듯 ...",
+        "date": "2026-07-23 08:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082614?sid=105"
+    },
+    {
+        "title": "삼성, 갤럭시 Z8 시리즈 공개…AI는 인프라",
+        "date": "2026-07-23 07:57",
+        "link": "https://n.news.naver.com/mnews/article/057/0001959915?sid=101"
+    },
+    {
+        "title": "여권 같고 펼치면 책 같고…삼성전자 폴더블 3종",
+        "date": "2026-07-23 07:56",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51623"
+    },
+    {
+        "title": "삼성, 구글·퀄컴과 협력·개방성 부각...애플 정조준",
+        "date": "2026-07-23 07:50",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431519?sid=105"
+    },
+    {
+        "title": "삼성, 또 한번 혁신…AI 폴더블폰 시대 여는 '폴드8·울트라·플립8' 공개",
+        "date": "2026-07-23 07:48",
+        "link": "https://www.socialvalue.kr/news/view/1065564807021393"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 라인업 확대..갤럭시 언팩서 폴드8·울트라·플립8 ...",
+        "date": "2026-07-23 07:46",
+        "link": "https://kpenews.com/View.aspx?No=4158686"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8·플립8’ 공개… 에이전트형 AI 탑재",
+        "date": "2026-07-23 07:42",
+        "link": "https://n.news.naver.com/mnews/article/666/0000116257?sid=101"
+    },
+    {
+        "title": "3종 라인업으로 차별화…삼성전자, 갤럭시 Z8 시리즈로 폴더블 승부수",
+        "date": "2026-07-23 07:40",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82907"
+    },
+    {
+        "title": "TV 밖으로 나온 OLED…로봇 얼굴 되고 車 안에 들어갔다 [르포]",
+        "date": "2026-07-23 07:36",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=551720"
+    },
+    {
+        "title": "삼성전자, 폴더블 '울트라' 시대 연다… 갤럭시 Z8로 AI폰 경쟁 정조준",
+        "date": "2026-07-23 07:34",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155392"
+    },
+    {
+        "title": "폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074016?sid=101"
+    },
+    {
+        "title": "폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074019?sid=101"
+    },
+    {
+        "title": "폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0009074015?sid=101"
+    },
+    {
+        "title": "'갤럭시 언팩 2026' 폴더블 신제품 체험하는 관람객",
+        "date": "2026-07-23 07:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082588?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 체험하는 관람객",
+        "date": "2026-07-23 07:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082581?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 신제품 체험하는 관람객",
+        "date": "2026-07-23 07:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082582?sid=101"
+    },
+    {
+        "title": "'갤럭시 언팩 2026' 폴더블 신제품 체험하는 관람객",
+        "date": "2026-07-23 07:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0014082579?sid=101"
+    },
+    {
+        "title": "삼성전자, AI 헬스케어 품은 '갤럭시 워치9·울트라2' 공개…'사후 대응...",
+        "date": "2026-07-23 07:26",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=283533"
+    },
+    {
+        "title": "런던 한강변을 뜨겁게 만든 삼성 갤럭시 폴드8 언팩 행사, AI와의 만남으...",
+        "date": "2026-07-23 07:20",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=872827"
+    },
+    {
+        "title": "갤럭시 언팩 2026 행사에서 폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0016209635?sid=101"
+    },
+    {
+        "title": "갤럭시 언팩 2026 행사에서 폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0016209631?sid=101"
+    },
+    {
+        "title": "갤럭시 언팩 2026 행사에서 폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:17",
+        "link": "https://n.news.naver.com/mnews/article/001/0016209630?sid=101"
+    },
+    {
+        "title": "갤럭시 언팩 2026 행사에서 폴더블 신제품 체험하는 관람객들",
+        "date": "2026-07-23 07:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0016209625?sid=101"
+    },
+    {
+        "title": "런던 밤 밝힌 삼성 '폴더블 미래'…1200명 환호 속 갤럭시 언팩 막 올랐...",
+        "date": "2026-07-23 07:12",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026072300190689419"
+    },
+    {
+        "title": "“이번엔 100% 삼성으로 갈아탈 것” “새 폼팩터 반가워”···런던 달...",
+        "date": "2026-07-23 07:01",
+        "link": "https://n.news.naver.com/mnews/article/032/0003459844?sid=101"
+    },
+    {
+        "title": "몰입감·생산성 극대화…삼성, 8세대 폴더블폰 '갤럭시Z폴드8' 공개",
+        "date": "2026-07-23 07:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=219848"
+    },
+    {
+        "title": "베일 벗은 '여권형' 폴더블‥비서형 AI 탑재",
+        "date": "2026-07-23 06:52",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513359?sid=102"
+    },
+    {
+        "title": "'신종' 폴더블폰 공개…'3종 세트'로 애플과 '승부'",
+        "date": "2026-07-23 06:50",
+        "link": "https://n.news.naver.com/mnews/article/055/0001374687?sid=104"
+    },
+    {
+        "title": "삼성전자, 폴더블 갤럭시Z 신제품 3종 공개",
+        "date": "2026-07-23 06:46",
+        "link": "https://n.news.naver.com/mnews/article/056/0012223377?sid=101"
+    },
+    {
+        "title": "[포토] 라이브 몰입감 높인 갤럭시 언팩 2026…폴더블 3종부터 워치울트...",
+        "date": "2026-07-23 06:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267541"
+    },
+    {
+        "title": "삼성전자, AI 안경 첫 공개…폴더블 3종 체제로 '멀티 디바이스' 승부수",
+        "date": "2026-07-23 06:42",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=322053"
+    },
+    {
+        "title": "“비싼 롤렉스를 왜 사요?”…최초 등장 역대급 ‘시계’, 주요 기능 보...",
+        "date": "2026-07-23 06:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673690?sid=105"
+    },
+    {
+        "title": "애플 폴더블 맞불…삼성 갤럭시 Z8 시리즈 공개",
+        "date": "2026-07-23 06:36",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202607230006"
+    },
+    {
+        "title": "애플, 마시모에 6억3400만 달러 배상 확정…재심 요청도 기각당했다",
+        "date": "2026-07-23 06:26",
+        "link": "https://www.wikitree.co.kr/articles/1147921"
+    },
+    {
+        "title": "삼성 8세대 폴더블폰 공개…300만원대 '울트라'부터 초슬림 '플립8'까지",
+        "date": "2026-07-23 06:24",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92624"
+    },
+    {
+        "title": "[갤럭시 언팩] 트레일 러너부터 다이버까지…갤럭시 워치 울트라2·워...",
+        "date": "2026-07-23 06:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267537"
+    },
+    {
+        "title": "구글, 아이폰→안드로이드 무선전송에 비밀번호·eSIM 추가",
+        "date": "2026-07-23 06:14",
+        "link": "https://www.wikitree.co.kr/articles/1147920"
+    },
+    {
+        "title": "1200명 홀린 런던 '갤럭시 언팩 2026'…구글·퀄컴 수장 총출동",
+        "date": "2026-07-23 06:12",
+        "link": "https://n.news.naver.com/mnews/article/417/0001152619?sid=105"
+    },
+    {
+        "title": "접는 폰도 '울트라 시대'...삼성전자, 갤럭시 Z 3종 한꺼번에 공개",
+        "date": "2026-07-23 06:04",
+        "link": "https://www.insight.co.kr/news/564239"
+    },
+    {
+        "title": "[갤럭시 언팩] 고질병 주름 지웠다…삼성, 런던서 갤럭시Z 폴드8·울트...",
+        "date": "2026-07-23 06:02",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267531"
+    },
+    {
+        "title": "휴머노이드·차량용… OLED 영역 확장",
+        "date": "2026-07-23 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004145192?sid=101"
+    },
+    {
         "title": "애플 폴더블 온다…삼성, 폴더블 3종 체제로 맞불",
         "date": "2026-07-23 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166289"
@@ -8,6 +2343,11 @@
         "title": "치열해진 폴더블 시장 경쟁…“삼성이 웃을 것”",
         "date": "2026-07-23 06:00",
         "link": "https://n.news.naver.com/mnews/article/029/0003038411?sid=105"
+    },
+    {
+        "title": "LGD의 이상한 OLED 전시법?…“불 켜고 보세요”",
+        "date": "2026-07-23 06:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038415?sid=101"
     },
     {
         "title": "삼성, 갤럭시 워치 울트라2·워치9 공개...AI 헬스 정조준",
@@ -245,7 +2585,7 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004644168?sid=101"
     },
     {
-        "title": "노태문 DX부문장 지금껏 선보인 폴더블 가운데 가장 강력",
+        "title": "노태문 사장 지금껏 선보인 폴더블 가운데 가장 강력",
         "date": "2026-07-23 00:17",
         "link": "https://n.news.naver.com/mnews/article/417/0001152611?sid=105"
     },
@@ -270,7 +2610,7 @@
         "link": "http://www.beyondpost.co.kr/view.php?ud=202607222327584165be44c0aacd_30"
     },
     {
-        "title": "[현장 직썰] 사용자 경험이 플래그십…삼성·구글·퀄컴, 갤럭시 AI 확...",
+        "title": "[현장 직썰] 갤럭시 언팩, 핵심은 AI…삼성, 구글·퀄컴과 생태계 확대",
         "date": "2026-07-23 00:02",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=140888"
     },
@@ -415,6 +2755,11 @@
         "link": "https://bizhankook.com/articles/139336.html"
     },
     {
+        "title": "[갤럭시언팩2026] 인텔리전트 아이웨어 신규 디자인 2종 추가 공개…총...",
+        "date": "2026-07-22 23:02",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315444"
+    },
+    {
         "title": "갤럭시 폴드 '300만원 시대'…폴드8 울트라 1TB 345만원",
         "date": "2026-07-22 23:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717381"
@@ -462,12 +2807,12 @@
     {
         "title": "삼성전자, 갤럭시 Z 폴드8·폴드8 울트라·플립8 공개",
         "date": "2026-07-22 22:49",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082382?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082384?sid=105"
     },
     {
         "title": "삼성전자, 갤럭시 Z 폴드8·폴드8 울트라·플립8 공개",
         "date": "2026-07-22 22:49",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082384?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082382?sid=105"
     },
     {
         "title": "삼성전자, 갤럭시 Z 폴드8·폴드8 울트라·플립8 공개",
@@ -497,7 +2842,7 @@
     {
         "title": "새로 공개된 갤럭시 Z 폴드8",
         "date": "2026-07-22 22:44",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082379?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082378?sid=105"
     },
     {
         "title": "새로 공개된 갤럭시 Z 폴드8",
@@ -507,7 +2852,7 @@
     {
         "title": "새로 공개된 갤럭시 Z 폴드8",
         "date": "2026-07-22 22:44",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082378?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082379?sid=105"
     },
     {
         "title": "새로 공개된 갤럭시 Z 폴드8",
@@ -530,6 +2875,11 @@
         "link": "https://n.news.naver.com/mnews/article/003/0014082373?sid=105"
     },
     {
+        "title": "[갤럭시언팩2026] 갤럭시 워치9·울트라2 공개…AP 전량 퀄컴 전환",
+        "date": "2026-07-22 22:42",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315443"
+    },
+    {
         "title": "베일 벗은 갤럭시 Z 플립8",
         "date": "2026-07-22 22:42",
         "link": "https://n.news.naver.com/mnews/article/003/0014082369?sid=105"
@@ -537,12 +2887,12 @@
     {
         "title": "베일 벗은 갤럭시 Z 플립8",
         "date": "2026-07-22 22:42",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082372?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082370?sid=105"
     },
     {
         "title": "베일 벗은 갤럭시 Z 플립8",
         "date": "2026-07-22 22:42",
-        "link": "https://n.news.naver.com/mnews/article/003/0014082370?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/003/0014082372?sid=105"
     },
     {
         "title": "삼성전자 폴더블 라인업 3종 출격 ..가격대 168만원부터 345만원으로 책...",
@@ -815,24 +3165,24 @@
         "link": "https://n.news.naver.com/mnews/article/028/0002815338?sid=101"
     },
     {
-        "title": "삼성, 언팩서 '폴드8 울트라' 첫 공개…폴더블 3종 시대 열었다",
-        "date": "2026-07-22 22:02",
-        "link": "http://www.metroseoul.co.kr/article/20260722500484"
-    },
-    {
         "title": "[갤럭시 언팩 2026] 폴더블 새 기준… 삼성전자, Z 폴드8·플립8 공개",
         "date": "2026-07-22 22:02",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3419103"
     },
     {
-        "title": "[갤럭시 언팩] 삼성전자, 갤럭시 워치 울트라2·워치9 공개",
+        "title": "삼성, 언팩서 '폴드8 울트라' 첫 공개…폴더블 3종 시대 열었다",
         "date": "2026-07-22 22:02",
-        "link": "https://news.dealsitetv.com/articles/173625"
+        "link": "http://www.metroseoul.co.kr/article/20260722500484"
     },
     {
-        "title": "주름 잡은 '와이드 폴드'에 비서형 AI 탑재…삼성 갤럭시Z8, 런던서 언팩",
+        "title": "주름 잡은 '와이드 폴드'에 비서형 AI 탑재…삼성 갤럭시Z8, 런던서 언팩...",
         "date": "2026-07-22 22:02",
         "link": "https://n.news.naver.com/mnews/article/079/0004171082?sid=101"
+    },
+    {
+        "title": "[갤럭시 언팩 2026] 삼성전자, 폴더블 3종으로 확대…'폴드 2·플립 1' 무...",
+        "date": "2026-07-22 22:02",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745833"
     },
     {
         "title": "삼성, 폴더블 3종·AI 안경 공개...갤럭시 생태계 키운다",
@@ -845,24 +3195,24 @@
         "link": "https://dealsite.co.kr/articles/165690"
     },
     {
-        "title": "건강관리 플랫폼으로 진화…삼성 갤워치 '울트라2' 첫 공개",
-        "date": "2026-07-22 22:02",
-        "link": "https://n.news.naver.com/mnews/article/079/0004171080?sid=101"
-    },
-    {
         "title": "[갤럭시Z 언팩 2026] 삼성, 폴더블 3종 공개…AI 경험 확대",
         "date": "2026-07-22 22:02",
         "link": "https://dealsite.co.kr/articles/165684"
     },
     {
-        "title": "201g 폴드8·2억 화소 울트라…삼성 폴더블 3종 출격[갤럭시 언팩 2026]",
+        "title": "건강관리 플랫폼으로 진화…삼성 갤워치 '울트라2' 첫 공개",
         "date": "2026-07-22 22:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006334984?sid=105"
+        "link": "https://n.news.naver.com/mnews/article/079/0004171080?sid=101"
     },
     {
         "title": "애플 따라올 수 있겠어?…‘여권’만해진 갤폴드8",
         "date": "2026-07-22 22:02",
         "link": "https://n.news.naver.com/mnews/article/025/0003539440?sid=101"
+    },
+    {
+        "title": "201g 폴드8·2억 화소 울트라…삼성 폴더블 3종 출격[갤럭시 언팩 2026]",
+        "date": "2026-07-22 22:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006334984?sid=105"
     },
     {
         "title": "폴더블 ‘울트라’ 첫선…갤럭시 언팩, 런던서 개최",
@@ -883,11 +3233,6 @@
         "title": "“건강관리 인사이트 제공”⋯ 삼성전자, ‘갤럭시 워치 울트라2·갤럭...",
         "date": "2026-07-22 22:02",
         "link": "https://www.viva100.com/article/20260722501435"
-    },
-    {
-        "title": "[갤럭시 언팩 2026] 삼성전자, 폴더블 3종으로 확대…'폴드 2·플립 1' 무...",
-        "date": "2026-07-22 22:02",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=745833"
     },
     {
         "title": "삼성, 갤Z폴드8·울트라·플립8 공개…노태문 차세대 인텔리전스 시대...",
@@ -1030,9 +3375,14 @@
         "link": "https://www.goodkyung.com/news/articleView.html?idxno=289450"
     },
     {
-        "title": "[갤럭시언팩] 접는 폰도 '울트라' 시대…삼성, AI 폴더블 3종 공개",
+        "title": "[갤럭시 언팩] 삼성전자 '갤럭시Z폴드8·플립8' 공개...AI 폴더블폰, 새...",
         "date": "2026-07-22 22:00",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2115092"
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153585"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 폴드8 울트라' 승부수… 폴더블 왕좌 지킨다",
+        "date": "2026-07-22 22:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686045"
     },
     {
         "title": "[갤럭시언팩] 접는 폰도 '울트라' 시대..'여권형' 폴더블 첫 선",
@@ -1055,11 +3405,6 @@
         "link": "https://www.m-i.kr/news/articleView.html?idxno=1394163"
     },
     {
-        "title": "[갤럭시 언팩] 삼성전자 '갤럭시Z폴드8·플립8' 공개...AI 폴더블폰, 새...",
-        "date": "2026-07-22 22:00",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=153585"
-    },
-    {
         "title": "일상에 스며드는 에이전틱 AI...삼성전자, 폴더블·아이웨어·워치 신...",
         "date": "2026-07-22 22:00",
         "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256057"
@@ -1070,19 +3415,14 @@
         "link": "https://www.etoday.co.kr/news/view/2605880"
     },
     {
-        "title": "베일 벗은 '여권형' 폴더블…삼성, 갤럭시 Z 시리즈 3종 공개",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259636?sid=105"
-    },
-    {
         "title": "삼성전자 언팩…폴더블폰 신제품 3종 공개",
         "date": "2026-07-22 22:00",
         "link": "http://www.segyebiz.com/newsView/20260722518894?OutUrl=naver"
     },
     {
-        "title": "삼성 '갤럭시 Z 폴드8 울트라' 승부수… 폴더블 왕좌 지킨다",
+        "title": "베일 벗은 '여권형' 폴더블…삼성, 갤럭시 Z 시리즈 3종 공개",
         "date": "2026-07-22 22:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686045"
+        "link": "https://n.news.naver.com/mnews/article/215/0001259636?sid=105"
     },
     {
         "title": "“펼치니 일도 척척”…삼성 폴더블폰 3종 베일 벗었다",
@@ -1105,14 +3445,14 @@
         "link": "https://www.g-enews.com/view.php?ud=2026072217045242927fa31d75c_1"
     },
     {
-        "title": "베일 벗은 '여권형' 폴드…삼성 폴더블폰 신작 3종 공개",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000523148?sid=101"
-    },
-    {
         "title": "삼성전자, 폴더블 '울트라' 시대 연다…갤럭시 Z 신작 3종 공개",
         "date": "2026-07-22 22:00",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470652"
+    },
+    {
+        "title": "베일 벗은 '여권형' 폴드…삼성 폴더블폰 신작 3종 공개",
+        "date": "2026-07-22 22:00",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523148?sid=101"
     },
     {
         "title": "[갤럭시 언팩] '주름' 잡은 삼성 폴더블…7년 난제 풀었다",
@@ -1130,19 +3470,24 @@
         "link": "https://www.seoulfn.com/news/articleView.html?idxno=633885"
     },
     {
-        "title": "예상 깬 가격, 200만원대 유지...더 얇고 더 똑똑해진 '갤럭시 Z8'",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005389549?sid=105"
-    },
-    {
         "title": "삼성전자, 런던서 '갤럭시 언팩 2026'…폴더블 3종 공개",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/417/0001152608?sid=105"
     },
     {
+        "title": "예상 깬 가격, 200만원대 유지...더 얇고 더 똑똑해진 '갤럭시 Z8'",
+        "date": "2026-07-22 22:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005389549?sid=105"
+    },
+    {
         "title": "건강관리 혁신…삼성, 언팩서 '갤럭시 워치 9·울트라2' 공개",
         "date": "2026-07-22 22:00",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1388288"
+    },
+    {
+        "title": "밝고 오래가는 '갤럭시 워치' 출격…건강관리도 AI로",
+        "date": "2026-07-22 22:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686035"
     },
     {
         "title": "폰·시계·안경까지…삼성 '에이전틱 AI'로 모바일 생태계 바꾼다 [갤럭...",
@@ -1160,6 +3505,11 @@
         "link": "https://www.newspim.com/news/view/20260722000039"
     },
     {
+        "title": "[갤럭시 언팩] 손목 위의 건강 도우미...삼성전자 '갤럭시워치울트라...",
+        "date": "2026-07-22 22:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153582"
+    },
+    {
         "title": "꽉찬 4대3 화면 승부수, 애플에 ‘선공’···삼성 ‘갤럭시Z 폴드8’ ...",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/032/0003459828?sid=101"
@@ -1170,14 +3520,14 @@
         "link": "https://n.news.naver.com/mnews/article/417/0001152610?sid=105"
     },
     {
-        "title": "베일 벗은 4:3 갤럭시 Z폴드8…폰·태블릿 경계 허물어 영상에 제격",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005793321?sid=105"
-    },
-    {
         "title": "폴더블 다음은 웨어러블…삼성 첫 스마트글라스 출격 준비",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/277/0005793322?sid=105"
+    },
+    {
+        "title": "베일 벗은 4:3 갤럭시 Z폴드8…폰·태블릿 경계 허물어 영상에 제격",
+        "date": "2026-07-22 22:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005793321?sid=105"
     },
     {
         "title": "[갤럭시언팩] 삼성 폴더블 ‘폴드 투톱’ 재편…갤럭시 Z8 3종 승부수",
@@ -1200,14 +3550,14 @@
         "link": "https://n.news.naver.com/mnews/article/648/0000049104?sid=101"
     },
     {
+        "title": "삼성 '스마트글래스' 공개, 연내 출시…'갤Z폴드8'도 베일 벗다",
+        "date": "2026-07-22 22:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043506"
+    },
+    {
         "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개…배터리·헬스 기능 강화",
         "date": "2026-07-22 22:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717321"
-    },
-    {
-        "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개",
-        "date": "2026-07-22 22:00",
-        "link": "http://www.segyebiz.com/newsView/20260722518909?OutUrl=naver"
     },
     {
         "title": "첫 스마트 안경과 워치 신제품으로 AI 생태계 확장",
@@ -1215,14 +3565,14 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003038398?sid=105"
     },
     {
-        "title": "삼성전자, '토니상 작가' 박천휴와 언팩 무대 협업…AI·폴더블에 스토...",
-        "date": "2026-07-22 22:00",
-        "link": "https://www.etoday.co.kr/news/view/2606285"
-    },
-    {
         "title": "여권 크기 펼치면 '가로본능'...더 보기 편해진 갤럭시 폴더블, 첫 아...",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/437/0000502585?sid=101"
+    },
+    {
+        "title": "삼성전자, '토니상 작가' 박천휴와 언팩 무대 협업…AI·폴더블에 스토...",
+        "date": "2026-07-22 22:00",
+        "link": "https://www.etoday.co.kr/news/view/2606285"
     },
     {
         "title": "삼성전자, '갤럭시 워치 울트라2·워치9' 공개",
@@ -1235,19 +3585,9 @@
         "link": "https://www.goodkyung.com/news/articleView.html?idxno=289453"
     },
     {
-        "title": "런던 언팩서 갤럭시 워치 울트라2·워치9·인텔리전트 아이웨어 공개",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/417/0001152609?sid=105"
-    },
-    {
         "title": "플렉스 티타늄 첫 적용…폴더블 주름 잡고 밝기 15%↑ [갤럭시 언팩]",
         "date": "2026-07-22 22:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166266"
-    },
-    {
-        "title": "삼성 '스마트글래스' 공개, 연내 출시…'갤Z폴드8'도 베일 벗다",
-        "date": "2026-07-22 22:00",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043506"
     },
     {
         "title": "두께·무게 다 잡은 갤럭시 Z시리즈…화면 주름도 개선",
@@ -1265,6 +3605,11 @@
         "link": "http://www.4th.kr/news/articleView.html?idxno=2115096"
     },
     {
+        "title": "[갤럭시 Z8 언팩] '고마진 포기' 200만원대 가격 방어선 사수",
+        "date": "2026-07-22 22:00",
+        "link": "https://n.news.naver.com/mnews/article/293/0000087943?sid=101"
+    },
+    {
         "title": "4대 3 화면비로 여백 삭제…가로 더 긴 '갤Z폴드 8' 첫 선 [갤럭시 언...",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/014/0005551647?sid=105"
@@ -1273,11 +3618,6 @@
         "title": "갤럭시Z폴드8 울트라 공개…삼성 폴더블 최상위 시대 연다[갤럭시 런던...",
         "date": "2026-07-22 22:00",
         "link": "https://www.newsway.co.kr/news/view?ud=2026072207003849190"
-    },
-    {
-        "title": "[갤럭시 Z8 언팩] '고마진 포기' 200만원대 가격 방어선 사수",
-        "date": "2026-07-22 22:00",
-        "link": "https://n.news.naver.com/mnews/article/293/0000087943?sid=101"
     },
     {
         "title": "베일벗은 갤럭시Z폴드8…4대3 대화면·무게 201g[갤럭시 런던 언팩]",
@@ -1295,11 +3635,6 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470651"
     },
     {
-        "title": "밝고 오래가는 '갤럭시 워치' 출격…건강관리도 AI로",
-        "date": "2026-07-22 22:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686035"
-    },
-    {
         "title": "OTT·웹툰 볼 때 딱 좋네…베일 풀린 삼성 '여권형 폴드'",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/003/0014082349?sid=105"
@@ -1310,12 +3645,7 @@
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166265"
     },
     {
-        "title": "[갤럭시 언팩] 손목 위의 건강 도우미...삼성전자 '갤럭시워치울트라...",
-        "date": "2026-07-22 22:00",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=153582"
-    },
-    {
-        "title": "얇고 가볍고 똑똑하다…새 폼팩터 '갤럭시 Z 폴드8' 써보니",
+        "title": "4:3 화면비의 안정감, 책 보듯 편해…새 폼팩터 '갤럭시 Z 폴드8' 써보니",
         "date": "2026-07-22 22:00",
         "link": "https://n.news.naver.com/mnews/article/277/0005793323?sid=105"
     },
@@ -1495,6 +3825,11 @@
         "link": "https://www.ngetnews.com/news/articleView.html?idxno=551728"
     },
     {
+        "title": "삼성D·LGD 수장, '칩플레이션' 진단 엇갈려…하반기 전망 온도차",
+        "date": "2026-07-22 17:22",
+        "link": "https://n.news.naver.com/mnews/article/119/0003113865?sid=101"
+    },
+    {
         "title": "휴머노이드 얼굴 강조한 삼성, 내구성 내세운 LG... 서로 다른 디스플레...",
         "date": "2026-07-22 17:21",
         "link": "https://n.news.naver.com/mnews/article/469/0000943756?sid=105"
@@ -1603,6 +3938,11 @@
         "title": "'미스터 갤럭시' 노태문 대표에게 삼성전자 로봇 사업 맡긴 이유",
         "date": "2026-07-22 16:43",
         "link": "https://n.news.naver.com/mnews/article/417/0001152586?sid=101"
+    },
+    {
+        "title": "계속 나 쳐다봐…AI 로봇 눈 OLED, 삼성·LG 미래 기술 총출동",
+        "date": "2026-07-22 16:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005389395?sid=101"
     },
     {
         "title": "K-디스플레이, OLED 다음은 무기발광…차세대 생태계 논의",
@@ -1915,11 +4255,6 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717297"
     },
     {
-        "title": "[포토] LG디스플레이 탠덤 WOLED 기술은",
-        "date": "2026-07-22 14:47",
-        "link": "https://n.news.naver.com/mnews/article/030/0003449862?sid=105"
-    },
-    {
         "title": "삼성D·LGD OLED 주도권 사수...LCD→OLED '가속'",
         "date": "2026-07-22 14:46",
         "link": "https://www.techm.kr/news/articleView.html?idxno=153578"
@@ -1998,11 +4333,6 @@
         "title": "스마트폰 넘어 금융까지···삼성, '갤럭시 카드'로 애플 생태계 정조준",
         "date": "2026-07-22 14:30",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451113"
-    },
-    {
-        "title": "커세어, 게이밍 기어 할인 행사 진행…‘VOID WIRELESS v2’ 9만원대 선보...",
-        "date": "2026-07-22 14:30",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202607221428215587204ead0791_12"
     },
     {
         "title": "[Invest]SFC, 코스피 예심 앞두고 LG화학 특허소송 패소…질적 심사 변수...",
@@ -2120,14 +4450,14 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685979"
     },
     {
-        "title": "애플, 할부 밀리면 아이폰 잠그나…iOS 27에 '제한 모드' 정황",
-        "date": "2026-07-22 14:08",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685966"
-    },
-    {
         "title": "이청 삼성D 사장 칩플레이션에 하반기 어려워… 기술 격차로 시장 주도...",
         "date": "2026-07-22 14:08",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3418963"
+    },
+    {
+        "title": "애플, 할부 밀리면 아이폰 잠그나…iOS 27에 '제한 모드' 정황",
+        "date": "2026-07-22 14:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685966"
     },
     {
         "title": "K-디스플레이 개막…삼성D·LGD, AI·로봇으로 OLED 확장 [디스플레이다...",
@@ -2153,21 +4483,6 @@
         "title": "'K-디스플레이 전시회' 개막…2000니트 노트북 탠덤 OLED 등 신기술 경쟁...",
         "date": "2026-07-22 14:03",
         "link": "https://n.news.naver.com/mnews/article/030/0003449817?sid=100"
-    },
-    {
-        "title": "질문에 답하는 이청 삼성디스플레이 사장",
-        "date": "2026-07-22 14:02",
-        "link": "https://n.news.naver.com/mnews/article/001/0016208296?sid=101"
-    },
-    {
-        "title": "질문에 답하는 이청 삼성디스플레이 사장",
-        "date": "2026-07-22 14:02",
-        "link": "https://n.news.naver.com/mnews/article/001/0016208299?sid=101"
-    },
-    {
-        "title": "질문에 답하는 이청 삼성디스플레이 사장",
-        "date": "2026-07-22 14:02",
-        "link": "https://n.news.naver.com/mnews/article/001/0016208297?sid=101"
     },
     {
         "title": "LG디스플레이 2026년 2분기 실적발표 컨퍼런스콜 전문",
@@ -2315,16 +4630,6 @@
         "link": "http://www.thebigdata.co.kr/view.php?ud=2026072212501226670ecbf9426b_23"
     },
     {
-        "title": "[포토] 취재진 질문에 답하는 이청 삼성D 사장",
-        "date": "2026-07-22 13:36",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3418943"
-    },
-    {
-        "title": "[포토] 이청 삼성D 사장에게 쏠린 눈",
-        "date": "2026-07-22 13:36",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3418942"
-    },
-    {
         "title": "정철동 하반기가 승부…LGD, 연간 흑자 확대 자신감",
         "date": "2026-07-22 13:36",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166249"
@@ -2343,11 +4648,6 @@
         "title": "이청 삼성D 사장 하반기 칩플레이션 더 힘들다",
         "date": "2026-07-22 13:28",
         "link": "https://n.news.naver.com/mnews/article/029/0003038268?sid=101"
-    },
-    {
-        "title": "발언하는 이청 삼성디스플레이 대표이사 사장",
-        "date": "2026-07-22 13:27",
-        "link": "https://n.news.naver.com/mnews/article/001/0016208185?sid=101"
     },
     {
         "title": "LGD, 2분기 적자에도 웃는 이유…OLED 수익성은 개선",
@@ -2373,11 +4673,6 @@
         "title": "'칩플레이션' 부담 커진 디스플레이…삼성D·LGD 하반기 총력",
         "date": "2026-07-22 13:18",
         "link": "https://n.news.naver.com/mnews/article/001/0016208179?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 희망퇴직 비용 반영에 2분기 적자",
-        "date": "2026-07-22 13:18",
-        "link": "https://news.dealsitetv.com/articles/173586"
     },
     {
         "title": "애플, 9월 가격 인상하고 '아이폰 임대' 출시",
@@ -2720,11 +5015,6 @@
         "link": "https://www.itbiznews.com/news/articleView.html?idxno=219730"
     },
     {
-        "title": "삼성전자, 폴더블 3종 시대 개막…XR까지 갤럭시 영토 넓힌다",
-        "date": "2026-07-22 11:00",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92536"
-    },
-    {
         "title": "삼성전자, 폴더블 점유율 32%로 낮아져도 1위…애플 첫 진출에 시장 재...",
         "date": "2026-07-22 10:58",
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=534443"
@@ -2763,11 +5053,6 @@
         "title": "게이밍 OLED모니터 시장 의미있는 성장 전망-LGD 컨콜",
         "date": "2026-07-22 10:50",
         "link": "https://n.news.naver.com/mnews/article/018/0006334544?sid=101"
-    },
-    {
-        "title": "삼성, 14년 만에 런던에서 언팩…‘4대3 비율’ 폴더블폰 시대 개막",
-        "date": "2026-07-22 10:49",
-        "link": "https://n.news.naver.com/mnews/article/016/0002673286?sid=105"
     },
     {
         "title": "[컨콜] LG디스플레이 “OLED 모니터 출하 비중 20%까지 확대 전망”",
@@ -2818,11 +5103,6 @@
         "title": "LG디스플레이, 'K-디스플레이 2026'서 OLED 혁신 기술 대거 공개",
         "date": "2026-07-22 10:40",
         "link": "http://www.queen.co.kr/news/articleView.html?idxno=460613"
-    },
-    {
-        "title": "롯데하이마트 두정점, '갤럭시 폴더블8 시리즈' 사전예약 돌입…매장 단...",
-        "date": "2026-07-22 10:40",
-        "link": "https://www.gosiweek.com/article/1065576913254923"
     },
     {
         "title": "LG디스플레이, 휴머노이드용 OLED 국내 첫선",
@@ -2885,11 +5165,6 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004643889?sid=101"
     },
     {
-        "title": "삼성 갤럭시 언팩, 어떤 모습 담길까…스파이더맨과 함께하는 '폴드·플...",
-        "date": "2026-07-22 10:26",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190012"
-    },
-    {
         "title": "LG디스플레이, 일회성 비용에 3개 분기 만에 적자 전환",
         "date": "2026-07-22 10:26",
         "link": "https://n.news.naver.com/mnews/article/293/0000087903?sid=101"
@@ -2928,11 +5203,6 @@
         "title": "LG디스플레이, K-디스플레이 2026 참가…휴머노이드용 P-OLED 국내 최초 ...",
         "date": "2026-07-22 10:20",
         "link": "http://www.lawissue.co.kr/view.php?ud=2026072210183194019817d053b9_12"
-    },
-    {
-        "title": "삼성, '갤럭시 Z 폴드8·플립8' 7월 22일 런던서 첫 공개",
-        "date": "2026-07-22 10:20",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=590887"
     },
     {
         "title": "삼성·LG디스플레이, ‘K-디스플레이 2026’ 참가…첨단 OLED 기술력 선봬",
@@ -3060,11 +5330,6 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006334496?sid=101"
     },
     {
-        "title": "삼성, 런던서 '갤럭시 Z 폴드8' 공개...스마트글래스도 첫선",
-        "date": "2026-07-22 10:02",
-        "link": "https://www.cwn.kr/news/articleView.html?idxno=50847"
-    },
-    {
         "title": "LG디스플레이, 상반기 흑자 전환...OLED 사업 구조 고도화",
         "date": "2026-07-22 10:02",
         "link": "https://n.news.naver.com/mnews/article/092/0002431365?sid=105"
@@ -3083,6 +5348,11 @@
         "title": "OLED, 스마트폰 넘어 AI·휴머노이드로…'K-디스플레이 2026' 개막",
         "date": "2026-07-22 10:01",
         "link": "https://n.news.naver.com/mnews/article/031/0001043839?sid=105"
+    },
+    {
+        "title": "삼성D, 'K-디스플레이' 참가…미래차·AI·게이밍 OLED 혁신 선봬",
+        "date": "2026-07-22 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717222"
     },
     {
         "title": "삼성D, K-디스플레이서 車·AI·게이밍 아우르는 차세대 OLED 대거 공개",
@@ -3113,6 +5383,11 @@
         "title": "TV 넘어 휴머노이드까지…LGD, 차세대 OLED 풀라인업 공개",
         "date": "2026-07-22 10:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005389075?sid=101"
+    },
+    {
+        "title": "로봇 얼굴에 Hello…삼성D·LGD, K-디스플레이서 '휴머노이드용 디스플...",
+        "date": "2026-07-22 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005792903?sid=101"
     },
     {
         "title": "LGD, K-디스플레이서 휴머노이드용 P-OLED 솔루션 첫 공개",
@@ -3190,16 +5465,6 @@
         "link": "https://n.news.naver.com/mnews/article/421/0009071915?sid=101"
     },
     {
-        "title": "삼성전자, 런던서 '갤럭시 언팩'… 폴더블 3종·첫 스마트글래스 공개",
-        "date": "2026-07-22 09:44",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3418852"
-    },
-    {
-        "title": "삼성, 폴더블 3종 시대 연다…런던 언팩서 폴드8·스마트글래스 공개",
-        "date": "2026-07-22 09:42",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=551696"
-    },
-    {
         "title": "차세대 디스플레이 게임 체인저… 코세스, 마이크로 LED 장비 시장서 두...",
         "date": "2026-07-22 09:40",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470385"
@@ -3220,11 +5485,6 @@
         "link": "https://www.ajunews.com/view/20260722092949594"
     },
     {
-        "title": "삼성, 오늘 런던 언팩…폴드8·첫 스마트글래스 공개",
-        "date": "2026-07-22 09:29",
-        "link": "https://n.news.naver.com/mnews/article/055/0001374399?sid=101"
-    },
-    {
         "title": "제프리스 메타, 스마트 안경 최대 180억 달러 매출 기회",
         "date": "2026-07-22 09:28",
         "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426148"
@@ -3240,11 +5500,6 @@
         "link": "https://www.ajunews.com/view/20260722084650457"
     },
     {
-        "title": "삼성전자, 英 런던서 갤럭시 언팩 개최…갤럭시 Z8'·스마트글래스 공개",
-        "date": "2026-07-22 09:20",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=223441"
-    },
-    {
         "title": "글로벌 폴더블폰 시장 21% 성장 전망…셋 중 하나는 삼성",
         "date": "2026-07-22 09:19",
         "link": "https://n.news.naver.com/mnews/article/421/0009071818?sid=105"
@@ -3253,11 +5508,6 @@
         "title": "삼성, 오늘 밤 런던 언팩…폴드 ‘울트라’ 첫선·AI 글라스 예고",
         "date": "2026-07-22 09:11",
         "link": "https://n.news.naver.com/mnews/article/117/0004087205?sid=105"
-    },
-    {
-        "title": "삼성 폴더블 대전환 예고…'갤럭시Z 신작 3종' 공개[갤럭시 런던 언팩]",
-        "date": "2026-07-22 09:00",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026072200530850466"
     },
     {
         "title": "'역대 가장 큰 아이폰' 온다…애플, 20주년 기념 모델에 7인치 디스플레...",
@@ -3285,11 +5535,6 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003038189?sid=101"
     },
     {
-        "title": "여권을 펼치듯…삼성, Z 폴드8로 폴더블 폼팩터 새판 짠다",
-        "date": "2026-07-22 08:40",
-        "link": "https://n.news.naver.com/mnews/article/417/0001152451?sid=105"
-    },
-    {
         "title": "애플, 애플워치 특허소송 판결 뒤집기 실패… 9,395억 원 배상 위기",
         "date": "2026-07-22 08:38",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545959"
@@ -3300,49 +5545,9 @@
         "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264803"
     },
     {
-        "title": "갤럭시 언팩 D-1 미리보기…런던서 베일 벗는 '와이드 폴드'",
-        "date": "2026-07-22 08:24",
-        "link": "https://n.news.naver.com/mnews/article/031/0001043801?sid=105"
-    },
-    {
-        "title": "갤럭시 언팩의 날 밝았다…런던서 '폴드8·플립8·스마트글래스' 전격 공...",
-        "date": "2026-07-22 08:14",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267391"
-    },
-    {
-        "title": "갤럭시 플립 OOO만원...삼성 '폴드8' 출고가 유출 (+라인업)",
-        "date": "2026-07-22 08:12",
-        "link": "https://www.ajunews.com/view/20260722075848337"
-    },
-    {
         "title": "삼성, 오늘 런던 언팩…폴더블 3종·AI 안경까지 ‘AI 생태계’ 승부수...",
         "date": "2026-07-22 07:56",
         "link": "https://www.etoday.co.kr/news/view/2605912"
-    },
-    {
-        "title": "삼성전자, 런던에서 '폴더블 3종' 대공개…갤럭시 Z 폴드 8 울트라 주목...",
-        "date": "2026-07-22 07:50",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=872717"
-    },
-    {
-        "title": "[이슈체크] 삼성전자, 오늘 런던 언팩…하반기 실적 반등 기회?",
-        "date": "2026-07-22 07:44",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=205927"
-    },
-    {
-        "title": "삼성전자 오늘 런던서 언팩, '폴드8 울트라·첫 스마트글래스 공개...이...",
-        "date": "2026-07-22 07:44",
-        "link": "https://www.public25.com/news/articleView.html?idxno=51153"
-    },
-    {
-        "title": "삼성 차세대 폴더블폰, 오늘밤 공개된다…런던서 '갤럭시 언팩'[모닝폰...",
-        "date": "2026-07-22 07:42",
-        "link": "https://n.news.naver.com/mnews/article/018/0006334294?sid=105"
-    },
-    {
-        "title": "[르포]삼성, 14년 만의 런던 언팩…올드 빌링스게이트 선택한 이유",
-        "date": "2026-07-22 07:42",
-        "link": "https://n.news.naver.com/mnews/article/277/0005792754?sid=105"
     },
     {
         "title": "삼성D 폴더블 패널, 영하 20도·쇠구슬 강타도 견뎌",
@@ -3350,23 +5555,8 @@
         "link": "https://n.news.naver.com/mnews/article/031/0001043798?sid=105"
     },
     {
-        "title": "삼성전자, 오늘 밤 갤럭시 '언팩'…울트라 첫 투입·AI 스마트글래스 공...",
-        "date": "2026-07-22 07:34",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717212"
-    },
-    {
         "title": "'갤럭시 언팩' D-DAY…'와이드·가격'에 애플도 관심집중",
         "date": "2026-07-22 07:16",
         "link": "https://www.newspim.com/news/view/20260722000035"
-    },
-    {
-        "title": "삼성전자의 첫 스마트글래스·폴드8…오늘 밤 런던 언팩서 공개",
-        "date": "2026-07-22 07:03",
-        "link": "https://n.news.naver.com/mnews/article/015/0005312373?sid=101"
-    },
-    {
-        "title": "삼성전자, 런던서 '갤럭시 언팩 2026'…폴더블 3종·첫 스마트글래스 공...",
-        "date": "2026-07-22 07:00",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=753251"
     }
 ]
