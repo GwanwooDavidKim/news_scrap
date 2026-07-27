@@ -1,5 +1,865 @@
 [
     {
+        "title": "삼성전자, 여권형 폴드로 선공…하반기 애플과 정면승부",
+        "date": "2026-07-27 16:00",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=741656"
+    },
+    {
+        "title": "LCD는 중국에 내줬지만…한국은 OLED로 승부수",
+        "date": "2026-07-27 15:56",
+        "link": "https://n.news.naver.com/mnews/article/031/0001045091?sid=105"
+    },
+    {
+        "title": "코스피 IPO 물꼬…SFC, 상장 예비심사 신청",
+        "date": "2026-07-27 15:44",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712789?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 등 사전 판매 시작",
+        "date": "2026-07-27 15:40",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120092"
+    },
+    {
+        "title": "애플, 내년 6월 첫 스마트안경 공개",
+        "date": "2026-07-27 15:35",
+        "link": "https://n.news.naver.com/mnews/article/629/0000519337?sid=105"
+    },
+    {
+        "title": "삼성 폴드8 울트라, 28일 사전판매 돌입",
+        "date": "2026-07-27 15:28",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661249"
+    },
+    {
+        "title": "주름 펴고 배터리 늘리고...‘접는 폰’ 원조 삼성, 8세대서 소재부터 ...",
+        "date": "2026-07-27 15:27",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712780?sid=105"
+    },
+    {
+        "title": "'메이드 인 코리아' 스마트폰은 감소…핵심 부품은 여전히 한국산",
+        "date": "2026-07-27 15:22",
+        "link": "https://n.news.naver.com/mnews/article/031/0001045063?sid=101"
+    },
+    {
+        "title": "벤큐 조위, 'PUBG 성수'서 차세대 XQ 시리즈 게이밍 모니터 선보여",
+        "date": "2026-07-27 15:12",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60129"
+    },
+    {
+        "title": "삼성·LG, 게이밍 모니터 '화질·속도·AI' 격돌…프리미엄 시장 경쟁 가...",
+        "date": "2026-07-27 15:10",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6937003"
+    },
+    {
+        "title": "삼성전자, 갤Z8 시리즈 사전판매 돌입…혜택 '빵빵'",
+        "date": "2026-07-27 15:06",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1395514"
+    },
+    {
+        "title": "애플, 내년 6월 첫 스마트 안경 공개…사생활 논란에 '카메라 뺀 안경...",
+        "date": "2026-07-27 15:00",
+        "link": "https://n.news.naver.com/mnews/article/448/0000629648?sid=104"
+    },
+    {
+        "title": "에스에프씨, 코스피 상장예비심사 청구",
+        "date": "2026-07-27 14:48",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46548"
+    },
+    {
+        "title": "삼성 8세대 폴더블폰 사전판매 시작… 방미통위 과장광고 주의",
+        "date": "2026-07-27 14:46",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3420192"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 사전 판매 돌입…'더블 스토리지' 등...",
+        "date": "2026-07-27 14:44",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=714700"
+    },
+    {
+        "title": "에스에프씨, 코스피 상장예심 신청…IPO 절차 착수",
+        "date": "2026-07-27 14:41",
+        "link": "https://www.newspim.com/news/view/20260727001000"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z8 시리즈’ 사전 판매 개시…폴드8 울트라 첫 선",
+        "date": "2026-07-27 14:40",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065583696626274"
+    },
+    {
+        "title": "애플, 내년 6월 첫 'AI 안경' 선보인다",
+        "date": "2026-07-27 14:37",
+        "link": "https://n.news.naver.com/mnews/article/003/0014090614?sid=105"
+    },
+    {
+        "title": "게임 캐릭터 입히고 화면 맞춘다···게임사·삼성전자, 협업 확대",
+        "date": "2026-07-27 14:28",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422680"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 사전판매…폴드8 울트라 257만원부터",
+        "date": "2026-07-27 14:24",
+        "link": "http://www.metroseoul.co.kr/article/20260727500327"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8 시리즈' 사전 판매 시작…'더블 스토리지' 혜택 준...",
+        "date": "2026-07-27 14:18",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89250"
+    },
+    {
+        "title": "[영상] 삼성 8세대 폴더블 '뉴 폼팩터' 등장···애플 첫 폴더블과 맞대...",
+        "date": "2026-07-27 14:18",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422671"
+    },
+    {
+        "title": "울트라·폴드·플립…나만의 폴더블 찾는 사람들 [현장에서]",
+        "date": "2026-07-27 14:18",
+        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202998"
+    },
+    {
+        "title": "애플 보다 먼저! 4:3 비율로 바뀐 갤럭시 Z 폴드8, 핵심만 사용해보니",
+        "date": "2026-07-27 14:18",
+        "link": "https://kbench.com/?q=node/280686"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z시리즈 28일부터 사전 판매…8세대 폴더블 3종 출격",
+        "date": "2026-07-27 14:16",
+        "link": "https://www.socialvalue.kr/news/view/1065580303944481"
+    },
+    {
+        "title": "[단독] 삼성전자의 역발상…‘중국칩’으로 현지 모바일 시장 뚫는다",
+        "date": "2026-07-27 14:16",
+        "link": "https://www.asiatime.co.kr/article/20260727500259"
+    },
+    {
+        "title": "스마트 워치가 측정한 칼로리, 운동별 오차 최대 151.66%",
+        "date": "2026-07-27 14:08",
+        "link": "https://www.hellot.net/news/article.html?no=114010"
+    },
+    {
+        "title": "삼성전자 Z8, 7년 폴더블 노하우 집약…플렉스 티타늄으로 주름·내구...",
+        "date": "2026-07-27 13:56",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009434"
+    },
+    {
+        "title": "애플, 'AI 스마트 안경' 공개 내년으로",
+        "date": "2026-07-27 13:49",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523900?sid=101"
+    },
+    {
+        "title": "11번가, 갤럭시 Z 폴드8·플립8 사전판매 돌입…23회 라이브방송 진행",
+        "date": "2026-07-27 13:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=535564"
+    },
+    {
+        "title": "256GB 사면 512GB로…삼성전자, 8세대 폴더블·워치28일 사전판매 시작",
+        "date": "2026-07-27 13:40",
+        "link": "https://www.cnet.co.kr/view/?no=20260727133812"
+    },
+    {
+        "title": "OLED 관련주 에스에프씨, 코스피 상장 출사표",
+        "date": "2026-07-27 13:40",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=20584"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8’ 시리즈· ‘플립8’ 사전판매 돌입",
+        "date": "2026-07-27 13:39",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712680?sid=105"
+    },
+    {
+        "title": "애플, 내년 6월 첫 스마트 안경 공개… 메타 추격 나선다",
+        "date": "2026-07-27 13:38",
+        "link": "https://n.news.naver.com/mnews/article/366/0001182189?sid=105"
+    },
+    {
+        "title": "애플워치12·울트라4 막바지 테스트…성능 강화 초점",
+        "date": "2026-07-27 13:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432011?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블 '아이폰 울트라' 온다…핵심 포인트 6가지",
+        "date": "2026-07-27 13:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687221"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 시리즈' 사전 판매 시작",
+        "date": "2026-07-27 13:24",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000052534"
+    },
+    {
+        "title": "삼성전자, 히트펌프 실증 확대·갤럭시 Z8 출시…미래시장 공략 본격화",
+        "date": "2026-07-27 13:22",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=711703"
+    },
+    {
+        "title": "4K에 240Hz 주사율까지.. 한성컴퓨터, 4세대 QD-OLED 게이밍 모니터 출...",
+        "date": "2026-07-27 13:21",
+        "link": "https://m.sports.naver.com/esports/article/442/0000194802"
+    },
+    {
+        "title": "[전자 레이더] 삼성전자, '갤럭시 Z8 사전판매·EHS 실증'…LG전자, '엔비...",
+        "date": "2026-07-27 13:14",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200326"
+    },
+    {
+        "title": "[갤럭시 언팩] 더 얇고 오래 쓴다…삼성, 8세대 폴더블 하드웨어 혁신",
+        "date": "2026-07-27 13:12",
+        "link": "https://www.ajunews.com/view/20260727104733919"
+    },
+    {
+        "title": "LG디스플레이 OLED 기술 유출…전 직원 실형",
+        "date": "2026-07-27 13:08",
+        "link": "https://www.naeil.com/news/read/596703?ref=naver"
+    },
+    {
+        "title": "삼성전자, 28일부터 갤럭시 Z 폴드8·워치9 사전판매 돌입…어떤 혜택 있...",
+        "date": "2026-07-27 12:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546133"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8'과 '갤럭시 워치 울트...",
+        "date": "2026-07-27 11:56",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104692"
+    },
+    {
+        "title": "애플 이르면 내년 6월 첫 스마트 안경 공개",
+        "date": "2026-07-27 11:55",
+        "link": "https://n.news.naver.com/mnews/article/023/0003989825?sid=105"
+    },
+    {
+        "title": "애플워치 시리즈12, 디자인 변화 없다…새 칩으로 성능 향상 초점",
+        "date": "2026-07-27 11:52",
+        "link": "https://kbench.com/?q=node/280674"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전 판매… '더블 스토리지' 혜택 제...",
+        "date": "2026-07-27 11:32",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309692"
+    },
+    {
+        "title": "삼성전자, 차세대 ‘롤러블폰’ 상용화 속도",
+        "date": "2026-07-27 11:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002675593?sid=105"
+    },
+    {
+        "title": "내 얼굴 찍고 있나? 폭발한 공포…결국 출시 미뤘다",
+        "date": "2026-07-27 11:31",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375634?sid=101"
+    },
+    {
+        "title": "내일부터 폴드·플립8 사전판매…특별 색상은 온라인·강남에서만",
+        "date": "2026-07-27 11:26",
+        "link": "https://n.news.naver.com/mnews/article/079/0004172292?sid=101"
+    },
+    {
+        "title": "[갤럭시Z 언팩 2026] 주름은 펴고 배터리는 늘리고…갤럭시 Z8에 담긴...",
+        "date": "2026-07-27 11:26",
+        "link": "https://dealsite.co.kr/articles/165986"
+    },
+    {
+        "title": "애플 AI 스마트 글래스 2027년 나오나.. WWDC서 공개 전망",
+        "date": "2026-07-27 11:26",
+        "link": "https://kbench.com/?q=node/280673"
+    },
+    {
+        "title": "라인업 재편한 갤럭시 Z 폴드·플립, 삼성 폴더블폰 시장 패권 되돌리나",
+        "date": "2026-07-27 11:24",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=360866"
+    },
+    {
+        "title": "싸이번, 티코마스 한국시장 론칭 … 디스플레이 수랭쿨러 5종·리버스 쿨...",
+        "date": "2026-07-27 11:24",
+        "link": "https://www.thisisgame.com/articles/428206"
+    },
+    {
+        "title": "애플, 내년 6월 첫 스마트 안경 공개…개인정보 보호, 최대 과제",
+        "date": "2026-07-27 11:20",
+        "link": "https://www.etoday.co.kr/news/view/2607758"
+    },
+    {
+        "title": "삼성전자, 폴더블에 '울트라' 더했다…갤럭시 Z 8세대 28일 사전판매 돌...",
+        "date": "2026-07-27 11:18",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92635"
+    },
+    {
+        "title": "[게임+]갤럭시 폴더블 출시에 게임업계 컬래버 행렬",
+        "date": "2026-07-27 11:16",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=114653"
+    },
+    {
+        "title": "4.1㎜ 초슬림 폴더블폰의 딜레마…삼성 다음은 카툭튀 해결",
+        "date": "2026-07-27 11:06",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298256"
+    },
+    {
+        "title": "갤럭시Z폴드8·플립8 사전판매 시작…8월 7일 국내 출시",
+        "date": "2026-07-27 11:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431995?sid=105"
+    },
+    {
+        "title": "‘연내 출시’ 삼성보다 한 발 늦은 애플…AI 글래스 내년 베일 벗는다",
+        "date": "2026-07-27 11:05",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712594?sid=101"
+    },
+    {
+        "title": "삼성전자, 28일부터 '갤럭시 Z8' 시리즈 사전 판매",
+        "date": "2026-07-27 11:04",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044716"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매…AI 구독 혜택 강화",
+        "date": "2026-07-27 11:04",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=551845"
+    },
+    {
+        "title": "삼성전자, 폴더블8 사전 판매…반납 보상·분실 보장까지 묶었다",
+        "date": "2026-07-27 11:00",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=240604"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 폴더블 게임 한계 넘을까..넥슨·넷마블 협업 확대",
+        "date": "2026-07-27 11:00",
+        "link": "https://kpenews.com/View.aspx?No=4163042"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드·플립8' 내일부터 사전판매",
+        "date": "2026-07-27 10:54",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205550"
+    },
+    {
+        "title": "멕시코 자동차 전조등 시장동향",
+        "date": "2026-07-27 10:52",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=242812"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 시리즈 28일부터 사전판매…내달 7일 국내 출...",
+        "date": "2026-07-27 10:50",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307710"
+    },
+    {
+        "title": "삼성전자, 'New 갤럭시 AI 구독클럽' 출시… 1020 맞춤 혜택 강화",
+        "date": "2026-07-27 10:44",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309673"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·갤럭시 워치9 등 사전 판매···8월 7일 공식...",
+        "date": "2026-07-27 10:42",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=149456"
+    },
+    {
+        "title": "“하나의 폴더블 정답일 수 없어”…7년 혁신 담은 하드웨어 승부수",
+        "date": "2026-07-27 10:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0003039055?sid=105"
+    },
+    {
+        "title": "삼성전자, 28일 폴더블 신작 3종 사전 판매 시작",
+        "date": "2026-07-27 10:40",
+        "link": "https://n.news.naver.com/mnews/article/029/0003039053?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 시리즈·Z플립8·워치 시리즈' 사전 판매",
+        "date": "2026-07-27 10:36",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123557"
+    },
+    {
+        "title": "애플도 AI 스마트안경 승부수…내년 WWDC서 첫 공개 전망",
+        "date": "2026-07-27 10:36",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=905272"
+    },
+    {
+        "title": "애플, 내년 스마트안경 공개…사생활 침해 우려에 연기",
+        "date": "2026-07-27 10:35",
+        "link": "https://n.news.naver.com/mnews/article/025/0003540339?sid=104"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 울트라 등 신제품 사전판매…최고가 345만원",
+        "date": "2026-07-27 10:32",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417612"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 사전 판매…더블 스토리지 지원",
+        "date": "2026-07-27 10:28",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1308275&inflow=N"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8·웨어러블 사전 판매 시작 … 구독·보...",
+        "date": "2026-07-27 10:20",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87177"
+    },
+    {
+        "title": "삼성전자, 생활가전·모바일 신제품 사업 본격화",
+        "date": "2026-07-27 10:19",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738101"
+    },
+    {
+        "title": "애플워치 칼로리, 믿었는데…정확한 수치 아니었다",
+        "date": "2026-07-27 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687141"
+    },
+    {
+        "title": "엡손, 국내 스타트업 고산테크에 추가 투자…잉크젯 기술 협력 강화",
+        "date": "2026-07-27 10:16",
+        "link": "https://n.news.naver.com/mnews/article/030/0003451179?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매…내달 7일 출시",
+        "date": "2026-07-27 10:14",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=145095"
+    },
+    {
+        "title": "삼성전자, 신제품 갤럭시 Z 시리즈·워치 사전 판매 개시",
+        "date": "2026-07-27 10:08",
+        "link": "http://www.breaknews.com/1224488"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라' 등 신제품 5종 사전판매 실시",
+        "date": "2026-07-27 10:06",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1714"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 울트라·폴드8 등 사전 판매 시작",
+        "date": "2026-07-27 10:06",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=114644"
+    },
+    {
+        "title": "삼성, 갤럭시 Z8 시리즈·워치 사전 판매…'더블 스토리지' 할인 혜택",
+        "date": "2026-07-27 10:05",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794907?sid=105"
+    },
+    {
+        "title": "이노테크, 폴더블 OLED 내구성·신뢰성 시험 장비 'K-디스플레이 어워드...",
+        "date": "2026-07-27 10:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003451159?sid=105"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z' 28일부터 7일간 사전판매 돌입",
+        "date": "2026-07-27 09:56",
+        "link": "https://www.newstree.kr/newsView/ntr202607270005"
+    },
+    {
+        "title": "[모바일 온에어] 미국보다 20% 싸다…갤럭시 Z8·워치 사전판매",
+        "date": "2026-07-27 09:54",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088131?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·플립8' 사전 판매 개시",
+        "date": "2026-07-27 09:52",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256437"
+    },
+    {
+        "title": "‘스마트폰 300만원 시대’ 정식 출시 앞둔 ‘갤럭시 Z 폴드8·플립8’ ...",
+        "date": "2026-07-27 09:52",
+        "link": "https://n.news.naver.com/mnews/article/144/0001128309?sid=105"
+    },
+    {
+        "title": "삼성, '폴드8' 사전판매 돌입…AI 구독·반값 업그레이드 승부수",
+        "date": "2026-07-27 09:51",
+        "link": "https://n.news.naver.com/mnews/article/421/0009080277?sid=105"
+    },
+    {
+        "title": "삼성 폴더블 신제품 사전판매 28일 시작…워치9·울트라2도 출격",
+        "date": "2026-07-27 09:49",
+        "link": "https://n.news.naver.com/mnews/article/666/0000116713?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈·워치 사전 판매…168만원부터",
+        "date": "2026-07-27 09:46",
+        "link": "https://n.news.naver.com/mnews/article/417/0001153138?sid=105"
+    },
+    {
+        "title": "[삼성전자] 폴더블폰 사전판매 / 공동주택 히트펌프 실증",
+        "date": "2026-07-27 09:46",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2245722"
+    },
+    {
+        "title": "삼성전자, '갤Z폴드8 울트라·폴드8·플립8·워치9' 사전 판매 시작···...",
+        "date": "2026-07-27 09:44",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452594"
+    },
+    {
+        "title": "애플, 사생활 침해 우려로 미뤘던 스마트안경 내년 6월 출시",
+        "date": "2026-07-27 09:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0003039037?sid=104"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z8 시리즈·워치9·워치 울트라2 사전 판매 시작",
+        "date": "2026-07-27 09:38",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876106"
+    },
+    {
+        "title": "카메라 뺄까 고민...애플, 첫 스마트 안경 내년 6월 공개",
+        "date": "2026-07-27 09:38",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384911?sid=104"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z 폴드8·플립8 사전 판매…소비자 관심도 급증",
+        "date": "2026-07-27 09:38",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026072709273287050ecbf9426b_23"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8 시리즈'·'워치 울트라2·워치9' 사전판매 시작",
+        "date": "2026-07-27 09:34",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251604"
+    },
+    {
+        "title": "엡손, 국내 잉크젯 스타트업 고산테크 추가 투자",
+        "date": "2026-07-27 09:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235483?sid=105"
+    },
+    {
+        "title": "[특징주] “삼성전자 폴더블폰에 소재 공급 중” 소식에…아이씨에이치...",
+        "date": "2026-07-27 09:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001182078?sid=101"
+    },
+    {
+        "title": "너무 불안하다 불만 여론...애플 스마트안경 출시 연기",
+        "date": "2026-07-27 09:31",
+        "link": "https://n.news.naver.com/mnews/article/215/0001260038?sid=105"
+    },
+    {
+        "title": "애플, 삼성·LG와 OLED 가격 협상…아이폰18 프로 맥스 패널 가격 20% 인...",
+        "date": "2026-07-27 09:30",
+        "link": "https://kbench.com/?q=node/280659"
+    },
+    {
+        "title": "더 가벼워진 8세대 폴더블…삼성 '갤럭시 Z8' 사전 판매 돌입",
+        "date": "2026-07-27 09:30",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=475823"
+    },
+    {
+        "title": "애플 스마트 글래스 공개 내년 연기···삼성보다 한발 늦은 AI 안경 경...",
+        "date": "2026-07-27 09:30",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=149432"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 사전 판매 시작",
+        "date": "2026-07-27 09:28",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83675"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 사전판매…'더블 스토리지'·AI...",
+        "date": "2026-07-27 09:28",
+        "link": "https://www.public25.com/news/articleView.html?idxno=51464"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z 사전판매 개시…512GB 용량 무료 UP",
+        "date": "2026-07-27 09:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004645480?sid=101"
+    },
+    {
+        "title": "애플, 첫 스마트안경 사생활 침해 우려 내년 6월 공개",
+        "date": "2026-07-27 09:27",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523814?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 사전판매 돌입…AI 구...",
+        "date": "2026-07-27 09:26",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=41170"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 사전판매 돌입",
+        "date": "2026-07-27 09:26",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=41635"
+    },
+    {
+        "title": "삼성전자 새로워진 8세대 폴더블폰 만나보세요…갤럭시 Z 사전 판매",
+        "date": "2026-07-27 09:24",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270377"
+    },
+    {
+        "title": "삼성전자, 28일부터 폴더블 8세대 사전판매…저장용량 확대 혜택 제공",
+        "date": "2026-07-27 09:24",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=80049"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 시리즈'·'차세대 워치' 사전판매…내달 7일 공식 ...",
+        "date": "2026-07-27 09:24",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267901"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z폴드8·플립8’ 사전 판매 시작…내달 7일 공식 출...",
+        "date": "2026-07-27 09:22",
+        "link": "https://n.news.naver.com/mnews/article/016/0002675370?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 사전판매 시작…폴더블시장 공략 본격화",
+        "date": "2026-07-27 09:21",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098148"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z8 시리즈 사전판매…용량 업그레이드 혜택",
+        "date": "2026-07-27 09:20",
+        "link": "https://www.g-enews.com/view.php?ud=20260727090950158227fa31d75c_1"
+    },
+    {
+        "title": "애플 스마트글래스, 내년 WWDC서 공개…메타와 달리 카메라 뺀다?",
+        "date": "2026-07-27 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687079"
+    },
+    {
+        "title": "삼성 갤럭시 Z8·워치9 시리즈, 28일부터 사전 판매",
+        "date": "2026-07-27 09:16",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1389523"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8·워치울트라2·워치9' 사전 판매 돌입",
+        "date": "2026-07-27 09:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687108"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매…8월 7일 출시",
+        "date": "2026-07-27 09:15",
+        "link": "https://www.newspim.com/news/view/20260727000076"
+    },
+    {
+        "title": "애플, 내년 6월 첫 스마트안경 공개…사생활 침해 우려에 지연",
+        "date": "2026-07-27 09:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016215913?sid=104"
+    },
+    {
+        "title": "‘여권 크기’ 와이드 폼팩터 입은 ‘갤럭시 Z 폴드8’⋯ 11번가 사전판...",
+        "date": "2026-07-27 09:14",
+        "link": "https://www.viva100.com/article/20260727500137"
+    },
+    {
+        "title": "[시대포토] 신세계센텀시티, 갤럭시 폴더블폰 신제품 팝업",
+        "date": "2026-07-27 09:04",
+        "link": "https://n.news.naver.com/mnews/article/417/0001153120?sid=102"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8 시리즈' 사전 판매",
+        "date": "2026-07-27 09:02",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070379"
+    },
+    {
+        "title": "삼성전자 '폴드8·플립8' 사전판매…더블스토리지 등 혜택 풍성",
+        "date": "2026-07-27 09:02",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848385"
+    },
+    {
+        "title": "이엠앤아이, 국내 유일 인도 중수 수출 허가 획득…실적 개선 모멘텀 확...",
+        "date": "2026-07-27 09:02",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391217?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8·플립8’ 28일부터 사전 판매",
+        "date": "2026-07-27 08:57",
+        "link": "https://n.news.naver.com/mnews/article/117/0004088719?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 사전판매 시작",
+        "date": "2026-07-27 08:56",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46522"
+    },
+    {
+        "title": "2세대 갤럭시Z 트라이폴드, 2027년 본격 출격? 글로벌 출시 가능성",
+        "date": "2026-07-27 08:54",
+        "link": "https://kbench.com/?q=node/280657"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z 폴드8 시리즈 사전 판매 시작…228만원부터",
+        "date": "2026-07-27 08:52",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426922"
+    },
+    {
+        "title": "에스에프씨, 코스피 상장예비심사 신청서 제출",
+        "date": "2026-07-27 08:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006337261?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z8·워치9’ 사전 판매 시작…8월 7일 공식 출시",
+        "date": "2026-07-27 08:50",
+        "link": "https://www.viva100.com/article/20260727500102"
+    },
+    {
+        "title": "삼성, 갤Z8 시리즈·워치 사전 판매 시작…'더블 스토리지' 할인 혜택",
+        "date": "2026-07-27 08:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0014089224?sid=105"
+    },
+    {
+        "title": "애플, WWDC 2027서 스마트안경 공개…몰카방지 강조",
+        "date": "2026-07-27 08:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431933?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8 시리즈’ 사전 판매 시작",
+        "date": "2026-07-27 08:42",
+        "link": "https://n.news.naver.com/mnews/article/082/0001391364?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8·워치9 사전판매⋯‘더블 스토리지’ 제공",
+        "date": "2026-07-27 08:40",
+        "link": "https://www.etoday.co.kr/news/view/2607594"
+    },
+    {
+        "title": "이엠앤아이, 인도 중수 수출허가 확보…밸류파인더 하반기 흑자전환 기...",
+        "date": "2026-07-27 08:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1389477"
+    },
+    {
+        "title": "삼성 ‘갤럭시 Z8’ 28일부터 사전판매…168만원부터",
+        "date": "2026-07-27 08:38",
+        "link": "https://n.news.naver.com/mnews/article/119/0003115039?sid=105"
+    },
+    {
+        "title": "갤럭시 8세대 폴더블폰·워치9 사전 판매 시작",
+        "date": "2026-07-27 08:37",
+        "link": "https://n.news.naver.com/mnews/article/422/0000889166?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 사전판매 돌입 … '더블 스토리지'·AI 구독 혜택",
+        "date": "2026-07-27 08:34",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700031.html"
+    },
+    {
+        "title": "7월 24일 주식시장 주요공시",
+        "date": "2026-07-27 08:34",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=126583"
+    },
+    {
+        "title": "삼성, 갤럭시 Z 폴드8·플립8 28일부터 사전판매…더블 스토리지 제공",
+        "date": "2026-07-27 08:34",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391194?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매…더블 스토리지 제공",
+        "date": "2026-07-27 08:32",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441846"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드8·플립8 사전판매…더블 스토리지 혜택 제공",
+        "date": "2026-07-27 08:31",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=111747"
+    },
+    {
+        "title": "삼성, 갤럭시 Z8 시리즈 사전판매 시작…더블 스토리지·AI 구독 혜택 제...",
+        "date": "2026-07-27 08:30",
+        "link": "https://www.ajunews.com/view/20260727081517455"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈 사전 판매...'워치9' 할인도",
+        "date": "2026-07-27 08:28",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=754394"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z8 시리즈 내일부터 사전판매…더블 스토리지·잔존가...",
+        "date": "2026-07-27 08:28",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2115285"
+    },
+    {
+        "title": "삼성전자, 새 폴더블폰·스마트워치 사전 판매…8월 7일 공식 출시",
+        "date": "2026-07-27 08:28",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233841"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z·워치 신제품 사전판매 시작...울트라 모델 257만원...",
+        "date": "2026-07-27 08:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471655"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8·워치9' 시리즈 사전 판매…8월 7일 공식 출시",
+        "date": "2026-07-27 08:26",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607270004"
+    },
+    {
+        "title": "용량 2배업·구독 클럽까지…삼성전자, '갤럭시 Z8' 시리즈 사전 판매...",
+        "date": "2026-07-27 08:22",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83220"
+    },
+    {
+        "title": "새 폴더블폰 온다..삼성전자, 갤럭시 Z8 사전 판매 28일 시작",
+        "date": "2026-07-27 08:20",
+        "link": "https://kpenews.com/View.aspx?No=4162776"
+    },
+    {
+        "title": "[Tech &amp; Now] 삼성전자, 갤럭시 Z8 시리즈 사전판매 돌입…'더블 스토리...",
+        "date": "2026-07-27 08:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717835"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 28일 사전판매…내달 7일 출시",
+        "date": "2026-07-27 08:18",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523804?sid=101"
+    },
+    {
+        "title": "애플, 스마트안경 내년 가을 출시⋯`사생활 보호' 전략에 무게",
+        "date": "2026-07-27 08:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546116"
+    },
+    {
+        "title": "삼성전자, '갤 Z폴드8·워치9' 사전 판매…'더블 스토리지' 등 혜택 풍성",
+        "date": "2026-07-27 08:15",
+        "link": "https://n.news.naver.com/mnews/article/018/0006337216?sid=105"
+    },
+    {
+        "title": "애플, 차세대 아이패드 미니에 '방수기능' 적용한다",
+        "date": "2026-07-27 08:15",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431928?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴드8·플립8 사전판매 돌입…256GB 사면 512GB 준다",
+        "date": "2026-07-27 08:10",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264973"
+    },
+    {
+        "title": "올해 가장 주목해야 할 '시계' 라인업 25",
+        "date": "2026-07-27 08:02",
+        "link": "https://www.esquirekorea.co.kr/article/1906730"
+    },
+    {
+        "title": "문성훈 폴더블폰 만들어 쌓은 '인사이트'가 삼성의 경쟁력",
+        "date": "2026-07-27 08:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005314014?sid=101"
+    },
+    {
+        "title": "4.1㎜ 초슬림 폴더블폰의 딜레마…삼성 다음은 카툭튀 해결",
+        "date": "2026-07-27 08:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014089146?sid=105"
+    },
+    {
+        "title": "폴더블 주름 없앤 '플렉스 티타늄'...삼성 8세대에 어떤 혁신 담겼나",
+        "date": "2026-07-27 08:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794731?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 더 얇고 더 튼튼하게…폴더블 진화 이끈 '플렉스 티타늄...",
+        "date": "2026-07-27 08:00",
+        "link": "https://www.newspim.com/news/view/20260727000006"
+    },
+    {
+        "title": "머리카락 1/3 두께로 구현…삼성전자, '플렉스 티타늄'으로 폴더블 혁신",
+        "date": "2026-07-27 08:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001153097?sid=105"
+    },
+    {
+        "title": "[갤럭시 Z8 언팩]주름·배터리 족쇄 해방…완성형 폴더블 향한 7년",
+        "date": "2026-07-27 08:00",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088125?sid=101"
+    },
+    {
+        "title": "[코스피·코스닥, 삼성바이오에피스 농협금융 셀트리온 현대모비스 하나...",
+        "date": "2026-07-27 07:52",
+        "link": "https://www.public25.com/news/articleView.html?idxno=51449"
+    },
+    {
+        "title": "삼성, 갤럭시Z 사전판매 앞두고 'AI 구독클럽' 혜택 강화",
+        "date": "2026-07-27 07:28",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=754350"
+    },
+    {
+        "title": "애플 글래스, WWDC27서 공개되나…초점은 ‘사생활 보호’[모닝폰]",
+        "date": "2026-07-27 06:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006337180?sid=105"
+    },
+    {
+        "title": "OLED로 수익 개선 이어가는 LG디스플레이, 하반기 실적도 청신호",
+        "date": "2026-07-27 06:30",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=289544"
+    },
+    {
+        "title": "역대 최대 유출’에 덜미 잡힌 인도… 애플, ‘中 플러스 원’ 속도 조...",
+        "date": "2026-07-27 06:16",
+        "link": "https://www.g-enews.com/view.php?ud=2026072623484387070c8c1c064d_1"
+    },
+    {
         "title": "‘메모리값 폭등 불똥’…애플, 삼성D·LGD OLED 가격 인하 압박",
         "date": "2026-07-27 06:00",
         "link": "https://n.news.naver.com/mnews/article/029/0003038996?sid=101"
@@ -270,6 +1130,11 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471539"
     },
     {
+        "title": "삼성전자, '갤럭시 AI 구독클럽' 강화...1020 겨냥 유스 혜택 추가",
+        "date": "2026-07-26 11:08",
+        "link": "http://www.metroseoul.co.kr/article/20260726500079"
+    },
+    {
         "title": "삼성, 갤Z 사전판매 앞두고 AI 구독클럽 혜택 강화",
         "date": "2026-07-26 10:51",
         "link": "https://n.news.naver.com/mnews/article/001/0016214985?sid=105"
@@ -405,14 +1270,14 @@
         "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83176"
     },
     {
-        "title": "삼성전자, 'New 갤럭시 AI 구독클럽' 선 봬...1020 공략 유스 혜택 추가",
-        "date": "2026-07-26 08:34",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=127650"
-    },
-    {
         "title": "삼성전자, 갤럭시 Z '유스 구독' 선봬…2년 뒤 잔존가 50% 보장",
         "date": "2026-07-26 08:34",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687017"
+    },
+    {
+        "title": "삼성전자, 'New 갤럭시 AI 구독클럽' 선 봬...1020 공략 유스 혜택 추가",
+        "date": "2026-07-26 08:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=127650"
     },
     {
         "title": "애플 실적 발표 앞두고 ‘급등 신호’…최고 전망가는 340달러",
