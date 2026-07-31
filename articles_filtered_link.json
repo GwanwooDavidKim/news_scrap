@@ -1,5 +1,525 @@
 [
     {
+        "title": "애플 시리 많이쓰면 이용료 매길수도",
+        "date": "2026-07-31 15:51",
+        "link": "https://n.news.naver.com/mnews/article/422/0000891011?sid=104"
+    },
+    {
+        "title": "애플, 4~6월 역대 최대 매출…아이폰·맥이 이끌었다",
+        "date": "2026-07-31 15:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167071"
+    },
+    {
+        "title": "애플 AI 음성비서 시리 많이쓰면 이용료 매길수도",
+        "date": "2026-07-31 15:34",
+        "link": "https://n.news.naver.com/mnews/article/001/0016227158?sid=105"
+    },
+    {
+        "title": "이엠앤아이 OLED 소재·신사업으로 기업가치 회복…대표, 주주 서한 공...",
+        "date": "2026-07-31 15:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473304"
+    },
+    {
+        "title": "삼성 폴더블 신제품 사전예약서 10~30대 비중 50% 넘어",
+        "date": "2026-07-31 14:37",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183500?sid=105"
+    },
+    {
+        "title": "선익시스템, 국책은행 ‘A+’ 신용등급 획득…협력업체 금융지원 확대",
+        "date": "2026-07-31 14:30",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183497?sid=105"
+    },
+    {
+        "title": "“잘 팔리긴 했는데”… 팀 쿡은 최고 실적으로 퇴장 준비하는데 노태문...",
+        "date": "2026-07-31 14:23",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183492?sid=105"
+    },
+    {
+        "title": "애플 iOS 27, 히든 카드 있다…베타서 빠진 신기능 5가지",
+        "date": "2026-07-31 14:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688789"
+    },
+    {
+        "title": "무료 끝?…애플, AI 많이 쓰면 돈 더 받는다 '상위 요금제' 시사",
+        "date": "2026-07-31 14:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688790"
+    },
+    {
+        "title": "1030에 통한 '갤럭시 Z 폴드8'...사전예약 비중 절반 넘어서",
+        "date": "2026-07-31 14:16",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=536982"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 사전예약 일정은?... 이통 3사 '역대급 혜택' 경쟁 돌입",
+        "date": "2026-07-31 14:10",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172587"
+    },
+    {
+        "title": "삼성 갤럭시Z8 사전판매 D-3…삼성닷컴 예약 절반이 1030",
+        "date": "2026-07-31 14:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003453071?sid=105"
+    },
+    {
+        "title": "쿠키런: 크럼블, 애플 앱스토어 인기 1위·매출 3위 달성",
+        "date": "2026-07-31 13:46",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607310092"
+    },
+    {
+        "title": "애플, 2Q 매출 1094억 달러···아이폰·맥 성장에 역대 최대",
+        "date": "2026-07-31 13:45",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=634640"
+    },
+    {
+        "title": "애플, 프라이버시 역풍에 스마트 안경 공개 2027년으로 연기",
+        "date": "2026-07-31 13:40",
+        "link": "https://www.hellot.net/news/article.html?no=114119"
+    },
+    {
+        "title": "피치트리·애플트리, 아이스크림 소사이어티와 여름 한정 콜라보",
+        "date": "2026-07-31 13:28",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=90011"
+    },
+    {
+        "title": "'칩플레이션'에 골치인데…프라이버시 OLED 원가 10% 더 높다",
+        "date": "2026-07-31 12:56",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60375"
+    },
+    {
+        "title": "'폴드8 열풍'…1030세대, 새 삼성 폴더블 예약 절반 넘어",
+        "date": "2026-07-31 12:50",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=51925"
+    },
+    {
+        "title": "삼성전자, 폴더블폰·히트펌프 보일러 모바일·생활가전 경쟁력 강화",
+        "date": "2026-07-31 12:10",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738667"
+    },
+    {
+        "title": "피치트리·애플트리, 아이스크림 소사이어티와 여름 한정 콜라보레이션...",
+        "date": "2026-07-31 12:02",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243428"
+    },
+    {
+        "title": "“숏폼 보기 딱”… 삼성 폴더블, 10~30대 예약 절반 넘어",
+        "date": "2026-07-31 11:59",
+        "link": "https://n.news.naver.com/mnews/article/021/0002808324?sid=101"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 1030세대 홀렸다",
+        "date": "2026-07-31 11:49",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677923?sid=105"
+    },
+    {
+        "title": "애플 '깜짝 실적'…아이폰 역대 분기 최대 판매에 매출 1094억달러",
+        "date": "2026-07-31 11:36",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83914"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 사전판매 막바지 열기…예약 고객 절반은 1030세대",
+        "date": "2026-07-31 11:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546296"
+    },
+    {
+        "title": "예상치 뛰어넘는 실적에도...애플, 메모리 병목·공급 우려에 주가 급락",
+        "date": "2026-07-31 11:25",
+        "link": "https://n.news.naver.com/mnews/article/009/0005714866?sid=105"
+    },
+    {
+        "title": "피치트리·애플트리, 아이스크림 소사이어티와 여름 한정 콜라보 선봬",
+        "date": "2026-07-31 11:24",
+        "link": "https://www.gosiweek.com/article/1065579673833575"
+    },
+    {
+        "title": "에프제이코리아, 피치트리·애플트리 콜라보 아이스크림 출시",
+        "date": "2026-07-31 11:20",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=873633"
+    },
+    {
+        "title": "메모리 쇼크에 스마트폰 시장 '흔들'…판매 6% 감소, 삼성·애플만 웃었...",
+        "date": "2026-07-31 11:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688676"
+    },
+    {
+        "title": "갤럭시 Z 시리즈, 사전예약 고객 절반이 1030...인기 모델은 '폴드8'",
+        "date": "2026-07-31 11:08",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876669"
+    },
+    {
+        "title": "피치트리·애플트리, 아이스크림 소사이어티와 8월 한정 콜라보 진행",
+        "date": "2026-07-31 11:08",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026073110375280549aeda69934_30"
+    },
+    {
+        "title": "아이폰18 프로, 퀄컴 뗀다?…애플 자체 C2 모뎀 탑재 가능성 커졌다",
+        "date": "2026-07-31 11:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688648"
+    },
+    {
+        "title": "BTS·김선호에 런던 술집까지…벼랑 끝 삼성 '파격 승부수'",
+        "date": "2026-07-31 11:06",
+        "link": "https://n.news.naver.com/mnews/article/015/0005315981?sid=101"
+    },
+    {
+        "title": "삼성 “갤럭시Z8, 사전예약자 과반이 10~30대”",
+        "date": "2026-07-31 11:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647272?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 Z 예약 절반이 1030…폴드8·크림 색상 '인기'",
+        "date": "2026-07-31 11:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001046308?sid=105"
+    },
+    {
+        "title": "누가 아재폰이래 여권 모양 폴드 통했다…갤럭시 Z8 시리즈 사전예약...",
+        "date": "2026-07-31 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797287?sid=105"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2026-07-31 10:52",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43907"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z8 사전예약 막판 스퍼트…25만원 혜택 3일 남았다",
+        "date": "2026-07-31 10:52",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83905"
+    },
+    {
+        "title": "갤럭시Z 사전판매 D-3…예약자 절반 1030세대의 최애 색상은?",
+        "date": "2026-07-31 10:41",
+        "link": "https://n.news.naver.com/mnews/article/079/0004174224?sid=101"
+    },
+    {
+        "title": "코리아써키트 한솔테크닉스 펄펄 끓네...갤럭시 부품주, AI 스마트폰 기...",
+        "date": "2026-07-31 10:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473200"
+    },
+    {
+        "title": "애플, 부품 공급난에 실적 가이던스 시장 예상 하회…주가 6% 하락",
+        "date": "2026-07-31 10:31",
+        "link": "https://n.news.naver.com/mnews/article/008/0005393868?sid=101"
+    },
+    {
+        "title": "아이스크림 소사이어티, 피치트리·애플트리 콜라보 메뉴 8월 한 달간 선...",
+        "date": "2026-07-31 10:31",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=303874"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 사전판매 50% 1030세대…선호 모델은 여권형...",
+        "date": "2026-07-31 10:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205844"
+    },
+    {
+        "title": "복숭아·청사과가 아이스크림으로…피치트리·애플트리, 아이스크림 소...",
+        "date": "2026-07-31 10:30",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62258"
+    },
+    {
+        "title": "피치트리·애플트리, 8월 한 달간 한정판 콜라보 아이스크림 2종 출시",
+        "date": "2026-07-31 10:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404997"
+    },
+    {
+        "title": "LG전자, 국립현대미술관서 OLED 72대 '디지털 캔버스'로 활용…대형 곡면...",
+        "date": "2026-07-31 10:30",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236142?sid=105"
+    },
+    {
+        "title": "삼성 Z폴드8 흥행에…부품 엄체 파인엠텍 수혜 기대감 ↑",
+        "date": "2026-07-31 10:26",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797248?sid=101"
+    },
+    {
+        "title": "[더벨][IR Briefing] 삼성디스플레이, 8.6세대 OLED '램프업' 본격화",
+        "date": "2026-07-31 10:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301231264640106039"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 흥행 조짐…1030 예약 비중 절반 넘었다",
+        "date": "2026-07-31 10:16",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=185937"
+    },
+    {
+        "title": "여권처럼 생겼네…크기 '싹둑' 잘랐는데 MZ들 열광한 삼성폰",
+        "date": "2026-07-31 10:10",
+        "link": "https://n.news.naver.com/mnews/article/015/0005315961?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 사전판매 막판 흥행…1030세대가 폴더블 열풍 선도",
+        "date": "2026-07-31 10:09",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098344"
+    },
+    {
+        "title": "데브시스터즈 '쿠키런: 크럼블' 애플 인기 1위 올라",
+        "date": "2026-07-31 10:08",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406114"
+    },
+    {
+        "title": "TV·가전, 2분기 삼성전자 '적자' LG전자 '흑자'...왜?",
+        "date": "2026-07-31 10:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153882"
+    },
+    {
+        "title": "갤럭시 Z8 사전예약 절반이 1030…폴드8·크림색 인기",
+        "date": "2026-07-31 09:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298557"
+    },
+    {
+        "title": "삼성, 올해 하반기 갤럭시 탭 S12 시리즈 출시 공식 확인",
+        "date": "2026-07-31 09:36",
+        "link": "https://kbench.com/?q=node/280809"
+    },
+    {
+        "title": "[모바일 온에어] '폴더블 신드롬' 갤럭시 Z8, 1030 취향 저격",
+        "date": "2026-07-31 09:33",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088402?sid=101"
+    },
+    {
+        "title": "폴드8 통했다…삼성 폴더블 예약 1030 비중 절반 넘어",
+        "date": "2026-07-31 09:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0016226215?sid=105"
+    },
+    {
+        "title": "아이폰·서비스 쑥쑥…애플, 관세 환급 호재 힘입어 매출 1094억1700만 ...",
+        "date": "2026-07-31 09:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236107?sid=105"
+    },
+    {
+        "title": "1030 홀린 삼성전자 '갤럭시 Z8', 사전 예약 막바지 폭주",
+        "date": "2026-07-31 09:32",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=476151"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 사전 판매 막바지…1030 예약 비중 절반 넘어",
+        "date": "2026-07-31 09:22",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=128280"
+    },
+    {
+        "title": "LG디스플레이, OLED 승부수… 3조원 투자로 '초격차' 굳히기",
+        "date": "2026-07-31 09:18",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155669"
+    },
+    {
+        "title": "“D-3 놓칠라”…삼성 갤럭시 Z8, 1030세대 예약 열기 뜨겁다",
+        "date": "2026-07-31 09:11",
+        "link": "https://thetracker.co.kr/View.aspx?No=4169402"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 사전 판매 종료 임박…주말 예약 수요 '최고...",
+        "date": "2026-07-31 09:08",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270794"
+    },
+    {
+        "title": "애플, 메모리 가격 상승에도 수익성 개선…TSMC 병목 지적",
+        "date": "2026-07-31 09:08",
+        "link": "https://news.mtn.co.kr/news-detail/2026073108351231546"
+    },
+    {
+        "title": "AI·전장 수요 확대에 MLCC 테마 강세… 소재·장비주까지 동반 신바람",
+        "date": "2026-07-31 09:06",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473147"
+    },
+    {
+        "title": "데브시스터즈, '쿠키런: 크럼블' 애플 앱스토어 무료 인기 1위",
+        "date": "2026-07-31 09:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688583"
+    },
+    {
+        "title": "3조원 확보…LG디스플레이, OLED 기술 초격차에 승부수 띄웠다",
+        "date": "2026-07-31 09:02",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268541"
+    },
+    {
+        "title": "갤럭시 Z 8 시리즈, 사전예약 1030세대 비중 절반 이상",
+        "date": "2026-07-31 08:58",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391433"
+    },
+    {
+        "title": "사전 판매 종료 D-3 … 삼성 갤럭시 Z, 1030 예약 비중 50% 돌파",
+        "date": "2026-07-31 08:54",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100031.html"
+    },
+    {
+        "title": "삼성D·LGD 2분기 비수기 체질 개선 주력...3분기 성수기 진입",
+        "date": "2026-07-31 08:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153875"
+    },
+    {
+        "title": "애플 분기 실적, 기대치 상회에도⋯시간외서 7%대↓[마켓핫]",
+        "date": "2026-07-31 08:50",
+        "link": "https://www.etoday.co.kr/news/view/2609542"
+    },
+    {
+        "title": "[미르의 글로벌 레이더]애플이 추격자 된 폴더블 시장…삼성, AI까지 더...",
+        "date": "2026-07-31 08:50",
+        "link": "https://www.mediapen.com/news/view/1113457"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z8 사전 판매 D-3…예약자 절반은 1030",
+        "date": "2026-07-31 08:50",
+        "link": "https://www.etoday.co.kr/news/view/2609557"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 사전판매 흥행…예약자 절반 이상 '1030세대'",
+        "date": "2026-07-31 08:42",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417806"
+    },
+    {
+        "title": "절반 이상 MZ가 샀다…'여권폰' 소문에 난리났다는데",
+        "date": "2026-07-31 08:41",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340914?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 시리즈’ 사전 예약 1030세대 비중 50%↑",
+        "date": "2026-07-31 08:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677720?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 시리즈 사전예약 'D-3'…1030 비중 50% 넘어",
+        "date": "2026-07-31 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442103"
+    },
+    {
+        "title": "갤럭시 Z8 사전예약 절반이 1030…폴드8·크림색 인기",
+        "date": "2026-07-31 08:38",
+        "link": "https://n.news.naver.com/mnews/article/003/0014100093?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8 시리즈' 사전 혜택 마감 3일 앞으로...막바지 수요...",
+        "date": "2026-07-31 08:38",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257086"
+    },
+    {
+        "title": "삼성 갤럭시 Z 시리즈 사전판매 D-3…예약자 절반 이상 '1030세대'",
+        "date": "2026-07-31 08:36",
+        "link": "https://www.ajunews.com/view/20260731083228806"
+    },
+    {
+        "title": "애플, 시장 전망 웃돈 실적에도 아이폰·맥 공급난 경고",
+        "date": "2026-07-31 08:34",
+        "link": "https://www.g-enews.com/view.php?ud=2026073108235866489a1f309431_1"
+    },
+    {
+        "title": "갤럭시 Z8 사전예약 절반이 1030…폴드8 가장 인기",
+        "date": "2026-07-31 08:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688573"
+    },
+    {
+        "title": "[Tech &amp; Now] 삼성전자, 갤럭시 Z 시리즈 사전 혜택 '종료 D-3'…1030세대...",
+        "date": "2026-07-31 08:28",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718543"
+    },
+    {
+        "title": "MZ 사로잡았다...삼성전자 갤럭시 Z8, 사전예약자 절반 이상은 '1030'",
+        "date": "2026-07-31 08:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473121"
+    },
+    {
+        "title": "LG전자, 국립현대미술관과 OLED 72대로 구현한 초대형 미디어아트 전시...",
+        "date": "2026-07-31 08:14",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=313223"
+    },
+    {
+        "title": "'젊어진 폴더블'…삼성전자, 갤럭시 Z8 사전 예약에 1030 세대 몰렸다",
+        "date": "2026-07-31 08:10",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83738"
+    },
+    {
+        "title": "'아이폰 질주' 애플, 3분기 매출 156조 원…역대 최대 실적 경신",
+        "date": "2026-07-31 07:52",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000053533"
+    },
+    {
+        "title": "갈수록 얇고 견고…삼성이 공개한 '폴더블 혁신' 철학[모닝폰]",
+        "date": "2026-07-31 07:43",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340858?sid=105"
+    },
+    {
+        "title": "애플 공급 병목 지속...메모리 가격 '100년 빈도 홍수 수준'(종합)",
+        "date": "2026-07-31 07:40",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153874"
+    },
+    {
+        "title": "애플, 3분기 순이익 27%↑…가이던스 실망에 주가 급락",
+        "date": "2026-07-31 07:39",
+        "link": "https://n.news.naver.com/mnews/article/119/0003116805?sid=105"
+    },
+    {
+        "title": "AI 투자 몸 사린 애플, 아이폰 덕에 선방 … 예상치 웃돈 분기 매출",
+        "date": "2026-07-31 07:36",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/07/31/2026073100019.html"
+    },
+    {
+        "title": "애플, 아이폰 판매 호조 불구 공급난 발목…9월 분기 전망 실망",
+        "date": "2026-07-31 07:34",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83735"
+    },
+    {
+        "title": "애플, 아이폰 22% 성장에도 시간외 8%↓…서비스·가이던스 '발목'",
+        "date": "2026-07-31 07:28",
+        "link": "https://www.ajunews.com/view/20260731072504714"
+    },
+    {
+        "title": "TSMC 때문에 실적 부진…애플 컨콜 등판한 팀 쿡의 탄식",
+        "date": "2026-07-31 07:12",
+        "link": "https://n.news.naver.com/mnews/article/015/0005315892?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 매출 22% 급증 깜짝 실적에도 시간외 4% 하락",
+        "date": "2026-07-31 07:11",
+        "link": "https://n.news.naver.com/mnews/article/629/0000520608?sid=101"
+    },
+    {
+        "title": "애플 3분기 아이폰·맥북 덕분에 사상 최고 매출…서비스 부문은 부진",
+        "date": "2026-07-31 07:10",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183346?sid=105"
+    },
+    {
+        "title": "애플, 칩플레이션 '남의 일'...2분기, 분기 최대 매출 달성",
+        "date": "2026-07-31 07:02",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153873"
+    },
+    {
+        "title": "애플, 아이폰 22% 급증에 '깜짝 실적'…서비스 부진에 시간외 하락",
+        "date": "2026-07-31 06:44",
+        "link": "https://n.news.naver.com/mnews/article/014/0005555458?sid=101"
+    },
+    {
+        "title": "[써보니]갤럭시가 찾은 황금비율…콘텐츠 감상, 이보다 더 좋을 수 없다",
+        "date": "2026-07-31 06:30",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797068?sid=105"
+    },
+    {
+        "title": "애플·샤오미 스마트워치 고장 나면 수리불가, 새 제품가 맞먹는 리퍼만...",
+        "date": "2026-07-31 06:20",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759789"
+    },
+    {
+        "title": "애플, 실적 호조로 기술주 강세 이끌다",
+        "date": "2026-07-31 06:18",
+        "link": "https://www.tokenpost.kr/news/market/383075"
+    },
+    {
+        "title": "애플, 3Q 영업이익 357억달러 전년比 27%↑…아이폰·맥 '쌍끌이'",
+        "date": "2026-07-31 06:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0001046242?sid=105"
+    },
+    {
+        "title": "애플, 호실적에도 서비스·中 매출 실망…시간외서 주가 급락(상보)",
+        "date": "2026-07-31 06:14",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427913"
+    },
+    {
+        "title": "애플 4.4%↓, 아마존 7.7%↑...실적 발표 후 시간외 거래서 희비 교차",
+        "date": "2026-07-31 06:04",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026073105552566152aaae0046f_30"
+    },
+    {
+        "title": "스마트폰도 리스 시대?…칩플레이션이 불러온 신풍경",
+        "date": "2026-07-31 06:01",
+        "link": "https://n.news.naver.com/mnews/article/421/0009089559?sid=105"
+    },
+    {
         "title": "프로 크리에이터에 최적화한 디지털 캔버스 에이수스 프로아트 PZ14 [리...",
         "date": "2026-07-31 06:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167013"
@@ -195,14 +715,14 @@
         "link": "https://n.news.naver.com/mnews/article/028/0002816489?sid=101"
     },
     {
-        "title": "LG디스플레이 OLED 초격차 투자 위해 국민성장펀드 2조원 조달",
-        "date": "2026-07-30 17:00",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301559333120246"
-    },
-    {
         "title": "[데일리픽] XRP 소송 주역, 美 최고 정보 수장으로…MS·메타 AI 수익화에...",
         "date": "2026-07-30 17:00",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688359"
+    },
+    {
+        "title": "LG디스플레이 OLED 초격차 투자 위해 국민성장펀드 2조원 조달",
+        "date": "2026-07-30 17:00",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301559333120246"
     },
     {
         "title": "LG전자, 2분기 매출·영업이익 '역대 최대'…가전·전장이 견인",
@@ -410,14 +930,14 @@
         "link": "https://n.news.naver.com/mnews/article/586/0000134876?sid=101"
     },
     {
-        "title": "영국, 앱스토어 외부 결제 확대 추진…애플 정부 가격 규제 반대",
-        "date": "2026-07-30 16:14",
-        "link": "https://news.appstory.co.kr/daily19434"
-    },
-    {
         "title": "국민성장펀드, LGD·테크윙 지원…OLED·HBM 공급망 강화",
         "date": "2026-07-30 16:14",
         "link": "https://www.sentv.co.kr/article/view/sentv202607300145"
+    },
+    {
+        "title": "영국, 앱스토어 외부 결제 확대 추진…애플 정부 가격 규제 반대",
+        "date": "2026-07-30 16:14",
+        "link": "https://news.appstory.co.kr/daily19434"
     },
     {
         "title": "국민성장펀드, 'OLED 초격차' LG디스플레이에 1.5조 저리대출",
@@ -508,6 +1028,11 @@
         "title": "LG전자, 국립현대미술관서 OLED 72대 활용한 대형 설치미술 선보여",
         "date": "2026-07-30 15:40",
         "link": "https://www.newsinside.kr/news/articleView.html?idxno=4880021"
+    },
+    {
+        "title": "그라비티, 'THE 라그나로크' 원스토어·갤럭시 스토어 출시",
+        "date": "2026-07-30 15:40",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=128220"
     },
     {
         "title": "그라비티, 2D MMORPG ‘THE 라그나로크’ 원스토어 및 갤럭시 스토어 정...",
@@ -870,14 +1395,14 @@
         "link": "https://www.topstarnews.net/news/articleView.html?idxno=16149844"
     },
     {
-        "title": "LG전자, 국립현대미술관과 OLED 특별전…“디스플레이 기술과 현대미술...",
-        "date": "2026-07-30 10:52",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000098303"
-    },
-    {
         "title": "LG전자 OLED, 대형 설치미술로 변신…국립현대미술관과 협업",
         "date": "2026-07-30 10:52",
         "link": "https://www.sentv.co.kr/article/view/sentv202607300047"
+    },
+    {
+        "title": "LG전자, 국립현대미술관과 OLED 특별전…“디스플레이 기술과 현대미술...",
+        "date": "2026-07-30 10:52",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098303"
     },
     {
         "title": "LG전자, 국립현대미술관과 특별 전시 개최…OLED 스크린 72대로 작품 구...",
@@ -980,19 +1505,14 @@
         "link": "https://n.news.naver.com/mnews/article/277/0005796695?sid=101"
     },
     {
-        "title": "LG전자, 국립현대미술관과 'MMCA X LG OLED 시리즈' 전시",
-        "date": "2026-07-30 10:30",
-        "link": "https://n.news.naver.com/mnews/article/119/0003116432?sid=101"
-    },
-    {
         "title": "LG전자, 국립현대미술관과 맞손...OLED 72대 활용해 현대미술 전시 나선...",
         "date": "2026-07-30 10:30",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472753"
     },
     {
-        "title": "기술과 예술의 만남…LG전자, 국립현대미술관서 대형 OLED 전시",
+        "title": "LG전자, 국립현대미술관과 'MMCA X LG OLED 시리즈' 전시",
         "date": "2026-07-30 10:30",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270704"
+        "link": "https://n.news.naver.com/mnews/article/119/0003116432?sid=101"
     },
     {
         "title": "LG전자, 국립현대미술관과 OLED 72대로 구현한 초대형 예술 전시",
@@ -1005,19 +1525,14 @@
         "link": "https://n.news.naver.com/mnews/article/421/0009087586?sid=101"
     },
     {
+        "title": "기술과 예술의 만남…LG전자, 국립현대미술관서 대형 OLED 전시",
+        "date": "2026-07-30 10:30",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270704"
+    },
+    {
         "title": "LG전자, 국립현대미술관서 OLED TV 설치미술 전시",
         "date": "2026-07-30 10:30",
         "link": "https://n.news.naver.com/mnews/article/016/0002677255?sid=101"
-    },
-    {
-        "title": "LG전자, OLED 스크린 72대로 초대형 설치 미술 선보인다",
-        "date": "2026-07-30 10:30",
-        "link": "https://n.news.naver.com/mnews/article/029/0003039773?sid=101"
-    },
-    {
-        "title": "LG전자, OLED 72대로 미술관 채워…기술·예술 결합 전시",
-        "date": "2026-07-30 10:30",
-        "link": "https://n.news.naver.com/mnews/article/117/0004089990?sid=105"
     },
     {
         "title": "국립현대미술관에 등장한 72대 OLED… LG전자, 김 크리스틴 선 특별展",
@@ -1025,9 +1540,19 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268375"
     },
     {
+        "title": "LG전자, OLED 72대로 미술관 채워…기술·예술 결합 전시",
+        "date": "2026-07-30 10:30",
+        "link": "https://n.news.naver.com/mnews/article/117/0004089990?sid=105"
+    },
+    {
         "title": "LG전자, 국립현대미술관서 OLED 72대 활용 전시",
         "date": "2026-07-30 10:30",
         "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307458"
+    },
+    {
+        "title": "LG전자, OLED 스크린 72대로 초대형 설치 미술 선보인다",
+        "date": "2026-07-30 10:30",
+        "link": "https://n.news.naver.com/mnews/article/029/0003039773?sid=101"
     },
     {
         "title": "LG전자, OLED 72대로 국립현대미술관 곡면 전시 구현",
@@ -1050,14 +1575,14 @@
         "link": "https://n.news.naver.com/mnews/article/366/0001183068?sid=105"
     },
     {
-        "title": "LG전자·국립현대미술관, OLED 72대로 대형 설치미술 전시…7월 31일 개막",
-        "date": "2026-07-30 10:30",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251749"
-    },
-    {
         "title": "LG전자·국립현대미술관, OLED 스크린 72대로 대형 설치 미술 전시",
         "date": "2026-07-30 10:30",
         "link": "https://www.businessplus.kr/news/articleView.html?idxno=114809"
+    },
+    {
+        "title": "LG전자·국립현대미술관, OLED 72대로 대형 설치미술 전시…7월 31일 개막",
+        "date": "2026-07-30 10:30",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251749"
     },
     {
         "title": "LG전자, 국립현대미술관과 OLED 72대 활용 대형 설치 미술 선봬",
@@ -1072,17 +1597,17 @@
     {
         "title": "LG전자, 국립현대미술관과 손잡고 OLED 스크린 72대로 예술 실험 선보여",
         "date": "2026-07-30 10:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0014097619?sid=101"
-    },
-    {
-        "title": "LG전자, 국립현대미술관과 손잡고 OLED 스크린 72대로 예술 실험 선보여",
-        "date": "2026-07-30 10:30",
         "link": "https://n.news.naver.com/mnews/article/003/0014097620?sid=101"
     },
     {
         "title": "LG전자, 국립현대미술관과 손잡고 OLED 스크린 72대로 예술 실험 선보여",
         "date": "2026-07-30 10:30",
         "link": "https://n.news.naver.com/mnews/article/003/0014097621?sid=101"
+    },
+    {
+        "title": "LG전자, 국립현대미술관과 손잡고 OLED 스크린 72대로 예술 실험 선보여",
+        "date": "2026-07-30 10:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0014097619?sid=101"
     },
     {
         "title": "삼성 모바일사업, 출범 후 첫 적자…갤럭시 S26 잘 팔고도 '원가' 발목",
@@ -1180,11 +1705,6 @@
         "link": "https://kpenews.com/View.aspx?No=4167728"
     },
     {
-        "title": "삼성 스마트폰, 2분기 적자 전환…매출 늘고도 수익성 악화",
-        "date": "2026-07-30 09:41",
-        "link": "https://n.news.naver.com/mnews/article/001/0016223335?sid=105"
-    },
-    {
         "title": "메모리가 갈랐다…삼성전자 역대 최대 실적에도 MX 첫 적자",
         "date": "2026-07-30 09:39",
         "link": "https://n.news.naver.com/mnews/article/031/0001045883?sid=101"
@@ -1203,11 +1723,6 @@
         "title": "골프존클라우드 스마트캐디, 애플워치서 자동샷추적 시작",
         "date": "2026-07-30 09:30",
         "link": "https://www.goodkyung.com/news/articleView.html?idxno=289734"
-    },
-    {
-        "title": "삼성전자, 2분기 영업익 89.5조…역대 최대 분기 실적(1보)",
-        "date": "2026-07-30 09:30",
-        "link": "https://www.news2day.co.kr/article/20260730500033"
     },
     {
         "title": "89조 잭팟…삼성전자 2분기 돈 벌어다 준 '효자'의 정체",
@@ -1250,11 +1765,6 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718343"
     },
     {
-        "title": "삼성전자, 2분기 영업이익 89.5조 '역대 최대'…DX는 적자",
-        "date": "2026-07-30 09:16",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205755"
-    },
-    {
         "title": "[상보] 삼성전자 2분기 영업익 89.5조 '역대 최대'…DS서 89.2조 벌어",
         "date": "2026-07-30 09:10",
         "link": "https://www.etoday.co.kr/news/view/2609066"
@@ -1265,11 +1775,6 @@
         "link": "https://www.slist.kr/news/articleView.html?idxno=755232"
     },
     {
-        "title": "삼성디스플레이, 2Q 영업이익 7000억원…하이엔드 모바일·게이밍 모니터...",
-        "date": "2026-07-30 09:04",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718336"
-    },
-    {
         "title": "삼성전자, 2분기 매출 171.5조원·영업이익 89.5조원...역대 최대 경신",
         "date": "2026-07-30 09:04",
         "link": "http://www.thebigdata.co.kr/view.php?ud=202607300856348221bbceadc3c9_23"
@@ -1278,6 +1783,11 @@
         "title": "삼성전자, 2분기 영업익 89조4924억원···반도체에서만 89.2조",
         "date": "2026-07-30 09:04",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2453979"
+    },
+    {
+        "title": "삼성전자, 2분기 영업익 89.5조…반도체서 89.2조 견인",
+        "date": "2026-07-30 09:02",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607300012"
     },
     {
         "title": "삼성전자, 2분기 영업이익 89조5000억원···전년 동기比 1814% 증가",
@@ -1298,11 +1808,6 @@
         "title": "LG이노텍, 광학이 끌고 기판이 민다…AI 기판 기대감↑",
         "date": "2026-07-30 08:56",
         "link": "http://www.datanews.co.kr/news/article.html?no=145786"
-    },
-    {
-        "title": "그로쓰리서치 지앤비에스 에코, 올해 영업익 3배 성장 전망",
-        "date": "2026-07-30 08:52",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=715145"
     },
     {
         "title": "퀄컴, 애플 매출 이탈 경고…4분기 실적 전망도 시장 기대 밑돌아",
