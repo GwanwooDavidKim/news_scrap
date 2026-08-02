@@ -1,5 +1,90 @@
 [
     {
+        "title": "스마트폰 잃어버리고 땅바닥만 보세요?…‘이 앱’ 알면 끝",
+        "date": "2026-08-03 04:01",
+        "link": "https://n.news.naver.com/mnews/article/662/0000100978?sid=105"
+    },
+    {
+        "title": "엔비디아(NVDA)·애플(AAPL)로 레버리지...바이비트, 토큰화 주식 담보...",
+        "date": "2026-08-03 03:32",
+        "link": "http://coinreaders.com/250768"
+    },
+    {
+        "title": "[김대호 진단] 반도체 열전 (26) MS 마이크로소프트...코파일럿 애저의...",
+        "date": "2026-08-03 00:00",
+        "link": "https://www.g-enews.com/view.php?ud=202607300949215861906806b77b_1"
+    },
+    {
+        "title": "MMCA×LG OLED 시리즈 2026 전시 현장에서 만난 김 크리스틴 선 ... 바위...",
+        "date": "2026-08-02 19:14",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=310348"
+    },
+    {
+        "title": "中 추격 뿌리친다… 삼성D·LGD '초격차 기술 투자' 가속",
+        "date": "2026-08-02 19:09",
+        "link": "https://n.news.naver.com/mnews/article/014/0005556130?sid=101"
+    },
+    {
+        "title": "삼성, '유효 판단' 오우라 美특허 상대 항소...무효분쟁 항소 5건으로 확...",
+        "date": "2026-08-02 19:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432775?sid=105"
+    },
+    {
+        "title": "LGD, R&amp;D·AX에 3조 투입…정철동, OLED ‘기술 주권’ 승부수",
+        "date": "2026-08-02 18:52",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040253?sid=101"
+    },
+    {
+        "title": "아마존·마이크로소프트, AI 투자 '잭팟'...애플·메타 성적은 '비상'",
+        "date": "2026-08-02 18:02",
+        "link": "http://coinreaders.com/250751"
+    },
+    {
+        "title": "에이이티피, K-PRINT 2026서 플라즈마 표면처리 'AP-5000' 출품... 기술 ...",
+        "date": "2026-08-02 17:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1812804"
+    },
+    {
+        "title": "[미국 주식 돋보기] 애플 폴더블폰에 힌지 공급…'부품 거인' 암페놀 주...",
+        "date": "2026-08-02 17:44",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715546?sid=101"
+    },
+    {
+        "title": "메타버스주 다시 달렸다…XR·AI 훈풍에 관련주 코세스 LG이노텍 '불기둥...",
+        "date": "2026-08-02 16:52",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473618"
+    },
+    {
+        "title": "한국디스플레이산업협회, 투명 OLED 넘어 LED 실증 확대",
+        "date": "2026-08-02 16:42",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=746870"
+    },
+    {
+        "title": "시리 많이 쓰면 돈 낸다?…애플, AI 유료화 시사",
+        "date": "2026-08-02 16:38",
+        "link": "https://n.news.naver.com/mnews/article/057/0001961624?sid=101"
+    },
+    {
+        "title": "애플, AI가 쏟아낸 '부실' 버그 신고에 백기…더는 못 받아",
+        "date": "2026-08-02 16:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006342595?sid=101"
+    },
+    {
+        "title": "챗GPT로 보안결함 보고서 '뚝딱'… 무더기 신고에 애플 골머리",
+        "date": "2026-08-02 16:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167132"
+    },
+    {
+        "title": "LGD, 대형 OLED에 '2스택 탠덤' 기술 추진…“대중화 위한 원가 절감 방...",
+        "date": "2026-08-02 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003453386?sid=105"
+    },
+    {
+        "title": "부품 공급난에 PC 업계 '빈익빈 부익부'…상위 6개사 패널 80% 구매",
+        "date": "2026-08-02 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003453391?sid=105"
+    },
+    {
         "title": "애플, 시리 AI 유료화 저울질…새 구독시장 열릴까",
         "date": "2026-08-02 15:27",
         "link": "https://n.news.naver.com/mnews/article/029/0003040214?sid=105"
@@ -43,170 +128,5 @@
         "title": "[체험기 ] 10년 차 아이폰 충성고객…‘갤럭시 Z 폴드8’에 스며들다",
         "date": "2026-08-02 07:02",
         "link": "https://www.news2day.co.kr/article/20260731500199"
-    },
-    {
-        "title": "[써보니] 갤럭시 Z 폴드8, '접는 폰'에서 '일상폰'으로",
-        "date": "2026-08-02 06:33",
-        "link": "https://n.news.naver.com/mnews/article/001/0016228601?sid=105"
-    },
-    {
-        "title": "애플, AI서비스 추가 요금 받을까…'시리' 유료 버전 검토",
-        "date": "2026-08-02 05:53",
-        "link": "https://n.news.naver.com/mnews/article/417/0001154028?sid=101"
-    },
-    {
-        "title": "[CEO 리더십] 'LCD' 덜고 'OLED 초격차' 채우고…정철동이 당긴 LG디스플...",
-        "date": "2026-08-02 05:00",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268646"
-    },
-    {
-        "title": "“1년 동안 300% 급등” 스마트폰 비싸진 이유 있었네…‘200만원 아이폰...",
-        "date": "2026-08-01 22:08",
-        "link": "https://n.news.naver.com/mnews/article/011/0004647623?sid=105"
-    },
-    {
-        "title": "국립중앙박물관 대한제국실 새단장…보물 7점과 AI와 투명 OLED로 구현한...",
-        "date": "2026-08-01 20:40",
-        "link": "https://www.lecturernews.com/news/articleView.html?idxno=207583"
-    },
-    {
-        "title": "손끝에서 시야로, 스마트폰 다음은 ‘공간 인터페이스’ 시대",
-        "date": "2026-08-01 19:46",
-        "link": "https://www.m-economynews.com/news/article.html?no=69303"
-    },
-    {
-        "title": "아이패드 에어, 7년 만에 디자인 확 바뀐다",
-        "date": "2026-08-01 18:33",
-        "link": "https://n.news.naver.com/mnews/article/092/0002432745?sid=105"
-    },
-    {
-        "title": "접으면 여권, 펼치면 태블릿…'갤럭시 Z 폴드8' 1030 몰린 이유는?",
-        "date": "2026-08-01 18:22",
-        "link": "https://n.news.naver.com/mnews/article/629/0000520963?sid=105"
-    },
-    {
-        "title": "애플 9% 급락·아마존 14% 급등…기술주 변동성 커졌다",
-        "date": "2026-08-01 17:58",
-        "link": "https://www.tokenpost.kr/news/breaking/383568"
-    },
-    {
-        "title": "지도·펜슬도 한발짝 늦었지만 따라잡던 애플…AI도 역전극 펼칠까[주末...",
-        "date": "2026-08-01 16:48",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797582?sid=101"
-    },
-    {
-        "title": "아저씨폰 소리 쏙 들어갔다... '갤럭시 Z폴드8' 사전판매 역대급 대박...",
-        "date": "2026-08-01 15:24",
-        "link": "https://www.insight.co.kr/news/565930"
-    },
-    {
-        "title": "'출하량 23% 점유' 애플, 매출은 49% 독식",
-        "date": "2026-08-01 14:41",
-        "link": "https://n.news.naver.com/mnews/article/092/0002432743?sid=105"
-    },
-    {
-        "title": "[트럼프 스톡커] ‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰",
-        "date": "2026-08-01 14:39",
-        "link": "https://n.news.naver.com/mnews/article/011/0004647577?sid=104"
-    },
-    {
-        "title": "시리 많이 쓰면 추가 요금…애플, AI 서비스 유료화 가능성 예고",
-        "date": "2026-08-01 14:22",
-        "link": "https://n.news.naver.com/mnews/article/003/0014102393?sid=105"
-    },
-    {
-        "title": "“사생활 보호 기능 빠져” “오히려 다행”... 갤폴드8 엇갈린 반응 왜...",
-        "date": "2026-08-01 13:46",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990874?sid=105"
-    },
-    {
-        "title": "아이폰 빌려쓰는 애플 '리스', 韓 상륙한다면…보조금 대란 터진다?[폰...",
-        "date": "2026-08-01 13:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014102353?sid=105"
-    },
-    {
-        "title": "쓰던 폰 꼭 가져오세요…삼성·애플, 중고폰까지 품나[폰 리스시대②...",
-        "date": "2026-08-01 12:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014102296?sid=105"
-    },
-    {
-        "title": "엔비디아, 애플 제치고 시총 1위 탈환…나흘 만에 정상 복귀",
-        "date": "2026-08-01 11:28",
-        "link": "https://n.news.naver.com/mnews/article/654/0000193063?sid=101"
-    },
-    {
-        "title": "‘사전예약 D-2’ 갤Z 폴드8, 전작 대비 ‘라방’ 판매량 2배 넘어... 103...",
-        "date": "2026-08-01 11:09",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990864?sid=105"
-    },
-    {
-        "title": "애플 아이폰 17 프로, 1.1km 상공 비행기 추락했는데…유채밭서 멀쩡히...",
-        "date": "2026-08-01 10:50",
-        "link": "https://n.news.naver.com/mnews/article/138/0002236242?sid=105"
-    },
-    {
-        "title": "엔비디아 시총 4.86조달러…애플 제치고 세계 1위 탈환",
-        "date": "2026-08-01 10:22",
-        "link": "https://n.news.naver.com/mnews/article/018/0006341881?sid=101"
-    },
-    {
-        "title": "스마트폰, 車처럼 빌려 쓴다…애플 '리스' vs 삼성 '구독'[폰 리스시대①...",
-        "date": "2026-08-01 10:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014102211?sid=105"
-    },
-    {
-        "title": "엔비디아, 나흘 만에 시총 정상 탈환…애플은 7% 급락",
-        "date": "2026-08-01 09:32",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608010005"
-    },
-    {
-        "title": "'AI 뒤처진' 애플의 승부수…기존 기능 싹 바꿔 '생활 AI'로 반격",
-        "date": "2026-08-01 09:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006341861?sid=105"
-    },
-    {
-        "title": "엔비디아, 애플 밀어내고 시총 1위 탈환",
-        "date": "2026-08-01 08:54",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718720"
-    },
-    {
-        "title": "메타 스마트 안경 '몰카' 논란...사생활 보호장치도 무력화?",
-        "date": "2026-08-01 08:20",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169153"
-    },
-    {
-        "title": "[정책포커스] 금융위, 국가첨단산업 경쟁력 높이는 국민성장펀드 7월까...",
-        "date": "2026-08-01 08:06",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=98371"
-    },
-    {
-        "title": "애플 ‘시리’ 유료 버전 나올까...팀 쿡 “시리 많이 쓰고 싶어 하는 사...",
-        "date": "2026-08-01 08:01",
-        "link": "https://n.news.naver.com/mnews/article/011/0004647528?sid=104"
-    },
-    {
-        "title": "폴더블 스마트폰 흥행…1030 사전예약 점령",
-        "date": "2026-08-01 07:48",
-        "link": "https://www.bntnews.co.kr/article/view/bnt202608010049"
-    },
-    {
-        "title": "엔비디아, 나흘 만에 시가총액 1위 복귀…애플, 7%대 폭락",
-        "date": "2026-08-01 07:29",
-        "link": "https://n.news.naver.com/mnews/article/056/0012229479?sid=104"
-    },
-    {
-        "title": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사",
-        "date": "2026-08-01 07:24",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715247?sid=101"
-    },
-    {
-        "title": "엔비디아, 나흘 만에 애플 제치고 '세계 시총 1위' 탈환",
-        "date": "2026-08-01 07:15",
-        "link": "https://n.news.naver.com/mnews/article/015/0005316244?sid=101"
-    },
-    {
-        "title": "예약 첫날부터 난리더니…로켓배송도 대기 한 달 갤폴드8, MZ 홀렸다",
-        "date": "2026-08-01 07:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394212?sid=105"
     }
 ]
