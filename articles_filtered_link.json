@@ -1,5 +1,1455 @@
 [
     {
+        "title": "애플 앱스토어, 텔레그램 삭제 해프닝…성 학대물 vs 러시아 압박?[IT썰...",
+        "date": "2026-08-04 16:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005395516?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴더블 시리즈 사전예약 효과…통신사 번호이동 시장 꿈틀",
+        "date": "2026-08-04 15:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040618?sid=105"
+    },
+    {
+        "title": "삼성전자 DX, '원가 폭탄'에 2Q 첫 적자…하반기도 '흐림'",
+        "date": "2026-08-04 15:51",
+        "link": "https://www.topdaily.kr/articles/111289"
+    },
+    {
+        "title": "1분당 140대 판매…삼성전자 Z 시리즈, 갤럭시 사전 판매 신기록",
+        "date": "2026-08-04 15:48",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428546"
+    },
+    {
+        "title": "LG U+, 사전예약 고객 대상 개통시작",
+        "date": "2026-08-04 15:46",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=906458"
+    },
+    {
+        "title": "“‘폴드8’ 무슨 색상 살까” 40대도 고민…뚜껑 여니 ‘대세’ 있었다",
+        "date": "2026-08-04 15:43",
+        "link": "https://n.news.naver.com/mnews/article/022/0004148349?sid=105"
+    },
+    {
+        "title": "오픈AI, 애플 기밀유출 소송에 채팅 기록 공개",
+        "date": "2026-08-04 15:42",
+        "link": "https://www.tokenpost.kr/news/breaking/384862"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴더블8 개통 시작…2040 비중 65%로 젊은층 유입 확대",
+        "date": "2026-08-04 15:40",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=186067"
+    },
+    {
+        "title": "“이런 신기록, 앞으론 못깰 듯”…갤럭시 새 시리즈 대박났다",
+        "date": "2026-08-04 15:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716460?sid=101"
+    },
+    {
+        "title": "갤럭시Z폴드8·플립8 시리즈, 국내 사전 판매 144만대···역대 최다 기...",
+        "date": "2026-08-04 15:28",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455737"
+    },
+    {
+        "title": "“이제 아재폰이라 부르지마”…갤Z8 역대급 판매에 이통사 유치전 ‘활...",
+        "date": "2026-08-04 15:28",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716457?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 시리즈 사전판매 144만대…7년만에 신기록",
+        "date": "2026-08-04 15:24",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747069"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드8·플립8, 사전판매 144만대...외신들 호평",
+        "date": "2026-08-04 15:24",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222984"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시 Z8 시리즈 OIS 공급 확대…폴드8 이어 플립8까지 납...",
+        "date": "2026-08-04 15:20",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=607307"
+    },
+    {
+        "title": "갤럭시 Z8 사전판매 144만대…삼성 스마트폰 역대 최다",
+        "date": "2026-08-04 15:18",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022113?sid=101"
+    },
+    {
+        "title": "'갤럭시 Z 폴드8 울트라·폴드8·플립8' 144만대 팔렸다..국내 사전 판매...",
+        "date": "2026-08-04 15:08",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207481"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 사전판매 144만대…갤 스마트폰 '역대 최다'",
+        "date": "2026-08-04 15:00",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876993"
+    },
+    {
+        "title": "갤럭시 Z8, 국내 사전판매 144만대…역대 갤럭시 신기록",
+        "date": "2026-08-04 14:56",
+        "link": "http://www.metroseoul.co.kr/article/20260804500342"
+    },
+    {
+        "title": "갤럭시 Z8 사전 판매 144만대 ‘신기록’…폴드8 비중 70%",
+        "date": "2026-08-04 14:54",
+        "link": "https://n.news.naver.com/mnews/article/117/0004091598?sid=105"
+    },
+    {
+        "title": "마이크로LED 국책 과제 수율, 올해 목표 60% 미달",
+        "date": "2026-08-04 14:48",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60497"
+    },
+    {
+        "title": "퇴사했는데 문서 동기화 계속돼...오픈AI 소송으로 드러난 애플의 허...",
+        "date": "2026-08-04 14:48",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=213515"
+    },
+    {
+        "title": "'힙한 폴더블폰' 통했다…갤Z 폴드8 대화면에 꽂힌 2040",
+        "date": "2026-08-04 14:41",
+        "link": "https://n.news.naver.com/mnews/article/243/0000101239?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤 Z8' 사전판매 역대 최고...폴드가 끌고 젊은층이 밀었다",
+        "date": "2026-08-04 14:41",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=304106"
+    },
+    {
+        "title": "'갤럭시 Z 폴드8 울트라·폴드8·플립8' 국내 사전 판매 역대 최대 신기...",
+        "date": "2026-08-04 14:40",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1328793"
+    },
+    {
+        "title": "옴디아 공급측 압박에 시작된 시장 재편, 2분기 스마트폰 출하량 6% 감...",
+        "date": "2026-08-04 14:40",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405141"
+    },
+    {
+        "title": "애플 차기 CEO, 은퇴한 부사장 다시 불러들인 이유는?",
+        "date": "2026-08-04 14:38",
+        "link": "https://www.etoday.co.kr/news/view/2610848"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 국내 사전판매 144만대···역대 최고 기록",
+        "date": "2026-08-04 14:30",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=150285"
+    },
+    {
+        "title": "갤럭시 Z폴드8 시리즈, 7년 만에 국내 사전판매 신기록 경신",
+        "date": "2026-08-04 14:26",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84025"
+    },
+    {
+        "title": "애플, 아동 성착취물 발견에 '텔레그램' 일시 삭제…게시자 차단 후 복...",
+        "date": "2026-08-04 14:26",
+        "link": "https://www.ajunews.com/view/20260804142247348"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드8 시리즈 개통 시작…예약 고객 67% 폴드8 선택",
+        "date": "2026-08-04 14:22",
+        "link": "https://www.todayeconomic.com/news/article.html?no=31597"
+    },
+    {
+        "title": "삼성 선출시 vs 애플 후발주자…AI 글래스 시장 '빅매치' 예고",
+        "date": "2026-08-04 14:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719040"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 흥행...일반폰 이용자 유입 확대",
+        "date": "2026-08-04 14:20",
+        "link": "https://hbnpress.com/news/view/1065590284850598"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 국내 사전 판매 144만...",
+        "date": "2026-08-04 14:18",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=20260804141259666bbceadc3c9_23"
+    },
+    {
+        "title": "삼성 갤럭시Z8, 사전판매 144만대 '역대 최다'…폴더블 3종 통했다",
+        "date": "2026-08-04 14:16",
+        "link": "https://n.news.naver.com/mnews/article/030/0003454079?sid=105"
+    },
+    {
+        "title": "SKT·LG유플러스, '갤럭시 Z 폴드' 화면 비율 변화 맞춘 콘텐츠와 실속 ...",
+        "date": "2026-08-04 14:16",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101225"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 사전 판매 144만대 '역대 신기록'",
+        "date": "2026-08-04 14:16",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234559"
+    },
+    {
+        "title": "누가 아재폰이래?...삼성전자 갤럭시 '대반전'",
+        "date": "2026-08-04 14:16",
+        "link": "https://n.news.naver.com/mnews/article/050/0000109300?sid=101"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8 시리즈', 144만대 사전판매… 역대 신기록 경신",
+        "date": "2026-08-04 14:12",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608040098"
+    },
+    {
+        "title": "삼성전자 '갤 Z 폴드8 울트라·폴드8·플립8' 국내 역대 최다 판매",
+        "date": "2026-08-04 14:12",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1392536"
+    },
+    {
+        "title": "갤럭시 Z8, 국내 사전판매 144만대..역대 최대 '신기록'",
+        "date": "2026-08-04 14:08",
+        "link": "https://www.hg-times.com/news/articleView.html?idxno=304140"
+    },
+    {
+        "title": "애플 앱스토어서 텔레그램 '실종'…삭제 이유는 오리무중",
+        "date": "2026-08-04 14:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689722"
+    },
+    {
+        "title": "CSOT, '잉크젯 OLED'로 모니터·노트북 공략 본격화…MSI 모니터 공개",
+        "date": "2026-08-04 14:05",
+        "link": "https://n.news.naver.com/mnews/article/030/0003454071?sid=105"
+    },
+    {
+        "title": "[현장에서] 애플은 벌고 삼성은 잃었다…노태문의 딜레마",
+        "date": "2026-08-04 14:01",
+        "link": "https://www.newspim.com/news/view/20260804000293"
+    },
+    {
+        "title": "[이슈] 삼성, 폴더블 대중화 앞당겨...사전 판매 144만 대 '신기록'",
+        "date": "2026-08-04 14:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808694"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시 Z 폴드8·울트라 OIS 공급…플립8까지 확대 추진",
+        "date": "2026-08-04 14:00",
+        "link": "https://www.viva100.com/article/20260804500805"
+    },
+    {
+        "title": "삼성·LG디스플레이, OLED 영토 확장…기술 혁신·투자 확대로 미래시장...",
+        "date": "2026-08-04 13:56",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32752"
+    },
+    {
+        "title": "갤럭시 Z 폴드·플립8 흥행 화력 활활...국내 사전 판매 144만대 '신기록...",
+        "date": "2026-08-04 13:54",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=760761"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드8·플립8, 사전 판매 144만 대 '역대 최고 신기록'",
+        "date": "2026-08-04 13:54",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715681"
+    },
+    {
+        "title": "1분당 140대 팔렸다…삼성전자 갤럭시 Z8 시리즈, 사전판매 144만대 신기...",
+        "date": "2026-08-04 13:44",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202608041338174954be44c0aacd_30"
+    },
+    {
+        "title": "갤럭시 Z 폴드8, 국내 사전판매 144만대…폴더블 시장 삼파전",
+        "date": "2026-08-04 13:43",
+        "link": "https://www.kpinews.kr/newsView/1065579635909875"
+    },
+    {
+        "title": "텔레그램, 전 세계 애플 앱스토어서 삭제…약 1시간 만 복구",
+        "date": "2026-08-04 13:41",
+        "link": "https://n.news.naver.com/mnews/article/421/0009096104?sid=105"
+    },
+    {
+        "title": "1030 홀린 '여권형 폴더블'…Z폴드8 사전예약 144만대 ‘역대 최다’",
+        "date": "2026-08-04 13:40",
+        "link": "http://www.segyebiz.com/newsView/20260804512173?OutUrl=naver"
+    },
+    {
+        "title": "‘갤Z 폴드8 시리즈’ 사전판매 144만대…“예뻐서 산다” 4:3 폼팩터·감...",
+        "date": "2026-08-04 13:40",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041103578730699"
+    },
+    {
+        "title": "1030 여성 고객 잡았다 갤럭시 Z8, 국내 사전 판매 144만대 역대 신기...",
+        "date": "2026-08-04 13:38",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=126408"
+    },
+    {
+        "title": "1분에 140대…삼성 갤Z8 시리즈, 사전판매 대흥행 '역대 최다'",
+        "date": "2026-08-04 13:34",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1398577"
+    },
+    {
+        "title": "[포커스] SMR, 국가전략기술로 지정된 이유는",
+        "date": "2026-08-04 13:34",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=301185"
+    },
+    {
+        "title": "7일만에 사전판매 144만대 삼성전자, 갤럭시Z 3형제 '신기록'",
+        "date": "2026-08-04 13:33",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=126940"
+    },
+    {
+        "title": "애플, 아이폰·윈도PC 복사·붙여넣기 장벽 허문다…2027년 연동 추진",
+        "date": "2026-08-04 13:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689720"
+    },
+    {
+        "title": "팀 쿡 잇는 존 터너스 애플 체제…첫 퍼즐은 '옛 참모' 복귀",
+        "date": "2026-08-04 13:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689719"
+    },
+    {
+        "title": "7년 만에 깨진 신기록…삼성전자 '갤럭시 Z8 시리즈' 국내 사전 판매 14...",
+        "date": "2026-08-04 13:26",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101211"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 사전판매 144만대 돌파 신기록",
+        "date": "2026-08-04 13:26",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=209358"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드8 울트라·폴드8·플립8', 국내 사전판매 144만 ...",
+        "date": "2026-08-04 13:18",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123732"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 사전판매 144만대 '역대 최대'",
+        "date": "2026-08-04 13:10",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4890877"
+    },
+    {
+        "title": "여권폰에 쏠린 관심…갤럭시Z 사전판매 144만대 신기록",
+        "date": "2026-08-04 13:06",
+        "link": "https://www.naeil.com/news/read/597649?ref=naver"
+    },
+    {
+        "title": "삼성 폴더블 144만대 팔렸다…갤럭시 사전판매 역대 최대",
+        "date": "2026-08-04 13:03",
+        "link": "https://n.news.naver.com/mnews/article/123/0002387796?sid=004"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 8 시리즈' 국내 역대 최다 사전 판매 신기록",
+        "date": "2026-08-04 12:40",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030716"
+    },
+    {
+        "title": "삼성 갤럭시 Z8 사전판매 144만대 '역대 최다'…폴드8 70%",
+        "date": "2026-08-04 12:27",
+        "link": "https://n.news.naver.com/mnews/article/031/0001047048?sid=105"
+    },
+    {
+        "title": "부모님 생신 선물이라…밤샘 줄 선 '갤럭시 Z 플립8' 1호 개통자",
+        "date": "2026-08-04 12:25",
+        "link": "https://n.news.naver.com/mnews/article/031/0001047047?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 Z8 시리즈, 국내 사전판매 144만대…역대 최다",
+        "date": "2026-08-04 12:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236516?sid=105"
+    },
+    {
+        "title": "[인사이드] '갤럭시 언팩' 비하인드 스토리…사용하는 모든 순간을 디...",
+        "date": "2026-08-04 12:08",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269042"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z8, 사전판매 144만대...역대 갤럭시 신기록",
+        "date": "2026-08-04 12:04",
+        "link": "https://hbnpress.com/news/view/1065581897970695"
+    },
+    {
+        "title": "삼성 ‘갤럭시 Z8’ 시리즈, 사전 판매 144만 대 ‘1분당, 140대’",
+        "date": "2026-08-04 11:57",
+        "link": "https://n.news.naver.com/mnews/article/144/0001129819?sid=101"
+    },
+    {
+        "title": "1분에 140대… 갤럭시 Z8 ‘사전판매 신화’",
+        "date": "2026-08-04 11:56",
+        "link": "https://n.news.naver.com/mnews/article/021/0002809034?sid=101"
+    },
+    {
+        "title": "'7년 독주' 도전받는 '삼성 천하' … 애플·中 폴더블 참전에 '2라운드'...",
+        "date": "2026-08-04 11:54",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400116.html"
+    },
+    {
+        "title": "1분에 140대, 7일간 144만대…삼성전자 갤럭시 Z, 사전판매 기록 7년만...",
+        "date": "2026-08-04 11:54",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269047"
+    },
+    {
+        "title": "텔레그램, 애플 앱스토어서 다시 다운로드 가능",
+        "date": "2026-08-04 11:52",
+        "link": "https://www.tokenpost.kr/news/breaking/384723"
+    },
+    {
+        "title": "통신3사, '갤럭시 Z8' 시리즈 사전 개통…폴드8 선호도 '뚜렷'",
+        "date": "2026-08-04 11:52",
+        "link": "https://theviewers.co.kr/View.aspx?No=4173373"
+    },
+    {
+        "title": "갤럭시 Z 폴드8·플립8, 사전판매 144만대…역대 갤럭시 최다 기록",
+        "date": "2026-08-04 11:48",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308270"
+    },
+    {
+        "title": "갤럭시 Z8, 국내 사전판매 144만대 '신기록'…최고 인기 제품은?",
+        "date": "2026-08-04 11:48",
+        "link": "https://n.news.naver.com/mnews/article/079/0004175261?sid=101"
+    },
+    {
+        "title": "갤럭시 사전판매 새 역사…Z8 시리즈 144만대 신기록",
+        "date": "2026-08-04 11:45",
+        "link": "https://n.news.naver.com/mnews/article/018/0006344012?sid=105"
+    },
+    {
+        "title": "삼성 '갤Z8' 시리즈, 사전판매 '144만대' 신기록",
+        "date": "2026-08-04 11:42",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047694"
+    },
+    {
+        "title": "“아이폰 갈아탈래”…갤럭시 폴더블, 역대 최다 144만대",
+        "date": "2026-08-04 11:38",
+        "link": "https://www.ekn.kr/web/view.php?key=20260804029469282"
+    },
+    {
+        "title": "신규 유입 급증…SKT, 넷플릭스 연계 혜택으로 2040세대 공략 '적중'",
+        "date": "2026-08-04 11:36",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269002"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 폴드8·플립8' 사전 판매 144만 대…역대 갤럭시 최다",
+        "date": "2026-08-04 11:36",
+        "link": "https://www.mediapen.com/news/view/1114191"
+    },
+    {
+        "title": "KT, 갤럭시 Z 8 시리즈 오늘 사전개통…예약 절반 이상이 ‘폴드8’",
+        "date": "2026-08-04 11:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716353?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 울트라·폴드8·플립8, 국내 사전 판매 144만대…역대 최...",
+        "date": "2026-08-04 11:32",
+        "link": "https://www.betanews.net/article/view/beta202608040016"
+    },
+    {
+        "title": "삼성 갤럭시 Z8 시리즈 ‘아재폰’ 오명 벗었다",
+        "date": "2026-08-04 11:32",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20260804112934362548439a4874_29"
+    },
+    {
+        "title": "36g 초경량 AI 스마트글래스 '이븐 G2', 국내 출시 예정",
+        "date": "2026-08-04 11:32",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608040010"
+    },
+    {
+        "title": "갤럭시Z ‘사전예약 144만대’ 신기록 세웠다",
+        "date": "2026-08-04 11:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002679263?sid=105"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 개통 시작…“사전예약 2040 비중 65%”",
+        "date": "2026-08-04 11:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716348?sid=105"
+    },
+    {
+        "title": "[TOP's Pick] [통신] KT, 연세의료원과 의료 데이터 고도화 협력 外",
+        "date": "2026-08-04 11:31",
+        "link": "https://www.topdaily.kr/articles/111279"
+    },
+    {
+        "title": "삼성 '신기록' 역사 쓴 갤Z8 시리즈",
+        "date": "2026-08-04 11:28",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=105615"
+    },
+    {
+        "title": "KT, 갤럭시 Z8 사전개통…AI 스마트폰 시대 맞춰 요금제·서비스 확대",
+        "date": "2026-08-04 11:28",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132908"
+    },
+    {
+        "title": "'베젤 없는' 스마트폰?…中 테크노, 신형 콘셉트 공개 예고",
+        "date": "2026-08-04 11:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689674"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 공동 1호 개통자 '5만 구독자 IT 유튜버 케빈'",
+        "date": "2026-08-04 11:26",
+        "link": "https://n.news.naver.com/mnews/article/031/0001047032?sid=105"
+    },
+    {
+        "title": "핏빗 운동·걸음수 데이터, 이제 애플 헬스로 바로 보낸다",
+        "date": "2026-08-04 11:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689683"
+    },
+    {
+        "title": "15만명 늘린 SKT·23만명 잃은 KT…갤Z8이 반전 카드 될까",
+        "date": "2026-08-04 11:26",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719012"
+    },
+    {
+        "title": "예뻐서 산다…갤럭시 Z8 시리즈, 역대 최대 사전판매 144만대",
+        "date": "2026-08-04 11:25",
+        "link": "https://n.news.naver.com/mnews/article/119/0003117970?sid=105"
+    },
+    {
+        "title": "“예약 고객 절반이 폴드8”…KT, 갤럭시 Z 신제품 사전개통",
+        "date": "2026-08-04 11:24",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608040067"
+    },
+    {
+        "title": "삼성 갤럭시 Z8 시리즈, 사전 예약 144만 대…노트10 깨고 역대 최다 신...",
+        "date": "2026-08-04 11:24",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62143"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 사전 계약 144만대...노트10 138만대 기록 갈아치워",
+        "date": "2026-08-04 11:22",
+        "link": "https://www.raonnews.com/news/article.html?no=60039"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 144만대 사전판매 신...",
+        "date": "2026-08-04 11:18",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104960"
+    },
+    {
+        "title": "사전 판매만 144만대…Z폴드·플립8, 역대 갤럭시 최대 사전 판매 신기록",
+        "date": "2026-08-04 11:16",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90135"
+    },
+    {
+        "title": "‘여권크기’ 폴드8 인기…갤럭시 Z8, 사전예약 144만 대",
+        "date": "2026-08-04 11:15",
+        "link": "https://n.news.naver.com/mnews/article/025/0003542178?sid=101"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드8 시리즈 개통 시작…사전예약 67%가 폴드8 선...",
+        "date": "2026-08-04 11:14",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222954"
+    },
+    {
+        "title": "해성옵틱스, '갤Z폴드8' 시리즈에 OIS 액추에이터 공급",
+        "date": "2026-08-04 11:14",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432937?sid=105"
+    },
+    {
+        "title": "1500만 건 소재 데이터로 개발 기간 단축…‘소부장 AI 인프라’ 코맵 뜬...",
+        "date": "2026-08-04 11:13",
+        "link": "https://n.news.naver.com/mnews/article/050/0000109293?sid=101"
+    },
+    {
+        "title": "갤럭시 Z8시리즈 사전판매 144만대로 역대 최다...젊은층 수요 확대가 흥...",
+        "date": "2026-08-04 11:12",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=203824"
+    },
+    {
+        "title": "‘1030 여심 녹였다’⋯삼성전자 ‘갤Z 폴드8·플립8’, 사전 판매 역대...",
+        "date": "2026-08-04 11:12",
+        "link": "https://www.viva100.com/article/20260804500588"
+    },
+    {
+        "title": "삼성전자, '갤Z8·AI'로 반등 시동…애플 폴더블과 진검승부",
+        "date": "2026-08-04 11:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719016"
+    },
+    {
+        "title": "[특징주] 삼성·애플 폴더블 동시 수혜 기대…파인엠텍 8%대 강세",
+        "date": "2026-08-04 11:08",
+        "link": "https://www.tokenpost.kr/news/economy/384685"
+    },
+    {
+        "title": "신작 삼성 폴더블폰 '갤럭시 Z8' 사전판매 신기록…폴드8·청년·여성서...",
+        "date": "2026-08-04 11:08",
+        "link": "https://www.socialvalue.kr/news/view/1065577780636130"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 국내 사전판매 144만대 신기록",
+        "date": "2026-08-04 11:08",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=258533"
+    },
+    {
+        "title": "'폴더블폰=중장년' 공식 깨졌다…'갤럭시 Z8'에 빠진 2040",
+        "date": "2026-08-04 11:06",
+        "link": "https://n.news.naver.com/mnews/article/469/0000946102?sid=105"
+    },
+    {
+        "title": "갤럭시 Z8, 국내 사전 판매 144만대 '신기록'...노트10 제쳐",
+        "date": "2026-08-04 11:06",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80297"
+    },
+    {
+        "title": "삼성 '갤Z8 시리즈' 사전판매 신기록…전작 뛰어넘어",
+        "date": "2026-08-04 11:04",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=742589"
+    },
+    {
+        "title": "'갤럭시 Z' 폴더블 사전판매 144만대…갤노트10 기록 7년 만에 넘어",
+        "date": "2026-08-04 11:02",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=240775"
+    },
+    {
+        "title": "삼성 폴더블폰 '히트 예감'···갤럭시 Z 폴드8 사전판매 144만대 돌파",
+        "date": "2026-08-04 11:01",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=634847"
+    },
+    {
+        "title": "이븐 리얼리티스, 8월 '이븐 G2' AI 스마트 안경 국내 정식 출시",
+        "date": "2026-08-04 11:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003453986?sid=105"
+    },
+    {
+        "title": "통신 3사, 갤럭시Z8 사전예약 중 절반 이상 'Z 폴드 8'…사전개통 시작",
+        "date": "2026-08-04 11:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719018"
+    },
+    {
+        "title": "갤럭시 Z8 사전판매 144만대 '역대 최다'..폴드8 100만대 돌파",
+        "date": "2026-08-04 11:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2115760"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8 시리즈' 국내 사전 판매서 '역대 최다' 144만대",
+        "date": "2026-08-04 11:00",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363389"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z8 대박…144만대 팔리며 노트10 기록 깼다",
+        "date": "2026-08-04 10:59",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=111894"
+    },
+    {
+        "title": "통신 3사, 갤럭시 Z8 개통 시작… “예약자 62%는 일반폰서 폴더블로”",
+        "date": "2026-08-04 10:58",
+        "link": "https://n.news.naver.com/mnews/article/366/0001184178?sid=105"
+    },
+    {
+        "title": "“노트10 넘었다”…갤럭시 Z8 사전판매 144만 대 역대 최다 신기록",
+        "date": "2026-08-04 10:57",
+        "link": "https://n.news.naver.com/mnews/article/011/0004648316?sid=101"
+    },
+    {
+        "title": "애플, 암호화 데이터 '뒷문' 열라는 英 요구에 법적 대응",
+        "date": "2026-08-04 10:56",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167251"
+    },
+    {
+        "title": "분당 140대 팔렸다…갤럭시 Z8, 사전판매 144만대 '신기록'",
+        "date": "2026-08-04 10:55",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088557?sid=101"
+    },
+    {
+        "title": "갤럭시Z 폴드8 시리즈, 국내 사전판매 144만대 … 역대 갤럭시 최다 기록",
+        "date": "2026-08-04 10:54",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87516"
+    },
+    {
+        "title": "통신 3사, 갤럭시 Z8 고객잡기 열전…폴드8 흥행에 혜택서비스 치열",
+        "date": "2026-08-04 10:54",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92820"
+    },
+    {
+        "title": "은퇴한 측근까지 불러들였다…한 달 뒤 출항하는 '터너스호' 애플",
+        "date": "2026-08-04 10:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0014106819?sid=105"
+    },
+    {
+        "title": "갤럭시 Z8, 사전판매 144만대 '역대 최다'…노트10 7년 만에 넘었다",
+        "date": "2026-08-04 10:54",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62406"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 역대급 흥행…사전판매 144만대 ‘신기록’",
+        "date": "2026-08-04 10:53",
+        "link": "https://n.news.naver.com/mnews/article/666/0000117778?sid=101"
+    },
+    {
+        "title": "'갤럭시 Z8 시리즈' 개통 시작…사전판매 144만대 신기록, 폴더블 대중화...",
+        "date": "2026-08-04 10:52",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=224434"
+    },
+    {
+        "title": "'8세대 갤럭시Z', 칩플레이션 파고 넘었다...갤럭시 예판 최고치 경신",
+        "date": "2026-08-04 10:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=153953"
+    },
+    {
+        "title": "갤럭시 Z8 사전판매 144만대 '신기록'…폴더블 대중화",
+        "date": "2026-08-04 10:52",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=476405"
+    },
+    {
+        "title": "통신3사, 갤럭시 Z 폴드8 시리즈 사전개통 시작",
+        "date": "2026-08-04 10:52",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=150262"
+    },
+    {
+        "title": "1분당 140대 팔려…삼성 '갤럭시Z8', 국내 사전판매 144만대 신기록",
+        "date": "2026-08-04 10:52",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177361"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시Z 폴드8 시리즈 3종에 메인카메라 OIS 공급",
+        "date": "2026-08-04 10:50",
+        "link": "https://n.news.naver.com/mnews/article/008/0005395307?sid=101"
+    },
+    {
+        "title": "삼성 폴더블8 사전판매 144만대 돌파···역대 '최고 기록'",
+        "date": "2026-08-04 10:49",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=346740"
+    },
+    {
+        "title": "갤럭시 Z 폴드8·플립8, 사전예약 144만대…역대 최다 기록",
+        "date": "2026-08-04 10:47",
+        "link": "https://n.news.naver.com/mnews/article/008/0005395303?sid=105"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드8 시리즈, 사전판매 144만대 '역대 최다'",
+        "date": "2026-08-04 10:46",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417897"
+    },
+    {
+        "title": "1분당 140대씩 팔렸다...삼성 갤럭시 Z8 시리즈 역대 최다 판매 신기록",
+        "date": "2026-08-04 10:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716298?sid=105"
+    },
+    {
+        "title": "삼성전자 ‘갤럭시 Z8 시리즈’, 사전판매 144만대…폴드8 흥행 견인",
+        "date": "2026-08-04 10:44",
+        "link": "https://www.news2day.co.kr/article/20260804500093"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드8·플립8 사전개통 시작…초이스 더블 요금제·AI 서비...",
+        "date": "2026-08-04 10:44",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155769"
+    },
+    {
+        "title": "갤럭시 Z 폴드·플립8, 국내 사전 판매 144만대",
+        "date": "2026-08-04 10:42",
+        "link": "https://n.news.naver.com/mnews/article/023/0003991254?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z 폴드·플립8' 사전판매 144만대…1분에 140대씩 '신기록'",
+        "date": "2026-08-04 10:42",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=849302"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드8·플립8' 사전 판매 역대 신기록",
+        "date": "2026-08-04 10:42",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071125"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8 시리즈' 사전 판매량 144만대…역대 최다",
+        "date": "2026-08-04 10:41",
+        "link": "https://n.news.naver.com/mnews/article/215/0001261078?sid=101"
+    },
+    {
+        "title": "SKT, 갤럭시 Z8 시리즈 개통 시작…2040 고객 몰렸다",
+        "date": "2026-08-04 10:38",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43969"
+    },
+    {
+        "title": "청주시, 애플망고 첫 수확으로 아열대작물 육성 박차",
+        "date": "2026-08-04 10:38",
+        "link": "https://www.viva100.com/article/20260804500484"
+    },
+    {
+        "title": "애플, AI 생성 보안 제보 급증에 '신고 제한·대기기간' 도입",
+        "date": "2026-08-04 10:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689648"
+    },
+    {
+        "title": "갤럭시 Z8 개통 시작…통신 3사, 서비스 경쟁으로 고객몰이 나선다",
+        "date": "2026-08-04 10:38",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098458"
+    },
+    {
+        "title": "통신 3사, '갤럭시 Z8 시리즈' 개통 시작…사전예약서 '갤럭시 Z 폴드8'이...",
+        "date": "2026-08-04 10:36",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=289894"
+    },
+    {
+        "title": "애플이 플라즈마 시뮬레이션 기업 품은 이유…신형 아이폰 디자인 변화...",
+        "date": "2026-08-04 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689649"
+    },
+    {
+        "title": "해성옵틱스, 'Z 플립8' 메인 카메라 OIS 공급 확대",
+        "date": "2026-08-04 10:36",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715648"
+    },
+    {
+        "title": "'갤Z8' 개통 시작, 144만대 판매…이통3사, OTT·콘텐츠 혜택 강화",
+        "date": "2026-08-04 10:36",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047635"
+    },
+    {
+        "title": "갤럭시가 아저씨폰? 이젠 옛말…10대·여심 잡았다",
+        "date": "2026-08-04 10:35",
+        "link": "https://n.news.naver.com/mnews/article/374/0000525446?sid=101"
+    },
+    {
+        "title": "갤럭시Z 시리즈 사전예약 144만대… 역대 최다",
+        "date": "2026-08-04 10:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167248"
+    },
+    {
+        "title": "'갤럭시 Z 시리즈' 1분에 140대 팔렸다...역대 최다 판매 신기록",
+        "date": "2026-08-04 10:34",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314230"
+    },
+    {
+        "title": "갤럭시 8세대 폴더블폰, 국내 사전 판매 144만대…7년 만에 기록 경신",
+        "date": "2026-08-04 10:32",
+        "link": "https://n.news.naver.com/mnews/article/658/0000151364?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드8·플립8, 사전판매 144만대…역대 최대",
+        "date": "2026-08-04 10:32",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442316"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드8' 3종 사전판매 144만대 기록",
+        "date": "2026-08-04 10:32",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=756351"
+    },
+    {
+        "title": "이통 3사, 갤럭시 Z8 개통 시작… 프로모션 총력",
+        "date": "2026-08-04 10:32",
+        "link": "https://www.asiatime.co.kr/article/20260804500038"
+    },
+    {
+        "title": "노트10 제쳤다… 갤럭시 Z8, 국내 사전 판매 144만대 ‘신기록’",
+        "date": "2026-08-04 10:32",
+        "link": "https://n.news.naver.com/mnews/article/366/0001184166?sid=105"
+    },
+    {
+        "title": "이통3사, '갤럭시 Z8 시리즈' 개통 시작…폴드8 예약 절반 넘어",
+        "date": "2026-08-04 10:32",
+        "link": "https://www.news2day.co.kr/article/20260804500077"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z8, 새 역사 썼다..국내 사전 판매 144만대",
+        "date": "2026-08-04 10:32",
+        "link": "https://kpenews.com/View.aspx?No=4173258"
+    },
+    {
+        "title": "[Tech &amp; Now] 삼성전자 '갤럭시 Z8 시리즈', 사전 판매 144만 대 등",
+        "date": "2026-08-04 10:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719003"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시 Z8 시리즈 공급망 진입...폴더블 카메라 부품 확대...",
+        "date": "2026-08-04 10:30",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=278566"
+    },
+    {
+        "title": "인도, 애플 생산기지 잡았다…계약생산 세제 혜택 2041년까지 연장 추진",
+        "date": "2026-08-04 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689645"
+    },
+    {
+        "title": "예뻐서 샀다 폭발한 여심…갤럭시 Z8, 144만대 팔려 역대 신기록",
+        "date": "2026-08-04 10:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298780"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8 시리즈' 국내 사전 판매 144만대…역대 최다",
+        "date": "2026-08-04 10:28",
+        "link": "https://www.ajunews.com/view/20260804102305897"
+    },
+    {
+        "title": "아재폰? 이제는 옛말…1030 몰려든 갤럭시 Z8 사전판매 역대 최고기록 깼...",
+        "date": "2026-08-04 10:27",
+        "link": "https://n.news.naver.com/mnews/article/022/0004148257?sid=101"
+    },
+    {
+        "title": "[써보니] 콘텐츠 최적화 폴더블폰 왔다..갤럭시 Z 폴드8, 새 폼팩터 위력...",
+        "date": "2026-08-04 10:26",
+        "link": "https://kpenews.com/View.aspx?No=4173199"
+    },
+    {
+        "title": "애플, AI 시리 드디어 공개했지만...완성도 높아도 늦었다",
+        "date": "2026-08-04 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689608"
+    },
+    {
+        "title": "‘갤럭시 Z8 시리즈’ 사전 예약 흥행…넓어진 ‘폴드8’이 인기 견인",
+        "date": "2026-08-04 10:26",
+        "link": "https://www.kbsm.net/news/view.php?idx=529084"
+    },
+    {
+        "title": "삼성 갤럭시 Z폴드8·플립8, 사전 예약 144만 대 '역대 최고'…7일간 1분...",
+        "date": "2026-08-04 10:24",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=115631"
+    },
+    {
+        "title": "노트10 제쳤다…갤Z8 시리즈, 사전판매 144만대 '역대 최다'",
+        "date": "2026-08-04 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0009095615?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z 폴드8·플립8' 사전판매 144만대 신기록…역대 최고 흥행",
+        "date": "2026-08-04 10:24",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119778"
+    },
+    {
+        "title": "갤럭시 Z8 사전판매 144만 대…삼성 스마트폰 역대 최다",
+        "date": "2026-08-04 10:23",
+        "link": "https://n.news.naver.com/mnews/article/055/0001377892?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매 144만대…역대 신기록",
+        "date": "2026-08-04 10:20",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474149"
+    },
+    {
+        "title": "갤럭시 Z 폴드8·플립8, 사전판매 144만대…노트10 기록 7년 만에 넘었다",
+        "date": "2026-08-04 10:20",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265304"
+    },
+    {
+        "title": "갤럭시 Z8 사전예약 흥행…'폴드8' 가장 많이 팔렸다",
+        "date": "2026-08-04 10:20",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280678"
+    },
+    {
+        "title": "해성옵틱스, '갤럭시 Z 폴드8·폴드8 울트라' OIS 액추에이터 공급",
+        "date": "2026-08-04 10:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298775"
+    },
+    {
+        "title": "통신 3사, 갤럭시 Z 시리즈 사전예약 마무리…개통 실시",
+        "date": "2026-08-04 10:18",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575602518424"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작 … 2030 유입 늘며 폴더블 대세화",
+        "date": "2026-08-04 10:18",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87514"
+    },
+    {
+        "title": "플립보다 폴드…갤럭시 Z 폴드8, 대화면이 흥행 이끌었다",
+        "date": "2026-08-04 10:14",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=240770"
+    },
+    {
+        "title": "[특징주] 삼성·애플 동시 수혜…파인엠텍 5% 강세",
+        "date": "2026-08-04 10:14",
+        "link": "https://www.newspim.com/news/view/20260804000279"
+    },
+    {
+        "title": "통신3사, 갤럭시 Z 폴드·플립8 개통 개시…폴더블 역대급 기록 쓸까",
+        "date": "2026-08-04 10:14",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90121"
+    },
+    {
+        "title": "'7년 묵은 기록' 깼다...갤럭시 Z8, 사전판매 144만대 기록",
+        "date": "2026-08-04 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689622"
+    },
+    {
+        "title": "갤럭시 Z폴드 시리즈 144만대 사전판매 신기록…폴드8이 70%",
+        "date": "2026-08-04 10:12",
+        "link": "https://www.g-enews.com/view.php?ud=20260804100656193527fa31d75c_1"
+    },
+    {
+        "title": "통신3사, 갤럭시Z8 사전개통..폴드8에 예약 몰려",
+        "date": "2026-08-04 10:10",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2115752"
+    },
+    {
+        "title": "SK텔레콤, 넷플릭스와 협력해 사전예약 고객 혜택 강화",
+        "date": "2026-08-04 10:10",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271034"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
+        "date": "2026-08-04 10:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583"
+    },
+    {
+        "title": "벤딕트, 안드로이드 오토 &amp; 애플 카플레이 2in1 링크핏 프로 출시",
+        "date": "2026-08-04 10:10",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063742"
+    },
+    {
+        "title": "완전 나한테 찰떡이잖아 1030 취향저격…'1분에 140대 팔렸다' 신기록...",
+        "date": "2026-08-04 10:09",
+        "link": "https://n.news.naver.com/mnews/article/277/0005798532?sid=105"
+    },
+    {
+        "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…대화면 폴드8 인기",
+        "date": "2026-08-04 10:08",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041"
+    },
+    {
+        "title": "예뻐서 샀다 폭발한 여심…갤럭시 Z8, 144만대 팔려 역대 신기록",
+        "date": "2026-08-04 10:08",
+        "link": "https://n.news.naver.com/mnews/article/003/0014106520?sid=105"
+    },
+    {
+        "title": "'갤럭시 폴더블' 사전판매 144만대 신기록...분당 140대꼴 팔려",
+        "date": "2026-08-04 10:08",
+        "link": "https://www.dongponews.net/news/articleView.html?idxno=59663"
+    },
+    {
+        "title": "삼성전자 ‘갤럭시 Z 시리즈’, 사전 판매 144만대 ‘신기록’",
+        "date": "2026-08-04 10:08",
+        "link": "https://theviewers.co.kr/View.aspx?No=4173144"
+    },
+    {
+        "title": "삼성 갤럭시 Z8 시리즈, 국내 사전판매 144만대…역대 최다",
+        "date": "2026-08-04 10:08",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=145353"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z8' 시리즈 사전판매 144만 대…역대 최다",
+        "date": "2026-08-04 10:06",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=128584"
+    },
+    {
+        "title": "갤럭시 Z8 사전판매 144만대…삼성 스마트폰 역대 최다",
+        "date": "2026-08-04 10:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0016232143?sid=105"
+    },
+    {
+        "title": "‘여권폰’ 통했다…갤Z시리즈 역대 최다 사전판매, 1030이 절반",
+        "date": "2026-08-04 10:06",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343919?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 등 사전 판매 144만대…역대 최다 신기록",
+        "date": "2026-08-04 10:06",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594342"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8' 시리즈, 사전 판매 144만대...역대 최다 신기록",
+        "date": "2026-08-04 10:04",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257455"
+    },
+    {
+        "title": "갤럭시 Z 폴드8, 사전판매 144만대 '역대 최대'…7년만에 갤노트10 기록...",
+        "date": "2026-08-04 10:02",
+        "link": "https://www.etoday.co.kr/news/view/2610731"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈, 사전판매 144만대…삼성 폴더블 판매 기록 다시 썼다",
+        "date": "2026-08-04 10:01",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000098453"
+    },
+    {
+        "title": "1분에 140대씩 팔렸다…갤럭시 Z 폴드8·플립8 사전 판매 역대 최다",
+        "date": "2026-08-04 10:00",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205982"
+    },
+    {
+        "title": "갤럭시 Z 폴드8·플립8, 국내 사전판매 144만대…역대 갤럭시 최다 기록",
+        "date": "2026-08-04 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=115026"
+    },
+    {
+        "title": "갤럭시 Z8 사전예약 절반 이상 '폴드8' 선택",
+        "date": "2026-08-04 10:00",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=52169"
+    },
+    {
+        "title": "갤럭시S27 울트라, 10MP 3배 망원 카메라 제외…트리플 카메라 체제로 전...",
+        "date": "2026-08-04 10:00",
+        "link": "https://kbench.com/?q=node/280880"
+    },
+    {
+        "title": "“1분에 140대씩 팔렸다” 폴드8 사전 예약 144만대, 역대 최대 신기록…...",
+        "date": "2026-08-04 09:59",
+        "link": "https://n.news.naver.com/mnews/article/016/0002679142?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 시리즈 사전판매 144만대…역대 갤럭시 신기록",
+        "date": "2026-08-04 09:58",
+        "link": "https://thetracker.co.kr/View.aspx?No=4173135"
+    },
+    {
+        "title": "갤럭시 Z 폴드8, 이통3사 사전예약 석권…4대3 화면비 통했다",
+        "date": "2026-08-04 09:58",
+        "link": "https://n.news.naver.com/mnews/article/008/0005395238?sid=105"
+    },
+    {
+        "title": "이통3사, '갤럭시 Z8' 시리즈 개통 시작",
+        "date": "2026-08-04 09:54",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257448"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작… 20~40대 사전예약 증가세 '눈길...",
+        "date": "2026-08-04 09:54",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155762"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z8 개통 돌입…'폴드8' 흥행 속 고객 유치 경쟁",
+        "date": "2026-08-04 09:50",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876953"
+    },
+    {
+        "title": "통신 3사, 갤럭시 Z8 시리즈 사전개통…폴더블 수요 확대",
+        "date": "2026-08-04 09:50",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=742566"
+    },
+    {
+        "title": "[홍콩 특징주] 애플 공급사 '럭스쉐어' 광학 계열사 '럭스비젼', 홍콩상...",
+        "date": "2026-08-04 09:46",
+        "link": "https://www.newspim.com/news/view/20260804000266"
+    },
+    {
+        "title": "기후변화가 바꾼 '7년의 産苦'…청주 가덕면에 애플망고 '주렁주렁'",
+        "date": "2026-08-04 09:46",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260804010000869"
+    },
+    {
+        "title": "KT, '갤럭시 Z 폴드8' 사전개통 개시…예약자 절반 이상 '폴드8' 선택",
+        "date": "2026-08-04 09:46",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=115627"
+    },
+    {
+        "title": "이통3사, '갤럭시 Z 폴드8' 사전예약 고객 개통 시작 … 다양한 혜택 고...",
+        "date": "2026-08-04 09:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400054.html"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 개통 시작…2040 사전예약 비중 65% '젊은층 유입 확...",
+        "date": "2026-08-04 09:40",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=86932"
+    },
+    {
+        "title": "통신3사, 갤럭시 Z 폴드8 울트라·폴드8·플립8 사전개통 시작",
+        "date": "2026-08-04 09:40",
+        "link": "https://www.etoday.co.kr/news/view/2610711"
+    },
+    {
+        "title": "SKT·KT, AI 시대 경쟁력 강화…폴더블 흥행부터 의료 AI까지 투자 확대",
+        "date": "2026-08-04 09:38",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=712716"
+    },
+    {
+        "title": "KT, ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 개통 시작⋯ “폴드8 선호...",
+        "date": "2026-08-04 09:38",
+        "link": "https://www.viva100.com/article/20260804500313"
+    },
+    {
+        "title": "탈중국 가속하는 애플… 인도, 2041년까지 파격 세제 지원으로 러브콜",
+        "date": "2026-08-04 09:36",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236471?sid=105"
+    },
+    {
+        "title": "존 터너스 애플 차기 CEO, 최측근이었지만 퇴임한 로라 레그로 다시 불...",
+        "date": "2026-08-04 09:36",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236472?sid=105"
+    },
+    {
+        "title": "애플, 英정부 백도어 요구에 반기…절대 불가 소송",
+        "date": "2026-08-04 09:35",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343887?sid=101"
+    },
+    {
+        "title": "파인엠텍, '폴더블' 시장 수혜 전망에 6%대 강세[특징주]",
+        "date": "2026-08-04 09:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343883?sid=101"
+    },
+    {
+        "title": "갤럭시 F70 프로, 인도 출시…120Hz AMOLED 디스플레이 적용·6년 업데이...",
+        "date": "2026-08-04 09:34",
+        "link": "https://kbench.com/?q=node/280879"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드8·플립8 사전개통 시작…폴드8 예약 비중 절반 넘어",
+        "date": "2026-08-04 09:34",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=115021"
+    },
+    {
+        "title": "애플 '카메라 달린 에어팟' 올해 나오나",
+        "date": "2026-08-04 09:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432890?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z8' 사전예약 흥행...폴드8 절반 넘게 차지하며 '대세'",
+        "date": "2026-08-04 09:34",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=537484"
+    },
+    {
+        "title": "LG유플러스, ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 개통 시작",
+        "date": "2026-08-04 09:34",
+        "link": "https://www.viva100.com/article/20260804500297"
+    },
+    {
+        "title": "KT, 갤럭시 Z 시리즈 사전개통 시작…폴드8 선호도 1위 기록",
+        "date": "2026-08-04 09:30",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234516"
+    },
+    {
+        "title": "SKT·KT·LGU+, 갤럭시 Z8 시리즈 사전개통…폴드8 인기",
+        "date": "2026-08-04 09:28",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1392384"
+    },
+    {
+        "title": "[클릭 e종목]파인엠텍, 삼성·북미 폴더블 동시 수혜…'폴더블 뉴노멀...",
+        "date": "2026-08-04 09:26",
+        "link": "https://n.news.naver.com/mnews/article/277/0005798467?sid=101"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드8 개통 시작…사전예약 67% 선택",
+        "date": "2026-08-04 09:26",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238310"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드8 흥행·보안 M&amp;A '투트랙'…AI 시대 경쟁력 ...",
+        "date": "2026-08-04 09:24",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=712715"
+    },
+    {
+        "title": "SKT, ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 개통 시작⋯ “2040 비중...",
+        "date": "2026-08-04 09:24",
+        "link": "https://www.viva100.com/article/20260804500250"
+    },
+    {
+        "title": "LGU+, 보안 전문기업 파고네트웍스 인수…폴더블 개통 시작",
+        "date": "2026-08-04 09:22",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82751"
+    },
+    {
+        "title": "애플 차기 CEO 터너스, 옛 측근 복귀시켰다⋯새 진용 구축",
+        "date": "2026-08-04 09:21",
+        "link": "https://n.news.naver.com/mnews/article/031/0001046979?sid=101"
+    },
+    {
+        "title": "장세일 영광군수, 애플망고 수확 현장으로...전국 최고프리미엄 브랜드...",
+        "date": "2026-08-04 09:18",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=325789"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z 시리즈 개통 시작…폴드8 선택 집중",
+        "date": "2026-08-04 09:18",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442302"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴더블8 사전개통 시작...폴드8 예약 절반 넘어",
+        "date": "2026-08-04 09:12",
+        "link": "https://hbnpress.com/news/view/1065571648366261"
+    },
+    {
+        "title": "폴드8 대세…갤럭시 Z8 사전예약, 전작 뛰어넘었다",
+        "date": "2026-08-04 09:09",
+        "link": "https://n.news.naver.com/mnews/article/001/0016231922?sid=105"
+    },
+    {
+        "title": "SKT, '갤럭시Z' 사전 판매 흥행…2040 고객 잡고 혜택 이어간다",
+        "date": "2026-08-04 09:09",
+        "link": "https://n.news.naver.com/mnews/article/421/0009095379?sid=105"
+    },
+    {
+        "title": "아이폰 18 프로·울트라, 올가을 가격 인상 초읽기",
+        "date": "2026-08-04 09:06",
+        "link": "https://www.itworld.co.kr/article/4204688/아이폰-18-프로·울트라-올가을-가격-인상-초읽기.html"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통…2040 비중 10%p 증가",
+        "date": "2026-08-04 09:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715623"
+    },
+    {
+        "title": "SK텔레콤, 폴더블 개통 시작…2040 고객 늘었다",
+        "date": "2026-08-04 09:02",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=278536"
+    },
+    {
+        "title": "냉장고 맞먹는 폰값…앞자리 '3' 찍어버린 충격적 이유 [스프]",
+        "date": "2026-08-04 09:00",
+        "link": "https://n.news.naver.com/mnews/article/055/0001377863?sid=101"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드8·플립8 사전개통 시작...초이스 더블 요금제 새단장...",
+        "date": "2026-08-04 08:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474098"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈 사전개통 돌입...이통3사 혜택 총력전",
+        "date": "2026-08-04 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689546"
+    },
+    {
+        "title": "영국 사용자 암호화 해제 요구에 반기 든 애플…백도어 구축 결코 없다...",
+        "date": "2026-08-04 08:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236453?sid=105"
+    },
+    {
+        "title": "여권형 폴더블폰 열풍..통신3사, 갤럭시 Z8 사전개통 시작",
+        "date": "2026-08-04 08:54",
+        "link": "https://kpenews.com/View.aspx?No=4173012"
+    },
+    {
+        "title": "통신3사, 갤럭시 Z 폴더블 신제품 사전개통 시작…예약 고객 절반 이상...",
+        "date": "2026-08-04 08:54",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=142053"
+    },
+    {
+        "title": "통신 3사, 갤럭시 Z8 사전개통…‘폴드8’ 예약 절반 넘어",
+        "date": "2026-08-04 08:53",
+        "link": "https://n.news.naver.com/mnews/article/117/0004091463?sid=105"
+    },
+    {
+        "title": "SKT, 갤럭시 Z 폴드8·플립8 사전예약 개통 시작...넷플릭스 연계 혜택 ...",
+        "date": "2026-08-04 08:52",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474096"
+    },
+    {
+        "title": "갤럭시 Z8 사전개통 시작…통신 3사 폴드8이 대세",
+        "date": "2026-08-04 08:52",
+        "link": "https://www.ajunews.com/view/20260804084208428"
+    },
+    {
+        "title": "칩플레이션에 판매 전략 바뀐다…삼성·애플, '구독·리스'로 수익 방어",
+        "date": "2026-08-04 08:46",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362991"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드8 시리즈 사전개통…폴드8 선호도 1위",
+        "date": "2026-08-04 08:46",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715619"
+    },
+    {
+        "title": "LG유플러스, '갤럭시 Z 폴드8' 개통 개시… 예약자 10명 중 7명 '폴드' 선...",
+        "date": "2026-08-04 08:46",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=115596"
+    },
+    {
+        "title": "SKT, 폴더블 흥행에 가입자 순증까지…하반기 통신 경쟁 불붙는다",
+        "date": "2026-08-04 08:40",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265291"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드8·울트라·플립8 사전개통 시작…예약 절반 이상 '폴...",
+        "date": "2026-08-04 08:40",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343803?sid=105"
+    },
+    {
+        "title": "[애널픽] 파인엠텍, 폴더블 시장 양방향 수혜 열렸다",
+        "date": "2026-08-04 08:38",
+        "link": "https://theviewers.co.kr/View.aspx?No=4172989"
+    },
+    {
+        "title": "LG U+, '갤럭시 Z 폴드8 울트라 · 폴드8 · 플립8' 개통 시작",
+        "date": "2026-08-04 08:38",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715616"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드8·플립8 사전예약 고객 대상 개통 시작",
+        "date": "2026-08-04 08:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474078"
+    },
+    {
+        "title": "SK텔레콤, 갤럭시 Z 폴더블 개통 시작…2040 비중 10%p↑",
+        "date": "2026-08-04 08:36",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234503"
+    },
+    {
+        "title": "디스플레이협회, 유튜브 채널 'ColorScale'서 유리 기판 기술 청사진 제...",
+        "date": "2026-08-04 08:32",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209017"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z8 개통 시작…폴드8 대세에 고객 유치 총력",
+        "date": "2026-08-04 08:30",
+        "link": "https://n.news.naver.com/mnews/article/119/0003117841?sid=105"
+    },
+    {
+        "title": "[모닝리포트] 파인엠텍, 신규 고객사 확보로 폴더블 양산 사이클 진입...",
+        "date": "2026-08-04 08:30",
+        "link": "https://www.newspim.com/news/view/20260804000069"
+    },
+    {
+        "title": "LG유플러스 대화면 폴더블 수급 집중…스마트폰 소비 패러다임 변화",
+        "date": "2026-08-04 08:30",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84034"
+    },
+    {
+        "title": "애플, 사진 앱 인물 인식 기능으로 325억달러 집단소송 위기",
+        "date": "2026-08-04 08:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546376"
+    },
+    {
+        "title": "LG유플러스 사전예약 고객 67.4%, 갤럭시 Z 폴드8 선택",
+        "date": "2026-08-04 08:30",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234500"
+    },
+    {
+        "title": "애플, 영국 '암호화 백도어' 요구에 소송 맞대응",
+        "date": "2026-08-04 08:29",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054251"
+    },
+    {
+        "title": "애플, 암호화 데이터 '뒷문' 접근권 요구 영국에 법적 대응",
+        "date": "2026-08-04 08:24",
+        "link": "https://n.news.naver.com/mnews/article/055/0001377853?sid=104"
+    },
+    {
+        "title": "파인엠텍, 북미 고객사향 전용 라인 가동…'데이터센터 핵심' ESS 엔드플...",
+        "date": "2026-08-04 08:12",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=742534"
+    },
+    {
+        "title": "[미국 특징주] 애플 새 사령탑 터너스, 은퇴한 하드웨어 임원 재영입",
+        "date": "2026-08-04 08:07",
+        "link": "https://www.newspim.com/news/view/20260804000057"
+    },
+    {
+        "title": "[미국 특징주] 애플, 인도발 훈풍…전자제품 추가 세제 혜택 소식",
+        "date": "2026-08-04 08:07",
+        "link": "https://www.newspim.com/news/view/20260804000061"
+    },
+    {
+        "title": "애플 “백도어 열어달라”던 영국 정부 고소",
+        "date": "2026-08-04 08:04",
+        "link": "https://www.etoday.co.kr/news/view/2610607"
+    },
+    {
+        "title": "1030 사로잡은 '여권폰'…갤 Z 폴드8 디자인 비밀은?[모닝폰]",
+        "date": "2026-08-04 07:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343743?sid=105"
+    },
+    {
+        "title": "파인엠텍, 폴더블 '뉴노멀' 수혜 본격화…국내·북미 양방향 수혜-메리...",
+        "date": "2026-08-04 07:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343742?sid=101"
+    },
+    {
+        "title": "[새 폼팩터 표준화 전쟁]①4:3 비율이 대세…삼성·애플·화웨이 주도권...",
+        "date": "2026-08-04 07:36",
+        "link": "https://n.news.naver.com/mnews/article/277/0005798342?sid=105"
+    },
+    {
+        "title": "애플, 암호화 데이터 '뒷문' 접근권 英요구에 법적 대응",
+        "date": "2026-08-04 07:13",
+        "link": "https://n.news.naver.com/mnews/article/374/0000525393?sid=104"
+    },
+    {
+        "title": "신뢰가 실력…애플 차기 CEO 터너스, 첫 인사 '충성파 재영입'",
+        "date": "2026-08-04 07:09",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343675?sid=101"
+    },
+    {
+        "title": "갤럭시탭, ‘가성비’ 미디어텍 칩 또 쓴다…원가절감 사활",
+        "date": "2026-08-04 06:31",
+        "link": "https://n.news.naver.com/mnews/article/011/0004648214?sid=101"
+    },
+    {
+        "title": "애플, ‘암호화 데이터 뒷문’ 요구한 英정부에 소송…“백도어는 없다...",
+        "date": "2026-08-04 06:23",
+        "link": "https://n.news.naver.com/mnews/article/016/0002679012?sid=104"
+    },
+    {
+        "title": "[김한재의 디지털인사이트] 폴더블 시대, 웹툰의 다음 표준을 묻다",
+        "date": "2026-08-04 06:22",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306955"
+    },
+    {
+        "title": "[PLAY IT] 1030세대 ‘콘텐츠 폰’ 될까…갤럭시 Z폴드8 써보니",
+        "date": "2026-08-04 06:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236443?sid=105"
+    },
+    {
         "title": "애플, 공급 우려에 시총 3위로 밀려...엔비디아 1위, 구글 모회사 알파벳...",
         "date": "2026-08-04 06:00",
         "link": "http://www.beyondpost.co.kr/view.php?ud=2026080405515585282aaae0046f_30"
