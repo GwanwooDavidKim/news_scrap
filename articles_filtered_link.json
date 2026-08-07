@@ -1,5 +1,150 @@
 [
     {
+        "title": "애플, 맥 화면공유 인증우회 결함에 베타 없이 3버전 패치",
+        "date": "2026-08-07 23:32",
+        "link": "https://www.wikitree.co.kr/articles/1151109"
+    },
+    {
+        "title": "오픈AI 스피커 300~400달러, 아마존보다 훨씬 비싸다",
+        "date": "2026-08-07 23:12",
+        "link": "https://www.wikitree.co.kr/articles/1151108"
+    },
+    {
+        "title": "식당에서 밥 먹으려면 “당장 벗든지 나가라”…‘몰카’ 공포에 초강수...",
+        "date": "2026-08-07 20:52",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649712?sid=104"
+    },
+    {
+        "title": "애플 최상위 컴퓨터, 맥 프로는 왜 단종됐나?",
+        "date": "2026-08-07 20:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691204"
+    },
+    {
+        "title": "애플, 맥 화면 공유 취약점 해결…맥OS 최신 보안 업데이트 배포",
+        "date": "2026-08-07 19:04",
+        "link": "https://news.appstory.co.kr/daily19464"
+    },
+    {
+        "title": "삼성전자 연내 '전사 노사협의회' 출범…삼성디스플레이는 내년 1월",
+        "date": "2026-08-07 18:32",
+        "link": "https://n.news.naver.com/mnews/article/031/0001048150?sid=105"
+    },
+    {
+        "title": "1030세대, 갤럭시 Z폴드8 울트라 선택했다",
+        "date": "2026-08-07 18:24",
+        "link": "https://monthly.chosun.com/news/articleView.html?idxno=70984"
+    },
+    {
+        "title": "코파일럿+ 지원 '갤럭시북5 프로 360'... PC사랑과 컴퓨존 함께하는 8월...",
+        "date": "2026-08-07 18:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60246"
+    },
+    {
+        "title": "갤럭시Z8 역대급 흥행…원가 부담은 '숙제'",
+        "date": "2026-08-07 17:40",
+        "link": "https://news.mtn.co.kr/news-detail/2026080716072184885"
+    },
+    {
+        "title": "아바코, 2분기 매출 120억원",
+        "date": "2026-08-07 17:34",
+        "link": "https://www.newspim.com/news/view/20260807001080"
+    },
+    {
+        "title": "아바코, 2분기 매출 120억...하반기 실적 개선 기대",
+        "date": "2026-08-07 17:30",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=716153"
+    },
+    {
+        "title": "아바코, 2분기 영업손실 127억…납품 일정에 매출 인식 지연",
+        "date": "2026-08-07 17:30",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60698"
+    },
+    {
+        "title": "코오롱인더, 2분기 영업익 987억원 '118%↑'…산업자재·화학 판매 확대",
+        "date": "2026-08-07 17:22",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747452"
+    },
+    {
+        "title": "대박난 '갤럭시 Z8' 시리즈 국내 공식 출격",
+        "date": "2026-08-07 17:18",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=105726"
+    },
+    {
+        "title": "코오롱인더, 화학·스페셜티에 2분기 호실적…AI 신소재로 성장 가속 (종...",
+        "date": "2026-08-07 17:05",
+        "link": "https://n.news.naver.com/mnews/article/018/0006346978?sid=101"
+    },
+    {
+        "title": "[A 주간 서머리] 경제·산업계 삼성전자 '갤럭시 Z8' 사전 판매 신기록...",
+        "date": "2026-08-07 17:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257936"
+    },
+    {
+        "title": "선익시스템, 삼성D서 '양산용 RGB 올레도스 증착기' 수주할까",
+        "date": "2026-08-07 16:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002433358?sid=105"
+    },
+    {
+        "title": "애플, 중국 CXMT에 '퇴짜'…삼성·SK하이닉스 반사이익 '기대'",
+        "date": "2026-08-07 16:12",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251942"
+    },
+    {
+        "title": "삼성 '7000억 적자' 정면 돌파…여권폰 앞세워 '폴더블 한류' 시동",
+        "date": "2026-08-07 15:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005318491?sid=101"
+    },
+    {
+        "title": "144만대 잭팟 ‘갤Z8’ 시리즈…‘폴더블’ 전쟁은 이제 시작이라는데",
+        "date": "2026-08-07 15:51",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718052?sid=105"
+    },
+    {
+        "title": "유티아이, 북미 고객사 폴더블 UTG 양산",
+        "date": "2026-08-07 15:46",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60680"
+    },
+    {
+        "title": "애플, 日서 아이폰 가격 올리자 중고폰 주문량 2배 껑충… 리퍼폰 패널...",
+        "date": "2026-08-07 15:33",
+        "link": "https://n.news.naver.com/mnews/article/366/0001184948?sid=105"
+    },
+    {
+        "title": "[팩플] 윤곽 드러난 오픈AI의 AI 하드웨어는 도넛 모양 스피커",
+        "date": "2026-08-07 14:44",
+        "link": "https://n.news.naver.com/mnews/article/025/0003542957?sid=105"
+    },
+    {
+        "title": "산업부, 소부장 5개 사업에 910억원 지원",
+        "date": "2026-08-07 14:40",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=333046"
+    },
+    {
+        "title": "선익시스템, 산업부 ‘슈퍼을 기업’ 선정…세계 최초 AI 기반 OLED 증착...",
+        "date": "2026-08-07 14:22",
+        "link": "https://www.hellot.net/news/article.html?no=114210"
+    },
+    {
+        "title": "中, 정부 돈 싣고 OLED까지 추격…韓도 정책금융으로 '초격차 방어전'",
+        "date": "2026-08-07 14:20",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314684"
+    },
+    {
+        "title": "선익시스템, AI 기반 OLED 증착 플랫폼 개발",
+        "date": "2026-08-07 14:16",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60664"
+    },
+    {
+        "title": "[기자수첩] 한국 디스플레이 장비는 안녕하십니까",
+        "date": "2026-08-07 14:10",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=60667"
+    },
+    {
+        "title": "끝날 때까지 끝난 게 아니다…삼성, ‘점유율 0.1%’ 중국서 Z폴드8 광고...",
+        "date": "2026-08-07 14:03",
+        "link": "https://n.news.naver.com/mnews/article/081/0003668547?sid=104"
+    },
+    {
         "title": "유티아이, 글로벌 고객사용 폴더블 UTG 양산 돌입",
         "date": "2026-08-07 13:56",
         "link": "https://dealsite.co.kr/articles/166781"
@@ -190,6 +335,11 @@
         "link": "https://www.cstimes.com/news/articleView.html?idxno=716057"
     },
     {
+        "title": "[삼성 갤럭시 생존법] 애플과 점유율 박빙…매출 격차는 두 배",
+        "date": "2026-08-07 08:24",
+        "link": "https://news.dealsitetv.com/articles/174189"
+    },
+    {
         "title": "선익시스템, '슈퍼을 기업' 선정…AI 기반 OLED 증착 플랫폼 개발 추진",
         "date": "2026-08-07 08:21",
         "link": "https://n.news.naver.com/mnews/article/003/0014113597?sid=101"
@@ -223,1185 +373,5 @@
         "title": "오픈AI 첫 AI 기기 ‘하키퍽 크기 도넛’ 모양 스피커…가격 300~400달러",
         "date": "2026-08-07 07:05",
         "link": "https://n.news.naver.com/mnews/article/009/0005717814?sid=105"
-    },
-    {
-        "title": "애플 출신들이 만드는 AI 기기, 애플·오픈AI를 법정으로 끌어냈다",
-        "date": "2026-08-07 06:34",
-        "link": "https://platum.kr/archives/292129"
-    },
-    {
-        "title": "겉은 '혁신' 속은 '탐욕'…램크루지 애플의 락인 상술 [인사이드 애플③...",
-        "date": "2026-08-07 06:30",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167319"
-    },
-    {
-        "title": "맥 색감 그대로… '맥 특화' 벤큐 MA 시리즈 모니터 살펴보니",
-        "date": "2026-08-07 06:30",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167490"
-    },
-    {
-        "title": "[상반기 테크업종 리포트] ③스마트폰",
-        "date": "2026-08-07 06:22",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608061234358580038"
-    },
-    {
-        "title": "“난생 처음 중국 응원해보네요”…애플에 제대로 갑질한 CXMT",
-        "date": "2026-08-07 05:59",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717803?sid=101"
-    },
-    {
-        "title": "애플 트레이드인 보상가 인상, 맥 스튜디오 260달러 최대",
-        "date": "2026-08-07 05:46",
-        "link": "https://www.wikitree.co.kr/articles/1150946"
-    },
-    {
-        "title": "'인앱결제' 과징금 앞두고 구글·애플 韓 앱 생태계 기여 강조",
-        "date": "2026-08-07 05:40",
-        "link": "https://n.news.naver.com/mnews/article/421/0009101686?sid=105"
-    },
-    {
-        "title": "삼성, 진단 넘어 치료까지···'헬스케어 OS' 속도",
-        "date": "2026-08-07 05:38",
-        "link": "https://www.monews.co.kr/news/articleView.html?idxno=413066"
-    },
-    {
-        "title": "아이폰18 프로·폴더블 9월 먼저, 일반형은 내년 봄 출시",
-        "date": "2026-08-07 05:26",
-        "link": "https://www.wikitree.co.kr/articles/1150945"
-    },
-    {
-        "title": "中 맹추격에 OLED까지 내줄라…K디스플레이의 'SOS'",
-        "date": "2026-08-07 05:01",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176364?sid=101"
-    },
-    {
-        "title": "“스마트 안경 벗어달라”…‘몰카’ 우려에 영국 식당·극장선 ‘착용...",
-        "date": "2026-08-07 02:35",
-        "link": "https://n.news.naver.com/mnews/article/029/0003041164?sid=104"
-    },
-    {
-        "title": "오픈AI, 애플 영업비밀 소송 반박…“정보관리 허점”",
-        "date": "2026-08-07 01:48",
-        "link": "https://www.tokenpost.kr/news/breaking/386418"
-    },
-    {
-        "title": "갤럭시 Z 폴드8·플립8 출시일…가격·스펙 정리",
-        "date": "2026-08-07 00:32",
-        "link": "https://www.bntnews.co.kr/article/view/bnt202608070003"
-    },
-    {
-        "title": "애플 韓 앱스토어 경제효과 38조원…자체 연구 발표",
-        "date": "2026-08-06 22:40",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=747348"
-    },
-    {
-        "title": "'몰카 걱정에'…英 식당·극장서 확산하는 '스마트 안경 금지령'",
-        "date": "2026-08-06 22:35",
-        "link": "https://n.news.naver.com/mnews/article/015/0005318279?sid=104"
-    },
-    {
-        "title": "몰래 찍힐라...영국 식당·극장 '스마트 안경 금지' 확산",
-        "date": "2026-08-06 22:34",
-        "link": "https://n.news.naver.com/mnews/article/052/0002389935?sid=104"
-    },
-    {
-        "title": "“언제 어디서 촬영당할지 몰라”…영국서 식당·극장 ‘스마트 안경 금...",
-        "date": "2026-08-06 22:26",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717800?sid=104"
-    },
-    {
-        "title": "스마트 안경 벗어주세요 영국 식당·극장 잇단 사용 제한",
-        "date": "2026-08-06 22:18",
-        "link": "https://n.news.naver.com/mnews/article/018/0006346478?sid=101"
-    },
-    {
-        "title": "몰래 찍힐라…영국 식당·극장 '스마트 안경 금지' 확산",
-        "date": "2026-08-06 21:58",
-        "link": "https://n.news.naver.com/mnews/article/001/0016238316?sid=104"
-    },
-    {
-        "title": "IP 숨긴다던 애플 유료 기능… 웹사이트가 실제 주소 알아낼 수도",
-        "date": "2026-08-06 21:08",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167510"
-    },
-    {
-        "title": "갤럭시 사전예약 시작 후 중고폰 판매 급증…셀로, 직전 대비 신청 91% 증...",
-        "date": "2026-08-06 20:14",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405273"
-    },
-    {
-        "title": "갤럭시 성공이 곧 구미의 자긍심·원동력",
-        "date": "2026-08-06 19:24",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=716332"
-    },
-    {
-        "title": "정부, 소부장 협력모델 5건 승인…5년간 R&amp;D 910억 원 지원",
-        "date": "2026-08-06 18:40",
-        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148969611&call_from=naver_news"
-    },
-    {
-        "title": "[박진영의 비즈+] 1030 사로잡은 삼성 폴더블폰…9월 공개 앞둔 애플 묘...",
-        "date": "2026-08-06 18:30",
-        "link": "https://www.ajunews.com/view/20260806151501115"
-    },
-    {
-        "title": "재경차관 日 규제 계기로 소부장 키워… 미래 전략 육성",
-        "date": "2026-08-06 18:27",
-        "link": "https://n.news.naver.com/mnews/article/123/0002387970?sid=101"
-    },
-    {
-        "title": "칩 싸게 안팔아… CXMT, 애플 납품 거절",
-        "date": "2026-08-06 18:10",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717715?sid=101"
-    },
-    {
-        "title": "“화웨이보다 낫네”…'애국소비' 中서 눈길 끈 갤럭시[르포]",
-        "date": "2026-08-06 17:55",
-        "link": "https://n.news.naver.com/mnews/article/018/0006346284?sid=101"
-    },
-    {
-        "title": "오픈AI, 애플의 영업비밀 침해 소송에 근거 없다며 기각 신청",
-        "date": "2026-08-06 17:28",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=213634"
-    },
-    {
-        "title": "[단독]삼성 노태문, MX 수뇌부 소집…'AX 전환' 특명",
-        "date": "2026-08-06 17:24",
-        "link": "https://n.news.naver.com/mnews/article/018/0006346258?sid=101"
-    },
-    {
-        "title": "삼성, 2년 만에 ‘갤럭시 핏4’ 선보이나…웨어러블 생태계 확장 ‘시동...",
-        "date": "2026-08-06 17:02",
-        "link": "https://www.ceoscoredaily.com/page/view/2026080616521267057"
-    },
-    {
-        "title": "'갤럭시 Z 폴드8', 게임의 화면비와 성능 테스트 해보니",
-        "date": "2026-08-06 17:00",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59830"
-    },
-    {
-        "title": "'갤럭시Z 폴드8' 시리즈 인기 폭발…한국·인도 이어 미국도 사전 예약...",
-        "date": "2026-08-06 16:56",
-        "link": "https://kbench.com/?q=node/280984"
-    },
-    {
-        "title": "갤럭시 Z 폴드8 국내 판매분, 전량 '메이드 인 구미'",
-        "date": "2026-08-06 16:44",
-        "link": "https://n.news.naver.com/mnews/article/031/0001047850?sid=105"
-    },
-    {
-        "title": "[산업 뉴스브리핑] 삼성전자, '갤럭시 Z 폴드8·워치9' 국내 판매 시작",
-        "date": "2026-08-06 16:36",
-        "link": "https://www.asiatime.co.kr/article/20260806500332"
-    },
-    {
-        "title": "사전판매 144만대 흥행 잇는다… 삼성전자, 갤럭시 Z8 국내 공식 출시",
-        "date": "2026-08-06 16:32",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357067"
-    },
-    {
-        "title": "애플, 아이폰18 프로·울트라 D램 부족에 양산 차질 우려",
-        "date": "2026-08-06 16:32",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546464"
-    },
-    {
-        "title": "中 비전옥스 8.6세대 OLED 투자에 '야스' 등판하나",
-        "date": "2026-08-06 16:14",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=60614"
-    },
-    {
-        "title": "사전 판매 144만대 흥행 잇는다...삼성, '갤Z8 시리즈·워치' 7일 출시",
-        "date": "2026-08-06 16:14",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363178"
-    },
-    {
-        "title": "애플, iOS 27 잠금 화면 확 바꾼다…AI 배경화면부터 시계·위젯까지",
-        "date": "2026-08-06 16:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690607"
-    },
-    {
-        "title": "삼성전자, 폴드8·플립8 국내 공식 출시...여성 고객, 2배 이상 늘어",
-        "date": "2026-08-06 16:08",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223347"
-    },
-    {
-        "title": "[정구민의 테크읽기] 휴머노이드가 열어가는 디스플레이 산업의 새로운...",
-        "date": "2026-08-06 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003454971?sid=110"
-    },
-    {
-        "title": "삼성, 칩 사들이며 AI PC 쏟아내는데···LG전자, 그램 무게에 발목",
-        "date": "2026-08-06 16:00",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256982"
-    },
-    {
-        "title": "유리 기판·EUV 펠리클 자립화에 5년간 900억원 쏟는다",
-        "date": "2026-08-06 15:56",
-        "link": "https://www.mediapen.com/news/view/1114736"
-    },
-    {
-        "title": "갤럭시 Z8 시리즈 7일 공식 출시… 주문하면 9월에 받을 수도",
-        "date": "2026-08-06 15:55",
-        "link": "https://n.news.naver.com/mnews/article/029/0003041093?sid=105"
-    },
-    {
-        "title": "삼성 갤럭시 Z8 시리즈, 사전예약 30% 증가",
-        "date": "2026-08-06 15:50",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=80735"
-    },
-    {
-        "title": "[위클리 디지털포스트] 이름 헷갈려 메일 오발송... 오픈AI·애플의 이상...",
-        "date": "2026-08-06 15:46",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60237"
-    },
-    {
-        "title": "애플, 2Q 매출 22% 증가 역대 최고치 기록...삼성전자도 갤럭시S26 호조에...",
-        "date": "2026-08-06 15:46",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=2026080615394340612aaae0046f_30"
-    },
-    {
-        "title": "[빅데이터로 읽는 이슈] 역시 삼성 갤럭시 Z 폴드8 사전판매 기록 경신...",
-        "date": "2026-08-06 15:40",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271253"
-    },
-    {
-        "title": "삼성전자, 폴더블 스마트폰 '갤럭시 Z 8시리즈' 7일 국내 출시",
-        "date": "2026-08-06 15:36",
-        "link": "https://www.socialvalue.kr/news/view/1065590167986838"
-    },
-    {
-        "title": "지난해 한국 애플 앱스토어 거래액 38.1조 원... 5년 새 두 배 성장",
-        "date": "2026-08-06 15:29",
-        "link": "https://n.news.naver.com/mnews/article/469/0000946609?sid=105"
-    },
-    {
-        "title": "슈퍼 을(乙) 기업 육성 및 협력체계 확대로 소부장 생태계 경쟁력 강화",
-        "date": "2026-08-06 15:26",
-        "link": "http://www.intn.co.kr/news/articleView.html?idxno=2052396"
-    },
-    {
-        "title": "2분기 글로벌 스마트폰 매출 '역대 최대'…삼성폰도 9% '쑥'",
-        "date": "2026-08-06 15:23",
-        "link": "https://n.news.naver.com/mnews/article/018/0006346059?sid=101"
-    },
-    {
-        "title": "정부, 한화오션·에코프로비엠 등 5개사 글로벌 공급망 선도 슈퍼을 기...",
-        "date": "2026-08-06 15:18",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209314"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·워치9, 7일 국내 상륙",
-        "date": "2026-08-06 15:14",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1399694"
-    },
-    {
-        "title": "독자적 초격차 증착 기술 결합… 야스, 미래 에너지 장비 영토 확장",
-        "date": "2026-08-06 15:12",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475022"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z8' 시리즈 7일 국내 공식 출시...폴더블폰 대중화 ...",
-        "date": "2026-08-06 15:08",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119895"
-    },
-    {
-        "title": "젊은 층, 인플루언서 호평 잇따른 갤럭시 Z8 시리즈 국내 공식 출시",
-        "date": "2026-08-06 15:04",
-        "link": "https://n.news.naver.com/mnews/article/022/0004148950?sid=101"
-    },
-    {
-        "title": "새 폰 안 사고 고쳐 쓴다⋅⋅⋅ 리퍼비시 패널, 신제품 첫 역전",
-        "date": "2026-08-06 15:00",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725780"
-    },
-    {
-        "title": "삼성전자, 7일 ‘갤럭시 Z 8세대 시리즈 &amp; 갤럭시 워치’ 국내 공식 출시",
-        "date": "2026-08-06 14:54",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065574517397470"
-    },
-    {
-        "title": "삼성 Z8 역대급 ‘흥행’에 애플 반격 주목…9월 ‘폴더블 대전’",
-        "date": "2026-08-06 14:54",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1309457&inflow=N"
-    },
-    {
-        "title": "폴드가 대세 애플 참전 앞둔 폴더블 시장…하반기 경쟁 막 오른다",
-        "date": "2026-08-06 14:54",
-        "link": "https://www.etoday.co.kr/news/view/2611779"
-    },
-    {
-        "title": "'사전 판매 144만대' 삼성전자 갤럭시 Z8 시리즈 7일 국내 출시",
-        "date": "2026-08-06 14:50",
-        "link": "https://n.news.naver.com/mnews/article/417/0001154557?sid=105"
-    },
-    {
-        "title": "갤럭시Z8 유럽 강타…20% 커진 폴더블 '쓰나미'",
-        "date": "2026-08-06 14:50",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026080613583790302"
-    },
-    {
-        "title": "삼성전자, ‘갤럭시 Z 폴드8·플립8’·‘갤럭시 워치9’ 국내 공식 출시",
-        "date": "2026-08-06 14:41",
-        "link": "https://n.news.naver.com/mnews/article/666/0000118144?sid=101"
-    },
-    {
-        "title": "삼성 Vs. LG디스플레이, 매출 격차 커졌다…IT OLED 초격차",
-        "date": "2026-08-06 14:37",
-        "link": "https://www.topdaily.kr/articles/111337"
-    },
-    {
-        "title": "정부, 한화오션·에코프로비엠 등 5개사 '제3기 슈퍼 을' 선정… 과제당...",
-        "date": "2026-08-06 14:34",
-        "link": "http://www.metroseoul.co.kr/article/20260806500294"
-    },
-    {
-        "title": "삼성전자 갤럭시 Z 폴드8·플립8 사전 판매 144만대",
-        "date": "2026-08-06 14:24",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071345"
-    },
-    {
-        "title": "소부장 경쟁력 키운다... 한오오션 등 ‘슈퍼乙’ 선정",
-        "date": "2026-08-06 14:18",
-        "link": "https://www.viva100.com/article/20260806500842"
-    },
-    {
-        "title": "안경에 AI 입힌 글로벌 IT 기업…'AI 글라스' 시장 꿈틀",
-        "date": "2026-08-06 14:12",
-        "link": "https://www.asiatime.co.kr/article/20260806500231"
-    },
-    {
-        "title": "칩플레이션·中 추격 넘는다…LG·삼성D, OLED '초격차 승부수'",
-        "date": "2026-08-06 14:08",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1399614"
-    },
-    {
-        "title": "갤럭시 Z8·워치2 오는 7일 국내 출시…MX 적자 탈출 선봉장될까",
-        "date": "2026-08-06 14:06",
-        "link": "http://www.segyebiz.com/newsView/20260806513579?OutUrl=naver"
-    },
-    {
-        "title": "애플 첫 폴더블 아이폰, 왜 '울트라'일까…대화면·멀티태스킹에 답 있...",
-        "date": "2026-08-06 13:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690532"
-    },
-    {
-        "title": "'역대급 예약' 갤럭시 Z8…삼성, 폴더블 시장 판도 다시 쓴다",
-        "date": "2026-08-06 13:18",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93369"
-    },
-    {
-        "title": "[분석_스마트팩토리 ⑥코닉오토메이션] 서종휘·김호정 체제의 코닉오토...",
-        "date": "2026-08-06 13:06",
-        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440082"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·플립8 7일 공식 출시…사전판매 144만대 신기록",
-        "date": "2026-08-06 13:04",
-        "link": "https://www.todayeconomic.com/news/article.html?no=31634"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치9 국내 공식 출시... 폴더블 대중화 이끈다",
-        "date": "2026-08-06 13:04",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205464"
-    },
-    {
-        "title": "듀얼 디스플레이로 완성한 신세계 게이밍, 에이수스 ROG Zephyrus Duo GX651 ...",
-        "date": "2026-08-06 13:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60228"
-    },
-    {
-        "title": "삼성전자, 폴더블·워치 신제품 출격...1030세대 구매 비중 확대",
-        "date": "2026-08-06 12:40",
-        "link": "https://hbnpress.com/news/view/1065584182693804"
-    },
-    {
-        "title": "‘2026 갤럭시 런칭 페스타 with 구미’ 개최",
-        "date": "2026-08-06 12:30",
-        "link": "https://www.kbsm.net/news/view.php?idx=529416"
-    },
-    {
-        "title": "갤럭시 Z 8시리즈 공식 출시 D-1…자급제 절반 'AI 구독'",
-        "date": "2026-08-06 12:26",
-        "link": "https://www.itdaily.kr/news/articleView.html?idxno=240837"
-    },
-    {
-        "title": "삼성전자, ‘갤럭시 Z 폴드8·플립8’·‘워치9’ 7일 국내 공식 출시…...",
-        "date": "2026-08-06 12:22",
-        "link": "https://n.news.naver.com/mnews/article/468/0001258228?sid=105"
-    },
-    {
-        "title": "산업부, 한화오션·에코프로비엠 등 5개사 '슈퍼 을(乙)' 선정",
-        "date": "2026-08-06 12:18",
-        "link": "https://n.news.naver.com/mnews/article/030/0003454817?sid=100"
-    },
-    {
-        "title": "삼성전자 '8세대 갤럭시Z' 7일 공식 출시...'칩플레이션' 정면승부",
-        "date": "2026-08-06 12:12",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=154050"
-    },
-    {
-        "title": "노트·S도 제쳤다… 갤럭시 Z8, 역대 최고 '144만대'",
-        "date": "2026-08-06 12:04",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725777"
-    },
-    {
-        "title": "삼성전자 '폴더블 스마트폰' 144만대 사전판매…역대 최대",
-        "date": "2026-08-06 12:02",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209267"
-    },
-    {
-        "title": "정부, 한화오션·에코프로비엠 등 '슈퍼을' 5곳 선정...소부장 핵심기업...",
-        "date": "2026-08-06 12:01",
-        "link": "https://www.newspim.com/news/view/20260806000547"
-    },
-    {
-        "title": "애플, 터너스 CEO 첫 아이폰18 프로 행사도 녹화 혼합 방식 유력",
-        "date": "2026-08-06 12:00",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546455"
-    },
-    {
-        "title": "프랑스 스마트폰 시장동향",
-        "date": "2026-08-06 11:59",
-        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243136"
-    },
-    {
-        "title": "[산업분석] 전기전자 반등, 삼성전기·LG전자 가격 인상·실적이 가른다",
-        "date": "2026-08-06 11:48",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16156316"
-    },
-    {
-        "title": "첫 분기 적자 불명예 지울까…삼성 '갤Z폴드8·플립8' 공식 출격",
-        "date": "2026-08-06 11:41",
-        "link": "https://n.news.naver.com/mnews/article/629/0000522269?sid=105"
-    },
-    {
-        "title": "‘소부장 핵심기업’ 2030년 15개 육성…한화오션·두산 등 5곳, 7년 R&amp;D ...",
-        "date": "2026-08-06 11:34",
-        "link": "https://www.ekn.kr/web/view.php?key=20260806029440145"
-    },
-    {
-        "title": "삼성전자, ‘여권폰’ 갤럭시Z 폴드8 내일 공식 출시",
-        "date": "2026-08-06 11:30",
-        "link": "https://n.news.naver.com/mnews/article/028/0002817375?sid=101"
-    },
-    {
-        "title": "애플, 韓 앱스토어 생태계서 38.1조원 창출⋯5년 새 2배 ↑",
-        "date": "2026-08-06 11:27",
-        "link": "https://n.news.naver.com/mnews/article/031/0001047709?sid=101"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·신형 워치 7일 국내 출시",
-        "date": "2026-08-06 11:24",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=115805"
-    },
-    {
-        "title": "삼성전자, 사전판매 144만대 신기록 '갤럭시 Z8 시리즈' 7일부터 국내 출...",
-        "date": "2026-08-06 11:20",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202608061053193356be44c0aacd_30"
-    },
-    {
-        "title": "삼성, 애플 밀어내고 스마트폰 세계 1위 탈환…2분기 출하량 점유율 24%",
-        "date": "2026-08-06 11:20",
-        "link": "https://n.news.naver.com/mnews/article/117/0004092324?sid=105"
-    },
-    {
-        "title": "삼성전자, 폴드8·플립8 7일 출시…사전 예약 144만 대",
-        "date": "2026-08-06 11:18",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=715947"
-    },
-    {
-        "title": "미디어로그 셀로, 갤럭시 Z 폴드8·플립8 사전 예약에 중고폰 판매 91% 증...",
-        "date": "2026-08-06 11:18",
-        "link": "https://www.betanews.net/article/view/beta202608060020"
-    },
-    {
-        "title": "1030세대·여성 고객 늘었다...'사전 판매 최고' 삼성 폴더블 국내 출시...",
-        "date": "2026-08-06 11:17",
-        "link": "https://n.news.naver.com/mnews/article/422/0000892963?sid=101"
-    },
-    {
-        "title": "거제 한화오션 등 5곳 ‘슈퍼 을’ 선정…정부, 7년 간 최대 200억 R&amp;D 지...",
-        "date": "2026-08-06 11:14",
-        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1548127"
-    },
-    {
-        "title": "'아이폰18 프로' 공개일 9월 9일 유력…애플 최근 6년 공개 행사 패턴 보...",
-        "date": "2026-08-06 11:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690490"
-    },
-    {
-        "title": "'갤럭시 Z 폴드 8 울트라' 인기 제대로 터졌다…주름·두께 모두 개선, ...",
-        "date": "2026-08-06 11:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690480"
-    },
-    {
-        "title": "구미상의, '2026 갤럭시 런칭 페스타 with 구미' 개최",
-        "date": "2026-08-06 11:08",
-        "link": "https://www.pennmike.com/news/articleView.html?idxno=125092"
-    },
-    {
-        "title": "갤럭시 새폴더블폰 효과…중고폰 시장도 활기",
-        "date": "2026-08-06 11:04",
-        "link": "https://n.news.naver.com/mnews/article/658/0000151607?sid=101"
-    },
-    {
-        "title": "[시험대 오른 정철동 매직 ⑦] 주가 반토막·OLED 격차에도 1.3조…국민...",
-        "date": "2026-08-06 11:04",
-        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49861"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8 시리즈 국내 출시…144만대 흥행 이어간다",
-        "date": "2026-08-06 11:04",
-        "link": "http://www.metroseoul.co.kr/article/20260806500157"
-    },
-    {
-        "title": "애플 “한국 앱스토어 거래 90%는 수수료 0원” 제재 처분 앞두고 ‘방...",
-        "date": "2026-08-06 11:02",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717396?sid=105"
-    },
-    {
-        "title": "‘사전 판매 144만 대 신기록’ 삼성전자, 폴드8·플립8 국내 공식 출시",
-        "date": "2026-08-06 11:01",
-        "link": "https://n.news.naver.com/mnews/article/144/0001130281?sid=105"
-    },
-    {
-        "title": "'갤럭시 Z8 시리즈' 7일 국내 출시…사전판매 144만대 흥행",
-        "date": "2026-08-06 11:00",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=742925"
-    },
-    {
-        "title": "정부, 소부장 협력모델 5건 승인…한화오션 등 '슈퍼을' 5곳 선정",
-        "date": "2026-08-06 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0009100234?sid=101"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8·갤럭시 워치 9' 7일부터 국내 정식 판매 시...",
-        "date": "2026-08-06 10:58",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84113"
-    },
-    {
-        "title": "[써보니] 접으면 스마트폰, 펼치면 태블릿…'갤Z 폴드8'의 '두 얼굴'",
-        "date": "2026-08-06 10:58",
-        "link": "https://theviewers.co.kr/View.aspx?No=4176454"
-    },
-    {
-        "title": "삼성 폴더블 사전판매 144만대 역대 최대…1030 여성 구매 2배 증가",
-        "date": "2026-08-06 10:56",
-        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5538"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치9 국내 출시…'사전판매 144만대'",
-        "date": "2026-08-06 10:56",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307951"
-    },
-    {
-        "title": "정부, 제3기 '슈퍼 을' 기업 5개사 선정… 2030년까지 15개사 육성",
-        "date": "2026-08-06 10:56",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82884"
-    },
-    {
-        "title": "공개 임박 '애플워치 울트라4', 핵심 변화 3가지 주목",
-        "date": "2026-08-06 10:54",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690474"
-    },
-    {
-        "title": "“소부장, 전략성 중요성 커져”…정부, ‘슈퍼을’ 선정·특화단지 집...",
-        "date": "2026-08-06 10:54",
-        "link": "https://n.news.naver.com/mnews/article/018/0006345710?sid=101"
-    },
-    {
-        "title": "삼성 갤럭시Z8·워치9 국내 출시 D-1…사전예약 돌풍 잇나",
-        "date": "2026-08-06 10:52",
-        "link": "https://n.news.naver.com/mnews/article/293/0000088688?sid=101"
-    },
-    {
-        "title": "애플, 시리 AI 지원 기기 공개…아이폰은 15 프로부터",
-        "date": "2026-08-06 10:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690438"
-    },
-    {
-        "title": "삼성전자, 폴더블 흥행 새 역사…갤럭시 Z8 시리즈 7일부터 출시",
-        "date": "2026-08-06 10:50",
-        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238415"
-    },
-    {
-        "title": "눈앞의 모든 정보가 AI 데이터로 … 삼성, '포스트 스마트폰' AI 글라스...",
-        "date": "2026-08-06 10:50",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600084.html"
-    },
-    {
-        "title": "애플 프라이빗 릴레이, 실제 IP 주소 노출할 수 있다",
-        "date": "2026-08-06 10:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690432"
-    },
-    {
-        "title": "허장 차관 3대 메가 프로젝트 성공 위해 소부장 최고 기술 선점해야(종...",
-        "date": "2026-08-06 10:46",
-        "link": "https://n.news.naver.com/mnews/article/277/0005799731?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8 시리즈로 하반기 폴더블 시장 공략",
-        "date": "2026-08-06 10:42",
-        "link": "https://www.tokenpost.kr/news/tech/386102"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 시리즈·워치 신제품 7일 국내 출시",
-        "date": "2026-08-06 10:42",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4897700"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치 9 국내 공식 출시…사전 판매 70%가 ‘갤Z 폴...",
-        "date": "2026-08-06 10:36",
-        "link": "https://www.ceoscoredaily.com/page/view/2026080610102697635"
-    },
-    {
-        "title": "허장 차관 소부장, 단순 국산화·수입대체 넘어 최고 기술 선점해야",
-        "date": "2026-08-06 10:32",
-        "link": "https://n.news.naver.com/mnews/article/008/0005396427?sid=101"
-    },
-    {
-        "title": "삼성 144만대 신기록 쐈다…구글·애플 가세 '폴더블 대전' 열린다",
-        "date": "2026-08-06 10:26",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=298948"
-    },
-    {
-        "title": "사전판매 신기록 쓴 ‘갤럭시 Z8 시리즈’…7일 국내 정식 출시",
-        "date": "2026-08-06 10:26",
-        "link": "https://www.news2day.co.kr/article/20260806500080"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치9 내일 출시… 144만대 사전 판매 기록",
-        "date": "2026-08-06 10:25",
-        "link": "https://n.news.naver.com/mnews/article/310/0000138919?sid=101"
-    },
-    {
-        "title": "삼성이 이끈 폴더블 시장에 구글·애플 출사표…'폴더블 삼국지' 예고",
-        "date": "2026-08-06 10:24",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62174"
-    },
-    {
-        "title": "산업부, 소부장 '슈퍼 을(乙)' 5곳 선정…2030년 핵심기업 15개 육성",
-        "date": "2026-08-06 10:24",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719362"
-    },
-    {
-        "title": "애플, 20주년 아이폰에 베젤리스 7인치 디스플레이 탑재 루머",
-        "date": "2026-08-06 10:22",
-        "link": "https://kbench.com/?q=node/280964"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8' 신모델 출시…사전 예약 판매 144만대 돌파",
-        "date": "2026-08-06 10:22",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=874272"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 국내 출시…100여 개국 순차 판매",
-        "date": "2026-08-06 10:20",
-        "link": "https://www.cnet.co.kr/view/?no=20260806101609"
-    },
-    {
-        "title": "[위클리오늘] LG유플러스 소식(8.6)",
-        "date": "2026-08-06 10:14",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=789218"
-    },
-    {
-        "title": "차세대 유리기판 등 소부장 협력모델 5건 승인 … 5년간 910억원 지원",
-        "date": "2026-08-06 10:12",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600070.html"
-    },
-    {
-        "title": "1030 여성 몰린다더니…'여권폰' 갤Z폴드8, 유럽서도 '돌풍'",
-        "date": "2026-08-06 10:12",
-        "link": "https://n.news.naver.com/mnews/article/015/0005317954?sid=101"
-    },
-    {
-        "title": "삼성 '갤럭시 Z8' 7일 국내 출격…사전판매 144만대 신기록",
-        "date": "2026-08-06 10:08",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2115885"
-    },
-    {
-        "title": "허장 차관 자국 우선 공급망 재편…단순 국산화 넘어 최고 기술 선점해...",
-        "date": "2026-08-06 10:07",
-        "link": "https://n.news.naver.com/mnews/article/277/0005799682?sid=101"
-    },
-    {
-        "title": "한화오션·선익시스템 등 슈퍼 을 기업 선정…200억원 규모 7년 이상 지...",
-        "date": "2026-08-06 10:07",
-        "link": "https://n.news.naver.com/mnews/article/629/0000522196?sid=101"
-    },
-    {
-        "title": "삼성전자 '폴드·플립8'과 '워치9·울트라2'…7일 국내 출시",
-        "date": "2026-08-06 10:06",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=849539"
-    },
-    {
-        "title": "여권형 디자인 '갤럭시Z 폴드8' 유럽서도 통했다…사전 주문량 20% 급증",
-        "date": "2026-08-06 10:06",
-        "link": "https://kbench.com/?q=node/280957"
-    },
-    {
-        "title": "폴더블 사상 최대 기록…베일 벗은 '갤럭시 Z8·워치9' 출격",
-        "date": "2026-08-06 10:04",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=476586"
-    },
-    {
-        "title": "삼성 '갤럭시 Z 폴드8' 앞세운 Z8시리즈, 7일 국내 공식 출시",
-        "date": "2026-08-06 10:04",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048524"
-    },
-    {
-        "title": "산업부, 소부장 협력체계 확대…한화오션 등 '슈퍼 을' 5개사 선정",
-        "date": "2026-08-06 10:02",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428913"
-    },
-    {
-        "title": "한화오션 등 5곳, ‘제3기 슈퍼 을’ 기업 선정…과제당 200억원 지원",
-        "date": "2026-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/016/0002680256?sid=101"
-    },
-    {
-        "title": "갤럭시 Z 폴드8·플립8 효과…중고폰 판매 신청 91% 급증",
-        "date": "2026-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/018/0006345651?sid=105"
-    },
-    {
-        "title": "한화오션 등 '슈퍼 을(乙)' 선정…소부장 공급망 910억 투입",
-        "date": "2026-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176034?sid=103"
-    },
-    {
-        "title": "한화오션 등 '슈퍼을' 5개사 확정…과제당 200억 대형 R&amp;D 투입",
-        "date": "2026-08-06 10:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0003118831?sid=101"
-    },
-    {
-        "title": "산업부, 소부장 협력모델 5건 승인…5년간 총 910억 지원",
-        "date": "2026-08-06 10:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014111502?sid=101"
-    },
-    {
-        "title": "정부, 소부장 협력모델 5건 추가…'슈퍼 을' 기업도 신규 선정",
-        "date": "2026-08-06 10:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005799670?sid=101"
-    },
-    {
-        "title": "삼성전자, '갤Z8' 144만대 역대급 흥행…7일 국내 공식 출시",
-        "date": "2026-08-06 10:00",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608060045"
-    },
-    {
-        "title": "소부장 '슈퍼 을' 한화오션 등 5곳 신규 선정⋯생태계 협력에 910억 투입",
-        "date": "2026-08-06 10:00",
-        "link": "https://www.etoday.co.kr/news/view/2611602"
-    },
-    {
-        "title": "올 폴더블폰 판매량 20% 증가…폴더블 아이폰이 성장 견인",
-        "date": "2026-08-06 09:58",
-        "link": "https://n.news.naver.com/mnews/article/092/0002433155?sid=105"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 및 '갤럭시 워치 울트...",
-        "date": "2026-08-06 09:56",
-        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105030"
-    },
-    {
-        "title": "144만대 사전판매…삼성전자, 갤럭시 Z 폴드8 울트라·폴드8·플립8부...",
-        "date": "2026-08-06 09:56",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269339"
-    },
-    {
-        "title": "'갤럭시 Z 폴드8' 시리즈 국내 출시…사전판매 144만대 흥행 잇는다",
-        "date": "2026-08-06 09:56",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=59697"
-    },
-    {
-        "title": "삼성전자, ‘갤럭시 Z 폴드·플립8’ 공식 출시",
-        "date": "2026-08-06 09:54",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=90222"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z폴드·플립8 공식 출시…워치도 사전판매 두자릿수↑",
-        "date": "2026-08-06 09:53",
-        "link": "https://n.news.naver.com/mnews/article/011/0004649072?sid=101"
-    },
-    {
-        "title": "삼성, 폴드8·플립8 공식 출시…흥행 기록 새로 썼다",
-        "date": "2026-08-06 09:52",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854949"
-    },
-    {
-        "title": "글로벌 스마트폰 매출 2분기 역대 최대…애플 22%·삼성 9% 성장",
-        "date": "2026-08-06 09:50",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=80711"
-    },
-    {
-        "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
-        "date": "2026-08-06 09:48",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=298927"
-    },
-    {
-        "title": "갤럭시Z 시리즈 144만대 사전판매 '역대 최대'…내일 국내 출시",
-        "date": "2026-08-06 09:48",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176019?sid=101"
-    },
-    {
-        "title": "삼성전자 갤Z 폴드8·플립8 내일 공식 출시…폴더블 사전판매 144만대 흥...",
-        "date": "2026-08-06 09:48",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877195"
-    },
-    {
-        "title": "삼성 갤럭시 Z8·워치9 국내 출시…100여개국 순차 판매",
-        "date": "2026-08-06 09:47",
-        "link": "https://n.news.naver.com/mnews/article/030/0003454695?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 국내 출시…사전판매 144만대 신...",
-        "date": "2026-08-06 09:46",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=310735"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·워치 신제품 7일 국내 출시",
-        "date": "2026-08-06 09:46",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251946"
-    },
-    {
-        "title": "메모리 한파 뚫는 폴더블 훈풍…파인엠텍, 하반기 실적 반등 기대↑",
-        "date": "2026-08-06 09:46",
-        "link": "https://n.news.naver.com/mnews/article/417/0001154501?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 7일 출시...갤럭시워치 울트라2·워치...",
-        "date": "2026-08-06 09:44",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=20260806094007589bbceadc3c9_23"
-    },
-    {
-        "title": "벌써 144만대 팔렸다...'갤럭시Z 8' 7일 국내 공식 출시",
-        "date": "2026-08-06 09:44",
-        "link": "https://www.newstree.kr/newsView/ntr202608060003"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z폴드8 시리즈·워치 국내 공식 출시",
-        "date": "2026-08-06 09:42",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600052.html"
-    },
-    {
-        "title": "정책금융 업은 LG디스플레이, OLED 초격차 투자 본격화",
-        "date": "2026-08-06 09:42",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190616"
-    },
-    {
-        "title": "144만대 사전판매 흥행 이어간다…삼성, '갤럭시 Z 폴드8·플립8' 국내 출...",
-        "date": "2026-08-06 09:42",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308427"
-    },
-    {
-        "title": "“사전판매 144만대”⋯ 삼성전자, 갤럭시 Z 폴드8·플립8 국내 출시",
-        "date": "2026-08-06 09:38",
-        "link": "https://www.viva100.com/article/20260806500251"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 국내 출시…사전판매 144만대 신기록",
-        "date": "2026-08-06 09:36",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133985"
-    },
-    {
-        "title": "갤 Z 폴드8·플립8 사전예약에 중고폰 시장도 들썩…셀로 판매 신청 91% ...",
-        "date": "2026-08-06 09:36",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719342"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치9 내일 공식 출시...'사전판매 144만대' 흥행",
-        "date": "2026-08-06 09:34",
-        "link": "https://n.news.naver.com/mnews/article/031/0001047639?sid=105"
-    },
-    {
-        "title": "삼성전자, '갤Z8' 시리즈·'갤워치9' 공식 출시...'울트라' 257만 7300원",
-        "date": "2026-08-06 09:32",
-        "link": "https://n.news.naver.com/mnews/article/092/0002433146?sid=105"
-    },
-    {
-        "title": "삼성전자, 신제품 갤럭시 Z시리즈·워치 국내 공시 출시",
-        "date": "2026-08-06 09:30",
-        "link": "http://www.breaknews.com/1227098"
-    },
-    {
-        "title": "삼성 폴더블 갤럭시Z8, 사전 판매서 역대급 실적 … 국내 출시 시동",
-        "date": "2026-08-06 09:30",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87604"
-    },
-    {
-        "title": "삼성 폴더블 신기록 썼다…'갤럭시Z 폴드8·플립8' 국내 공식 출시",
-        "date": "2026-08-06 09:28",
-        "link": "https://kbench.com/?q=node/280955"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·플립8… 7일 공식 출시",
-        "date": "2026-08-06 09:28",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054888"
-    },
-    {
-        "title": "애플 “작년 韓 앱스토어 생태계 매출 38조원… 5년 새 두 배 성장”",
-        "date": "2026-08-06 09:28",
-        "link": "https://n.news.naver.com/mnews/article/366/0001184617?sid=105"
-    },
-    {
-        "title": "[뉴템] 삼성전자, 폴더블 신작 '갤럭시 Z8 시리즈' 7일 정식 출시",
-        "date": "2026-08-06 09:26",
-        "link": "https://n.news.naver.com/mnews/article/138/0002236774?sid=105"
-    },
-    {
-        "title": "삼성전자 '갤럭시 Z 8 시리즈' 7일 국내 정식 출시",
-        "date": "2026-08-06 09:26",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030956"
-    },
-    {
-        "title": "삼성, 접는 폰 3총사 + 워치 2종 공식 출시",
-        "date": "2026-08-06 09:25",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456490"
-    },
-    {
-        "title": "국내 흥행, 해외에서도 이어간다…삼성전자, 갤럭시 Z 폴드8 ‘글로벌 ...",
-        "date": "2026-08-06 09:24",
-        "link": "https://n.news.naver.com/mnews/article/016/0002680220?sid=105"
-    },
-    {
-        "title": "삼성 폴더블 새 역사…사전 판매 144만대 '갤럭시 역대 최고'",
-        "date": "2026-08-06 09:20",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271193"
-    },
-    {
-        "title": "삼성 폴더블 새 기록 썼다…Z시리즈 사전판매 144만대",
-        "date": "2026-08-06 09:20",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316094"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·플립8 오늘 공식 출시",
-        "date": "2026-08-06 09:20",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417964"
-    },
-    {
-        "title": "갤럭시 Z8 시리즈, 7일 국내 출시···사전예약 144만대 신기록에 개통...",
-        "date": "2026-08-06 09:20",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=150487"
-    },
-    {
-        "title": "삼성, RTOS 탑재 새로운 웨어러블 개발 중? '갤럭시 에어로' 포착",
-        "date": "2026-08-06 09:20",
-        "link": "https://kbench.com/?q=node/280954"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·플립8 오늘 국내 출시…사전판매 144만대 역대 최...",
-        "date": "2026-08-06 09:18",
-        "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/102058"
-    },
-    {
-        "title": "셀로, 중고폰 판매 신청 91% 증가⋯ “갤럭시 Z 폴드8·플립8 사전예약 ...",
-        "date": "2026-08-06 09:18",
-        "link": "https://www.viva100.com/article/20260806500175"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 출시…워치 울트라2·워치9도 공개",
-        "date": "2026-08-06 09:14",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123774"
-    },
-    {
-        "title": "구미상의, 삼성 갤럭시 신제품 출시 기념 '갤럭시 런칭 페스타' 개최",
-        "date": "2026-08-06 09:10",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048488"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8 시리즈 144만대 예약 신기록…7일부터 국내 판매 돌...",
-        "date": "2026-08-06 09:09",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000098532"
-    },
-    {
-        "title": "삼성전자, 갤럭시 워치 울트라2·워치9 국내 공식 출시",
-        "date": "2026-08-06 09:07",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717304?sid=101"
-    },
-    {
-        "title": "사전판매 144만대 '갤럭시 Z시리즈'…내일 국내 공식 출시",
-        "date": "2026-08-06 09:02",
-        "link": "https://www.g-enews.com/view.php?ud=202608060834068890139bf6e4b2_1"
-    },
-    {
-        "title": "'갤럭시 S25' One UI 9 베타 프로그램 준비 끝? 삼성 멤버스에 베타 페이...",
-        "date": "2026-08-06 09:02",
-        "link": "https://kbench.com/?q=node/280953"
-    },
-    {
-        "title": "삼성전자, 폴더블 스마트폰ㆍ워치 신제품 국내 출시…'Z 폴드8' 신기록 ...",
-        "date": "2026-08-06 09:00",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265398"
-    },
-    {
-        "title": "이번엔 바꿔야 하나…갤럭시 Z 폴드8·플립8 드디어 오늘 출시",
-        "date": "2026-08-06 09:00",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=111925"
-    },
-    {
-        "title": "e스포츠 특화 고주사율 게이밍 모니터, 앤트게이머 ANT25DVF [연중기획-I...",
-        "date": "2026-08-06 09:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60227"
-    },
-    {
-        "title": "삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시",
-        "date": "2026-08-06 08:57",
-        "link": "https://n.news.naver.com/mnews/article/001/0016236410?sid=101"
-    },
-    {
-        "title": "삼성전자, 폴드8 앞세워 신형 갤럭시 국내 출시…사전판매 144만대 신기...",
-        "date": "2026-08-06 08:56",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=128819"
-    },
-    {
-        "title": "한국 애플 앱스토어 거래액 38조원 돌파…5년 만에 2배↑",
-        "date": "2026-08-06 08:54",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608060011"
-    },
-    {
-        "title": "역대급 144만대 진기록…삼성전자 '갤럭시 Z8·워치9' 글로벌 대항해 시...",
-        "date": "2026-08-06 08:50",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84265"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·워치9 국내 공식 출시…사전판매 144만대 신...",
-        "date": "2026-08-06 08:48",
-        "link": "https://www.etoday.co.kr/news/view/2611569"
-    },
-    {
-        "title": "구미상공회의소, 삼성전자 갤럭시 신제품 출시 기념 '런칭 페스타' 개최",
-        "date": "2026-08-06 08:46",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1399350"
-    },
-    {
-        "title": "삼성 ‘갤럭시 Z 폴드8’ 역대급 흥행…물량 부족에 8월말까지 개통 연...",
-        "date": "2026-08-06 08:46",
-        "link": "https://sateconomy.co.kr/news/view/1065568979275591"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z' 3종·'갤럭시 워치' 2종 7일 국내 출시",
-        "date": "2026-08-06 08:44",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=142299"
-    },
-    {
-        "title": "폴더블 노하우 집약 삼성전자, '갤럭시 Z8' 시리즈 국내 공식 출시 하...",
-        "date": "2026-08-06 08:42",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257785"
-    },
-    {
-        "title": "'갤럭시 예쁘다 예뻐' 1030마저 갈아탔다…사전판매 '신기록'",
-        "date": "2026-08-06 08:40",
-        "link": "https://n.news.naver.com/mnews/article/015/0005317900?sid=105"
-    },
-    {
-        "title": "폴더블 아이폰, 접었더니 비대칭…왜 이렇게 만들었나",
-        "date": "2026-08-06 08:40",
-        "link": "https://n.news.naver.com/mnews/article/092/0002433135?sid=105"
-    },
-    {
-        "title": "삼성전자, '갤럭시Z8 시리즈·신규 갤럭시 워치' 국내 공식 출시",
-        "date": "2026-08-06 08:38",
-        "link": "https://www.ajunews.com/view/20260806081943024"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·울트라·플립8 국내 공식 출시",
-        "date": "2026-08-06 08:38",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428867"
-    },
-    {
-        "title": "삼성전자, '갤Z 폴드8 울트라·폴드8·플립8' '워치 울트라2·워치9' 출시",
-        "date": "2026-08-06 08:38",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1393210"
-    },
-    {
-        "title": "삼성전자 '갤럭시 Z8' 흥행 돌풍…국내 공식 출시",
-        "date": "2026-08-06 08:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690389"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 국내 공식 출시…사전판매 144만대 신...",
-        "date": "2026-08-06 08:30",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=538019"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 시리즈 100여개국 순차 출시…글로벌 시장 공략",
-        "date": "2026-08-06 08:30",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442400"
-    },
-    {
-        "title": "[Tech &amp; Now] 삼성전자, '갤럭시 Z8·워치9' 시리즈 국내 공식 출시",
-        "date": "2026-08-06 08:28",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719321"
-    },
-    {
-        "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
-        "date": "2026-08-06 08:27",
-        "link": "https://n.news.naver.com/mnews/article/003/0014111197?sid=105"
-    },
-    {
-        "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 국내 출시",
-        "date": "2026-08-06 08:24",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=756873"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z폴드8 시리즈·갤럭시 워치 9·울트라2 국내 공식 출...",
-        "date": "2026-08-06 08:23",
-        "link": "https://n.news.naver.com/mnews/article/008/0005396293?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 시리즈·워치 7일 국내 공식 출시",
-        "date": "2026-08-06 08:22",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234733"
-    },
-    {
-        "title": "'사전 144만대' 잭팟 터뜨린 갤Z8시리즈·워치9, 7일 정식 출격",
-        "date": "2026-08-06 08:22",
-        "link": "https://n.news.naver.com/mnews/article/018/0006345531?sid=101"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8·워치 신제품 국내 출시…사전판매 144만대 '신기록...",
-        "date": "2026-08-06 08:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474801"
-    },
-    {
-        "title": "삼성, 갤럭시 Z8 시리즈·워치9 출격…폴더블 대중화 승부수",
-        "date": "2026-08-06 08:13",
-        "link": "https://n.news.naver.com/mnews/article/119/0003118749?sid=105"
-    },
-    {
-        "title": "애플 앱스토어, 국내 연간 거래액 38조…이중 90%가 無수수료",
-        "date": "2026-08-06 08:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005396289?sid=105"
-    },
-    {
-        "title": "작년 한국 애플 앱스토어 시장 38조원으로 5년 사이 2배↑",
-        "date": "2026-08-06 08:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0016236328?sid=105"
-    },
-    {
-        "title": "탈취 정보 즉각 돌려달라 애플, 오픈AI 상대 가처분…'갈등 격화'[모닝...",
-        "date": "2026-08-06 07:55",
-        "link": "https://n.news.naver.com/mnews/article/018/0006345502?sid=105"
-    },
-    {
-        "title": "애니콜 신화에서 갤럭시까지…“삼성전자, 구미 경제 활성화의 중요한...",
-        "date": "2026-08-06 07:10",
-        "link": "https://n.news.naver.com/mnews/article/021/0002809495?sid=102"
-    },
-    {
-        "title": "[더벨]파인엠텍, 폴더블폰 시장 2막 '낙수효과 기대'",
-        "date": "2026-08-06 07:02",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051103248720102017"
-    },
-    {
-        "title": "애플 진입에 글로벌 폴더블폰 시장 20% 성장 전망",
-        "date": "2026-08-06 07:00",
-        "link": "https://www.g-enews.com/view.php?ud=2026080600070327799a1f309431_1"
-    },
-    {
-        "title": "D램값 폭등에 비싼 폰만 생존…평균 판매가 2분기 역대 최고치 찍었다 ...",
-        "date": "2026-08-06 07:00",
-        "link": "https://n.news.naver.com/mnews/article/014/0005557883?sid=105"
     }
 ]
