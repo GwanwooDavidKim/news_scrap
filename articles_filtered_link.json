@@ -1,5 +1,340 @@
 [
     {
+        "title": "AI가 주문·예약…구글 '픽셀11'로 스마트폰 대행 경쟁",
+        "date": "2026-08-13 13:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457152?sid=105"
+    },
+    {
+        "title": "대만 AUO, 투명 마이크로LED 디스플레이 진출 가속화",
+        "date": "2026-08-13 13:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457150?sid=105"
+    },
+    {
+        "title": "차세대 디스플레이 핵심 쥔 코세스… 수율·속도 다 잡고 글로벌 공급선...",
+        "date": "2026-08-13 13:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477066"
+    },
+    {
+        "title": "아이폰18 기본형 출시 내년으로…올가을은 '프로'만 출격",
+        "date": "2026-08-13 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692837"
+    },
+    {
+        "title": "아이폰 올글래스 디자인, 포기 안했다…공급망서 디스플레이 포착",
+        "date": "2026-08-13 13:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692842"
+    },
+    {
+        "title": "애플보다 엔비디아?…옮겨가는 폭스콘 성장축",
+        "date": "2026-08-13 13:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692832"
+    },
+    {
+        "title": "애플워치 수면 점수, 낮은 구간만 알림 받으면 활용도 높아져",
+        "date": "2026-08-13 13:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692772"
+    },
+    {
+        "title": "애플, 시리 AI에 '최신 뉴스' 넣는다…언론사와 다년 계약 추진",
+        "date": "2026-08-13 13:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692807"
+    },
+    {
+        "title": "OLED·폴더블·롤러블 삼중 호재… 플렉서블 디스플레이株 훨훨",
+        "date": "2026-08-13 13:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477058"
+    },
+    {
+        "title": "중국, 차세대 '탠덤OLED' 상용화 속도···삼성·LG디스플레이 아성 위...",
+        "date": "2026-08-13 13:32",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423044"
+    },
+    {
+        "title": "애플, 언론사에 1400억 푼다…'AI 시리' 뉴스 강화",
+        "date": "2026-08-13 13:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005561133?sid=105"
+    },
+    {
+        "title": "올글래스 아이폰, 포기 안했다…공급망서 디스플레이 포착",
+        "date": "2026-08-13 13:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002433889?sid=105"
+    },
+    {
+        "title": "애플, AI 시리 데이터 확보 위해 언론사와 '변동형 보상' 협상",
+        "date": "2026-08-13 12:46",
+        "link": "https://www.tokenpost.kr/news/tech/389741"
+    },
+    {
+        "title": "MSI, G라이브서 게이밍 노트북·완제품 데스크탑 라인업 공개",
+        "date": "2026-08-13 12:34",
+        "link": "https://www.thisisgame.com/articles/428855"
+    },
+    {
+        "title": "폴드8 울트라급 화면을 기본형 가격에?… '구글 픽셀 11 폴드' 삼성에...",
+        "date": "2026-08-13 12:21",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237693?sid=105"
+    },
+    {
+        "title": "[초점] 반도체 끌고 모바일 밀고…삼성 갤Z8, 글로벌 흥행에 하반기 실...",
+        "date": "2026-08-13 12:20",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93688"
+    },
+    {
+        "title": "“휴대폰 400만원 시대 오나”…반도체값 오르자 애플 폴더블도 가격 인...",
+        "date": "2026-08-13 12:13",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651382?sid=104"
+    },
+    {
+        "title": "애플, 시리 강화 위해 언론사와 종량제 콘텐츠 계약 추진",
+        "date": "2026-08-13 11:59",
+        "link": "https://n.news.naver.com/mnews/article/374/0000527272?sid=104"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 카메라가 구석에?…'아이폰 울트라' 모서리 배치설",
+        "date": "2026-08-13 11:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692794"
+    },
+    {
+        "title": "메모리값 압박에 美 저가폰 ‘휘청’…100달러 미만 판매 64%↓",
+        "date": "2026-08-13 11:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351031?sid=105"
+    },
+    {
+        "title": "아이폰 400만원 시대 온다는데…애플 첫 폴더블폰 가격 439만원?",
+        "date": "2026-08-13 11:32",
+        "link": "https://n.news.naver.com/mnews/article/024/0000107509?sid=101"
+    },
+    {
+        "title": "가볍게 들고, 펼치면 태블릿 … 멀티태스킹 최적화된 손안의 듀얼모니...",
+        "date": "2026-08-13 11:24",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/13/2026081300102.html"
+    },
+    {
+        "title": "'소·부·장' 일본이 막아도 韓 버틸 힘 생겼다",
+        "date": "2026-08-13 11:22",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315396"
+    },
+    {
+        "title": "ePTFE 기반 강화 이온교환막, PEM 수전해 경쟁력 높인다",
+        "date": "2026-08-13 11:18",
+        "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=3924"
+    },
+    {
+        "title": "'시리'서 뉴스 본다?…애플, 주요 언론사들과 계약 추진",
+        "date": "2026-08-13 11:11",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350988?sid=101"
+    },
+    {
+        "title": "구글 '픽셀11 프로 폴드' 출격…삼성·애플과 폴더블 AI폰 격돌",
+        "date": "2026-08-13 11:08",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=299373"
+    },
+    {
+        "title": "선익시스템, ‘코스닥 라이징스타’ 신규 선정…OLED 증착장비 경쟁력...",
+        "date": "2026-08-13 11:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350986?sid=101"
+    },
+    {
+        "title": "접힘 자국 지우고 강도 높였다… 도우인시스, 차세대 UTG 승부수에 시장...",
+        "date": "2026-08-13 11:06",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477005"
+    },
+    {
+        "title": "너무 비싸 美 스마트폰 판매 5% 뚝…프리미엄 삼성·모토로라 반사이...",
+        "date": "2026-08-13 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692800"
+    },
+    {
+        "title": "“수어 번역에 대화면 AI까지”…구글, ‘픽셀 11 프로 폴드’ 공개",
+        "date": "2026-08-13 10:59",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237667?sid=105"
+    },
+    {
+        "title": "애플, 'AI 시리'에 뉴스 입힌다…언론사에 '쓴 만큼 지급' 제안",
+        "date": "2026-08-13 10:52",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=597882"
+    },
+    {
+        "title": "시리 AI가 최신 뉴스 알려준다?…애플, 언론사와 제휴 협상 중",
+        "date": "2026-08-13 10:51",
+        "link": "https://n.news.naver.com/mnews/article/003/0014124982?sid=104"
+    },
+    {
+        "title": "LG전자, 가전·TV 주도권 '의료용 모니터'로 넓힌다",
+        "date": "2026-08-13 10:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154263"
+    },
+    {
+        "title": "HBM 쏠린 사이 애플 뚫는 中 D램…삼성·SK '빈집' 노린다",
+        "date": "2026-08-13 10:43",
+        "link": "https://www.newspim.com/news/view/20260813000345"
+    },
+    {
+        "title": "에이투, 카본 패턴 더한 8K 게이밍 키보드 'GK5 8K 블랙 에디션' 출시",
+        "date": "2026-08-13 10:42",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223920"
+    },
+    {
+        "title": "구글·애플 인앱결제 제재 또 연기...3년 넘는 논란 ‘제자리’",
+        "date": "2026-08-13 10:38",
+        "link": "https://www.m-economynews.com/news/article.html?no=69703"
+    },
+    {
+        "title": "칩플레이션에 美 스마트폰 시장 위축…저가폰 64% 급감",
+        "date": "2026-08-13 10:37",
+        "link": "https://n.news.naver.com/mnews/article/421/0009111711?sid=105"
+    },
+    {
+        "title": "애플, 시리 강화 위해 언론사와 종량제 콘텐츠 계약 추진",
+        "date": "2026-08-13 10:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0016248829?sid=101"
+    },
+    {
+        "title": "구글 픽셀 11 프로 폴드, 삼성 Z 폴드8과 차이점은?",
+        "date": "2026-08-13 10:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692756"
+    },
+    {
+        "title": "힘펠, 환기가전도 스마트홈으로...통합 앱 'AiroT' 선봬",
+        "date": "2026-08-13 10:19",
+        "link": "https://n.news.naver.com/mnews/article/119/0003121343?sid=101"
+    },
+    {
+        "title": "애플, 시리AI 학습 위해 언론사들과 계약 추진",
+        "date": "2026-08-13 10:15",
+        "link": "https://n.news.naver.com/mnews/article/092/0002433861?sid=105"
+    },
+    {
+        "title": "“폼팩터 혁신·AI 제조”…삼성D·LGD, IMID 2026서 ‘차세대 기술’ 대...",
+        "date": "2026-08-13 10:08",
+        "link": "https://n.news.naver.com/mnews/article/016/0002683298?sid=101"
+    },
+    {
+        "title": "차라리 핫도그를 접겠다 조롱했던 美기자…갤폴드8에 푹 빠졌다",
+        "date": "2026-08-13 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014124805?sid=104"
+    },
+    {
+        "title": "4조 들여 8.6세대 선점한 삼성D…투자 비중 줄이는 LG D",
+        "date": "2026-08-13 09:58",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=129539"
+    },
+    {
+        "title": "애플, 시리 AI 뉴스 기능 강화 위해 언론사들과 콘텐츠 사용 논의…수...",
+        "date": "2026-08-13 09:48",
+        "link": "https://www.ajunews.com/view/20260813082516204"
+    },
+    {
+        "title": "효성화학, 특수가스 없이도 영업익 1708억 '수익성 점프'…사업재편 뒤...",
+        "date": "2026-08-13 09:46",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99748"
+    },
+    {
+        "title": "선익시스템, 코스닥 라이징스타 신규 선정",
+        "date": "2026-08-13 09:43",
+        "link": "https://www.newspim.com/news/view/20260813000305"
+    },
+    {
+        "title": "선익시스템, '2026 코스닥 라이징스타' 신규 선정...OLEDoS 外 신시장 확...",
+        "date": "2026-08-13 09:42",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=279342"
+    },
+    {
+        "title": "[단독] LG디스플레이 파주 P7공장 설비매각 표류 조짐…무능인가, 배임...",
+        "date": "2026-08-13 09:42",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=80737"
+    },
+    {
+        "title": "아이폰 지금 사야 하나? 애플, 아이폰18 출시와 함께 구형 아이폰도 가...",
+        "date": "2026-08-13 09:40",
+        "link": "https://kbench.com/?q=node/281127"
+    },
+    {
+        "title": "iOS 27서 포착된 애플 사진 인증 기능…AI 콘텐츠 식별 신호",
+        "date": "2026-08-13 09:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692725"
+    },
+    {
+        "title": "iOS 27, 애플 캘린더 초대형 위젯 추가…며칠 일정 한눈에",
+        "date": "2026-08-13 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692701"
+    },
+    {
+        "title": "미국 국제무역위원회, 일본 맥셀 특허침해 주장에 삼성전자 정식 조사 ...",
+        "date": "2026-08-13 09:26",
+        "link": "https://www.theguru.co.kr/news/article.html?no=105753"
+    },
+    {
+        "title": "갤럭시S27 카메라에 무슨 일이? 기대했던 가변 조리개 결국 포기설",
+        "date": "2026-08-13 09:20",
+        "link": "https://kbench.com/?q=node/281126"
+    },
+    {
+        "title": "올해 글로벌 디스플레이 설비투자 57% 성장…OLED가 성장 주도",
+        "date": "2026-08-13 09:06",
+        "link": "https://www.g-enews.com/view.php?ud=202608130848526512139bf6e4b2_1"
+    },
+    {
+        "title": "구글 '픽셀11 프로 폴드' 출격…삼성·애플과 폴더블 AI폰 격돌",
+        "date": "2026-08-13 09:05",
+        "link": "https://n.news.naver.com/mnews/article/003/0014124547?sid=105"
+    },
+    {
+        "title": "애플, 출판사와 콘텐츠 사용료 협상…AI 시리 강화",
+        "date": "2026-08-13 08:56",
+        "link": "https://www.tokenpost.kr/news/breaking/389659"
+    },
+    {
+        "title": "구글·애플 앱마켓에 칼 뽑은 '방미통위'…국내 개발사, 1459억원 부담",
+        "date": "2026-08-13 08:54",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209878"
+    },
+    {
+        "title": "남녀노소 흥행세 갤럭시 Z 폴드8… 새로운 디자인, 차기 모델에는?",
+        "date": "2026-08-13 08:54",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423472"
+    },
+    {
+        "title": "애플, AI 시리에 최신 뉴스 넣는다⋯언론사와 콘텐츠 계약 논의",
+        "date": "2026-08-13 08:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546599"
+    },
+    {
+        "title": "[산업 HOT 뉴스] LG전자, 美 FDA 승인 '11메가픽셀' 진단 모니터 출격…...",
+        "date": "2026-08-13 08:38",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143167"
+    },
+    {
+        "title": "중동 스마트폰 출하량 19% 급감…ASP 448달러",
+        "date": "2026-08-13 08:38",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350760?sid=105"
+    },
+    {
+        "title": "애플, 워치OS 27서 애플워치 앱 구성 개편…시리 대화 기록 연동",
+        "date": "2026-08-13 08:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692686"
+    },
+    {
+        "title": "[차세대 디스플레이] 애플도 멈춘 마이크로LED…삼성디스플레이의 새 계...",
+        "date": "2026-08-13 08:02",
+        "link": "https://dealsite.co.kr/articles/167081"
+    },
+    {
+        "title": "덕산네오룩스, OLED 고부가 소재로 수익성 증명…밸류 저평가-IBK",
+        "date": "2026-08-13 07:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350711?sid=101"
+    },
+    {
+        "title": "[가봤다] 폴더블폰의 비밀을 파헤친다...삼성 강남 '폴더블 해리티지'",
+        "date": "2026-08-13 07:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154248"
+    },
+    {
+        "title": "[THE Biz&amp;CEO] 두 번째 매직… 정철동 LGD 사장의 턴어라운드",
+        "date": "2026-08-13 07:00",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725981"
+    },
+    {
         "title": "삼성 선견지명 통했다…애플에 “어서와 폴더블은 처음이지?”",
         "date": "2026-08-13 05:55",
         "link": "https://n.news.naver.com/mnews/article/009/0005720330?sid=101"
@@ -15,7 +350,7 @@
         "link": "https://www.tokenpost.kr/news/tech/389488"
     },
     {
-        "title": "방미통위, 구글·애플 4시간 가까이 의견청취…사무처 위법 판단",
+        "title": "방미통위, 구글·애플 4시간 가까이 의견 청취…사무처 위법 판단",
         "date": "2026-08-12 22:03",
         "link": "https://n.news.naver.com/mnews/article/055/0001380211?sid=100"
     },
@@ -23,11 +358,6 @@
         "title": "방미통위, 3년 끈 구글·애플 '앱 마켓 갑질' 규제 조만간 결론",
         "date": "2026-08-12 20:56",
         "link": "https://n.news.naver.com/mnews/article/469/0000947717?sid=101"
-    },
-    {
-        "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
-        "date": "2026-08-12 20:31",
-        "link": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101"
     },
     {
         "title": "구글·애플 인앱결제 제재 ‘막바지’…방미통위, 최종 숙의 돌입",
@@ -330,6 +660,11 @@
         "link": "https://kpenews.com/View.aspx?No=4183778"
     },
     {
+        "title": "매년 비슷해 보였던 아이폰인데…5년 새 이렇게 달라졌다",
+        "date": "2026-08-12 14:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692401"
+    },
+    {
         "title": "접었다 펴고, 만화도 보고 아이폰 천국 日서 폴드8 '품절'[르포]",
         "date": "2026-08-12 14:03",
         "link": "https://n.news.naver.com/mnews/article/014/0005560539?sid=105"
@@ -388,11 +723,6 @@
         "title": "삼성전자, '게임스컴 2026'서 풀스택 게이밍 경험 공개…국내선 '폴더블...",
         "date": "2026-08-12 13:26",
         "link": "http://www.dailypop.kr/news/articleView.html?idxno=101489"
-    },
-    {
-        "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료시장 공략",
-        "date": "2026-08-12 13:22",
-        "link": "http://www.metroseoul.co.kr/article/20260812500242"
     },
     {
         "title": "애플 첫 폴더블 '아이폰 울트라'로 나오나…사내서 이미 통용",
@@ -600,14 +930,14 @@
         "link": "http://www.segyebiz.com/newsView/20260812506276?OutUrl=naver"
     },
     {
-        "title": "LG전자, 美 FDA 승인 ‘진단용 모니터’ 출시…B2B 의료용 시장 공략",
-        "date": "2026-08-12 10:02",
-        "link": "https://www.viva100.com/article/20260812500258"
-    },
-    {
         "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료시장 공략 강화",
         "date": "2026-08-12 10:02",
         "link": "https://www.ajunews.com/view/20260812081502874"
+    },
+    {
+        "title": "LG전자, 美 FDA 승인 ‘진단용 모니터’ 출시…B2B 의료용 시장 공략",
+        "date": "2026-08-12 10:02",
+        "link": "https://www.viva100.com/article/20260812500258"
     },
     {
         "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료시장 공략",
@@ -645,19 +975,24 @@
         "link": "https://n.news.naver.com/mnews/article/119/0003120884?sid=101"
     },
     {
-        "title": "[뉴템] LG전자, FDA 승인 받은 40형 진단용 모니터 신제품 출시",
-        "date": "2026-08-12 10:01",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237501?sid=105"
-    },
-    {
         "title": "“의료용 모니터도 LG”…1대로 3대 역할 대체, 美 FDA 승인",
         "date": "2026-08-12 10:01",
         "link": "https://n.news.naver.com/mnews/article/009/0005719836?sid=101"
     },
     {
+        "title": "[뉴템] LG전자, FDA 승인 받은 40형 진단용 모니터 신제품 출시",
+        "date": "2026-08-12 10:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237501?sid=105"
+    },
+    {
         "title": "[포토] 폴더블 혁신 7년 한눈에···삼성전자, '폴더블 헤리티지' 전시...",
         "date": "2026-08-12 10:00",
         "link": "https://www.globale.co.kr/news/articleView.html?idxno=39814"
+    },
+    {
+        "title": "40형 화면 하나로 CT·MRI 다 본다…LG가 노리는 새 시장",
+        "date": "2026-08-12 10:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20260812023041916"
     },
     {
         "title": "LG전자, FDA 승인 진단용 모니터 신제품 출시…B2B 의료시장 공략",
@@ -675,14 +1010,14 @@
         "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571791797839"
     },
     {
-        "title": "LG전자, '美 FDA 승인' 진단용 모니터 선봬…B2B 의료용 라인업 강화",
-        "date": "2026-08-12 10:00",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1395018"
-    },
-    {
         "title": "LG전자, 美FDA 승인 진단용 모니터 출시…의료용 라인업 강화",
         "date": "2026-08-12 10:00",
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850075"
+    },
+    {
+        "title": "LG전자, '美 FDA 승인' 진단용 모니터 선봬…B2B 의료용 라인업 강화",
+        "date": "2026-08-12 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1395018"
     },
     {
         "title": "LG전자, 미국 FDA 승인 진단용 신제품 출시…의료용 모니터 3대 역할 '하...",
@@ -690,39 +1025,14 @@
         "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050513"
     },
     {
-        "title": "LG전자, FDA 승인 40형 진단용 모니터 출시…'3대 화면을 하나로'",
+        "title": "LG전자, 모니터 3대 역할 한 화면에…FDA 승인 의료용 모니터 출시",
         "date": "2026-08-12 10:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000526991?sid=101"
-    },
-    {
-        "title": "LG전자, 美 FDA 승인 받은 진단용 모니터 출시...B2B 의료 시장 공략 박...",
-        "date": "2026-08-12 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258469"
-    },
-    {
-        "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료 시장 공략 가속",
-        "date": "2026-08-12 10:00",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116097"
-    },
-    {
-        "title": "LG전자, FDA 승인 진단용 모니터 신제품 출시…의료용 B2B 시장 공략",
-        "date": "2026-08-12 10:00",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=235243"
-    },
-    {
-        "title": "LG전자, FDA 승인 진단용 모니터 출시…의료용 디스플레이 공략 강화",
-        "date": "2026-08-12 10:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005801975?sid=101"
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316332"
     },
     {
         "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료시장 공략",
         "date": "2026-08-12 10:00",
         "link": "https://www.newsinside.kr/news/articleView.html?idxno=4912674"
-    },
-    {
-        "title": "LG전자, 모니터 3대 역할 한 화면에…FDA 승인 의료용 모니터 출시",
-        "date": "2026-08-12 10:00",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316332"
     },
     {
         "title": "LG전자, FDA 승인 진단용 모니터 출시…B2B 의료 시장 공략",
@@ -735,6 +1045,36 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270082"
     },
     {
+        "title": "LG전자, 멀티뷰 의료 진단용 모니터 출시…美 FDA 승인 획득",
+        "date": "2026-08-12 10:00",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=347444"
+    },
+    {
+        "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료 시장 공략 가속",
+        "date": "2026-08-12 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116097"
+    },
+    {
+        "title": "LG전자, FDA 승인 진단용 모니터 신제품 출시…의료용 B2B 시장 공략",
+        "date": "2026-08-12 10:00",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=235243"
+    },
+    {
+        "title": "LG전자, FDA 승인 40형 진단용 모니터 출시…'3대 화면을 하나로'",
+        "date": "2026-08-12 10:00",
+        "link": "https://n.news.naver.com/mnews/article/374/0000526991?sid=101"
+    },
+    {
+        "title": "LG전자, 美 FDA 승인 받은 진단용 모니터 출시...B2B 의료 시장 공략 박...",
+        "date": "2026-08-12 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258469"
+    },
+    {
+        "title": "LG전자, FDA 승인 진단용 모니터 출시…의료용 디스플레이 공략 강화",
+        "date": "2026-08-12 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005801975?sid=101"
+    },
+    {
         "title": "[Tech &amp; Now] LG전자, 美 FDA 승인 신제품으로 B2B 의료용 모니터 공략 등",
         "date": "2026-08-12 10:00",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720034"
@@ -745,9 +1085,9 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476470"
     },
     {
-        "title": "LG전자, FDA 승인 진단용 모니터 출시…의료용 B2B 시장 공략 강화",
+        "title": "LG전자, FDA 승인 40형 진단용 모니터 출시…의료 B2B 강화",
         "date": "2026-08-12 10:00",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315178"
+        "link": "http://www.press9.kr/news/articleView.html?idxno=80933"
     },
     {
         "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 공략 강화",
@@ -755,14 +1095,14 @@
         "link": "https://n.news.naver.com/mnews/article/003/0014122067?sid=101"
     },
     {
-        "title": "LG전자, FDA 승인 40형 진단용 모니터 출시…의료 B2B 강화",
-        "date": "2026-08-12 10:00",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=80933"
-    },
-    {
         "title": "LG전자, ‘40인치 3분할’ 의료용 모니터 출시…B2B 공략 강화",
         "date": "2026-08-12 10:00",
         "link": "https://n.news.naver.com/mnews/article/029/0003041945?sid=101"
+    },
+    {
+        "title": "LG전자, FDA 승인 진단용 모니터 출시…의료용 B2B 시장 공략 강화",
+        "date": "2026-08-12 10:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315178"
     },
     {
         "title": "LG전자, '美FDA 승인' 진단용 모니터 출시...B2B 시장 공략 속도",
@@ -815,12 +1155,17 @@
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692226"
     },
     {
+        "title": "삼성 '갤럭시 Z 폴드8' 살까? 구글 '픽셀 11 프로 폴드' 살까?",
+        "date": "2026-08-12 08:08",
+        "link": "https://www.esquirekorea.co.kr/article/1907804"
+    },
+    {
         "title": "[차세대 디스플레이] 베트남까지 갔지만 실패…마이크로LED, 삼성전자...",
         "date": "2026-08-12 08:06",
         "link": "https://dealsite.co.kr/articles/167001"
     },
     {
-        "title": "[차세대 디스플레이] 삼성-삼성D, 마이크로LED 놓고 '불협화음'",
+        "title": "[차세대 디스플레이] 삼성-삼성D, 마이크로LED 놓고 '의견 충돌'",
         "date": "2026-08-12 08:02",
         "link": "https://dealsite.co.kr/articles/166821"
     },
