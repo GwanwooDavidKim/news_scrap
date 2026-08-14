@@ -1,5 +1,370 @@
 [
     {
+        "title": "캠시스, 상반기 영업익 86억 흑자전환… 폴드8 흥행에 하반기도 청신호...",
+        "date": "2026-08-14 14:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400259?sid=101"
+    },
+    {
+        "title": "아이폰 울트라, 출시 초반 공급난 전망…美 선출시 가능성 제기",
+        "date": "2026-08-14 14:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693224"
+    },
+    {
+        "title": "LG이노텍, 올해 상반기 애플 상대 최대 매출…8.8조원",
+        "date": "2026-08-14 14:00",
+        "link": "https://www.g-enews.com/view.php?ud=20260814135527438727fa31d75c_1"
+    },
+    {
+        "title": "삼성 폴더블, 또 먼지에 발목?…Z 폴드8 힌지 갈림음에 정상 개폐도 실...",
+        "date": "2026-08-14 13:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693206"
+    },
+    {
+        "title": "나인테크, 상반기 영업이익 '흑자전환'…수익성 중심 체질 개선",
+        "date": "2026-08-14 13:40",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=743957"
+    },
+    {
+        "title": "탑엔지니어링, 글로벌 패널사 투자 재개 수혜… 장비 수주 곳간 채운다",
+        "date": "2026-08-14 13:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477458"
+    },
+    {
+        "title": "애플 중국 AI, 알리바바 첸원 모델 쓴다",
+        "date": "2026-08-14 13:36",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/390648"
+    },
+    {
+        "title": "“갑자기 14조원 생겼네요”…애플·나이키 美회사 40여곳 잭팟 터졌다",
+        "date": "2026-08-14 13:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721104?sid=101"
+    },
+    {
+        "title": "LG이노텍, 올해 상반기 애플 매출 8.8조…역대 최대",
+        "date": "2026-08-14 13:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0016251837?sid=101"
+    },
+    {
+        "title": "디스플레이 승부처 ‘IT 시장’ 부상…삼성·LG, OLED 양산 고삐",
+        "date": "2026-08-14 13:24",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1310331&inflow=N"
+    },
+    {
+        "title": "애플, 앱스토어 수수료 소송 중단 실패...에픽게임즈와 공방 계속",
+        "date": "2026-08-14 13:09",
+        "link": "https://n.news.naver.com/mnews/article/052/0002393299?sid=104"
+    },
+    {
+        "title": "코어 울트라 5 250K 플러스 &amp; 지포스 RTX 5060 조합, 가성비 인텔 게이밍...",
+        "date": "2026-08-14 13:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60326"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z8 동남아·오세아니아 출격…폴드8 사전판매 60% 급증",
+        "date": "2026-08-14 12:06",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265759"
+    },
+    {
+        "title": "아이폰 울트라, 9월 공개 후 미국 선출시?…순차 출시 전망",
+        "date": "2026-08-14 11:54",
+        "link": "https://kbench.com/?q=node/281169"
+    },
+    {
+        "title": "텍사스에 첨단제조센터 만든 애플…러트닉 초청해 美정부와 밀착",
+        "date": "2026-08-14 11:45",
+        "link": "https://n.news.naver.com/mnews/article/374/0000527521?sid=104"
+    },
+    {
+        "title": "텍사스에 첨단제조센터 만든 애플…러트닉 초청해 美정부와 밀착",
+        "date": "2026-08-14 11:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0016251655?sid=104"
+    },
+    {
+        "title": "투모로우바이투게더 VR 콘서트 2차 예매, 시즌1·2 재상영까지 연다",
+        "date": "2026-08-14 11:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16163538"
+    },
+    {
+        "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
+        "date": "2026-08-14 11:32",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2116368"
+    },
+    {
+        "title": "[재계는 지금] 삼성전자, 동남아·오세아니아에 '갤럭시 Z8 시리즈' 출시...",
+        "date": "2026-08-14 11:28",
+        "link": "https://dealsite.co.kr/articles/167244"
+    },
+    {
+        "title": "이제 아이폰이 아재폰 굴욕...야심작 '유리 아이폰' 진짜 나올까",
+        "date": "2026-08-14 11:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400201?sid=102"
+    },
+    {
+        "title": "애플 수수료 소송 중단요청 기각, 관련 소송 계속 진행",
+        "date": "2026-08-14 11:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0016251623?sid=101"
+    },
+    {
+        "title": "애플, 110개국 사용자에 용병형 스파이웨어 경고…새 지원 문서도",
+        "date": "2026-08-14 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693172"
+    },
+    {
+        "title": "LGD '플립', 파일럿 투자 윤곽…IT OLED '겨냥'",
+        "date": "2026-08-14 11:02",
+        "link": "https://dealsite.co.kr/articles/167216"
+    },
+    {
+        "title": "'유아 아이폰 소지' 애플 옥외광고, 이탈리아서 윤리적 논란",
+        "date": "2026-08-14 11:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=105830"
+    },
+    {
+        "title": "AI발 메모리 대란에 맥북 에어도 품귀…배송 최대 5주 지연",
+        "date": "2026-08-14 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693161"
+    },
+    {
+        "title": "강력한 '컨트롤 허브' 갖춘 무선 슬림 게이밍 키보드, 커세어 ‘뱅가드...",
+        "date": "2026-08-14 10:52",
+        "link": "https://www.betanews.net/article/view/beta202608130072"
+    },
+    {
+        "title": "애플, 110개국 아이폰 사용자에 '용병 스파이웨어' 공격 경고",
+        "date": "2026-08-14 10:50",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81130"
+    },
+    {
+        "title": "애플, 메이드 인 USA '맥 미니' 만든다…트럼프 압박에 대응",
+        "date": "2026-08-14 10:43",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351707?sid=101"
+    },
+    {
+        "title": "삼성, OLED 모니터 점유율 13.1%…MSI와 격차 0.3%p로 축소",
+        "date": "2026-08-14 10:42",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81129"
+    },
+    {
+        "title": "애플, 스마트안경 녹음·촬영 상태 알리는 오디오 보안 특허 승인",
+        "date": "2026-08-14 10:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546640"
+    },
+    {
+        "title": "갤럭시 Z8, 동남아·오세아니아...사전판매 60%↑",
+        "date": "2026-08-14 10:28",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=53249"
+    },
+    {
+        "title": "동남아도 ‘폴더블’ 꽂혔다…‘갤럭시 Z8’ 초기 반응 후끈",
+        "date": "2026-08-14 10:27",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042406?sid=101"
+    },
+    {
+        "title": "기가레인, 23억 규모 자동차 전장용 NIL 장비 공급 계약",
+        "date": "2026-08-14 10:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=299459"
+    },
+    {
+        "title": "애플 20주년 아이폰, 확 달라진다…아이폰20 프로 '베젤리스' 디스플레...",
+        "date": "2026-08-14 10:12",
+        "link": "https://kbench.com/?q=node/281160"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8' 동남아·오세아니아 출격…폴드 사전판매 60% 뛰었다",
+        "date": "2026-08-14 10:08",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=540126"
+    },
+    {
+        "title": "애플, 휴스턴서 맥 미니 생산 재확인",
+        "date": "2026-08-14 10:04",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/390477"
+    },
+    {
+        "title": "1030 마음 '꽉' 사로잡은 갤럭시 Z8 시리즈, 韓 넘어 일본·유럽서도 '흥...",
+        "date": "2026-08-14 09:58",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404920"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z8' 흥행 청신호…해외 사전판매 60% 뛰었다",
+        "date": "2026-08-14 09:56",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=112101"
+    },
+    {
+        "title": "삼성 '갤럭시 Z8' 동남아·오세아니아 출시…사전판매 60% 급증",
+        "date": "2026-08-14 09:54",
+        "link": "https://www.ajunews.com/view/20260814095014866"
+    },
+    {
+        "title": "갤럭시 Z8, 동남아·오세아니아 흥행…폴드8 시리즈 사전판매 60%↑",
+        "date": "2026-08-14 09:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=299424"
+    },
+    {
+        "title": "[7월 신규상장] 매드업, 레몬헬스케어, 레메디 등",
+        "date": "2026-08-14 09:34",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37447"
+    },
+    {
+        "title": "삼성폰이 품절 일본도 놀라운데...폴드8 갈아탈래 MZ 난리 난 이곳",
+        "date": "2026-08-14 09:28",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400117?sid=105"
+    },
+    {
+        "title": "'美 제조업 부활 이끈다' 애플, 휴스턴에서 AI서버·맥 미니 생산",
+        "date": "2026-08-14 09:26",
+        "link": "https://www.theguru.co.kr/news/article.html?no=105816"
+    },
+    {
+        "title": "이오테크닉스, 레이저 마킹·어닐링 독주… 차세대 마이크로 LED 타고 날...",
+        "date": "2026-08-14 09:20",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477354"
+    },
+    {
+        "title": "삼성전자, 동남아·오세아니아에 ‘갤럭시 Z8 시리즈’ 출시",
+        "date": "2026-08-14 09:12",
+        "link": "https://www.etoday.co.kr/news/view/2614501"
+    },
+    {
+        "title": "애플, 이제 美서 '맥 미니' 만든다…AI 서버까지 생산하는 휴스턴 제조...",
+        "date": "2026-08-14 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693090"
+    },
+    {
+        "title": "[미르의 알기쉬운 비즈니스] AI 시대에도 스마트폰은 사라지지 않는다…...",
+        "date": "2026-08-14 09:04",
+        "link": "https://www.mediapen.com/news/view/1116389"
+    },
+    {
+        "title": "기가레인, 글로벌 전자기업과 전장용 NIL 장비 23억원 공급계약",
+        "date": "2026-08-14 09:01",
+        "link": "https://www.newspim.com/news/view/20260814000216"
+    },
+    {
+        "title": "'Z폴드8 마음에 쏙!'..7년전 첫출시땐 비난 [여의도 Pick!]",
+        "date": "2026-08-14 08:58",
+        "link": "https://news.mtn.co.kr/news-detail/2026081408545525887"
+    },
+    {
+        "title": "美 대기업, 위법 판결 관세 96억달러 환급...애플 22억달러 '최대'",
+        "date": "2026-08-14 08:51",
+        "link": "https://n.news.naver.com/mnews/article/014/0005561526?sid=104"
+    },
+    {
+        "title": "[인천스타트업파크 CEO] 백색 이산화티타늄에 산소를 결합해 흑색산화티...",
+        "date": "2026-08-14 08:42",
+        "link": "https://magazine.hankyung.com/job-joy/article/202608140796d"
+    },
+    {
+        "title": "WSJ 애플·나이키 등 40여개 美기업, 14조원 관세 환급",
+        "date": "2026-08-14 08:40",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877917"
+    },
+    {
+        "title": "애플 맥북 네오2, 12GB 램 탑재설 제기…AI 기능 대응에 유리",
+        "date": "2026-08-14 08:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693082"
+    },
+    {
+        "title": "기가레인, 글로벌 전자기업에 23억원 규모 자동차 전장용 NIL 장비 공급",
+        "date": "2026-08-14 08:37",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351569?sid=101"
+    },
+    {
+        "title": "아이폰 울트라 공급 부족…국가별 순차 출시될까",
+        "date": "2026-08-14 08:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002433961?sid=105"
+    },
+    {
+        "title": "애플·나이키 등 美기업 40곳, 관세 14조 돌려받아…실적 단비",
+        "date": "2026-08-14 08:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0009113560?sid=104"
+    },
+    {
+        "title": "기가레인, 글로벌 전자기업에 NIL 장비 공급 계약",
+        "date": "2026-08-14 08:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=716822"
+    },
+    {
+        "title": "기가레인, 23억 규모 자동차 전장용 NIL 장비 공급 계약",
+        "date": "2026-08-14 08:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0014127086?sid=101"
+    },
+    {
+        "title": "美기업들 관세 환급 '잭팟'…40여곳 14조원, 애플만 3조원",
+        "date": "2026-08-14 07:38",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93720"
+    },
+    {
+        "title": "구글 텐서G6 3나노 확정, 2나노 최초는 삼성 몫",
+        "date": "2026-08-14 07:34",
+        "link": "https://www.wikitree.co.kr/articles/1152395"
+    },
+    {
+        "title": "삼성전자, 애플도 ‘AI 안경’ 출사표 던졌는데…점점 커지는 사법 리스...",
+        "date": "2026-08-14 07:34",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651698?sid=105"
+    },
+    {
+        "title": "관세 환급금이 분기 전체이익 5%?…애플·나이키 등 14조원 '잭팟'",
+        "date": "2026-08-14 07:29",
+        "link": "https://n.news.naver.com/mnews/article/015/0005320802?sid=104"
+    },
+    {
+        "title": "美 기업들, 트럼프 관세 환급금 속속 수령 … 애플만 3조원 챙겼다",
+        "date": "2026-08-14 07:28",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/08/14/2026081400007.html"
+    },
+    {
+        "title": "애플 3.1조원 돌려받았다...美기업들, 관세 속속 환급",
+        "date": "2026-08-14 07:28",
+        "link": "https://n.news.naver.com/mnews/article/215/0001262331?sid=101"
+    },
+    {
+        "title": "아이폰 울트라, 미국 우선 출시…해외는 2~3개월 늦어진다",
+        "date": "2026-08-14 06:52",
+        "link": "https://www.wikitree.co.kr/articles/1152389"
+    },
+    {
+        "title": "美, ‘트럼프 관세’ 13조원 환급…애플 3조 돌려받아",
+        "date": "2026-08-14 06:50",
+        "link": "https://n.news.naver.com/mnews/article/119/0003121681?sid=104"
+    },
+    {
+        "title": "WSJ 애플·나이키 등 美기업 40여곳, 약 14조원 관세 환급",
+        "date": "2026-08-14 06:46",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206473"
+    },
+    {
+        "title": "애플·나이키·페덱스 등 미국 대기업 40곳 관세 환급...총 13.6조원 [마...",
+        "date": "2026-08-14 06:36",
+        "link": "https://www.etoday.co.kr/news/view/2614433"
+    },
+    {
+        "title": "애플 3조 등 美관세 환급…실적 증대 효과",
+        "date": "2026-08-14 06:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351495?sid=101"
+    },
+    {
+        "title": "애플, 시리AI에 1억달러…고정료 아닌 “쓴만큼” 지급",
+        "date": "2026-08-14 06:32",
+        "link": "https://www.wikitree.co.kr/articles/1152388"
+    },
+    {
+        "title": "中 부품사 파고드는 애플 공급망…LGD·LG이노텍 수익성 방어 '비상'",
+        "date": "2026-08-14 06:30",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168120"
+    },
+    {
+        "title": "OLED 모니터 1년 새 98% 성장…삼성·LG, 초고해상도 프리미엄 경쟁",
+        "date": "2026-08-14 06:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0009113477?sid=101"
+    },
+    {
+        "title": "[단독] 왜 이렇게 아이폰 많나 했는데…삼성 스마트폰 '반격' [갤럭시...",
+        "date": "2026-08-14 06:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005320785?sid=105"
+    },
+    {
         "title": "'고혈압' 애플 vs '수면무호흡' 삼성…100만원짜리 '손목 주치의' 맞대결",
         "date": "2026-08-14 06:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005400037?sid=105"
@@ -15,7 +380,7 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005400023?sid=101"
     },
     {
-        "title": "“이제 아이폰이 아재폰”…여심 펼친 ‘여권폰’, 日도 환승 릴레이",
+        "title": "“아이폰은 아재폰”…‘여권폰’ 무서운 돌풍, 애플덕후도 갈아탔다",
         "date": "2026-08-14 05:00",
         "link": "https://n.news.naver.com/mnews/article/025/0003544378?sid=101"
     },
