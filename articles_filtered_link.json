@@ -1,5 +1,195 @@
 [
     {
+        "title": "삼성전자, '콜 오브 듀티: 모던 워페어 4' 공식 파트너십 체결",
+        "date": "2026-08-18 12:06",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098833"
+    },
+    {
+        "title": "시험 문제 보면 AI가 정답…스마트 안경 부정행위 확산",
+        "date": "2026-08-18 11:50",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101588"
+    },
+    {
+        "title": "애플 A20 프로 칩, 성능 18%·전력 효율 30% 개선…아이폰18 프로 정조준",
+        "date": "2026-08-18 11:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693647"
+    },
+    {
+        "title": "애플워치 울트라4·시리즈12, 9월 출격…겉보다 속 바뀐다",
+        "date": "2026-08-18 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693661"
+    },
+    {
+        "title": "선익시스템, 수주잔고 6420억원…하반기 장비 출하 집중",
+        "date": "2026-08-18 11:42",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61013"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 흥행…삼성, 4대3 버리고 더 넓은 폴더블 검토",
+        "date": "2026-08-18 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693645"
+    },
+    {
+        "title": "삼성디스플레이, 67조 투자 속도 '아산 A7 공장'부터 첫발",
+        "date": "2026-08-18 11:22",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308575"
+    },
+    {
+        "title": "삼성전자, 게이머에 손 뻗는다..게임스컴 가고 콜옵과도 맞손",
+        "date": "2026-08-18 11:18",
+        "link": "https://kpenews.com/View.aspx?No=4189364"
+    },
+    {
+        "title": "주성엔지니어링·티에스이 주가 신바람... LED·반도체 공정 장비주 집중...",
+        "date": "2026-08-18 11:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478197"
+    },
+    {
+        "title": "삼성전자, 게임스컴 2026서 '콜 오브 듀티·붉은사막'과 함께 게이밍 생...",
+        "date": "2026-08-18 10:44",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=151421"
+    },
+    {
+        "title": "Samsung accelerates OLED investment amid foldable boom",
+        "date": "2026-08-18 10:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005722170?sid=104"
+    },
+    {
+        "title": "중국 허난성, 외국인투자 장려산업 개편…‘R&amp;D+제조’ 중심으로 투자 ...",
+        "date": "2026-08-18 10:34",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=240789"
+    },
+    {
+        "title": "삼성전자 빈 미술사 박물관·콜 오브 듀티 전장을 집으로",
+        "date": "2026-08-18 10:34",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154385"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 윤곽…9월 공개설 '솔솔'",
+        "date": "2026-08-18 10:30",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81215"
+    },
+    {
+        "title": "AI 붐에도 아이폰18 프로 생산 차질 없나? 폭스콘, 수요 대응 위해 인력...",
+        "date": "2026-08-18 10:28",
+        "link": "https://kbench.com/?q=node/281198"
+    },
+    {
+        "title": "턴어라운드 '야스', 달라진 밸류에이션은? … 2Q 영업이익률 32%·순익 3...",
+        "date": "2026-08-18 10:04",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=33179"
+    },
+    {
+        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
+        "date": "2026-08-18 09:52",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=311774"
+    },
+    {
+        "title": "애플 의존 낫춘 아이티엠반도체, 상반기 영업손실 101억… “주력사업은...",
+        "date": "2026-08-18 09:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684873?sid=101"
+    },
+    {
+        "title": "선익시스템, 상반기 수주 잔고 6420억원",
+        "date": "2026-08-18 09:27",
+        "link": "https://www.newspim.com/news/view/20260818000252"
+    },
+    {
+        "title": "삼성전자, 액티비전 블리자드와 ‘콜 오브 듀티’ 신작 파트너십… 게임...",
+        "date": "2026-08-18 09:20",
+        "link": "https://n.news.naver.com/mnews/article/366/0001186745?sid=105"
+    },
+    {
+        "title": "성능 18% 전력효율 30% 개선…애플 차세대 2나노 A20 프로 출격",
+        "date": "2026-08-18 09:16",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238052?sid=105"
+    },
+    {
+        "title": "폴더블·IT OLED 수요 늘자… 삼성디스플레이, 아산 A7 공장 건설 재개",
+        "date": "2026-08-18 09:12",
+        "link": "https://n.news.naver.com/mnews/article/366/0001186739?sid=105"
+    },
+    {
+        "title": "애플 맥OS 타호 최신 코드서 홈허브·카메라 에어팟 등 대거 포착",
+        "date": "2026-08-18 09:11",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238050?sid=105"
+    },
+    {
+        "title": "애플, 모듈개발위해 'CXMT와 협력 제한' 속타 [여의도 Pick!]",
+        "date": "2026-08-18 09:04",
+        "link": "https://news.mtn.co.kr/news-detail/2026081808595455852"
+    },
+    {
+        "title": "하나證 삼성전자, 지수 반등 주도…애플처럼 고배당주될 가능성도",
+        "date": "2026-08-18 09:03",
+        "link": "https://n.news.naver.com/mnews/article/421/0009118088?sid=101"
+    },
+    {
+        "title": "디케이티, 사상 최대 분기 매출…폴더블·전장이 견인 했다",
+        "date": "2026-08-18 09:00",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=33169"
+    },
+    {
+        "title": "애플→삼성 전환으로 성장...아이티엠반도체, 상반기 매출 11%↑",
+        "date": "2026-08-18 08:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353224?sid=101"
+    },
+    {
+        "title": "[미르의 글로벌 레이더] 삼성이 ‘한국’을 마케팅한다…중남미 5개국서...",
+        "date": "2026-08-18 08:50",
+        "link": "https://www.mediapen.com/news/view/1116947"
+    },
+    {
+        "title": "갤럭시Z폴드8 넘어설까…아이폰 울트라, 흥행 걸림돌 3가지",
+        "date": "2026-08-18 08:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434174?sid=105"
+    },
+    {
+        "title": "삼성전자, '배당주' 인정되면…'美시총 1위' 애플 따라갈 수도-하나",
+        "date": "2026-08-18 08:45",
+        "link": "https://n.news.naver.com/mnews/article/015/0005321778?sid=101"
+    },
+    {
+        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
+        "date": "2026-08-18 08:38",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357503"
+    },
+    {
+        "title": "[현장] 'K-Display 2026'에서 확인된 첨단 기술",
+        "date": "2026-08-18 08:36",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87536"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드8 흥행에 와이드 폴더블 라인업 확대하나?",
+        "date": "2026-08-18 08:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546685"
+    },
+    {
+        "title": "애플 A20 프로 칩, 성능 18%·전력 효율 30% 향상",
+        "date": "2026-08-18 08:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434172?sid=105"
+    },
+    {
+        "title": "애플 빈자리 메운 아이티엠반도체…삼성·전자담배 성장에 매출 10.7%↑",
+        "date": "2026-08-18 08:06",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567789268757"
+    },
+    {
+        "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
+        "date": "2026-08-18 08:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105"
+    },
+    {
+        "title": "[코스피·코스닥,삼성전자 SK하이닉스 ㈜코오롱 롯데카드 현대해상 이랜...",
+        "date": "2026-08-18 07:52",
+        "link": "https://www.public25.com/news/articleView.html?idxno=52834"
+    },
+    {
+        "title": "삼성디스플레이, 아산 OLED 신공장 건설 재개",
+        "date": "2026-08-18 06:21",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652459?sid=101"
+    },
+    {
         "title": "“접는 게 신기해?” 이젠 “어떤 접는 폰 살까”…144만 대가 증명한 삼...",
         "date": "2026-08-18 06:00",
         "link": "https://n.news.naver.com/mnews/article/468/0001260248?sid=105"
@@ -65,11 +255,6 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005721999?sid=101"
     },
     {
-        "title": "韓 고가 OLED 점유율 70% … 中, 생산시설 늘려 맹추격",
-        "date": "2026-08-17 17:46",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721998?sid=101"
-    },
-    {
         "title": "560kg 나눔, 유러피안 채소·애플참외… 제천 농기센터",
         "date": "2026-08-17 17:15",
         "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093989"
@@ -78,11 +263,6 @@
         "title": "삼성전자, 내년 '와이드 폴드' 하나 더 만든다…폴더블 5종 확대",
         "date": "2026-08-17 16:31",
         "link": "https://n.news.naver.com/mnews/article/030/0003457927?sid=105"
-    },
-    {
-        "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
-        "date": "2026-08-17 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105"
     },
     {
         "title": "삼성전자, '콜 오브 듀티' 신작 개발부터 협업…디스플레이 최적화",
@@ -120,19 +300,9 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003042648?sid=101"
     },
     {
-        "title": "삼성전자, 블리자드 신작 '콜 오브 듀티 모던 워페어 4' 공식 파트너십...",
-        "date": "2026-08-17 13:51",
-        "link": "https://n.news.naver.com/mnews/article/277/0005803725?sid=101"
-    },
-    {
         "title": "‘콜 오브 듀티’ 신작 만난 삼성전자…게이밍 모니터 1위 굳힌다",
         "date": "2026-08-17 13:27",
         "link": "https://n.news.naver.com/mnews/article/011/0004652312?sid=101"
-    },
-    {
-        "title": "IMID 2026 18일 부산 개최…삼성·LGD OLED 혁신 제품 공개",
-        "date": "2026-08-17 13:13",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434156?sid=105"
     },
     {
         "title": "삼성, 에어팟 맥스 대항마 갤럭시 헤드폰 제작중",
@@ -148,11 +318,6 @@
         "title": "삼성 갤럭시Z 폴드8, 애플 텃밭 '이곳'에서 드디어 대박냈다",
         "date": "2026-08-17 12:26",
         "link": "https://www.betanews.net/article/view/beta202608170025"
-    },
-    {
-        "title": "삼성 모니터로 즐기는 '콜 오브 듀티'…블리자드와 공식 파트너십",
-        "date": "2026-08-17 12:25",
-        "link": "https://n.news.naver.com/mnews/article/014/0005562359?sid=101"
     },
     {
         "title": "AI 낸드 수요에 수혜는 中 YMTC, 애플은 CXMT…韓 '긴장'",
@@ -350,19 +515,9 @@
         "link": "http://www.popcornnews.net/news/articleView.html?idxno=129883"
     },
     {
-        "title": "[삼성 갤럭시 생존법] 폴더블이 MX 수익성 구할까",
-        "date": "2026-08-17 08:02",
-        "link": "https://news.dealsitetv.com/articles/174483"
-    },
-    {
         "title": "삼성·LG디스플레이, IMID서 AI 겨냥한 기술 비전 제시",
         "date": "2026-08-17 08:00",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396189"
-    },
-    {
-        "title": "OLED, RGB 미니 LED에 판정승…초고휘도 스펙도 못넘은 '화질'",
-        "date": "2026-08-17 07:45",
-        "link": "https://n.news.naver.com/mnews/article/001/0016254165?sid=101"
     },
     {
         "title": "300만원 '유리 아이폰' 결국 무산?…애플 20주년작 놓고 엇갈린 전망",
