@@ -1,5 +1,390 @@
 [
     {
+        "title": "삼성·LG ‘세계 최초’ 화면기술 격돌",
+        "date": "2026-08-20 05:05",
+        "link": "https://n.news.naver.com/mnews/article/081/0003671846?sid=101"
+    },
+    {
+        "title": "FMM 한계 돌파, 감쪽같은 폴더블… 초격차 굳힌 K-OLED",
+        "date": "2026-08-20 03:56",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402155?sid=101"
+    },
+    {
+        "title": "LGD, ‘금속 그물망’ 치운 차세대 OLED 기술 공개",
+        "date": "2026-08-20 02:14",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867897?sid=101"
+    },
+    {
+        "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
+        "date": "2026-08-20 01:12",
+        "link": "https://www.wikitree.co.kr/articles/1153495"
+    },
+    {
+        "title": "오터박스 케이스 포장에 “아이폰17·18 프로 겸용” 표기…외형 변화 ...",
+        "date": "2026-08-19 22:24",
+        "link": "https://www.wikitree.co.kr/articles/1153493"
+    },
+    {
+        "title": "앱스토어 수수료 18% 감소 추정, 대법원 심리 진행",
+        "date": "2026-08-19 21:08",
+        "link": "https://www.tokenpost.kr/news/policy/393365"
+    },
+    {
+        "title": "애플 '나의 찾기·사진·게임 센터' 장애…개발자 서비스도 불안정",
+        "date": "2026-08-19 20:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694136"
+    },
+    {
+        "title": "[현장] 읽고 쓰고 기록하고…서점에서 만난 로지텍 ′모비 폴드′",
+        "date": "2026-08-19 20:52",
+        "link": "https://byline.network/?p=9004111222615844"
+    },
+    {
+        "title": "지아이에스, 구미에 MLCC 장비 전용 기지…삼성전기 물량 대비",
+        "date": "2026-08-19 19:10",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61111"
+    },
+    {
+        "title": "삼성D, 폴더블 접힘부 더 밝게… LGD, OLED 공정 신기술 공개",
+        "date": "2026-08-19 18:19",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563671?sid=101"
+    },
+    {
+        "title": "LGD, 日 포기 기술 '플립' 개발…세계 최초 양산까지 도전",
+        "date": "2026-08-19 18:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=748400"
+    },
+    {
+        "title": "애플, 내달 9일 폴더블폰 베일 벗는다…삼성과 정면승부 예고",
+        "date": "2026-08-19 18:04",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850772"
+    },
+    {
+        "title": "'꿈의 기술'로 OLED 수명 2.4배 늘렸다",
+        "date": "2026-08-19 18:03",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723151?sid=101"
+    },
+    {
+        "title": "폴더블 접힘부도 밝게…삼성D, 와이드뷰 첫선",
+        "date": "2026-08-19 18:03",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723157?sid=101"
+    },
+    {
+        "title": "'AI 미참여'의 역설…AI 수혜주는 반등하는데 애플만 10% 하락",
+        "date": "2026-08-19 17:54",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214123"
+    },
+    {
+        "title": "애플, EU와의 갈등 일단락…앱스토어 수수료 전면 개편",
+        "date": "2026-08-19 17:48",
+        "link": "https://byline.network/?p=9004111222615877"
+    },
+    {
+        "title": "LG Display unveils its maskless OLED technology for the first time",
+        "date": "2026-08-19 17:47",
+        "link": "https://n.news.naver.com/mnews/article/640/0000092995?sid=105"
+    },
+    {
+        "title": "삼성·LGD 하이엔드 OLED로 中 따돌린다",
+        "date": "2026-08-19 17:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322483?sid=101"
+    },
+    {
+        "title": "내가 표적 될 줄이야…우크라 병사에 경고 알림 보낸 애플, 왜?",
+        "date": "2026-08-19 17:19",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402062?sid=104"
+    },
+    {
+        "title": "LG디스플레이, IMID서 OLED 기술력 과시…'FLiPP' 세계 첫선",
+        "date": "2026-08-19 17:12",
+        "link": "http://www.metroseoul.co.kr/article/20260819500475"
+    },
+    {
+        "title": "[현장] 삼성 강남에 펼쳐진 폴더블 7년…역대 최다 사전판매 '이유 있었...",
+        "date": "2026-08-19 17:10",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200909"
+    },
+    {
+        "title": "LGD, ‘금속 그물망’ 치운 차세대 OLED 기술 공개",
+        "date": "2026-08-19 17:04",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867792?sid=101"
+    },
+    {
+        "title": "[IMID 2026] LGD ‘마스크 없는 OLED FLiPP’ vs 삼성D ‘휘어도 밝은 와이...",
+        "date": "2026-08-19 16:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608191016359480476"
+    },
+    {
+        "title": "삼성디스플레이, IMID서 폴더블 혁신 기술 공개…화질·폼팩터 진화",
+        "date": "2026-08-19 16:40",
+        "link": "http://www.metroseoul.co.kr/article/20260819500461"
+    },
+    {
+        "title": "삼성D·LGD, 부산서 OLED 초격차 대결…와이드뷰 vs 공정 간소화",
+        "date": "2026-08-19 16:33",
+        "link": "https://n.news.naver.com/mnews/article/293/0000089273?sid=101"
+    },
+    {
+        "title": "“미래 디스플레이 화두는 'AI·XR'”…삼성D·구글·메타, 혁신 핵심 축...",
+        "date": "2026-08-19 16:29",
+        "link": "https://n.news.naver.com/mnews/article/030/0003458712?sid=105"
+    },
+    {
+        "title": "정체된 TV 시장에도 OLED 성장…삼성·LG, ‘증설·대중화’로 대응",
+        "date": "2026-08-19 16:28",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260819010006263"
+    },
+    {
+        "title": "‘애플 매출 비중 80%’ LG이노텍, 재고 1년 새 1조원 넘게 증가… 실적...",
+        "date": "2026-08-19 16:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187147?sid=105"
+    },
+    {
+        "title": "삼성 “접힘부도 밝게” LG “금속판 없는 OLED”…디스플레이 신기술 ...",
+        "date": "2026-08-19 16:21",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741877?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, IMID 2026서 차세대 OLED '격돌'⋯세계 최초 신기술 공개",
+        "date": "2026-08-19 16:14",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=259472"
+    },
+    {
+        "title": "'국경·업종' 벽 허문다…삼성전자, 현대차·애플·텐센트서 인재 영입",
+        "date": "2026-08-19 16:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168445"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 울트라 이름 못달고 출시되나?",
+        "date": "2026-08-19 16:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546737"
+    },
+    {
+        "title": "삼성·LG디스플레이, IMID 2026 참가...차세대 OLED 대격돌",
+        "date": "2026-08-19 16:10",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363855"
+    },
+    {
+        "title": "삼성D ‘와이드뷰’·LGD ‘플립’ 차세대 OLED 공개",
+        "date": "2026-08-19 16:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653102?sid=101"
+    },
+    {
+        "title": "애플, EU 3자 앱스토어 수수료 5% 부과…당국과 갈등 해소 나서",
+        "date": "2026-08-19 15:58",
+        "link": "https://n.news.naver.com/mnews/article/374/0000528230?sid=104"
+    },
+    {
+        "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
+        "date": "2026-08-19 15:58",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978"
+    },
+    {
+        "title": "구글·애플 없이도 게임 산다… DTC 시대 성큼",
+        "date": "2026-08-19 15:56",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3426344"
+    },
+    {
+        "title": "[산업 뉴스브리핑] 삼성전자, 광주에 HVAC 생산라인 구축…AI 데이터센터...",
+        "date": "2026-08-19 15:52",
+        "link": "https://www.asiatime.co.kr/article/20260819500323"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 아산 2단지 신규 공장은 폴더블이 우선",
+        "date": "2026-08-19 15:50",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423155"
+    },
+    {
+        "title": "OLED 격차는 기술에서… 삼성D·LGD, 폼팩터·공정 혁신 속도",
+        "date": "2026-08-19 15:46",
+        "link": "https://www.mediapen.com/news/view/1117391"
+    },
+    {
+        "title": "삼성·LG디스플레이, 'IMID 2026' 참가…광시야각·차세대 OLED 기술 공개...",
+        "date": "2026-08-19 15:44",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595204590875"
+    },
+    {
+        "title": "칩플레이션에 소형 OLED 주춤…'폴더블 아이폰' 흥행이 하반기 가른다",
+        "date": "2026-08-19 15:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0014135911?sid=101"
+    },
+    {
+        "title": "애플, EU 3자 앱스토어 수수료 5% 부과…당국과 갈등 해소 나서",
+        "date": "2026-08-19 15:38",
+        "link": "https://n.news.naver.com/mnews/article/001/0016259307?sid=101"
+    },
+    {
+        "title": "글로벌 소형 OLED 침체 속 삼성D, 매출 점유율 50% 육박",
+        "date": "2026-08-19 15:36",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1403809"
+    },
+    {
+        "title": "OLED 한계 깬 삼성·LGD…중국 추격에 '초격차' 기술로 대응",
+        "date": "2026-08-19 15:30",
+        "link": "https://n.news.naver.com/mnews/article/008/0005401945?sid=101"
+    },
+    {
+        "title": "오래된 폰도 잘 팔린다…중고폰 63% ‘출시 3년↑’",
+        "date": "2026-08-19 15:28",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354230?sid=105"
+    },
+    {
+        "title": "LG Display, Samsung Display showcase next-generation OLED technologies at...",
+        "date": "2026-08-19 15:22",
+        "link": "https://www.koreatimes.co.kr/path/A2026081915060001559"
+    },
+    {
+        "title": "“접혀도 밝기 그대로”…삼성D, 차세대 광시야각 OLED 선봬",
+        "date": "2026-08-19 15:14",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608190139"
+    },
+    {
+        "title": "소형 OLED시장 역성장에도… 삼성D, '나홀로 질주'",
+        "date": "2026-08-19 15:02",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726425"
+    },
+    {
+        "title": "게임시장 구글·애플 천하 깨졌다···“게이머 절반, 앱스토어 밖에서...",
+        "date": "2026-08-19 15:02",
+        "link": "https://n.news.naver.com/mnews/article/009/0005722888?sid=105"
+    },
+    {
+        "title": "폴더블 접힘부 40% 어두웠는데… 삼성D, 광시야각으로 해결",
+        "date": "2026-08-19 14:58",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423596"
+    },
+    {
+        "title": "[전자는 지금] 삼성전자, 광주사업장에 플랙트그룹 신규 HVAC 생산라인 구...",
+        "date": "2026-08-19 14:54",
+        "link": "https://dealsite.co.kr/articles/167447"
+    },
+    {
+        "title": "이청 2단지 A7 활용 방향, 폴더블 OLED가 1순위",
+        "date": "2026-08-19 14:52",
+        "link": "https://dealsite.co.kr/articles/167467"
+    },
+    {
+        "title": "스마트폰 부진에 소형 OLED 출하량 4.6%↓…삼성D 점유율 40%",
+        "date": "2026-08-19 14:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354175?sid=101"
+    },
+    {
+        "title": "LG Display ditches masks for brighter, longer-lasting OLEDs",
+        "date": "2026-08-19 14:48",
+        "link": "https://n.news.naver.com/mnews/article/044/0000288435?sid=104"
+    },
+    {
+        "title": "OLED 경쟁, 화질 넘어 공정·AI로… 삼성D·LGD 기술력 승부",
+        "date": "2026-08-19 14:42",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357600"
+    },
+    {
+        "title": "287억원 매출 보원케미칼, 상반기 11.1% 늘었다",
+        "date": "2026-08-19 14:42",
+        "link": "https://www.tokenpost.kr/news/market/393120"
+    },
+    {
+        "title": "폴더블 접힘부 밝기 맞춘 삼성, OLED 제작 과정 혁신한 LG... 디스플레이...",
+        "date": "2026-08-19 14:39",
+        "link": "https://n.news.naver.com/mnews/article/469/0000948851?sid=105"
+    },
+    {
+        "title": "삼성D·LGD, 차세대 OLED 기술 맞대결…IMID서 '최초' 기술 공개",
+        "date": "2026-08-19 14:34",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563498?sid=101"
+    },
+    {
+        "title": "OLED 시장 2분기 출하량 감소…삼성D는 폴더블 효과로 선방",
+        "date": "2026-08-19 14:30",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043096?sid=101"
+    },
+    {
+        "title": "삼성전자, 블리자드와 '게임 동맹'···노리는 건 모니터 그 이상",
+        "date": "2026-08-19 14:27",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460699"
+    },
+    {
+        "title": "삼성D·LGD, OLED 신기술 경쟁 '점화'...'IMID 2026' 참가",
+        "date": "2026-08-19 14:08",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154418"
+    },
+    {
+        "title": "포스텍, 복잡한 메타표면 속 '숨은 주기성' 규명",
+        "date": "2026-08-19 14:06",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=717698"
+    },
+    {
+        "title": "[미국 특징주] 애플, EU 앱스토어 개편 합의…설치당 수수료 폐지",
+        "date": "2026-08-19 14:05",
+        "link": "https://www.newspim.com/news/view/20260819000820"
+    },
+    {
+        "title": "소형 OLED 2분기 출하 2억3000만대⋯폴더블 패널 수요는 확대",
+        "date": "2026-08-19 14:04",
+        "link": "https://n.news.naver.com/mnews/article/031/0001050773?sid=105"
+    },
+    {
+        "title": "삼성D “아산 2단지 공사 재개…폴더블·IT 거점 육성”",
+        "date": "2026-08-19 14:00",
+        "link": "https://n.news.naver.com/mnews/article/030/0003458600?sid=105"
+    },
+    {
+        "title": "삼성D 폴더블 광시야각, LGD 비FMM OLED…'IMID 2026'서 신기술 경연",
+        "date": "2026-08-19 13:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003458594?sid=105"
+    },
+    {
+        "title": "갤럭시 '대박'에도 빈손?…삼성 MX, 부품 인플레에 마진 녹는다",
+        "date": "2026-08-19 13:58",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026081911353292028"
+    },
+    {
+        "title": "AMAZE, TXT와 VR 콘서트 시즌3까지 '저력'…100만 장 증명한 '새로운 K-팝...",
+        "date": "2026-08-19 13:49",
+        "link": "https://m.entertain.naver.com/article/445/0000452122"
+    },
+    {
+        "title": "이청 삼성디스플레이 사장 A7 신공장, 양산 타깃 1순위는 폴더블 OLED",
+        "date": "2026-08-19 13:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434384?sid=105"
+    },
+    {
+        "title": "LG디스플레이 P7 매각 3년째 '잡음'…정철동, '2500억·650억' 가격 논란...",
+        "date": "2026-08-19 13:47",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99826"
+    },
+    {
+        "title": "LGD·삼성D, IMID 2026 출격…차세대 OLED 격돌",
+        "date": "2026-08-19 13:40",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1403553"
+    },
+    {
+        "title": "[진단_화장품원료 ⑩한국알콜산업] 실적 반등은 했지만 성장성은 미지수...",
+        "date": "2026-08-19 13:36",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441761"
+    },
+    {
+        "title": "애플, '카메라 탑재' 에어팟 영상 유출...올 가을 출시 유력",
+        "date": "2026-08-19 13:22",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214097"
+    },
+    {
+        "title": "D램·칩셋 가격상승 더는 못견뎌..인도서 삼성전자 등 스마트폰 가격...",
+        "date": "2026-08-19 13:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563437?sid=104"
+    },
+    {
+        "title": "LG디스플레이, IMID 2026서 FLiPP 공개…OLED 화소 형성 기술 새판 짠다",
+        "date": "2026-08-19 13:14",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134516"
+    },
+    {
+        "title": "삼성디스플레이, 와이드뷰 디스플레이·스트레처블 공개",
+        "date": "2026-08-19 13:08",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=717247"
+    },
+    {
         "title": "화면 비율 바꾼 새로운 폴드, 갤럭시 Z 폴드 8 체험기 [IT마니아 Pick&amp;pla...",
         "date": "2026-08-19 13:00",
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60359"
@@ -365,9 +750,9 @@
         "link": "https://www.etoday.co.kr/news/view/2615777"
     },
     {
-        "title": "삼성D, 접힘부 밝기 저하 잡았다...IMID서 광시야각 OLED 첫 공개",
+        "title": "삼성D, 국제 학회서 최신 광시야각 기술 첫 선…OLED 혁신 제품도",
         "date": "2026-08-19 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259155"
+        "link": "https://www.g-enews.com/view.php?ud=20260819085417516027fa31d75c_1"
     },
     {
         "title": "LG디스플레이, FMM 없는 차세대 OLED 기술 '플립(FLiPP)' 업계 첫 공개",
@@ -375,14 +760,19 @@
         "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252265"
     },
     {
-        "title": "삼성D, 국제 학회서 최신 광시야각 기술 첫 선…OLED 혁신 제품도",
+        "title": "삼성D, 접힘부 밝기 저하 잡았다...IMID서 광시야각 OLED 첫 공개",
         "date": "2026-08-19 10:00",
-        "link": "https://www.g-enews.com/view.php?ud=20260819085417516027fa31d75c_1"
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259155"
     },
     {
-        "title": "삼성D, ‘폴더블 화질 혁신’ 최신 광시야각 기술 첫 선",
+        "title": "삼성D, ‘폴더블 화질 혁신’ 광시야각 신기술 첫 선",
         "date": "2026-08-19 10:00",
         "link": "https://n.news.naver.com/mnews/article/029/0003043009?sid=101"
+    },
+    {
+        "title": "삼성D '와이드뷰'·LGD 'FLiPP'…K디스플레이, 차세대 OLED 혁신 기술 대...",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014134423?sid=101"
     },
     {
         "title": "삼성D, IMID 2026서 '와이드뷰' 첫 선…폴더블 곡면 밝기 한계 넘는다",
@@ -390,9 +780,9 @@
         "link": "https://n.news.naver.com/mnews/article/138/0002238225?sid=105"
     },
     {
-        "title": "삼성D '와이드뷰'·LGD 'FLiPP'…K디스플레이, 차세대 OLED 혁신 기술 대...",
+        "title": "中 추격, 기술로 극복…LGD, OLED 패터닝 혁신기술 공개",
         "date": "2026-08-19 10:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014134423?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/029/0003043008?sid=101"
     },
     {
         "title": "삼성D·LGD, 디스플레이 학술대회서 차세대 OLED 기술 대거 공개",
@@ -435,16 +825,6 @@
         "link": "https://n.news.naver.com/mnews/article/016/0002685452?sid=101"
     },
     {
-        "title": "LG디스플레이, ‘마스크 없는’ OLED 기술 세계 최초 공개",
-        "date": "2026-08-19 10:00",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043008?sid=101"
-    },
-    {
-        "title": "LGD, 차세대 OLED 패터닝 기술 '플립' 공개···발광 효율 높이고 수익...",
-        "date": "2026-08-19 10:00",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635925"
-    },
-    {
         "title": "곡면 한계 깼다…삼성디스플레이, 시야각·휘도 잡은 차세대 OLED 첫선",
         "date": "2026-08-19 10:00",
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270893"
@@ -453,6 +833,11 @@
         "title": "삼성·LG디스플레이, IMID서 차세대 OLED 기술 공개",
         "date": "2026-08-19 10:00",
         "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308632"
+    },
+    {
+        "title": "LGD, 차세대 OLED 패터닝 기술 '플립' 공개···발광 효율 높이고 수익...",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635925"
     },
     {
         "title": "LG디스플레이, IMID 2026서 'FMM 제거' 혁신 기술 'FLiPP' 최초 공개",
@@ -480,14 +865,14 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478509"
     },
     {
-        "title": "삼성디스플레이 '와이드뷰 디스플레이' 첫 공개, 폴더블 밝기 저하 개선",
-        "date": "2026-08-19 10:00",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445037"
-    },
-    {
         "title": "LG디스플레이 'FMM 없는 OLED' 기술 최초 공개, 휘도 1.6배·수명 2.4배 향...",
         "date": "2026-08-19 10:00",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445046"
+    },
+    {
+        "title": "삼성디스플레이 '와이드뷰 디스플레이' 첫 공개, 폴더블 밝기 저하 개선",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445037"
     },
     {
         "title": "올해 2분기 소형 OLED 출하량 4.6% 감소…삼성D 40% 점유",
@@ -563,620 +948,5 @@
         "title": "애플 ‘집안 기기’ 키우나…홈패드·보안카메라 준비 정황[모닝폰]",
         "date": "2026-08-19 07:02",
         "link": "https://n.news.naver.com/mnews/article/018/0006353825?sid=105"
-    },
-    {
-        "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
-        "date": "2026-08-19 06:16",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532"
-    },
-    {
-        "title": "'63만원+월 9400원' 오우라 vs '49만원대' 삼성…스마트링 승자는",
-        "date": "2026-08-19 06:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133991?sid=105"
-    },
-    {
-        "title": "[투데이 포커스] 삼천당제약, 美 '아일리아' 시밀러 시장서 셀트리온·삼...",
-        "date": "2026-08-19 06:00",
-        "link": "https://www.apsk.co.kr/news/articleView.html?idxno=540155"
-    },
-    {
-        "title": "애플, 유럽서 앱스토어 손본다…각국 규제에 수익성 '휘청'",
-        "date": "2026-08-19 04:32",
-        "link": "https://n.news.naver.com/mnews/article/374/0000528065?sid=104"
-    },
-    {
-        "title": "애플, EU 앱스토어 약관 10월부터 개편",
-        "date": "2026-08-19 01:44",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/392688"
-    },
-    {
-        "title": "[미국 특징주] 애플의 '탈(脫)AI' 포지션, 갑자기 주가의 발목을 잡다",
-        "date": "2026-08-19 01:38",
-        "link": "https://www.newspim.com/news/view/20260819000013"
-    },
-    {
-        "title": "갤럭시 S26 FE 엑시노스 2500·4900mAh 스펙 유출, 799유로 가격은 부담",
-        "date": "2026-08-19 01:38",
-        "link": "https://www.wikitree.co.kr/articles/1153232"
-    },
-    {
-        "title": "애플 목표주가 400달러로 31% 상향…폴더블 아이폰 “저평가 기회” 부...",
-        "date": "2026-08-19 00:22",
-        "link": "https://www.wikitree.co.kr/articles/1153226"
-    },
-    {
-        "title": "대세는 와이드 폴더블폰...삼성전자 'Z시리즈' 가로 더 길어진다",
-        "date": "2026-08-19 00:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000525425?sid=105"
-    },
-    {
-        "title": "애플 macOS 26.7 RC서 카메라 에어팟 데모 영상 유출, 시리가 책 표지 저...",
-        "date": "2026-08-18 22:48",
-        "link": "https://www.wikitree.co.kr/articles/1153220"
-    },
-    {
-        "title": "[이슈] 삼성전자, TCL 턱밑까지 붙었다…LCD TV 점유율 단 0.1%P 차",
-        "date": "2026-08-18 21:00",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=810021"
-    },
-    {
-        "title": "애플, 독일서 앱 추적 투명성 규정 고친다…개발자 설명권 넓어져",
-        "date": "2026-08-18 20:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693855"
-    },
-    {
-        "title": "TCL Edges Out Samsung in LCD TV Market Share",
-        "date": "2026-08-18 20:16",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275012"
-    },
-    {
-        "title": "폴더블폰 흥행에 삼성D 아산 OLED 신공장 건설 5년 만에 재개",
-        "date": "2026-08-18 19:50",
-        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=862115"
-    },
-    {
-        "title": "[기자수첩] 애플이 탐내는 中 CXMT",
-        "date": "2026-08-18 19:40",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563163?sid=110"
-    },
-    {
-        "title": "삼성, 중국 TCL에 밀렸다…LCD TV서 0.1%p '초박빙'",
-        "date": "2026-08-18 18:44",
-        "link": "https://n.news.naver.com/mnews/article/215/0001262749?sid=101"
-    },
-    {
-        "title": "넥써쓰 첫 단독 퍼블리싱 '프로스트 킹덤', 구글·애플 인기 1위",
-        "date": "2026-08-18 18:38",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88106"
-    },
-    {
-        "title": "월가 베테랑 애플(AAPL), 엔비디아(NVDA) 손잡으면 주가 30% 폭등",
-        "date": "2026-08-18 18:22",
-        "link": "http://coinreaders.com/253294"
-    },
-    {
-        "title": "애플, 110개국에 ‘스파이웨어 표적’ 경고… 기자·정치인 등 정밀 공격",
-        "date": "2026-08-18 18:14",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186939?sid=105"
-    },
-    {
-        "title": "글로벌 TV 출하량 제자리⋯OLED는 2분기 20% 성장",
-        "date": "2026-08-18 17:58",
-        "link": "https://n.news.naver.com/mnews/article/031/0001050553?sid=105"
-    },
-    {
-        "title": "넷마블 '세븐나이츠 리버스', 갤럭시 스토어 첫 입점…9월 3일 출시",
-        "date": "2026-08-18 17:40",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316559"
-    },
-    {
-        "title": "애플 서비스 매출, 각국 앱스토어 규제에 '휘청'…수익성 압박",
-        "date": "2026-08-18 17:39",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133665?sid=104"
-    },
-    {
-        "title": "삼성전자·TCL, LCD TV 점유율 0.1%P 차 초접전… OLED는 20% 성장",
-        "date": "2026-08-18 17:37",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186934?sid=105"
-    },
-    {
-        "title": "수주잔고 6420억 쌓이자…선익시스템, 장비 영토 4배 확장",
-        "date": "2026-08-18 17:34",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61016"
-    },
-    {
-        "title": "'부품값 부담'에도 갤Z8 흥행…삼성전자, 폴더블 생태계 확장 승부수",
-        "date": "2026-08-18 17:34",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363768"
-    },
-    {
-        "title": "글로벌 TV 침체 속 삼성-TCL 수성전…'0.1% 차이' 승부 갈렸다",
-        "date": "2026-08-18 17:34",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270864"
-    },
-    {
-        "title": "中 TCL, LCD TV서 삼성 추월…점유율 0.1%P 앞서",
-        "date": "2026-08-18 17:18",
-        "link": "https://n.news.naver.com/mnews/article/011/0004652705?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 멀티폴딩·롤러블 등 국제표준 선점 속도",
-        "date": "2026-08-18 17:12",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423146"
-    },
-    {
-        "title": "글로벌 TV OLED 나홀로 20% 성장…전체 출하량 제자리",
-        "date": "2026-08-18 17:11",
-        "link": "https://n.news.naver.com/mnews/article/421/0009119582?sid=101"
-    },
-    {
-        "title": "'삼성전자·TCL LCD TV 점유율 0.1%차 접전'...생산 둔화 속 OLED는 '쾌속...",
-        "date": "2026-08-18 17:10",
-        "link": "https://www.cwn.kr/news/articleView.html?idxno=53532"
-    },
-    {
-        "title": "OLED TV 시장 20% 성장…삼성·TCL LCD TV서 접전",
-        "date": "2026-08-18 17:04",
-        "link": "https://n.news.naver.com/mnews/article/018/0006353648?sid=101"
-    },
-    {
-        "title": "폴드8 앞세운 갤Z8 흥행…삼성, 접는폰 선택지 넓혔다",
-        "date": "2026-08-18 17:02",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238158?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z8 시리즈 역대 최대 흥행… 내년 와이드 폴드까지 출...",
-        "date": "2026-08-18 17:00",
-        "link": "https://www.mediawatch.kr/news/article.html?no=260712"
-    },
-    {
-        "title": "글로벌 TV 시장 보합세 속 OLED 20% 질주… LGD 원가 절감 승부수",
-        "date": "2026-08-18 17:00",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238157?sid=105"
-    },
-    {
-        "title": "당신 아이폰이 공격 표적…애플, 110개국 이용자에 이례적 경고",
-        "date": "2026-08-18 16:57",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133567?sid=105"
-    },
-    {
-        "title": "아이티엠반도체, 애플 공백 메웠다… 상반기 매출 10.7% 증가",
-        "date": "2026-08-18 16:48",
-        "link": "https://www.jbnews.com/news/articleView.html?idxno=1509640"
-    },
-    {
-        "title": "삼성·TCL, 6월 글로벌 LCD TV 시장서 0.1%P 초접전",
-        "date": "2026-08-18 16:46",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396783"
-    },
-    {
-        "title": "로아앤코그룹, 상반기 '트리플 점프'...ESG 경영 속 사상 최대 실적",
-        "date": "2026-08-18 16:46",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396784"
-    },
-    {
-        "title": "FMM 국산화 기대주 풍원정밀… 30% 할인 유증에 주가 ‘직격탄’",
-        "date": "2026-08-18 16:40",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186910?sid=101"
-    },
-    {
-        "title": "삼성ㆍTCL, LCD TV 점유율 격차 0.1%p ‘초박빙’",
-        "date": "2026-08-18 16:36",
-        "link": "https://www.etoday.co.kr/news/view/2615610"
-    },
-    {
-        "title": "삼성전자-TCL, LCD TV 점유율 0.1%포인트 '박빙'",
-        "date": "2026-08-18 16:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003458337?sid=105"
-    },
-    {
-        "title": "LG가 주도한 OLED…TV 시장 정체 속 홀로 20%↑",
-        "date": "2026-08-18 16:26",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042894?sid=101"
-    },
-    {
-        "title": "'0.1%' 중국산에 밀린 삼성전자…주춤한 TV 시장서 '격돌'",
-        "date": "2026-08-18 16:25",
-        "link": "https://n.news.naver.com/mnews/article/015/0005322005?sid=101"
-    },
-    {
-        "title": "中 TV 맹추격에도…OLED LG전자 압도적 선두",
-        "date": "2026-08-18 16:22",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2116516"
-    },
-    {
-        "title": "삼성디스플레이, A7 공사 재개...장기수요 대비",
-        "date": "2026-08-18 16:09",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434266?sid=105"
-    },
-    {
-        "title": "LCD TV 출하량 삼성전자·中 TCL 0.1%p 격차…초박빙 경쟁",
-        "date": "2026-08-18 15:59",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133394?sid=101"
-    },
-    {
-        "title": "삼성디스플레이, 67조 투자 실행 나섰다…5년 멈춘 A7 공사 재개",
-        "date": "2026-08-18 15:54",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191048"
-    },
-    {
-        "title": "접으면 스마트폰, 펼치면 작은 태블릿…‘갤럭시 Z 폴드8’ 써보니",
-        "date": "2026-08-18 15:51",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042878?sid=105"
-    },
-    {
-        "title": "펀키스, 저소음 8K 게이밍 마우스 'ATK X1 V2 Ultimate+' 출시",
-        "date": "2026-08-18 15:46",
-        "link": "https://www.thisisgame.com/articles/428995"
-    },
-    {
-        "title": "애플 당신이 정부 주도 해킹 표적일 수 있다… 110개국 이용자에 경고",
-        "date": "2026-08-18 15:41",
-        "link": "https://n.news.naver.com/mnews/article/469/0000948631?sid=105"
-    },
-    {
-        "title": "삼성·TCL, LCD TV 점유율 0.1%p 초접전…OLED는 LG전자 독주",
-        "date": "2026-08-18 15:40",
-        "link": "https://sateconomy.co.kr/news/view/1065594838077290"
-    },
-    {
-        "title": "삼성전자·TCL, LCD TV 0.1%P 초접전…LG전자는 OLED 1위",
-        "date": "2026-08-18 15:36",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720761"
-    },
-    {
-        "title": "삼성전자-TCL, LCD TV서 0.1%P 경쟁…OLED는 LG전자 선두",
-        "date": "2026-08-18 15:34",
-        "link": "https://www.g-enews.com/view.php?ud=20260818152739962227fa31d75c_1"
-    },
-    {
-        "title": "삼성전자·TCL, LCD TV서 0.1%P 초접전…전체 TV출하량 제자리",
-        "date": "2026-08-18 15:32",
-        "link": "https://n.news.naver.com/mnews/article/374/0000527983?sid=104"
-    },
-    {
-        "title": "삼성 안방 두드리는 오우라…韓 스마트링 시장 공략 본격화 [현장+]",
-        "date": "2026-08-18 15:28",
-        "link": "https://n.news.naver.com/mnews/article/293/0000089205?sid=101"
-    },
-    {
-        "title": "넷마블, 갤럭시 이용자 접점 확대... '세븐나이츠 리버스' 사전예약 돌입",
-        "date": "2026-08-18 15:26",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=540771"
-    },
-    {
-        "title": "선익시스템, 수주잔고 6420억원…장비 출하로 실적 개선 본격화",
-        "date": "2026-08-18 15:22",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720756"
-    },
-    {
-        "title": "스마트폰 카메라 고사양화 수혜… 해성옵틱스, 'OIS 액추에이터' 부각",
-        "date": "2026-08-18 15:10",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478303"
-    },
-    {
-        "title": "삼성전자·TCL, LCD TV서 0.1%P 초접전…전체 TV출하량은 제자리",
-        "date": "2026-08-18 15:06",
-        "link": "https://n.news.naver.com/mnews/article/001/0016256669?sid=101"
-    },
-    {
-        "title": "혹한 견딘 K-디스플레이… OLED 체질 전환 마치고 ‘제2 부활 날갯짓’",
-        "date": "2026-08-18 15:04",
-        "link": "https://www.mediapen.com/news/view/1117021"
-    },
-    {
-        "title": "삼성, 내년 갤럭시 Z 폴드9와 함께 새로운 와이드형 폴더블 출시하나",
-        "date": "2026-08-18 14:58",
-        "link": "https://news.appstory.co.kr/daily19502"
-    },
-    {
-        "title": "[IT 핸즈온] '아재폰'은 옛말…영크크도 갖고 싶은 갤럭시 Z플립8",
-        "date": "2026-08-18 14:54",
-        "link": "https://n.news.naver.com/mnews/article/293/0000089204?sid=101"
-    },
-    {
-        "title": "넷마블, 첫 갤럭시 스토어 진출… '세븐나이츠 리버스' 사전 예약 시작",
-        "date": "2026-08-18 14:42",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270817"
-    },
-    {
-        "title": "삼성전자, 블리자드와 맞손..신작 ‘콜 오브 듀티’ 파트너십 체결",
-        "date": "2026-08-18 14:42",
-        "link": "http://www.breaknews.com/1229506"
-    },
-    {
-        "title": "'없어서 못 사는 폴드'로…삼성 접는 폰 7년史 [옛날신문보기]",
-        "date": "2026-08-18 14:40",
-        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203581"
-    },
-    {
-        "title": "애플, iOS 27 퍼블릭 베타4 공개…정식 출시 앞두고 안정화",
-        "date": "2026-08-18 14:34",
-        "link": "https://news.appstory.co.kr/daily19501"
-    },
-    {
-        "title": "카메라 탑재 에어팟, 시연 영상까지 유출…애플 '비밀병기' 공개 임박했...",
-        "date": "2026-08-18 14:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693701"
-    },
-    {
-        "title": "폴더블 아이폰, 울트라가 아니다?…'美 단독 출시' 대신 공급난 예고",
-        "date": "2026-08-18 14:32",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693696"
-    },
-    {
-        "title": "구글, 2027년 픽셀 전 제품 중국 밖 생산 추진",
-        "date": "2026-08-18 14:32",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/392332"
-    },
-    {
-        "title": "넷마블 '세븐나이츠 리버스', 갤럭시 스토어 출시 앞두고 사전예약 진행",
-        "date": "2026-08-18 14:30",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=305977"
-    },
-    {
-        "title": "넷마블 ‘세븐나이츠 리버스’, 갤럭시 스토어 사전예약 시작…9월 3일...",
-        "date": "2026-08-18 14:30",
-        "link": "https://www.todayeconomic.com/news/article.html?no=31743"
-    },
-    {
-        "title": "넷마블 '세븐나이츠 리버스', 갤럭시 스토어 첫 입점…사전예약 시작",
-        "date": "2026-08-18 14:22",
-        "link": "https://www.eroun.net/news/articleView.html?idxno=87765"
-    },
-    {
-        "title": "[Game &amp; Now] 넷마블 '세나 리버스' 갤럭시 스토어로…넥써쓰, 스테이블...",
-        "date": "2026-08-18 14:12",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720737"
-    },
-    {
-        "title": "OLED 고도화와 원팀 리더십…LG디스플레이, 체질 개선 가시화",
-        "date": "2026-08-18 14:10",
-        "link": "http://www.newswatch.kr/news/articleView.html?idxno=80788"
-    },
-    {
-        "title": "TV 안 볼 때에도 화면은 '플랫폼'… 삼성전자, 루브르·프라도·빈까지 ...",
-        "date": "2026-08-18 14:04",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43070"
-    },
-    {
-        "title": "넷마블, '세븐나이츠 리버스' 갤럭시 스토어 사전예약 시작…전설 영웅...",
-        "date": "2026-08-18 13:54",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63008"
-    },
-    {
-        "title": "폴드8 흥행에 애플 참전 임박..폴더블폰 시장 격돌 예고",
-        "date": "2026-08-18 13:50",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87544"
-    },
-    {
-        "title": "삼성전자, 애플식 주주환원 강화 나서나…증권가, '지수 반등' 주도 기...",
-        "date": "2026-08-18 13:39",
-        "link": "https://n.news.naver.com/mnews/article/014/0005562851?sid=101"
-    },
-    {
-        "title": "애플 떠났지만 삼성·전자담배가 채웠다…아이티엠반도체, 상반기 매출...",
-        "date": "2026-08-18 13:36",
-        "link": "https://n.news.naver.com/mnews/article/009/0005722269?sid=101"
-    },
-    {
-        "title": "영업익 73억원 파인엠텍, 한 분기 만에 흑자전환",
-        "date": "2026-08-18 13:08",
-        "link": "https://www.tokenpost.kr/news/market/392305"
-    },
-    {
-        "title": "5년 만에 망치질 소리 듣는다…삼성디스플레이, 아산 A7 공장 건설 재개",
-        "date": "2026-08-18 13:04",
-        "link": "https://www.ajunews.com/view/20260818103004741"
-    },
-    {
-        "title": "파인엠텍, 2분기 영업익 73억 전년比 39%↑…본업 성장 본격화",
-        "date": "2026-08-18 13:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804130?sid=101"
-    },
-    {
-        "title": "삼성전자, '콜 오브 듀티: 모던 워페어 4' 공식 파트너십 체결",
-        "date": "2026-08-18 12:06",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098833"
-    },
-    {
-        "title": "시험 문제 보면 AI가 정답…스마트 안경 부정행위 확산",
-        "date": "2026-08-18 11:50",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101588"
-    },
-    {
-        "title": "애플 A20 프로 칩, 성능 18%·전력 효율 30% 개선…아이폰18 프로 정조준",
-        "date": "2026-08-18 11:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693647"
-    },
-    {
-        "title": "애플워치 울트라4·시리즈12, 9월 출격…겉보다 속 바뀐다",
-        "date": "2026-08-18 11:42",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693661"
-    },
-    {
-        "title": "선익시스템, 수주잔고 6420억원…하반기 장비 출하 집중",
-        "date": "2026-08-18 11:42",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61013"
-    },
-    {
-        "title": "갤럭시 Z 폴드8 흥행…삼성, 4대3 버리고 더 넓은 폴더블 검토",
-        "date": "2026-08-18 11:40",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693645"
-    },
-    {
-        "title": "“삼전, 애플처럼 고배당주로”… ‘200조’ 주주환원 기대감 솔솔",
-        "date": "2026-08-18 11:36",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151701?sid=101"
-    },
-    {
-        "title": "게임스컴 2026 삼성 부스서 '콜 오브 듀티: 모던 워페어 4' 시연존 운영",
-        "date": "2026-08-18 11:24",
-        "link": "https://www.thisisgame.com/articles/428952"
-    },
-    {
-        "title": "삼성디스플레이, 67조 투자 속도 '아산 A7 공장'부터 첫발",
-        "date": "2026-08-18 11:22",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308575"
-    },
-    {
-        "title": "삼성전자, 게이머에 손 뻗는다..게임스컴 가고 콜옵과도 맞손",
-        "date": "2026-08-18 11:18",
-        "link": "https://kpenews.com/View.aspx?No=4189364"
-    },
-    {
-        "title": "주성엔지니어링·티에스이 주가 신바람... LED·반도체 공정 장비주 집중...",
-        "date": "2026-08-18 11:08",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478197"
-    },
-    {
-        "title": "서린씨앤아이, 리안리 하이드로시프트II OLED 2차 입고 및 무료 배송 진...",
-        "date": "2026-08-18 11:02",
-        "link": "https://www.thisisgame.com/articles/428976"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 '콜 오브 듀티·붉은사막'과 함께 게이밍 생...",
-        "date": "2026-08-18 10:44",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=151421"
-    },
-    {
-        "title": "Samsung accelerates OLED investment amid foldable boom",
-        "date": "2026-08-18 10:36",
-        "link": "https://n.news.naver.com/mnews/article/009/0005722170?sid=104"
-    },
-    {
-        "title": "중국 허난성, 외국인투자 장려산업 개편…‘R&amp;D+제조’ 중심으로 투자 ...",
-        "date": "2026-08-18 10:34",
-        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=240789"
-    },
-    {
-        "title": "삼성전자 빈 미술사 박물관·콜 오브 듀티 전장을 집으로",
-        "date": "2026-08-18 10:34",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=154385"
-    },
-    {
-        "title": "애플 첫 폴더블 아이폰 윤곽…9월 공개설 '솔솔'",
-        "date": "2026-08-18 10:30",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81215"
-    },
-    {
-        "title": "AI 붐에도 아이폰18 프로 생산 차질 없나? 폭스콘, 수요 대응 위해 인력...",
-        "date": "2026-08-18 10:28",
-        "link": "https://kbench.com/?q=node/281198"
-    },
-    {
-        "title": "턴어라운드 '야스', 달라진 밸류에이션은? … 2Q 영업이익률 32%·순익 3...",
-        "date": "2026-08-18 10:04",
-        "link": "https://www.the-stock.kr/news/articleView.html?idxno=33179"
-    },
-    {
-        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
-        "date": "2026-08-18 09:52",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=311774"
-    },
-    {
-        "title": "애플 의존 낫춘 아이티엠반도체, 상반기 영업손실 101억… “주력사업은...",
-        "date": "2026-08-18 09:28",
-        "link": "https://n.news.naver.com/mnews/article/016/0002684873?sid=101"
-    },
-    {
-        "title": "선익시스템, 상반기 수주 잔고 6420억원",
-        "date": "2026-08-18 09:27",
-        "link": "https://www.newspim.com/news/view/20260818000252"
-    },
-    {
-        "title": "삼성전자, 액티비전 블리자드와 ‘콜 오브 듀티’ 신작 파트너십… 게임...",
-        "date": "2026-08-18 09:20",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186745?sid=105"
-    },
-    {
-        "title": "성능 18% 전력효율 30% 개선…애플 차세대 2나노 A20 프로 출격",
-        "date": "2026-08-18 09:16",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238052?sid=105"
-    },
-    {
-        "title": "아이폰 한 대당 최대 95달러…애플, 시리 AI 지연 보상금 2027년 지급",
-        "date": "2026-08-18 09:13",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238051?sid=105"
-    },
-    {
-        "title": "폴더블·IT OLED 수요 늘자… 삼성디스플레이, 아산 A7 공장 건설 재개",
-        "date": "2026-08-18 09:12",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186739?sid=105"
-    },
-    {
-        "title": "애플 맥OS 타호 최신 코드서 홈허브·카메라 에어팟 등 대거 포착",
-        "date": "2026-08-18 09:11",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238050?sid=105"
-    },
-    {
-        "title": "애플, 모듈개발위해 'CXMT와 협력 제한' 속타 [여의도 Pick!]",
-        "date": "2026-08-18 09:04",
-        "link": "https://news.mtn.co.kr/news-detail/2026081808595455852"
-    },
-    {
-        "title": "하나證 삼성전자, 지수 반등 주도…애플처럼 고배당주될 가능성도",
-        "date": "2026-08-18 09:03",
-        "link": "https://n.news.naver.com/mnews/article/421/0009118088?sid=101"
-    },
-    {
-        "title": "디케이티, 사상 최대 분기 매출…폴더블·전장이 견인 했다",
-        "date": "2026-08-18 09:00",
-        "link": "https://www.the-stock.kr/news/articleView.html?idxno=33169"
-    },
-    {
-        "title": "애플→삼성 전환으로 성장...아이티엠반도체, 상반기 매출 11%↑",
-        "date": "2026-08-18 08:55",
-        "link": "https://n.news.naver.com/mnews/article/018/0006353224?sid=101"
-    },
-    {
-        "title": "[미르의 글로벌 레이더] 삼성이 ‘한국’을 마케팅한다…중남미 5개국서...",
-        "date": "2026-08-18 08:50",
-        "link": "https://www.mediapen.com/news/view/1116947"
-    },
-    {
-        "title": "갤럭시Z폴드8 넘어설까…아이폰 울트라, 흥행 걸림돌 3가지",
-        "date": "2026-08-18 08:46",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434174?sid=105"
-    },
-    {
-        "title": "삼성전자, '배당주' 인정되면…'美시총 1위' 애플 따라갈 수도-하나",
-        "date": "2026-08-18 08:45",
-        "link": "https://n.news.naver.com/mnews/article/015/0005321778?sid=101"
-    },
-    {
-        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
-        "date": "2026-08-18 08:38",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357503"
-    },
-    {
-        "title": "[현장] 'K-Display 2026'에서 확인된 첨단 기술",
-        "date": "2026-08-18 08:36",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87536"
-    },
-    {
-        "title": "삼성전자, 갤럭시 Z 폴드8 흥행에 와이드 폴더블 라인업 확대하나?",
-        "date": "2026-08-18 08:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546685"
-    },
-    {
-        "title": "애플 A20 프로 칩, 성능 18%·전력 효율 30% 향상",
-        "date": "2026-08-18 08:21",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434172?sid=105"
-    },
-    {
-        "title": "애플 빈자리 메운 아이티엠반도체…삼성·전자담배 성장에 매출 10.7%↑",
-        "date": "2026-08-18 08:06",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567789268757"
-    },
-    {
-        "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
-        "date": "2026-08-18 08:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105"
-    },
-    {
-        "title": "[코스피·코스닥,삼성전자 SK하이닉스 ㈜코오롱 롯데카드 현대해상 이랜...",
-        "date": "2026-08-18 07:52",
-        "link": "https://www.public25.com/news/articleView.html?idxno=52834"
     }
 ]
