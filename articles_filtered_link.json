@@ -1,5 +1,575 @@
 [
     {
+        "title": "화면 비율 바꾼 새로운 폴드, 갤럭시 Z 폴드 8 체험기 [IT마니아 Pick&amp;pla...",
+        "date": "2026-08-19 13:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60359"
+    },
+    {
+        "title": "마이크로칩, 엔비디아 엣지 AI용 센서 브리지 2세대…크기 60% 축소",
+        "date": "2026-08-19 12:38",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61105"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 갤럭시 스토어 출격…9월 3일 출시 앞두고...",
+        "date": "2026-08-19 12:14",
+        "link": "https://www.pennmike.com/news/articleView.html?idxno=125908"
+    },
+    {
+        "title": "LG디스플레이, OLED 만드는 ‘금속 마스크’ 없앴다…세계 최초 기술 공...",
+        "date": "2026-08-19 12:04",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545309?sid=101"
+    },
+    {
+        "title": "국민이 뽑은 '올해의 상생기업'…기아·삼성디스플레이·KB금융 등 선정",
+        "date": "2026-08-19 12:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009120882?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, 국제 학술대회서 차세대 K-디스플레이 기술 선보여",
+        "date": "2026-08-19 11:53",
+        "link": "https://n.news.naver.com/mnews/article/032/0003465069?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2026서 차세대 OLED 기술 대거 공개",
+        "date": "2026-08-19 11:49",
+        "link": "https://n.news.naver.com/mnews/article/001/0016258351?sid=101"
+    },
+    {
+        "title": "LG디스플레이, FMM 없는 차세대 혁신 OLED 'FLiPP' 선 보인다",
+        "date": "2026-08-19 11:46",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=347950"
+    },
+    {
+        "title": "폴더블 접힘부 밝기 저하 해결 삼성D '와이드뷰 디스플레이' 첫선",
+        "date": "2026-08-19 11:41",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=127457"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 OLED 신기술 승부…확장성·효율성 앞세워",
+        "date": "2026-08-19 11:38",
+        "link": "http://www.metroseoul.co.kr/article/20260819500167"
+    },
+    {
+        "title": "삼성D, IMID 2026서 '와이드뷰 디스플레이' 첫 공개",
+        "date": "2026-08-19 11:38",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=748357"
+    },
+    {
+        "title": "LG디스플레이, OLED 픽셀 제조방식 바꾼다…'FLiPP' 세계 최초 공개",
+        "date": "2026-08-19 11:38",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309194"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 차세대 OLED 기술 공개",
+        "date": "2026-08-19 11:30",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61092"
+    },
+    {
+        "title": "접히는 부분도 밝게…삼성D, 광시야각 OLED 첫 공개",
+        "date": "2026-08-19 11:26",
+        "link": "https://n.news.naver.com/mnews/article/374/0000528150?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, IMID서 차세대 '와이드뷰' 최초 공개",
+        "date": "2026-08-19 11:26",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134512"
+    },
+    {
+        "title": "LGD, 자체 개발 OLED 기술 '플립' 최초 공개…생산 효율 혁신",
+        "date": "2026-08-19 11:20",
+        "link": "https://n.news.naver.com/mnews/article/079/0004180014?sid=101"
+    },
+    {
+        "title": "애플 카메라 에어팟, 메타 스마트글래스보다 더 위험할까",
+        "date": "2026-08-19 11:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693961"
+    },
+    {
+        "title": "EU 압박에 바뀐 애플 앱스토어... 외부 앱 디지털 거래 수수료 5%로 개편",
+        "date": "2026-08-19 11:14",
+        "link": "https://game.donga.com/123859/"
+    },
+    {
+        "title": "삼성디스플레이, IMID 2026서 '차세대 OLED 혁신 기술' 대거 공개",
+        "date": "2026-08-19 11:13",
+        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5812"
+    },
+    {
+        "title": "삼성·LG, OLED 신기술로 “中과 초격차”",
+        "date": "2026-08-19 11:10",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685538?sid=101"
+    },
+    {
+        "title": "EU선 20%, 한국은 26%…애플 '앱 결제 수수료' 온도차 바뀔까",
+        "date": "2026-08-19 11:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0014134708?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 폴더블 '휘도 저하' 해결…20형 스트레처블도 공개",
+        "date": "2026-08-19 11:04",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238847"
+    },
+    {
+        "title": "삼성D·LGD, 부산서 차세대 OLED 기술 격돌… 폴더블·패터닝 혁신 공개",
+        "date": "2026-08-19 11:02",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3426239"
+    },
+    {
+        "title": "삼성 '폴더블' 웃고 LG '아이폰' 주춤⋯2분기 소형 OLED 시장 정체",
+        "date": "2026-08-19 11:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405721"
+    },
+    {
+        "title": "삼성D·LGD, 곡면 화질 혁신과 차세대 패터닝으로 'AI 디스플레이' 미래...",
+        "date": "2026-08-19 11:00",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143210"
+    },
+    {
+        "title": "삼성디스플레이, 세계 최대 20형 스트레처블 첫 공개…차세대 OLED 총출...",
+        "date": "2026-08-19 10:58",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=168233"
+    },
+    {
+        "title": "삼성D, '광시야각 기술' 탑재 디스플레이 첫 선…폴더블 화질 혁신",
+        "date": "2026-08-19 10:56",
+        "link": "https://n.news.naver.com/mnews/article/079/0004179988?sid=101"
+    },
+    {
+        "title": "삼성D '와이드뷰'·LGD '플립'…차세대 OLED 기술 공개",
+        "date": "2026-08-19 10:55",
+        "link": "https://n.news.naver.com/mnews/article/215/0001262814?sid=101"
+    },
+    {
+        "title": "서울아산병원, AI 혁신 드라이브…“병원 역할은 '좋은 시험문제' 만드...",
+        "date": "2026-08-19 10:54",
+        "link": "https://www.medigatenews.com/news/1549274581"
+    },
+    {
+        "title": "삼성디스플레이, 'MID 2026'서 폴더블 혁신 광시야각 기술 공개",
+        "date": "2026-08-19 10:52",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105398"
+    },
+    {
+        "title": "2분기 소형 OLED 시장 정체 속 삼성D 선방…폴더블 패널 3배 급증",
+        "date": "2026-08-19 10:52",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238239?sid=105"
+    },
+    {
+        "title": "삼성·LGD…‘IMID 2026’ 참가…최신 디스플레이 기술·제품 공개",
+        "date": "2026-08-19 10:48",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90651"
+    },
+    {
+        "title": "LG디스플레이, ‘플립’으로 OLED 한계 넘는다…8.5세대 신공정 세계 최...",
+        "date": "2026-08-19 10:47",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652971?sid=101"
+    },
+    {
+        "title": "스마트폰 부진에 소형 OLED 위축…‘폴더블 효과’ 삼성D만 3배↑",
+        "date": "2026-08-19 10:46",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652968?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 패터닝 기술 'FLiPP' 세계 최초 공개",
+        "date": "2026-08-19 10:40",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2270189"
+    },
+    {
+        "title": "삼성D, 'IMID 2026'서 최신 광시야각 기술 첫 선...소비자 관심도 증가",
+        "date": "2026-08-19 10:36",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202608190958236845df3c2a17b7_23"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 기술 '플립' 세계 최초 공개",
+        "date": "2026-08-19 10:36",
+        "link": "https://www.g-enews.com/view.php?ud=20260819103211690327fa31d75c_1"
+    },
+    {
+        "title": "LG디스플레이, 'FMM 없는 OLED' 시대 연다… 차세대 패터닝 기술 첫 공개",
+        "date": "2026-08-19 10:36",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156250"
+    },
+    {
+        "title": "LG디스플레이, IMID서 차세대 OLED 패터닝 기술 'FLiPP' 공개",
+        "date": "2026-08-19 10:36",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202608191003478210ecbf9426b_23"
+    },
+    {
+        "title": "애플 9월 공개 제품 윤곽 드러나…맥OS 타호서 미출시 제품 코드명 대거...",
+        "date": "2026-08-19 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693951"
+    },
+    {
+        "title": "삼성디스플레이, ‘접혀도 밝은’ OLED 공개…20형 스트레처블도 첫선",
+        "date": "2026-08-19 10:22",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/19/2026081980038.html"
+    },
+    {
+        "title": "삼성D, IMID서 차세대 폴더블 OLED '와이드뷰 디스플레이' 첫 공개",
+        "date": "2026-08-19 10:20",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434340?sid=105"
+    },
+    {
+        "title": "2분기 소형 OLED 제자리걸음…삼성D, 폴더블로 점유율 확대",
+        "date": "2026-08-19 10:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168400"
+    },
+    {
+        "title": "애플 앱스토어 수수료 바뀐다…유럽연합서 최대5% 외부거래수수료 적용",
+        "date": "2026-08-19 10:16",
+        "link": "https://news.appstory.co.kr/daily19508"
+    },
+    {
+        "title": "삼성·LG, 부산서 차세대 올레드 기술 공개했다",
+        "date": "2026-08-19 10:16",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/392974"
+    },
+    {
+        "title": "애플, EU 앱스토어 수수료·약관 대폭 개편···10월 1일부터 적용",
+        "date": "2026-08-19 10:14",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=39936"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 기술 'FLiPP' 세계 최초 공개",
+        "date": "2026-08-19 10:13",
+        "link": "https://n.news.naver.com/mnews/article/008/0005401738?sid=101"
+    },
+    {
+        "title": "OLED 화질·공정 한계 깬다…삼성·LGD, IMID서 차세대 기술 맞불",
+        "date": "2026-08-19 10:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168407"
+    },
+    {
+        "title": "삼성·LG, IMID서 디스플레이 신기술 첫선…“초격차 선도”",
+        "date": "2026-08-19 10:10",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1310653&inflow=N"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 차세대 OLED 신기술 동시 공개",
+        "date": "2026-08-19 10:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693928"
+    },
+    {
+        "title": "삼성·LG디스플레이, 'IMID 2026'서 혁신 기술 세계 최초 공개",
+        "date": "2026-08-19 10:06",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363956"
+    },
+    {
+        "title": "접고 늘리는 삼성, 공정 뒤집은 LG…차세대 OLED 경쟁",
+        "date": "2026-08-19 10:05",
+        "link": "https://n.news.naver.com/mnews/article/648/0000049950?sid=101"
+    },
+    {
+        "title": "삼성D, 'IMID 2026'서 폴더블 화질 한계 넘는다…'광시야각 OLED' 첫 공개",
+        "date": "2026-08-19 10:02",
+        "link": "https://www.ajunews.com/view/20260819081553496"
+    },
+    {
+        "title": "LG디스플레이, IMID 참가…FMM 없는 차세대 OLED 'FLiPP' 최초 공개",
+        "date": "2026-08-19 10:02",
+        "link": "https://www.ajunews.com/view/20260819083441562"
+    },
+    {
+        "title": "삼성D·LGD, 부산서 차세대 OLED 기술 공개",
+        "date": "2026-08-19 10:02",
+        "link": "https://www.viva100.com/article/20260819500372"
+    },
+    {
+        "title": "삼성D·LGD 'IMID 2026'서 광시야각·플립 기술 최초 공개",
+        "date": "2026-08-19 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353982?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, 벡스코서 열린 IMID서 OLED 신기술 나란히 공개",
+        "date": "2026-08-19 10:02",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430708"
+    },
+    {
+        "title": "삼성·LG디스플레이, IMID서 차세대 OLED 공개…폴더블·패터닝 기술 첫...",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/119/0003122947?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 ‘접힘부 밝기’·LGD ‘금속마스크 제거’… OLED 신기...",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187024?sid=105"
+    },
+    {
+        "title": "삼성D, 폴더블 접힘부 '40% 밝기' 한계 넘는 광시야각 OLED 첫선",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001050660?sid=105"
+    },
+    {
+        "title": "LGD, IMID서 '비-FMM' OLED '플립' 첫 공개...애플 IT OLED 시장 겨냥",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434327?sid=105"
+    },
+    {
+        "title": "삼성D, ‘폴더블 접힘부 휘도 저하 해결’ 디스플레이 첫 공개",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685453?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 금속마스크 없앤 OLED 'FLiPP' 세계 첫 공개",
+        "date": "2026-08-19 10:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001050661?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 접어도 밝기 그대로…폴더블 OLED 고질적 한계 넘는다",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=540849"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 차세대 OLED 격돌…AI 시대 주도권 경쟁",
+        "date": "2026-08-19 10:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130100"
+    },
+    {
+        "title": "삼성D '와이드뷰'·LGD '플립', IMID 2026서 OLED 신기술 첫선",
+        "date": "2026-08-19 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396949"
+    },
+    {
+        "title": "삼성D는 '폼팩터'·LGD는 '공정'…IMID서 차세대 OLED 기술 격돌",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720810"
+    },
+    {
+        "title": "삼성D는 폴더블 화질, LGD는 ‘FMM리스’ … IMID서 차세대 OLED 기술 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/19/2026081900067.html"
+    },
+    {
+        "title": "삼성디스플레이, 폴더블 접힘부 밝기 저하 극복한 OLED 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/629/0000525484?sid=101"
+    },
+    {
+        "title": "폴더블 '어두운 부분' 없앤다…삼성D, 광시야각 OLED 첫 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005401717?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 'IMID 2026'서 최신 광시야각·스트레처블 첫 선",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720809"
+    },
+    {
+        "title": "삼성디스플레이, MID 2026 참가...AI 시대 핵심 OLED 기술 전시",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478478"
+    },
+    {
+        "title": "삼성디플ㆍLGD, IMID서 차세대 OLED 기술 경쟁력 펼친다",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.etoday.co.kr/news/view/2615777"
+    },
+    {
+        "title": "삼성D, 접힘부 밝기 저하 잡았다...IMID서 광시야각 OLED 첫 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259155"
+    },
+    {
+        "title": "LG디스플레이, FMM 없는 차세대 OLED 기술 '플립(FLiPP)' 업계 첫 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252265"
+    },
+    {
+        "title": "삼성D, 국제 학회서 최신 광시야각 기술 첫 선…OLED 혁신 제품도",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.g-enews.com/view.php?ud=20260819085417516027fa31d75c_1"
+    },
+    {
+        "title": "삼성D, ‘폴더블 화질 혁신’ 최신 광시야각 기술 첫 선",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043009?sid=101"
+    },
+    {
+        "title": "삼성D, IMID 2026서 '와이드뷰' 첫 선…폴더블 곡면 밝기 한계 넘는다",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238225?sid=105"
+    },
+    {
+        "title": "삼성D '와이드뷰'·LGD 'FLiPP'…K디스플레이, 차세대 OLED 혁신 기술 대...",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014134423?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, 디스플레이 학술대회서 차세대 OLED 기술 대거 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016257827?sid=101"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 차세대 기술 공개…더 넓게vs더 효율적으로",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804527?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 기술 'FLiPP' 첫 공개…시장 경쟁력 강화",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009120406?sid=101"
+    },
+    {
+        "title": "삼성D, 'IMID 2026'서 와이드뷰 디스플레이 첫 공개···폴더블 화질 혁...",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635923"
+    },
+    {
+        "title": "화면이 반으로 접히자, 우리가 하는 일도 달라졌다 [트랜D]",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545274?sid=105"
+    },
+    {
+        "title": "LG디스플레이, FMM 없앤 차세대 OLED 'FLiPP' 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238226?sid=105"
+    },
+    {
+        "title": "삼성D, IMID 2026서 20형 스트레처블·와이드뷰 디스플레이 첫 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009120401?sid=101"
+    },
+    {
+        "title": "LGD, OLED 패터닝 신기술 ‘플립’ 세계 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685452?sid=101"
+    },
+    {
+        "title": "LG디스플레이, ‘마스크 없는’ OLED 기술 세계 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043008?sid=101"
+    },
+    {
+        "title": "LGD, 차세대 OLED 패터닝 기술 '플립' 공개···발광 효율 높이고 수익...",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635925"
+    },
+    {
+        "title": "곡면 한계 깼다…삼성디스플레이, 시야각·휘도 잡은 차세대 OLED 첫선",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270893"
+    },
+    {
+        "title": "삼성·LG디스플레이, IMID서 차세대 OLED 기술 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308632"
+    },
+    {
+        "title": "LG디스플레이, IMID 2026서 'FMM 제거' 혁신 기술 'FLiPP' 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83427"
+    },
+    {
+        "title": "LG디스플레이, FMM 한계 넘었다…차세대 OLED 'FLiPP' 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116459"
+    },
+    {
+        "title": "2분기 전세계 TV 출하량 제자리…LCD 영역서 삼성·TCL 초접전",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=222178"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 'FLiPP' 최초 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275025"
+    },
+    {
+        "title": "LG디스플레이, IMID 2026 참가...차세대 OLED 패터닝 기술 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478509"
+    },
+    {
+        "title": "삼성디스플레이 '와이드뷰 디스플레이' 첫 공개, 폴더블 밝기 저하 개선",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445037"
+    },
+    {
+        "title": "LG디스플레이 'FMM 없는 OLED' 기술 최초 공개, 휘도 1.6배·수명 2.4배 향...",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445046"
+    },
+    {
+        "title": "올해 2분기 소형 OLED 출하량 4.6% 감소…삼성D 40% 점유",
+        "date": "2026-08-19 09:58",
+        "link": "https://www.g-enews.com/view.php?ud=20260819095102457027fa31d75c_1"
+    },
+    {
+        "title": "'갤럭시 Z8 신기록'에 삼성디스플레이, 아산 2단지 A7 건설 재개",
+        "date": "2026-08-19 09:46",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101658"
+    },
+    {
+        "title": "절제가 독이 된 애플, AI 시대의 주가 역설",
+        "date": "2026-08-19 09:46",
+        "link": "https://www.itworld.co.kr/article/4211266/절제가-독이-된-애플-ai-시대의-주가-역설.html"
+    },
+    {
+        "title": "화웨이·샤오미에 밀리고 가민에 쫓기고…삼성 웨어러블의 위기",
+        "date": "2026-08-19 09:41",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804507?sid=105"
+    },
+    {
+        "title": "중저가는 주춤, 폴더블은 질주…소형 OLED 시장 '양극화'",
+        "date": "2026-08-19 09:32",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720828"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 활용 현장 관리자 열 스트레스 관리 시스템 고도...",
+        "date": "2026-08-19 09:32",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031973"
+    },
+    {
+        "title": "2분기 소형 OLED 출하량 2억3천만개, 4.6%↓…삼성D 점유율 40%",
+        "date": "2026-08-19 09:26",
+        "link": "https://n.news.naver.com/mnews/article/001/0016257683?sid=101"
+    },
+    {
+        "title": "철옹성 앱스토어 수수료 균열…애플 1000억달러 서비스 사업 성장세 꺾...",
+        "date": "2026-08-19 09:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238197?sid=105"
+    },
+    {
+        "title": "애플, EU 앱 수수료 단일 체계 도입... 핵심 기술 수수료 5%로 전환",
+        "date": "2026-08-19 09:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238196?sid=105"
+    },
+    {
+        "title": "애플 월렛 운전면허증 , 美 7개 주 채택 확대",
+        "date": "2026-08-19 08:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693885"
+    },
+    {
+        "title": "애플, EU 반독점 압박에 '백기'",
+        "date": "2026-08-19 08:54",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170043"
+    },
+    {
+        "title": "[현장] 접는 폰의 역사를 알고 싶다면 이곳으로 가라…삼성 '폴더블 8년...",
+        "date": "2026-08-19 08:52",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=42264"
+    },
+    {
+        "title": "삼천당제약 '아일리아' 특허분쟁 합의, 수출 성장세에 탄력 더하나",
+        "date": "2026-08-19 08:28",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81276"
+    },
+    {
+        "title": "LGD, 차세대 OLED 기술 'FLiPP' 내년 1월 양산 투자",
+        "date": "2026-08-19 07:56",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61069"
+    },
+    {
+        "title": "애플 ‘집안 기기’ 키우나…홈패드·보안카메라 준비 정황[모닝폰]",
+        "date": "2026-08-19 07:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353825?sid=105"
+    },
+    {
+        "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
+        "date": "2026-08-19 06:16",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532"
+    },
+    {
         "title": "'63만원+월 9400원' 오우라 vs '49만원대' 삼성…스마트링 승자는",
         "date": "2026-08-19 06:00",
         "link": "https://n.news.naver.com/mnews/article/003/0014133991?sid=105"
@@ -78,6 +648,11 @@
         "title": "넥써쓰 첫 단독 퍼블리싱 '프로스트 킹덤', 구글·애플 인기 1위",
         "date": "2026-08-18 18:38",
         "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88106"
+    },
+    {
+        "title": "월가 베테랑 애플(AAPL), 엔비디아(NVDA) 손잡으면 주가 30% 폭등",
+        "date": "2026-08-18 18:22",
+        "link": "http://coinreaders.com/253294"
     },
     {
         "title": "애플, 110개국에 ‘스파이웨어 표적’ 경고… 기자·정치인 등 정밀 공격",
@@ -305,6 +880,11 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270817"
     },
     {
+        "title": "삼성전자, 블리자드와 맞손..신작 ‘콜 오브 듀티’ 파트너십 체결",
+        "date": "2026-08-18 14:42",
+        "link": "http://www.breaknews.com/1229506"
+    },
+    {
         "title": "'없어서 못 사는 폴드'로…삼성 접는 폰 7년史 [옛날신문보기]",
         "date": "2026-08-18 14:40",
         "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203581"
@@ -463,6 +1043,11 @@
         "title": "Samsung accelerates OLED investment amid foldable boom",
         "date": "2026-08-18 10:36",
         "link": "https://n.news.naver.com/mnews/article/009/0005722170?sid=104"
+    },
+    {
+        "title": "중국 허난성, 외국인투자 장려산업 개편…‘R&amp;D+제조’ 중심으로 투자 ...",
+        "date": "2026-08-18 10:34",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=240789"
     },
     {
         "title": "삼성전자 빈 미술사 박물관·콜 오브 듀티 전장을 집으로",
