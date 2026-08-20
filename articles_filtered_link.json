@@ -1,5 +1,195 @@
 [
     {
+        "title": "에이수스, XREAL과 협력해 게이밍 AR 글래스 'ROG XREAL R1' 출시",
+        "date": "2026-08-20 13:50",
+        "link": "https://gamefocus.co.kr/detail.php?number=178396"
+    },
+    {
+        "title": "아이폰18 프로와 차별화… '프로 맥스' 가변 조리개 독점 탑재 전망",
+        "date": "2026-08-20 13:30",
+        "link": "https://kbench.com/?q=node/281253"
+    },
+    {
+        "title": "갤럭시S26FE 드디어 공개되나…삼성, 8월27일 갤럭시 이벤트 개최",
+        "date": "2026-08-20 13:20",
+        "link": "https://news.appstory.co.kr/daily19515"
+    },
+    {
+        "title": "[미국 특징주] 애플, 카메라 탑재 에어팟 2027년 출시 계획 유지",
+        "date": "2026-08-20 13:18",
+        "link": "https://www.newspim.com/news/view/20260820000735"
+    },
+    {
+        "title": "에이수스, 게이밍 AR 글래스 'ROG 엑스리얼 R1' 출시",
+        "date": "2026-08-20 12:29",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434525?sid=105"
+    },
+    {
+        "title": "'글로벌 1위' 오우라 한국 상륙… 삼성 갤럭시 링 '긴장'",
+        "date": "2026-08-20 11:58",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=757009"
+    },
+    {
+        "title": "체리, T1 베이스캠프 홍대에 'MX 8.2 PRO TMR' 전 좌석 설치",
+        "date": "2026-08-20 11:48",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206323"
+    },
+    {
+        "title": "에이수스, 게이밍 AR 글래스 'ROG XREAL R1' 국내 출시",
+        "date": "2026-08-20 11:28",
+        "link": "https://www.thisisgame.com/articles/429090"
+    },
+    {
+        "title": "디스플레이 달린 '애플 홈패드' 올해 말 출격하나… macOS 최신 베타 코...",
+        "date": "2026-08-20 11:18",
+        "link": "https://kbench.com/?q=node/281243"
+    },
+    {
+        "title": "삼성디스플레이 상반기 플렉서블 OLED 출하량 34.5% 증가, BOE 스마트폰 ...",
+        "date": "2026-08-20 11:16",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445171"
+    },
+    {
+        "title": "'NO-마스크 OLED' 승부수, 한국 디스플레이 초격차 굳힌다",
+        "date": "2026-08-20 11:00",
+        "link": "https://www.g-enews.com/view.php?ud=202608201048066275fbbec65dfb_1"
+    },
+    {
+        "title": "삼성전자, 27일 갤럭시 S26 FE 공개 유력",
+        "date": "2026-08-20 10:56",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=744442"
+    },
+    {
+        "title": "아이폰 보안문서에 AI 이름 줄줄이…코드 짜던 AI, 보안 연구원 되다",
+        "date": "2026-08-20 10:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=299729"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 문턱 낮춘다…S26 팬에디션 27일 공개",
+        "date": "2026-08-20 10:48",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93175"
+    },
+    {
+        "title": "‘폴더블폰 바람’ 갤럭시 FE로 잇는다…27일 S26 FE 공개",
+        "date": "2026-08-20 10:45",
+        "link": "https://n.news.naver.com/mnews/article/658/0000152881?sid=101"
+    },
+    {
+        "title": "LCD는 삼성·TCL 초접전, OLED는 LG 우위…'플랫폼'이 판도 바꾼다",
+        "date": "2026-08-20 10:38",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363841"
+    },
+    {
+        "title": "삼성전자, 27일 갤럭시 S26 새 제품 공개…실속형 FE 유력",
+        "date": "2026-08-20 10:10",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272069"
+    },
+    {
+        "title": "아이폰18 프로에 카메라 에어팟까지…애플, 신제품 10종 공개 유력",
+        "date": "2026-08-20 10:09",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434492?sid=105"
+    },
+    {
+        "title": "에이수스, 게이밍 AR 글래스 ‘ROG XREAL R1’ 출시",
+        "date": "2026-08-20 10:06",
+        "link": "https://www.betanews.net/article/view/beta202608200002"
+    },
+    {
+        "title": "세계 최초 240Hz 주사율 지원 게이밍 AR 글래스 '에이수스 ROG XREAL R1'",
+        "date": "2026-08-20 10:02",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60373"
+    },
+    {
+        "title": "삼성, 27일 온라인 이벤트···'갤럭시S26 FE' 베일 벗는다",
+        "date": "2026-08-20 09:45",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461010"
+    },
+    {
+        "title": "삼성 갤럭시 S26 '새로운 패밀리', 27일 밤 9시 이벤트서 전격 공개",
+        "date": "2026-08-20 09:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271168"
+    },
+    {
+        "title": "삼성, 27일 '갤럭시 S26 FE' 출격 예고…플래그십 핵심만 추렸다",
+        "date": "2026-08-20 09:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238342?sid=105"
+    },
+    {
+        "title": "삼성전자, 27일 '갤럭시 이벤트' 개최 …갤럭시 S26 FE 공개 유력",
+        "date": "2026-08-20 09:38",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252308"
+    },
+    {
+        "title": "애플, 카메라 달린 에어팟 출시 내년으로 미루나?",
+        "date": "2026-08-20 09:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546754"
+    },
+    {
+        "title": "삼성전자, 27일 갤럭시S26 새 모델 공개…'S26 FE' 유력",
+        "date": "2026-08-20 09:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443064"
+    },
+    {
+        "title": "삼성, 27일 '갤럭시 S26 FE' 전격 공개…하반기 시장 공략",
+        "date": "2026-08-20 09:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608200017"
+    },
+    {
+        "title": "선익시스템 수주잔고 6420억원, 출하 재개가 관건",
+        "date": "2026-08-20 08:48",
+        "link": "https://www.tokenpost.kr/news/market/393792"
+    },
+    {
+        "title": "삼성, '갤럭시 이벤트' 초대장 발송…27일 '갤럭시 S26 FE' 공개",
+        "date": "2026-08-20 08:44",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402235?sid=105"
+    },
+    {
+        "title": "FMM 없애고 곡면 밝히고…삼성D·LGD 신기술 경쟁",
+        "date": "2026-08-20 08:38",
+        "link": "https://dealsite.co.kr/articles/167512"
+    },
+    {
+        "title": "삼성전자, 27일 갤럭시 이벤트…새로운 갤럭시 S26 라인업 공개",
+        "date": "2026-08-20 08:38",
+        "link": "https://www.g-enews.com/view.php?ud=202608200829138229139bf6e4b2_1"
+    },
+    {
+        "title": "애플워치12, 세라믹 케이스 옵션 추가된다",
+        "date": "2026-08-20 08:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434460?sid=105"
+    },
+    {
+        "title": "애플페이 약발 줄고, PLCC 경쟁 격화에도…현대카드, 독자 브랜드로 성...",
+        "date": "2026-08-20 08:02",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=225306"
+    },
+    {
+        "title": "삼성D, A7 수요 맞춤형 투자…스마트폰·IT 넘나드는 유연 생산",
+        "date": "2026-08-20 07:54",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61102"
+    },
+    {
+        "title": "애플, EU서 앱스토어 수수료 최대 26%로…'반독점 분쟁' 일단락[모닝폰...",
+        "date": "2026-08-20 07:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354553?sid=105"
+    },
+    {
+        "title": "[주간핫이슈] '여권형 폴드' 인기…갤럭시가 처음 아닌데 왜?",
+        "date": "2026-08-20 07:30",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178986"
+    },
+    {
+        "title": "‘애플빠’도 흔들⋯ 아재폰 벗은 ‘갤럭시 Z8’, 어떻게 젊은층 사로잡...",
+        "date": "2026-08-20 06:34",
+        "link": "https://www.viva100.com/article/20260819500823"
+    },
+    {
+        "title": "[인터뷰] “최고의 웨어러블은 계속 차고 싶은 기기”… 애플 24년 베테...",
+        "date": "2026-08-20 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187204?sid=105"
+    },
+    {
         "title": "삼성·LG ‘세계 최초’ 화면기술 격돌",
         "date": "2026-08-20 05:05",
         "link": "https://n.news.naver.com/mnews/article/081/0003671846?sid=101"
@@ -93,16 +283,6 @@
         "title": "내가 표적 될 줄이야…우크라 병사에 경고 알림 보낸 애플, 왜?",
         "date": "2026-08-19 17:19",
         "link": "https://n.news.naver.com/mnews/article/008/0005402062?sid=104"
-    },
-    {
-        "title": "LG디스플레이, IMID서 OLED 기술력 과시…'FLiPP' 세계 첫선",
-        "date": "2026-08-19 17:12",
-        "link": "http://www.metroseoul.co.kr/article/20260819500475"
-    },
-    {
-        "title": "[현장] 삼성 강남에 펼쳐진 폴더블 7년…역대 최다 사전판매 '이유 있었...",
-        "date": "2026-08-19 17:10",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200909"
     },
     {
         "title": "LGD, ‘금속 그물망’ 치운 차세대 OLED 기술 공개",
@@ -430,11 +610,6 @@
         "link": "https://www.catchnews.kr/news/articleView.html?idxno=127457"
     },
     {
-        "title": "삼성D·LGD, IMID서 OLED 신기술 승부…확장성·효율성 앞세워",
-        "date": "2026-08-19 11:38",
-        "link": "http://www.metroseoul.co.kr/article/20260819500167"
-    },
-    {
         "title": "삼성D, IMID 2026서 '와이드뷰 디스플레이' 첫 공개",
         "date": "2026-08-19 11:38",
         "link": "https://www.econovill.com/news/articleView.html?idxno=748357"
@@ -443,6 +618,11 @@
         "title": "LG디스플레이, OLED 픽셀 제조방식 바꾼다…'FLiPP' 세계 최초 공개",
         "date": "2026-08-19 11:38",
         "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309194"
+    },
+    {
+        "title": "삼성D·LGD, IMID서 OLED 신기술 승부…확장성·효율성 앞세워",
+        "date": "2026-08-19 11:38",
+        "link": "http://www.metroseoul.co.kr/article/20260819500167"
     },
     {
         "title": "삼성D·LGD, IMID서 차세대 OLED 기술 공개",
@@ -750,6 +930,11 @@
         "link": "https://www.etoday.co.kr/news/view/2615777"
     },
     {
+        "title": "삼성D, 접힘부 밝기 저하 잡았다...IMID서 광시야각 OLED 첫 공개",
+        "date": "2026-08-19 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259155"
+    },
+    {
         "title": "삼성D, 국제 학회서 최신 광시야각 기술 첫 선…OLED 혁신 제품도",
         "date": "2026-08-19 10:00",
         "link": "https://www.g-enews.com/view.php?ud=20260819085417516027fa31d75c_1"
@@ -758,11 +943,6 @@
         "title": "LG디스플레이, FMM 없는 차세대 OLED 기술 '플립(FLiPP)' 업계 첫 공개",
         "date": "2026-08-19 10:00",
         "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252265"
-    },
-    {
-        "title": "삼성D, 접힘부 밝기 저하 잡았다...IMID서 광시야각 OLED 첫 공개",
-        "date": "2026-08-19 10:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259155"
     },
     {
         "title": "삼성D, ‘폴더블 화질 혁신’ 광시야각 신기술 첫 선",
