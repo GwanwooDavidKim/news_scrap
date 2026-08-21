@@ -1,5 +1,465 @@
 [
     {
+        "title": "애플, 시리·비전프로 200명 감원…AI·스마트글라스에 힘 싣는다",
+        "date": "2026-08-22 04:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355991?sid=101"
+    },
+    {
+        "title": "아일랜드 납세 39.5%, 애플 세금 구조 드러났다",
+        "date": "2026-08-22 03:56",
+        "link": "https://www.tokenpost.kr/news/policy/395340"
+    },
+    {
+        "title": "애플, 비전프로 인력 60명 감원하고 스마트글래스 2027년 출시에 승부수",
+        "date": "2026-08-22 03:54",
+        "link": "https://www.wikitree.co.kr/articles/1154031"
+    },
+    {
+        "title": "애플, 작년 글로벌 납세액 중 세율 낮은 아일랜드서 40% 납부",
+        "date": "2026-08-22 03:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264575?sid=104"
+    },
+    {
+        "title": "[미국 특징주] 애플, 지난 회계연도에 전 세계 납부 세금의 40% 아일랜드...",
+        "date": "2026-08-22 01:15",
+        "link": "https://www.newspim.com/news/view/20260822000006"
+    },
+    {
+        "title": "월마트, 24일부터 애플페이 결제 받는다",
+        "date": "2026-08-21 23:42",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/395191"
+    },
+    {
+        "title": "[리뷰] 18인치급에 최고 사양만 모은 게이밍 노트북,에이수스 'ROG 스트릭...",
+        "date": "2026-08-21 23:30",
+        "link": "https://www.cnet.co.kr/view/?no=20260820163807"
+    },
+    {
+        "title": "챗GPT 맥 앱, 아이메시지·SMS·RCS 다 읽고 사용자 대신 답장까지 보낸...",
+        "date": "2026-08-21 23:10",
+        "link": "https://www.wikitree.co.kr/articles/1154003"
+    },
+    {
+        "title": "이노스, 200Hz 지원하는 34인치 게이밍 모니터 2종 발매",
+        "date": "2026-08-21 22:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260821220729"
+    },
+    {
+        "title": "[전문가 칼럼] 주문받아 만든 기술은 연구개발이 아닌가?",
+        "date": "2026-08-21 18:32",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206633"
+    },
+    {
+        "title": "4조 공장 없이 삼성D 잡을까…LGD, ‘마스크 없는 OLED’ 기술로 반격 [...",
+        "date": "2026-08-21 18:28",
+        "link": "https://www.kukinews.com/article/view/kuk202608210124"
+    },
+    {
+        "title": "'4.4조원 확보'…삼성SDI, 삼성디스플레이 지분 대규모 매각 결정",
+        "date": "2026-08-21 18:28",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=53955"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조 매각…“미래 성장 동력 확보”",
+        "date": "2026-08-21 17:58",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1311023&inflow=N"
+    },
+    {
+        "title": "[내 눈에 AI] ① 빅테크 주목한 AI 디바이스 왜 하필 안경일까",
+        "date": "2026-08-21 17:52",
+        "link": "https://bizhankook.com/articles/samsung-google-smart-glasses-future.html"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 3분의 1 매각…4조4000억원 확보",
+        "date": "2026-08-21 17:52",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120592"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4조4500억원어치 처분…투자재원 확보",
+        "date": "2026-08-21 17:38",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=186906"
+    },
+    {
+        "title": "[리뷰] 슬림의 한계를 넘은 기업용 AI 노트북, 델 프로 7 14",
+        "date": "2026-08-21 17:38",
+        "link": "https://www.betanews.net/article/view/beta202608210074"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조원 규모 처분…“투자재원 마련”",
+        "date": "2026-08-21 17:35",
+        "link": "https://n.news.naver.com/mnews/article/117/0004096904?sid=103"
+    },
+    {
+        "title": "숭실대, 페로브스카이트 발광다이오드(PeLED) 정공 수송층 고분자 소재...",
+        "date": "2026-08-21 17:32",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143904"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조원어치 매각…공장 투자 관측",
+        "date": "2026-08-21 17:28",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608210195"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.45조원 처분…투자재원 확보",
+        "date": "2026-08-21 17:24",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026082117163643908"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조 원 매각…미국 투자",
+        "date": "2026-08-21 17:22",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534860"
+    },
+    {
+        "title": "삼성전자, 세계 디자인상 휩쓸었다…갤럭시 S26 울트라 '최고상'",
+        "date": "2026-08-21 17:19",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=112262"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.4조 매각 투자 재원 활용",
+        "date": "2026-08-21 17:16",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671119"
+    },
+    {
+        "title": "​애플뮤직, AI 생성 음악 표시한다…올해 안에 도입",
+        "date": "2026-08-21 17:16",
+        "link": "https://news.appstory.co.kr/daily19521"
+    },
+    {
+        "title": "삼성디스플레이, 삼성SDI로부터 자기주식 취득",
+        "date": "2026-08-21 17:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=748624"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조 원어치 매각…미국 공장 등 투자",
+        "date": "2026-08-21 17:13",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382464?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 처분…미래 투자 재원 4조4500억원 확보",
+        "date": "2026-08-21 17:12",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=143941"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 5% 매각…4조4500억 원 재원 확보",
+        "date": "2026-08-21 17:08",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=168405"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.4조에 판다…투자실탄 확보",
+        "date": "2026-08-21 17:06",
+        "link": "https://www.newspim.com/news/view/20260821000836"
+    },
+    {
+        "title": "삼성SDI 삼성디스플레이 지분 일부 양도…미래 투자 재원",
+        "date": "2026-08-21 17:04",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271502"
+    },
+    {
+        "title": "돈쓸곳 많은 삼성SDI, 삼성디스플레이 지분 5% 4.45조원에 삼성디스플레...",
+        "date": "2026-08-21 17:03",
+        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5886"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.4조원어치 판다",
+        "date": "2026-08-21 17:02",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=878521"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조 처분…투자재원 마련[공시]",
+        "date": "2026-08-21 16:59",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564762?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 3분의 1 매각…4.4조 투자재원 확보",
+        "date": "2026-08-21 16:56",
+        "link": "https://sateconomy.co.kr/news/view/1065599562143016"
+    },
+    {
+        "title": "휴대용 게이밍 화면 경쟁, 안경으로 옮겨간다… 에이수스, 240Hz 마이크로...",
+        "date": "2026-08-21 16:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1813502"
+    },
+    {
+        "title": "'갤럭시Z' 앞세운 삼성전자, 시장 침체에도 출하량 선두 탈환",
+        "date": "2026-08-21 16:50",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271493"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 5% 매각…4.4조 확보",
+        "date": "2026-08-21 16:47",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263170?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 4.4조원어치 매각…미국 공장 등 투자(종합)",
+        "date": "2026-08-21 16:47",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264281?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 매각…4.4조원 규모",
+        "date": "2026-08-21 16:46",
+        "link": "https://n.news.naver.com/mnews/article/629/0000526527?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.45조원 매각...미래 투자재원 확보",
+        "date": "2026-08-21 16:44",
+        "link": "https://www.news2day.co.kr/article/20260821500223"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.45조원 매각… “미래 투자 재원 마련”",
+        "date": "2026-08-21 16:44",
+        "link": "https://www.viva100.com/article/20260821500778"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 5% 매각…4.45조 美공장 우선 투자",
+        "date": "2026-08-21 16:44",
+        "link": "https://www.g-enews.com/view.php?ud=2026082116265867693084322ec9_1"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 일부 매각…4.4조 확보",
+        "date": "2026-08-21 16:43",
+        "link": "https://n.news.naver.com/mnews/article/277/0005805880?sid=101"
+    },
+    {
+        "title": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...아이메시지 읽고...",
+        "date": "2026-08-21 16:42",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214219"
+    },
+    {
+        "title": "[Invest]삼성SDI, 삼성디스플레이 지분 5% 매각…총 4.4兆 투자 재원 마련",
+        "date": "2026-08-21 16:42",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/08/21/2026082180152.html"
+    },
+    {
+        "title": "4조4500억원 지분 매각, 삼성SDI 투자재원 확보",
+        "date": "2026-08-21 16:42",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/394937"
+    },
+    {
+        "title": "삼성SDI 삼성디스플레이 지분 4조4000억원 매각",
+        "date": "2026-08-21 16:42",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398137"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 팔아 4.45조 확보…미래 투자 '실탄' 마련",
+        "date": "2026-08-21 16:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721242"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.45조 매각…투자재원 확보",
+        "date": "2026-08-21 16:40",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2116707"
+    },
+    {
+        "title": "삼성SDI, “삼성디스플레이 지분 4.4조원 매각…투자재원 마련”",
+        "date": "2026-08-21 16:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459365?sid=105"
+    },
+    {
+        "title": "삼성SDI “삼성디스플레이 지분 4.4조원 매각…투자재원 마련”",
+        "date": "2026-08-21 16:37",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545939?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:35",
+        "link": "https://n.news.naver.com/mnews/article/243/0000101985?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 매각 4.45조 확보…“미래 먹거리 투자재...",
+        "date": "2026-08-21 16:34",
+        "link": "https://www.etoday.co.kr/news/view/2616948"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 매각으로 4.4조 확보 … 美공장 등 투자 ...",
+        "date": "2026-08-21 16:34",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100237.html"
+    },
+    {
+        "title": "[속보] 삼성SDI, 삼성디스플레이 지분 양도·처분",
+        "date": "2026-08-21 16:32",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608210257"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.4조 매각…투자재원 확보",
+        "date": "2026-08-21 16:32",
+        "link": "https://www.ajunews.com/view/20260821163012417"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 일부 양도…4.45조 투자재원 확보",
+        "date": "2026-08-21 16:32",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=94047"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 약 5% 매각…4.4조원 투자재원 확보",
+        "date": "2026-08-21 16:31",
+        "link": "https://n.news.naver.com/mnews/article/003/0014141101?sid=101"
+    },
+    {
+        "title": "삼성SDI, 4.45조에 삼성디스플레이 지분 5% 매각…미래 성장투자 재원",
+        "date": "2026-08-21 16:30",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431259"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.4조원 매각…투자재원 확보",
+        "date": "2026-08-21 16:29",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564751?sid=101"
+    },
+    {
+        "title": "삼성SDI 삼성디스플레이 지분 4.4조원 매각",
+        "date": "2026-08-21 16:26",
+        "link": "https://n.news.naver.com/mnews/article/422/0000898096?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 매각…4.4조 확보",
+        "date": "2026-08-21 16:26",
+        "link": "https://dealsite.co.kr/articles/167646"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 4.45조원어치 매각…미래 투자재원 확보...",
+        "date": "2026-08-21 16:24",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051525?sid=101"
+    },
+    {
+        "title": "[속보]삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355766?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI, 삼성디스플레이 지분 4조4500억원에 양도 결정",
+        "date": "2026-08-21 16:22",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600087"
+    },
+    {
+        "title": "[속보] 삼성SDI, 삼성디스플레이 지분 4.4조원 매각…미래 성장 동력 확...",
+        "date": "2026-08-21 16:21",
+        "link": "https://n.news.naver.com/mnews/article/003/0014141047?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성D 지분 팔아 4.4조 현금 확보..삼성D에 5% 매각",
+        "date": "2026-08-21 16:20",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/110694"
+    },
+    {
+        "title": "삼성, 2분기 이어 연간 스마트폰 출하량도 세계 1위 되찾을 듯",
+        "date": "2026-08-21 16:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564745?sid=101"
+    },
+    {
+        "title": "삼성SDI 삼성디스플레이 지분 4.4조원 매각…투자재원 마련",
+        "date": "2026-08-21 16:20",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264184?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4.4조원어치 매각키로",
+        "date": "2026-08-21 16:20",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051521?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:19",
+        "link": "https://n.news.naver.com/mnews/article/277/0005805872?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4조 4천억 원어치 매각",
+        "date": "2026-08-21 16:19",
+        "link": "https://n.news.naver.com/mnews/article/422/0000898095?sid=101"
+    },
+    {
+        "title": "삼성SDI “삼성디스플레이 지분 4.4조원어치 매각…투자재원 마련”",
+        "date": "2026-08-21 16:18",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043543?sid=101"
+    },
+    {
+        "title": "삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:17",
+        "link": "https://n.news.naver.com/mnews/article/374/0000528723?sid=101"
+    },
+    {
+        "title": "[속보]삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:17",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403094?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4조4000억원어치 매각",
+        "date": "2026-08-21 16:14",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323294?sid=101"
+    },
+    {
+        "title": "삼성SDI, 삼성디스플레이 지분 매각해 4.4조 확보",
+        "date": "2026-08-21 16:13",
+        "link": "https://n.news.naver.com/mnews/article/421/0009126327?sid=101"
+    },
+    {
+        "title": "[속보] 삼성SDI 삼성디스플레이 지분 4.4조원어치 매각",
+        "date": "2026-08-21 16:12",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264168?sid=101"
+    },
+    {
+        "title": "삼성전자, IDEA·레드닷 57개 수상…인간 중심 디자인 강화",
+        "date": "2026-08-21 16:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053411"
+    },
+    {
+        "title": "애플, 공급망 재편 가능성…K-반도체·부품사 셈법은",
+        "date": "2026-08-21 15:42",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=210570"
+    },
+    {
+        "title": "삼성, 애플 제치고 스마트폰 시장 선두 복귀 가능성…글로벌 시장 변화...",
+        "date": "2026-08-21 15:42",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=875868"
+    },
+    {
+        "title": "티아라 효민, 운동으로 다져진 ‘애플힙+등근육’ 공개“",
+        "date": "2026-08-21 15:41",
+        "link": "https://m.entertain.naver.com/article/468/0001261136"
+    },
+    {
+        "title": "카운터포인트리서치 올해 글로벌 스마트폰 출하량 14%↓...삼성 선두 복...",
+        "date": "2026-08-21 15:30",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=204317"
+    },
+    {
+        "title": "이청 삼성D 사장, 커지는 폴더블 판에 웃는다…갤럭시·아이폰 '쌍끌이...",
+        "date": "2026-08-21 15:28",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252935"
+    },
+    {
+        "title": "애플, 올가을 '맥북 울트라' 출시하나…첫 터치스크린·OLED 탑재설",
+        "date": "2026-08-21 15:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694635"
+    },
+    {
+        "title": "삼성, 올해 애플 제치고 4년 만에 스마트폰 왕좌 탈환 전망",
+        "date": "2026-08-21 15:06",
+        "link": "https://www.ajunews.com/view/20260821142935104"
+    },
+    {
+        "title": "삼성디스플레이 폴더블 최대 약점 '주름' 개선 기술, 차기 폴드폰 적용...",
+        "date": "2026-08-21 15:02",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546781"
+    },
+    {
+        "title": "삼성이 화웨이 모방 이 말 쏙 들어갈 듯…13년 전 이미 '여권 폰' 스포...",
+        "date": "2026-08-21 14:52",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403051?sid=105"
+    },
+    {
+        "title": "LG Display cuts cost burden as post-LCD restructuring shows results",
+        "date": "2026-08-21 14:37",
+        "link": "https://n.news.naver.com/mnews/article/044/0000288559?sid=104"
+    },
+    {
+        "title": "삼성전자, 애플 제치고 스마트폰 세계 1위 탈환 전망 [카운터포인트 리...",
+        "date": "2026-08-21 14:13",
+        "link": "https://n.news.naver.com/mnews/article/374/0000528684?sid=104"
+    },
+    {
+        "title": "삼성전자, 애플 제치고 스마트폰시장 세계 1위 탈환 전망",
+        "date": "2026-08-21 14:10",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431239"
+    },
+    {
         "title": "[오늘의브랜드] 케이스티파이, 지드래곤과 다시 쓰는 커스텀 플레이그라...",
         "date": "2026-08-21 13:50",
         "link": "https://www.ibabynews.com/news/articleView.html?idxno=153876"
@@ -113,425 +573,5 @@
         "title": "AMR 힘 빠진 티로보틱스, 포드 수주로 반등할까",
         "date": "2026-08-21 07:00",
         "link": "https://n.news.naver.com/mnews/article/417/0001155942?sid=101"
-    },
-    {
-        "title": "‘변태 안경’ 논란 속…애플, 카메라 달린 에어팟 내년 출시",
-        "date": "2026-08-21 06:05",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653715?sid=104"
-    },
-    {
-        "title": "갤럭시 S26 시리즈 신형 27일 공개… FE 유력",
-        "date": "2026-08-21 06:02",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152522?sid=101"
-    },
-    {
-        "title": "폴더블폰 다시 커진다…삼성·애플 신작에 2028년 3600만대",
-        "date": "2026-08-21 06:01",
-        "link": "https://n.news.naver.com/mnews/article/031/0001051307?sid=105"
-    },
-    {
-        "title": "OLED 패널 성능→제조 공정 혁신…LGD, R&amp;D 둘다 잡는다",
-        "date": "2026-08-21 06:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720989"
-    },
-    {
-        "title": "미성년자도 19금 대화 12세 이용가 'AI 채팅앱'...구글·애플이 연령등...",
-        "date": "2026-08-21 05:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005402787?sid=105"
-    },
-    {
-        "title": "[직장 돋보기 분석] LG디스플레이, 정철동의 차별화된 OLED 기술 전략으...",
-        "date": "2026-08-21 04:22",
-        "link": "https://www.news2day.co.kr/article/20260818500230"
-    },
-    {
-        "title": "델 XPS 13 2026, 699달러로 애플 맥북 네오에 정면 승부수 던졌다",
-        "date": "2026-08-21 01:30",
-        "link": "https://www.wikitree.co.kr/articles/1153760"
-    },
-    {
-        "title": "애플, 시리 과장광고 소송 2억5000만달러 합의…아이폰 사용자 최대 95달...",
-        "date": "2026-08-20 23:12",
-        "link": "https://www.wikitree.co.kr/articles/1153750"
-    },
-    {
-        "title": "엔비디아(NVDA), 11년 투자 성과로 비트코인·애플 압살...수익률 얼마?",
-        "date": "2026-08-20 23:02",
-        "link": "http://coinreaders.com/253849"
-    },
-    {
-        "title": "폴더블폰 출하량, 부진했던 2025년 지나 2028년 3600만대로 두 배 이상 급...",
-        "date": "2026-08-20 22:22",
-        "link": "https://www.wikitree.co.kr/articles/1153745"
-    },
-    {
-        "title": "애플 홈패드, 신제품 윤곽?…대형 애플워치처럼 작동 가능성 제기",
-        "date": "2026-08-20 21:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694485"
-    },
-    {
-        "title": "애플TV용 새 시리 리모컨 나오나…분실 방지·맞춤 버튼 요구 커져",
-        "date": "2026-08-20 21:10",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694481"
-    },
-    {
-        "title": "애플, EU서 앱 판매 수수료 5~26%로 조정…분쟁 마무리 수순",
-        "date": "2026-08-20 20:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694479"
-    },
-    {
-        "title": "애플, 9월 신제품 10종 쏟아낸다…아이폰18·카메라 에어팟 총출동",
-        "date": "2026-08-20 20:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694306"
-    },
-    {
-        "title": "LG디스플레이, OLED 픽셀 공정 바꾼다…FMM 한계 넘을 기술 확보",
-        "date": "2026-08-20 19:32",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191158"
-    },
-    {
-        "title": "에이수스, 엑스리얼과 손잡고 ‘게이밍 AR 글래스’ 출시",
-        "date": "2026-08-20 18:38",
-        "link": "https://byline.network/?p=9004111222616122"
-    },
-    {
-        "title": "밝기 1.6배 플립, LG디스플레이가 공개",
-        "date": "2026-08-20 18:28",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/394234"
-    },
-    {
-        "title": "인도 스마트폰 시장 부진 속 삼성·애플 점유율 상승..중국계 브랜드 고...",
-        "date": "2026-08-20 18:11",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564275?sid=101"
-    },
-    {
-        "title": "[이슈] 아이폰도 접는다…'갤럭시Z 폴드8' 흥행에 폴더블 판 커지나",
-        "date": "2026-08-20 17:36",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101703"
-    },
-    {
-        "title": "삼성, 27일 ‘갤럭시 S26 FE’ 공개…AI 경험 대중화",
-        "date": "2026-08-20 17:16",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355127?sid=105"
-    },
-    {
-        "title": "삼성D, 플렉시블 OLED 순증 물량 65% 독식",
-        "date": "2026-08-20 17:08",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61166"
-    },
-    {
-        "title": "LGD, “비FMM OLED '플립'으로 디스플레이 제조 패러다임 혁신”",
-        "date": "2026-08-20 17:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003459106?sid=105"
-    },
-    {
-        "title": "'칩값 37%↑' LG전자 TV, '프리미엄·비용 효율화'로 원가 부담 상쇄",
-        "date": "2026-08-20 16:58",
-        "link": "https://n.news.naver.com/mnews/article/417/0001155911?sid=101"
-    },
-    {
-        "title": "“저수익 사업 줄이고 AI 확대”… LG디스플레이 정철동호 매출원가율 ...",
-        "date": "2026-08-20 16:51",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187390?sid=105"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시 신제품 공개…‘갤럭시 S26 FE’ 유력",
-        "date": "2026-08-20 16:38",
-        "link": "https://www.todayeconomic.com/news/article.html?no=31804"
-    },
-    {
-        "title": "[단독] 애플 '시리' 개발 참여한 삼성 AI 핵심인재 정재욱, 삼성 떠난다",
-        "date": "2026-08-20 16:36",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309335"
-    },
-    {
-        "title": "100만원 싸게 샀어요…1030 열광 '여권폰' 성지에 '우르르'",
-        "date": "2026-08-20 16:32",
-        "link": "https://n.news.naver.com/mnews/article/015/0005322889?sid=101"
-    },
-    {
-        "title": "국립현대무용단 〈자리와 주름: 영월〉, 탄광의 기억을 혼합현실로 펼치...",
-        "date": "2026-08-20 16:20",
-        "link": "http://www.sctoday.co.kr/news/articleView.html?idxno=48421"
-    },
-    {
-        "title": "삼성전자, 27일 '갤럭시 S26 FE' 공개하나...예상 스펙은?",
-        "date": "2026-08-20 16:20",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62351"
-    },
-    {
-        "title": "삼성디스플, 美 코닝 투자로 23조 ‘잭팟’",
-        "date": "2026-08-20 16:19",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653526?sid=101"
-    },
-    {
-        "title": "구글은 AI안경으로 마이크로LED 선택…삼성의 OLEDoS 승부처는",
-        "date": "2026-08-20 16:18",
-        "link": "https://www.g-enews.com/view.php?ud=2026082015500943833084322ec9_1"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시 신제품 공개…'S26 FE' 출격 예상",
-        "date": "2026-08-20 16:16",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053295"
-    },
-    {
-        "title": "폴더블폰 흥행 열기 잇는다 삼성, 갤럭시S26 FE 이달 공개",
-        "date": "2026-08-20 16:08",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564201?sid=105"
-    },
-    {
-        "title": "에이수스 'ROG XREAL R1', 240Hz 마이크로 OLED 탑재 게이밍 AR 글래스 국...",
-        "date": "2026-08-20 15:44",
-        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307512"
-    },
-    {
-        "title": "숭실대 연구팀, 페로브스카이트 발광다이오드(PeLED) 정공 수송층 고분...",
-        "date": "2026-08-20 15:42",
-        "link": "https://n.news.naver.com/mnews/article/030/0003459064?sid=102"
-    },
-    {
-        "title": "한성컴퓨터, 게이머 취향 저격의 27인치 QD-OLED 4K 게이밍 화이트 모니...",
-        "date": "2026-08-20 15:34",
-        "link": "https://m.sports.naver.com/esports/article/442/0000195612"
-    },
-    {
-        "title": "삼성D는 '폼팩터 완성도'·LGD는 '공정 혁신'…차세대 OLED 승부처",
-        "date": "2026-08-20 15:31",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238443?sid=105"
-    },
-    {
-        "title": "EU, 애플 새 앱스토어 정책 승인…에픽게임즈는 정면 비판",
-        "date": "2026-08-20 15:16",
-        "link": "https://news.appstory.co.kr/daily19516"
-    },
-    {
-        "title": "아이폰18 프로, 투톤 후면 버리나…다이내믹 아일랜드도 35% 줄어들 전망",
-        "date": "2026-08-20 15:16",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694358"
-    },
-    {
-        "title": "숭실대, 페로브스카이트 발광다이오드(PeLED) 정공 수송층 고분자 소재...",
-        "date": "2026-08-20 15:12",
-        "link": "https://news.unn.net/news/articleView.html?idxno=596167"
-    },
-    {
-        "title": "삼성 DX 적자 장기화 조짐···노태문 '수익성 반전' 시험대",
-        "date": "2026-08-20 15:12",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=636071"
-    },
-    {
-        "title": "'애플 2배' 삼성전자, 美 오스틴시 보조금 압도적 싹쓸이…현지에선 '빗...",
-        "date": "2026-08-20 15:04",
-        "link": "https://www.theguru.co.kr/news/article.html?no=106055"
-    },
-    {
-        "title": "[심층분석] 애플 첫 폴더블폰, 부품·검증 문제로 출시 난항… 삼성전자...",
-        "date": "2026-08-20 15:00",
-        "link": "https://www.mediawatch.kr/news/article.html?no=260726"
-    },
-    {
-        "title": "시그마인텔, “상반기 스마트폰 플렉시블 OLED 출하량 1위 삼성D”",
-        "date": "2026-08-20 14:52",
-        "link": "https://n.news.naver.com/mnews/article/030/0003459017?sid=105"
-    },
-    {
-        "title": "에스켐, OLED 공통층 매출 122% 급증…반도체 소재 성과도 기대",
-        "date": "2026-08-20 14:46",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61146"
-    },
-    {
-        "title": "숭실대 강범구·박민호 교수팀 페로브스카이트 발광다이오드 효율/수명...",
-        "date": "2026-08-20 14:34",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=623850"
-    },
-    {
-        "title": "한국머크, IMID서 '머크 어워드' 수상자 발표",
-        "date": "2026-08-20 14:26",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61149"
-    },
-    {
-        "title": "에이수스, 게이밍 AR 글래스 'ROG 엑스리얼 R1' 출시",
-        "date": "2026-08-20 14:18",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405823"
-    },
-    {
-        "title": "에이수스, XREAL과 협력해 게이밍 AR 글래스 'ROG XREAL R1' 출시",
-        "date": "2026-08-20 13:50",
-        "link": "https://gamefocus.co.kr/detail.php?number=178396"
-    },
-    {
-        "title": "아이폰18 프로와 차별화… '프로 맥스' 가변 조리개 독점 탑재 전망",
-        "date": "2026-08-20 13:30",
-        "link": "https://kbench.com/?q=node/281253"
-    },
-    {
-        "title": "갤럭시S26FE 드디어 공개되나…삼성, 8월27일 갤럭시 이벤트 개최",
-        "date": "2026-08-20 13:20",
-        "link": "https://news.appstory.co.kr/daily19515"
-    },
-    {
-        "title": "[미국 특징주] 애플, 카메라 탑재 에어팟 2027년 출시 계획 유지",
-        "date": "2026-08-20 13:18",
-        "link": "https://www.newspim.com/news/view/20260820000735"
-    },
-    {
-        "title": "에이수스, 게이밍 AR 글래스 'ROG 엑스리얼 R1' 출시",
-        "date": "2026-08-20 12:29",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434525?sid=105"
-    },
-    {
-        "title": "'글로벌 1위' 오우라 한국 상륙… 삼성 갤럭시 링 '긴장'",
-        "date": "2026-08-20 11:58",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=757009"
-    },
-    {
-        "title": "체리, T1 베이스캠프 홍대에 'MX 8.2 PRO TMR' 전 좌석 설치",
-        "date": "2026-08-20 11:48",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206323"
-    },
-    {
-        "title": "에이수스, 게이밍 AR 글래스 'ROG XREAL R1' 국내 출시",
-        "date": "2026-08-20 11:28",
-        "link": "https://www.thisisgame.com/articles/429090"
-    },
-    {
-        "title": "디스플레이 달린 '애플 홈패드' 올해 말 출격하나… macOS 최신 베타 코...",
-        "date": "2026-08-20 11:18",
-        "link": "https://kbench.com/?q=node/281243"
-    },
-    {
-        "title": "삼성디스플레이 상반기 플렉서블 OLED 출하량 34.5% 증가, BOE 스마트폰 ...",
-        "date": "2026-08-20 11:16",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445171"
-    },
-    {
-        "title": "'NO-마스크 OLED' 승부수, 한국 디스플레이 초격차 굳힌다",
-        "date": "2026-08-20 11:00",
-        "link": "https://www.g-enews.com/view.php?ud=202608201048066275fbbec65dfb_1"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시 S26 FE 공개 유력",
-        "date": "2026-08-20 10:56",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=744442"
-    },
-    {
-        "title": "아이폰 보안문서에 AI 이름 줄줄이…코드 짜던 AI, 보안 연구원 되다",
-        "date": "2026-08-20 10:52",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=299729"
-    },
-    {
-        "title": "삼성전자, '갤럭시 AI' 문턱 낮춘다…S26 팬에디션 27일 공개",
-        "date": "2026-08-20 10:48",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93175"
-    },
-    {
-        "title": "‘폴더블폰 바람’ 갤럭시 FE로 잇는다…27일 S26 FE 공개",
-        "date": "2026-08-20 10:45",
-        "link": "https://n.news.naver.com/mnews/article/658/0000152881?sid=101"
-    },
-    {
-        "title": "LCD는 삼성·TCL 초접전, OLED는 LG 우위…'플랫폼'이 판도 바꾼다",
-        "date": "2026-08-20 10:38",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363841"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시 S26 새 제품 공개…실속형 FE 유력",
-        "date": "2026-08-20 10:10",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272069"
-    },
-    {
-        "title": "아이폰18 프로에 카메라 에어팟까지…애플, 신제품 10종 공개 유력",
-        "date": "2026-08-20 10:09",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434492?sid=105"
-    },
-    {
-        "title": "에이수스, 게이밍 AR 글래스 ‘ROG XREAL R1’ 출시",
-        "date": "2026-08-20 10:06",
-        "link": "https://www.betanews.net/article/view/beta202608200002"
-    },
-    {
-        "title": "세계 최초 240Hz 주사율 지원 게이밍 AR 글래스 '에이수스 ROG XREAL R1'",
-        "date": "2026-08-20 10:02",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60373"
-    },
-    {
-        "title": "삼성, 27일 온라인 이벤트···'갤럭시S26 FE' 베일 벗는다",
-        "date": "2026-08-20 09:45",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461010"
-    },
-    {
-        "title": "삼성 갤럭시 S26 '새로운 패밀리', 27일 밤 9시 이벤트서 전격 공개",
-        "date": "2026-08-20 09:44",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271168"
-    },
-    {
-        "title": "삼성, 27일 '갤럭시 S26 FE' 출격 예고…플래그십 핵심만 추렸다",
-        "date": "2026-08-20 09:40",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238342?sid=105"
-    },
-    {
-        "title": "삼성전자, 27일 '갤럭시 이벤트' 개최 …갤럭시 S26 FE 공개 유력",
-        "date": "2026-08-20 09:38",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252308"
-    },
-    {
-        "title": "애플, 카메라 달린 에어팟 출시 내년으로 미루나?",
-        "date": "2026-08-20 09:36",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546754"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시S26 새 모델 공개…'S26 FE' 유력",
-        "date": "2026-08-20 09:20",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443064"
-    },
-    {
-        "title": "삼성, 27일 '갤럭시 S26 FE' 전격 공개…하반기 시장 공략",
-        "date": "2026-08-20 09:06",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608200017"
-    },
-    {
-        "title": "선익시스템 수주잔고 6420억원, 출하 재개가 관건",
-        "date": "2026-08-20 08:48",
-        "link": "https://www.tokenpost.kr/news/market/393792"
-    },
-    {
-        "title": "삼성, '갤럭시 이벤트' 초대장 발송…27일 '갤럭시 S26 FE' 공개",
-        "date": "2026-08-20 08:44",
-        "link": "https://n.news.naver.com/mnews/article/008/0005402235?sid=105"
-    },
-    {
-        "title": "FMM 없애고 곡면 밝히고…삼성D·LGD 신기술 경쟁",
-        "date": "2026-08-20 08:38",
-        "link": "https://dealsite.co.kr/articles/167512"
-    },
-    {
-        "title": "삼성전자, 27일 갤럭시 이벤트…새로운 갤럭시 S26 라인업 공개",
-        "date": "2026-08-20 08:38",
-        "link": "https://www.g-enews.com/view.php?ud=202608200829138229139bf6e4b2_1"
-    },
-    {
-        "title": "애플워치12, 세라믹 케이스 옵션 추가된다",
-        "date": "2026-08-20 08:26",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434460?sid=105"
-    },
-    {
-        "title": "애플페이 약발 줄고, PLCC 경쟁 격화에도…현대카드, 독자 브랜드로 성...",
-        "date": "2026-08-20 08:02",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=225306"
-    },
-    {
-        "title": "삼성D, A7 수요 맞춤형 투자…스마트폰·IT 넘나드는 유연 생산",
-        "date": "2026-08-20 07:54",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61102"
-    },
-    {
-        "title": "애플, EU서 앱스토어 수수료 최대 26%로…'반독점 분쟁' 일단락[모닝폰...",
-        "date": "2026-08-20 07:51",
-        "link": "https://n.news.naver.com/mnews/article/018/0006354553?sid=105"
-    },
-    {
-        "title": "[주간핫이슈] '여권형 폴드' 인기…갤럭시가 처음 아닌데 왜?",
-        "date": "2026-08-20 07:30",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178986"
     }
 ]
