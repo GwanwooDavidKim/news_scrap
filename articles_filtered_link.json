@@ -1,5 +1,1030 @@
 [
     {
+        "title": "삼성디스플레이 OLED 품은 제네시스 GV90…24.6형 '팝업 화면'으로 차량...",
+        "date": "2026-08-26 14:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=542737"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이에 ‘AI 제어 최적화’ 협력",
+        "date": "2026-08-26 13:56",
+        "link": "https://byline.network/?p=9004111222616666"
+    },
+    {
+        "title": "초고주사율·FHD 동시 구현…LG전자, '네이티브 1000Hz' 모니터 공개",
+        "date": "2026-08-26 13:56",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=222816"
+    },
+    {
+        "title": "LG전자, 세계 첫 'FHD·1000Hz' 모니터 출시…프리미엄 게이밍 공략",
+        "date": "2026-08-26 13:50",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357923"
+    },
+    {
+        "title": "제네시스 'GV90'에 삼성D OLED 탑재…차량용 시장 공략 강화",
+        "date": "2026-08-26 13:49",
+        "link": "https://n.news.naver.com/mnews/article/014/0005566654?sid=101"
+    },
+    {
+        "title": "LG전자, 세계 첫 'FHD 1000Hz' 게이밍 모니터 선봬",
+        "date": "2026-08-26 13:44",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1406252"
+    },
+    {
+        "title": "LG전자, 게이머들 숙원 ‘네이티브 1,000Hz’ 구현한 게이밍 모니터 출시",
+        "date": "2026-08-26 13:44",
+        "link": "http://journal.kobeta.com/?post_type=post&p=63619"
+    },
+    {
+        "title": "삼성디스플레이 공장에 쌓인 코드 더미, 마키나락스 AI가 정리한다",
+        "date": "2026-08-26 13:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435137?sid=105"
+    },
+    {
+        "title": "[AW 베트남 2026] 웨다, ‘GreenWhales·Vision-ML’로 AI 비전검사 선보인...",
+        "date": "2026-08-26 13:32",
+        "link": "https://www.hellot.net/news/article.html?no=114550"
+    },
+    {
+        "title": "1초에 화면 1000번 바꾼다…LG전자, 세계 첫 FHD 1000Hz 게이밍 모니터 출...",
+        "date": "2026-08-26 13:28",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272372"
+    },
+    {
+        "title": "[산업 HOT 뉴스] LG전자, '1000Hz-FHD' 동시 구현 게이밍 모니터 세계 첫...",
+        "date": "2026-08-26 13:24",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=144365"
+    },
+    {
+        "title": "“폰 한 대 300만원 시대에 4분의 1 가격인데 AI까지?”…갤럭시 퀀텀7 ...",
+        "date": "2026-08-26 13:11",
+        "link": "https://n.news.naver.com/mnews/article/011/0004655322?sid=105"
+    },
+    {
+        "title": "화웨이 애플에 맞불...애플 출시 전날 신형 폴더블폰 출시",
+        "date": "2026-08-26 13:04",
+        "link": "https://www.raonnews.com/news/article.html?no=60590"
+    },
+    {
+        "title": "삼성 OLED, 제네시스 GV90에 탑재",
+        "date": "2026-08-26 13:04",
+        "link": "https://www.naeil.com/news/read/600046?ref=naver"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 AI 기반 PLC 제어 최적화 지...",
+        "date": "2026-08-26 12:50",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214037"
+    },
+    {
+        "title": "LG전자, 세계 첫 FHD 1000Hz 게이밍 모니터 출시-초고주사율·화질 모두 ...",
+        "date": "2026-08-26 12:38",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87959"
+    },
+    {
+        "title": "퇴임하는 애플 CEO, 송별회서 동성 파트너 첫 언급…이례적 사생활 공개",
+        "date": "2026-08-26 12:21",
+        "link": "https://n.news.naver.com/mnews/article/448/0000635734?sid=101"
+    },
+    {
+        "title": "애플, M6 맥 미니·M5 맥 스튜디오 공개… 두 달 만에 또 가격 인상",
+        "date": "2026-08-26 12:08",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214371"
+    },
+    {
+        "title": "배터리부터 OLED까지…이재용·정의선 동맹 강화",
+        "date": "2026-08-26 12:06",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1311439&inflow=N"
+    },
+    {
+        "title": "'세계 최초 1천Hz 주사율'...LG전자, 초고속 FHD 게이밍 모니터 출시",
+        "date": "2026-08-26 12:00",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=54269"
+    },
+    {
+        "title": "'Z'로 잘 나가는 삼성 스마트폰…'FE' 더해 점유율 확대 박차",
+        "date": "2026-08-26 11:54",
+        "link": "https://n.news.naver.com/mnews/article/629/0000527687?sid=105"
+    },
+    {
+        "title": "애플 신형 '맥 미니' 가격 300달러 올랐다…M6 탑재 899달러부터",
+        "date": "2026-08-26 11:54",
+        "link": "https://kbench.com/?q=node/281387"
+    },
+    {
+        "title": "LG전자, FHD·1000Hz 동시 구현 '울트라기어' 게이밍 모니터 출시",
+        "date": "2026-08-26 11:52",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241209"
+    },
+    {
+        "title": "애플 폴더블 임박…삼성의 ‘한지붕 두가족’ 시험대",
+        "date": "2026-08-26 11:50",
+        "link": "https://n.news.naver.com/mnews/article/119/0003125572?sid=105"
+    },
+    {
+        "title": "마키나락스 AI, 삼성디스플레이 베트남 양산 라인 적용 추진",
+        "date": "2026-08-26 11:48",
+        "link": "https://platum.kr/archives/293289"
+    },
+    {
+        "title": "LG전자, FHD서 1000Hz 구현…게이밍 모니터 신제품 출시",
+        "date": "2026-08-26 11:41",
+        "link": "https://thetracker.co.kr/View.aspx?No=4199765"
+    },
+    {
+        "title": "LG전자, 1000Hz 초고주사율 울트라기어 게이밍 모니터 출시",
+        "date": "2026-08-26 11:40",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2277986"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 AI 제어 최적화 협력",
+        "date": "2026-08-26 11:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=300090"
+    },
+    {
+        "title": "[메가이슈토픽] 트럼프發 애플 '탈중국' 압박…LG이노텍, 공급망 재편 수...",
+        "date": "2026-08-26 11:36",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577144938454"
+    },
+    {
+        "title": "[위클리오늘] LG전자, 게이밍 모니터 울트라기어 신제품 출시···FHD·10...",
+        "date": "2026-08-26 11:34",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791684"
+    },
+    {
+        "title": "LG전자, '1000Hz·FHD 동시 구현' 게이밍 모니터 출시",
+        "date": "2026-08-26 11:34",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120787"
+    },
+    {
+        "title": "나도 페이커 될 수 있을까…LG전자, FHD 1000Hz 모니터 출시",
+        "date": "2026-08-26 11:33",
+        "link": "https://n.news.naver.com/mnews/article/123/0002389038?sid=004"
+    },
+    {
+        "title": "애플 맥 미니, 2년 만에 확 바뀌었다…M6부터 가격까지 달라진 점은?",
+        "date": "2026-08-26 11:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695605"
+    },
+    {
+        "title": "LG전자, 세계 최초 '네이티브 1000Hz' 게이밍 모니터 출시",
+        "date": "2026-08-26 11:30",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=301990"
+    },
+    {
+        "title": "완주군, 신소득 작목 '애플망고' 본격 육성",
+        "date": "2026-08-26 11:30",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=809184"
+    },
+    {
+        "title": "국민대 연구팀, 마이크로 LED 정밀 조립·수리·전사 통합 기술 개발",
+        "date": "2026-08-26 11:28",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=111271"
+    },
+    {
+        "title": "맥도날드·서브원, 외국기업 아닌 '토종기업'…BMW·벤츠·애플 전량 수...",
+        "date": "2026-08-26 11:26",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85009"
+    },
+    {
+        "title": "아이폰 뭐 살까?…애플스토어에 말풍선 누르니 AI 점원 떴다",
+        "date": "2026-08-26 11:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=300080"
+    },
+    {
+        "title": "삼성디스플레이 OLED, 제네시스 GV90 '움직이는 스크린' 완성",
+        "date": "2026-08-26 11:22",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=259962"
+    },
+    {
+        "title": "업데이트해도 못 쓴다고?…애플 새 AI 시리, '줄 서서' 차례 기다려야",
+        "date": "2026-08-26 11:21",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148911?sid=105"
+    },
+    {
+        "title": "LG전자, 세계 최초 ‘1000Hz · FHD’ 게이밍 모니터 출시…국내 1위 굳히...",
+        "date": "2026-08-26 11:20",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261049456130376"
+    },
+    {
+        "title": "차 안에서 화면이 솟는다…제네시스 GV90, 삼성 OLED로 확 달라진다",
+        "date": "2026-08-26 11:20",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=54239"
+    },
+    {
+        "title": "삼성디스플레이, GV90 OLED 2종 공급",
+        "date": "2026-08-26 11:17",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688623?sid=101"
+    },
+    {
+        "title": "메타, 개인정보 수집 최다 기업…애플·마이크로소프트의 3배",
+        "date": "2026-08-26 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695582"
+    },
+    {
+        "title": "LG전자, 'FPS 저격' 게이밍 모니터 출시…세계 첫 1000Hz·풀HD 동시 지원",
+        "date": "2026-08-26 11:10",
+        "link": "https://www.socialvalue.kr/news/view/1065577683501373"
+    },
+    {
+        "title": "애플 협력사 메모리값 쇼크에 실적 희비…렌즈테크 순익 반토막",
+        "date": "2026-08-26 11:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695593"
+    },
+    {
+        "title": "LG전자, 화질 타협 없는 세계 최초 '1000Hz 신제품' 출시…FPS 게이머 겨...",
+        "date": "2026-08-26 11:08",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=348454"
+    },
+    {
+        "title": "[실적 톺아보기]K-디스플레이 '초격차의 힘' OLED",
+        "date": "2026-08-26 11:06",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859562"
+    },
+    {
+        "title": "국민대, 마이크로 LED 정밀 조립·수리·전사 통합 기술 개발",
+        "date": "2026-08-26 11:06",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705749"
+    },
+    {
+        "title": "완주군, 기후변화 대응 애플망고 전략 작목 육성",
+        "date": "2026-08-26 11:06",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86175"
+    },
+    {
+        "title": "완주에서 생산된 '애플망고'…재배 4년만에 1농가→5농가로 확대",
+        "date": "2026-08-26 11:05",
+        "link": "https://n.news.naver.com/mnews/article/002/0002453564?sid=102"
+    },
+    {
+        "title": "삼성D, 제네시스 'GV90'에 OLED 공급…프리미엄과 럭셔리의 만남",
+        "date": "2026-08-26 11:03",
+        "link": "https://n.news.naver.com/mnews/article/079/0004182478?sid=101"
+    },
+    {
+        "title": "90mm 팝업의 힘…삼성디스플레이, 제네시스 GV90 OLED 접수",
+        "date": "2026-08-26 11:02",
+        "link": "https://n.news.naver.com/mnews/article/293/0000089563?sid=101"
+    },
+    {
+        "title": "LG전자, 세계 최초 1천Hz·FHD 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 11:02",
+        "link": "https://n.news.naver.com/mnews/article/448/0000635719?sid=101"
+    },
+    {
+        "title": "LG전자, '1000Hz·FHD' 동시 구현 게이밍모니터 선봬",
+        "date": "2026-08-26 11:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055017"
+    },
+    {
+        "title": "제네시스 GV90에 삼성D '팝업형 OLED' 탑재",
+        "date": "2026-08-26 10:58",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=745193"
+    },
+    {
+        "title": "LG전자, 울트라기어 게이밍 모니터 출시…1000Hz·FHD 동시 구현",
+        "date": "2026-08-26 10:58",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89629"
+    },
+    {
+        "title": "“1000Hz·FHD 동시 구현”…LG전자, 울트라기어 G5 출시",
+        "date": "2026-08-26 10:56",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1311422&inflow=N"
+    },
+    {
+        "title": "LG전자, 세계 첫 ‘FHD·1000Hz’ 모니터…초고속 게이밍 승부수",
+        "date": "2026-08-26 10:56",
+        "link": "https://n.news.naver.com/mnews/article/011/0004655288?sid=101"
+    },
+    {
+        "title": "피엔에이치테크, IMID 2026서 'OLED용 고굴절 CPL 소재' 공개",
+        "date": "2026-08-26 10:54",
+        "link": "https://www.newspim.com/news/view/20260826000476"
+    },
+    {
+        "title": "‘버튼 누르면 화면이 스르륵’…삼성D, GV90 가변형 OLED 공급",
+        "date": "2026-08-26 10:53",
+        "link": "https://n.news.naver.com/mnews/article/011/0004655287?sid=101"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 10:52",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61349"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1000Hz·FHD' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:52",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4948479"
+    },
+    {
+        "title": "LG전자, '울트라기어 게이밍 모니터' 출시…초고주사율·해상도 다 잡았...",
+        "date": "2026-08-26 10:46",
+        "link": "https://n.news.naver.com/mnews/article/079/0004182453?sid=101"
+    },
+    {
+        "title": "외국계기업 특수관계자 거래 비중↑…애플·BMW·벤츠 등 90% 넘어",
+        "date": "2026-08-26 10:46",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80709"
+    },
+    {
+        "title": "제네시스 GV90 탑재된 '팝업형 OLED'…삼성디스플레이가 공급",
+        "date": "2026-08-26 10:44",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=300059"
+    },
+    {
+        "title": "마이크로 LED 불량 칩, 알아서 빠지고 채워진다… 국민대, 정밀 조립·...",
+        "date": "2026-08-26 10:44",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128696"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:42",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124130"
+    },
+    {
+        "title": "LG전자, 게이머 숙원 '게이밍 모니터' 국내 출시",
+        "date": "2026-08-26 10:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316825"
+    },
+    {
+        "title": "“1초에 화면 1000장”…LG전자, 세계 최초 ‘1000Hz·FHD’ 모니터 출시",
+        "date": "2026-08-26 10:40",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608260055"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD·1000Hz 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003460459?sid=101"
+    },
+    {
+        "title": "피엔에이치테크, IMID 참가…고굴절 CPL 소재 기술 선보여",
+        "date": "2026-08-26 10:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148649?sid=101"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 동시 구현한 ‘울트라기어 게이밍 모니터...",
+        "date": "2026-08-26 10:33",
+        "link": "https://n.news.naver.com/mnews/article/144/0001134035?sid=105"
+    },
+    {
+        "title": "[대한민국 NEXT 10년, 7대 SEED⑦] 중국이 광물 잠그면 공장 멈춘다…K첨...",
+        "date": "2026-08-26 10:32",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576404140160"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD·1000Hz 동시 구현…게이밍 모니터 새 기준",
+        "date": "2026-08-26 10:28",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316890"
+    },
+    {
+        "title": "LG전자, FHD 1000㎐ 게이밍 모니터 선봬",
+        "date": "2026-08-26 10:28",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/110794"
+    },
+    {
+        "title": "삼성전자, '게임스컴 2026'서 '풀스택 게이밍' 승부수…모니터 넘어 생태...",
+        "date": "2026-08-26 10:26",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=101920"
+    },
+    {
+        "title": "LG전자, 세계 최초 'FHD 해상도+1000Hz' 동시 구현한 게이밍 모니터 출시",
+        "date": "2026-08-26 10:26",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88408"
+    },
+    {
+        "title": "LG전자, 1,000Hz·FHD 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:26",
+        "link": "http://www.lawissue.co.kr/view.php?ud=2026082610243749039817d053b9_12"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 울트라기어 게이밍 모니터 출시",
+        "date": "2026-08-26 10:24",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105625"
+    },
+    {
+        "title": "LG 게이밍 모니터 '25G590B' 출시…1000Hz·FHD 동시 구현",
+        "date": "2026-08-26 10:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=718038"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1000Hz·FHD' 게이밍 모니터 출시…디스플레이 '초격...",
+        "date": "2026-08-26 10:20",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84995"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD 1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:16",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=462273"
+    },
+    {
+        "title": "AI 성능 4배, 가격도 두 달 만에 50% 오른 신형 맥 미니",
+        "date": "2026-08-26 10:16",
+        "link": "https://www.itworld.co.kr/article/4213898/ai-성능-4배-가격도-두-달-만에-50-오른-신형-맥-미니.html"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 2종 공급···이달부터 출하",
+        "date": "2026-08-26 10:15",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=636476"
+    },
+    {
+        "title": "LG전자, '네이티브 1000Hz' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:12",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406063"
+    },
+    {
+        "title": "LG전자, 세계 최초 'FHD 1000Hz' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:10",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252487"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 팝업형 OLED 공급…차량용 공략 가속",
+        "date": "2026-08-26 10:08",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608260048"
+    },
+    {
+        "title": "LG전자, FHD 화질 그대로 '1,000Hz' 구현…게이밍 모니터 신제품 출시",
+        "date": "2026-08-26 10:08",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609684"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 공급…차량용 프리미엄 시장 공략...",
+        "date": "2026-08-26 10:06",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=239107"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD·1000Hz '울트라기어' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:06",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207165"
+    },
+    {
+        "title": "1초에 1000장 LG전자, 세계 최초 FHD 1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:06",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=112333"
+    },
+    {
+        "title": "LG전자, 1000㎐·FHD 동시 구현 게이밍 모니터 세계 첫 출시",
+        "date": "2026-08-26 10:04",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90953"
+    },
+    {
+        "title": "[굿바이 팀 쿡-③] '안티 AI' 기업의 AI 생존 전략은",
+        "date": "2026-08-26 10:02",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431822"
+    },
+    {
+        "title": "LG전자, '세계 최초' 1000Hz·FHD 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006358154?sid=101"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 동시 구현 ‘울트라기어 게이밍 모니터’...",
+        "date": "2026-08-26 10:02",
+        "link": "https://www.viva100.com/article/20260826500054"
+    },
+    {
+        "title": "베트남, 7월 '스마트폰' 수출 68억 달러 전월比 27.8% '껑충'…삼성 갤럭...",
+        "date": "2026-08-26 10:02",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43902"
+    },
+    {
+        "title": "LG전자, 세계 최초 ‘네이티브 1000Hz·FHD’ 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082608534197710ecbf9426b_23"
+    },
+    {
+        "title": "LG전자, 세계 최초 네이티브 1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600056.html"
+    },
+    {
+        "title": "LG전자, 세계 첫 '1000Hz·FHD' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "https://www.ajunews.com/view/20260826080334318"
+    },
+    {
+        "title": "LG전자, 세계 최초 초고주사율 FHD 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "https://theviewers.co.kr/View.aspx?No=4199557"
+    },
+    {
+        "title": "LG전자, 세계 최초 ‘1000Hz 초고주사율·풀HD’ 게이밍 모니터 출시",
+        "date": "2026-08-26 10:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688517?sid=101"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD·1000Hz 동시 구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001188359?sid=105"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD 1000㎐ 게이밍 모니터 출시",
+        "date": "2026-08-26 10:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001052421?sid=105"
+    },
+    {
+        "title": "모먼트디자인, 폴더블폰 시장 넓어져 기종별 맞춤 케이스 라인업 확대",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=90876"
+    },
+    {
+        "title": "LG전자, 1000Hz 게이밍 모니터 내놨다…FHD 화질까지 세계 최초 구현",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265972"
+    },
+    {
+        "title": "LG전자, 1000Hz·FHD 동시 구현 게이밍 모니터 신제품 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009132801?sid=101"
+    },
+    {
+        "title": "LG전자, FHD서 1000Hz 구현…초고속 게이밍 승부수",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2116857"
+    },
+    {
+        "title": "LG전자, 1000Hz·FHD 게이밍 모니터 공개…스마트 TV 아트 콘텐츠 확대",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83811"
+    },
+    {
+        "title": "LG전자, FHD 1000Hz 울트라기어 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81644"
+    },
+    {
+        "title": "LG전자, 세계 최초 'FHD·1000Hz 동시 구현' 울트라기어 게이밍 모니터 출...",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.mediapen.com/news/view/1118877"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD·1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130770"
+    },
+    {
+        "title": "LG전자, 1,000Hz·풀HD 동시 구현 게이밍 모니터 '울트라기어' 신제품 출...",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=210856"
+    },
+    {
+        "title": "[Tech &amp; Now] LG전자, 세계 최초 'FHD·1000Hz' 동시 구현…게이밍 모니터...",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721678"
+    },
+    {
+        "title": "LG전자, 세계 첫 1000Hz 구현 '울트라기어 게이밍 모니터' 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851527"
+    },
+    {
+        "title": "LG전자, 세계 최초 1,000Hz·FHD 동시 구현한 울트라기어 게이밍 모니터...",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.etoday.co.kr/news/view/2618194"
+    },
+    {
+        "title": "LG전자, 세계 최초 '네이티브 1000Hz·FHD' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=115919"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD 해상도 '1000Hz' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.datanews.co.kr/news/article.html?no=146184"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1,000Hz·FHD' 동시 구현 '울트라기어 게이밍 모니터...",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116878"
+    },
+    {
+        "title": "LG전자, 세계 최초 '네이티브 1000Hz·FHD' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=636456"
+    },
+    {
+        "title": "1초에 1000장 화면 재생 LG전자, 차세대 게이밍 모니터 선봬",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259939"
+    },
+    {
+        "title": "LG전자, 세계 최초 FHD 1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435080?sid=105"
+    },
+    {
+        "title": "LG전자, 세계 최초 '네이티브 1,000Hz·FHD' 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=236349"
+    },
+    {
+        "title": "LG전자, ‘해상도 타협 없는 1000Hz’ 게이밍 모니터 세계 첫선",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.g-enews.com/view.php?ud=2026082608104684403084322ec9_1"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1천Hz·FHD' 동시구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/422/0000899481?sid=101"
+    },
+    {
+        "title": "속도와 화질의 타협은 없다…LG전자가 1000Hz 게이밍 모니터 던진 수",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86115"
+    },
+    {
+        "title": "LG전자, '1000Hz·FHD 첫 동시 구현' 울트라기어 게이밍 모니터 선봬",
+        "date": "2026-08-26 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399261"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1000Hz·FHD 동시 구현' 울트라기어 게이밍 모니터 출...",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148469?sid=101"
+    },
+    {
+        "title": "해상도·주사율 모두 잡았다...LG전자, FHD·1000Hz 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480527"
+    },
+    {
+        "title": "1000Hz·FHD 동시 구현…LG전자, 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263644?sid=101"
+    },
+    {
+        "title": "삼성D, ‘제네시스 GV90’에 OLED 2종 공급…프리미엄 차량용 디스플레이...",
+        "date": "2026-08-26 09:58",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90943"
+    },
+    {
+        "title": "가온인터내셔날, 플래그십 무선 마우스 'VGN Dragonfly 3 Master GT' 출시",
+        "date": "2026-08-26 09:58",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608260043"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:52",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=718061"
+    },
+    {
+        "title": "애플, 'M6' 맥 미니·'M5 울트라' 맥 스튜디오 공개",
+        "date": "2026-08-26 09:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168841"
+    },
+    {
+        "title": "삼성디스플레이-마키나락스, 베트남 공장에 'AI 제어 최적화' 협력",
+        "date": "2026-08-26 09:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0001052415?sid=105"
+    },
+    {
+        "title": "화면 솟아오르는 팝업 디스플레이... 삼성D, GV90에 패널 공급",
+        "date": "2026-08-26 09:50",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134831"
+    },
+    {
+        "title": "마키나락스 삼성D 베트남 생산라인에 설비 제어 최적화 심는다",
+        "date": "2026-08-26 09:50",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=222815"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급...車 디스플레이 공략",
+        "date": "2026-08-26 09:47",
+        "link": "https://n.news.naver.com/mnews/article/031/0001052414?sid=105"
+    },
+    {
+        "title": "운전 중엔 쏙, 정차 시 쑥…삼성디스플레이, 제네시스 GV90용 OLED 공급",
+        "date": "2026-08-26 09:46",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180652"
+    },
+    {
+        "title": "삼성D-제네시스, 'OLED 동맹' 굳건…GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:46",
+        "link": "https://www.socialvalue.kr/news/view/1065572167342274"
+    },
+    {
+        "title": "애플, M6·M5 프로 탑재 맥 미니 공개…AI 성능 최대 4배 향상",
+        "date": "2026-08-26 09:44",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=300017"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:42",
+        "link": "https://www.news2day.co.kr/article/20260826500067"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급",
+        "date": "2026-08-26 09:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003460403?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:42",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263635?sid=101"
+    },
+    {
+        "title": "車 안에서도 시네마급 화질…삼성D, GV90에 OLED 2종 탑재",
+        "date": "2026-08-26 09:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721707"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장 AI 협력",
+        "date": "2026-08-26 09:40",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859616"
+    },
+    {
+        "title": "삼성디플, 제네시스 GV90에 OLED 공급…럭셔리 모빌리티 공략",
+        "date": "2026-08-26 09:40",
+        "link": "https://www.etoday.co.kr/news/view/2618212"
+    },
+    {
+        "title": "CXMT, 내년까지 주문 꽉 차...애플에 줄 물량 없어",
+        "date": "2026-08-26 09:40",
+        "link": "https://www.ajunews.com/view/20260826093350669"
+    },
+    {
+        "title": "[IT라운지] 틱톡 'K컬처 효과'·포지 '투자유치'·마키나락스 '삼성D AI 설...",
+        "date": "2026-08-26 09:38",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851523"
+    },
+    {
+        "title": "삼성D, 제네시스 'GV90'에 OLED 탑재…4분기 출시 차량부터",
+        "date": "2026-08-26 09:36",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054915"
+    },
+    {
+        "title": "삼성D, 제네시스 플래그십 전동화 SUV GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:36",
+        "link": "https://n.news.naver.com/mnews/article/366/0001188343?sid=105"
+    },
+    {
+        "title": "애플, M6·M5 프로 탑재 맥 미니 공개…AI 성능 최대 4배 향상",
+        "date": "2026-08-26 09:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148364?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 'GV90'에 차량용 OLED 2종 공급",
+        "date": "2026-08-26 09:28",
+        "link": "http://www.datanews.co.kr/news/article.html?no=146181"
+    },
+    {
+        "title": "농심, '너구리' 완도 햇다시마 구매...킴스클럽 '애플호박 햇고구마' 생...",
+        "date": "2026-08-26 09:28",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=761375"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 AI 제어 기술 적용",
+        "date": "2026-08-26 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695500"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 플래그십 'GV90'에 차량용 OLED 2종 공급",
+        "date": "2026-08-26 09:24",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=144295"
+    },
+    {
+        "title": "[미르의 알기쉬운 비즈니스] 삼성 스마트폰 ‘세계공장’ 베트남의 힘…...",
+        "date": "2026-08-26 09:22",
+        "link": "https://www.mediapen.com/news/view/1118875"
+    },
+    {
+        "title": "삼성디스플레이 제네시스 'GV90'에 OLED 공급, 고급 차량용 시장 공략 강...",
+        "date": "2026-08-26 09:22",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445607"
+    },
+    {
+        "title": "삼성D, 제네시스 'GV90'에 차세대 OLED 공급… 럭셔리 모빌리티 혁신 가...",
+        "date": "2026-08-26 09:20",
+        "link": "https://www.mediapen.com/news/view/1118874"
+    },
+    {
+        "title": "삼성D-마키나락스, 베트남 ‘AI 팩토리’ 양산적용 ‘맞손’",
+        "date": "2026-08-26 09:20",
+        "link": "https://n.news.naver.com/mnews/article/029/0003044357?sid=101"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 2종 공급…차량용 시장 공략",
+        "date": "2026-08-26 09:18",
+        "link": "https://n.news.naver.com/mnews/article/117/0004098286?sid=105"
+    },
+    {
+        "title": "삼성 OLED 품은 'GV90'…차 안에서 24.6형 대화면 즐긴다",
+        "date": "2026-08-26 09:17",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404781?sid=101"
+    },
+    {
+        "title": "화면 줄었다 커졌다, 디스플레이 마술 삼성D, 제네시스 GV90에 '팝업OLE...",
+        "date": "2026-08-26 09:16",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=127718"
+    },
+    {
+        "title": "삼성D, GV90에 OLED 2종 공급…車 디스플레이 공략 가속",
+        "date": "2026-08-26 09:08",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688451?sid=101"
+    },
+    {
+        "title": "삼성D OLED, 제네시스 GV90 탔다…차량용 시장 공략 속도",
+        "date": "2026-08-26 09:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0003125408?sid=101"
+    },
+    {
+        "title": "삼성D, 제네시스 공급망 넓힌다…GV90에 OLED 탑재",
+        "date": "2026-08-26 09:06",
+        "link": "https://n.news.naver.com/mnews/article/374/0000529389?sid=101"
+    },
+    {
+        "title": "[글로벌테크놀로지 인터뷰] 김민선 대표 “LDI에서 차량·Micro LED로 확장...",
+        "date": "2026-08-26 09:04",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/110775"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급 … 럭셔리 모빌리티 공략 강화",
+        "date": "2026-08-26 09:04",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600039.html"
+    },
+    {
+        "title": "삼성D, 제네시스 플래그십 'GV90'에 차량용 OLED 2종 공급",
+        "date": "2026-08-26 09:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238977?sid=105"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 차량용 OLED 2종 공급...럭셔리 전장 시장 공략",
+        "date": "2026-08-26 09:02",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259941"
+    },
+    {
+        "title": "제네시스 GV90 탑재된 '팝업형 OLED'…삼성디스플레이가 공급",
+        "date": "2026-08-26 09:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148206?sid=101"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 'AI 제어 최적화' 협력",
+        "date": "2026-08-26 09:01",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404764?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 공급…팝업형 시네마틱 디스플레...",
+        "date": "2026-08-26 09:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2026082608530231931"
+    },
+    {
+        "title": "[중국 특징주] 화웨이, 신형 '3단 폴더블폰' 9월 7일 출시",
+        "date": "2026-08-26 08:59",
+        "link": "https://www.newspim.com/news/view/20260826000190"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 08:58",
+        "link": "https://n.news.naver.com/mnews/article/422/0000899444?sid=101"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급…차량용 디스플레이 공략 강화",
+        "date": "2026-08-26 08:56",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082608485934670ecbf9426b_23"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 'GV90'에 가변형 OLED 패널 2종 공급",
+        "date": "2026-08-26 08:52",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272076"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 첫 초대형 전기 SUV GV90에 OLED 2종 공급",
+        "date": "2026-08-26 08:51",
+        "link": "https://n.news.naver.com/mnews/article/421/0009132623?sid=101"
+    },
+    {
+        "title": "아이폰 뭐 살까?…애플스토어에 말풍선 누르니 AI 점원 떴다",
+        "date": "2026-08-26 08:49",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148165?sid=105"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 2종 공급…“럭셔리 경험의 완성”",
+        "date": "2026-08-26 08:48",
+        "link": "https://n.news.naver.com/mnews/article/029/0003044342?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 08:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399228"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 차세대 OLED 2종 공급",
+        "date": "2026-08-26 08:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480540"
+    },
+    {
+        "title": "애플, 2나노 M6 맥 미니 공개…100달러 올려",
+        "date": "2026-08-26 08:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435050?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 공급…차 안에서 1.7배 커지는 화...",
+        "date": "2026-08-26 08:40",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265975"
+    },
+    {
+        "title": "삼성D, '정의선 드림카' 제네시스 GV90에 OLED 공급",
+        "date": "2026-08-26 08:38",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431790"
+    },
+    {
+        "title": "빅테크들, '차세대 컴퓨터' AI 안경 경쟁 가열",
+        "date": "2026-08-26 08:34",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170448"
+    },
+    {
+        "title": "애플, 2나노 M6 탑재 맥 미니 공개⋯맥 스튜디오엔 M5 울트라 적용",
+        "date": "2026-08-26 08:34",
+        "link": "https://n.news.naver.com/mnews/article/031/0001052386?sid=105"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급…24.6형 ‘팝업 화면’ 탑재",
+        "date": "2026-08-26 08:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006358042?sid=101"
+    },
+    {
+        "title": "[시승기] '로보캅' 극찬 쏟아진 아반떼, 승차감도 쏘나타급 진화",
+        "date": "2026-08-26 08:31",
+        "link": "https://n.news.naver.com/mnews/article/629/0000527556?sid=103"
+    },
+    {
+        "title": "달릴 땐 주행정보, 멈추면 ‘시네마’…삼성D OLED, GV90 탑재",
+        "date": "2026-08-26 08:30",
+        "link": "https://www.g-enews.com/view.php?ud=2026082608192993623084322ec9_1"
+    },
+    {
+        "title": "삼성 히트친 '북 타입' 폴더블폰…애플도 샤오미도 도전장",
+        "date": "2026-08-26 08:26",
+        "link": "https://n.news.naver.com/mnews/article/421/0009132572?sid=105"
+    },
+    {
+        "title": "삼성, 스마트폰 시장 14% 줄어도 1위…‘메모리값 3배’ 수익성은 과제",
+        "date": "2026-08-26 08:26",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082515073985770ecbf9426b_23"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급… 미래 럭셔리 모빌리티 경험 완성",
+        "date": "2026-08-26 08:22",
+        "link": "https://www.ajunews.com/view/20260826081434343"
+    },
+    {
+        "title": "삼성D, 제네시스 플래그십 전동화 SUV GV90에 OLED 2종 공급",
+        "date": "2026-08-26 08:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0016270684?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 투 탠덤 OLED 공급",
+        "date": "2026-08-26 08:04",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435044?sid=105"
+    },
+    {
+        "title": "[SFC IPO] UDC 독점 약화...밸류 프리미엄 받나",
+        "date": "2026-08-26 08:00",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=33233"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급⋯ 프리미엄 차량용 시장 공략",
+        "date": "2026-08-26 07:58",
+        "link": "https://www.viva100.com/article/20260826500027"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급…미래 모빌리티 경험 제공",
+        "date": "2026-08-26 07:57",
+        "link": "https://n.news.naver.com/mnews/article/277/0005807293?sid=101"
+    },
+    {
+        "title": "IBK證 “코오롱인더, 애플 폴더블이 만든 CPI 변곡점”",
+        "date": "2026-08-26 07:46",
+        "link": "https://www.etoday.co.kr/news/view/2618099"
+    },
+    {
+        "title": "BOE·3M 中 공동 연구소 개소, 차세대 디스플레이 기술 협력 강화",
+        "date": "2026-08-26 07:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=106243"
+    },
+    {
+        "title": "킴스클럽, 전남 나주 '애플호박 햇고구마' 50% 확대… 산지 직거래 결실",
+        "date": "2026-08-26 07:02",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423719"
+    },
+    {
+        "title": "[미국주식] 애플, 마소 실적 호조... 8월 트리플 증가 30선",
+        "date": "2026-08-26 07:00",
+        "link": "https://www.itooza.com/common/iview.php?no=2026082510315895758"
+    },
+    {
+        "title": "개발 기간 수년에서 수개월로… 日, 신소재 개발 '10배 가속' 국가 AI ...",
+        "date": "2026-08-26 06:26",
+        "link": "https://www.g-enews.com/view.php?ud=2026082600253860630c8c1c064d_1"
+    },
+    {
+        "title": "애플, 신형 맥 미니·맥 스튜디오 공개...1조 매개변수 AI 모델도 돌린...",
+        "date": "2026-08-26 06:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695489"
+    },
+    {
+        "title": "[소비자가 뽑은 참 좋은 브랜드-갤럭시] 1030세대 사로잡은 Z8 시리즈......",
+        "date": "2026-08-26 06:10",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761974"
+    },
+    {
         "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
         "date": "2026-08-26 06:00",
         "link": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101"
@@ -105,11 +1130,6 @@
         "link": "https://news.appstory.co.kr/daily19536"
     },
     {
-        "title": "[재계 투데이] LG전자, 메트로폴리탄 명화 100여점 TV로 제공 外",
-        "date": "2026-08-25 18:40",
-        "link": "https://news.dealsitetv.com/articles/175171"
-    },
-    {
         "title": "이랜드 킴스클럽, 전남 나주 '애플호박고구마' 생산량 확대",
         "date": "2026-08-25 18:28",
         "link": "https://www.econovill.com/news/articleView.html?idxno=748877"
@@ -165,9 +1185,19 @@
         "link": "https://www.gosiweek.com/article/1065575608573923"
     },
     {
+        "title": "韓美中, ‘와이드 폴더블폰’ 삼파전…‘갤폴드8’ 아성에 애플·화웨이...",
+        "date": "2026-08-25 17:34",
+        "link": "https://www.ceoscoredaily.com/page/view/2026082517200339255"
+    },
+    {
         "title": "전례 없는 콕핏 구현한 삼성D, 페라리 루체의 마지막 퍼즐 완성시켜",
         "date": "2026-08-25 17:30",
         "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546864"
+    },
+    {
+        "title": "아이폰18 프로와 함께 나온다…애플, '에어팟 5' 9월 공개 전망",
+        "date": "2026-08-25 17:20",
+        "link": "https://kbench.com/?q=node/281367"
     },
     {
         "title": "이랜드 킴스클럽, 애플호박 햇고구마 생산량 전년 대비 50% 확대",
@@ -275,11 +1305,6 @@
         "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=547197"
     },
     {
-        "title": "삼성전자 갤럭시 S27 유출…아이폰 따라한 중국폰 디자인 어떻길래",
-        "date": "2026-08-25 16:06",
-        "link": "https://www.ajunews.com/view/20260825155235319"
-    },
-    {
         "title": "더 깎아줄 필요 없다… 삼성 파운드리 4나노 인상 속내는",
         "date": "2026-08-25 16:04",
         "link": "https://n.news.naver.com/mnews/article/138/0002238925?sid=105"
@@ -368,6 +1393,11 @@
         "title": "킴스클럽, 전남 나주 '애플호박 햇고구마' 물량 50% 확대",
         "date": "2026-08-25 15:18",
         "link": "https://www.insight.co.kr/news/569987"
+    },
+    {
+        "title": "애플(AAPL) vs 어도비(ADBE), AI 격변기 실적 최종 승자는?",
+        "date": "2026-08-25 15:12",
+        "link": "http://coinreaders.com/254663"
     },
     {
         "title": "삼성전자, 독일 게임스컴 출격...모바일·TV·SSD 아우른 게이밍 생태계...",
@@ -715,11 +1745,6 @@
         "link": "https://www.seoultimes.news/news/article.html?no=2000099120"
     },
     {
-        "title": "삼성전자, 獨 게임스컴 출격…모니터부터 모바일·SSD까지 한자리에",
-        "date": "2026-08-25 11:04",
-        "link": "http://www.metroseoul.co.kr/article/20260825500158"
-    },
-    {
         "title": "LG디스플레이, 빚 줄이다가 다시 차입금 늘린 까닭",
         "date": "2026-08-25 11:04",
         "link": "http://www.newsdream.kr/news/articleView.html?idxno=116835"
@@ -730,19 +1755,14 @@
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663035"
     },
     {
-        "title": "컴투스 ‘제우스: 오만의 신’, 출격 전부터 흥행 예감…애플 인기 1위",
-        "date": "2026-08-25 11:04",
-        "link": "http://www.metroseoul.co.kr/article/20260825500160"
+        "title": "삼성전자, ‘게임스컴 2026’서 모니터·TV·모바일 등 게이밍 풀라인업...",
+        "date": "2026-08-25 11:02",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082509461181260ecbf9426b_23"
     },
     {
         "title": "삼성전자, 통합 게이밍 생태계 펼친다..독일 게임스컴 참가",
         "date": "2026-08-25 11:02",
         "link": "https://kpenews.com/View.aspx?No=4197772"
-    },
-    {
-        "title": "삼성전자, ‘게임스컴 2026’서 모니터·TV·모바일 등 게이밍 풀라인업...",
-        "date": "2026-08-25 11:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082509461181260ecbf9426b_23"
     },
     {
         "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 펼쳐",
@@ -815,11 +1835,6 @@
         "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252439"
     },
     {
-        "title": "삼성전자, 독일 게임스컴에서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0016268902?sid=105"
-    },
-    {
         "title": "삼성전자, 글로벌 게임 전시회서 '게이밍 풀패키지' 선보인다",
         "date": "2026-08-25 11:00",
         "link": "https://www.g-enews.com/view.php?ud=20260825084148958927fa31d75c_1"
@@ -830,14 +1845,14 @@
         "link": "https://www.ngonews.kr/news/articleView.html?idxno=236226"
     },
     {
-        "title": "삼성전자, 獨 게임스컴서 ‘게이밍 풀패키지’ 선보인다…T1 체험존도 ...",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/468/0001261813?sid=105"
-    },
-    {
         "title": "삼성전자, 獨 '게임스컴' 10년째 참가…게이밍 풀패키지 선뵌다",
         "date": "2026-08-25 11:00",
         "link": "http://www.srtimes.kr/news/articleView.html?idxno=210771"
+    },
+    {
+        "title": "삼성전자, 獨 게임스컴서 ‘게이밍 풀패키지’ 선보인다…T1 체험존도 ...",
+        "date": "2026-08-25 11:00",
+        "link": "https://n.news.naver.com/mnews/article/468/0001261813?sid=105"
     },
     {
         "title": "삼성전자, 독일 ‘게임스컴 2026’서 게이밍 기기 총 망라",
@@ -890,19 +1905,14 @@
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721500"
     },
     {
-        "title": "삼성전자, 獨 '게임스컴' 참가…모니터·모바일 아우른 게이밍 생태계 ...",
+        "title": "삼성전자, 게임스컴에 330평 규모 전시장… 오디세이·갤럭시·SSD 총출동",
         "date": "2026-08-25 11:00",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=144181"
+        "link": "https://n.news.naver.com/mnews/article/366/0001188139?sid=105"
     },
     {
         "title": "삼성, 독일에 차린 한국 PC방…게임스컴서 게이밍 생태계 선보여",
         "date": "2026-08-25 11:00",
         "link": "https://n.news.naver.com/mnews/article/008/0005404271?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴에 330평 규모 전시장… 오디세이·갤럭시·SSD 총출동",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/366/0001188139?sid=105"
     },
     {
         "title": "삼성전자, 게임스컴서 '게이밍 풀스택' 승부…6K 모니터부터 폴더블까지",
@@ -930,19 +1940,9 @@
         "link": "https://news.ifm.kr/news/articleView.html?idxno=477851"
     },
     {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 게이밍 기기 풀패키지 전시",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014146135?sid=101"
-    },
-    {
         "title": "삼성전자, 게임스컴서 통합 게이밍 생태계 공개…PC방도 재현",
         "date": "2026-08-25 11:00",
         "link": "https://www.etoday.co.kr/news/view/2617730"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 모니터·모바일·SSD 아우르는 게이밍 생태계 공...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259779"
     },
     {
         "title": "삼성전자, 獨 게임스컴서 6K 모니터·모바일 통합 게이밍 생태계 공개",
@@ -950,9 +1950,9 @@
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271882"
     },
     {
-        "title": "삼성전자, '풀스택' 게이밍 생태계 구축…독일서 2027년형 오디세이 첫...",
+        "title": "삼성전자, 게임스컴서 모니터·모바일·SSD 아우르는 게이밍 생태계 공...",
         "date": "2026-08-25 11:00",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116796"
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259779"
     },
     {
         "title": "K-PC방으로 변신한 부스?…삼성, 독일 '게임스컴 2026' 서 게이밍 생태계...",
@@ -1065,19 +2065,24 @@
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=542436"
     },
     {
-        "title": "팀 쿡 애플 퇴임 전 송별행사에 동성연인 참석",
-        "date": "2026-08-25 10:30",
-        "link": "https://n.news.naver.com/mnews/article/654/0000196842?sid=104"
-    },
-    {
         "title": "'산지 직거래' 힘주는 킴스클럽, '애플호박 햇고구마' 물량 50% 늘렸다",
         "date": "2026-08-25 10:30",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462626"
     },
     {
+        "title": "팀 쿡 애플 퇴임 전 송별행사에 동성연인 참석",
+        "date": "2026-08-25 10:30",
+        "link": "https://n.news.naver.com/mnews/article/654/0000196842?sid=104"
+    },
+    {
         "title": "컴투스 '제우스: 오만의 신', 출시 전 애플 앱스토어 인기 1위",
         "date": "2026-08-25 10:29",
         "link": "https://n.news.naver.com/mnews/article/003/0014145981?sid=105"
+    },
+    {
+        "title": "세계 최초 6K 모니터 들고 나온 삼성…쾰른서 게이밍 생태계 총출동",
+        "date": "2026-08-25 10:28",
+        "link": "https://www.ekn.kr/web/view.php?key=20260825028076104"
     },
     {
         "title": "QR 스캔 한번에 끝…아이폰서 '갤폴드8' 갈아타기 더 쉬워졌다",
@@ -1123,6 +2128,11 @@
         "title": "中 샤오미, TSMC 3나노 공정 기반 독자 AP 'Xring O3' 공개",
         "date": "2026-08-25 10:02",
         "link": "https://www.g-enews.com/view.php?ud=202608242056361483fda4f5ab74_1"
+    },
+    {
+        "title": "'스마트폰 값' 못 올리는 삼성…마진보다 출하량·점유율",
+        "date": "2026-08-25 10:02",
+        "link": "https://dealsite.co.kr/articles/167739"
     },
     {
         "title": "완벽한 비밀주의에 균열, 애플은 왜 스스로 발목을 잡나",
