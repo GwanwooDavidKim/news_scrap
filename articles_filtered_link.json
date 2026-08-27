@@ -1,5 +1,610 @@
 [
     {
+        "title": "삼성D, 독일 게임스컴서 QD-OLED 알린다…24.5형 연내 양산",
+        "date": "2026-08-27 08:58",
+        "link": "https://n.news.naver.com/mnews/article/001/0016273475?sid=101"
+    },
+    {
+        "title": "삼성D, FPS 겨냥 24.5형 QD-OLED 연내 양산...게임스컴서 180여대 시연",
+        "date": "2026-08-27 08:58",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260109"
+    },
+    {
+        "title": "삼성D, e스포츠 겨냥 24.5형 QD-OLED 연내 양산한다",
+        "date": "2026-08-27 08:58",
+        "link": "https://www.g-enews.com/view.php?ud=20260827084137918727fa31d75c_1"
+    },
+    {
+        "title": "애플, 신제품 발표 임박…첫 ‘폴더블 아이폰’ 베일 벗는다",
+        "date": "2026-08-27 08:54",
+        "link": "https://www.sentv.co.kr/article/view/sentv202608270025"
+    },
+    {
+        "title": "[게임스컴 2026] '플레이 삼성'으로 게임하고 미션 깨며 느끼는 삼성전...",
+        "date": "2026-08-27 08:54",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=152245"
+    },
+    {
+        "title": "삼성디스플레이, e스포츠·FPS 겨냥 24.5형 QD-OLED 연내 양산",
+        "date": "2026-08-27 08:52",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399723"
+    },
+    {
+        "title": "삼성디플, 게임스컴서 QD-OLED 존재감…24.5형 연내 양산",
+        "date": "2026-08-27 08:50",
+        "link": "https://www.etoday.co.kr/news/view/2618662"
+    },
+    {
+        "title": "폴더블 아이폰 어쩌나…미국 성인 4명 중 3명 관심 없다",
+        "date": "2026-08-27 08:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435228?sid=105"
+    },
+    {
+        "title": "삼성D, 24.5인치 QD-OLED 연내 양산...e스포츠·FPS 겨냥",
+        "date": "2026-08-27 08:44",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435226?sid=105"
+    },
+    {
+        "title": "아이폰17, 2분기 글로벌 스마트폰 판매 1위…애플 톱3 싹쓸이",
+        "date": "2026-08-27 08:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695854"
+    },
+    {
+        "title": "'게임스컴' 달군 삼성 QD-OLED… 24.5형 앞세워 e스포츠 시장 공략",
+        "date": "2026-08-27 08:38",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272261"
+    },
+    {
+        "title": "애플, 내달 9일 폴더블 등 신제품 공개… 터너스 CEO 데뷔 무대",
+        "date": "2026-08-27 08:35",
+        "link": "https://n.news.naver.com/mnews/article/366/0001188589?sid=105"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 ‘AI 제어 최적화’ 협력",
+        "date": "2026-08-27 08:34",
+        "link": "http://robotzine.co.kr/entry/278974"
+    },
+    {
+        "title": "삼성D, 게임스컴서 기대작 180여대 QD-OLED로 선봬…24.5형 연내 양산",
+        "date": "2026-08-27 08:33",
+        "link": "https://n.news.naver.com/mnews/article/018/0006358696?sid=101"
+    },
+    {
+        "title": "드디어 접힌다 애플 폴더블폰 등판…9월10일 '깜짝 빛날 시간'",
+        "date": "2026-08-27 08:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0014151056?sid=105"
+    },
+    {
+        "title": "깜짝 빛날 시간 애플, 내달 9일 신제품 공개",
+        "date": "2026-08-27 08:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168913"
+    },
+    {
+        "title": "삼성D “24.5형 QD-OLED 연내 본격 양산”…e스포츠 겨냥",
+        "date": "2026-08-27 08:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688993?sid=101"
+    },
+    {
+        "title": "애플, 9월 10일 새벽 2시 신제품 공개…‘접이식 아이폰’ 나오나",
+        "date": "2026-08-27 08:28",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009135"
+    },
+    {
+        "title": "삼성D, '게임스컴'서 QD-OLED 180여 대 전시…24.5형 연내 양산",
+        "date": "2026-08-27 08:22",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721858"
+    },
+    {
+        "title": "애플 9월 9일 신제품 공개…폴더블 아이폰 베일 벗는다",
+        "date": "2026-08-27 08:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435221?sid=105"
+    },
+    {
+        "title": "삼성D, 게임스컴서 QD-OLED 기술력 과시…24.5형 연내 양산",
+        "date": "2026-08-27 08:14",
+        "link": "https://www.ajunews.com/view/20260827080757844"
+    },
+    {
+        "title": "삼성D, 게임스컴 2026서 게이밍 모니터 협업",
+        "date": "2026-08-27 08:12",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859888"
+    },
+    {
+        "title": "캡콤·크래프톤 신작 'QD-OLED'로…삼성D, '게임스컴'서 화질 과시",
+        "date": "2026-08-27 08:08",
+        "link": "https://n.news.naver.com/mnews/article/277/0005807881?sid=101"
+    },
+    {
+        "title": "산업안전교육도 VR로…",
+        "date": "2026-08-27 07:52",
+        "link": "https://n.news.naver.com/mnews/article/144/0001134253?sid=105"
+    },
+    {
+        "title": "접히는 아이폰 마침내 베일 벗나…애플, 내달 9일 공개 행사",
+        "date": "2026-08-27 07:43",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000059944"
+    },
+    {
+        "title": "애플, 내달 9일 첫 '폴더블 아이폰' 공개할 듯…존 터너스 CEO 데뷔 무대",
+        "date": "2026-08-27 07:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721850"
+    },
+    {
+        "title": "애플, 9월 9일 새 아이폰 발표...터너스 CEO 데뷔전",
+        "date": "2026-08-27 07:28",
+        "link": "https://n.news.naver.com/mnews/article/052/0002398792?sid=104"
+    },
+    {
+        "title": "애플망고 키우는 완주군…기후변화 대응 새 소득원 육성",
+        "date": "2026-08-27 07:28",
+        "link": "https://www.etoday.co.kr/news/view/2618608"
+    },
+    {
+        "title": "애플도 여권폰 낸다…내달 10일 첫 '폴더블 아이폰' 공개[모닝폰]",
+        "date": "2026-08-27 07:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006358657?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블폰 온다…아이폰18 프로와 9월 9일 공개",
+        "date": "2026-08-27 07:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005405365?sid=105"
+    },
+    {
+        "title": "첫 폴더블 아이폰 베일 벗나…애플, 내달 9일 신제품 공개",
+        "date": "2026-08-27 07:06",
+        "link": "https://n.news.naver.com/mnews/article/031/0001052752?sid=105"
+    },
+    {
+        "title": "엔비디아 호실적부터 애플 폴더블 공개 예고 [美 증시 특징주]",
+        "date": "2026-08-27 07:01",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263783?sid=101"
+    },
+    {
+        "title": "갤Z폴드8처럼 좌우로 '쩍'…애플 첫 폴더블 아이폰, 이렇게 생겼다? [IT썰...",
+        "date": "2026-08-27 07:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005405364?sid=105"
+    },
+    {
+        "title": "애플, 9월 9일 새 아이폰 공개⋯“첫 폴더블폰 기대” [마켓핫]",
+        "date": "2026-08-27 07:00",
+        "link": "https://www.etoday.co.kr/news/view/2618601"
+    },
+    {
+        "title": "삼성SDI·디스플레이, 지분거래로 이뤄낼 '윈윈 구조'는",
+        "date": "2026-08-27 07:00",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=309107"
+    },
+    {
+        "title": "애플, 다음달 9일 '폴더블 아이폰' 등 신제품 공개 예고",
+        "date": "2026-08-27 06:52",
+        "link": "https://n.news.naver.com/mnews/article/014/0005567063?sid=101"
+    },
+    {
+        "title": "“놀랄 준비 하세요”…애플, 첫 폴더블 아이폰 다음 달 9일 공개",
+        "date": "2026-08-27 06:30",
+        "link": "https://n.news.naver.com/mnews/article/025/0003547124?sid=105"
+    },
+    {
+        "title": "애플, 폴더블 포함 아이폰 신제품 내달 9일 공개",
+        "date": "2026-08-27 06:17",
+        "link": "https://n.news.naver.com/mnews/article/029/0003044564?sid=105"
+    },
+    {
+        "title": "애플 폴더블 폰, 다음 달 9일 공개...올해 이벤트, 아이폰 출시 20주년 되...",
+        "date": "2026-08-27 06:14",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026082706004191392aaae0046f_30"
+    },
+    {
+        "title": "LX세미콘, 전장·OLED 앞세워 미래 성장엔진 장착",
+        "date": "2026-08-27 06:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721745"
+    },
+    {
+        "title": "애플, 내달 9일 새아이폰 발표…“폴더블폰 1000만대 판매” 전망도",
+        "date": "2026-08-27 05:56",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688938?sid=104"
+    },
+    {
+        "title": "“깜짝 놀랄 준비하세요”… 애플, 폴더블 아이폰 등 내달 9일 발표",
+        "date": "2026-08-27 05:47",
+        "link": "https://n.news.naver.com/mnews/article/005/0001869254?sid=104"
+    },
+    {
+        "title": "애플, 다음달 9일 새 아이폰 공개…폴더블폰 선보일듯",
+        "date": "2026-08-27 05:44",
+        "link": "https://n.news.naver.com/mnews/article/422/0000899820?sid=104"
+    },
+    {
+        "title": "애플, 내달 9일 새아이폰 발표…폴더블폰 1천만대 판매 전망도",
+        "date": "2026-08-27 05:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0016273322?sid=104"
+    },
+    {
+        "title": "애플, 9월 9일 아이폰 공개 행사…존 터너스 체제 첫 데뷔",
+        "date": "2026-08-27 05:14",
+        "link": "https://www.g-enews.com/view.php?ud=2026082705032034452bd56fbc3c_1"
+    },
+    {
+        "title": "90㎜ 팝업 되는 차량용 OLED… 삼성디스플레이 GV90에 공급",
+        "date": "2026-08-27 05:04",
+        "link": "https://n.news.naver.com/mnews/article/081/0003673966?sid=101"
+    },
+    {
+        "title": "[글로벌 비즈 브리핑] 오픈AI, 자체 칩 연내 투입…삼성 HBM4 탑재 추정...",
+        "date": "2026-08-27 04:29",
+        "link": "https://n.news.naver.com/mnews/article/374/0000529578?sid=104"
+    },
+    {
+        "title": "애플, 내달 9일 신제품 행사…첫 폴더블 아이폰 나오나",
+        "date": "2026-08-27 04:19",
+        "link": "https://n.news.naver.com/mnews/article/374/0000529573?sid=104"
+    },
+    {
+        "title": "애플, 내달 9일 신제품 행사…첫 폴더블 아이폰 출시 기대",
+        "date": "2026-08-27 03:47",
+        "link": "https://www.newspim.com/news/view/20260827000029"
+    },
+    {
+        "title": "팀 쿡 퇴임 후 존 터너스 첫 무대, 9월9일 애플 첫 폴더블 아이폰 울트라...",
+        "date": "2026-08-27 02:40",
+        "link": "https://www.wikitree.co.kr/articles/1155232"
+    },
+    {
+        "title": "애플 9월9일 신제품 공개…첫 폴더블 아이폰 나오나",
+        "date": "2026-08-27 02:25",
+        "link": "https://n.news.naver.com/mnews/article/421/0009134596?sid=104"
+    },
+    {
+        "title": "9월 9일 애플 행사, 터너스 CEO 첫 무대",
+        "date": "2026-08-27 01:54",
+        "link": "https://www.tokenpost.kr/news/tech/398413"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급",
+        "date": "2026-08-27 00:31",
+        "link": "https://n.news.naver.com/mnews/article/020/0003743616?sid=101"
+    },
+    {
+        "title": "‘색 정확도 100%’ 인증받은 TV… 배경 달라져도 얼굴색 그대로",
+        "date": "2026-08-27 00:31",
+        "link": "https://n.news.naver.com/mnews/article/020/0003743624?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 상반기 아이폰 OLED 3150만대 출하...21.6% 상승",
+        "date": "2026-08-27 00:13",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435218?sid=105"
+    },
+    {
+        "title": "[게임스컴 26] 독일 쾰른에 한국 PC방 차린 삼성전자...붉은사막·페이커...",
+        "date": "2026-08-26 23:22",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154651"
+    },
+    {
+        "title": "레노버 레전드 Y700 인피니트, 오버클럭 8 엘리트 Gen5로 안투투 458만점...",
+        "date": "2026-08-26 22:52",
+        "link": "https://www.wikitree.co.kr/articles/1155210"
+    },
+    {
+        "title": "“이 천을 2만원 넘게 받나?” 애플, 전 세계 조롱 받더니…결국 ‘1만...",
+        "date": "2026-08-26 21:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002688914?sid=105"
+    },
+    {
+        "title": "애플, 오픈AI 반대에 재반박…초기 문서 확보·포렌식 촉구",
+        "date": "2026-08-26 20:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695825"
+    },
+    {
+        "title": "애플 폴더블폰이 바꾼다… CPI, ‘UTG+CPI’ 새 표준 되나",
+        "date": "2026-08-26 20:26",
+        "link": "https://m.skyedaily.com/news_view.html?ID=310543"
+    },
+    {
+        "title": "[리뷰] 게이밍 노트북의 종착역? 2026 에이수스 ROG 스트릭스 스카 18(G83...",
+        "date": "2026-08-26 19:30",
+        "link": "https://it.donga.com/109415/"
+    },
+    {
+        "title": "애플, M6 품은 신형 맥 미니 공개…AI 성능 4배, 상시 구동 에이전틱 P...",
+        "date": "2026-08-26 19:12",
+        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=317740"
+    },
+    {
+        "title": "국민대 연구팀, 마이크로 LED 정밀 조립·수리·전사 가능한 통합 기술 ...",
+        "date": "2026-08-26 18:54",
+        "link": "https://n.news.naver.com/mnews/article/022/0004153934?sid=102"
+    },
+    {
+        "title": "[뿌리 기업 인터뷰] 자이브솔루션즈, 적층제조 사업화 파트너를 지향하...",
+        "date": "2026-08-26 18:48",
+        "link": "https://www.hellot.net/news/article.html?no=114575"
+    },
+    {
+        "title": "[뿌리 기업 인터뷰] 프로토텍, 장비 너머 제조 경쟁력을 설계하다",
+        "date": "2026-08-26 17:58",
+        "link": "https://www.hellot.net/news/article.html?no=114573"
+    },
+    {
+        "title": "[8월 26일] TFT, 신규 세트 '신비의 숲' 출시 등 게임 업계 핫클립",
+        "date": "2026-08-26 17:50",
+        "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216332"
+    },
+    {
+        "title": "국민대 연구팀, 마이크로 LED 정밀 조립·수리·전사 통합 기술 개발",
+        "date": "2026-08-26 17:48",
+        "link": "https://n.news.naver.com/mnews/article/030/0003460692?sid=102"
+    },
+    {
+        "title": "GV90에 삼성 '팝업형 OLED' 떴다",
+        "date": "2026-08-26 17:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005726262?sid=101"
+    },
+    {
+        "title": "완주군, 신소득 작목 '애플망고' 본격 육성",
+        "date": "2026-08-26 17:46",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=445861"
+    },
+    {
+        "title": "엔비디아, '게임스컴 2026'서 최신 게이밍 기술 대거 공개... 엔비디아 R...",
+        "date": "2026-08-26 17:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=178567"
+    },
+    {
+        "title": "국민대 연구팀, 마이크로 LED 정밀 조립·수리·전사 통합 기술 개발",
+        "date": "2026-08-26 17:40",
+        "link": "https://www.viva100.com/article/20260826501287"
+    },
+    {
+        "title": "완주군, 신소득 작목 ‘애플망고’ 본격 육성",
+        "date": "2026-08-26 17:24",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=2026082617202953343dfcd109a8_7"
+    },
+    {
+        "title": "LG전자, FHD 해상도서 네이티브 1000Hz 지원 모니터 출시...'게이밍 디스...",
+        "date": "2026-08-26 17:19",
+        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=6007"
+    },
+    {
+        "title": "메모리값 뛰는데 가격 인상 억제…삼성·애플 '점유율 사수전' 나서",
+        "date": "2026-08-26 17:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168888"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 17:16",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364265"
+    },
+    {
+        "title": "LG전자, FHD 주사율 1000Hz 게이밍 모니터 시대 열었다",
+        "date": "2026-08-26 17:12",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=152230"
+    },
+    {
+        "title": "폴더블 아이폰 메인보드 유출⋯A20 프로 칩 탑재되나?",
+        "date": "2026-08-26 17:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546891"
+    },
+    {
+        "title": "피엔에이치테크, 차세대 OLED 소재 국산화…IMID 2026서 포트폴리오 제시",
+        "date": "2026-08-26 16:40",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115164"
+    },
+    {
+        "title": "애플, M6와 M5 울트라 공개…맥 미니·맥 스튜디오 AI 성능 높인다",
+        "date": "2026-08-26 16:40",
+        "link": "https://news.appstory.co.kr/daily19539"
+    },
+    {
+        "title": "'더 크고 선명해지는 車디플'..삼성·LGD 커지는 OLED 시장 정조준",
+        "date": "2026-08-26 16:30",
+        "link": "https://n.news.naver.com/mnews/article/008/0005405133?sid=101"
+    },
+    {
+        "title": "갤럭시 Z8 시리즈 흥행 삼성전자, S26 FE로 글로벌 1위 탈환 굳힌다",
+        "date": "2026-08-26 16:30",
+        "link": "https://n.news.naver.com/mnews/article/029/0003044494?sid=105"
+    },
+    {
+        "title": "LG 울트라기어, 1000Hz·FHD 동시 구현⋯게이밍 모니터 새 기준",
+        "date": "2026-08-26 16:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546888"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 ‘AI 제어 최적화’ 기술 적...",
+        "date": "2026-08-26 16:20",
+        "link": "https://n.news.naver.com/mnews/article/366/0001188492?sid=105"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 게이밍 모니터 출시",
+        "date": "2026-08-26 16:20",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364248"
+    },
+    {
+        "title": "[산업 뉴스브리핑] 삼성D, 제네시스 GV90에 OLED 탑재…럭셔리 모빌리티...",
+        "date": "2026-08-26 16:16",
+        "link": "https://www.asiatime.co.kr/article/20260826500357"
+    },
+    {
+        "title": "애플(AAPL), 팀 쿡 물러나고 폴더블 출격 준비...4조 달러 신화 이어가나...",
+        "date": "2026-08-26 16:12",
+        "link": "http://coinreaders.com/254924"
+    },
+    {
+        "title": "LG전자, 게이머들 숙원 풀었다...차세대 게이밍 모니터 1000Hz·FHD 동시에...",
+        "date": "2026-08-26 16:08",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=762387"
+    },
+    {
+        "title": "KT서비스남부, 반납 8개월 뒤 노트북 파손비 청구 … 노조 급여공제 부...",
+        "date": "2026-08-26 16:04",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=245203"
+    },
+    {
+        "title": "[재계는 지금] 삼성전자, 차세대 포터블 SSD 2종 P9, P7 공개外",
+        "date": "2026-08-26 16:02",
+        "link": "https://dealsite.co.kr/articles/167840"
+    },
+    {
+        "title": "[데이터뉴스]소형 OLED 출하량 2030년 14억6000만대",
+        "date": "2026-08-26 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003460635?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 16:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695717"
+    },
+    {
+        "title": "삼성, 갤럭시A1 DDI 후공정 LB세미콘→대만 칩본드 변경...원가 절감 차...",
+        "date": "2026-08-26 15:53",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435172?sid=105"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급",
+        "date": "2026-08-26 15:48",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595456455084"
+    },
+    {
+        "title": "애플 iOS 27, 9월 중순 출시…아이폰18 시리즈 공개 후 배포 전망",
+        "date": "2026-08-26 15:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695690"
+    },
+    {
+        "title": "LG전자, '네이티브 1000Hz' 게이밍 모니터 출격…화질 타협 없는 1,000장...",
+        "date": "2026-08-26 15:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=316309"
+    },
+    {
+        "title": "S26 울트라, 진짜 '베스트셀러' 됐다…삼성 보급형 A시리즈 추월",
+        "date": "2026-08-26 15:40",
+        "link": "https://www.newspim.com/news/view/20260826000854"
+    },
+    {
+        "title": "中 BOE, 3M과 ‘주름 없는 폴더블’ 개발…삼성 정조준",
+        "date": "2026-08-26 15:19",
+        "link": "https://n.news.naver.com/mnews/article/029/0003044461?sid=101"
+    },
+    {
+        "title": "제네시스·페라리까지…삼성디스플레이, 차량용 OLED 영토 넓힌다",
+        "date": "2026-08-26 15:16",
+        "link": "http://www.metroseoul.co.kr/article/20260826500370"
+    },
+    {
+        "title": "LG전자, 세계 최초 1000Hz·FHD 게이밍 모니터 출시",
+        "date": "2026-08-26 15:10",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=312764"
+    },
+    {
+        "title": "삼성전자·LG전자, 신사업 '격돌'...혼수·플랫폼·B2B '확장'",
+        "date": "2026-08-26 15:04",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=154638"
+    },
+    {
+        "title": "LGD, 8세대 OLED 삼성과 다른 길 간다…'FMM 없는' 독자기술 승부",
+        "date": "2026-08-26 15:03",
+        "link": "https://www.newspim.com/news/view/20260826000837"
+    },
+    {
+        "title": "애플, 올가을 신형 맥 3종 준비…M6 맥북 프로·아이맥 주목",
+        "date": "2026-08-26 15:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695643"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 공장에 'AI 제어 최적화' 협력",
+        "date": "2026-08-26 14:58",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85025"
+    },
+    {
+        "title": "LG전자, ‘FHD 그대로 1000Hz’ 세계 첫 구현…울트라기어 게이밍 모니터...",
+        "date": "2026-08-26 14:54",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=20260826145232965de3f0aa1be_7"
+    },
+    {
+        "title": "“DRAM 3사 흔들려다”… 애플, 이번엔 중국 ‘CXMT’ 체급 키워주나",
+        "date": "2026-08-26 14:52",
+        "link": "https://www.asiatime.co.kr/article/20260826500300"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급…팝업형 24.6형 화면 구...",
+        "date": "2026-08-26 14:48",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130834"
+    },
+    {
+        "title": "아이폰18 프로, 한국 1차 출시 확정⋯첫 폴더블도 공개 임박",
+        "date": "2026-08-26 14:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546881"
+    },
+    {
+        "title": "LG전자, 1000Hz·FHD 동시 구현 울트라기어 게이밍 모니터 출시",
+        "date": "2026-08-26 14:42",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591528224217"
+    },
+    {
+        "title": "또 'FE' 꺼내든 삼성···아이폰 방어하고 '갤럭시 AI' 영토 넓힌다",
+        "date": "2026-08-26 14:41",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463297"
+    },
+    {
+        "title": "게임 열풍에 '게이밍 모니터' 질주…LG·삼성, 프리미엄 경쟁 점화",
+        "date": "2026-08-26 14:40",
+        "link": "https://www.asiatime.co.kr/article/20260826500291"
+    },
+    {
+        "title": "LG전자, 세계 첫 '네이티브 1000Hz' FHD 게이밍 모니터 국내 출시",
+        "date": "2026-08-26 14:38",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309748"
+    },
+    {
+        "title": "애플 넘어 출하량 1위 탈환 변곡점...베일 벗는 '가성비폰' 갤럭시S26 FE",
+        "date": "2026-08-26 14:36",
+        "link": "https://www.g-enews.com/view.php?ud=20260826143148488627fa31d75c_1"
+    },
+    {
+        "title": "마키나락스, 삼성디스플레이 베트남 설비 제어 AI로 최적화",
+        "date": "2026-08-26 14:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003460580?sid=105"
+    },
+    {
+        "title": "외국계 기업의 '두 얼굴'... 맥도날드·서브원 '한국형'·BMW·애플 '해외...",
+        "date": "2026-08-26 14:30",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521677"
+    },
+    {
+        "title": "삼성D, 제네시스 플래그십 전동화 SUV에 차량용 OLED 2종 공급",
+        "date": "2026-08-26 14:26",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1406356"
+    },
+    {
+        "title": "의존 낮추고 AI 최적화…삼성·애플·샤오미 ‘자체 칩’ 승부",
+        "date": "2026-08-26 14:26",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1311470&inflow=N"
+    },
+    {
+        "title": "Samsung targets luxury mobility with battery, display supply for Genesis ...",
+        "date": "2026-08-26 14:22",
+        "link": "https://www.koreatimes.co.kr/path/A2026082613450004153"
+    },
+    {
+        "title": "갤럭시에 했던대로 힘줬더니 그대로 ‘우지직’…폴더블 신제품 내구성...",
+        "date": "2026-08-26 14:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005726039?sid=101"
+    },
+    {
+        "title": "애플, 새 매직 키보드 출시…주요 키 문자 없애고 아이콘으로",
+        "date": "2026-08-26 14:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695655"
+    },
+    {
+        "title": "삼성D, 제네시스 GV90에 OLED 공급…24.6형 '팝업형' 적용",
+        "date": "2026-08-26 14:12",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364237"
+    },
+    {
+        "title": "중국 디스플레이, '규모'에서 '가치'로…K-OLED '안전지대' 사라져",
+        "date": "2026-08-26 14:02",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116931"
+    },
+    {
         "title": "삼성디스플레이 OLED 품은 제네시스 GV90…24.6형 '팝업 화면'으로 차량...",
         "date": "2026-08-26 14:00",
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=542737"
@@ -345,11 +950,6 @@
         "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316825"
     },
     {
-        "title": "“1초에 화면 1000장”…LG전자, 세계 최초 ‘1000Hz·FHD’ 모니터 출시",
-        "date": "2026-08-26 10:40",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608260055"
-    },
-    {
         "title": "LG전자, 세계 최초 FHD·1000Hz 동시 구현 게이밍 모니터 출시",
         "date": "2026-08-26 10:34",
         "link": "https://n.news.naver.com/mnews/article/030/0003460459?sid=101"
@@ -485,14 +1085,14 @@
         "link": "https://www.insidevina.com/news/articleView.html?idxno=43902"
     },
     {
-        "title": "LG전자, 세계 최초 ‘네이티브 1000Hz·FHD’ 게이밍 모니터 출시",
-        "date": "2026-08-26 10:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082608534197710ecbf9426b_23"
-    },
-    {
         "title": "LG전자, 세계 최초 네이티브 1000Hz 게이밍 모니터 출시",
         "date": "2026-08-26 10:02",
         "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600056.html"
+    },
+    {
+        "title": "LG전자, 세계 최초 ‘네이티브 1000Hz·FHD’ 게이밍 모니터 출시",
+        "date": "2026-08-26 10:02",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082608534197710ecbf9426b_23"
     },
     {
         "title": "LG전자, 세계 첫 '1000Hz·FHD' 게이밍 모니터 출시",
@@ -540,19 +1140,19 @@
         "link": "http://www.4th.kr/news/articleView.html?idxno=2116857"
     },
     {
-        "title": "LG전자, 1000Hz·FHD 게이밍 모니터 공개…스마트 TV 아트 콘텐츠 확대",
-        "date": "2026-08-26 10:00",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83811"
-    },
-    {
         "title": "LG전자, FHD 1000Hz 울트라기어 게이밍 모니터 출시",
         "date": "2026-08-26 10:00",
         "link": "http://www.press9.kr/news/articleView.html?idxno=81644"
     },
     {
-        "title": "LG전자, 세계 최초 'FHD·1000Hz 동시 구현' 울트라기어 게이밍 모니터 출...",
+        "title": "LG전자, 1000Hz·FHD 게이밍 모니터 공개…스마트 TV 아트 콘텐츠 확대",
         "date": "2026-08-26 10:00",
-        "link": "https://www.mediapen.com/news/view/1118877"
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83811"
+    },
+    {
+        "title": "LG전자, 1,000Hz·풀HD 동시 구현 게이밍 모니터 '울트라기어' 신제품 출...",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=210856"
     },
     {
         "title": "LG전자, 세계 최초 FHD·1000Hz 게이밍 모니터 출시",
@@ -560,9 +1160,9 @@
         "link": "http://www.popcornnews.net/news/articleView.html?idxno=130770"
     },
     {
-        "title": "LG전자, 1,000Hz·풀HD 동시 구현 게이밍 모니터 '울트라기어' 신제품 출...",
+        "title": "LG전자, 세계 최초 'FHD·1000Hz 동시 구현' 울트라기어 게이밍 모니터 출...",
         "date": "2026-08-26 10:00",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=210856"
+        "link": "https://www.mediapen.com/news/view/1118877"
     },
     {
         "title": "[Tech &amp; Now] LG전자, 세계 최초 'FHD·1000Hz' 동시 구현…게이밍 모니터...",
@@ -590,14 +1190,14 @@
         "link": "http://www.datanews.co.kr/news/article.html?no=146184"
     },
     {
-        "title": "LG전자, 세계 최초 '1,000Hz·FHD' 동시 구현 '울트라기어 게이밍 모니터...",
-        "date": "2026-08-26 10:00",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116878"
-    },
-    {
         "title": "LG전자, 세계 최초 '네이티브 1000Hz·FHD' 게이밍 모니터 출시",
         "date": "2026-08-26 10:00",
         "link": "https://www.seoulfn.com/news/articleView.html?idxno=636456"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1,000Hz·FHD' 동시 구현 '울트라기어 게이밍 모니터...",
+        "date": "2026-08-26 10:00",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116878"
     },
     {
         "title": "1초에 1000장 화면 재생 LG전자, 차세대 게이밍 모니터 선봬",
@@ -620,14 +1220,14 @@
         "link": "https://www.g-enews.com/view.php?ud=2026082608104684403084322ec9_1"
     },
     {
-        "title": "LG전자, 세계 최초 '1천Hz·FHD' 동시구현 게이밍 모니터 출시",
-        "date": "2026-08-26 10:00",
-        "link": "https://n.news.naver.com/mnews/article/422/0000899481?sid=101"
-    },
-    {
         "title": "속도와 화질의 타협은 없다…LG전자가 1000Hz 게이밍 모니터 던진 수",
         "date": "2026-08-26 10:00",
         "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86115"
+    },
+    {
+        "title": "LG전자, 세계 최초 '1천Hz·FHD' 동시구현 게이밍 모니터 출시",
+        "date": "2026-08-26 10:00",
+        "link": "https://n.news.naver.com/mnews/article/422/0000899481?sid=101"
     },
     {
         "title": "LG전자, '1000Hz·FHD 첫 동시 구현' 울트라기어 게이밍 모니터 선봬",
@@ -715,14 +1315,14 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003460403?sid=105"
     },
     {
-        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
-        "date": "2026-08-26 09:42",
-        "link": "https://n.news.naver.com/mnews/article/215/0001263635?sid=101"
-    },
-    {
         "title": "車 안에서도 시네마급 화질…삼성D, GV90에 OLED 2종 탑재",
         "date": "2026-08-26 09:42",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721707"
+    },
+    {
+        "title": "삼성디스플레이, 제네시스 GV90에 OLED 2종 공급",
+        "date": "2026-08-26 09:42",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263635?sid=101"
     },
     {
         "title": "마키나락스, 삼성디스플레이 베트남 공장 AI 협력",
@@ -1008,1315 +1608,5 @@
         "title": "[미국주식] 애플, 마소 실적 호조... 8월 트리플 증가 30선",
         "date": "2026-08-26 07:00",
         "link": "https://www.itooza.com/common/iview.php?no=2026082510315895758"
-    },
-    {
-        "title": "개발 기간 수년에서 수개월로… 日, 신소재 개발 '10배 가속' 국가 AI ...",
-        "date": "2026-08-26 06:26",
-        "link": "https://www.g-enews.com/view.php?ud=2026082600253860630c8c1c064d_1"
-    },
-    {
-        "title": "애플, 신형 맥 미니·맥 스튜디오 공개...1조 매개변수 AI 모델도 돌린...",
-        "date": "2026-08-26 06:18",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695489"
-    },
-    {
-        "title": "[소비자가 뽑은 참 좋은 브랜드-갤럭시] 1030세대 사로잡은 Z8 시리즈......",
-        "date": "2026-08-26 06:10",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761974"
-    },
-    {
-        "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
-        "date": "2026-08-26 06:00",
-        "link": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101"
-    },
-    {
-        "title": "애플, 맥미니 신제품 출시…2나노칩 최초 도입",
-        "date": "2026-08-26 04:37",
-        "link": "https://n.news.naver.com/mnews/article/374/0000529331?sid=104"
-    },
-    {
-        "title": "갤럭시워치5·픽셀워치2·애플워치 5종, 2026년 지원이 마지막 해가 된다",
-        "date": "2026-08-26 04:14",
-        "link": "https://www.wikitree.co.kr/articles/1154937"
-    },
-    {
-        "title": "OLED 이어… K-LCD, 中 굴기에 '반격'",
-        "date": "2026-08-26 04:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404666?sid=101"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 4종 출시",
-        "date": "2026-08-26 03:40",
-        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52337"
-    },
-    {
-        "title": "아이폰18 프로와 울트라 비교해보니, 울트라엔 망원카메라·페이스ID·마...",
-        "date": "2026-08-26 00:46",
-        "link": "https://www.wikitree.co.kr/articles/1154923"
-    },
-    {
-        "title": "가볍고 AI 비서 기능까지… 떠오르는 AR 글라스",
-        "date": "2026-08-26 00:35",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994879?sid=105"
-    },
-    {
-        "title": "[게임스컴] 쾰른에 '韓 PC방' 옮겼다…삼성전자, '게이밍 풀스택' 승부",
-        "date": "2026-08-26 00:32",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3050687"
-    },
-    {
-        "title": "[기업家] 애플 ②ㅣ 아이폰18 출격 채비…AI·반도체·앱스토어·보안까...",
-        "date": "2026-08-26 00:10",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600496"
-    },
-    {
-        "title": "애플, 2027년 아이폰 20주년에 ‘아이폰19’ 생략하고 ‘아이폰20’ 직행...",
-        "date": "2026-08-25 22:50",
-        "link": "https://www.wikitree.co.kr/articles/1154911"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 '애플호박 햇고구마' 생산량 50% 확대",
-        "date": "2026-08-25 22:30",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851511"
-    },
-    {
-        "title": "애플워치 시리즈12, 외형은 그대로인데 3년 만에 새 칩 얻고 세라믹 케...",
-        "date": "2026-08-25 22:28",
-        "link": "https://www.wikitree.co.kr/articles/1154909"
-    },
-    {
-        "title": "애플, AI 개발자 잡으려 '맥' 확 키웠다…첫 2나노 M6 탑재",
-        "date": "2026-08-25 22:16",
-        "link": "https://www.newspim.com/news/view/20260825001177"
-    },
-    {
-        "title": "바이비트, 애플페이 크립토 구매 수수료 한 달간 전액 면제…최대 3.20달...",
-        "date": "2026-08-25 22:10",
-        "link": "https://www.wikitree.co.kr/articles/1154907"
-    },
-    {
-        "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
-        "date": "2026-08-25 22:00",
-        "link": "https://n.news.naver.com/mnews/article/001/0016270491?sid=104"
-    },
-    {
-        "title": "[김대호 인물] 존 터너스 (John Ternus) 애플 후계자  스티브잡스- 팀쿡",
-        "date": "2026-08-25 20:06",
-        "link": "https://www.g-enews.com/view.php?ud=202608180858538346906806b77b_1"
-    },
-    {
-        "title": "삼성SDI, 삼성디스플레이 보유 지분 33% 매각···4.5조 규모 자금 확보",
-        "date": "2026-08-25 19:46",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=259881"
-    },
-    {
-        "title": "팀 쿡, 애플 송별회서 동성 파트너 첫 공개…“마이크도 왔다”",
-        "date": "2026-08-25 19:43",
-        "link": "https://n.news.naver.com/mnews/article/119/0003125320?sid=101"
-    },
-    {
-        "title": "[CAPEX 기업진단] 삼성디스플레이, 아산 67조 베팅⋯폴더블 '정조준'",
-        "date": "2026-08-25 19:34",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=259880"
-    },
-    {
-        "title": "[기고] LG디스플레이는 왜 '플립'을 택할 수밖에 없었을까",
-        "date": "2026-08-25 19:09",
-        "link": "https://n.news.naver.com/mnews/article/092/0002435031?sid=110"
-    },
-    {
-        "title": "삼성전자, 동남아 스마트폰 시장 1위…출하량 6% 증가",
-        "date": "2026-08-25 18:54",
-        "link": "https://news.appstory.co.kr/daily19536"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 '애플호박고구마' 생산량 확대",
-        "date": "2026-08-25 18:28",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=748877"
-    },
-    {
-        "title": "삼성SDI, 삼성디스플레이 지분 '일부 매각'의 행간…배당 챙기고 실탄 확...",
-        "date": "2026-08-25 18:22",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130745"
-    },
-    {
-        "title": "[오늘의 전자] 삼성전자·LG전자",
-        "date": "2026-08-25 18:20",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44384"
-    },
-    {
-        "title": "애플, 차세대 '맥 미니' 발표 임박...9월 아이폰 행사 전 공개 가능성",
-        "date": "2026-08-25 18:10",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=214349"
-    },
-    {
-        "title": "친구 따라 아이폰 10대 여심 '굳건'…20대는 '갤럭시'로 변심",
-        "date": "2026-08-25 18:09",
-        "link": "https://n.news.naver.com/mnews/article/015/0005324622?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 세계 첫 6K ‘오디세이 G8’ 공개",
-        "date": "2026-08-25 18:00",
-        "link": "https://www.cnet.co.kr/view/?no=20260825175207"
-    },
-    {
-        "title": "[MOVIEW] ‘짧고 넓게’ 폴더블 판 바뀐다…삼성·애플·샤오미 3파전",
-        "date": "2026-08-25 17:55",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238946?sid=105"
-    },
-    {
-        "title": "폴더블폰 대세는 '북타입' … 10대 중 7대 좌우로 펼친다",
-        "date": "2026-08-25 17:42",
-        "link": "https://n.news.naver.com/mnews/article/009/0005725712?sid=105"
-    },
-    {
-        "title": "킴스클럽, 전남 나주 애플호박 햇고구마 생산량 확대",
-        "date": "2026-08-25 17:40",
-        "link": "https://n.news.naver.com/mnews/article/082/0001395406?sid=101"
-    },
-    {
-        "title": "게임스컴 개막…삼성전자 '풀스택' vs 레노버 '커브드 4종'",
-        "date": "2026-08-25 17:36",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=748869"
-    },
-    {
-        "title": "더나인몰, 갤럭시Z플립8·폴드8 출시 맞아 전용 폰케이스 할인이벤트 시...",
-        "date": "2026-08-25 17:36",
-        "link": "https://www.gosiweek.com/article/1065575608573923"
-    },
-    {
-        "title": "韓美中, ‘와이드 폴더블폰’ 삼파전…‘갤폴드8’ 아성에 애플·화웨이...",
-        "date": "2026-08-25 17:34",
-        "link": "https://www.ceoscoredaily.com/page/view/2026082517200339255"
-    },
-    {
-        "title": "전례 없는 콕핏 구현한 삼성D, 페라리 루체의 마지막 퍼즐 완성시켜",
-        "date": "2026-08-25 17:30",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546864"
-    },
-    {
-        "title": "아이폰18 프로와 함께 나온다…애플, '에어팟 5' 9월 공개 전망",
-        "date": "2026-08-25 17:20",
-        "link": "https://kbench.com/?q=node/281367"
-    },
-    {
-        "title": "이랜드 킴스클럽, 애플호박 햇고구마 생산량 전년 대비 50% 확대",
-        "date": "2026-08-25 17:18",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180570"
-    },
-    {
-        "title": "공개 빨라지는 삼성 갤럭시 FE 시리즈…칩플레이션 정면 돌파",
-        "date": "2026-08-25 17:06",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008385"
-    },
-    {
-        "title": "애플, iOS 27 퍼블릭 베타 5 출시…정식 출시 앞두고 막바지 테스트",
-        "date": "2026-08-25 17:04",
-        "link": "https://news.appstory.co.kr/daily19535"
-    },
-    {
-        "title": "킴스클럽, 나주 '애플호박 햇고구마' 생산량 50% 확대",
-        "date": "2026-08-25 17:04",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316853"
-    },
-    {
-        "title": "34형 울트라와이드부터 27형 280Hz까지…레노버 리전 게이밍 모니터 라인...",
-        "date": "2026-08-25 17:00",
-        "link": "https://www.cnet.co.kr/view/?no=20260825165052"
-    },
-    {
-        "title": "삼육대, VR 물리치료 실습 교육 효과 입증…학습 만족도·기술 수용성↑",
-        "date": "2026-08-25 16:58",
-        "link": "https://www.kyosu.net/news/articleView.html?idxno=209265"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '통합 게이밍 생태계' 공개…기기 간 연결성 강화",
-        "date": "2026-08-25 16:56",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206841"
-    },
-    {
-        "title": "애플 차세대 아이패드 미니, OLED 품고 10월 출시 전망",
-        "date": "2026-08-25 16:54",
-        "link": "https://kbench.com/?q=node/281366"
-    },
-    {
-        "title": "삼성전자, 올해 애플 제치고 글로벌 스마트폰 출하량 1위 탈환 전망",
-        "date": "2026-08-25 16:48",
-        "link": "https://www.insight.co.kr/news/569977"
-    },
-    {
-        "title": "접는 아이폰 드디어 나오나…'아이폰18·폴더블' 내달 9일 공개할 듯",
-        "date": "2026-08-25 16:39",
-        "link": "https://n.news.naver.com/mnews/article/003/0014147459?sid=105"
-    },
-    {
-        "title": "컴투스 '제우스: 오만의 신', 출시 전 기대 ↑...애플 앱스토어 1위",
-        "date": "2026-08-25 16:38",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480381"
-    },
-    {
-        "title": "[Biz&amp;Law] '링케' 리어스, 美서 맥세이프 액세서리 특허침해 피소",
-        "date": "2026-08-25 16:38",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726783"
-    },
-    {
-        "title": "데이터 이동, QR로 한 번에…갤럭시 폴드8, 아이폰 환승 문턱 낮췄다",
-        "date": "2026-08-25 16:34",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=144263"
-    },
-    {
-        "title": "킴스클럽, '애플호박 햇고구마' 생산량 50% 늘렸다",
-        "date": "2026-08-25 16:32",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206818"
-    },
-    {
-        "title": "컴투스 '제우스: 오만의 신', 사전 다운로드 돌입...애플 인기 게임 1위...",
-        "date": "2026-08-25 16:30",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=307216"
-    },
-    {
-        "title": "KT서비스 노조 업무용 노트북 배상책임 직원에 전가[전문]",
-        "date": "2026-08-25 16:26",
-        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6588"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴 2026서 게이밍 풀패키지 전시",
-        "date": "2026-08-25 16:24",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399092"
-    },
-    {
-        "title": "아이폰18 프로, 180만원까지 뛸 줄 알았는데…실제론 14만원 인상?",
-        "date": "2026-08-25 16:24",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695389"
-    },
-    {
-        "title": "[비즈톡톡] 존 터너스 취임 앞둔 애플… 감원·가격인상·현금정책 재정...",
-        "date": "2026-08-25 16:15",
-        "link": "https://n.news.naver.com/mnews/article/366/0001188237?sid=105"
-    },
-    {
-        "title": "KT서비스, 반납 8개월 지난 업무용 노트북 파손됐으니 물어내라?…급...",
-        "date": "2026-08-25 16:10",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=542611"
-    },
-    {
-        "title": "'6시내고향' 밀양에서 자라는 애플망고, 달콤한 수확 현장 소개",
-        "date": "2026-08-25 16:06",
-        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=547197"
-    },
-    {
-        "title": "더 깎아줄 필요 없다… 삼성 파운드리 4나노 인상 속내는",
-        "date": "2026-08-25 16:04",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238925?sid=105"
-    },
-    {
-        "title": "애플 팀 쿡, 송별회서 동성 파트너 첫 언급…마이크도 왔어요",
-        "date": "2026-08-25 16:04",
-        "link": "https://n.news.naver.com/mnews/article/421/0009131870?sid=102"
-    },
-    {
-        "title": "삼성전자, 독일 '게임스컴 2026'서 게이밍 생태계 공개",
-        "date": "2026-08-25 15:58",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364166"
-    },
-    {
-        "title": "바이낸스 美거래소, 애플페이·구글페이로 코인 거래 허용",
-        "date": "2026-08-25 15:58",
-        "link": "https://n.news.naver.com/mnews/article/018/0006357773?sid=101"
-    },
-    {
-        "title": "삼성전자, 독일 ‘게임스컴’서 통합 게이밍 생태계 전략 선보인다",
-        "date": "2026-08-25 15:56",
-        "link": "https://www.socialvalue.kr/news/view/1065594829463402"
-    },
-    {
-        "title": "레노버, 리전 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 15:55",
-        "link": "https://n.news.naver.com/mnews/article/014/0005566179?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 ‘통합 게이밍 생태계’ 공개…PC·콘솔·모바일 ...",
-        "date": "2026-08-25 15:52",
-        "link": "https://www.todayeconomic.com/news/article.html?no=31856"
-    },
-    {
-        "title": "애플 첫 폴더블 아이폰, 초기 평가는 합격⋯카메라는 약점",
-        "date": "2026-08-25 15:50",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546860"
-    },
-    {
-        "title": "[TOP's Pick] [전자·IT] 삼성전자, '게임스컴 2026'서 통합 게이밍 생태...",
-        "date": "2026-08-25 15:50",
-        "link": "https://www.topdaily.kr/articles/111636"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 '애플호박 햇고구마' 생산량 50% 확대",
-        "date": "2026-08-25 15:32",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=88932"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026 출격…'게이밍 기기 풀패키지' 전시",
-        "date": "2026-08-25 15:31",
-        "link": "https://n.news.naver.com/mnews/article/079/0004182163?sid=101"
-    },
-    {
-        "title": "애플 iOS 27, 시리 전용 앱 탑재…메시지·캘린더도 AI로",
-        "date": "2026-08-25 15:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695356"
-    },
-    {
-        "title": "EU발 PFAS 규제 '발등의 불'...LGD, 올해 소형부터 퇴출",
-        "date": "2026-08-25 15:26",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=61300"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'게이밍 생태계 공개—6K 모니터·AI 폴더블폰",
-        "date": "2026-08-25 15:24",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600889"
-    },
-    {
-        "title": "“350만원짜리인데 왜 이래”…각종 기능 빠진 ‘폴더블 아이폰’",
-        "date": "2026-08-25 15:22",
-        "link": "https://n.news.naver.com/mnews/article/024/0000107782?sid=101"
-    },
-    {
-        "title": "반납 8개월 지난 업무용 노트북 파손 배상하라는 KT서비스",
-        "date": "2026-08-25 15:22",
-        "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=317926"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026' 참가···모니터부터 갤럭시까지 게이밍 생...",
-        "date": "2026-08-25 15:20",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462872"
-    },
-    {
-        "title": "킴스클럽, 전남 나주 '애플호박 햇고구마' 물량 50% 확대",
-        "date": "2026-08-25 15:18",
-        "link": "https://www.insight.co.kr/news/569987"
-    },
-    {
-        "title": "애플(AAPL) vs 어도비(ADBE), AI 격변기 실적 최종 승자는?",
-        "date": "2026-08-25 15:12",
-        "link": "http://coinreaders.com/254663"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴 출격...모바일·TV·SSD 아우른 게이밍 생태계...",
-        "date": "2026-08-25 15:10",
-        "link": "https://www.cwn.kr/news/articleView.html?idxno=54217"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 한국 PC방 연출…차세대 오디세이 모니터...",
-        "date": "2026-08-25 15:10",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120720"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 게이밍 생태계 총출동-2027년형 오디세이 ...",
-        "date": "2026-08-25 15:08",
-        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87851"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 '기기 연합군' 출격…6K 모니터부터 폴더블폰...",
-        "date": "2026-08-25 15:06",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357861"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 '풀스택 게이밍 생태계' 공개…모니터·TV·모...",
-        "date": "2026-08-25 15:00",
-        "link": "https://www.public25.com/news/articleView.html?idxno=53297"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026 참가...게이밍 모니터·갤럭시 아우른 통합 생...",
-        "date": "2026-08-25 15:00",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=307169"
-    },
-    {
-        "title": "[현장] 반납한 지 8개월인데 수리비 내라…KT서비스 노조, '노트북 임...",
-        "date": "2026-08-25 15:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130689"
-    },
-    {
-        "title": "코인베이스, 애플·엔비디아 주식 Base에 올렸다…24시간 온체인 거래 확...",
-        "date": "2026-08-25 14:58",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172967"
-    },
-    {
-        "title": "삼성전자, 독일 ‘게임스컴 2026’서 통합 게이밍 생태계 선보인다",
-        "date": "2026-08-25 14:55",
-        "link": "https://n.news.naver.com/mnews/article/243/0000102129?sid=105"
-    },
-    {
-        "title": "삼성 '세계 1위 탈환' 청신호…애플, 2000달러 '접는 아이폰'으로 격돌",
-        "date": "2026-08-25 14:52",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=316112"
-    },
-    {
-        "title": "컴투스 '제우스: 오만의 신', 출시 전 애플 앱스토어 인기 게임 1위",
-        "date": "2026-08-25 14:50",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156403"
-    },
-    {
-        "title": "애플 첫 폴더블 '아이폰 울트라' 윤곽…페이스ID·망원·맥세이프 빠지...",
-        "date": "2026-08-25 14:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695354"
-    },
-    {
-        "title": "삼성전자, 독일에 ‘한국 PC방’ 꾸렸다…게임스컴서 T1·오디세이 앞세...",
-        "date": "2026-08-25 14:42",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202608251411102860de3f0aa1be_7"
-    },
-    {
-        "title": "PC·콘솔·모바일 풀라인업 총출동…삼성전자, 쾰른서 2027년형 오디세이...",
-        "date": "2026-08-25 14:42",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1405802"
-    },
-    {
-        "title": "한국레노버, '리전' 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 14:41",
-        "link": "https://n.news.naver.com/mnews/article/030/0003460204?sid=105"
-    },
-    {
-        "title": "닥터블룸 '하루미감 애플사이다비니거', 美 시애틀 아시안 패밀리 마켓...",
-        "date": "2026-08-25 14:40",
-        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609580"
-    },
-    {
-        "title": "이랜드 킴스클럽, 나주 애플호박고구마 물량 50% 늘렸다…10년 산지 협업...",
-        "date": "2026-08-25 14:34",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156398"
-    },
-    {
-        "title": "2분기 동남아 스마트폰 시장 역성장… 삼성만 웃었다",
-        "date": "2026-08-25 14:26",
-        "link": "https://kbench.com/?q=node/281359"
-    },
-    {
-        "title": "물량 커지는 애플 OLED···지키는 삼성D vs 추격하는 LGD",
-        "date": "2026-08-25 14:24",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423277"
-    },
-    {
-        "title": "[체험기] 갤럭시Z 폴드8 울트라, 주름은 줄고 완성도는 늘고",
-        "date": "2026-08-25 14:20",
-        "link": "https://www.asiatime.co.kr/article/20260825500339"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴에서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 14:10",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4945084"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 ‘통합 게이밍 생태계’ 공개…기기 풀라인업 총...",
-        "date": "2026-08-25 14:06",
-        "link": "https://thetracker.co.kr/View.aspx?No=4198430"
-    },
-    {
-        "title": "아이폰20 프로 올글래스 디자인 윤곽…새 유출로 개발 진척",
-        "date": "2026-08-25 14:06",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695304"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 게이밍 기기 총출동…2027년형 오디세이 공개",
-        "date": "2026-08-25 14:04",
-        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241186"
-    },
-    {
-        "title": "애플 신제품 5종 출격 임박…가장 기대되는 제품은?",
-        "date": "2026-08-25 14:04",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695299"
-    },
-    {
-        "title": "한국 PC방이 쾰른에… 삼성전자, '게임스컴 2026'서 게이밍 풀스택 공...",
-        "date": "2026-08-25 14:02",
-        "link": "https://www.mediapen.com/news/view/1118659"
-    },
-    {
-        "title": "미래에셋증권 에스피지, 감속기 3종 풀라인업으로 로봇 부품시장 공략...",
-        "date": "2026-08-25 14:02",
-        "link": "https://www.irobotnews.com/news/articleView.html?idxno=48085"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 기기 생태계 공개",
-        "date": "2026-08-25 13:52",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=316100"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 애플호박 햇고구마 생산량 확대···고객 ...",
-        "date": "2026-08-25 13:52",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=236269"
-    },
-    {
-        "title": "구글 픽셀11, AI·카메라 진화…폴더블 완성도는 과제",
-        "date": "2026-08-25 13:52",
-        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102406"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 PC·모바일 아우르는 통합 게이밍 생태...",
-        "date": "2026-08-25 13:46",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=312611"
-    },
-    {
-        "title": "한국레노버 '리전' 게이밍 모니터 4종 출시, 34인치 울트라와인드부터 ...",
-        "date": "2026-08-25 13:44",
-        "link": "https://gamefocus.co.kr/detail.php?number=178522"
-    },
-    {
-        "title": "컴투스 신작 ‘제우스: 오만의 신’, 사전 다운로드 당일 애플 앱스토어...",
-        "date": "2026-08-25 13:29",
-        "link": "https://thetracker.co.kr/View.aspx?No=4198398"
-    },
-    {
-        "title": "팀 쿡, 애플 송별회서 동성 파트너 첫 언급…“마이크도 왔다”",
-        "date": "2026-08-25 13:28",
-        "link": "https://n.news.naver.com/mnews/article/020/0003743154?sid=101"
-    },
-    {
-        "title": "삼성, 스마트폰 불황 속 애플 제치고 1위 탈환 전망",
-        "date": "2026-08-25 13:24",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81617"
-    },
-    {
-        "title": "[미국 특징주] 애플, 맥 미니 데스크톱 신형 모델 조만간 출시",
-        "date": "2026-08-25 13:15",
-        "link": "https://www.newspim.com/news/view/20260825000622"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴에서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 13:14",
-        "link": "https://n.news.naver.com/mnews/article/082/0001395310?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '게이밍 풀스택' 승부수…2027년형 '오디세이' 공...",
-        "date": "2026-08-25 13:08",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=225666"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 선보인다",
-        "date": "2026-08-25 13:04",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032535"
-    },
-    {
-        "title": "킴스클럽, 나주 ‘애플호박 햇고구마’ 생산량 50% 확대…산지 직거래로...",
-        "date": "2026-08-25 13:04",
-        "link": "https://thetracker.co.kr/View.aspx?No=4198362"
-    },
-    {
-        "title": "너, 아이폰이냐…삼성 갤S27울트라에 '카메라섬' 포착",
-        "date": "2026-08-25 13:01",
-        "link": "https://n.news.naver.com/mnews/article/421/0009131231?sid=105"
-    },
-    {
-        "title": "삼성전자 제대로 작정했다…게임스컴서 2027년형 오디세이 첫 공개",
-        "date": "2026-08-25 12:56",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=112318"
-    },
-    {
-        "title": "왜곡 없는 원음…갤럭시 버즈4, 이어폰 명가 반열 올랐다",
-        "date": "2026-08-25 12:34",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=748773"
-    },
-    {
-        "title": "삼성, 애플 제치고 스마트폰 1위 탈환하나",
-        "date": "2026-08-25 12:10",
-        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102401"
-    },
-    {
-        "title": "애플, 개발자·일반 사용자용 iOS 27 최신 베타 버전 배포",
-        "date": "2026-08-25 11:54",
-        "link": "https://kbench.com/?q=node/281348"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 신제품 4종 출시",
-        "date": "2026-08-25 11:48",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434969?sid=105"
-    },
-    {
-        "title": "‘폴더블의 힘’ 삼성, 애플 제치고 세계 1위 전망",
-        "date": "2026-08-25 11:45",
-        "link": "https://n.news.naver.com/mnews/article/016/0002688108?sid=105"
-    },
-    {
-        "title": "LG디스플레이, 중국 TCL OLED 모니터 신제품에 패널 공급",
-        "date": "2026-08-25 11:42",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546846"
-    },
-    {
-        "title": "아이폰서 폴드8 ‘환승’, 스마트 스위치로 ‘뚝딱’…20개 항목 무선 전...",
-        "date": "2026-08-25 11:36",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065578268976804"
-    },
-    {
-        "title": "삼육대 VR 헤드셋 끼고 치료 실습… 삼육대, 1인칭 가상현실 효과 세계...",
-        "date": "2026-08-25 11:36",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128639"
-    },
-    {
-        "title": "삼육대 이용우 교수팀, 'VR 물리치료 교육' 효과 과학적 입증",
-        "date": "2026-08-25 11:36",
-        "link": "https://news.unn.net/news/articleView.html?idxno=596350"
-    },
-    {
-        "title": "레노버, 리전 게이밍 모니터 출시",
-        "date": "2026-08-25 11:36",
-        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406555"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 11:34",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859345"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 ‘애플호박 햇고구마’ 생산량 확대",
-        "date": "2026-08-25 11:32",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=90911"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 '통합 게이밍 생태계' 공개 ... 330평 규모 부스...",
-        "date": "2026-08-25 11:28",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88362"
-    },
-    {
-        "title": "삼성전자, '800억 달러' 게이밍 시장 정조준…게임스컴서 '풀스택 생태계...",
-        "date": "2026-08-25 11:28",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143499"
-    },
-    {
-        "title": "“한국 PC방 옮겨놨다”…삼성전자, 게임스컴서 ‘게이밍 생태계’ 선봬",
-        "date": "2026-08-25 11:26",
-        "link": "https://n.news.naver.com/mnews/article/666/0000120462?sid=101"
-    },
-    {
-        "title": "애플 폴더블폰 '아이폰 울트라' 메인보드 유출?",
-        "date": "2026-08-25 11:22",
-        "link": "https://kbench.com/?q=node/281347"
-    },
-    {
-        "title": "TCL, 옴디아 화질 평가 4개 항목 만점…SQD-Mini LED 기술력 입증",
-        "date": "2026-08-25 11:22",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202608251120363992204ead0791_12"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 통합 게이밍 생태계 전시",
-        "date": "2026-08-25 11:16",
-        "link": "http://www.lawissue.co.kr/view.php?ud=2026082511131930619817d053b9_12"
-    },
-    {
-        "title": "컴투스, '제우스: 오만의 신' 출시 전 애플 앱스토어 인기 1위",
-        "date": "2026-08-25 11:14",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=717919"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 '통합 게이밍 생태계' 공개",
-        "date": "2026-08-25 11:12",
-        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=21270"
-    },
-    {
-        "title": "컴투스 신작 MMORPG '제우스: 오만의 신' 사전 다운로드로 애플 앱스토어...",
-        "date": "2026-08-25 11:12",
-        "link": "https://gamefocus.co.kr/detail.php?number=178517"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 '풀스택 게이밍' 총공세…6K 모니터 첫 공개",
-        "date": "2026-08-25 11:10",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405974"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 게이밍 생태계 공개…6K 오디세이 첫선",
-        "date": "2026-08-25 11:10",
-        "link": "https://www.gpkorea.com/news/articleView.html?idxno=145989"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026서 '풀스택 게이밍' 공개",
-        "date": "2026-08-25 11:10",
-        "link": "https://sateconomy.co.kr/news/view/1065578763464503"
-    },
-    {
-        "title": "삼성전자 게임스컴2026 출격…통합 게이밍 생태계 소개",
-        "date": "2026-08-25 11:08",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=717891"
-    },
-    {
-        "title": "이랜드 킴스클럽, 나주 애플호박 햇고구마 생산량 50% 늘려",
-        "date": "2026-08-25 11:08",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202608251106082336204ead0791_12"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 6K·무안경 3D 모니터 공개",
-        "date": "2026-08-25 11:06",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000099120"
-    },
-    {
-        "title": "LG디스플레이, 빚 줄이다가 다시 차입금 늘린 까닭",
-        "date": "2026-08-25 11:04",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116835"
-    },
-    {
-        "title": "삼성전자, 게임스컴에 게이밍존 4개 연다",
-        "date": "2026-08-25 11:04",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663035"
-    },
-    {
-        "title": "삼성전자, ‘게임스컴 2026’서 모니터·TV·모바일 등 게이밍 풀라인업...",
-        "date": "2026-08-25 11:02",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=2026082509461181260ecbf9426b_23"
-    },
-    {
-        "title": "삼성전자, 통합 게이밍 생태계 펼친다..독일 게임스컴 참가",
-        "date": "2026-08-25 11:02",
-        "link": "https://kpenews.com/View.aspx?No=4197772"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 펼쳐",
-        "date": "2026-08-25 11:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006357573?sid=101"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 펼쳐…6K 모니터 첫...",
-        "date": "2026-08-25 11:02",
-        "link": "https://www.ajunews.com/view/20260825081705788"
-    },
-    {
-        "title": "'게임스컴 2026' 삼성전자 부스에 게이머 시선 쏠렸다",
-        "date": "2026-08-25 11:02",
-        "link": "https://www.insight.co.kr/news/569874"
-    },
-    {
-        "title": "삼성전자, 獨 ‘게임스컴 2026’서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:02",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608250035"
-    },
-    {
-        "title": "삼성전자, 독일 ‘게임스컴 2026’서 통합 게이밍 생태계 펼쳐",
-        "date": "2026-08-25 11:01",
-        "link": "https://n.news.naver.com/mnews/article/009/0005725409?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026 참가…모니터·모바일·SSD 총출동",
-        "date": "2026-08-25 11:01",
-        "link": "https://n.news.naver.com/mnews/article/119/0003125022?sid=101"
-    },
-    {
-        "title": "독일에 '삼성 PC방' 차렸다…게임스컴서 '풀스텍' 승부수",
-        "date": "2026-08-25 11:01",
-        "link": "https://n.news.naver.com/mnews/article/031/0001052143?sid=105"
-    },
-    {
-        "title": "삼성 게임스컴 '올킬'...모니터부터 SSD까지 총출동",
-        "date": "2026-08-25 11:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003460094?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 게이밍 풀패키지 띄운다…모니터부터 모바일까지...",
-        "date": "2026-08-25 11:00",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265925"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130655"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 PC·콘솔·모바일 아우르는 게이밍 생태계 공...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207059"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 게이밍 풀스택 승부…세계 최초 6K·2027년형...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=542368"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '게이밍 풀스택' 승부수 … 6K 모니터·폴더블 출...",
-        "date": "2026-08-25 11:00",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500075.html"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 선보여",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252439"
-    },
-    {
-        "title": "삼성전자, 글로벌 게임 전시회서 '게이밍 풀패키지' 선보인다",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.g-enews.com/view.php?ud=20260825084148958927fa31d75c_1"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴 2026서 '통합 게이밍 생태계' 선보인다",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=236226"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴' 10년째 참가…게이밍 풀패키지 선뵌다",
-        "date": "2026-08-25 11:00",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=210771"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 ‘게이밍 풀패키지’ 선보인다…T1 체험존도 ...",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/468/0001261813?sid=105"
-    },
-    {
-        "title": "삼성전자, 독일 ‘게임스컴 2026’서 게이밍 기기 총 망라",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=90878"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '풀스택 게이밍' 승부",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418444"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 게이밍 풀스택 공개…기기 경계 허문다",
-        "date": "2026-08-25 11:00",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2116810"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 PC∙콘솔∙모바일 통합게이밍 생태계 과...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851382"
-    },
-    {
-        "title": "삼성전자, 獨 '게임스컴 2026'서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443282"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '게이밍 풀스택' 공개…PC·콘솔·모바일 잇는다",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000529189?sid=101"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 '통합 게이밍 생태계' 넓힌다…PC·콘솔·모바...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5956"
-    },
-    {
-        "title": "삼성전자, ‘게임스컴 2026’서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/117/0004097885?sid=105"
-    },
-    {
-        "title": "삼성전자, 게임스컴 2026 참가...게이밍 기기 풀패키지 전시",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480222"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721500"
-    },
-    {
-        "title": "삼성전자, 게임스컴에 330평 규모 전시장… 오디세이·갤럭시·SSD 총출동",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/366/0001188139?sid=105"
-    },
-    {
-        "title": "삼성, 독일에 차린 한국 PC방…게임스컴서 게이밍 생태계 선보여",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404271?sid=101"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '게이밍 풀스택' 승부…6K 모니터부터 폴더블까지",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134039"
-    },
-    {
-        "title": "삼성전자, 독일 게임스컴서 게이밍 기기 전시",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308973"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 '풀스택 게이밍' 승부",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=636339"
-    },
-    {
-        "title": "삼성전자, 독일서 PC·콘솔·모바일 통합 게임용 생태계 선보인다",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0009130890?sid=101"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 최첨단 게이밍 풀스택 생태계 전격 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=477851"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 통합 게이밍 생태계 공개…PC방도 재현",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.etoday.co.kr/news/view/2617730"
-    },
-    {
-        "title": "삼성전자, 獨 게임스컴서 6K 모니터·모바일 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271882"
-    },
-    {
-        "title": "삼성전자, 게임스컴서 모니터·모바일·SSD 아우르는 게이밍 생태계 공...",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259779"
-    },
-    {
-        "title": "K-PC방으로 변신한 부스?…삼성, 독일 '게임스컴 2026' 서 게이밍 생태계...",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238871?sid=105"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 통합 게이밍 생태계 공개",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434964?sid=105"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 PC·콘솔·모바일 잇는 통합 게이밍 생태계...",
-        "date": "2026-08-25 11:00",
-        "link": "https://n.news.naver.com/mnews/article/277/0005806967?sid=101"
-    },
-    {
-        "title": "스마트터치, 특허기술 탑재 ‘STH-86QLED’ 조달 혁신제품 지정 완료",
-        "date": "2026-08-25 11:00",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=2026082510512088799aeda69934_7"
-    },
-    {
-        "title": "한국레노버, 리전 게이밍 모니터 4종 선보여…240Hz 이상 고주사율 지원",
-        "date": "2026-08-25 10:58",
-        "link": "http://www.lawissue.co.kr/view.php?ud=20260825105242986204ead0791_12"
-    },
-    {
-        "title": "[뉴템] 한국레노버, 240Hz 고주사율 리전 커브드 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 10:56",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238864?sid=105"
-    },
-    {
-        "title": "제우스: 오만의 신, 사전 다운로드 애플 앱스토어 인기 1위",
-        "date": "2026-08-25 10:54",
-        "link": "https://www.betanews.net/article/view/beta202608250026"
-    },
-    {
-        "title": "아이폰서 갤럭시로 '환승' 쉬워졌다…삼성, 데이터 장벽 낮춘다",
-        "date": "2026-08-25 10:50",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168767"
-    },
-    {
-        "title": "킴스클럽, '애플호박 햇고구마' 물량 50% 확대…산지 직거래로 가격 낮...",
-        "date": "2026-08-25 10:50",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128623"
-    },
-    {
-        "title": "한국레노버, 240Hz 이상 커브드 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 10:47",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404252?sid=105"
-    },
-    {
-        "title": "한·유럽 디스플레이 석학들, 송도서 '기술 난제' 끝장토론",
-        "date": "2026-08-25 10:44",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721544"
-    },
-    {
-        "title": "TCL, 옴디아 화질 평가서 4개 부문 만점…SQD-미니 LED 기술력 입증",
-        "date": "2026-08-25 10:44",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238858?sid=105"
-    },
-    {
-        "title": "아이폰서 갤럭시 폴드8 갈아타기 쉬워졌다…삼성전자, QR 한번에 '데이터...",
-        "date": "2026-08-25 10:40",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=542453"
-    },
-    {
-        "title": "한국레노버, 커브드 디스플레이 탑재 리전 게이밍 모니터 4종 출시",
-        "date": "2026-08-25 10:40",
-        "link": "https://www.thisisgame.com/articles/429253"
-    },
-    {
-        "title": "삼성전자, '풀스택 게이밍' 공개…PC·콘솔·모바일 연결",
-        "date": "2026-08-25 10:40",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276338"
-    },
-    {
-        "title": "갤S27 울트라 확 바뀌나…'아이폰 닮은' 가로형 카메라 탑재할 듯",
-        "date": "2026-08-25 10:40",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=299973"
-    },
-    {
-        "title": "한국탄소나노산업협회, 배터리·나노소자 실습형 인재 키운다",
-        "date": "2026-08-25 10:39",
-        "link": "https://n.news.naver.com/mnews/article/030/0003460082?sid=105"
-    },
-    {
-        "title": "킴스클럽, 전남 나주 '애플호박 햇고구마' 생산량 50% 확대",
-        "date": "2026-08-25 10:34",
-        "link": "https://n.news.naver.com/mnews/article/215/0001263500?sid=103"
-    },
-    {
-        "title": "휴대성은 굿, 카메라는 아쉽다... 사전 체험으로 본 애플 첫 폴더블폰",
-        "date": "2026-08-25 10:32",
-        "link": "https://www.insight.co.kr/news/569882"
-    },
-    {
-        "title": "삼육대 이용우 교수팀, 'VR 물리치료 교육' 효과 과학적 입증",
-        "date": "2026-08-25 10:32",
-        "link": "https://edu.donga.com/news/articleView.html?idxno=111213"
-    },
-    {
-        "title": "컴투스 신작 '제우스: 오만의 신', 사전 다운로드 당일 애플 앱스토어 ...",
-        "date": "2026-08-25 10:32",
-        "link": "https://www.thisisgame.com/articles/429252"
-    },
-    {
-        "title": "애플 떠나는 팀쿡, 송별회서 동성 파트너 언급",
-        "date": "2026-08-25 10:30",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=542436"
-    },
-    {
-        "title": "'산지 직거래' 힘주는 킴스클럽, '애플호박 햇고구마' 물량 50% 늘렸다",
-        "date": "2026-08-25 10:30",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462626"
-    },
-    {
-        "title": "팀 쿡 애플 퇴임 전 송별행사에 동성연인 참석",
-        "date": "2026-08-25 10:30",
-        "link": "https://n.news.naver.com/mnews/article/654/0000196842?sid=104"
-    },
-    {
-        "title": "컴투스 '제우스: 오만의 신', 출시 전 애플 앱스토어 인기 1위",
-        "date": "2026-08-25 10:29",
-        "link": "https://n.news.naver.com/mnews/article/003/0014145981?sid=105"
-    },
-    {
-        "title": "세계 최초 6K 모니터 들고 나온 삼성…쾰른서 게이밍 생태계 총출동",
-        "date": "2026-08-25 10:28",
-        "link": "https://www.ekn.kr/web/view.php?key=20260825028076104"
-    },
-    {
-        "title": "QR 스캔 한번에 끝…아이폰서 '갤폴드8' 갈아타기 더 쉬워졌다",
-        "date": "2026-08-25 10:28",
-        "link": "https://n.news.naver.com/mnews/article/018/0006357547?sid=105"
-    },
-    {
-        "title": "킴스클럽, 애플호박 햇고구마 물량 확대...산지 직거래 강화",
-        "date": "2026-08-25 10:28",
-        "link": "https://hbnpress.com/news/view/1065576158538039"
-    },
-    {
-        "title": "이통 3사, '가성비 스마트폰' 앞세워 가입자 유치 경쟁",
-        "date": "2026-08-25 10:24",
-        "link": "https://www.asiatime.co.kr/article/20260825500086"
-    },
-    {
-        "title": "이랜드 킴스클럽, 나주 '애플호박 햇고구마' 생산량 50% 늘려",
-        "date": "2026-08-25 10:24",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4945074"
-    },
-    {
-        "title": "컴투스, 신작 '제우스: 오만의 신' 애플 앱스토어 인기 1위",
-        "date": "2026-08-25 10:21",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434957?sid=105"
-    },
-    {
-        "title": "애플 '에어팟'에 카메라 탑재되나",
-        "date": "2026-08-25 10:20",
-        "link": "https://www.todayeconomic.com/news/article.html?no=31846"
-    },
-    {
-        "title": "킴스클럽, '애플호박 햇고구마' 생산량 전년比 50% 이상 확대",
-        "date": "2026-08-25 10:16",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252452"
-    },
-    {
-        "title": "[데이터 뉴스룸] 전자업체 50곳 중 삼전닉스 제외한 올 상반기 매출 성...",
-        "date": "2026-08-25 10:15",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=348331"
-    },
-    {
-        "title": "中 샤오미, TSMC 3나노 공정 기반 독자 AP 'Xring O3' 공개",
-        "date": "2026-08-25 10:02",
-        "link": "https://www.g-enews.com/view.php?ud=202608242056361483fda4f5ab74_1"
-    },
-    {
-        "title": "'스마트폰 값' 못 올리는 삼성…마진보다 출하량·점유율",
-        "date": "2026-08-25 10:02",
-        "link": "https://dealsite.co.kr/articles/167739"
-    },
-    {
-        "title": "완벽한 비밀주의에 균열, 애플은 왜 스스로 발목을 잡나",
-        "date": "2026-08-25 10:02",
-        "link": "https://www.itworld.co.kr/article/4213305/완벽한-비밀주의에-균열-애플은-왜-스스로-발목을-잡.html"
-    },
-    {
-        "title": "제이웍스, 'T1 베이스캠프 홍대' 전 좌석에 '체리 MX 8.2 PRO TMR 8K' 키보...",
-        "date": "2026-08-25 10:02",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60429"
-    },
-    {
-        "title": "킴스클럽, '애플호박 햇고구마' 생산량 50% 늘리고 가격은 20~30% 낮췄다",
-        "date": "2026-08-25 10:02",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480289"
-    },
-    {
-        "title": "삼육대 이용우 교수 연구팀, 'VR 물리치료 교육' 실효성 과학적 입증",
-        "date": "2026-08-25 10:02",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130670"
-    },
-    {
-        "title": "20단 이상 HBM4E·HBM5, 하이브리드 본딩 본격화",
-        "date": "2026-08-25 10:02",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2116807"
-    },
-    {
-        "title": "삼성전자, '게임스컴 2026'서 통합 게이밍 생태계 제시",
-        "date": "2026-08-25 10:00",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124100"
-    },
-    {
-        "title": "아이폰 이용자 다수, '갤럭시 Z 폴드8'로 기기 변경...이유는",
-        "date": "2026-08-25 09:58",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87659"
-    },
-    {
-        "title": "갤럭시A55 새 옷 입는다.. 삼성 서버서 One UI 9 베타 펌웨어 발견",
-        "date": "2026-08-25 09:58",
-        "link": "https://kbench.com/?q=node/281339"
-    },
-    {
-        "title": "삼육대 이용우 교수팀 국내 최초 VR 물리치료 교육 효과 입증.. 국제학술...",
-        "date": "2026-08-25 09:50",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=624370"
-    },
-    {
-        "title": "中 TCL 미니LED TV, 옴디아 화질 평가 4개 항목 만점",
-        "date": "2026-08-25 09:49",
-        "link": "https://n.news.naver.com/mnews/article/366/0001188107?sid=105"
-    },
-    {
-        "title": "엔비디아 ‘그록3’ 본격 출격…삼성 파운드리, 수익성 개선 가시화 [비...",
-        "date": "2026-08-25 09:45",
-        "link": "https://n.news.naver.com/mnews/article/016/0002687924?sid=101"
-    },
-    {
-        "title": "데이터 초기 세팅 쉬워졌다…삼성, '스마트 스위치' 통해 이용자 확보...",
-        "date": "2026-08-25 09:42",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054442"
-    },
-    {
-        "title": "킴스클럽, 나주 애플호박고구마 생산량 50% 확대",
-        "date": "2026-08-25 09:38",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86018"
-    },
-    {
-        "title": "아이폰 데이터 고민 끝… 갤Z 폴드8 환승 돕는 삼성 '스마트 스위치'",
-        "date": "2026-08-25 09:36",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=116808"
-    },
-    {
-        "title": "삼성전자, 세계 최대 게임 전시회서 게이밍 모니터·포터블 SSD 신제품 ...",
-        "date": "2026-08-25 09:35",
-        "link": "https://n.news.naver.com/mnews/article/016/0002687909?sid=101"
-    },
-    {
-        "title": "이랜드 킴스클럽 “나주 애플호박 햇고구마, 생산량 50% 확대”",
-        "date": "2026-08-25 09:30",
-        "link": "https://n.news.naver.com/mnews/article/016/0002687904?sid=101"
-    },
-    {
-        "title": "[유통소식]이랜드 킴스클럽, 전남 나주 '애플호박 햇고구마' 생산량 50%...",
-        "date": "2026-08-25 09:30",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276197"
-    },
-    {
-        "title": "아이폰 데이터 이동 문제 해결…삼성전자, 갤럭시 '환승 장벽' 낮췄다",
-        "date": "2026-08-25 09:28",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423708"
-    },
-    {
-        "title": "삼성전자, 글로벌 스마트폰 1위 탈환 눈앞...애플은 2.1%↓ 전망",
-        "date": "2026-08-25 09:25",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=306982"
-    },
-    {
-        "title": "삼성SDI, 삼성디스플레이 지분 '4.5조원' 처분...북미 ESS 증설 투자",
-        "date": "2026-08-25 09:24",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80669"
-    },
-    {
-        "title": "[디지털포스트 모닝픽] 텐센트-방준혁 '윈-윈' … 3740억 회수, 38% 지분...",
-        "date": "2026-08-25 09:20",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60424"
-    },
-    {
-        "title": "Chinese OLEDs lose ground as TCL, ASUS opt for Korean panels",
-        "date": "2026-08-25 09:18",
-        "link": "https://n.news.naver.com/mnews/article/009/0005725314?sid=104"
-    },
-    {
-        "title": "킴스클럽, '애플호박 햇고구마' 생산량 50% 확대...산지 직거래로 가격...",
-        "date": "2026-08-25 09:16",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130654"
-    },
-    {
-        "title": "이랜드 킴스클럽, 전남 나주 ‘애플호박 햇고구마’ 생산량 50%↑",
-        "date": "2026-08-25 09:12",
-        "link": "https://www.g-enews.com/view.php?ud=202608250910094498a96f092d0c_1"
-    },
-    {
-        "title": "서울반도체, 파트론 상대 美특허소송 제기...삼성 갤럭시 LED 대상",
-        "date": "2026-08-25 09:01",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434913?sid=105"
-    },
-    {
-        "title": "아이폰에서 폴드8로 '환승', QR 한 번이면 끝…데이터 걱정 사라졌다",
-        "date": "2026-08-25 09:00",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63330"
-    },
-    {
-        "title": "스마트폰 한파에도 삼성은 웃는다…애플 제치고 세계 1위 탈환 전망",
-        "date": "2026-08-25 08:34",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404117?sid=105"
-    },
-    {
-        "title": "애플, 첫 폴더블폰 9월 공개…초고가에도 망원·페이스ID 빠지나",
-        "date": "2026-08-25 08:30",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608250004"
-    },
-    {
-        "title": "역대급 곡면 디자인…20주년 아이폰, 아이폰 에어 닮을까",
-        "date": "2026-08-25 08:30",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434903?sid=105"
-    },
-    {
-        "title": "애플, '내달 1일 퇴임' 팀 쿡 환송회…어느덧 취임 15주년[모닝폰]",
-        "date": "2026-08-25 08:24",
-        "link": "https://n.news.naver.com/mnews/article/018/0006357428?sid=105"
-    },
-    {
-        "title": "폴드8 닮은 샤오미 폰 나온다…'업계 최초 LPDDR6' 자체칩 승부수 [IT썰]",
-        "date": "2026-08-25 08:09",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404109?sid=105"
-    },
-    {
-        "title": "CXMT, 범용 DRAM 증산 가속…韓 위협 'LCD 전략' 재현",
-        "date": "2026-08-25 08:02",
-        "link": "https://dealsite.co.kr/articles/167721"
-    },
-    {
-        "title": "2000달러 폴더블 아이폰…삼성보다 화웨이와 먼저 붙는다",
-        "date": "2026-08-25 07:30",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168724"
-    },
-    {
-        "title": "AI 타고 날아오른 AR(증강현실) 글라스, VR 시장도 추월한다",
-        "date": "2026-08-25 07:30",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994733?sid=105"
-    },
-    {
-        "title": "삼성 OLED 품은 페라리 첫 전기차…‘루체’ 국내 첫선[여車저車]",
-        "date": "2026-08-25 07:26",
-        "link": "https://n.news.naver.com/mnews/article/016/0002687820?sid=101"
-    },
-    {
-        "title": "삼성, 올해 글로벌 스마트폰 출하량 1위 전망…애플 제치고 선두 탈환",
-        "date": "2026-08-25 07:00",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600683"
-    },
-    {
-        "title": "LG디스플레이 시설 투자 2조 원대로 확대, 재무건전성 확보에도 총력",
-        "date": "2026-08-25 07:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=130615"
     }
 ]
