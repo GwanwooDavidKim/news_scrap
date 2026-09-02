@@ -1,5 +1,850 @@
 [
     {
+        "title": "루멘스, 양영학 대표 체제 출범…마이크로 LED 사업화 본격화",
+        "date": "2026-09-02 16:58",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1402068"
+    },
+    {
+        "title": "삼성전자, IFA 2026 단독 전시관 운영...'AI 리빙' 경험 제시",
+        "date": "2026-09-02 16:44",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364692"
+    },
+    {
+        "title": "삼성디스플레이, A6 4.1조 이어 A7 6500억 시동…67조로 OLED '다음 시장...",
+        "date": "2026-09-02 16:37",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=100063"
+    },
+    {
+        "title": "자사주 매입의 마법, 애플과 텔레다인이 증명한 것",
+        "date": "2026-09-02 16:36",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=16590"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 차세대 디스플레이·AI 가전 총출동",
+        "date": "2026-09-02 16:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600129"
+    },
+    {
+        "title": "中 TCL, 삼성전자에 미니LED TV 허위광고 소송",
+        "date": "2026-09-02 16:30",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61708"
+    },
+    {
+        "title": "피지컬 AI가 바꿀 제조 현장은…애플 제조업 R&amp;D 지원센터, 스마트 제조...",
+        "date": "2026-09-02 16:28",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=719603"
+    },
+    {
+        "title": "삼성전자, IFA 2026 참가…'AI 리빙' 경험 공개",
+        "date": "2026-09-02 16:28",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597940583873"
+    },
+    {
+        "title": "삼성전자, IFA서 TV·가전·모바일 잇는다…'AI 리빙' 전면에",
+        "date": "2026-09-02 16:26",
+        "link": "https://www.mediapen.com/news/view/1120778"
+    },
+    {
+        "title": "中 추격 거세지자 먼저 뛴다…K-디스플레이 '투자 시계' 재가동",
+        "date": "2026-09-02 16:24",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317669"
+    },
+    {
+        "title": "우수 국방 기술 보유했는데...단기 유동성 위기 도움 줘야",
+        "date": "2026-09-02 16:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006362504?sid=101"
+    },
+    {
+        "title": "삼성전자, 유럽 하늘에 ‘AI 리빙’ 펼친다…'IFA 2026'서 신기술 공개",
+        "date": "2026-09-02 16:16",
+        "link": "https://www.socialvalue.kr/news/view/1065593118245077"
+    },
+    {
+        "title": "OLED 번인, 당장 걱정할 필요 없다…수명 늘리는 습관 총정리",
+        "date": "2026-09-02 16:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697683"
+    },
+    {
+        "title": "삼성전자, 'AI 리빙' 혁신 경험으로 유럽 IFA 2026서 주목받아",
+        "date": "2026-09-02 16:04",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105883"
+    },
+    {
+        "title": "삼성·LG, IFA 2026서 'AI 홈' 영토 넓힌다",
+        "date": "2026-09-02 16:04",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=746182"
+    },
+    {
+        "title": "[IFA 2026] 삼성전자, IFA 2026서 ‘AI 리빙’ 제시…TV·가전·모바일 연...",
+        "date": "2026-09-02 15:54",
+        "link": "https://dealsite.co.kr/articles/168287"
+    },
+    {
+        "title": "삼성전자, IFA서 'AI 리빙' 공개…TV·가전·모바일 연결",
+        "date": "2026-09-02 15:54",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358315"
+    },
+    {
+        "title": "3대 메가프로젝트 가장 빠른 아산… 삼성디스플레이 67조 투자",
+        "date": "2026-09-02 15:52",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=727236"
+    },
+    {
+        "title": "삼성전자, IFA 2026 앞서 '당신의 AI 일상 동반자' 단독 체험관 오픈",
+        "date": "2026-09-02 15:48",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121210"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 ‘AI 리빙’ 공개…가전 넘어 일상 전반으로",
+        "date": "2026-09-02 15:48",
+        "link": "https://www.todayeconomic.com/news/article.html?no=31962"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 ‘당신의 AI 일상 동반자’ 제시… 가전·모바일 ...",
+        "date": "2026-09-02 15:48",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026090215383169687de3572ddd_18"
+    },
+    {
+        "title": "충청권 '202조 투자' 첫발…삼성디스플레이, 아산에 67조원 쏟는다",
+        "date": "2026-09-02 15:44",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=84086"
+    },
+    {
+        "title": "삼성전자, TV·가전·갤럭시 한데 묶었다…IFA 2026서 ‘AI 리빙’ 공개",
+        "date": "2026-09-02 15:44",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202609021542201188de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 독일 베를린의 'IFA 2026'서 AI 리빙 경험 선보여",
+        "date": "2026-09-02 15:36",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=909940"
+    },
+    {
+        "title": "삼성전자, IFA서 TV·가전·갤럭시 AI 제품 공개",
+        "date": "2026-09-02 15:36",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000099442"
+    },
+    {
+        "title": "로아앤코그룹, 루멘스 인수 마무리…Micro LED 사업 본격화",
+        "date": "2026-09-02 15:26",
+        "link": "https://dealsite.co.kr/articles/168303"
+    },
+    {
+        "title": "오픈AI, 애플 소송에 정면 반박...허술한 퇴직자 관리가 자초한 문제",
+        "date": "2026-09-02 15:18",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214742"
+    },
+    {
+        "title": "구글 이어 애플도 트럼프 전화에…온타리오호→아메리카호",
+        "date": "2026-09-02 15:16",
+        "link": "https://n.news.naver.com/mnews/article/629/0000530024?sid=105"
+    },
+    {
+        "title": "'이직 천국' 캘리포니아...애플·오픈AI, 설계도 두고 법정 공방",
+        "date": "2026-09-02 15:16",
+        "link": "https://n.news.naver.com/mnews/article/050/0000110389?sid=101"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, ‘피지컬 AI’로 제조업 미래 조망",
+        "date": "2026-09-02 15:14",
+        "link": "https://n.news.naver.com/mnews/article/119/0003128295?sid=105"
+    },
+    {
+        "title": "삼성D·LGD, OLED 신기술 투자 시동…AI 디스플레이 주도권 경쟁",
+        "date": "2026-09-02 15:10",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1401946"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…가전·모바일 연결",
+        "date": "2026-09-02 15:02",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=716358"
+    },
+    {
+        "title": "“애플 회로 설계도 빼돌렸다”… 애플·오픈AI 법정 공방",
+        "date": "2026-09-02 14:57",
+        "link": "https://n.news.naver.com/mnews/article/366/0001189951?sid=105"
+    },
+    {
+        "title": "루멘스, 양영학 신임 대표이사 체제 출범",
+        "date": "2026-09-02 14:52",
+        "link": "https://www.newspim.com/news/view/20260902000863"
+    },
+    {
+        "title": "애플-오픈AI, 영업비밀 유출 의혹 놓고 정면충돌…마녀사냥 vs 기밀 절...",
+        "date": "2026-09-02 14:50",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=300512"
+    },
+    {
+        "title": "애플 오픈AI, 이직자에게 영업비밀 훔쳐…오픈AI 불법 아냐",
+        "date": "2026-09-02 14:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0014164406?sid=104"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 ‘AI 리빙’ 선보여…TV·가전·모바일 연결성 강...",
+        "date": "2026-09-02 14:35",
+        "link": "https://n.news.naver.com/mnews/article/243/0000102529?sid=101"
+    },
+    {
+        "title": "구글·오포·비보도 '듀얼 UTG' 폴더블폰 내놓는다",
+        "date": "2026-09-02 14:28",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61687"
+    },
+    {
+        "title": "존 터너스 애플 신임 CEO 출사표… 경이로운 차세대 혁신 보여줄 것",
+        "date": "2026-09-02 14:26",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214738"
+    },
+    {
+        "title": "애플·오픈AI, 회로 설계도 공방 격화…AI 하드웨어 주도권 충돌",
+        "date": "2026-09-02 14:18",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93488"
+    },
+    {
+        "title": "삼성전자, 유럽 최대 가전 전시서 'AI 리빙' 공개…가전 넘어 생활 서비...",
+        "date": "2026-09-02 14:10",
+        "link": "http://www.metroseoul.co.kr/article/20260902500283"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…갤럭시 S26 FE·폴드8 총출동",
+        "date": "2026-09-02 14:07",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=112491"
+    },
+    {
+        "title": "[미국 특징주] '폭스 피인수' 로쿠, 첫 자체 브랜드 OLED TV 공개",
+        "date": "2026-09-02 14:05",
+        "link": "https://www.newspim.com/news/view/20260902000792"
+    },
+    {
+        "title": "애플워치 시리즈12, 새 칩부터 세라믹까지…다음 주 공개될 변화 3가지",
+        "date": "2026-09-02 14:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697594"
+    },
+    {
+        "title": "애플 지도도 '아메리카호'…온타리오호 명칭 변경",
+        "date": "2026-09-02 13:59",
+        "link": "https://n.news.naver.com/mnews/article/031/0001054688?sid=104"
+    },
+    {
+        "title": "애플 오픈AI 이직자, 설계도 빼가 vs 오픈AI 애플의 관리문제",
+        "date": "2026-09-02 13:52",
+        "link": "https://n.news.naver.com/mnews/article/014/0005569960?sid=101"
+    },
+    {
+        "title": "삼성전자, 유럽 최대 가전 전시회 ‘IFA 2026’에서 ‘AI 리빙’ 경험 선...",
+        "date": "2026-09-02 13:50",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=91317"
+    },
+    {
+        "title": "'IFA 2026' 삼성전자, 인간 중심 AI 라이프 제시",
+        "date": "2026-09-02 13:46",
+        "link": "https://www.meconomynews.com/news/articleView.html?idxno=201126"
+    },
+    {
+        "title": "갤럭시 Z 폴드8, 日서 초반 흥행…첫주 판매 전작比 1.2배",
+        "date": "2026-09-02 13:40",
+        "link": "https://www.newspim.com/news/view/20260902000737"
+    },
+    {
+        "title": "시총 3500억달러→5조달러… 팀 쿡, 애플 CEO서 15년 만에 물러났다",
+        "date": "2026-09-02 13:26",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=317242"
+    },
+    {
+        "title": "구글 이어 애플도…트럼프 명령에 '온타리오호'→'아메리카호'",
+        "date": "2026-09-02 13:24",
+        "link": "https://n.news.naver.com/mnews/article/422/0000902007?sid=104"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 경험 선봬",
+        "date": "2026-09-02 13:18",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61670"
+    },
+    {
+        "title": "“애플 사랑 변하지 않을 것”…팀 쿡, 애플 CEO 물러나도 보수 650억원...",
+        "date": "2026-09-02 13:14",
+        "link": "https://n.news.naver.com/mnews/article/016/0002691850?sid=104"
+    },
+    {
+        "title": "구글 이어 애플도 온타리오호→아메리카호로 지도 표기 변경",
+        "date": "2026-09-02 13:07",
+        "link": "https://n.news.naver.com/mnews/article/003/0014164125?sid=104"
+    },
+    {
+        "title": "삼성전자, IFA2026서 'AI 리빙' 생태계 선봬",
+        "date": "2026-09-02 12:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697595"
+    },
+    {
+        "title": "삼성전자, 독일서 'IFA 2026' 단독 전시관 오픈…'AI 리빙' 강조",
+        "date": "2026-09-02 12:50",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=168943"
+    },
+    {
+        "title": "티얀마까지 양산 대열에…中 'BT.2020 색역' PSF OLED 도입 속도",
+        "date": "2026-09-02 12:43",
+        "link": "https://n.news.naver.com/mnews/article/030/0003462756?sid=105"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 일상을 혁신하는 'AI 리빙' 경험 선보여",
+        "date": "2026-09-02 12:34",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033355"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…일상 속 AI 경험 확대",
+        "date": "2026-09-02 12:24",
+        "link": "https://www.public25.com/news/articleView.html?idxno=53896"
+    },
+    {
+        "title": "취임 8일 만에 '폴더블 아이폰' 무대…존 터너스가 증명해야 할 애플의...",
+        "date": "2026-09-02 12:00",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241348"
+    },
+    {
+        "title": "아이폰18 프로, 색상 싹 바뀐다…실버 빠지고 '다크 체리' 등장?",
+        "date": "2026-09-02 11:52",
+        "link": "https://kbench.com/?q=node/281574"
+    },
+    {
+        "title": "[IFA 2026] 삼성전자, 'AI 리빙' 청사진 제시…TV·가전·모바일 연결성 ...",
+        "date": "2026-09-02 11:46",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=94593"
+    },
+    {
+        "title": "아이폰 울트라, 맥세이프 지원하나…첫 폴더블 사양 윤곽",
+        "date": "2026-09-02 11:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600097"
+    },
+    {
+        "title": "팀 쿡 떠난 애플, 터너스 시대 개막…'폴더블폰·AI' 시험대",
+        "date": "2026-09-02 11:34",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=746127"
+    },
+    {
+        "title": "연결을 넘어 일상으로…삼성전자, IFA 2026서 '인간 중심 AI 리빙' 승부...",
+        "date": "2026-09-02 11:34",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85357"
+    },
+    {
+        "title": "삼성전자, IFA 2026 베를린서 'AI 일상 동반자' 전시관 운영…비스포크 ...",
+        "date": "2026-09-02 11:32",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=603027"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…가전·모바일 연결",
+        "date": "2026-09-02 11:28",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=763068"
+    },
+    {
+        "title": "존 터너스 애플 신임 CEO, 첫 메모서 '대형 출시' 예고",
+        "date": "2026-09-02 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697582"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 제시…일상 동반자 경험 확대",
+        "date": "2026-09-02 11:18",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=131580"
+    },
+    {
+        "title": "애플 새 수장 터너스 연봉 800억…첫 시험대는 '폴더블 아이폰'",
+        "date": "2026-09-02 11:11",
+        "link": "https://n.news.naver.com/mnews/article/421/0009146051?sid=104"
+    },
+    {
+        "title": "삼성전자, 'AI 홈' 넘어 'AI 리빙'으로…IFA 2026서 미래 일상 제시",
+        "date": "2026-09-02 11:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406384"
+    },
+    {
+        "title": "AI품은 가전·엔터테인먼트·헬스케어...삼성전자, 일상 속 AI 공개",
+        "date": "2026-09-02 11:10",
+        "link": "https://n.news.naver.com/mnews/article/014/0005569869?sid=105"
+    },
+    {
+        "title": "삼성전자, IFA 단독 전시관 오픈…“AI 리빙으로 일상 혁신”",
+        "date": "2026-09-02 11:08",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1312256&inflow=N"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 일상을 혁신하는 ‘AI 리빙’ 경험 선보여",
+        "date": "2026-09-02 11:08",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026090210571031490ecbf9426b_23"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 ‘AI 리빙’ 공개…가전 넘어 일상 전반 연결",
+        "date": "2026-09-02 11:06",
+        "link": "https://sateconomy.co.kr/news/view/1065578470400220"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…TV·가전·모바일 연결",
+        "date": "2026-09-02 11:06",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=146288"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개 … 가전·모바일 일상 바꾼다",
+        "date": "2026-09-02 11:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200061.html"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 청사진 공개",
+        "date": "2026-09-02 11:02",
+        "link": "https://www.asiatime.co.kr/article/20260831500439"
+    },
+    {
+        "title": "“볼거리 고르고 식재료·전력 관리까지”…삼성, IFA서 ‘AI 리빙’ 공...",
+        "date": "2026-09-02 11:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006362276?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA2026서 'AI 리빙' 선보여…TV·가전·모바일 하나로 잇는다",
+        "date": "2026-09-02 11:02",
+        "link": "https://www.ajunews.com/view/20260902084124530"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 경험 제시",
+        "date": "2026-09-02 11:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1401771"
+    },
+    {
+        "title": "삼성전자, ‘AI 리빙’ 경험 선사..IFA 2026 앞서 전시관 오픈",
+        "date": "2026-09-02 11:02",
+        "link": "https://kpenews.com/View.aspx?No=4208974"
+    },
+    {
+        "title": "[IFA 2026] 삼성전자, 베를린 도심서 ‘AI 일상 동반자’ 구현… TV·가전...",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001189882?sid=105"
+    },
+    {
+        "title": "[아이!써치] ①갤럭시 '아재폰' 이미지 벗긴 '폴드8'…67% 달라졌다",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001054622?sid=105"
+    },
+    {
+        "title": "삼성, '국제가전박람회'서 'AI 리빙' 제시…가전 넘어 일상으로",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/079/0004185076?sid=101"
+    },
+    {
+        "title": "[아이!써치] ②폴드8 사고 싶어도 가격이 걸림돌…51% 더 저렴해야",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001054624?sid=105"
+    },
+    {
+        "title": "삼성, TV·가전·갤럭시 잇는다…IFA2026서 'AI 리빙' 공개",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/119/0003128140?sid=101"
+    },
+    {
+        "title": "데니스 홍·박종훈 한자리에…애플 제조업 R&amp;D 지원센터, ‘스마트 제조...",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/243/0000102512?sid=105"
+    },
+    {
+        "title": "[IFA 2026]삼성전자, 일상 혁신 'AI 리빙' 경험 선보여",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003462699?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘IFA 2026’서 일상 혁신 ‘AI 리빙’ 경험 선봬",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/082/0001396525?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 미래 제시… 베를린에 단독관 오픈",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435934?sid=105"
+    },
+    {
+        "title": "삼성전자, 'AI 리빙' 제시…일상 전반으로 AI 확장 [IFA 2026]",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/014/0005569863?sid=101"
+    },
+    {
+        "title": "전시장 벗어난 삼성전자, 베를린 중심서 ‘AI 리빙’ 경험 선사 [IFA 2026...",
+        "date": "2026-09-02 11:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002691697?sid=101"
+    },
+    {
+        "title": "애플 첫 폴더블 '아이폰 울트라' 10일 베일 벗는다…7.8인치·맥세이프·...",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697572"
+    },
+    {
+        "title": "[IFA 2026] 삼성전자, 'AI 리빙' 공개…TV·가전·모바일 연결",
+        "date": "2026-09-02 11:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2117289"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 승부수…TV·가전·갤럭시 하나로 연결...",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=544746"
+    },
+    {
+        "title": "가전 넘어 일상 전반으로…삼성전자, IFA 2026서 'AI 리빙' 선봬",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=226228"
+    },
+    {
+        "title": "삼성전자, IFA서 'AI 리빙' 공개…AI, 가전 넘어 일상전반으로",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0016284766?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개 … TV·가전·갤럭시 연결 생태계 ...",
+        "date": "2026-09-02 11:00",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88735"
+    },
+    {
+        "title": "삼성전자, IFA서 'AI 리빙' 공개…TV·가전·갤럭시 연결 경험 강화",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300077"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 ‘AI 리빙’ 공개…TV·가전·갤럭시로 일상 바꾼...",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0003045731?sid=101"
+    },
+    {
+        "title": "[IFA 2026] 삼성전자, 'AI 리빙' 제시…베를린 도심에 첫 별도 전시관",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=749632"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 확장…TV·가전·갤럭시 한자리에",
+        "date": "2026-09-02 11:00",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81984"
+    },
+    {
+        "title": "[IFA 2026] “‘포털’ 지나면 AI 일상이 열린다”…삼성, IFA 2026서 ‘AI...",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002239891?sid=105"
+    },
+    {
+        "title": "삼성전자, 일상을 더 편리하고 풍요롭게 만드는 'AI 리빙' 제시",
+        "date": "2026-09-02 11:00",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124277"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 일상을 혁신하는 'AI 리빙' 선봬",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=116275"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…TV·가전·모바일 신제품 전시",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317615"
+    },
+    {
+        "title": "삼성전자, 'IFA 2026'서 'AI 리빙' 경험 제시",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252697"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 콘셉트 전시관 오픈",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.g-enews.com/view.php?ud=202609020834376603139bf6e4b2_1"
+    },
+    {
+        "title": "똑똑한 TV·가전·모바일 삶을 바꾼다…삼성전자, 'AI 리빙' 공개",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0009145972?sid=101"
+    },
+    {
+        "title": "메세 베를린 벗어난 삼성전자, IFA서 'AI 리빙' 선보인다",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005810775?sid=101"
+    },
+    {
+        "title": "삼성전자, 가전 넘어 일상으로…베를린서 ‘AI 리빙’ 공개 [IFA 2026]",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.etoday.co.kr/news/view/2620839"
+    },
+    {
+        "title": "삼성전자, 유럽 최대 가전 전시회서 'AI 리빙' 경험 선보인다[IFA 2026]",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0014163664?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 베를린 도심 단독 전시...'AI 리빙' 생태계 공개",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260843"
+    },
+    {
+        "title": "“가전부터 갤럭시까지 한자리에”…삼성전자, IFA 2026서 ‘AI 리빙’ ...",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/117/0004100737?sid=105"
+    },
+    {
+        "title": "[IFA 2026]삼성전자, 일상 혁신 'AI 리빙' 경험 전한다",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001157111?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 'AI 리빙' 공개…일상 전반 연결한다",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722605"
+    },
+    {
+        "title": "[IFA 2026] '인간적 AI 일상' 미리 살아보기…삼성전자, 'AI리빙' 전시관...",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057575"
+    },
+    {
+        "title": "삼성전자, 유럽 최대 가전 전시회서 'AI 일상' 확장 선봬...TV·주방·모바...",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=6144"
+    },
+    {
+        "title": "AI, 일상 동반자로…삼성, IFA 2026서 'AI 리빙' 선보인다",
+        "date": "2026-09-02 11:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005408315?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA서 일상을 혁신하는 'AI 리빙' 경험 선보여…전시관 규모...",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852357"
+    },
+    {
+        "title": "삼성전자, 베를린 IFA 2026서 'AI 리빙' 미래 비전 제시",
+        "date": "2026-09-02 11:00",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663656"
+    },
+    {
+        "title": "애플 '아이폰 울트라' 이렇게 나온다…7.8인치 화면에 MagSafe까지 지원",
+        "date": "2026-09-02 10:58",
+        "link": "https://kbench.com/?q=node/281572"
+    },
+    {
+        "title": "삼성전자, IFA서 ‘AI 리빙’ 공개…가전·갤럭시 연결해 일상 바꾼다",
+        "date": "2026-09-02 10:57",
+        "link": "https://thetracker.co.kr/View.aspx?No=4208902"
+    },
+    {
+        "title": "아이폰18 Pro∙폴더블 아이폰 출시 임박…옆커폰, 출시 알림 서비스 운...",
+        "date": "2026-09-02 10:56",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225780"
+    },
+    {
+        "title": "'애플' 10배 키운 팀 쿡, 고별 편지…제 성공은 모두 여러분 덕분",
+        "date": "2026-09-02 10:53",
+        "link": "https://n.news.naver.com/mnews/article/008/0005408297?sid=104"
+    },
+    {
+        "title": "삼성디스플레이 67조 투자··· 충남 첨단산업 ‘날개’",
+        "date": "2026-09-02 10:46",
+        "link": "https://n.news.naver.com/mnews/article/469/0000951620?sid=101"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, '스마트 제조 포럼' 개최…피지컬 AI·로보틱...",
+        "date": "2026-09-02 10:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003462681?sid=105"
+    },
+    {
+        "title": "애플 새 CEO 취임 첫날 카드 아이폰 오래 쓰게 만든다",
+        "date": "2026-09-02 10:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697546"
+    },
+    {
+        "title": "삼성전자, IFA 2026서 일상 혁신하는 'AI 리빙' 경험 공개",
+        "date": "2026-09-02 10:38",
+        "link": "https://www.thisisgame.com/articles/429540"
+    },
+    {
+        "title": "삼성전자 기밀유출 항소심…안승호 전 부사장 테키야 보고서, 영업비밀...",
+        "date": "2026-09-02 10:30",
+        "link": "https://bizhankook.com/articles/ahn-seung-ho-denies-trade-secret-leak.html"
+    },
+    {
+        "title": "애플 신임 CEO 존 터너스, 내년 보수 800억원 받는다",
+        "date": "2026-09-02 10:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169285"
+    },
+    {
+        "title": "버티던 애플도 트럼프 전화 받더니 ‘아메리카호’",
+        "date": "2026-09-02 10:20",
+        "link": "https://n.news.naver.com/mnews/article/009/0005729114?sid=104"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 스마트 제조 포럼 개최",
+        "date": "2026-09-02 10:16",
+        "link": "https://n.news.naver.com/mnews/article/469/0000951608?sid=102"
+    },
+    {
+        "title": "존 터너스 애플 CEO '다음 주 놀라운 제품' 예고…폴더블 아이폰 나오나",
+        "date": "2026-09-02 10:12",
+        "link": "https://kbench.com/?q=node/281566"
+    },
+    {
+        "title": "67조 삼성 투자 품은 충남…‘첨단 혁신도시’로 날개 편다",
+        "date": "2026-09-02 10:12",
+        "link": "https://www.viva100.com/article/20260902500427"
+    },
+    {
+        "title": "트럼프 따라 애플도 '아메리카호'…캐나다는 대형 간판으로 맞불",
+        "date": "2026-09-02 10:12",
+        "link": "https://www.ajunews.com/view/20260902100046908"
+    },
+    {
+        "title": "[데스크시각] 삼성SDI가 굳이 남겨둔 '완충재'",
+        "date": "2026-09-02 10:12",
+        "link": "https://n.news.naver.com/mnews/article/293/0000089895?sid=110"
+    },
+    {
+        "title": "버티던 애플도 '아메리카호' 표기...캐나다 총리 허풍 멈춰라",
+        "date": "2026-09-02 10:09",
+        "link": "https://n.news.naver.com/mnews/article/052/0002401568?sid=104"
+    },
+    {
+        "title": "애플도 '온타리오호→아메리카호' 변경‥트럼프 행정명령 반영",
+        "date": "2026-09-02 10:07",
+        "link": "https://n.news.naver.com/mnews/article/214/0001521566?sid=104"
+    },
+    {
+        "title": "칩플레이션 속 가성비 경쟁…삼성·LG 중저가 노트북 출시",
+        "date": "2026-09-02 10:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005810710?sid=105"
+    },
+    {
+        "title": "구글 이어 애플도 트럼프 말대로, 온타리오호→아메리카호",
+        "date": "2026-09-02 09:57",
+        "link": "https://n.news.naver.com/mnews/article/374/0000530707?sid=104"
+    },
+    {
+        "title": "“피지컬 AI·로보틱스로 제조 혁신 이끈다”…애플 제조업 R&amp;D 지원센터...",
+        "date": "2026-09-02 09:52",
+        "link": "https://www.kbmaeil.com/article/20260902500116"
+    },
+    {
+        "title": "충청남도·아산시, 삼성디스플레이와 MOU…67조 투자 첫발",
+        "date": "2026-09-02 09:51",
+        "link": "https://n.news.naver.com/mnews/article/057/0001966816?sid=102"
+    },
+    {
+        "title": "탄소 60% 줄인 팀 쿡 퇴장…애플 기후 목표 흔들 AI 변수",
+        "date": "2026-09-02 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697511"
+    },
+    {
+        "title": "4.5조달러 애플 남긴 쿡…AI는 터너스 몫",
+        "date": "2026-09-02 09:48",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102479"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 16~17일 스마트 제조 포럼 개최",
+        "date": "2026-09-02 09:48",
+        "link": "https://n.news.naver.com/mnews/article/009/0005729085?sid=101"
+    },
+    {
+        "title": "팀 쿡, 애플 CEO 물러나도 645억원…후임 맞먹는 보수 받아",
+        "date": "2026-09-02 09:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0014163242?sid=104"
+    },
+    {
+        "title": "애플 15년 만에 새 시대…존 터너스 CEO 공식 취임",
+        "date": "2026-09-02 09:43",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435896?sid=105"
+    },
+    {
+        "title": "피지컬AI부터 AX까지…애플 제조업 R&amp;D 지원센터, 스마트 제조 포럼",
+        "date": "2026-09-02 09:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006362171?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 아산에 67조 투자…충남 첨단산업 투자축 커진다",
+        "date": "2026-09-02 09:24",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=327305"
+    },
+    {
+        "title": "202조 투자 신호탄 쐈다... 삼성디스플레이, 아산에 67조 '통 큰 투자'",
+        "date": "2026-09-02 09:24",
+        "link": "http://www.newskr.kr/news/articleView.html?idxno=106054"
+    },
+    {
+        "title": "충청남도·아산시, 삼성디스플레이와 MOU…67조 투자 첫발",
+        "date": "2026-09-02 09:22",
+        "link": "https://n.news.naver.com/mnews/article/057/0001966804?sid=102"
+    },
+    {
+        "title": "아산시, 삼성디스플레이 67조 원 투자 발판으로 차세대 디스플레이 투자...",
+        "date": "2026-09-02 09:06",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1401631"
+    },
+    {
+        "title": "삼성디스플레이, 아산에 67조 투자 시동…차세대 OLED 생산라인 증설",
+        "date": "2026-09-02 09:03",
+        "link": "https://n.news.naver.com/mnews/article/002/0002454526?sid=102"
+    },
+    {
+        "title": "폴더블 아이폰 공개 임박… 휴대폰성지 옆커폰, 아이폰18 출시 알림 서비...",
+        "date": "2026-09-02 09:00",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=245245"
+    },
+    {
+        "title": "삼성디스플레이, 충남 아산에 67조 '메가 투자'…첨단산업 지형 바뀐다",
+        "date": "2026-09-02 08:58",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057271"
+    },
+    {
+        "title": "삼성디스플레이, 아산에 67조 원 투자…충청권 202조 첨단산업 ‘신호탄...",
+        "date": "2026-09-02 08:56",
+        "link": "http://www.metroseoul.co.kr/article/20260901500589"
+    },
+    {
+        "title": "충남도, 삼성디플 '67조 아산 투자' 끌어냈다… ‘물·전기’ 프리패스...",
+        "date": "2026-09-02 08:48",
+        "link": "https://www.asiatime.co.kr/article/20260902500005"
+    },
+    {
+        "title": "터너스 애플 신임 CEO, 1년 보수 798억원...“아직 상상하지 못한 제품 ...",
+        "date": "2026-09-02 08:47",
+        "link": "https://n.news.naver.com/mnews/article/023/0003996216?sid=105"
+    },
+    {
+        "title": "아산시, 67조 규모 삼성투자 잇따른다",
+        "date": "2026-09-02 08:46",
+        "link": "https://www.viva100.com/article/20260902500048"
+    },
+    {
+        "title": "애플, 오픈AI 상대 소송서 전직 직원 기밀정보 사용·증거 인멸 시도",
+        "date": "2026-09-02 08:32",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260902010000591"
+    },
+    {
+        "title": "폴더블 아이폰 깜짝 희소식…맥세이프 충전 탑재",
+        "date": "2026-09-02 08:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002435881?sid=105"
+    },
+    {
+        "title": "삼성 독주 끝나나···애플은 '첫 폴드', 화웨이는 '두 번 접는 폰' 공세",
+        "date": "2026-09-02 08:20",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=152765"
+    },
+    {
+        "title": "애플 “이직자가 설계도 빼가”…오픈AI “애플 관리문제” 또 공방",
+        "date": "2026-09-02 07:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003462543?sid=105"
+    },
+    {
+        "title": "가을 이사철 잡아라⋯ 롯데하이마트, 가전 최대 540만원 할인",
+        "date": "2026-09-02 07:26",
+        "link": "https://www.viva100.com/article/20260902500009"
+    },
+    {
+        "title": "애플 오픈AI 이직자, 설계도 빼가…오픈AI 애플의 관리문제",
+        "date": "2026-09-02 07:22",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206917"
+    },
+    {
+        "title": "베일 벗는 첫 폴더블 아이폰…삼성 텃밭에 균열 낼까",
+        "date": "2026-09-02 07:20",
+        "link": "https://n.news.naver.com/mnews/article/648/0000050389?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 아산에 67조원 단계적 투자…OLED·차세대 디스플레이...",
+        "date": "2026-09-02 07:06",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=88599"
+    },
+    {
         "title": "애플 이직자가 설계도 빼가 vs 오픈AI 관리 문제",
         "date": "2026-09-02 06:57",
         "link": "https://n.news.naver.com/mnews/article/052/0002401502?sid=104"
@@ -23,6 +868,11 @@
         "title": "삼성디스플레이 ‘차세대 생산라인’ 구축 시동",
         "date": "2026-09-02 06:04",
         "link": "https://n.news.naver.com/mnews/article/022/0004155602?sid=102"
+    },
+    {
+        "title": "삼성, AI 기능 갖춘 ‘실속형 노트북’ 내놨다",
+        "date": "2026-09-02 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004155579?sid=101"
     },
     {
         "title": "삼성 가전 최대 540만원 할인…'역대급 세일' 또 열린다",
@@ -535,6 +1385,11 @@
         "link": "https://kbench.com/?q=node/281551"
     },
     {
+        "title": "'칩플레이션'에 노트북값 부담↑…삼성·LG, 가격 문턱 낮춘다",
+        "date": "2026-09-01 16:08",
+        "link": "http://www.metroseoul.co.kr/article/20260901500439"
+    },
+    {
         "title": "삼성전자, '뉴 갤럭시 북6' 국내 출시…실속형 AI PC 라인업 확대",
         "date": "2026-09-01 16:04",
         "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318574"
@@ -680,14 +1535,14 @@
         "link": "https://n.news.naver.com/mnews/article/055/0001384999?sid=104"
     },
     {
-        "title": "트럼프, 애플 전화해 '온타리오호→아메리카호' 지도 변경 요구",
-        "date": "2026-09-01 14:28",
-        "link": "https://n.news.naver.com/mnews/article/421/0009144224?sid=104"
-    },
-    {
         "title": "캐나다 뒤끝 트럼프…애플에 직접 전화해 지도 앱 수정 요구",
         "date": "2026-09-01 14:28",
         "link": "https://n.news.naver.com/mnews/article/437/0000508883?sid=104"
+    },
+    {
+        "title": "트럼프, 애플 전화해 '온타리오호→아메리카호' 지도 변경 요구",
+        "date": "2026-09-01 14:28",
+        "link": "https://n.news.naver.com/mnews/article/421/0009144224?sid=104"
     },
     {
         "title": "삼성 '갤북6' vs LG '그램북 AI'…실속형 노트북 격돌",
@@ -973,6 +1828,11 @@
         "title": "'모니터 교체 최적기' 큐소닉 추석 앞두고 최대 30% 할인하는 '2026 한가...",
         "date": "2026-09-01 11:06",
         "link": "https://gamefocus.co.kr/detail.php?number=178709"
+    },
+    {
+        "title": "삼성전자, 노트북값 상승에도 가격↓…100만원대 '갤럭시 북6' 출시",
+        "date": "2026-09-01 11:04",
+        "link": "http://www.metroseoul.co.kr/article/20260901500094"
     },
     {
         "title": "삼성디스플레이, 애플 폴더블 OLED 이달 본격 양산 돌입",
@@ -1280,14 +2140,19 @@
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852183"
     },
     {
-        "title": "삼성전자, 'New 갤럭시 북6' 국내 출시…실속형 라인업 확대",
+        "title": "삼성전자, 실속형 노트북 'New 갤럭시 북6' 출시… 라인업 완성",
         "date": "2026-09-01 09:30",
-        "link": "https://www.sentv.co.kr/article/view/sentv202609010047"
+        "link": "https://www.mediapen.com/news/view/1120279"
     },
     {
         "title": "노트북 가격 부담 커지자…삼성전자, 119만원 '뉴 갤럭시 북6' 출시",
         "date": "2026-09-01 09:30",
         "link": "https://n.news.naver.com/mnews/article/031/0001054107?sid=105"
+    },
+    {
+        "title": "삼성전자, 'New 갤럭시 북6' 국내 출시…실속형 라인업 확대",
+        "date": "2026-09-01 09:30",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609010047"
     },
     {
         "title": "삼성전자, 실속형 '뉴 갤럭시 북6' 국내 출시...인텔 코어 시리즈3 탑재",
@@ -1330,34 +2195,14 @@
         "link": "https://n.news.naver.com/mnews/article/144/0001135171?sid=105"
     },
     {
-        "title": "삼성전자, '뉴 갤럭시 북6' 국내 출시…119만원부터",
-        "date": "2026-09-01 09:03",
-        "link": "https://n.news.naver.com/mnews/article/008/0005407482?sid=105"
-    },
-    {
         "title": "아이폰18 Pro 기다리면 '카톡 알림'…옆커폰, 출시 소식 선점 나섰다",
         "date": "2026-09-01 09:00",
         "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63635"
     },
     {
-        "title": "삼성전자, 합리적 사양·가격으로 구매 부담 낮춘 'New 갤럭시 북6' 국내...",
-        "date": "2026-09-01 08:58",
-        "link": "https://n.news.naver.com/mnews/article/108/0003466807?sid=004"
-    },
-    {
         "title": "보이스피싱 미리 잡는다…갤럭시S27 '사기 탐지' 기능 포착",
         "date": "2026-09-01 08:58",
         "link": "https://kbench.com/?q=node/281519"
-    },
-    {
-        "title": "삼성전자, 실속형 노트북 '뉴 갤럭시 북6' 국내 출시",
-        "date": "2026-09-01 08:53",
-        "link": "https://n.news.naver.com/mnews/article/001/0016281452?sid=105"
-    },
-    {
-        "title": "삼성전자, ‘New 갤럭시 북6’ 출시…실속형 노트북 라인업 확대",
-        "date": "2026-09-01 08:52",
-        "link": "https://thetracker.co.kr/View.aspx?No=4207126"
     },
     {
         "title": "팀 쿡, 15년 만에 애플 CEO 은퇴…터너스 시대 개막",
@@ -1368,16 +2213,6 @@
         "title": "15년 만에 사령탑 바뀐 애플...AI시대 반격 이끌까",
         "date": "2026-09-01 08:48",
         "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170770"
-    },
-    {
-        "title": "삼성전자, ‘New 갤럭시 북6’ 출시…최대 25시간 사용",
-        "date": "2026-09-01 08:46",
-        "link": "https://www.etoday.co.kr/news/view/2620289"
-    },
-    {
-        "title": "삼성전자, 가격 부담 낮춘 '뉴 갤럭시 북6' 출시…라인업 확대",
-        "date": "2026-09-01 08:45",
-        "link": "https://n.news.naver.com/mnews/article/421/0009142841?sid=105"
     },
     {
         "title": "대신증권 비에이치, 애플 폴더블폰 출시 수혜 기대",
@@ -1395,21 +2230,6 @@
         "link": "https://n.news.naver.com/mnews/article/660/0000116271?sid=104"
     },
     {
-        "title": "[Tech &amp; Now] 삼성전자, 실속형 'New 갤럭시 북6' 출시 등",
-        "date": "2026-09-01 08:42",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722427"
-    },
-    {
-        "title": "삼성전자, 'New 갤럭시 북6' 국내 출시…8일까지 체험단 모집",
-        "date": "2026-09-01 08:42",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=236850"
-    },
-    {
-        "title": "삼성전자, 실속형 노트북 ‘뉴 갤럭시 북6’ 국내 출시…119만원부터",
-        "date": "2026-09-01 08:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002690905?sid=105"
-    },
-    {
         "title": "잡스→쿡→터너스…차기 애플 리더십 승부처는 AI",
         "date": "2026-09-01 08:40",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697046"
@@ -1418,16 +2238,6 @@
         "title": "[모닝 리포트] 비에이치, 애플·삼성 폴더블폰 확대 수혜",
         "date": "2026-09-01 08:39",
         "link": "https://www.newspim.com/news/view/20260901000066"
-    },
-    {
-        "title": "충전기 안 챙겨도 되겠네 삼성전자 'New 갤럭시 북6' 최대 25시간",
-        "date": "2026-09-01 08:34",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=112448"
-    },
-    {
-        "title": "갤럭시 AI 품고 119만원부터…삼성전자 ‘New 갤럭시 북6’ 출격",
-        "date": "2026-09-01 08:34",
-        "link": "https://www.g-enews.com/view.php?ud=2026090108170629023084322ec9_1"
     },
     {
         "title": "우주에 흔적 남겼다 팀 쿡, 애플 CEO 퇴임…신임 터너스에 AI 과제",
@@ -1445,11 +2255,6 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005407445?sid=101"
     },
     {
-        "title": "삼성전자, 합리적 사양·가격으로 구매 부담 낮춘 ‘New 갤럭시 북6’ 출...",
-        "date": "2026-09-01 08:28",
-        "link": "https://www.viva100.com/article/20260901500084"
-    },
-    {
         "title": "팀쿡 애플 CEO 공식 은퇴…후임자 존 터너스는 누구",
         "date": "2026-09-01 08:27",
         "link": "https://n.news.naver.com/mnews/article/082/0001396296?sid=101"
@@ -1463,31 +2268,6 @@
         "title": "AI 수요 급증에 애플도 깜짝…맥미니 조기출시 '초강수'",
         "date": "2026-09-01 08:23",
         "link": "https://n.news.naver.com/mnews/article/092/0002435699?sid=105"
-    },
-    {
-        "title": "삼성전자, '뉴 갤럭시 북6' 국내 출시...119만원부터",
-        "date": "2026-09-01 08:22",
-        "link": "https://www.gpkorea.com/news/articleView.html?idxno=146220"
-    },
-    {
-        "title": "삼성전자, 'New 갤럭시 북6' 119만원부터 출시…25시간 배터리·AI 탑재",
-        "date": "2026-09-01 08:20",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=544367"
-    },
-    {
-        "title": "삼성전자, '뉴 갤럭시 북6' 출시…실속형 라인업 확대",
-        "date": "2026-09-01 08:16",
-        "link": "https://www.ajunews.com/view/20260901080747902"
-    },
-    {
-        "title": "삼성전자, 새학기 맞아 '뉴 갤럭시 북6' 14형 출시…119만원부터",
-        "date": "2026-09-01 08:16",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482393"
-    },
-    {
-        "title": "삼성전자, 실속형 '뉴 갤럭시 북6' 출시",
-        "date": "2026-09-01 08:14",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=762707"
     },
     {
         "title": "삼성전자, ‘New 갤럭시 북6’ 국내 출시…119만원부터",
