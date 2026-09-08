@@ -1,5 +1,830 @@
 [
     {
+        "title": "2400만대 목표 삼성디스플레이, 애플 OLED 공급 확대",
+        "date": "2026-09-08 17:00",
+        "link": "https://www.tokenpost.kr/news/tech/404256"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰, 가격 2000달러 넘어설까...8년 개발 결실은",
+        "date": "2026-09-08 16:56",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=764570"
+    },
+    {
+        "title": "中, 車 디스플레이 출하 비중 65%…삼성·LG는 OLED 기술 차별화",
+        "date": "2026-09-08 16:52",
+        "link": "https://www.etoday.co.kr/news/view/2623104"
+    },
+    {
+        "title": "화웨이와 샤오미 폴더블폰 공개…애플 참전 앞두고 경쟁 격화",
+        "date": "2026-09-08 16:46",
+        "link": "https://news.appstory.co.kr/daily19580"
+    },
+    {
+        "title": "벤큐, 듀얼 모니터·아이맥용 모니터 조명 신제품 2종 출시",
+        "date": "2026-09-08 16:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436677?sid=105"
+    },
+    {
+        "title": "폴더블 스마트폰 접는 방식부터 칩셋까지 갈렸다…삼성·화웨이·샤오미...",
+        "date": "2026-09-08 16:41",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240654?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블 공개 D-1···공급 우려 해소할까",
+        "date": "2026-09-08 16:32",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=637523"
+    },
+    {
+        "title": "애플·화웨이·샤오미 폴더블폰 경쟁 가세, 삼성전자 노태문 'AI·제품 차...",
+        "date": "2026-09-08 16:16",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=446670"
+    },
+    {
+        "title": "화웨이·샤오미, 선수 쳤다…폴더블 아이폰에 맞설 무기는",
+        "date": "2026-09-08 16:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436668?sid=105"
+    },
+    {
+        "title": "LG이노텍 문혁수의 '탈애플'은 구호였나…매출 82% 광학에 편중 왜?(2부...",
+        "date": "2026-09-08 16:10",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=89736"
+    },
+    {
+        "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 애플 앱스토어 인기 순위 1위 달성",
+        "date": "2026-09-08 16:10",
+        "link": "https://www.thisisgame.com/articles/429711"
+    },
+    {
+        "title": "네스프레소, 가을 디저트 풍미 담은 '시나몬 애플 크리스프향 커피' 출...",
+        "date": "2026-09-08 16:02",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115460"
+    },
+    {
+        "title": "애플 폴더블폰에 K테크 '들썩'…삼성D OLED 독점 공급",
+        "date": "2026-09-08 16:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006365690?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 랜드마크서 '웰컴 투 폴더블' 옥외광고",
+        "date": "2026-09-08 16:00",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61935"
+    },
+    {
+        "title": "화웨이, 신형 칩 탑재한 트리폴드폰 공개…美 EUV 규제 뚫었다?",
+        "date": "2026-09-08 16:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698967"
+    },
+    {
+        "title": "'애플 감성'에 400만 원 쓸 수 있나...유출 정보로 미리 본 '아이폰 울트...",
+        "date": "2026-09-08 15:58",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144141"
+    },
+    {
+        "title": "애플 폴더블은 삼성D, 프리미엄 TV는 LGD…2년 연속 동반흑자 기대",
+        "date": "2026-09-08 15:54",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260908010003058"
+    },
+    {
+        "title": "글로벌 스마트워치 시장 1년 만에 감소…화웨이 1위·애플은 반등",
+        "date": "2026-09-08 15:44",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723457"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 출시 3주 만에 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 15:36",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43596"
+    },
+    {
+        "title": "[산업 뉴스브리핑] 웰컴 투 폴더블…삼성전자, 도쿄·런던 등 글로벌...",
+        "date": "2026-09-08 15:34",
+        "link": "https://www.asiatime.co.kr/article/20260908500328"
+    },
+    {
+        "title": "[인터뷰] JC 판 벤큐 총괄 “모니터 조명 침투율 1% 미만… 99% 사용자 눈...",
+        "date": "2026-09-08 15:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240631?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외광고 캠페인",
+        "date": "2026-09-08 15:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699008"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외광고 진행",
+        "date": "2026-09-08 15:14",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=910723"
+    },
+    {
+        "title": "[데일리픽] XRP 과거 폭등 사이클 따라 21달러 가나…아이폰18 출격 '초임...",
+        "date": "2026-09-08 15:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698976"
+    },
+    {
+        "title": "샤오미·화웨이에 애플까지…삼성, 폴더블 '7년 격차' 통할까",
+        "date": "2026-09-08 15:06",
+        "link": "https://n.news.naver.com/mnews/article/215/0001265271?sid=101"
+    },
+    {
+        "title": "삼성전자, 서울·도쿄·런던 등 세계 6개 도시서 '갤럭시 Z 폴드8' 알린다",
+        "date": "2026-09-08 15:06",
+        "link": "https://www.public25.com/news/articleView.html?idxno=54322"
+    },
+    {
+        "title": "프로 게이머 컬래버레이션 한정판... '구마유시 게이밍 기어' 선보인 커...",
+        "date": "2026-09-08 15:06",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60607"
+    },
+    {
+        "title": "799g 초경량 노트북 '스위프트 블레이드 14'... IFA 2026서 신제품 공개한...",
+        "date": "2026-09-08 15:06",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60609"
+    },
+    {
+        "title": "애플 보란듯 中 폴더블폰 신제품 잇따라 출시...폴더블 삼국지 본격화",
+        "date": "2026-09-08 15:04",
+        "link": "https://n.news.naver.com/mnews/article/023/0003997283?sid=105"
+    },
+    {
+        "title": "[이슈] 매출 10원 중 8원이 애플…'한 고객에 목맨' LG이노텍 오래갈까?...",
+        "date": "2026-09-08 15:00",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=89732"
+    },
+    {
+        "title": "넷마블 마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 14:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484973"
+    },
+    {
+        "title": "애플 이어 화웨이·샤오미 참전…‘1억대’ 폴더블 시장 각축전",
+        "date": "2026-09-08 14:54",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1312927&inflow=N"
+    },
+    {
+        "title": "애플 참전에 폴더블폰 1억대 시대…삼성 ‘106개 시장’ 수성전",
+        "date": "2026-09-08 14:36",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2026090814080154470ecbf9426b_23"
+    },
+    {
+        "title": "삼성전자, 폴드8 106개 시장 공략…글로벌 랜드마크 광고 확대",
+        "date": "2026-09-08 14:36",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358615"
+    },
+    {
+        "title": "스마트워치 성장세 꺾였다…화웨이 1위·애플은 반등",
+        "date": "2026-09-08 14:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0016297334?sid=105"
+    },
+    {
+        "title": "폴더블 격전 예고..삼성, 애플 참전 세계 6곳서 '폴드8' 띄운다",
+        "date": "2026-09-08 14:32",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2117646"
+    },
+    {
+        "title": "美애플, 아이폰18 전략 '프로·폴더블'로 재편…초고가 시장 넓힐까",
+        "date": "2026-09-08 14:32",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93609"
+    },
+    {
+        "title": "마브렉스 웹3 신작 ‘픽셀 테이머즈’, 애플 인기 1위·구글 4위",
+        "date": "2026-09-08 14:23",
+        "link": "https://n.news.naver.com/mnews/article/117/0004103100?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 내년 애플 폴더블·아이패드 OLED 공급 목표 대폭 상향",
+        "date": "2026-09-08 14:15",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436639?sid=105"
+    },
+    {
+        "title": "아이폰18 프로·폴더블 예상 출고가... 한국 돈으로 얼마?",
+        "date": "2026-09-08 14:14",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1180399"
+    },
+    {
+        "title": "AP시스템, '오픈이노베이션 펀드' 결성...딥테크·소부장 기업 발굴 목표",
+        "date": "2026-09-08 14:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436638?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외 광고 진행",
+        "date": "2026-09-08 14:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589721519169"
+    },
+    {
+        "title": "7년 늦은 애플의 반격…'300만원 폴더블 아이폰' 통할까",
+        "date": "2026-09-08 14:08",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026090811293321272"
+    },
+    {
+        "title": "“접는 방식도 삼성처럼”…화웨이·샤오미 신작, 애플까지 온다",
+        "date": "2026-09-08 14:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0001056384?sid=105"
+    },
+    {
+        "title": "마브렉스, 웹3 퍼블리싱 신작 '픽셀 테이머즈' 애플 앱스토어 인기 1위 ...",
+        "date": "2026-09-08 13:52",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121070"
+    },
+    {
+        "title": "웰컴 투 폴더블 삼성전자, 세계 주요 도시서 갤럭시 Z 폴드8 옥외 광고",
+        "date": "2026-09-08 13:40",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300485"
+    },
+    {
+        "title": "삼성전자, 서울·도쿄·런던서 '갤럭시 Z 폴드8' 옥외광고",
+        "date": "2026-09-08 13:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318449"
+    },
+    {
+        "title": "“웰컴 투 폴더블”…삼성전자, 세계 주요 도시서 폴드8 알린다",
+        "date": "2026-09-08 13:37",
+        "link": "https://n.news.naver.com/mnews/article/009/0005731995?sid=105"
+    },
+    {
+        "title": "화웨이·샤오미, 애플 앞서 신제품 발표...'폴더블 3파전'",
+        "date": "2026-09-08 13:36",
+        "link": "https://n.news.naver.com/mnews/article/052/0002404235?sid=104"
+    },
+    {
+        "title": "폴더블 아이폰 야심작인데, 하루 수백대 생산 그쳐…“초기 물량 비상”",
+        "date": "2026-09-08 13:33",
+        "link": "https://n.news.naver.com/mnews/article/030/0003464718?sid=104"
+    },
+    {
+        "title": "에이서, IFA 2026서 신제품 공개…799g 초경량 노트북부터 AI·게이밍까지",
+        "date": "2026-09-08 13:32",
+        "link": "https://www.betanews.net/article/view/beta202609080042"
+    },
+    {
+        "title": "AP시스템·그래비티벤처스, 딥테크·소부장 오픈이노베이션 펀드 결성",
+        "date": "2026-09-08 13:21",
+        "link": "https://www.newspim.com/news/view/20260908000745"
+    },
+    {
+        "title": "마이크로칩-마렐리, 차량 중앙컴퓨터 영상, 디스플레이로 직접 보낸다",
+        "date": "2026-09-08 13:20",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=61954"
+    },
+    {
+        "title": "화웨이, 반도체 '기린9050 프로' 공개, 3단 폴더블폰으로 애플과 맞짱",
+        "date": "2026-09-08 13:17",
+        "link": "https://www.newspim.com/news/view/20260908000735"
+    },
+    {
+        "title": "[미국 특징주] 애플 테너스 시대 개막…사상 최대 규모 신제품 러시",
+        "date": "2026-09-08 13:07",
+        "link": "https://www.newspim.com/news/view/20260908000731"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 캠페인 전개",
+        "date": "2026-09-08 13:02",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=132210"
+    },
+    {
+        "title": "이노스, 32대9 화면비 갖춘 49형 게이밍 모니터 ‘49WQ950M’ 공개",
+        "date": "2026-09-08 13:00",
+        "link": "https://www.cnet.co.kr/view/?no=20260908125926"
+    },
+    {
+        "title": "폴더블폰 경쟁 치열, 신제품 가격 성능 비교",
+        "date": "2026-09-08 12:54",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87963"
+    },
+    {
+        "title": "초고가 전략 들고 나온 화웨이...신형 폴더블 1만9999위안부터",
+        "date": "2026-09-08 12:54",
+        "link": "https://www.raonnews.com/news/article.html?no=60938"
+    },
+    {
+        "title": "마브렉스, '픽셀 테이머즈' 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 12:48",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88965"
+    },
+    {
+        "title": "듀얼 모니터와 iMac을 위한 맞춤형 조명 설계… 벤큐, '스크린바 맥스·...",
+        "date": "2026-09-08 12:42",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60613"
+    },
+    {
+        "title": "웰컴 투 폴더블 세계 주요 도시 물들인 삼성전자의 옥외광고",
+        "date": "2026-09-08 12:40",
+        "link": "https://www.insight.co.kr/news/572444"
+    },
+    {
+        "title": "아이폰 충성고객인데, 이제 갈아탄다…갤폴드 사려고 8월 번호이동만...",
+        "date": "2026-09-08 12:22",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=317946"
+    },
+    {
+        "title": "EU 스마트폰 수리정보 공개 의무 시행 1년…80%가 정보 미흡",
+        "date": "2026-09-08 12:12",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=20258"
+    },
+    {
+        "title": "HW스펙 아닌 소비자 중심…벤큐, '듀얼 모니터·아이맥' 겨냥 스크린바...",
+        "date": "2026-09-08 11:49",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240592?sid=105"
+    },
+    {
+        "title": "'8세대 폴더블 자부심'…삼성전자, 세계 주요 랜드마크서 Z 폴드8 캠페인...",
+        "date": "2026-09-08 11:48",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62557"
+    },
+    {
+        "title": "벤큐, 10년 노하우 ‘스크린바 맥스·아이스크린바’ 공개…“화면 밖 ...",
+        "date": "2026-09-08 11:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240591?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블폰 출시 앞두고…화웨이·샤오미 폴더블 신제품 공개",
+        "date": "2026-09-08 11:38",
+        "link": "https://n.news.naver.com/mnews/article/020/0003746497?sid=105"
+    },
+    {
+        "title": "애플 폴더블폰 나오기 전에 판 깔았다… 中 화웨이 ‘사전예약 완판’·...",
+        "date": "2026-09-08 11:37",
+        "link": "https://n.news.naver.com/mnews/article/366/0001191019?sid=105"
+    },
+    {
+        "title": "삼성전자, 광화문·시부야·런던서 갤럭시 Z 폴드8 띄운다…106개 시장 ...",
+        "date": "2026-09-08 11:36",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134979"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 ‘웰컴 투 폴더블’ 옥외 광고 진행",
+        "date": "2026-09-08 11:32",
+        "link": "https://www.betanews.net/article/view/beta202609080027"
+    },
+    {
+        "title": "애플 앞서 화웨이도 참전…'접는폰 삼국지' 본격화",
+        "date": "2026-09-08 11:29",
+        "link": "https://n.news.naver.com/mnews/article/629/0000531718?sid=105"
+    },
+    {
+        "title": "삼성전자 ‘웰컴 투 폴더블’ 글로벌 옥외광고",
+        "date": "2026-09-08 11:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002694312?sid=105"
+    },
+    {
+        "title": "삼성, '웰컴 투 폴더블' 글로벌 캠페인 전개...애플 향한 견제구?",
+        "date": "2026-09-08 11:28",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144121"
+    },
+    {
+        "title": "마브렉스, 웹3 신작 '픽셀 테이머즈' 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 11:28",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=225028"
+    },
+    {
+        "title": "삼성 텃밭 노리는 공습… 애플·화웨이 참전에 요동치는 '폴더블'",
+        "date": "2026-09-08 11:26",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=727512"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 하루 수백대 생산 그쳐⋯출시 초기 품귀현상 빚나",
+        "date": "2026-09-08 11:20",
+        "link": "https://www.etoday.co.kr/news/view/2623033"
+    },
+    {
+        "title": "삼성전자·화웨이·애플, 폴더블폰 3강 구도…합산 점유율 81% 전망",
+        "date": "2026-09-08 11:20",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=169196"
+    },
+    {
+        "title": "화웨이·샤오미에 애플까지…폴더블폰 경쟁 격화",
+        "date": "2026-09-08 11:16",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=362785"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 출시 3주 만에 애플 인기 1위",
+        "date": "2026-09-08 11:16",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467870"
+    },
+    {
+        "title": "마브렉스 픽셀 테이머즈, 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 11:03",
+        "link": "https://n.news.naver.com/mnews/article/356/0000085680?sid=004"
+    },
+    {
+        "title": "씨에프테크놀로지,'기술 자립' 도전...수입 장비의 빈자리 국산 기술로...",
+        "date": "2026-09-08 11:02",
+        "link": "https://n.news.naver.com/mnews/article/030/0003464655?sid=105"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 1위…출시 3주 만",
+        "date": "2026-09-08 11:00",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135762"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 10:58",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=308148"
+    },
+    {
+        "title": "세계 주요 도시에 뜬 삼성 '갤럭시 Z 폴드8'…웰컴 투 폴더블",
+        "date": "2026-09-08 10:52",
+        "link": "https://n.news.naver.com/mnews/article/079/0004186929?sid=101"
+    },
+    {
+        "title": "애플, 9일 첫 폴더블 아이폰 공개…삼성 아성에 도전장",
+        "date": "2026-09-08 10:50",
+        "link": "https://www.ekn.kr/web/view.php?key=20260908029221907"
+    },
+    {
+        "title": "애플, 이번주 신형 아이폰 3종 공개…일반형 빠지고 폴더블 온다",
+        "date": "2026-09-08 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698922"
+    },
+    {
+        "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 출시 3주 만에 애플 앱스토어 인기...",
+        "date": "2026-09-08 10:44",
+        "link": "https://n.news.naver.com/mnews/article/076/0004443863?sid=105"
+    },
+    {
+        "title": "마브렉스 ‘픽셀 테이머즈’, 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 10:40",
+        "link": "https://www.todayeconomic.com/news/article.html?no=32026"
+    },
+    {
+        "title": "애플 첫 폴더블폰, '아이폰 울트라' 아닌 '아이폰 듀오'? 케이스 업체서...",
+        "date": "2026-09-08 10:38",
+        "link": "https://kbench.com/?q=node/281723"
+    },
+    {
+        "title": "벤큐, 스크린바 시리즈 신규 라인업 '스크린바 맥스' 및 '아이스크린바...",
+        "date": "2026-09-08 10:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=178882"
+    },
+    {
+        "title": "마브렉스, 웹3 게임 신작 픽셀 테이머즈 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 10:32",
+        "link": "https://game.donga.com/124171/"
+    },
+    {
+        "title": "애플 '여권폰' 기다렸는데…337만원짜리에 이게 없다고 술렁 [테크로그...",
+        "date": "2026-09-08 10:30",
+        "link": "https://n.news.naver.com/mnews/article/015/0005329910?sid=105"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 출시 3주 만에 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 10:30",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=226624"
+    },
+    {
+        "title": "AI의 종착지는 결국 하드웨어일까? 구글, 애플과 오픈AI의 서로 다른 '동...",
+        "date": "2026-09-08 10:28",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60649"
+    },
+    {
+        "title": "[iN The Scene] 삼성전자, 글로벌 랜드마크서 ‘웰컴 투 폴더블’ 캠페인",
+        "date": "2026-09-08 10:26",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=91561"
+    },
+    {
+        "title": "애플 발표 앞두고…中 화웨이·샤오미, 차세대 폴더블폰 '맞불'",
+        "date": "2026-09-08 10:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169673"
+    },
+    {
+        "title": "[뉴템] 커세어, 프로게이머 구마유시 협업 한정판 게이밍 기어 출시",
+        "date": "2026-09-08 10:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240572?sid=105"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 게임 순위 1위",
+        "date": "2026-09-08 10:24",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1403733"
+    },
+    {
+        "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 10:23",
+        "link": "https://n.news.naver.com/mnews/article/030/0003464630?sid=105"
+    },
+    {
+        "title": "마브렉스 신작 '픽셀 테이머즈', 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 10:22",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=261535"
+    },
+    {
+        "title": "폴더블 아이폰, 하루 1천대도 못 만든다...초반 '물량 부족' 비상",
+        "date": "2026-09-08 10:20",
+        "link": "https://n.news.naver.com/mnews/article/008/0005410772?sid=104"
+    },
+    {
+        "title": "마브렉스 ‘픽셀 테이머즈’, 출시 3주 만에 애플 인기 1위",
+        "date": "2026-09-08 10:20",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=20260908101844129de3f0aa1be_7"
+    },
+    {
+        "title": "폴 더블 아이폰, 힌지(경첩) 부분 수율 문제로 생산 차질...닛케이, 하루...",
+        "date": "2026-09-08 10:18",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026090810121937962aaae0046f_30"
+    },
+    {
+        "title": "애플비데, 프리미엄 '올케어 버블버블 비데' 출시...20일까지 할인 행사",
+        "date": "2026-09-08 10:18",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=877557"
+    },
+    {
+        "title": "마브렉스, 웹3 퍼블리싱 신작 '픽셀 테이머즈' 애플 앱스토어 인기 1위 ...",
+        "date": "2026-09-08 10:18",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300462"
+    },
+    {
+        "title": "애플 폴더블 맥, 아직 개발 포기 안 했다…관건은 '소프트 키보드'",
+        "date": "2026-09-08 10:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698912"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 1위 달성",
+        "date": "2026-09-08 10:14",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6939281"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 ‘웰컴 투 폴더블’ 옥외 광고 진행",
+        "date": "2026-09-08 10:10",
+        "link": "https://n.news.naver.com/mnews/article/009/0005731853?sid=101"
+    },
+    {
+        "title": "마브렉스 '픽셀 테이머즈', 애플 앱스토어 인기 1위",
+        "date": "2026-09-08 10:10",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156885"
+    },
+    {
+        "title": "XR부터 초대형 TV까지…마이크로 LED株 상승세 확산",
+        "date": "2026-09-08 10:06",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484856"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰, 상위 모델 400만원대 관측",
+        "date": "2026-09-08 10:02",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=385977"
+    },
+    {
+        "title": "마이크로칩-마렐리, SDV 대응 ASA-ML 디스플레이 커넥티비티 공개",
+        "date": "2026-09-08 10:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240556?sid=105"
+    },
+    {
+        "title": "웰컴 투 폴더블…삼성전자, 세계 주요 도시 랜드마크서 옥외광고",
+        "date": "2026-09-08 10:00",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059601"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외 광고",
+        "date": "2026-09-08 10:00",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=314275"
+    },
+    {
+        "title": "애플 폴더블 출격 임박…삼성, 글로벌서 '웰컴 투 폴더블'",
+        "date": "2026-09-08 09:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003464617?sid=105"
+    },
+    {
+        "title": "한국도레이과학진흥재단, OLED 소재 국산화·화학반응 연구 석학에 1억원...",
+        "date": "2026-09-08 09:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003464616?sid=105"
+    },
+    {
+        "title": "[리얼푸드] 가을 디저트의 향…네스프레스 ‘시나몬 애플 크리스프향 커...",
+        "date": "2026-09-08 09:52",
+        "link": "https://www.realfoods.co.kr/article/10865927?ref=naver"
+    },
+    {
+        "title": "애플 폴더블 출시 앞두고…삼성, 세계 곳곳서 ‘갤럭시Z8’ 알린다",
+        "date": "2026-09-08 09:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004659587?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외 광고 캠페인",
+        "date": "2026-09-08 09:48",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033932"
+    },
+    {
+        "title": "커세어, 구마유시 데뷔 기념 한정판 게이밍 기어 출시",
+        "date": "2026-09-08 09:46",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=764444"
+    },
+    {
+        "title": "애플 첫 폴더블폰 생산 차질…터너스 체제 첫 시험대",
+        "date": "2026-09-08 09:44",
+        "link": "https://n.news.naver.com/mnews/article/018/0006365401?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰에 신임 CEO까지, 올가을 애플 행사 총정리",
+        "date": "2026-09-08 09:42",
+        "link": "https://www.itworld.co.kr/article/4219385/폴더블-아이폰에-신임-ceo까지-올가을-애플-행사-총정리.html"
+    },
+    {
+        "title": "TCL, IFA서 AI 기반 미래 라이프스타일 공개",
+        "date": "2026-09-08 09:38",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=863011"
+    },
+    {
+        "title": "세계에서 가장 얇고 가볍다… 삼성전자, '웰컴 투 폴더블' 옥외광고 개...",
+        "date": "2026-09-08 09:36",
+        "link": "https://www.mediapen.com/news/view/1121708"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외광고 진행",
+        "date": "2026-09-08 09:34",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852941"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블'···갤럭시 Z 폴드8 알린...",
+        "date": "2026-09-08 09:32",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=153285"
+    },
+    {
+        "title": "광화문·시부야·피카딜리에 뜬 '갤럭시 Z 폴드8'…삼성전자, 글로벌 옥...",
+        "date": "2026-09-08 09:32",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4984879"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외 광고",
+        "date": "2026-09-08 09:28",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252851"
+    },
+    {
+        "title": "애플 폴더블 출시 임박에 … 삼성, 갤럭시Z폴드8로 글로벌 도시 물들인...",
+        "date": "2026-09-08 09:24",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800051.html"
+    },
+    {
+        "title": "[디지털포스트 모닝픽] 2분기 삼성전자 D램 시장 점유율 39.4%... 하이닉스...",
+        "date": "2026-09-08 09:20",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60603"
+    },
+    {
+        "title": "삼성전자, 전 세계 랜드마크서 ‘웰컴 투 폴더블’ 옥외 광고",
+        "date": "2026-09-08 09:18",
+        "link": "https://www.news2day.co.kr/article/20260908500029"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 ‘웰컴 투 폴더블’ 옥외광고 진행",
+        "date": "2026-09-08 09:17",
+        "link": "https://n.news.naver.com/mnews/article/016/0002694132?sid=105"
+    },
+    {
+        "title": "TCL, IFA서 TV·가전·스마트홈 잇는 AI 생태계 공개",
+        "date": "2026-09-08 09:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0001056233?sid=105"
+    },
+    {
+        "title": "삼성전자, 서울 넘어서 세계로...'웰컴 투 폴더블' 글로벌 옥외 광고 선...",
+        "date": "2026-09-08 09:14",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106014"
+    },
+    {
+        "title": "삼성전자, 글로벌 랜드마크 점령한 '갤럭시 Z 폴드8'",
+        "date": "2026-09-08 09:06",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406646"
+    },
+    {
+        "title": "폴더블 스마트폰 상용화 8년…올해 누적 출하량 1억대 넘어설 듯",
+        "date": "2026-09-08 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=224136"
+    },
+    {
+        "title": "마이크로칩-마렐리, SDV용 개방형 디스플레이 커넥티비티 공개",
+        "date": "2026-09-08 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406645"
+    },
+    {
+        "title": "갤럭시Z 폴드8 흥행에 아이폰 이용자 유입 급증…전환율 전작 대비 2배 ...",
+        "date": "2026-09-08 08:58",
+        "link": "https://kbench.com/?q=node/281714"
+    },
+    {
+        "title": "아이폰18 프로 나오면 애플 주가 하락…근거는?",
+        "date": "2026-09-08 08:57",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436556?sid=105"
+    },
+    {
+        "title": "애플, 첫 폴더블 아이폰 공개 임박…신임 CEO 존 터너스 첫 시험대",
+        "date": "2026-09-08 08:56",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=392377"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 ‘웰컴 투 폴더블’ 옥외광고",
+        "date": "2026-09-08 08:54",
+        "link": "https://www.etoday.co.kr/news/view/2622895"
+    },
+    {
+        "title": "커피에 담긴 가을 감성 네스프레소, '시나몬 애플 크리프스향 커피'",
+        "date": "2026-09-08 08:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0014175434?sid=103"
+    },
+    {
+        "title": "삼성전자, '웰컴 투 폴더블'로 세계와 만나다",
+        "date": "2026-09-08 08:52",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=21692"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 ‘웰컴 투 폴더블’ 옥외 광고 진행",
+        "date": "2026-09-08 08:49",
+        "link": "https://n.news.naver.com/mnews/article/082/0001397309?sid=101"
+    },
+    {
+        "title": "애플 출격 앞두고…우수수 쏟아진 '폴더블 폰' [소셜픽]",
+        "date": "2026-09-08 08:46",
+        "link": "https://n.news.naver.com/mnews/article/437/0000510006?sid=104"
+    },
+    {
+        "title": "웰컴 투 폴더블…삼성전자, 세계 도심서 Z 폴드8 알린다",
+        "date": "2026-09-08 08:42",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266513"
+    },
+    {
+        "title": "삼성전자 세계 랜드마크 폴더블 캠페인",
+        "date": "2026-09-08 08:42",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074594"
+    },
+    {
+        "title": "AP시스템, 글로벌 IT OLED 대규모 투자 '수혜'…반도체 확대까지 '성장 ...",
+        "date": "2026-09-08 08:40",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=746787"
+    },
+    {
+        "title": "[포토] 삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외광고",
+        "date": "2026-09-08 08:38",
+        "link": "https://www.ajunews.com/view/20260908082921394"
+    },
+    {
+        "title": "삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 광고 진행",
+        "date": "2026-09-08 08:36",
+        "link": "https://n.news.naver.com/mnews/article/031/0001056221?sid=105"
+    },
+    {
+        "title": "[포토] 도쿄 시부야서 진행 중인 삼성전자 ‘웰컴 투 폴더블’ 옥외 광...",
+        "date": "2026-09-08 08:32",
+        "link": "https://www.viva100.com/article/20260908500110"
+    },
+    {
+        "title": "애플워치12·울트라4 출시 임박…4가지 새 기능은",
+        "date": "2026-09-08 08:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436550?sid=105"
+    },
+    {
+        "title": "삼성전자, 글로벌 주요 도시서 '웰컴 투 폴더블' 옥외 광고 진행",
+        "date": "2026-09-08 08:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723340"
+    },
+    {
+        "title": "애플 텃밭 일본서 전 세계 가장 가벼운 폴더블…삼성전자, 옥외광고",
+        "date": "2026-09-08 08:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005410668?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 주요도시 랜드마크서 '웰컴 투 폴더블' 옥외광고",
+        "date": "2026-09-08 08:20",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=764394"
+    },
+    {
+        "title": "도우인시스, 글로벌 빅테크 폴더블 참전 '초읽기'…하이브리드 UTG 개발...",
+        "date": "2026-09-08 08:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=274395"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드8, 서울·도쿄·런던 떴다…세계에서 가장 가벼...",
+        "date": "2026-09-08 08:15",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=112590"
+    },
+    {
+        "title": "8세대 폴더블 자신감…삼성전자, 글로벌 랜드마크서 '웰컴 투 폴더블...",
+        "date": "2026-09-08 08:14",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87347"
+    },
+    {
+        "title": "“이게 폴더블이다”…삼성 ‘Z 폴드8 시리즈’ 글로벌 도심 공략",
+        "date": "2026-09-08 08:10",
+        "link": "https://n.news.naver.com/mnews/article/119/0003130072?sid=105"
+    },
+    {
+        "title": "삼성전자, 서울·도쿄·런던서 '웰컴 투 폴더블' 옥외광고",
+        "date": "2026-09-08 08:10",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=237503"
+    },
+    {
+        "title": "삼성전자, 세계 6개 랜드마크서 '갤럭시 Z 폴드8' 알린다",
+        "date": "2026-09-08 08:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484780"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드8’ 흥행 열기 글로벌로..세계 주요 도시서 옥...",
+        "date": "2026-09-08 08:10",
+        "link": "https://kpenews.com/View.aspx?No=4216851"
+    },
+    {
+        "title": "화웨이, 400만원대 두 번 접는 폰 공개…샤오미는 '여권형' 폴더블 승부...",
+        "date": "2026-09-08 08:09",
+        "link": "https://n.news.naver.com/mnews/article/008/0005410666?sid=105"
+    },
+    {
+        "title": "삼성전자, 서울·도쿄·런던에 '갤럭시 Z 폴드8' 광고 띄운다…106개 시...",
+        "date": "2026-09-08 08:06",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=546250"
+    },
+    {
         "title": "아이폰18·폴더블폰 출격에 신제품 흥행 가를 3대 변수는",
         "date": "2026-09-08 08:00",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169644"
@@ -15,7 +840,7 @@
         "link": "https://n.news.naver.com/mnews/article/374/0000531697?sid=104"
     },
     {
-        "title": "[미국 특징주] 애플 폴더블 아이폰, 하루 생산량 수백대 그쳐",
+        "title": "화웨이·샤오미 쫓아오는데...애플 폴더블폰, 하루 수백대 생산 그쳐",
         "date": "2026-09-08 07:49",
         "link": "https://www.newspim.com/news/view/20260908000026"
     },
