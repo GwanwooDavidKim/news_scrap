@@ -1,5 +1,160 @@
 [
     {
+        "title": "삼성·애플 ‘2라운드’…7년 만에 시작된 폴더블 전쟁",
+        "date": "2026-09-13 06:56",
+        "link": "https://www.news2day.co.kr/article/20260911500172"
+    },
+    {
+        "title": "유리 넘어 첨단 소재로…KCC글라스, 증평에 광학투명접착제 거점",
+        "date": "2026-09-13 06:25",
+        "link": "https://n.news.naver.com/mnews/article/421/0009166476?sid=101"
+    },
+    {
+        "title": "아이폰18·첫 폴더블 출격…삼성·LGD, 하반기 '애플 효과' 볼까",
+        "date": "2026-09-13 06:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0016306248?sid=101"
+    },
+    {
+        "title": "아이폰 듀오, 애플펜슬 첫 지원…7.6인치 화면 “디지털 아티스트 스케...",
+        "date": "2026-09-13 06:10",
+        "link": "https://www.wikitree.co.kr/articles/1159109"
+    },
+    {
+        "title": "애플 팀 쿡도 갤럭시로 갈아탔다고?…삼성이 공개한 사진 한 장의 반전",
+        "date": "2026-09-13 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004158487?sid=105"
+    },
+    {
+        "title": "이마트·하이마트·쿠팡, '아이폰18 프로' 사전예약 일제히 돌입",
+        "date": "2026-09-13 06:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000533197?sid=101"
+    },
+    {
+        "title": "삼성전자·퀄컴, 5년 전 ‘트라우마’ 극복하나… 2나노 파운드리 수주...",
+        "date": "2026-09-13 06:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001191954?sid=105"
+    },
+    {
+        "title": "이마트, 아이폰18 프로 사전예약...애플 상품 매출 30%↑",
+        "date": "2026-09-13 06:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=132707"
+    },
+    {
+        "title": "[핫이슈] 생애 최고 폰…삼성, '팀 쿡' 앞세워 애플 첫 폴더블 기습 저...",
+        "date": "2026-09-13 05:40",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=90017"
+    },
+    {
+        "title": "링크 클릭 한 번에 맥 강제 재부팅…애플, “보안 문제 아니다” 입장 ...",
+        "date": "2026-09-13 05:10",
+        "link": "https://www.wikitree.co.kr/articles/1159104"
+    },
+    {
+        "title": "애플 아이폰17, 첫해 매출 230조원…삼성 MX 연매출의 1.8배",
+        "date": "2026-09-13 05:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437201?sid=105"
+    },
+    {
+        "title": "아이폰18 프로·프로맥스, 100달러 가격차 두고 예약 첫날 배송 10월로 밀...",
+        "date": "2026-09-13 03:10",
+        "link": "https://www.wikitree.co.kr/articles/1159098"
+    },
+    {
+        "title": "日 대세 밴드 미세스 그린 애플, 정규 '팝스' 발매 기념 서울 팝업 연다",
+        "date": "2026-09-13 00:49",
+        "link": "https://m.entertain.naver.com/article/003/0014186123"
+    },
+    {
+        "title": "애플워치 울트라4, 가격은 799달러로 동일한데 심박 측정 5분서 5초로 빨...",
+        "date": "2026-09-13 00:12",
+        "link": "https://www.wikitree.co.kr/articles/1159090"
+    },
+    {
+        "title": "[비즈토크<상>] 노태문 자신감 이유 있었네…애플 첫 폴더블폰에 업계 ...",
+        "date": "2026-09-13 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000533184?sid=101"
+    },
+    {
+        "title": "카메라는 프로보다 아래인데 가격은 100만 원 더 비싸다?… 애플 첫 폴...",
+        "date": "2026-09-13 00:00",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=606240"
+    },
+    {
+        "title": "로제, 신형 아이폰 들고 셀카…삼성 우리한테 물어보지",
+        "date": "2026-09-13 00:00",
+        "link": "https://m.entertain.naver.com/article/003/0014186102"
+    },
+    {
+        "title": "애플 A20 프로 공개…아이폰18 프로에 2나노 적용",
+        "date": "2026-09-12 22:34",
+        "link": "https://www.tokenpost.kr/news/breaking/406962"
+    },
+    {
+        "title": "아이폰 듀오 폴더블 패널, 삼성 단독 공급설…장당 250달러 거론",
+        "date": "2026-09-12 20:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700153"
+    },
+    {
+        "title": "블랙핑크 로제 아이폰 셀카에 삼성 등판..폰 필요하면 말하지",
+        "date": "2026-09-12 20:18",
+        "link": "https://m.entertain.naver.com/article/108/0003469976"
+    },
+    {
+        "title": "아이폰18 들고 '찰칵' 로제에…삼전이 직접 남긴 '뼈 있는 한마디'",
+        "date": "2026-09-12 20:07",
+        "link": "https://n.news.naver.com/mnews/article/215/0001265755?sid=101"
+    },
+    {
+        "title": "갤럭시 모델로 활동했던 로제, 신형 아이폰 셀카에 삼성 도발 우리에게...",
+        "date": "2026-09-12 19:52",
+        "link": "https://n.news.naver.com/mnews/article/277/0005815428?sid=101"
+    },
+    {
+        "title": "“차라리 핫도그나 접어라” 삼성 조롱하던 ‘그녀’…애플 접는폰에는...",
+        "date": "2026-09-12 19:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002696326?sid=105"
+    },
+    {
+        "title": "“이거 월급으로 살 수 있어?” 난 못 사겠는데…월가 “합리적 가격”",
+        "date": "2026-09-12 19:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002696325?sid=101"
+    },
+    {
+        "title": "엔비디아 2027년 주주환원 309조원 전망…애플은 현재 앞서",
+        "date": "2026-09-12 19:26",
+        "link": "https://www.tokenpost.kr/news/market/406918"
+    },
+    {
+        "title": "'전 갤럭시 모델' 로제가 아이폰 들자…삼성이 남긴 한마디",
+        "date": "2026-09-12 18:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005331607?sid=101"
+    },
+    {
+        "title": "로제, 대놓고 아이폰 자랑했더니…삼성 핸드폰 필요하면 말하지 [★해...",
+        "date": "2026-09-12 18:28",
+        "link": "https://m.entertain.naver.com/article/311/0002056379"
+    },
+    {
+        "title": "“폰 필요하면 말하지”… 로제 아이폰 광고→삼성 의미심장 한마디",
+        "date": "2026-09-12 18:22",
+        "link": "https://m.entertain.naver.com/article/468/0001265778"
+    },
+    {
+        "title": "애플 첫 폴더블폰 승부수…아이폰 듀오 한 대 팔 때 삼성에 250달러",
+        "date": "2026-09-12 18:06",
+        "link": "http://coinreaders.com/257894"
+    },
+    {
+        "title": "“우리한테 말하지 그랬어”…신형 아이폰 든 로제에 삼성 깜짝 등판",
+        "date": "2026-09-12 17:57",
+        "link": "https://n.news.naver.com/mnews/article/016/0002696312?sid=105"
+    },
+    {
+        "title": "[FOCUS] '따라올 테면 따라와 봐!' 삼성전자, 애플 등 추격에도 세계 폴...",
+        "date": "2026-09-12 17:02",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=880589"
+    },
+    {
         "title": "‘아이폰 18 프로’ 든 로제, 삼성전자가 작정한 돌직구…18만 좋아요 폭...",
         "date": "2026-09-12 16:56",
         "link": "https://m.entertain.naver.com/article/410/0001139708"
@@ -120,7 +275,7 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004661114?sid=101"
     },
     {
-        "title": "'부모님댁 낡은 냉장고가 아른아른'…329만원 아이폰에 고민 깊어진 소...",
+        "title": "접는 아이폰, 냉장고 두 대 값...329만원에 지갑도 접힐라",
         "date": "2026-09-12 09:58",
         "link": "https://n.news.naver.com/mnews/article/215/0001265724?sid=105"
     },
@@ -203,945 +358,5 @@
         "title": "이통3사, 애플 '아이폰18 프로' 사전예약… 혜택 총력전",
         "date": "2026-09-12 07:00",
         "link": "https://www.newscj.com/news/articleView.html?idxno=3432009"
-    },
-    {
-        "title": "나스닥100 '상승'...애플 '활짝', 엔비디아는 '약보합'",
-        "date": "2026-09-12 06:58",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=171206"
-    },
-    {
-        "title": "[단독] 삼성전자, 美 텍사스서 디스플레이 특허 피소…스마트폰·TV 전방...",
-        "date": "2026-09-12 06:24",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=89991"
-    },
-    {
-        "title": "“미리 사야 혜택 크다”…이마트, 추석 선물 이어 아이폰18 사전예약 실...",
-        "date": "2026-09-12 06:02",
-        "link": "https://www.viva100.com/article/20260911500858"
-    },
-    {
-        "title": "폰도 비싼데 케이스까지…아이폰 듀오 사려면 지갑 '탈탈' [1일IT템]",
-        "date": "2026-09-12 06:01",
-        "link": "https://n.news.naver.com/mnews/article/014/0005574691?sid=105"
-    },
-    {
-        "title": "삼성 따라 ‘여권형’으로 접은 애플…100만원 비싼 배짱 통할까 [정길...",
-        "date": "2026-09-12 06:00",
-        "link": "https://n.news.naver.com/mnews/article/243/0000102952?sid=105"
-    },
-    {
-        "title": "애플이 접었더니…삼성·LG가 웃는다",
-        "date": "2026-09-12 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169990"
-    },
-    {
-        "title": "아이폰18 프로·프로 맥스 예약전…통신3사, 단독 모델·AI·배송 경쟁",
-        "date": "2026-09-12 06:00",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208182"
-    },
-    {
-        "title": "‘애플식 환율’이 뭐길래…듀오는 美보다 비싸고, 구형도 최대 50만원...",
-        "date": "2026-09-12 06:00",
-        "link": "https://www.ekn.kr/web/view.php?key=20260911028443428"
-    },
-    {
-        "title": "이마트, 아이폰 18 라인업 사전예약 진행",
-        "date": "2026-09-12 06:00",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106151"
-    },
-    {
-        "title": "이마트, 아이폰 18 프로 라인업 사전예약 개시",
-        "date": "2026-09-12 06:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0009165998?sid=101"
-    },
-    {
-        "title": "이마트, 12일부터 아이폰18 사전예약…75개점서 접수",
-        "date": "2026-09-12 06:00",
-        "link": "https://www.etoday.co.kr/news/view/2624639"
-    },
-    {
-        "title": "애플 참전으로 불붙은 '폴더블' 판세…'7년 뚝심' 삼성전자가 웃는 이유",
-        "date": "2026-09-12 05:00",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275218"
-    },
-    {
-        "title": "애플 접는 폰 나오자…삼성 우리 음식 재탕 끝났나",
-        "date": "2026-09-12 04:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000532523?sid=104"
-    },
-    {
-        "title": "애플, 아이폰14·15·16 위성 SOS 무료 기간 1년 더 연장…아이폰16 첫 포...",
-        "date": "2026-09-12 03:12",
-        "link": "https://www.wikitree.co.kr/articles/1158964"
-    },
-    {
-        "title": "랄랄씨! 이거 AI 맞죠? 애플힙 부캐로 변신…필라테스의 효과는",
-        "date": "2026-09-12 03:00",
-        "link": "https://m.entertain.naver.com/article/003/0014185582"
-    },
-    {
-        "title": "단 20달러 차인데 성능은 확연히 다르다…기술매체가 추천 거부한 이 기...",
-        "date": "2026-09-12 02:10",
-        "link": "https://www.wikitree.co.kr/articles/1158962"
-    },
-    {
-        "title": "아이폰 듀오 전용 케이스, 내장 마그넷으로 씌운 채 맥세이프 충전 가능...",
-        "date": "2026-09-12 00:10",
-        "link": "https://www.wikitree.co.kr/articles/1158956"
-    },
-    {
-        "title": "'아이폰 18 시리즈' 통신사별 사전예약 혜택과 폴더블 가격까지",
-        "date": "2026-09-12 00:10",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692611"
-    },
-    {
-        "title": "[TGS 2026] 中 KTC, 600Hz 게이밍 모니터로 日 도전장",
-        "date": "2026-09-11 23:48",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024830"
-    },
-    {
-        "title": "애플 홈 서버 제안, 라우터·로컬 AI 결합 구상 나왔다",
-        "date": "2026-09-11 23:12",
-        "link": "https://www.tokenpost.kr/news/tech/406584"
-    },
-    {
-        "title": "[TGS 2026] 리젝트 X 갈레리아, 1티어 게임단과 게이밍 기어의 만남",
-        "date": "2026-09-11 22:36",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024827"
-    },
-    {
-        "title": "보호부터 충전까지 벨킨이 제안하는 갤럭시 Z 폴드 8 액세서리 생태계",
-        "date": "2026-09-11 21:06",
-        "link": "https://it.donga.com/109523/"
-    },
-    {
-        "title": "팀 쿡이 갤럭시로 바꿨다…삼성, 애플 폴더블폰에 '깜짝 반격'",
-        "date": "2026-09-11 21:02",
-        "link": "https://n.news.naver.com/mnews/article/003/0014185489?sid=105"
-    },
-    {
-        "title": "한때 세계 최고였는데 5위 안에도 못들어…아이폰 10년 앞섰던 日 모바...",
-        "date": "2026-09-11 19:35",
-        "link": "https://n.news.naver.com/mnews/article/277/0005815303?sid=104"
-    },
-    {
-        "title": "아이폰 듀오 공개 후 애플 목표주가 245~400달러",
-        "date": "2026-09-11 18:48",
-        "link": "https://www.tokenpost.kr/news/market/406412"
-    },
-    {
-        "title": "[위클리비즈]‘접으면 여권, 펼치면 태블릿’…한·미·중 ‘폴더블 삼...",
-        "date": "2026-09-11 18:42",
-        "link": "https://www.sentv.co.kr/article/view/sentv202609100027"
-    },
-    {
-        "title": "[소비자생활] 교원그룹ㆍ이마트ㆍ쿠팡",
-        "date": "2026-09-11 17:48",
-        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48923"
-    },
-    {
-        "title": "접으면서 맥북 급 성능 애플 아이폰 듀오·18프로, 타협은 없었다",
-        "date": "2026-09-11 17:38",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=750376"
-    },
-    {
-        "title": "[위클리오늘] 이동통신 소식_SK텔레콤, KT(9.11)",
-        "date": "2026-09-11 17:38",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=794188"
-    },
-    {
-        "title": "아이폰 듀오 가격, 329만원에 놀랐는데…인도선 421만원",
-        "date": "2026-09-11 17:38",
-        "link": "https://n.news.naver.com/mnews/article/031/0001057712?sid=105"
-    },
-    {
-        "title": "통신3사, 12일 '아이폰18 프로' 시리즈 사전예약 실시",
-        "date": "2026-09-11 17:37",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=637804"
-    },
-    {
-        "title": "아이폰18·폴더블 '아이폰 듀오' 출격…이통·유통 사전예약 '총력전'",
-        "date": "2026-09-11 17:36",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=102495"
-    },
-    {
-        "title": "이통3사, 아이폰18 프로 사전예약 돌입…요금·케어·온라인 혜택 경쟁",
-        "date": "2026-09-11 17:32",
-        "link": "https://www.newstnt.com/news/articleView.html?idxno=717938"
-    },
-    {
-        "title": "넥스턴앤롤코리아, 루멘스바이오스 25억 유증 전액 참여… 지분 27.3% 확...",
-        "date": "2026-09-11 17:26",
-        "link": "https://www.nbntv.kr/news/articleView.html?idxno=340797"
-    },
-    {
-        "title": "애플, 폴더블 스마트폰 '아이폰 듀오' 공개 시장 판도 바뀌나",
-        "date": "2026-09-11 17:24",
-        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60752"
-    },
-    {
-        "title": "아이폰 듀오가 깨운 ‘경박단소’ 기술…한국·일본 부품사 폴더블 특수",
-        "date": "2026-09-11 17:20",
-        "link": "https://n.news.naver.com/mnews/article/011/0004660958?sid=104"
-    },
-    {
-        "title": "'무게 깎는 장인' 삼성전자, 애플 생태계 '아이폰 듀오'와 경쟁",
-        "date": "2026-09-11 17:18",
-        "link": "https://www.newspost.kr/news/articleView.html?idxno=225615"
-    },
-    {
-        "title": "TCL, 'IFA 2026'서 TV·에어컨·모니터 등 주요 부문 국제 어워드 잇단 수...",
-        "date": "2026-09-11 17:08",
-        "link": "https://n.news.naver.com/mnews/article/030/0003466022?sid=105"
-    },
-    {
-        "title": "[데일리픽] 양자컴퓨터 나오면 비트코인 0원?…애플 10월 신제품 최소 7...",
-        "date": "2026-09-11 17:00",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699989"
-    },
-    {
-        "title": "LG유플러스, 아이폰 18 프로 사전예약…최대 20만원 할인·중고폰 18만원...",
-        "date": "2026-09-11 16:58",
-        "link": "https://www.eroun.net/news/articleView.html?idxno=89918"
-    },
-    {
-        "title": "SKT, 아이폰 18 프로 사전예약 돌입…최대 30만원 이용권·AI 구독 혜택",
-        "date": "2026-09-11 16:58",
-        "link": "https://www.eroun.net/news/articleView.html?idxno=89916"
-    },
-    {
-        "title": "애플 첫 폴더블폰 '아이폰 듀오' 공개…10월16일 사전주문",
-        "date": "2026-09-11 16:46",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=720365"
-    },
-    {
-        "title": "폴더블폰 OLED 소재량 3배↑…덕산네오룩스 실적 기대감",
-        "date": "2026-09-11 16:44",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=62171"
-    },
-    {
-        "title": "KT, 아이폰 듀오·아이폰 18 프로 등 애플 신제품 공개",
-        "date": "2026-09-11 16:42",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253024"
-    },
-    {
-        "title": "쿠팡, 아이폰 18 프로·프로맥스 사전예약 12일 시작",
-        "date": "2026-09-11 16:42",
-        "link": "https://www.sentv.co.kr/article/view/sentv202609110195"
-    },
-    {
-        "title": "SKT, 아이폰18 프로 사전예약 혜택 공개",
-        "date": "2026-09-11 16:34",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253020"
-    },
-    {
-        "title": "‘칩플레이션’에 ‘500만원 폰’ 시대 연 애플…올해 스마트폰 출시가...",
-        "date": "2026-09-11 16:30",
-        "link": "https://n.news.naver.com/mnews/article/081/0003679446?sid=101"
-    },
-    {
-        "title": "애플 폴더블폰도 ‘남의 떡’…한때 ‘핸드폰 강국’ 일본은 왜 몰락했...",
-        "date": "2026-09-11 16:20",
-        "link": "https://n.news.naver.com/mnews/article/028/0002822707?sid=104"
-    },
-    {
-        "title": "롯데카드, 띵샵 애플 브랜드관 열고 아이폰18 프로 시리즈 사전예약",
-        "date": "2026-09-11 16:18",
-        "link": "https://www.updownnews.co.kr/news/articleView.html?idxno=318741"
-    },
-    {
-        "title": "초고가 스마트폰 시대 본격화…애플 폴더블폰 합류에도 출하량 '뚝'",
-        "date": "2026-09-11 16:12",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260911010004495"
-    },
-    {
-        "title": "공간을 밝히는 순백의 미학, 화이트 게이밍 환경 구성하기 ② 게이밍 기...",
-        "date": "2026-09-11 16:00",
-        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60665"
-    },
-    {
-        "title": "아이폰18 사전예약하세요…통신3사, 오는 18일 출시 앞두고 혜택 경쟁",
-        "date": "2026-09-11 16:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=132675"
-    },
-    {
-        "title": "민팃, 아이폰 18 출시 맞춰 중고폰 추가 보상",
-        "date": "2026-09-11 16:00",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864473"
-    },
-    {
-        "title": "이통3사, 아이폰 18 시리즈 판매 시작…단독 판매부터 할인·보상까지",
-        "date": "2026-09-11 15:52",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406847"
-    },
-    {
-        "title": "통신 3사, 애플 '아이폰18' 사전예약 돌입",
-        "date": "2026-09-11 15:48",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310057"
-    },
-    {
-        "title": "우리 것 재탕 다 끝나면 알려달라…삼성, 애플 도발에 제대로 맞불",
-        "date": "2026-09-11 15:44",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=503995"
-    },
-    {
-        "title": "이통3사, 아이폰18 프로 사전예약 돌입…가입자 유치전",
-        "date": "2026-09-11 15:44",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=212205"
-    },
-    {
-        "title": "아이폰18 사전예약 12일 시작…통신 3사 할인·AI 서비스 경쟁",
-        "date": "2026-09-11 15:42",
-        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135300"
-    },
-    {
-        "title": "'아이폰 듀오' 맥세이프 탑재했지만…기존 액세서리 미호환",
-        "date": "2026-09-11 15:40",
-        "link": "https://kbench.com/?q=node/281858"
-    },
-    {
-        "title": "아이폰18 프로 사전예약 시작…통신3사, 할인·AI로 고객 잡기",
-        "date": "2026-09-11 15:38",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358829"
-    },
-    {
-        "title": "[Biz&amp;Law] 삼성전자, 美 디스플레이 특허침해 피소…갤럭시·TV 등 겨냥",
-        "date": "2026-09-11 15:36",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=727746"
-    },
-    {
-        "title": "통신 3사, 12일 아이폰18 프로 사전예약 시작",
-        "date": "2026-09-11 15:30",
-        "link": "https://n.news.naver.com/mnews/article/417/0001158055?sid=105"
-    },
-    {
-        "title": "애플 '아이폰 듀오' 손가락 합성 의혹…합성 아니냐 발칵",
-        "date": "2026-09-11 15:30",
-        "link": "https://n.news.naver.com/mnews/article/448/0000638797?sid=101"
-    },
-    {
-        "title": "아이폰18 프로 사전 예약 내일 시작...통신 3사, 혜택 경쟁 돌입",
-        "date": "2026-09-11 15:26",
-        "link": "https://www.ajunews.com/view/20260911142818197"
-    },
-    {
-        "title": "SKT·KT·LGU+, ‘아이폰18 프로’ 사전예약 돌입…중고폰 보상·AI 구독...",
-        "date": "2026-09-11 15:24",
-        "link": "https://www.ceoscoredaily.com/page/view/2026091115224070778"
-    },
-    {
-        "title": "中 추격에도 애플 폴더블은 삼성D…OLED 단독 공급",
-        "date": "2026-09-11 15:23",
-        "link": "https://n.news.naver.com/mnews/article/031/0001057645?sid=105"
-    },
-    {
-        "title": "삼성한테 폴드블폰 '명함' 건넨 애플...삼성 반응은?",
-        "date": "2026-09-11 15:22",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864442"
-    },
-    {
-        "title": "아이폰18 프로·프로맥스 사전예약 시작…통신3사 혜택 경쟁",
-        "date": "2026-09-11 15:22",
-        "link": "https://www.etoday.co.kr/news/view/2624562"
-    },
-    {
-        "title": "SKT·KT·LGU+, '아이폰 18 프로' 시리즈 사전예약 프로모션 진행",
-        "date": "2026-09-11 15:08",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1405317"
-    },
-    {
-        "title": "[뉴스워커_롯데카드] '띵샵'에 애플 브랜드관…아이폰18 프로 36개월 무...",
-        "date": "2026-09-11 14:56",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=503847"
-    },
-    {
-        "title": "통신 3사, 아이폰18 프로 가입자 유치전 돌입",
-        "date": "2026-09-11 14:54",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=747409"
-    },
-    {
-        "title": "아이폰17 첫해 매출 1700억 달러 돌파…역대 시리즈 최고 실적",
-        "date": "2026-09-11 14:50",
-        "link": "https://n.news.naver.com/mnews/article/005/0001872358?sid=101"
-    },
-    {
-        "title": "중국 희토류 무기화 우려에 페라이트주 들썩…케스피온 19% 날개",
-        "date": "2026-09-11 14:48",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486208"
-    },
-    {
-        "title": "통신3사, 아이폰18 프로 사전예약 돌입…할인·AI 혜택 경쟁",
-        "date": "2026-09-11 14:48",
-        "link": "https://n.news.naver.com/mnews/article/421/0009165342?sid=105"
-    },
-    {
-        "title": "이통 3사, 아이폰 18 사전예약 돌입…'중고폰 보상·자사 특화 혜택' 총...",
-        "date": "2026-09-11 14:46",
-        "link": "https://www.asiatime.co.kr/article/20260911500258"
-    },
-    {
-        "title": "'주름개선·방수' 강점 아이폰 듀오 vs '얇고 가벼운' 갤폴드8",
-        "date": "2026-09-11 14:44",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423633"
-    },
-    {
-        "title": "통신 3사 아이폰18 사전예약 12일 시작... 폴더블폰은 10월 16일부터",
-        "date": "2026-09-11 14:44",
-        "link": "https://n.news.naver.com/mnews/article/469/0000953524?sid=105"
-    },
-    {
-        "title": "KT, 12일부터 ‘아이폰18 프로’·‘아이폰18 프로 맥스’ 사전예약 시작",
-        "date": "2026-09-11 14:44",
-        "link": "https://www.viva100.com/article/20260911500653"
-    },
-    {
-        "title": "KT, 애플 첫 폴더블 '아이폰 듀오'·'아이폰 18 프로' 사전예약 돌입",
-        "date": "2026-09-11 14:42",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=262197"
-    },
-    {
-        "title": "삼성 계열사로 번진 '성과급 개편'…영업익 연동에 커지는 비용 부담[NW...",
-        "date": "2026-09-11 14:42",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026091111414978155"
-    },
-    {
-        "title": "[비즈톡톡] 애플의 새 수장 존 터너스가 보여준 전략은 ‘새로운 아이폰...",
-        "date": "2026-09-11 14:40",
-        "link": "https://n.news.naver.com/mnews/article/366/0001191798?sid=105"
-    },
-    {
-        "title": "이통3사, '아이폰18 프로' 시리즈 12일부터 사전 판매 시작",
-        "date": "2026-09-11 14:34",
-        "link": "https://n.news.naver.com/mnews/article/003/0014184753?sid=105"
-    },
-    {
-        "title": "아이폰17, 첫해 매출 1700억달러 '역대 최고'…중국서 35% 급증",
-        "date": "2026-09-11 14:33",
-        "link": "https://n.news.naver.com/mnews/article/003/0014184751?sid=105"
-    },
-    {
-        "title": "이통 3사, 이달 12일 ‘아이폰18’ 사전예약 혜택 경쟁…폴더블 ‘듀오...",
-        "date": "2026-09-11 14:31",
-        "link": "https://n.news.naver.com/mnews/article/366/0001191795?sid=105"
-    },
-    {
-        "title": "아이폰17, 출시 첫해 매출 1700억달러 돌파…역대 최고",
-        "date": "2026-09-11 14:30",
-        "link": "https://n.news.naver.com/mnews/article/031/0001057605?sid=105"
-    },
-    {
-        "title": "민팃, 아이폰 18 출시 맞춰 중고폰 '올 보상'...최대 5만원 추가 지급",
-        "date": "2026-09-11 14:26",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=262185"
-    },
-    {
-        "title": "샤넬 사는 이유?…애플, 1999弗 폴더블폰 '명품화' 승부수",
-        "date": "2026-09-11 14:25",
-        "link": "https://n.news.naver.com/mnews/article/003/0014184726?sid=104"
-    },
-    {
-        "title": "목 끝까지 따라온 中 OLED…중형 시장서 '가격' 무기로 韓 추격",
-        "date": "2026-09-11 14:24",
-        "link": "https://n.news.naver.com/mnews/article/293/0000090340?sid=101"
-    },
-    {
-        "title": "애플 첫 폴더블 '아이폰 듀오' 온다…KT, 10월 23일 출시",
-        "date": "2026-09-11 14:20",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300764"
-    },
-    {
-        "title": "SKT, ‘아이폰 신제품’ 사전예약 프로모션 시작⋯ “SKT만의 혜택 총집...",
-        "date": "2026-09-11 14:20",
-        "link": "https://www.viva100.com/article/20260911500579"
-    },
-    {
-        "title": "이통3사, '아이폰18 프로' 고객 쟁탈전…보조금보다 '락인'",
-        "date": "2026-09-11 14:20",
-        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241553"
-    },
-    {
-        "title": "[초점] 개인 맥락 품은 AI, 접히는 아이폰…애플이 답해야 할 '쓸 이유'",
-        "date": "2026-09-11 14:18",
-        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241545"
-    },
-    {
-        "title": "아이폰 듀오, 올해 폴더블 시장 2위 전망...삼성 35.1% 선두",
-        "date": "2026-09-11 14:18",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699973"
-    },
-    {
-        "title": "SK텔레콤, 아이폰 18 프로 사전예약 12일 시작",
-        "date": "2026-09-11 14:18",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300765"
-    },
-    {
-        "title": "플래그십 AP ‘2나노 시대’…삼성·TSMC 파운드리 격전",
-        "date": "2026-09-11 14:18",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1313397&inflow=N"
-    },
-    {
-        "title": "애플 폴더블 '아이폰 듀오' 최고 431만원…누굴 위한 제품인가",
-        "date": "2026-09-11 14:11",
-        "link": "https://n.news.naver.com/mnews/article/421/0009165169?sid=104"
-    },
-    {
-        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등...",
-        "date": "2026-09-11 14:06",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304799?sid=105"
-    },
-    {
-        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등...",
-        "date": "2026-09-11 14:06",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304800?sid=105"
-    },
-    {
-        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등...",
-        "date": "2026-09-11 14:06",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304801?sid=105"
-    },
-    {
-        "title": "LG유플러스, 애플 iPhone 18 Pro·iPhone 18 Pro Max 사전예약 개시",
-        "date": "2026-09-11 14:06",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=237890"
-    },
-    {
-        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등...",
-        "date": "2026-09-11 14:05",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304797?sid=105"
-    },
-    {
-        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등...",
-        "date": "2026-09-11 14:05",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304796?sid=105"
-    },
-    {
-        "title": "SKT·KT·LG유플러스 아이폰18 판매전 '점화'...12일 '개전'",
-        "date": "2026-09-11 14:04",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=155154"
-    },
-    {
-        "title": "통신 3사, 아이폰18 프로 사전예약 돌입…애플 첫 폴더블 ‘듀오’도 내...",
-        "date": "2026-09-11 14:00",
-        "link": "https://www.socialvalue.kr/news/view/1065587170681722"
-    },
-    {
-        "title": "KT, 아이폰18 Pro 사전예약 시작…애플 신제품 순차 출시",
-        "date": "2026-09-11 14:00",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=720346"
-    },
-    {
-        "title": "KT, 아이폰18 프로·애플워치12 사전예약 실시…AI 성능·라인업 대폭 확...",
-        "date": "2026-09-11 13:58",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=118008"
-    },
-    {
-        "title": "통신3사, 아이폰18 사전예약 돌입 … 할인·AI·보상 혜택 경쟁",
-        "date": "2026-09-11 13:58",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100165.html"
-    },
-    {
-        "title": "신한카드, 아이폰 18 시리즈 구매 고객 대상 이벤트 진행",
-        "date": "2026-09-11 13:58",
-        "link": "https://www.sentv.co.kr/article/view/sentv202609110121"
-    },
-    {
-        "title": "통신 3사, 아이폰18 프로 사전예약 혜택 경쟁…할인·보상·에어팟까지",
-        "date": "2026-09-11 13:55",
-        "link": "https://n.news.naver.com/mnews/article/119/0003131692?sid=105"
-    },
-    {
-        "title": "애플 아이폰17, 첫해 매출 1700억 달러 돌파…역대 최고 실적",
-        "date": "2026-09-11 13:54",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723917"
-    },
-    {
-        "title": "아이폰18 프로 사전예약 12일 시작…통신 3사 혜택 경쟁",
-        "date": "2026-09-11 13:51",
-        "link": "https://n.news.naver.com/mnews/article/008/0005412491?sid=105"
-    },
-    {
-        "title": "[마켓+]이통 3사, 아이폰18 프로 12일부터 사전예약 돌입…보상·할인 경...",
-        "date": "2026-09-11 13:50",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=116723"
-    },
-    {
-        "title": "아이폰17 첫해 매출 1천700억달러 돌파…역대 시리즈 최고",
-        "date": "2026-09-11 13:48",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304753?sid=105"
-    },
-    {
-        "title": "아이폰18 프로 예약판매 돌입…이통 3사 혜택 경쟁",
-        "date": "2026-09-11 13:48",
-        "link": "https://n.news.naver.com/mnews/article/001/0016304750?sid=105"
-    },
-    {
-        "title": "통신3사, 아이폰 18 프로' 사전예약 시작…할인·AI 혜택 경쟁",
-        "date": "2026-09-11 13:45",
-        "link": "https://n.news.naver.com/mnews/article/629/0000532977?sid=105"
-    },
-    {
-        "title": "아산, 삼성 113조 딛고 50만 도시 속도",
-        "date": "2026-09-11 13:40",
-        "link": "https://www.sentv.co.kr/article/view/sentv202609110085"
-    },
-    {
-        "title": "통신3사, 아이폰18 프로 고객 잡기…할인·AI 혜택 총공세",
-        "date": "2026-09-11 13:36",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136080"
-    },
-    {
-        "title": "혁신이라 했지만... 애플 아이폰 듀오, 삼성 갤럭시 폴드8 넘기에는 부...",
-        "date": "2026-09-11 13:20",
-        "link": "http://www.globalepic.co.kr/view.php?ud=20260911131510600448439a4874_29"
-    },
-    {
-        "title": "SKT, 아이폰18 프로 사전예약 혜택 강화 … 최대 122만원 중고폰 보상",
-        "date": "2026-09-11 13:10",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89138"
-    },
-    {
-        "title": "TCL, IFA 2026서 TV·에어컨·모니터 관련 국제상 수상",
-        "date": "2026-09-11 13:08",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202609111307204966204ead0791_12"
-    },
-    {
-        "title": "LG전자, 인니서 'MRGB evo AI TV' 100인치 프리미엄 제품 출시",
-        "date": "2026-09-11 12:54",
-        "link": "https://n.news.naver.com/mnews/article/014/0005574467?sid=101"
-    },
-    {
-        "title": "애플 아이폰17, 첫해 매출 1700억 달러 돌파…역대 최대",
-        "date": "2026-09-11 12:34",
-        "link": "https://www.ajunews.com/view/20260911123034026"
-    },
-    {
-        "title": "아이폰18 프로 사전예약 12일 오후 9시 시작…쿠팡 혜택은",
-        "date": "2026-09-11 12:24",
-        "link": "https://www.kizmom.com/news/articleView.html?idxno=112677"
-    },
-    {
-        "title": "“저걸 왜 펴서 잡아?” 아이폰 폴더블 ‘손가락’에 시끌",
-        "date": "2026-09-11 12:16",
-        "link": "https://n.news.naver.com/mnews/article/018/0006367600?sid=102"
-    },
-    {
-        "title": "‘254g’ 애플과 ‘9mm’ 중국… 7년 내공 '원조 폴더블' 삼성, 더 견고...",
-        "date": "2026-09-11 11:56",
-        "link": "https://www.mediapen.com/news/view/1122880"
-    },
-    {
-        "title": "애플워치 구형 모델은 못 쓴다…'준비 상태' 기능 최신 모델만 지원",
-        "date": "2026-09-11 11:54",
-        "link": "https://kbench.com/?q=node/281846"
-    },
-    {
-        "title": "아이폰 듀오, 한국서 80만원 더 비싸…'애플식 환율' 논란",
-        "date": "2026-09-11 11:52",
-        "link": "https://n.news.naver.com/mnews/article/374/0000532420?sid=101"
-    },
-    {
-        "title": "아이폰18 프로 맥스 vs 갤럭시 S26 울트라…6.9인치 대화면 플래그십 최...",
-        "date": "2026-09-11 11:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699920"
-    },
-    {
-        "title": "삼성 잡겠다는 애플, 잡스의 혁신 어디로?",
-        "date": "2026-09-11 11:40",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=106512"
-    },
-    {
-        "title": "'접는 아이폰'이 태블릿 살릴까…애플 '듀오' 대화면 생태계 판 흔든다",
-        "date": "2026-09-11 11:40",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=300994"
-    },
-    {
-        "title": "TSMC, 1.4나노 양산 '6개월 단축'…삼성전자도 최첨단 공정 개발 고삐",
-        "date": "2026-09-11 11:29",
-        "link": "https://n.news.naver.com/mnews/article/003/0014184350?sid=101"
-    },
-    {
-        "title": "애플 첫 폴더블 '아이폰 듀오' 출격…삼성전자 이어 2위 도약 전망",
-        "date": "2026-09-11 11:28",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=82620"
-    },
-    {
-        "title": "알파스캔, 에브니아 27형 OLED 게이밍 모니터 추가 물량 예약판매 실시",
-        "date": "2026-09-11 11:10",
-        "link": "https://www.cnet.co.kr/view/?no=20260911110816"
-    },
-    {
-        "title": "폰 접은 애플, 이번엔 화면 늘어나는 폰 만드나",
-        "date": "2026-09-11 11:02",
-        "link": "https://n.news.naver.com/mnews/article/092/0002437106?sid=105"
-    },
-    {
-        "title": "아이폰 듀오 공개하자…삼성 세 번 접고 있을게” 잇단 풍자",
-        "date": "2026-09-11 11:02",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260911010004384"
-    },
-    {
-        "title": "애플 첫 폴더블 한국 출시 10월 이후로",
-        "date": "2026-09-11 11:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003465892?sid=105"
-    },
-    {
-        "title": "'MMOLite' 문법 내세운 스마일게이트 신작 '이클립스', 애플 앱스토어 매...",
-        "date": "2026-09-11 10:56",
-        "link": "https://gamefocus.co.kr/detail.php?number=178978"
-    },
-    {
-        "title": "‘픽셀 테이머즈’, 애플 앱스토어 인기 순위 1위 달성… 구글 4위 안착",
-        "date": "2026-09-11 10:50",
-        "link": "https://n.news.naver.com/mnews/article/109/0005604776?sid=105"
-    },
-    {
-        "title": "롯데카드, '띵샵'에 애플 브랜드관 마련",
-        "date": "2026-09-11 10:44",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275103"
-    },
-    {
-        "title": "[출근길포인트] SMR 특별법 시행…정부, 2035년 전 경수형 상용화 추진",
-        "date": "2026-09-11 10:44",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318926"
-    },
-    {
-        "title": "한국보다 60만원 싸다…폴더블 아이폰 가장 싼 '이 나라'",
-        "date": "2026-09-11 10:41",
-        "link": "https://n.news.naver.com/mnews/article/015/0005331263?sid=101"
-    },
-    {
-        "title": "삼성·샤오미에 애플까지…막 오른 폴더블폰 춘추전국시대 승자는?",
-        "date": "2026-09-11 10:38",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486030"
-    },
-    {
-        "title": "애플 첫 폴더블 '아이폰 듀오' 中 시장 도전장…화웨이 텃밭 흔들까",
-        "date": "2026-09-11 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699870"
-    },
-    {
-        "title": "아이폰 끝 아니다 애플, 10월 신제품 최소 7종 전망…첫 터치 맥북 주...",
-        "date": "2026-09-11 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699904"
-    },
-    {
-        "title": "애플, 7년 만에 아이폰 출시 주기 대수술…가을엔 프로·봄엔 일반형 '따...",
-        "date": "2026-09-11 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699886"
-    },
-    {
-        "title": "접는 아이폰이 아이패드도 살릴까…듀오, 대화면 앱 생태계 깨운다",
-        "date": "2026-09-11 10:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0014184101?sid=105"
-    },
-    {
-        "title": "애플, 구형 아이폰 위성 연결 기능 1년 연장…카메라 신기능은 최신폰만",
-        "date": "2026-09-11 10:30",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699889"
-    },
-    {
-        "title": "스티브 잡스 무덤에서 일어날 것…아이폰 듀오 실물서 드러난 주름에...",
-        "date": "2026-09-11 10:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699867"
-    },
-    {
-        "title": "애플 폴더블폰 '아이폰 듀오'…접으면 아이폰, 펼치면 아이패드 [아침&amp;...",
-        "date": "2026-09-11 10:27",
-        "link": "https://n.news.naver.com/mnews/article/057/0001968486?sid=102"
-    },
-    {
-        "title": "[TGS 2026] 엔씨×삼성전자 '아스트라에 오라티오' 시연 협업",
-        "date": "2026-09-11 10:22",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2117868"
-    },
-    {
-        "title": "[더밸류 브리핑] 오늘의 카드 소식…신한카드·롯데카드",
-        "date": "2026-09-11 10:10",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201496"
-    },
-    {
-        "title": "모토로라 '아이폰 듀오'에 맞불…와이드 폴더블폰 출시 예고",
-        "date": "2026-09-11 10:08",
-        "link": "https://kbench.com/?q=node/281833"
-    },
-    {
-        "title": "제이앤티씨·액트로 상승 드라이브… 고부가가치 카메라·글라스 수요 ...",
-        "date": "2026-09-11 10:04",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486080"
-    },
-    {
-        "title": "애플 3.6% 상승…PPI 뒤 금리 인상 확률 70%",
-        "date": "2026-09-11 10:00",
-        "link": "https://www.tokenpost.kr/news/breaking/406160"
-    },
-    {
-        "title": "한화이센셜, 2년 연속 '2026 일자리 으뜸기업' 선정",
-        "date": "2026-09-11 09:58",
-        "link": "https://n.news.naver.com/mnews/article/421/0009164488?sid=101"
-    },
-    {
-        "title": "미국 13만원, 한국 101만원… 폴더블폰 가격차 왜?",
-        "date": "2026-09-11 09:56",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=727703"
-    },
-    {
-        "title": "애플, 첫 폴더블 스마트폰 '아이폰 듀오' 선봬",
-        "date": "2026-09-11 09:52",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406822"
-    },
-    {
-        "title": "칼시, 테슬라·애플·엔비디아 연계 무기한 선물 승인 추진",
-        "date": "2026-09-11 09:52",
-        "link": "https://www.tokenpost.kr/news/breaking/406153"
-    },
-    {
-        "title": "이노메트리 폴더블폰 CT 검사 장비 공급…타사와도 협의",
-        "date": "2026-09-11 09:46",
-        "link": "https://n.news.naver.com/mnews/article/092/0002437083?sid=105"
-    },
-    {
-        "title": "우리가 먹다 남긴 것…애플도 접자 삼성은 비웃었다",
-        "date": "2026-09-11 09:36",
-        "link": "https://n.news.naver.com/mnews/article/586/0000137948?sid=101"
-    },
-    {
-        "title": "롯데카드, '띵샵' 애플 브랜드관 오픈...아이폰 18 프로 사전 예약",
-        "date": "2026-09-11 09:36",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318902"
-    },
-    {
-        "title": "롯데카드, 띵샵에 '애플 브랜드관' 오픈…'아이폰 18프로' 사전 예약 진...",
-        "date": "2026-09-11 09:34",
-        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6939524"
-    },
-    {
-        "title": "이노메트리, 폴더블폰 CT 검사장비 ‘폴드뷰 CT’ 양산 확대로 모바일 ...",
-        "date": "2026-09-11 09:21",
-        "link": "https://n.news.naver.com/mnews/article/018/0006367431?sid=105"
-    },
-    {
-        "title": "이노메트리, 폴더블폰 검사시장 공략…'폴드뷰 CT' 글로벌 공급 확대 추...",
-        "date": "2026-09-11 09:18",
-        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=208527"
-    },
-    {
-        "title": "롯데카드, ‘띵샵’서 아이폰 18 프로 시리즈 사전 예약",
-        "date": "2026-09-11 09:18",
-        "link": "https://www.viva100.com/article/20260911500083"
-    },
-    {
-        "title": "롯데카드 띵샵, 애플 브랜드관 열어…아이폰18 프로 사전예약",
-        "date": "2026-09-11 09:17",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000099758"
-    },
-    {
-        "title": "애플워치 시리즈12·울트라4, RAM 용량 2GB → 4GB 증가",
-        "date": "2026-09-11 09:12",
-        "link": "https://kbench.com/?q=node/281828"
-    },
-    {
-        "title": "'삼성이 애플 두드려팼다'…불붙은 디스전에 임원까지 등판 [이슈+]",
-        "date": "2026-09-11 09:12",
-        "link": "https://n.news.naver.com/mnews/article/015/0005331215?sid=101"
-    },
-    {
-        "title": "이노메트리, 폴더블폰 CT 검사장비로 모바일·IT 시장 공략",
-        "date": "2026-09-11 09:00",
-        "link": "https://www.newspim.com/news/view/20260910001073"
-    },
-    {
-        "title": "롯데카드 띵샵, '아이폰 18 프로' 사전예약…36개월 무이자 할부",
-        "date": "2026-09-11 09:00",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=765338"
-    },
-    {
-        "title": "10대 파운드리 2분기 매출 535억 달러…분기 최고실적 경신",
-        "date": "2026-09-11 09:00",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=224580"
-    },
-    {
-        "title": "이노메트리, 폴더블폰 검사시장 공략···'폴드뷰 CT' 글로벌 공급 확대...",
-        "date": "2026-09-11 08:58",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54292"
-    },
-    {
-        "title": "우린 세 겹으로 접고 있을게…삼성, 애플 첫 폴더블 저격 글 [어떻게 ...",
-        "date": "2026-09-11 08:51",
-        "link": "https://n.news.naver.com/mnews/article/014/0005574310?sid=105"
-    },
-    {
-        "title": "아이폰17 시리즈 첫해 매출 1700억 달러…역대 아이폰 중 최고",
-        "date": "2026-09-11 08:48",
-        "link": "https://www.g-enews.com/view.php?ud=202609110840328022139bf6e4b2_1"
-    },
-    {
-        "title": "롯데카드, '띵샵'에서 아이폰 18 프로 사전 예약... 카드사 최초 프리미...",
-        "date": "2026-09-11 08:46",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276683"
-    },
-    {
-        "title": "아이폰 듀오, 직접 써보니…갤Z폴드8과 뭐가 달랐나",
-        "date": "2026-09-11 08:40",
-        "link": "https://n.news.naver.com/mnews/article/092/0002437058?sid=105"
-    },
-    {
-        "title": "롯데카드, '애플 프리미엄 입점' 카드로 커머스 영토 확장",
-        "date": "2026-09-11 08:22",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87706"
-    },
-    {
-        "title": "애플 전혀 새롭지 않다 美 통신사 CEO '냉랭' [여의도 Pick!]",
-        "date": "2026-09-11 08:04",
-        "link": "https://news.mtn.co.kr/news-detail/2026091108001512182"
-    },
-    {
-        "title": "애플 첫 폴더블, 단숨에 시장 2위 정조준",
-        "date": "2026-09-11 08:03",
-        "link": "https://n.news.naver.com/mnews/article/119/0003131513?sid=105"
-    },
-    {
-        "title": "[미국 특징주] 애플 폴더블 아이폰 듀오 후기...인상적인 HW, 더 뛰어난...",
-        "date": "2026-09-11 08:02",
-        "link": "https://www.newspim.com/news/view/20260911000066"
-    },
-    {
-        "title": "접는 아이폰으로 첫 인사! 존 터너스 애플 CEO",
-        "date": "2026-09-11 08:00",
-        "link": "https://kids.donga.com/news/articleView.html?idxno=169824"
-    },
-    {
-        "title": "NH투자증권 “애플, 아이폰18 가격 인상 최소화…폴더블로 성장축 확대...",
-        "date": "2026-09-11 07:50",
-        "link": "https://www.etoday.co.kr/news/view/2624287"
-    },
-    {
-        "title": "[넥스트-샷] 기름값이 불붙이고 PPI가 부채질···다시 매가 된 연준",
-        "date": "2026-09-11 07:30",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258605"
-    },
-    {
-        "title": "월급보다 비싸진 아이폰…日, 갤럭시로 눈 돌릴까 [도쿄나우]",
-        "date": "2026-09-11 07:26",
-        "link": "https://n.news.naver.com/mnews/article/015/0005331181?sid=104"
-    },
-    {
-        "title": "애플, 아이폰 듀오·18 프로 등 신제품 효과? 주가 3.6% 급등…나홀로 강...",
-        "date": "2026-09-11 07:20",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=765271"
-    },
-    {
-        "title": "아이폰18 프로 온다…통신 3사, 하반기 고객 유치 경쟁 '활활'",
-        "date": "2026-09-11 07:12",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026091017115078580"
-    },
-    {
-        "title": "애플 접는폰 한국만 80만원 비싸게 판다?",
-        "date": "2026-09-11 07:05",
-        "link": "https://n.news.naver.com/mnews/article/374/0000532334?sid=101"
-    },
-    {
-        "title": "[9월10일] 애플 새 CEO 첫 무대…AI 시대에도 결국 아이폰이 개인 AI 허...",
-        "date": "2026-09-11 07:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=215083"
     }
 ]
