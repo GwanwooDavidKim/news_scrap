@@ -1,5 +1,725 @@
 [
     {
+        "title": "삼성 폴더블폰, 美 컨슈머리포트 휩쓸어…갤Z 폴드8 울트라 1위 올라",
+        "date": "2026-09-15 17:45",
+        "link": "https://n.news.naver.com/mnews/article/076/0004446364?sid=101"
+    },
+    {
+        "title": "우드 패널부터 프레임리스 듀얼 챔버까지… 마이크로닉스, APNX 케이스 특...",
+        "date": "2026-09-15 17:28",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60691"
+    },
+    {
+        "title": "애플, 시리 AI 탑재 'iOS 27' 배포 시작...차세대 아이폰 출격 채비",
+        "date": "2026-09-15 17:26",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=215300"
+    },
+    {
+        "title": "스마일게이트 이클립스, 구글·애플 앱마켓 1위...'MMOLite' 먹혔다",
+        "date": "2026-09-15 17:26",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=365547"
+    },
+    {
+        "title": "삼성 '갤럭시 A08' 공식 발표…6000mAh 대용량 배터리·6.7인치 LCD 탑재",
+        "date": "2026-09-15 17:24",
+        "link": "https://kbench.com/?q=node/281926"
+    },
+    {
+        "title": "삼성D, 12인치 RGB OLEDoS 양산에 3000억 투자",
+        "date": "2026-09-15 17:18",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=62280"
+    },
+    {
+        "title": "애플, iOS 27 공개…'시리 AI' 진화",
+        "date": "2026-09-15 17:14",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=865278"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 울트라, 美 소비자 평가서 폴더블폰 1위",
+        "date": "2026-09-15 17:04",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1414353"
+    },
+    {
+        "title": "LGD '플립'용 OLED 증착기, 야스·선익시스템 공급 경쟁 구도",
+        "date": "2026-09-15 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467072?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 Z폴드8 울트라, 美 컨슈머리포트 폴더블 평가 1위",
+        "date": "2026-09-15 16:56",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192554?sid=105"
+    },
+    {
+        "title": "화웨이 '메이트 90' 출시 전 사양 유출... 1만 니트 OLED 탑재",
+        "date": "2026-09-15 16:52",
+        "link": "https://kbench.com/?q=node/281925"
+    },
+    {
+        "title": "애플, iOS 27 함께 'iOS 26.7' 배포…보안 취약점 수정",
+        "date": "2026-09-15 16:40",
+        "link": "https://kbench.com/?q=node/281924"
+    },
+    {
+        "title": "일본인 지갑 열게 한 최고 브랜드, 애플·유니클로 아니었다",
+        "date": "2026-09-15 16:39",
+        "link": "https://n.news.naver.com/mnews/article/015/0005332555?sid=104"
+    },
+    {
+        "title": "애플 ‘시리 AI’ 10월 한국어판 출시…삼성과 AI폰 정면승부",
+        "date": "2026-09-15 16:28",
+        "link": "http://www.metroseoul.co.kr/article/20260915500516"
+    },
+    {
+        "title": "'라이트'한 MMORPG 재미 통했다... 스마일게이트 '이클립스' 구글-애플 양...",
+        "date": "2026-09-15 16:28",
+        "link": "https://gamefocus.co.kr/detail.php?number=179093"
+    },
+    {
+        "title": "애플 신작 기대감에…삼성D·LGD, 프리미엄 OLED 존재감",
+        "date": "2026-09-15 16:22",
+        "link": "http://www.metroseoul.co.kr/article/20260915500509"
+    },
+    {
+        "title": "스마일게이트 이클립스, 구글·애플 양대 앱 마켓 매출 1위 석권",
+        "date": "2026-09-15 16:18",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=3223"
+    },
+    {
+        "title": "갤럭시Z 폴드8 울트라, 美 컨슈머리포트 폴더블폰 평가서 1위",
+        "date": "2026-09-15 16:14",
+        "link": "https://kbench.com/?q=node/281923"
+    },
+    {
+        "title": "스마일게이트 '이클립스', 구글·애플 양대 앱 마켓 최고 매출 1위 석권",
+        "date": "2026-09-15 16:14",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437539?sid=105"
+    },
+    {
+        "title": "“게임 잡아라” 삼성·LG, OLED 모니터 전쟁… ‘프로게이머 표준’ 24...",
+        "date": "2026-09-15 16:11",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192535?sid=105"
+    },
+    {
+        "title": "애플, 차세대 '애플 인텔리전스' 출시…시리 AI가 앱 작업까지 수행",
+        "date": "2026-09-15 16:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170182"
+    },
+    {
+        "title": "'160만원→40만원' 반의 반토막…1030 돌아서자 벌어진 일",
+        "date": "2026-09-15 16:05",
+        "link": "https://n.news.naver.com/mnews/article/015/0005332536?sid=105"
+    },
+    {
+        "title": "[단독]선익시스템, 中 5곳 이상에 OLEDoS 증착기 공급",
+        "date": "2026-09-15 16:04",
+        "link": "https://news.mtn.co.kr/news-detail/2026091511005293578"
+    },
+    {
+        "title": "아이폰·폴더블 붙잡은 삼성D, 이제 노트북·車 OLED 정조준",
+        "date": "2026-09-15 16:02",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026091514553672343"
+    },
+    {
+        "title": "폴더블 패널 하반기 71% 반등⋯삼성디스플레이 점유율 66%",
+        "date": "2026-09-15 15:58",
+        "link": "https://www.etoday.co.kr/news/view/2625832"
+    },
+    {
+        "title": "애플 홈에도 AI 왔다…여러 카메라 쓰려면 구독료 '껑충'",
+        "date": "2026-09-15 15:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700721"
+    },
+    {
+        "title": "애플, iOS27 정식 출시... 지금 바로 이용 가능",
+        "date": "2026-09-15 15:50",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136262"
+    },
+    {
+        "title": "애플 폴더블폰 효과… 하반기 패널 출하량 71% 증가 전망",
+        "date": "2026-09-15 15:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192522?sid=105"
+    },
+    {
+        "title": "트럼프 전화 받은 젠슨 황…손에 든 폰은 '갤럭시 Z 폴드8'",
+        "date": "2026-09-15 15:44",
+        "link": "https://n.news.naver.com/mnews/article/031/0001058599?sid=105"
+    },
+    {
+        "title": "아이폰 듀오, 케이스 때문에 화면 가리면 베젤 넓어진다…iOS 27 '좌측 가...",
+        "date": "2026-09-15 15:42",
+        "link": "https://kbench.com/?q=node/281922"
+    },
+    {
+        "title": "마이크로닉스 'APNX 가을 세일 페스티벌' 개최",
+        "date": "2026-09-15 15:42",
+        "link": "https://gamefocus.co.kr/detail.php?number=179081"
+    },
+    {
+        "title": "젠슨 황 손에 또 삼성 폴더블폰… 이번엔 '갤럭시 Z 폴드8'",
+        "date": "2026-09-15 15:40",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3432910"
+    },
+    {
+        "title": "폴더블 패널 출하량, 애플 덕에 ‘하반기 71% 증가’ 반등 전망",
+        "date": "2026-09-15 15:39",
+        "link": "https://n.news.naver.com/mnews/article/020/0003748265?sid=101"
+    },
+    {
+        "title": "OLED 아성 무너질까···'신축 QLED' 제작 기술 나왔다",
+        "date": "2026-09-15 15:35",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2470760"
+    },
+    {
+        "title": "스페이스XAI, 애플 상대 반독점 소송 취하…오픈AI 소송은 유지",
+        "date": "2026-09-15 15:30",
+        "link": "https://www.mediajeju.com/news/articleView.html?idxno=366283"
+    },
+    {
+        "title": "329만원 '아이폰 듀오', 갤럭시 Z 폴드8보다 아쉬운 6가지",
+        "date": "2026-09-15 15:26",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=317820"
+    },
+    {
+        "title": "올해 폴더블 패널 출하 23% 증가 전망…삼성D, 상반기 점유율 1위",
+        "date": "2026-09-15 15:20",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170175"
+    },
+    {
+        "title": "오픈AI, 카메라용 AI기술 확보...4000억에 '글래스 이미징' 인수",
+        "date": "2026-09-15 15:16",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=62297"
+    },
+    {
+        "title": "폴더블 패널, ‘북타입’ 중심 재편…하반기 71% 반등 전망",
+        "date": "2026-09-15 15:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006369747?sid=101"
+    },
+    {
+        "title": "스마일게이트 신작 ‘이클립스’, 구글·애플 앱마켓 매출 1위",
+        "date": "2026-09-15 15:12",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609150168"
+    },
+    {
+        "title": "갤럭시S26 가격 인상 검토…리퍼폰으로 부담 낮춘다",
+        "date": "2026-09-15 15:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600452"
+    },
+    {
+        "title": "가격·재입고 확인도 AI가…애플, 사파리 쇼핑 알림 도입",
+        "date": "2026-09-15 15:02",
+        "link": "http://coinreaders.com/258283"
+    },
+    {
+        "title": "[Game &amp; Now] 스마일게이트 '이클립스' 구글·애플 매출 1위…스토브 신...",
+        "date": "2026-09-15 15:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724332"
+    },
+    {
+        "title": "스마일게이트, '이클립스' 구글-애플 양대 앱 마켓 매출 1위 달성",
+        "date": "2026-09-15 15:02",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=720740"
+    },
+    {
+        "title": "폴더블 패널, 상반기 13% 감소…하반기 71% 반등 전망",
+        "date": "2026-09-15 15:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002241496?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 폴더블 패널 점유율 51% 독주…애플 출시에 삼성 웃는...",
+        "date": "2026-09-15 14:56",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275687"
+    },
+    {
+        "title": "젠슨 황도 쓰는 '갤Z폴드8'…울트라 모델은 美 컨슈머리포트 1위",
+        "date": "2026-09-15 14:56",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724322"
+    },
+    {
+        "title": "트럼프 전화받은 젠슨 황…손에 든 '아이폰 듀오' 눈길",
+        "date": "2026-09-15 14:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700684"
+    },
+    {
+        "title": "삼성, 갤럭시Z 폴드8·플립8 'One UI 9.5' 내부 테스트 시작",
+        "date": "2026-09-15 14:40",
+        "link": "https://kbench.com/?q=node/281920"
+    },
+    {
+        "title": "애플, 10년 내 아이폰 대부분 폴더블 전환 전망…아이폰 SE까지 거론",
+        "date": "2026-09-15 14:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700702"
+    },
+    {
+        "title": "애플, 개인 맥락 이해하는 ‘시리 AI’ 공개… 한국어는 10월 지원",
+        "date": "2026-09-15 14:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192486?sid=105"
+    },
+    {
+        "title": "폴더블 스마트폰 패널, 상반기 13% 감소…하반기 71% 반등 전망",
+        "date": "2026-09-15 14:22",
+        "link": "https://n.news.naver.com/mnews/article/421/0009171297?sid=101"
+    },
+    {
+        "title": "‘갤럭시 Z 폴드8 울트라’ ’갤럭시 S26 울트라’, 美 컨슈머 리포트 1...",
+        "date": "2026-09-15 14:20",
+        "link": "https://n.news.naver.com/mnews/article/016/0002697585?sid=105"
+    },
+    {
+        "title": "후발주자 보고 있나…갤럭시 Z 폴드8 울트라 美 1위",
+        "date": "2026-09-15 14:16",
+        "link": "https://n.news.naver.com/mnews/article/586/0000138223?sid=101"
+    },
+    {
+        "title": "삼성D, 상반기 폴더블 패널 과반 점유 '굳건'…하반기 시장 반등 주도",
+        "date": "2026-09-15 14:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724314"
+    },
+    {
+        "title": "오픈AI, 스마트폰 카메라 기업 인수...AI 기기 ‘눈’ 확보",
+        "date": "2026-09-15 14:06",
+        "link": "https://n.news.naver.com/mnews/article/023/0003998534?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 게이밍 OLED 성능 한계 넘었다…2K·165Hz 구현",
+        "date": "2026-09-15 14:00",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358991"
+    },
+    {
+        "title": "카운터포인트리서치, “상반기 폴더블 OLED 역성장 속 삼성D 점유율 10%P...",
+        "date": "2026-09-15 13:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003466920?sid=105"
+    },
+    {
+        "title": "'갤럭시 찐팬' 젠슨 황, 이번엔 Z 폴드8",
+        "date": "2026-09-15 13:56",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743157"
+    },
+    {
+        "title": "스마일게이트 '이클립스', 구글·애플 앱 매출 1위…출시 5일만 성과",
+        "date": "2026-09-15 13:56",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266826"
+    },
+    {
+        "title": "세계 최고 수준 '밝기·해상도' 구현…스트레쳐블 QLED 개발",
+        "date": "2026-09-15 13:52",
+        "link": "https://n.news.naver.com/mnews/article/277/0005816584?sid=102"
+    },
+    {
+        "title": "101만원 더 비싼 애플 첫 폴더블…갤Z폴드8 성공에 '아이폰 듀오' 실적도...",
+        "date": "2026-09-15 13:46",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=102548"
+    },
+    {
+        "title": "스마일게이트 '이클립스', 구글-애플 양대 앱 마켓 매출 1위 달성",
+        "date": "2026-09-15 13:44",
+        "link": "https://thetracker.co.kr/View.aspx?No=4227918"
+    },
+    {
+        "title": "갤럭시로 '갈아타기' 늘었다…Z플립8 30% 경쟁사서 이동",
+        "date": "2026-09-15 13:43",
+        "link": "https://www.newspim.com/news/view/20260915000792"
+    },
+    {
+        "title": "애플 가세에 폴더블 패널 하반기 71% 증가 전망",
+        "date": "2026-09-15 13:36",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=720716"
+    },
+    {
+        "title": "스마일게이트 '이클립스', 구글-애플 양대 앱 마켓 매출 1위 달성",
+        "date": "2026-09-15 13:36",
+        "link": "https://www.thisisgame.com/articles/429975"
+    },
+    {
+        "title": "삼성전자 '6G'·삼성D 'OLED', 기술 초격차 확보 '착착'",
+        "date": "2026-09-15 13:34",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=155242"
+    },
+    {
+        "title": "폴드8 울트라, 美 컨슈머리포트 폴더블폰 평가 1위",
+        "date": "2026-09-15 13:34",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=720715"
+    },
+    {
+        "title": "오픈AI, 비밀리에 애플 출신 CEO 카메라업체 인수 [WSJ]",
+        "date": "2026-09-15 13:27",
+        "link": "https://n.news.naver.com/mnews/article/374/0000532999?sid=104"
+    },
+    {
+        "title": "한국연구재단, 피부처럼 늘어나는 초고해상도 QLED 소개",
+        "date": "2026-09-15 13:24",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414949"
+    },
+    {
+        "title": "마이크로닉스, ‘APNX 가을 세일 페스티벌’ 진행",
+        "date": "2026-09-15 13:10",
+        "link": "https://www.cnet.co.kr/view/?no=20260915130600"
+    },
+    {
+        "title": "스마일게이트 '이클립스', 구글·애플 양대 앱 마켓 매출 1위 달성",
+        "date": "2026-09-15 13:08",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=118198"
+    },
+    {
+        "title": "밸브, VR HMD 'Steam Frame', 출시",
+        "date": "2026-09-15 13:02",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60826"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드8 울트라'로 美 컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 12:56",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=56359"
+    },
+    {
+        "title": "연구재단, 피부처럼 늘어나는 '초고해상도 QLED' 선봬",
+        "date": "2026-09-15 12:22",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=909601"
+    },
+    {
+        "title": "올 상반기 폴더블 패널 출하량 13% 감소…하반기 큰 반등 전망",
+        "date": "2026-09-15 12:22",
+        "link": "https://www.g-enews.com/view.php?ud=2026091512162726227fa31d75c_1"
+    },
+    {
+        "title": "오창호 전 LGD 대형사업부장, 이녹스첨단소재 합류",
+        "date": "2026-09-15 12:19",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437488?sid=105"
+    },
+    {
+        "title": "iOS 27, 구형 아이폰 성능 되살리다",
+        "date": "2026-09-15 12:10",
+        "link": "https://www.itworld.co.kr/article/4221847/ios-27-구형-아이폰-성능-되살리다.html"
+    },
+    {
+        "title": "마이크로닉스, 'APNX 가을 세일 페스티벌' 진행... PC 케이스 최대 6만원...",
+        "date": "2026-09-15 12:10",
+        "link": "https://www.thisisgame.com/articles/429958"
+    },
+    {
+        "title": "1.65배 늘어나도 선명…국내 연구진, 1만6000PPI 스트레쳐블 QLED 개발",
+        "date": "2026-09-15 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003466848?sid=105"
+    },
+    {
+        "title": "늘어나는 QLED로 최고 수준 밝기·화질 구현",
+        "date": "2026-09-15 12:01",
+        "link": "https://n.news.naver.com/mnews/article/584/0000039330?sid=105"
+    },
+    {
+        "title": "초고해상도·고휘도 스트레쳐블 QLED 개발… 1만 6,000 PPI·5만 3,300 nit ...",
+        "date": "2026-09-15 12:00",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=25964"
+    },
+    {
+        "title": "애플 iOS 27 정식 출시… 확 달라진 아이폰, 핵심 변화 한눈에",
+        "date": "2026-09-15 12:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700646"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 평가 휩쓸었다…갤럭시 Z8 시리즈 1~3위 싹쓸이",
+        "date": "2026-09-15 11:52",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266821"
+    },
+    {
+        "title": "상반기 폴더블 패널 출하량 13%↓…하반기엔 71% 반등 전망",
+        "date": "2026-09-15 11:52",
+        "link": "https://n.news.naver.com/mnews/article/374/0000532978?sid=104"
+    },
+    {
+        "title": "10월 한국어로 만날 '시리 AI'...개인 맥락 이해하고 앱 직접 제어",
+        "date": "2026-09-15 11:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=155238"
+    },
+    {
+        "title": "“화질 등 모두 만점… 갤Z8, 폴더블 1위”",
+        "date": "2026-09-15 11:47",
+        "link": "https://n.news.naver.com/mnews/article/021/0002818860?sid=101"
+    },
+    {
+        "title": "삼성-애플 싸울 때… 中, 제재 뚫고 ‘칩 독립’",
+        "date": "2026-09-15 11:47",
+        "link": "https://n.news.naver.com/mnews/article/021/0002818858?sid=101"
+    },
+    {
+        "title": "스마일게이트 '이클립스' 구글·애플 앱마켓 매출 1위",
+        "date": "2026-09-15 11:46",
+        "link": "https://n.news.naver.com/mnews/article/277/0005816530?sid=105"
+    },
+    {
+        "title": "애플, iOS 27에 영어 Siri AI 베타 출시…구글 모델 연 10억달러 지급 추...",
+        "date": "2026-09-15 11:44",
+        "link": "https://www.tokenpost.kr/news/breaking/408055"
+    },
+    {
+        "title": "상반기 폴더블 패널 출하량 13%↓…하반기엔 71% 반등 전망",
+        "date": "2026-09-15 11:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0016311278?sid=101"
+    },
+    {
+        "title": "출시 초반 흥행세... 스마일게이트 '이클립스', 구글·애플 매출 1위 석...",
+        "date": "2026-09-15 11:42",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=225286"
+    },
+    {
+        "title": "애플, 자녀 디지털 환경 관리 기능 강화",
+        "date": "2026-09-15 11:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170167"
+    },
+    {
+        "title": "‘이클립스’ 초반 흥행 질주…애플 이어 구글서도 매출 1위",
+        "date": "2026-09-15 11:36",
+        "link": "https://n.news.naver.com/mnews/article/396/0000755395?sid=105"
+    },
+    {
+        "title": "스마일게이트 ‘이클립스’, 구글·애플 양대 마켓 매출 1위",
+        "date": "2026-09-15 11:32",
+        "link": "https://www.todayeconomic.com/news/article.html?no=32132"
+    },
+    {
+        "title": "애플, 에어팟에 'iOS 27 EQ' 지원 추가…최신 펌웨어 9A350 배포",
+        "date": "2026-09-15 11:24",
+        "link": "https://kbench.com/?q=node/281911"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 울트라, 美 컨슈머리포트 폴더블폰 평가 1위",
+        "date": "2026-09-15 11:22",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/15/2026091500149.html"
+    },
+    {
+        "title": "애플 아이폰18 프로·프로맥스 사전예약 분위기 ‘차분’… 폴더블 ‘듀...",
+        "date": "2026-09-15 11:19",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192429?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 울트라, 美 컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 11:16",
+        "link": "https://www.mediawatch.kr/news/article.html?no=261041"
+    },
+    {
+        "title": "갤럭시 폴드8 울트라, 美 컨슈머리포트 1위···삼성, 글로벌 1위 탈환...",
+        "date": "2026-09-15 11:14",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=153897"
+    },
+    {
+        "title": "아이폰 안방서 '올킬'…갤럭시 폴더블폰 제대로 일냈다",
+        "date": "2026-09-15 11:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0006369569?sid=105"
+    },
+    {
+        "title": "“깐부” 젠슨 황도 최신 ‘갤럭시 폴드8’ 쓴다…이재용이 건넨 폴드7...",
+        "date": "2026-09-15 11:07",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192425?sid=105"
+    },
+    {
+        "title": "갤럭시 폴드8 울트라, 美 컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 11:06",
+        "link": "https://www.g-enews.com/view.php?ud=2026091510504799283084322ec9_1"
+    },
+    {
+        "title": "개인 맥락 이해하는 '시리 AI', 10월 한국어 지원",
+        "date": "2026-09-15 11:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437466?sid=105"
+    },
+    {
+        "title": "갤럭시 폴드8 울트라,美컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 11:00",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93754"
+    },
+    {
+        "title": "'시리' 진짜 AI개인비서 됐다…애플, iOS 27 배포",
+        "date": "2026-09-15 10:52",
+        "link": "https://n.news.naver.com/mnews/article/014/0005575920?sid=105"
+    },
+    {
+        "title": "스페이스XAI, 애플 상대 소송 취하…오픈AI는 유지",
+        "date": "2026-09-15 10:47",
+        "link": "https://n.news.naver.com/mnews/article/374/0000532951?sid=104"
+    },
+    {
+        "title": "갈수록 심해지는 '칩플레이션 공포'…신형·구형폰 안 가리고 오른다",
+        "date": "2026-09-15 10:40",
+        "link": "https://n.news.naver.com/mnews/article/629/0000533807?sid=105"
+    },
+    {
+        "title": "갤럭시S27 탑재설…삼성 'M16 OLED' 베일 벗었다",
+        "date": "2026-09-15 10:38",
+        "link": "https://kbench.com/?q=node/281909"
+    },
+    {
+        "title": "애플, 차세대 시리 OS 전반에 통합…AI가 앱 동작 수행",
+        "date": "2026-09-15 10:38",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=241606"
+    },
+    {
+        "title": "스페이스XAI, 애플 상대 반독점 소송 취하…왜?",
+        "date": "2026-09-15 10:37",
+        "link": "https://n.news.naver.com/mnews/article/016/0002697379?sid=104"
+    },
+    {
+        "title": "스마일게이트 신작 '이클립스' 애플 이어 구글에서도 매출 1위 등극... '...",
+        "date": "2026-09-15 10:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=179070"
+    },
+    {
+        "title": "갤럭시Z 폴드8 울트라, 미국 컨슈머리포트 폴더블폰 평가 1위",
+        "date": "2026-09-15 10:30",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=204883"
+    },
+    {
+        "title": "애플, iOS·맥OS 27 업데이트 시작… 앱 30% 빨라졌다",
+        "date": "2026-09-15 10:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=750803"
+    },
+    {
+        "title": "애플, 더 똑똑해진 ‘시리 AI’ 공개…10월 한국어 지원",
+        "date": "2026-09-15 10:30",
+        "link": "https://n.news.naver.com/mnews/article/018/0006369531?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴드8 울트라, 美 컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 10:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005413784?sid=105"
+    },
+    {
+        "title": "OLED 맥북 프로 조기 출시 가능성…애플 'macOS 27.1'에서 테스트",
+        "date": "2026-09-15 10:26",
+        "link": "https://kbench.com/?q=node/281903"
+    },
+    {
+        "title": "비에이치, 내년에 '로봇 3사' 및 '폴더블폰 2사' 매출 본격화",
+        "date": "2026-09-15 10:24",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81130"
+    },
+    {
+        "title": "갤Z폴드8 울트라, 美 컨슈머리포트 폴더블 폰 평가 '1위'",
+        "date": "2026-09-15 10:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0009170375?sid=105"
+    },
+    {
+        "title": "애플, AI로 완전히 다시 만든 '시리 AI' 공개…'질문에 답하는 시리'에서...",
+        "date": "2026-09-15 10:18",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=41918"
+    },
+    {
+        "title": "스페이스XAI, 애플 상대 반독점 소송 취하…오픈AI 소송은 유지",
+        "date": "2026-09-15 10:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0016310809?sid=104"
+    },
+    {
+        "title": "LGD, 흑자전환에도 응답 없는 주가...핵심 과제는",
+        "date": "2026-09-15 10:08",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=865246"
+    },
+    {
+        "title": "화면 전환 애니메니션 멋지네…中 업체들, 아이폰 듀오 베끼기 열풍",
+        "date": "2026-09-15 10:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437440?sid=105"
+    },
+    {
+        "title": "체험형 게이밍 PC에 몰린 발길… 에이수스, ROG 20주년 팝업 마치고 'ROG...",
+        "date": "2026-09-15 10:06",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1814452"
+    },
+    {
+        "title": "AI 품은 시리, 더 똑똑해졌다…애플 iOS 27로 '개인 비서' 진화",
+        "date": "2026-09-15 10:00",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102588"
+    },
+    {
+        "title": "아이폰 확 달라진다…애플 'iOS 27' 공식 배포 시작",
+        "date": "2026-09-15 09:56",
+        "link": "https://kbench.com/?q=node/281899"
+    },
+    {
+        "title": "젠슨 황 손에 또 삼성 폴더블…'갤럭시Z폴드8'로 트럼프와 통화",
+        "date": "2026-09-15 09:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0009170268?sid=105"
+    },
+    {
+        "title": "2년3개월 만에 '진짜 AI 시리' 나왔다…애플, iOS 27 배포 시작",
+        "date": "2026-09-15 09:52",
+        "link": "https://n.news.naver.com/mnews/article/003/0014190281?sid=105"
+    },
+    {
+        "title": "애플, 강화된 '시리 AI' 베타버전 공개…10월 한국어 지원",
+        "date": "2026-09-15 09:51",
+        "link": "https://n.news.naver.com/mnews/article/421/0009170247?sid=105"
+    },
+    {
+        "title": "애플, 저렴한 폴더블도 준비하나…'아이폰 듀오 SE' 출시설",
+        "date": "2026-09-15 09:44",
+        "link": "https://kbench.com/?q=node/281897"
+    },
+    {
+        "title": "갤럭시 폴드8 울트라, 미국 컨슈머리포트 폴더블폰 1위",
+        "date": "2026-09-15 09:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0016310689?sid=105"
+    },
+    {
+        "title": "영우디에스피, OLED 수혜로 호실적…반도체 장비 기업 재평가 기대",
+        "date": "2026-09-15 09:40",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724257"
+    },
+    {
+        "title": "개인정보 유출 차단 온디바이스 AI…애플 '시리 AI' 10월 한국어 상륙",
+        "date": "2026-09-15 09:38",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000065466"
+    },
+    {
+        "title": "삼성폰, 美 소비자 평가서 나란히 1위…폴더블·전체 스마트폰 석권",
+        "date": "2026-09-15 09:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0014190183?sid=105"
+    },
+    {
+        "title": "고사양 게임이 당기고 초고주사율이 받친다...전자·게임업계 '윈윈 공...",
+        "date": "2026-09-15 09:24",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=262461"
+    },
+    {
+        "title": "애플, 차세대 시리 AI 영어 베타 출시…다음 달 5개 언어 확대",
+        "date": "2026-09-15 09:20",
+        "link": "https://www.tokenpost.kr/news/breaking/407968"
+    },
+    {
+        "title": "329만원의 승부수, '아이폰 폴드'는 시장을 열 수 있을까",
+        "date": "2026-09-15 09:02",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52930"
+    },
+    {
+        "title": "iOS27서 AI 무장한 시리, 어떻게 달라졌나",
+        "date": "2026-09-15 09:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437423?sid=105"
+    },
+    {
+        "title": "SKT, AI가 결제해도 마지막 결정은 '문자'로…RCS 승인 글로벌 표준화 나...",
+        "date": "2026-09-15 09:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=548101"
+    },
+    {
+        "title": "UNIST‧DGIST‧IBS 연구진, 구부리고 늘려도 선명한 QLED 개발",
+        "date": "2026-09-15 08:58",
+        "link": "https://news.unn.net/news/articleView.html?idxno=597443"
+    },
+    {
+        "title": "[미국 특징주] 애플, 신제품 16종 더 나온다…터치맥북·스마트홈 등",
+        "date": "2026-09-15 08:19",
+        "link": "https://www.newspim.com/news/view/20260915000095"
+    },
+    {
+        "title": "“업데이트할까 말까”…오늘 출시된 iOS 27, 달라진 점 한눈에",
+        "date": "2026-09-15 08:16",
+        "link": "https://www.wikitree.co.kr/articles/1159520"
+    },
+    {
+        "title": "오픈AI, 애플 출신 고품질 카메라 개발 스타트업 인수",
+        "date": "2026-09-15 08:12",
+        "link": "https://n.news.naver.com/mnews/article/030/0003466678?sid=105"
+    },
+    {
+        "title": "맥북에 터치와 OLED 도입…애플, '시리 AI' 무기 삼아 16종 파상 공세",
+        "date": "2026-09-15 08:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002241387?sid=105"
+    },
+    {
         "title": "폴더블 원조는 나야 나···삼성-애플의 마케팅 신경전",
         "date": "2026-09-15 08:00",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2470225"
@@ -350,6 +1070,11 @@
         "link": "https://www.cnbnews.com/news/articleView.html?idxno=1015680"
     },
     {
+        "title": "고장 나도 버리지 마세요…AI발 메모리 부족에 중고폰도 100만원 돈",
+        "date": "2026-09-14 15:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700380"
+    },
+    {
         "title": "삼성, 10월 7일 차세대 '갤럭시 탭 S12' 시리즈 공개하나",
         "date": "2026-09-14 15:06",
         "link": "https://kbench.com/?q=node/281886"
@@ -465,14 +1190,14 @@
         "link": "https://www.insight.co.kr/news/573351"
     },
     {
-        "title": "삼성D, 2K·165Hz 스마트폰 OLED 개발…전력 30%↓",
-        "date": "2026-09-14 14:02",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=747610"
-    },
-    {
         "title": "[전자는 지금] 삼성디스플레이, 세계 최초 6.9형 스마트폰 OLED 개발 外",
         "date": "2026-09-14 14:02",
         "link": "https://dealsite.co.kr/articles/168942"
+    },
+    {
+        "title": "삼성D, 2K·165Hz 스마트폰 OLED 개발…전력 30%↓",
+        "date": "2026-09-14 14:02",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=747610"
     },
     {
         "title": "5조 풀겠다던 삼성, 추석에도 통 크게 쏜다",
@@ -575,6 +1300,11 @@
         "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=89747"
     },
     {
+        "title": "'갤럭시S27 프로·울트라' 3년 만에 OLED 대폭 업그레이드…최신 M16 패널...",
+        "date": "2026-09-14 12:36",
+        "link": "https://kbench.com/?q=node/281874"
+    },
+    {
         "title": "화제성은 역대급인데 뚜껑 열어보니… 애플 신제품 공개 당일 연관어 1...",
         "date": "2026-09-14 12:20",
         "link": "https://www.wikitree.co.kr/articles/1159341"
@@ -583,11 +1313,6 @@
         "title": "삼성디스플레이, 2K·165Hz 스마트폰 OLED 개발",
         "date": "2026-09-14 12:06",
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=664441"
-    },
-    {
-        "title": "머리카락 굵기 100분의 1 화소…UNIST, 늘려도 선명한 QLED 개발",
-        "date": "2026-09-14 12:01",
-        "link": "https://n.news.naver.com/mnews/article/629/0000533492?sid=102"
     },
     {
         "title": "AI로 근육 상태 읽고 OLED 화질 높였다…대한민국 엔지니어상",
@@ -710,14 +1435,14 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006368956?sid=101"
     },
     {
-        "title": "삼성디스플레이, ‘2K·165Hz’ 게이밍 OLED 개발⋯ 비보 ‘iQOO 16’에 공...",
-        "date": "2026-09-14 11:02",
-        "link": "https://www.viva100.com/article/20260914500221"
-    },
-    {
         "title": "삼성D, ‘2K·165Hz’ 스마트폰 OLED 개발…“세계 최초”",
         "date": "2026-09-14 11:02",
         "link": "http://www.newstomato.com/ReadNews.aspx?no=1313540&inflow=N"
+    },
+    {
+        "title": "삼성디스플레이, ‘2K·165Hz’ 게이밍 OLED 개발⋯ 비보 ‘iQOO 16’에 공...",
+        "date": "2026-09-14 11:02",
+        "link": "https://www.viva100.com/article/20260914500221"
     },
     {
         "title": "삼성디스플레이, 게이밍 스마트폰 OLED 신제품 개발…2K·165Hz 고사양",
@@ -825,24 +1550,24 @@
         "link": "https://n.news.naver.com/mnews/article/293/0000090418?sid=101"
     },
     {
-        "title": "삼성디스플레이, '2K+165Hz' 스마트폰 OLED '세계 최초' 개발",
-        "date": "2026-09-14 11:00",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275392"
-    },
-    {
         "title": "삼성디스플레이, 세계 최초 2K·165Hz 스마트폰 OLED 개발",
         "date": "2026-09-14 11:00",
         "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/14/2026091400036.html"
     },
     {
-        "title": "삼성디스플레이, 2K·165Hz 스마트폰 OLED 최초 상용화",
+        "title": "삼성디스플레이, '2K+165Hz' 스마트폰 OLED '세계 최초' 개발",
         "date": "2026-09-14 11:00",
-        "link": "https://n.news.naver.com/mnews/article/629/0000533436?sid=101"
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275392"
     },
     {
         "title": "삼성디스플레이, 세계 최초 '2K+165Hz' 스마트폰 OLED 개발",
         "date": "2026-09-14 11:00",
         "link": "https://n.news.naver.com/mnews/article/417/0001158195?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 2K·165Hz 스마트폰 OLED 최초 상용화",
+        "date": "2026-09-14 11:00",
+        "link": "https://n.news.naver.com/mnews/article/629/0000533436?sid=101"
     },
     {
         "title": "삼성D, 비보 'iQOO' 신제품에 OLED 패널 공급...2K·165Hz 동시 구현",
@@ -860,19 +1585,14 @@
         "link": "https://n.news.naver.com/mnews/article/215/0001265852?sid=101"
     },
     {
-        "title": "삼성디스플레이, 세계 최초 '2K·165Hz' 스마트폰 OLED 개발…고성능 게...",
-        "date": "2026-09-14 11:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=132779"
-    },
-    {
         "title": "삼성디스플레이, 세계 최초 '2K+165Hz' 스마트폰 OLED 개발",
         "date": "2026-09-14 11:00",
         "link": "https://n.news.naver.com/mnews/article/092/0002437306?sid=105"
     },
     {
-        "title": "삼성D, 2K 165㎐ 스마트폰용 OLED 개발···비보 아이쿠16 탑재",
+        "title": "삼성디스플레이, 세계 최초 '2K·165Hz' 스마트폰 OLED 개발…고성능 게...",
         "date": "2026-09-14 11:00",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=637859"
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=132779"
     },
     {
         "title": "삼성디플, 세계 최초 2K·165Hz 스마트폰 OLED 개발…‘iQOO 16’ 탑재",
@@ -928,6 +1648,11 @@
         "title": "[특징주] 비에이치, 애플 첫 폴더블폰 수혜주 부각에 '강세'",
         "date": "2026-09-14 10:46",
         "link": "https://www.cstimes.com/news/articleView.html?idxno=720487"
+    },
+    {
+        "title": "애플 아이폰 듀오, 내부 패널만 250달러? 삼성과 3년 독점 공급 계약 루...",
+        "date": "2026-09-14 10:34",
+        "link": "https://kbench.com/?q=node/281871"
     },
     {
         "title": "TSMC, 애플 2나노 전환에 엔비디아까지...2nm 공정에 '들썩'",
@@ -1043,11 +1768,6 @@
         "title": "[아이온의 AI:온] 화면은 접고, 경쟁은 펼치고",
         "date": "2026-09-14 08:29",
         "link": "https://n.news.naver.com/mnews/article/448/0000639149?sid=101"
-    },
-    {
-        "title": "[하투(夏鬪) 청구서 ①] 6억 vs 600만원…성과급이 부른 삼성전자 ‘노노...",
-        "date": "2026-09-14 08:01",
-        "link": "https://n.news.naver.com/mnews/article/117/0004104993?sid=103"
     },
     {
         "title": "7년 늦은 애플 폴더블…삼성보다 100만원 비싸고 53g 무겁다",
