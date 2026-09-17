@@ -1,5 +1,655 @@
 [
     {
+        "title": "'올레도스' 뒤처진 한국 … 中·日이 시장 90% 장악",
+        "date": "2026-09-17 17:48",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736914?sid=101"
+    },
+    {
+        "title": "차세대 AI플랫폼 시장 뺏길판 … 韓, 빅테크 손잡고 시장 개척을",
+        "date": "2026-09-17 17:43",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736893?sid=101"
+    },
+    {
+        "title": "삼성 'RGB 올레도스'로 승부수",
+        "date": "2026-09-17 17:43",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736892?sid=101"
+    },
+    {
+        "title": "中, 중대형 OLED도 맹추격 … 韓 '왕좌' 흔들",
+        "date": "2026-09-17 17:42",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736891?sid=101"
+    },
+    {
+        "title": "갤럭시 탭 S12+·울트라 출시 사실상 확정…삼성 공식 문서서 확인",
+        "date": "2026-09-17 17:42",
+        "link": "https://kbench.com/?q=node/282002"
+    },
+    {
+        "title": "바이오 특허 전쟁 본격화…오리지널 시간 끌기 vs 시밀러 틈새 찾기",
+        "date": "2026-09-17 17:34",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254864"
+    },
+    {
+        "title": "“아이폰 18 먼저, 폴더블은 한 달 뒤”…애플, 출시일 나눈 이유는",
+        "date": "2026-09-17 17:23",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736824?sid=101"
+    },
+    {
+        "title": "‘7년 노하우’의 힘… 아이폰 듀오 공개 뒤 삼성 Z폴드8 판매 오히려 늘...",
+        "date": "2026-09-17 17:21",
+        "link": "https://n.news.naver.com/mnews/article/005/0001873647?sid=101"
+    },
+    {
+        "title": "아이폰 듀오, 폴더블 디스플레이 잘 버틸까",
+        "date": "2026-09-17 17:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437933?sid=105"
+    },
+    {
+        "title": "일본 스마트폰 시장서 안드로이드 점유율 54.1%...아이폰과 격차 벌려",
+        "date": "2026-09-17 17:02",
+        "link": "https://www.etoday.co.kr/news/view/2626922"
+    },
+    {
+        "title": "[해설]삼성전자 프리미엄 TV '세대교체'…QD TV에서 미니 LED, RGB LED로",
+        "date": "2026-09-17 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003468009?sid=105"
+    },
+    {
+        "title": "[포커스] 삼성전자, 美 오디오 특허전 법적 대응…ITC 조사로 전선 확대",
+        "date": "2026-09-17 17:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=813512"
+    },
+    {
+        "title": "디지털 주권회복 위원회 미국에선 되고 한국선 안 되나···구글·애플...",
+        "date": "2026-09-17 16:52",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=154215"
+    },
+    {
+        "title": "일 스마트폰 시장서 안드로이드 점유율 54%...아이폰과 격차 벌려",
+        "date": "2026-09-17 16:48",
+        "link": "https://n.news.naver.com/mnews/article/052/0002408382?sid=104"
+    },
+    {
+        "title": "“아이폰 제쳤다”…삼성전자, 4년 만에 '눈부신' 기록 찍었다",
+        "date": "2026-09-17 16:46",
+        "link": "https://www.wikitree.co.kr/articles/1160288"
+    },
+    {
+        "title": "6500억 투입 삼성D A7…2028년 7월 장비 반입",
+        "date": "2026-09-17 16:40",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=62429"
+    },
+    {
+        "title": "'아이폰 듀오' 공개 후 韓 '갤Z 폴드8' 판매량 10% 늘었다",
+        "date": "2026-09-17 16:39",
+        "link": "https://n.news.naver.com/mnews/article/421/0009177330?sid=105"
+    },
+    {
+        "title": "'아이폰 듀오' 공개하자…삼성 '폴드8 '판매 10% 뛰었다",
+        "date": "2026-09-17 16:36",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854107"
+    },
+    {
+        "title": "삼성전자, 올해 QD TV 생산 80% 줄인다",
+        "date": "2026-09-17 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467995?sid=105"
+    },
+    {
+        "title": "'폴더블 아이폰' 뜨자 삼성폰 대박 난 이유가…'놀라운 반전'",
+        "date": "2026-09-17 16:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005333495?sid=101"
+    },
+    {
+        "title": "삼성, One UI 9 글로벌 로드맵 공개…28일부터 갤럭시S25·폴더블로 확대",
+        "date": "2026-09-17 16:28",
+        "link": "https://kbench.com/?q=node/281999"
+    },
+    {
+        "title": "LG디스플레이, OLED 비중 57→68%…흑자전환 가리는 환율",
+        "date": "2026-09-17 16:28",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=82949"
+    },
+    {
+        "title": "'아이폰 듀오' 공개 직후 '갤폴드8' 판매 10% 증가",
+        "date": "2026-09-17 16:26",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3433546"
+    },
+    {
+        "title": "애플, 18년 만에 기업용 서버 시장 복귀 검토‥엔비디아와 협력 논의",
+        "date": "2026-09-17 16:26",
+        "link": "https://n.news.naver.com/mnews/article/214/0001524544?sid=104"
+    },
+    {
+        "title": "파주시 LCD산단서 유해화학물질 누출사고 방재훈련",
+        "date": "2026-09-17 16:12",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075768"
+    },
+    {
+        "title": "애플, 개발자용 iOS 27.2 베타1 공개…새로운 기능은?",
+        "date": "2026-09-17 16:10",
+        "link": "https://kbench.com/?q=node/281995"
+    },
+    {
+        "title": "美 ITC, 삼성전자·애플·구글 상대 오디오 특허 침해 조사",
+        "date": "2026-09-17 16:00",
+        "link": "https://www.ajunews.com/view/20260917153400621"
+    },
+    {
+        "title": "‘아이폰 듀오’ 나오고 삼성 몰래 웃었다...“비싸고 무거워요”",
+        "date": "2026-09-17 15:47",
+        "link": "https://n.news.naver.com/mnews/article/024/0000108282?sid=101"
+    },
+    {
+        "title": "애플, 엔비디아 손잡나?…18년 만에 서버 시장 복귀 검토",
+        "date": "2026-09-17 15:44",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026091715412872266"
+    },
+    {
+        "title": "애플, AI 수요 증가에 서버시장 재진출 검토…엔비디아 협력 거론",
+        "date": "2026-09-17 15:44",
+        "link": "https://news.mtn.co.kr/news-detail/2026091714330670542"
+    },
+    {
+        "title": "아이폰 듀오 등장에 삼성 웃었다…갤Z폴드8 판매 10%↑",
+        "date": "2026-09-17 15:42",
+        "link": "https://n.news.naver.com/mnews/article/018/0006371287?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, XR 핵심 디스플레이에 승부수⋯3000억 투자",
+        "date": "2026-09-17 15:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600538"
+    },
+    {
+        "title": "애플, 18년 만에 서버 시장 복귀 검토… 엔비디아와 ‘AI 동맹’",
+        "date": "2026-09-17 15:40",
+        "link": "https://n.news.naver.com/mnews/article/366/0001193082?sid=105"
+    },
+    {
+        "title": "日 스마트폰, 안드로이드가 54.1%…아이폰과 격차 확대",
+        "date": "2026-09-17 15:40",
+        "link": "https://n.news.naver.com/mnews/article/079/0004190561?sid=104"
+    },
+    {
+        "title": "[비즈톡톡] 삼성전자 광고에 심리학자 등장한 이유는… “아이폰과 이별...",
+        "date": "2026-09-17 15:34",
+        "link": "https://n.news.naver.com/mnews/article/366/0001193078?sid=105"
+    },
+    {
+        "title": "아이폰 가격 올리자 안드로이드 웃었다…일본서 점유율 확대",
+        "date": "2026-09-17 15:32",
+        "link": "https://www.asiatime.co.kr/article/20260917500391"
+    },
+    {
+        "title": "일본 스마트폰 시장서 안드로이드 점유율 54%…아이폰은 하락",
+        "date": "2026-09-17 15:26",
+        "link": "https://n.news.naver.com/mnews/article/422/0000907133?sid=104"
+    },
+    {
+        "title": "'영업사원' 이재용, 전세계 누비더니…'세계 1위' 일냈다",
+        "date": "2026-09-17 15:24",
+        "link": "https://n.news.naver.com/mnews/article/015/0005333432?sid=101"
+    },
+    {
+        "title": "애플, '앙숙' 엔비디아와 서버 AI로 거래 재개하나",
+        "date": "2026-09-17 15:16",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=751107"
+    },
+    {
+        "title": "삼성·애플 나란히 웃었다…스마트폰 점유율 동반 상승",
+        "date": "2026-09-17 15:16",
+        "link": "https://n.news.naver.com/mnews/article/448/0000639930?sid=101"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 공개 후 반전…갤럭시Z 폴드8 판매량 10% 늘었다",
+        "date": "2026-09-17 15:10",
+        "link": "https://kbench.com/?q=node/281993"
+    },
+    {
+        "title": "애플·엔비디아 손잡나…'M8 울트라' 기업용 AI 서버 개발",
+        "date": "2026-09-17 15:10",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=504914"
+    },
+    {
+        "title": "日 스마트폰 시장서 안드로이드 점유율 54%…아이폰과 격차 벌려",
+        "date": "2026-09-17 15:09",
+        "link": "https://n.news.naver.com/mnews/article/001/0016318354?sid=104"
+    },
+    {
+        "title": "애플·엔비디아 다시 손잡나…18년 만에 서버시장 복귀 검토",
+        "date": "2026-09-17 15:07",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000066582"
+    },
+    {
+        "title": "아이폰 듀오 공개 후 갤럭시 Z 폴드8 더 잘 팔렸다…판매량 10% 증가",
+        "date": "2026-09-17 15:05",
+        "link": "https://n.news.naver.com/mnews/article/029/0003048617?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S26부터 'One UI 9' 확산…AI 개인화·보안 강화",
+        "date": "2026-09-17 15:04",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359191"
+    },
+    {
+        "title": "스코코, '아이폰 18 프로&amp;프로맥스·애플워치 12·애플워치 울트라4' 전...",
+        "date": "2026-09-17 15:02",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54527"
+    },
+    {
+        "title": "삼성·애플, 스마트폰 점유율 동반 상승…중국 업체들은 고전",
+        "date": "2026-09-17 14:59",
+        "link": "https://n.news.naver.com/mnews/article/025/0003552097?sid=105"
+    },
+    {
+        "title": "삼성·애플, 스마트폰 점유율 동반 상승…中 브랜드는 감소",
+        "date": "2026-09-17 14:58",
+        "link": "https://www.g-enews.com/view.php?ud=202609171435084153139bf6e4b2_1"
+    },
+    {
+        "title": "초격차 K-디스플레이… 제17회 디스플레이의 날 개최, 유공자 36명 포...",
+        "date": "2026-09-17 14:56",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=25996"
+    },
+    {
+        "title": "아이폰 듀오 나왔는데 … 갤Z 폴드8 판매 10% 증가",
+        "date": "2026-09-17 14:50",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=728024"
+    },
+    {
+        "title": "애플, 아이폰 18 프로 시리즈...18일 공식 출시",
+        "date": "2026-09-17 14:50",
+        "link": "https://www.newspim.com/news/view/20260917000935"
+    },
+    {
+        "title": "삼성·애플, 상반기 글로벌 스마트폰 점유율 상승…中 업체는 '후퇴'",
+        "date": "2026-09-17 14:38",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609170132"
+    },
+    {
+        "title": "아이폰 넘어 AI 서버까지…애플, 15년 만에 서버시장 복귀 추진",
+        "date": "2026-09-17 14:31",
+        "link": "https://n.news.naver.com/mnews/article/119/0003133896?sid=104"
+    },
+    {
+        "title": "'엑서브' 단종 18년 만의 반전…애플, 엔비디아 기술 업고 서버 복귀 타...",
+        "date": "2026-09-17 14:30",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=227249"
+    },
+    {
+        "title": "“애플, 18년만에 서버시장 복귀 검토”…엔비디아와 ‘AI 동맹’ 논의",
+        "date": "2026-09-17 14:23",
+        "link": "https://n.news.naver.com/mnews/article/016/0002698863?sid=104"
+    },
+    {
+        "title": "삼성·애플 스마트폰 점유율 동반 상승…중국 업체는 하락",
+        "date": "2026-09-17 14:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0016318060?sid=105"
+    },
+    {
+        "title": "329만원 아이폰 듀오 '반사효과'…갤럭시 폴드8 판매 10% 증가",
+        "date": "2026-09-17 14:12",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93826"
+    },
+    {
+        "title": "애플, 18년만에 서버시장 재진출 검토…엔비디아 협력 가능성",
+        "date": "2026-09-17 14:09",
+        "link": "https://n.news.naver.com/mnews/article/374/0000533496?sid=104"
+    },
+    {
+        "title": "삼성·애플과 맞붙는다…턱밑까지 쫓아온 '뜻밖의 추격자' [테크로그...",
+        "date": "2026-09-17 14:08",
+        "link": "https://n.news.naver.com/mnews/article/015/0005333398?sid=101"
+    },
+    {
+        "title": "삼성전자, One UI 9 업데이트 시작…갤럭시 S26부터 순차 적용",
+        "date": "2026-09-17 14:06",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50455"
+    },
+    {
+        "title": "애플, 18년만에 서버시장 재진출 검토…엔비디아 손잡나",
+        "date": "2026-09-17 13:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317937?sid=101"
+    },
+    {
+        "title": "삼성, 4년 만에 글로벌 스마트폰 1위 탈환…애플도 역대 최고",
+        "date": "2026-09-17 13:43",
+        "link": "https://n.news.naver.com/mnews/article/018/0006371121?sid=105"
+    },
+    {
+        "title": "삼성ㆍ애플, 스마트폰 양강 굳혔다⋯中 점유율 일제히 후퇴",
+        "date": "2026-09-17 13:40",
+        "link": "https://www.etoday.co.kr/news/view/2626780"
+    },
+    {
+        "title": "한켐, MLCC 소재 공급 확대 속도...AI 서버 수요 증가 대응",
+        "date": "2026-09-17 13:40",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=548870"
+    },
+    {
+        "title": "아이폰용 '모바일 레일플러스' 나왔지만…교통결제는 '제한'",
+        "date": "2026-09-17 13:37",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467839?sid=101"
+    },
+    {
+        "title": "애플 폴더블폰, 비싸서 고맙습니다…삼성 갤폴드8 판매량 확 늘어 [아이...",
+        "date": "2026-09-17 13:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736605?sid=105"
+    },
+    {
+        "title": "애플, M8 Ultra 서버 재진입 검토…NVLink Fusion 연계",
+        "date": "2026-09-17 13:12",
+        "link": "https://www.tokenpost.kr/news/breaking/409493"
+    },
+    {
+        "title": "아이폰 듀오 공개 후 ‘갤럭시 Z 폴드 8’ 판매 증가… 가격·출시 일정...",
+        "date": "2026-09-17 13:02",
+        "link": "https://www.mediawatch.kr/news/article.html?no=261089"
+    },
+    {
+        "title": "불법촬영·시험 부정 우려 AI 스마트 안경, 수입 급증에도 통관 '깜깜'",
+        "date": "2026-09-17 12:56",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=323802"
+    },
+    {
+        "title": "구글·애플 인앱결제 피해 배상하라…한국 게임업계, 차별 시정 촉구",
+        "date": "2026-09-17 12:20",
+        "link": "https://www.kpinews.kr/newsView/1065582680675311"
+    },
+    {
+        "title": "아이폰 듀오 공개하자 갤럭시Z폴드8 판매 10% 늘어",
+        "date": "2026-09-17 12:06",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467803?sid=105"
+    },
+    {
+        "title": "애플, 18년 만에 AI 서버 시장 재도전…엔비디아와 손잡나",
+        "date": "2026-09-17 12:04",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=215374"
+    },
+    {
+        "title": "Z폴드8, ‘아이폰 듀오 기선제압’…국내판매 1주일간 10%↑",
+        "date": "2026-09-17 12:00",
+        "link": "https://n.news.naver.com/mnews/article/021/0002819521?sid=101"
+    },
+    {
+        "title": "美 ITC, 삼성·애플·구글 '공간음향 특허침해' 조사 착수",
+        "date": "2026-09-17 11:37",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467793?sid=105"
+    },
+    {
+        "title": "아이폰 듀오 등장에 삼성 급해졌나…'트라이폴드 2' 조기 출시설",
+        "date": "2026-09-17 11:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701287"
+    },
+    {
+        "title": "[Epic Why] 아이폰 듀오 공개 뒤 갤럭시 폴드8 판매 10% 증가 왜?",
+        "date": "2026-09-17 11:26",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20260917112156560248439a4874_29"
+    },
+    {
+        "title": "아이폰18 프로 내일 출격…韓은 '전작 수준', 해외는 수요 신호 엇갈려",
+        "date": "2026-09-17 11:24",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196564?sid=105"
+    },
+    {
+        "title": "이게 100만원 차이?…아이폰 듀오 공개 후 '갤럭시 Z 폴드8' 더 잘 팔린...",
+        "date": "2026-09-17 11:23",
+        "link": "https://n.news.naver.com/mnews/article/008/0005415155?sid=105"
+    },
+    {
+        "title": "애플이 폴더블 아이폰 내놓자, 삼성 갤폴드가 더 팔렸다",
+        "date": "2026-09-17 11:22",
+        "link": "https://n.news.naver.com/mnews/article/023/0003998975?sid=105"
+    },
+    {
+        "title": "애플 7년 만에 ‘접는 폰’ 공개에도…삼성 갤 폴드8 판매 오히려 늘었...",
+        "date": "2026-09-17 11:15",
+        "link": "https://n.news.naver.com/mnews/article/016/0002698715?sid=105"
+    },
+    {
+        "title": "아이폰 접자 갤럭시가 웃었다⋯'아이폰 듀오' 공개 후 'Z폴드8' 10%↑",
+        "date": "2026-09-17 11:14",
+        "link": "https://n.news.naver.com/mnews/article/031/0001059256?sid=105"
+    },
+    {
+        "title": "'디플 소부장 국산화율 향상' 이기승 세경하이테크 대표에 은탑산업훈장",
+        "date": "2026-09-17 11:02",
+        "link": "https://www.ajunews.com/view/20260917095532369"
+    },
+    {
+        "title": "美 ITC, 삼성·애플·구글 오디오 특허 침해 조사 착수",
+        "date": "2026-09-17 11:01",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=638203"
+    },
+    {
+        "title": "“역시 접는 폰은 갤럭시가 한 수 위?”…아이폰 듀오 공개 뒤 갤폴드8...",
+        "date": "2026-09-17 11:00",
+        "link": "https://n.news.naver.com/mnews/article/009/0005736542?sid=105"
+    },
+    {
+        "title": "K-디스플레이, '초격차' 다시 뛴다…정부·업계 기술혁신 맞손",
+        "date": "2026-09-17 11:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724640"
+    },
+    {
+        "title": "아이폰 듀오 비싸고 무겁네…갤럭시 Z폴드8 판매 10% 늘었다",
+        "date": "2026-09-17 10:58",
+        "link": "https://www.newspim.com/news/view/20260917000549"
+    },
+    {
+        "title": "도우인시스 주가, 급등세... 핵심 사업은?",
+        "date": "2026-09-17 10:58",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1182329"
+    },
+    {
+        "title": "‘아이폰 듀오’ 공개뒤 ‘갤Z폴드8’ 판매 되레 늘었다…이유는?",
+        "date": "2026-09-17 10:52",
+        "link": "https://n.news.naver.com/mnews/article/020/0003748868?sid=105"
+    },
+    {
+        "title": "누비아, 'AI 에이전트폰' 세계 첫 상용화",
+        "date": "2026-09-17 10:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600534"
+    },
+    {
+        "title": "‘아이폰 듀오’에 실망했나…갤럭시Z폴드8 국내 판매 10%↑",
+        "date": "2026-09-17 10:45",
+        "link": "https://n.news.naver.com/mnews/article/011/0004662819?sid=101"
+    },
+    {
+        "title": "애플 첫 폴더블 등판에 오히려 웃은 '갤폴드8'…판매 10% 늘었다",
+        "date": "2026-09-17 10:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196306?sid=105"
+    },
+    {
+        "title": "애플 듀오 발표하니 갤럭시 폴드8 판매 확 늘어",
+        "date": "2026-09-17 10:42",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53012"
+    },
+    {
+        "title": "출퇴근부터 데스크까지 겨냥…벨킨, 아이폰 18 시리즈 겨냥한 신규 액세...",
+        "date": "2026-09-17 10:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1814543"
+    },
+    {
+        "title": "‘아이폰 듀오’ 공개 후 1주일 새 ‘폴드8’ 판매량 10% 증가, 왜?",
+        "date": "2026-09-17 10:36",
+        "link": "http://www.segyebiz.com/newsView/20260917506824?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자 '원UI 9 업데이트' 국내서 시작…글로벌로 순차 확대",
+        "date": "2026-09-17 10:36",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854012"
+    },
+    {
+        "title": "美ITC, 삼성·애플·구글 조사 개시...美기업 특허 침해 주장",
+        "date": "2026-09-17 10:34",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81211"
+    },
+    {
+        "title": "아이폰 듀오 나오자 '갤럭시 Z 폴드8' 더 팔렸다⋯'100만원 가격차'의 역...",
+        "date": "2026-09-17 10:32",
+        "link": "https://www.etoday.co.kr/news/view/2626631"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 공개 후 '갤럭시 Z 폴드8' 판매량 역주행… 대기 수...",
+        "date": "2026-09-17 10:30",
+        "link": "https://www.mediapen.com/news/view/1124184"
+    },
+    {
+        "title": "美 ITC, 삼성·애플·구글 특허조사 착수…오디오 기술 분쟁 본격화",
+        "date": "2026-09-17 10:30",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102632"
+    },
+    {
+        "title": "애플, AI 시장 겨냥 서버 개발···2029년 출시 목표",
+        "date": "2026-09-17 10:22",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423751"
+    },
+    {
+        "title": "애플 폴더블폰 등판했는데…삼성폰 판매 오히려 늘었다",
+        "date": "2026-09-17 10:12",
+        "link": "https://n.news.naver.com/mnews/article/215/0001266277?sid=105"
+    },
+    {
+        "title": "갤럭시 폴드8 판매 한주만에 10% 증가 … 아이폰 듀오는 초기 흥행 부진...",
+        "date": "2026-09-17 10:12",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700083.html"
+    },
+    {
+        "title": "아이폰 듀오 나왔는데...되레 갤럭시 Z 폴드8 판매 10% 늘었다",
+        "date": "2026-09-17 10:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005577202?sid=105"
+    },
+    {
+        "title": "드림텍, 스마트폰 폼팩터 혁신 타고 핵심 부품 영토 확장",
+        "date": "2026-09-17 10:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487906"
+    },
+    {
+        "title": "삼성·애플·구글, 오디오 특허 침해로 미국 ITC 조사",
+        "date": "2026-09-17 10:06",
+        "link": "https://n.news.naver.com/mnews/article/032/0003471001?sid=104"
+    },
+    {
+        "title": "아이폰 듀오 공개에도 끄떡없는 갤럭시 Z 폴드8···판매량 오히려 10% ...",
+        "date": "2026-09-17 10:06",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=154119"
+    },
+    {
+        "title": "삼성전자, 美 ITC 오디오 특허 조사 대상…애플·구글도 포함",
+        "date": "2026-09-17 10:04",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=82905"
+    },
+    {
+        "title": "中 협력 시너지 지니틱스, 웨어러블 OLED용 TDDI 28일 테이프아웃",
+        "date": "2026-09-17 10:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=301211"
+    },
+    {
+        "title": "“내 사진이 진짜임을 어떻게 증명할까” 애플 레퍼런스 이미지가 답한...",
+        "date": "2026-09-17 10:00",
+        "link": "https://www.itworld.co.kr/article/4223043/내-사진이-진짜임을-어떻게-증명할까-애플-레퍼런스.html"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 공개, 갤럭시Z폴드8 판매 기름 부은 이유는?",
+        "date": "2026-09-17 10:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=155318"
+    },
+    {
+        "title": "삼성전자, 브라질서 갤럭시 S26 FE 출시… 5499헤알 책정의 배경과 파장",
+        "date": "2026-09-17 09:54",
+        "link": "https://www.g-enews.com/view.php?ud=202609170946364117fbbec65dfb_1"
+    },
+    {
+        "title": "벨킨, 아이폰 18 시리즈용 액세서리 컬렉션 공개",
+        "date": "2026-09-17 09:50",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=766841"
+    },
+    {
+        "title": "애플 TV·홈팟 미니 미국서 배송 지연…신형 모델 출시설 '솔솔'",
+        "date": "2026-09-17 09:42",
+        "link": "https://kbench.com/?q=node/281968"
+    },
+    {
+        "title": "329만원 아이폰 듀오 공개 뒤…갤럭시 폴드8 판매 10%↑",
+        "date": "2026-09-17 09:39",
+        "link": "https://n.news.naver.com/mnews/article/001/0016316703?sid=105"
+    },
+    {
+        "title": "One UI 9 막 나왔는데 벌써 차기 버전?…삼성, 'One UI 9.5' 테스트 돌입",
+        "date": "2026-09-17 09:26",
+        "link": "https://kbench.com/?q=node/281967"
+    },
+    {
+        "title": "삼성전자, ‘엑시노스’ 점유율 9%로 상승…2나노 공정도입, 갤S26·A가 ...",
+        "date": "2026-09-17 09:16",
+        "link": "https://www.ceoscoredaily.com/page/view/2026091617343134087"
+    },
+    {
+        "title": "美 ITC, 오디오 기술 특허 침해 주장에 삼성·애플·구글 조사 개시",
+        "date": "2026-09-17 09:14",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=204935"
+    },
+    {
+        "title": "[모닝 리포트] LG디스플레이, OLED 비중 확대에 수익성 개선",
+        "date": "2026-09-17 09:13",
+        "link": "https://www.newspim.com/news/view/20260917000089"
+    },
+    {
+        "title": "美 ITC, 삼성·애플·구글 상대로 '공간 음향' 특허 침해 조사 착수",
+        "date": "2026-09-17 09:02",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276077"
+    },
+    {
+        "title": "[모닝 리포트] 파인엠텍, 북미 폴더블 공급 본격화…하반기 매출 상승...",
+        "date": "2026-09-17 09:02",
+        "link": "https://www.newspim.com/news/view/20260917000062"
+    },
+    {
+        "title": "에이치비월드 김자영 대표, 정밀표면처리 기술개발로 국무총리표창 수...",
+        "date": "2026-09-17 09:02",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89918"
+    },
+    {
+        "title": "[단독] 영업비밀 유출로 실형 받는 톱텍 CEO, 은근슬쩍 부회장으로 복귀...",
+        "date": "2026-09-17 09:00",
+        "link": "http://www.newskr.kr/news/articleView.html?idxno=106395"
+    },
+    {
+        "title": "美 ITC, 삼성·애플·구글 오디오 특허 침해 조사",
+        "date": "2026-09-17 08:59",
+        "link": "https://n.news.naver.com/mnews/article/031/0001059159?sid=104"
+    },
+    {
+        "title": "[클릭 e종목]파인엠텍, 북미 폴더블 '초도물량' 몰린다…경쟁사 품질 ...",
+        "date": "2026-09-17 08:56",
+        "link": "https://n.news.naver.com/mnews/article/277/0005817544?sid=101"
+    },
+    {
+        "title": "독점공급 1장이 무려 제품가의 16%..부품중 최고가 [여의도 Pick!]",
+        "date": "2026-09-17 08:54",
+        "link": "https://news.mtn.co.kr/news-detail/2026091708503285950"
+    },
+    {
+        "title": "“독도 롤러코스터 타볼까”…구리서 VR·8K·4D ‘디지털 독도’ 체험",
+        "date": "2026-09-17 08:48",
+        "link": "https://www.viva100.com/article/20260917500037"
+    },
+    {
+        "title": "美ITC, 美기업 특허 침해 주장에 삼성·애플·구글 조사 개시",
+        "date": "2026-09-17 08:36",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=881040"
+    },
+    {
+        "title": "애플, 엔비디아 손잡고 기업용 서버 만드나",
+        "date": "2026-09-17 08:28",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437766?sid=105"
+    },
+    {
+        "title": "미국 ITC, 삼성 ㆍ애플ㆍ구글 조사 개시⋯오디오 기술 특허 침해 관련",
+        "date": "2026-09-17 08:14",
+        "link": "https://www.etoday.co.kr/news/view/2626518"
+    },
+    {
         "title": "'가로로 넓게' 삼성·애플·샤오미, 여권형 폴더블폰 삼파전",
         "date": "2026-09-17 07:54",
         "link": "https://www.cstimes.com/news/articleView.html?idxno=720944"
@@ -8,11 +658,6 @@
         "title": "美 ITC, 삼성·애플·구글 상대로 '오디오 특허 침해' 정조준",
         "date": "2026-09-17 07:54",
         "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64476"
-    },
-    {
-        "title": "LG디스플레이, 3분기 흑자전환에도 기대치 하회…목표가 29%↓-대신",
-        "date": "2026-09-17 07:47",
-        "link": "https://n.news.naver.com/mnews/article/018/0006370770?sid=101"
     },
     {
         "title": "美 ITC 조사대에 오른 삼성 오디오…완제품 대미 통관 시험대",
@@ -123,6 +768,11 @@
         "title": "[미국 특징주] 애플, AI 시대 겨냥한 기업용 서버 개발… 엔비디아와도...",
         "date": "2026-09-17 01:32",
         "link": "https://www.newspim.com/news/view/20260917000020"
+    },
+    {
+        "title": "美ITC, 삼성·애플·구글 대상 특정 오디오기술 탑재기기 조사",
+        "date": "2026-09-17 01:20",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=207283"
     },
     {
         "title": "패널 위·아래에 고강도 유리… 화면 주름 최소화",
