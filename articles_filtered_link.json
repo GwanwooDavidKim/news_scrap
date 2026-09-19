@@ -1,5 +1,90 @@
 [
     {
+        "title": "애플은 더 '정확'하게, 삼성은 더 '똑똑'하게···스마트워치 속 'AI 헬...",
+        "date": "2026-09-19 15:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472233"
+    },
+    {
+        "title": "갤럭시S27, 3년 만에 OLED 대변화... 프로·울트라는 M16 OLED 업그레이드...",
+        "date": "2026-09-19 13:34",
+        "link": "https://www.betanews.net/article/view/beta202609190007"
+    },
+    {
+        "title": "2030년 RGB LED TV 출하량, OLED TV 웃돌 가능성",
+        "date": "2026-09-19 12:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002438137?sid=105"
+    },
+    {
+        "title": "친환경 OLED 효율과 인재 양성 함께 일군 이종희 교수의 디스플레이 공...",
+        "date": "2026-09-19 12:22",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2441916"
+    },
+    {
+        "title": "삼성이 폴더블폰을 디자인한 8가지 방법",
+        "date": "2026-09-19 12:20",
+        "link": "https://www.betanews.net/article/view/beta202609190003"
+    },
+    {
+        "title": "똑같은 폰이지만 애플은 되고 삼성은 안되는 이유",
+        "date": "2026-09-19 11:42",
+        "link": "https://www.betanews.net/article/view/beta202609190002"
+    },
+    {
+        "title": "파주시, LCD산단서 유해화학물질 누출 대비 방재훈련",
+        "date": "2026-09-19 10:32",
+        "link": "http://www.breaknews.com/1237994"
+    },
+    {
+        "title": "“아이폰 DNA 그대로, 주름은 최소화”…애플 첫 폴더블 ‘아이폰 듀오...",
+        "date": "2026-09-19 09:24",
+        "link": "https://n.news.naver.com/mnews/article/018/0006372393?sid=105"
+    },
+    {
+        "title": "'329만원 너무하네' 폴더블 아이폰 뜨자 삼성폰 '잭팟' 터졌다 [홍민성의...",
+        "date": "2026-09-19 09:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005334090?sid=105"
+    },
+    {
+        "title": "삼성·애플, 스마트폰 나란히 약진···中 기업 부진",
+        "date": "2026-09-19 09:00",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=638262"
+    },
+    {
+        "title": "갤럭시든 아이폰이든…'접는 OLED', 결국 삼성D로 모인다",
+        "date": "2026-09-19 07:40",
+        "link": "https://n.news.naver.com/mnews/article/008/0005416064?sid=101"
+    },
+    {
+        "title": "아이폰18프로 출시 첫날 ‘가격역전’...228만원 갤Z8폴드가 더 쌌다",
+        "date": "2026-09-19 07:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002438123?sid=105"
+    },
+    {
+        "title": "아이폰 18 프로·프로맥스 공식 개통… 공시지원금 최대 45만원 책정",
+        "date": "2026-09-19 07:20",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=608070"
+    },
+    {
+        "title": "애플, iOS 27서 에어팟 기능 확대…프로3에 심박 연동 추가",
+        "date": "2026-09-19 07:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701858"
+    },
+    {
+        "title": "2나노 앞서 나가는 TSMC...삼성, 퀄컴 수주 촉각",
+        "date": "2026-09-19 07:04",
+        "link": "https://news.mtn.co.kr/news-detail/2026091813284311873"
+    },
+    {
+        "title": "'접는 폰' 유행에 삼성D '강세'...中 BOE 부진에 글로벌 독주",
+        "date": "2026-09-19 07:02",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026091816143117416"
+    },
+    {
+        "title": "[PLAY IT] 남이 찍어주는 셀피?…아이폰 듀오 써보니",
+        "date": "2026-09-19 07:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002242045?sid=105"
+    },
+    {
         "title": "[투데이온] 中 패널업체, LCD 가격 기습 인상…삼성·LG 원가 비상",
         "date": "2026-09-19 06:42",
         "link": "https://www.the-today.com/news/articleView.html?idxno=90400"
@@ -25,7 +110,7 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005416021?sid=105"
     },
     {
-        "title": "삼성디스플레이, CSOT 美특허 3건에 무효심판 청구...침해소송 대응",
+        "title": "삼성디스플레이, CSOT 美 특허 3건 무효심판 청구...침해소송 대응",
         "date": "2026-09-19 03:03",
         "link": "https://n.news.naver.com/mnews/article/092/0002438121?sid=105"
     },
@@ -782,27 +867,17 @@
     {
         "title": "애플 아이폰18 시리즈 출시",
         "date": "2026-09-18 09:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0014198691?sid=105"
+    },
+    {
+        "title": "애플 아이폰18 시리즈 출시",
+        "date": "2026-09-18 09:19",
         "link": "https://n.news.naver.com/mnews/article/003/0014198692?sid=105"
     },
     {
         "title": "애플 아이폰18프로 시리즈 출시",
         "date": "2026-09-18 09:19",
         "link": "https://n.news.naver.com/mnews/article/003/0014198688?sid=105"
-    },
-    {
-        "title": "애플 아이폰18 시리즈 출시",
-        "date": "2026-09-18 09:19",
-        "link": "https://n.news.naver.com/mnews/article/003/0014198687?sid=105"
-    },
-    {
-        "title": "애플 아이폰18 시리즈 출시",
-        "date": "2026-09-18 09:19",
-        "link": "https://n.news.naver.com/mnews/article/003/0014198691?sid=105"
-    },
-    {
-        "title": "애플 아이폰18프로 시리즈 출시",
-        "date": "2026-09-18 09:19",
-        "link": "https://n.news.naver.com/mnews/article/003/0014198689?sid=105"
     },
     {
         "title": "애플 아이폰18프로 시리즈 출시",
@@ -813,6 +888,16 @@
         "title": "애플 아이폰18프로 시리즈 출시",
         "date": "2026-09-18 09:19",
         "link": "https://n.news.naver.com/mnews/article/003/0014198690?sid=105"
+    },
+    {
+        "title": "애플 아이폰18프로 시리즈 출시",
+        "date": "2026-09-18 09:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0014198689?sid=105"
+    },
+    {
+        "title": "애플 아이폰18 시리즈 출시",
+        "date": "2026-09-18 09:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0014198687?sid=105"
     },
     {
         "title": "아이폰18 프로 국내 출시···폴더블 '아이폰 듀오'는 다음달",
@@ -832,7 +917,7 @@
     {
         "title": "애플 아이폰18프로 시리즈 출시",
         "date": "2026-09-18 09:04",
-        "link": "https://n.news.naver.com/mnews/article/003/0014198652?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/003/0014198647?sid=101"
     },
     {
         "title": "애플 아이폰18프로 시리즈 출시",
@@ -842,7 +927,7 @@
     {
         "title": "애플 아이폰18프로 시리즈 출시",
         "date": "2026-09-18 09:04",
-        "link": "https://n.news.naver.com/mnews/article/003/0014198647?sid=101"
+        "link": "https://n.news.naver.com/mnews/article/003/0014198652?sid=101"
     },
     {
         "title": "3년 도전 끝에 1호 구매…아이폰18 출시 첫날, 명동 매장 북적[르포]",
