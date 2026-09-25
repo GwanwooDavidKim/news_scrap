@@ -1,5 +1,55 @@
 [
     {
+        "title": "메타, 키링형 AI 기기 '뮤즈 참' 발표",
+        "date": "2026-09-25 14:42",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=62774"
+    },
+    {
+        "title": "오픈AI, 시리 챗GPT 연동 부진 인정…이용자 늘 줄 알았는데",
+        "date": "2026-09-25 14:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702971"
+    },
+    {
+        "title": "[폴더블 전쟁] 트라이폴드가 보여준 '주머니 속 PC'",
+        "date": "2026-09-25 14:06",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=665270"
+    },
+    {
+        "title": "메타, AI 승부처 '안경'으로 옮긴다…'뮤즈' 앞세워 애플에 도전장",
+        "date": "2026-09-25 13:28",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=155579"
+    },
+    {
+        "title": "[스냅드래곤서밋] 3일간의 '에이전틱 AI 장정' 마무리...퀄컴, AI 주도권...",
+        "date": "2026-09-25 13:10",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=155574"
+    },
+    {
+        "title": "“같지만 다르다” 여권형 폴더블폰, 삼성·애플·샤오미 누가 웃나",
+        "date": "2026-09-25 11:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003553749?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 新 성장전략은 ‘기술중심회사’⋯“OLED 기술로 흑자 이...",
+        "date": "2026-09-25 10:02",
+        "link": "https://www.viva100.com/article/20260923500647"
+    },
+    {
+        "title": "애플 첫 폴더블 '아이폰 듀오' 등판에도…삼성전자 '폴드8' 판매 되레 늘...",
+        "date": "2026-09-25 09:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490033"
+    },
+    {
+        "title": "中, TV용 LCD 감산으로 패널 가격 통제···삼성·LGD는 OLED 전환 가속",
+        "date": "2026-09-25 09:00",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423869"
+    },
+    {
+        "title": "인도, 삼성전자·LG전자 OLED 부품 관세 조사…5% 아닌 15% 적용해야",
+        "date": "2026-09-25 08:08",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065658"
+    },
+    {
         "title": "[가봤다] 스마트안경, 제2의 스마트폰 될까...퀄컴 'AI 생태계 체험관'",
         "date": "2026-09-25 07:52",
         "link": "https://www.techm.kr/news/articleView.html?idxno=155568"
@@ -85,11 +135,6 @@
         "link": "https://www.venturesquare.net/1116003/"
     },
     {
-        "title": "애플, 아이폰18 프로 재부팅 오류 내주 초 수정",
-        "date": "2026-09-24 17:38",
-        "link": "https://www.vegannews.co.kr/news/article.html?no=387226"
-    },
-    {
         "title": "5%냐 15%냐…인도 세무당국, 삼성·LG OLED 관세 조사",
         "date": "2026-09-24 16:48",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490207"
@@ -148,6 +193,11 @@
         "title": "신형 아이폰18 프로에 무슨 일이…애플, 긴급 소프트웨어 업데이트",
         "date": "2026-09-24 15:06",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490186"
+    },
+    {
+        "title": "199만원 아이폰18 프로 '먹통·재부팅' 논란... 애플 업데이트로 수정",
+        "date": "2026-09-24 15:06",
+        "link": "https://www.insight.co.kr/news/575194"
     },
     {
         "title": "아이폰18 프로, 출시 직후 갑작스러운 재부팅 이슈···애플 다음주 수...",
