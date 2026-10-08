@@ -1,5 +1,340 @@
 [
     {
+        "title": "[IT하는법] 듀얼 모니터 쓰는데 게임은 엉뚱한 화면에? 원하는 모니터로...",
+        "date": "2026-10-08 19:56",
+        "link": "https://it.donga.com/109672/"
+    },
+    {
+        "title": "또 터졌다 카카오게임즈 〈도깨비의세계〉 구글·애플 마켓 1위",
+        "date": "2026-10-08 19:40",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=40877"
+    },
+    {
+        "title": "[박승찬의 차이나테크(7) AI 제조의 반격… 세계의 공장을 넘어 ‘스마...",
+        "date": "2026-10-08 18:44",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=101662"
+    },
+    {
+        "title": "카카오게임즈 '도깨비의세계', 구글·애플 양대 마켓 인기 순위 1위 차지",
+        "date": "2026-10-08 18:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=214358"
+    },
+    {
+        "title": "카카오게임즈 '도깨비의세계', 출시 첫날 구글·애플 앱시장 인기 1위",
+        "date": "2026-10-08 17:46",
+        "link": "https://n.news.naver.com/mnews/article/003/0014242828?sid=105"
+    },
+    {
+        "title": "텍스+비전 2026, 소재·봉제·프린팅에 세탁·AI 제조까지 집결",
+        "date": "2026-10-08 17:36",
+        "link": "https://www.fashionbiz.co.kr/article/230144"
+    },
+    {
+        "title": "애플, 아이폰18 프로 출시 10일만 교환 1500건···원인은 '기밀정보?'",
+        "date": "2026-10-08 17:24",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121665"
+    },
+    {
+        "title": "LG전자, GV90에 24.6인치 가변 OLED 첫 상용화",
+        "date": "2026-10-08 17:22",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=63491"
+    },
+    {
+        "title": "'패닉풀' 1550건 터졌는데 당국 보고 패스…애플의 배짱 영업",
+        "date": "2026-10-08 17:14",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279526"
+    },
+    {
+        "title": "카카오게임즈 '도깨비의세계' 구글·애플 앱마켓 인기 1위",
+        "date": "2026-10-08 17:06",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321766"
+    },
+    {
+        "title": "'도깨비의세계', 구글·애플 인기 순위 1위…카카오게임즈 기념 보상 지...",
+        "date": "2026-10-08 17:04",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=309159"
+    },
+    {
+        "title": "아이폰18 프로 '패닉풀' 1500건 교환···애플 원인 밝힐 수 없어",
+        "date": "2026-10-08 17:02",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=155998"
+    },
+    {
+        "title": "신형 아이폰 '꺼짐' 접수만 1500건인데…애플 원인은 기밀",
+        "date": "2026-10-08 16:57",
+        "link": "https://n.news.naver.com/mnews/article/018/0006383950?sid=105"
+    },
+    {
+        "title": "애플, 아이폰18 프로·프로맥스 '패닉풀' 교환·환불만 1550건...원인 묻...",
+        "date": "2026-10-08 16:42",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=205456"
+    },
+    {
+        "title": "[한글날특집] 한글날 제정 '100주년' 챙기는 '100조 원대 브랜드' 삼성",
+        "date": "2026-10-08 16:28",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=424553"
+    },
+    {
+        "title": "아이폰18 프로, 교환·환불 1550건…애플 패닉풀 원인 '기밀'",
+        "date": "2026-10-08 16:22",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=170626"
+    },
+    {
+        "title": "애플, 매년 EU에 돈 낼까…빅테크 겨냥 과세안 재설계",
+        "date": "2026-10-08 16:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705983"
+    },
+    {
+        "title": "아이폰18 프로 '패닉풀'로 국내 1500건 교환…애플, 업데이트 후 교환·...",
+        "date": "2026-10-08 15:53",
+        "link": "https://n.news.naver.com/mnews/article/030/0003473549?sid=105"
+    },
+    {
+        "title": "이엠앤아이, 인도 중수 5톤 추가 확보…OLED용 중수소 소재 생산 확대",
+        "date": "2026-10-08 15:44",
+        "link": "https://www.newspim.com/news/view/20261008001087"
+    },
+    {
+        "title": "애플 아이폰 에어2, 더 얇고 오래 간다⋯듀얼 카메라도 탑재 전망",
+        "date": "2026-10-08 15:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601027"
+    },
+    {
+        "title": "트럼프 '100% 미국산' 기술 구상 현실은…스마트폰 생산비 152% 뛴다",
+        "date": "2026-10-08 15:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705943"
+    },
+    {
+        "title": "쿠팡, 삼성 '갤럭시 탭 S12' 판매…로켓배송으로 받아본다",
+        "date": "2026-10-08 15:42",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=210407"
+    },
+    {
+        "title": "11일 만에 1500대 반품…아이폰18 ‘패닉풀’ 쇄도, 애플은 “업데이트...",
+        "date": "2026-10-08 15:34",
+        "link": "http://www.segyebiz.com/newsView/20261008513150?OutUrl=naver"
+    },
+    {
+        "title": "사용 중 꺼지는 아이폰18 프로...1550건 교환·환불에도 원인 비공개",
+        "date": "2026-10-08 15:28",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=92848"
+    },
+    {
+        "title": "‘아이폰18 프로’ 켜지자마자 꺼졌다…출시 11일 만에 교환·환불 1500건...",
+        "date": "2026-10-08 15:22",
+        "link": "https://n.news.naver.com/mnews/article/003/0014242370?sid=105"
+    },
+    {
+        "title": "[나이스뷰] 엔비디아도 아직인데…삼전, 분기 영업익 100조 돌파",
+        "date": "2026-10-08 15:22",
+        "link": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91257"
+    },
+    {
+        "title": "LG디스플레이, 英 LCD 담합 배상 대법원행…쟁점은 전가율",
+        "date": "2026-10-08 15:10",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=83933"
+    },
+    {
+        "title": "삼성, 스마트폰 넘어 태블릿·위치추적기까지…'갤럭시 생태계' 확장",
+        "date": "2026-10-08 15:06",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366801"
+    },
+    {
+        "title": "업데이트하면 환불 불가?…아이폰18 프로 '패닉풀' 1천500건 교환, 원인...",
+        "date": "2026-10-08 15:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026100815022027416"
+    },
+    {
+        "title": "아이폰18프로 '패닉풀' 1500건 교환… 애플, 오류 원인은 비공개",
+        "date": "2026-10-08 15:00",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3438844"
+    },
+    {
+        "title": "LG디스플레이 8280원 강보합…OLED 중심 체질 개선 점검",
+        "date": "2026-10-08 14:52",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231401"
+    },
+    {
+        "title": "신형 아이폰 '꺼짐' 교환 접수만 1500건인데...애플, 원인 비공개",
+        "date": "2026-10-08 14:50",
+        "link": "https://n.news.naver.com/mnews/article/052/0002416320?sid=101"
+    },
+    {
+        "title": "MS, 애플에 도전장…AI 기능 강화한 노트북 출시",
+        "date": "2026-10-08 14:46",
+        "link": "https://n.news.naver.com/mnews/article/001/0016366166?sid=101"
+    },
+    {
+        "title": "'아이폰18 프로' 갑자기 꺼지는데‥애플의 '교환 기준' 논란",
+        "date": "2026-10-08 14:33",
+        "link": "https://n.news.naver.com/mnews/article/215/0001268573?sid=105"
+    },
+    {
+        "title": "새 아이폰 갑자기 꺼지더니…1500대 바꿔준 애플 원인은 기밀",
+        "date": "2026-10-08 14:28",
+        "link": "https://n.news.naver.com/mnews/article/015/0005340541?sid=105"
+    },
+    {
+        "title": "애플 홈 허브용 LG 스마트홈 액세서리 3종 유출…새 도어락·온도조절기...",
+        "date": "2026-10-08 14:24",
+        "link": "https://kbench.com/?q=node/282435"
+    },
+    {
+        "title": "아이폰18 '패닉풀' 교환·환불 약1550건…애플 보고 의무 없다 판단",
+        "date": "2026-10-08 14:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171667"
+    },
+    {
+        "title": "멀쩡하던 아이폰이 갑자기 꺼져…1500건 교환에도 원인은 기밀",
+        "date": "2026-10-08 14:12",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000071892"
+    },
+    {
+        "title": "갑자기 꺼지는 아이폰18 프로…1천500건 교환에도 원인 비공개",
+        "date": "2026-10-08 14:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0016365994?sid=105"
+    },
+    {
+        "title": "TVㆍ모니터에서 AI 가전까지⋯LGㆍ애플 동맹, 스마트홈으로 전선 확대",
+        "date": "2026-10-08 14:00",
+        "link": "https://www.etoday.co.kr/news/view/2633895"
+    },
+    {
+        "title": "엔비디아·애플·구글 비켜!! 삼성전자 vs. 빅테크들 실적 비교",
+        "date": "2026-10-08 13:56",
+        "link": "https://www.peoplewatch.co.kr/article/view/ppw202610080010"
+    },
+    {
+        "title": "엑스플러스·파워로직스 주가 환호송…핸드셋 부품株에 매수세 확산",
+        "date": "2026-10-08 13:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493737"
+    },
+    {
+        "title": "삼성전자·애플 불붙은 '폴더블폰' 전쟁에…삼성D '함박웃음'",
+        "date": "2026-10-08 13:30",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7187101"
+    },
+    {
+        "title": "맥북 프로 '역대급 변화'…이렇게 3가지 달라진다",
+        "date": "2026-10-08 13:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705864"
+    },
+    {
+        "title": "글로벌 패널사 설비투자 본격화… 디스플레이 장비 및 부품 관련주 동...",
+        "date": "2026-10-08 13:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493718"
+    },
+    {
+        "title": "베트남 최대 가전유통社 디엔마이산, 실적 호조…9월 기준 매출 100조 동...",
+        "date": "2026-10-08 12:42",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44222"
+    },
+    {
+        "title": "윈도우11, ‘하이브리드 인텔리전스’로 에이전틱 OS 변신",
+        "date": "2026-10-08 12:28",
+        "link": "https://byline.network/?p=9004111222622678"
+    },
+    {
+        "title": "[KES 2026 이노베이션 어워즈 수상 기업] 인포비온, KES 2026서 박막 증착...",
+        "date": "2026-10-08 12:08",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1815202"
+    },
+    {
+        "title": "애플워치 차고 나니 손목이 빨갛게⋯ 시리즈12·울트라4 피부 자극 논...",
+        "date": "2026-10-08 12:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601023"
+    },
+    {
+        "title": "[미국 특징주] 애플 앱스토어 중국 생태계, 5년 새 두 배 성장",
+        "date": "2026-10-08 11:59",
+        "link": "https://www.newspim.com/news/view/20261008000710"
+    },
+    {
+        "title": "애플 iOS 27.2 10월 말 출시하나…기존 아이폰 27.1 건너뛸 듯",
+        "date": "2026-10-08 11:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705875"
+    },
+    {
+        "title": "소니, 신형 '플레이스테이션 포털' 2종 인증 통과…OLED 모델 출시설 '솔...",
+        "date": "2026-10-08 11:22",
+        "link": "https://kbench.com/?q=node/282420"
+    },
+    {
+        "title": "160mm 듀얼 쿨링팬 탑재 케이스 '마이크로닉스 WIZMAX 릿지 MAX'",
+        "date": "2026-10-08 11:16",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60898"
+    },
+    {
+        "title": "센서 부위가 화끈거린다…'애플워치 시리즈 12·울트라 4' 센서 주변 피...",
+        "date": "2026-10-08 11:00",
+        "link": "https://kbench.com/?q=node/282419"
+    },
+    {
+        "title": "로컬 AI 시대 겨냥한 XPS 첫 시도… 델 테크놀로지스, 엔비디아 RTX 스파...",
+        "date": "2026-10-08 10:54",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1815194"
+    },
+    {
+        "title": "[단독] ‘패닉풀 논란’ 아이폰18 프로·프로맥스… 韓서 출시 후 11일간...",
+        "date": "2026-10-08 10:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001196876?sid=105"
+    },
+    {
+        "title": "100% 풀스크린 아이폰 나올까",
+        "date": "2026-10-08 10:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002440272?sid=105"
+    },
+    {
+        "title": "가격 오른데서 서둘렀는데…오히려 10만원 돌려드려요 휴대폰 성지 무...",
+        "date": "2026-10-08 10:46",
+        "link": "https://n.news.naver.com/mnews/article/277/0005826183?sid=105"
+    },
+    {
+        "title": "삼성전자 영업익 '100조 신화'…엔비디아·구글·애플 넘었다",
+        "date": "2026-10-08 10:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0009216669?sid=101"
+    },
+    {
+        "title": "엔비디아·애플 다 제쳤다…삼성전자, '분기 영업익 100조' 신기원 열다",
+        "date": "2026-10-08 10:00",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=301799"
+    },
+    {
+        "title": "차세대 디스플레이 기대감…LED 장비주, 수급 유입에 강한 반등",
+        "date": "2026-10-08 09:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493641"
+    },
+    {
+        "title": "엔비디아·애플도 못 넘은 100조…삼성전자, 글로벌 빅테크 새 역사",
+        "date": "2026-10-08 09:38",
+        "link": "https://n.news.naver.com/mnews/article/119/0003140722?sid=101"
+    },
+    {
+        "title": "델, 엔비디아 RTX 스파크 탑재한 노트북 ‘델 XPS 16 크리에이터 에디션...",
+        "date": "2026-10-08 09:38",
+        "link": "https://www.viva100.com/article/20261008500233"
+    },
+    {
+        "title": "[종합] 엔비디아·애플 최고 실적 제쳐…삼성전자, 3분기 영업익 107조...",
+        "date": "2026-10-08 09:36",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=96723"
+    },
+    {
+        "title": "아이폰 듀오 올인하느라 품질관리 못했나…변색·먹통·절감에 아이폰...",
+        "date": "2026-10-08 09:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002244057?sid=105"
+    },
+    {
+        "title": "[써보니] 갤럭시 10년차가 써본 아이폰18 프로 맥스",
+        "date": "2026-10-08 09:15",
+        "link": "https://n.news.naver.com/mnews/article/081/0003687102?sid=101"
+    },
+    {
+        "title": "엔비디아도, 애플도 제쳤다…삼성전자, 분기 영업익 100조 시대 열었다",
+        "date": "2026-10-08 09:08",
+        "link": "https://n.news.naver.com/mnews/article/003/0014240654?sid=101"
+    },
+    {
         "title": "폴더블 역대급 흥행에도 적자…삼성폰, 3Q 조단위 손실 전망",
         "date": "2026-10-08 08:56",
         "link": "https://n.news.naver.com/mnews/article/003/0014240607?sid=105"
@@ -10,7 +345,7 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003473306?sid=105"
     },
     {
-        "title": "삼성 '107조원'이 어느 정도냐면…엔비디아·애플도 못한 일",
+        "title": "삼성 '107조원'이 어떤 숫자냐면…엔비디아·애플도 못한 대기록",
         "date": "2026-10-08 08:38",
         "link": "https://n.news.naver.com/mnews/article/215/0001268526?sid=101"
     },
@@ -365,19 +700,9 @@
         "link": "https://n.news.naver.com/mnews/article/031/0001064049?sid=105"
     },
     {
-        "title": "[LG 인사 시그널]③ '소방수' 정철동 연임할까…LGD 세대교체 기로",
-        "date": "2026-10-07 10:26",
-        "link": "https://n.news.naver.com/mnews/article/293/0000091295?sid=101"
-    },
-    {
         "title": "애플·LG ‘스마트홈 동맹’...초인종·도어록 공동 개발",
         "date": "2026-10-07 10:21",
         "link": "https://n.news.naver.com/mnews/article/023/0004002526?sid=105"
-    },
-    {
-        "title": "안경으로 알츠하이머병 예방·관리 가능성 제시",
-        "date": "2026-10-07 10:15",
-        "link": "https://n.news.naver.com/mnews/article/586/0000139504?sid=103"
     },
     {
         "title": "LG·애플, 스마트홈 기기 공동개발···시리 기반 아마존·구글에 도전...",
