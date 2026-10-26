@@ -1,13 +1,653 @@
 [
     {
+        "title": "아이폰 듀오, 해외서 '크랙 게이트' 확산…내부 화면 파손 잇따라",
+        "date": "2026-10-26 18:48",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3733152"
+    },
+    {
+        "title": "‘아이폰 듀오’ 화면 파손 원인은 힌지?… 구조 결함 가능성도 제기",
+        "date": "2026-10-26 18:46",
+        "link": "https://n.news.naver.com/mnews/article/005/0001880967?sid=101"
+    },
+    {
+        "title": "[Company Focus] 애플의 거센 추격과 메모리값 폭등…이중고 마주한 삼성...",
+        "date": "2026-10-26 18:44",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279683"
+    },
+    {
+        "title": "'품질 논란' 아이폰 듀오...결국 힌지가 발목",
+        "date": "2026-10-26 18:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442447?sid=105"
+    },
+    {
+        "title": "“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽...",
+        "date": "2026-10-26 18:12",
+        "link": "https://n.news.naver.com/mnews/article/056/0012280967?sid=104"
+    },
+    {
+        "title": "장사는 늘었는데 남는 게 없다…한솔케미칼, 원가·재고 짓눌려 수익성...",
+        "date": "2026-10-26 18:04",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303433"
+    },
+    {
+        "title": "AI·에너지 전환에 커지는 소부장 중요성…엡손, 정밀 기술로 첨단 제조...",
+        "date": "2026-10-26 18:02",
+        "link": "https://www.ajunews.com/view/20261026101711363"
+    },
+    {
+        "title": "[현장] 감성은 ‘아이폰 듀오’ 勝…실용성·가격 경쟁력은 ‘갤럭시’",
+        "date": "2026-10-26 17:58",
+        "link": "https://www.news2day.co.kr/article/20261026500275"
+    },
+    {
+        "title": "[ER현장] 애플 아이폰 듀오, 1세대 폴더블 '시험대'",
+        "date": "2026-10-26 17:56",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=754911"
+    },
+    {
+        "title": "폴더블폰 흥행에 부품주 기대감 상승, 파인엠텍 도우인시스 글로벌 고객...",
+        "date": "2026-10-26 17:46",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450297"
+    },
+    {
+        "title": "애플 아이폰 듀오, 내구성 도마...8세대 걸친 삼성 기술력 '재조명'",
+        "date": "2026-10-26 17:44",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319585"
+    },
+    {
+        "title": "'크랙 케이트' 애플 첫 폴더블폰, 출시 직후 화면 파손 논란",
+        "date": "2026-10-26 17:40",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=776529"
+    },
+    {
+        "title": "329만원 아이폰, 교환도 못해…듀오, 품귀에 발동동",
+        "date": "2026-10-26 17:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172811"
+    },
+    {
+        "title": "애플에 쫓기고, 메모리값에 치이고…삼성에 경고등 켜졌다",
+        "date": "2026-10-26 17:39",
+        "link": "https://n.news.naver.com/mnews/article/215/0001270524?sid=101"
+    },
+    {
+        "title": "재고 없는 아이폰 듀오… 불량 판정 받아도 교환까지 ‘최대 3개월’",
+        "date": "2026-10-26 17:39",
+        "link": "https://n.news.naver.com/mnews/article/366/0001200424?sid=105"
+    },
+    {
+        "title": "파인엠텍, 아이폰 듀오 부품 결함설 일축⋯근거 없는 책임론 법적 대응...",
+        "date": "2026-10-26 17:38",
+        "link": "https://n.news.naver.com/mnews/article/031/0001069419?sid=105"
+    },
+    {
+        "title": "329만원 애플 '아이폰듀오' 내구성 논란…접었다 펴니 '쩍'",
+        "date": "2026-10-26 17:37",
+        "link": "https://n.news.naver.com/mnews/article/629/0000545693?sid=105"
+    },
+    {
+        "title": "'폴드8·듀오' 다 잡았다…삼성D, 폴더블 OLED 독주",
+        "date": "2026-10-26 17:36",
+        "link": "https://n.news.naver.com/mnews/article/215/0001270523?sid=101"
+    },
+    {
+        "title": "화면 깨진 아이폰 듀오에 韓 부품사 ‘불똥’…파인엠텍 15% 급락",
+        "date": "2026-10-26 17:34",
+        "link": "https://n.news.naver.com/mnews/article/366/0001200422?sid=101"
+    },
+    {
+        "title": "329만원 ‘아이폰 듀오’ 출시 직후 화면 파손 논란",
+        "date": "2026-10-26 17:34",
+        "link": "https://www.m-economynews.com/news/article.html?no=72143"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰…출시 6시간만에 화면 파손 '논란'",
+        "date": "2026-10-26 17:32",
+        "link": "https://www.jasm.co.kr/news/view/323010/?sc=Naver"
+    },
+    {
+        "title": "아이폰 듀오'로 고객 발길 잡는다…신세계백화점, 체험형 팝업 강화",
+        "date": "2026-10-26 17:32",
+        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193719"
+    },
+    {
+        "title": "애플 아이폰 듀오, 출시 직후 화면 균열 논란…삼성 갤럭시 Z 폴드8 내구...",
+        "date": "2026-10-26 17:28",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138176"
+    },
+    {
+        "title": "출시 사흘 만에 불거진 '크랙게이트'…1999달러 아이폰 듀오, 힌지 내구...",
+        "date": "2026-10-26 17:26",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210277"
+    },
+    {
+        "title": "'크랙 게이트' 논란 휩싸인 아이폰 듀오…파인엠텍 부품 결함 아냐",
+        "date": "2026-10-26 17:26",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=228876"
+    },
+    {
+        "title": "아이폰 듀오 '크랙게이트' 일파만파...출시 사흘째 파손 제보 확산",
+        "date": "2026-10-26 17:20",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53969"
+    },
+    {
+        "title": "아이폰 듀오 화면 깨지자 국내 부품사 불똥⋯애플, 입장 표명없이 침묵",
+        "date": "2026-10-26 17:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601503"
+    },
+    {
+        "title": "아이폰 듀오 화면 깨지자 국내 부품사 불똥⋯파인엠텍 우리 부품 결함...",
+        "date": "2026-10-26 17:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601503"
+    },
+    {
+        "title": "아이폰 듀오, 출시 직후 내구성 논란…애플 공식 입장 없어",
+        "date": "2026-10-26 17:20",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2010474"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰, 출시하자마자 화면 파손 논란(종합)",
+        "date": "2026-10-26 17:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0016401338?sid=105"
+    },
+    {
+        "title": "329만원 아이폰 첫 폴더블폰 '듀오'...하루만에 화면이 '쩌억'",
+        "date": "2026-10-26 17:12",
+        "link": "https://www.newstree.kr/newsView/ntr202610260022"
+    },
+    {
+        "title": "아이폰 듀오, 출시 직후 파손 논란···힌지·디스플레이 구조 의혹",
+        "date": "2026-10-26 17:08",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=157559"
+    },
+    {
+        "title": "[데일리픽] 비트코인 또 내리막길…애플 '아이폰 듀오' 출시하자마자 논...",
+        "date": "2026-10-26 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709913"
+    },
+    {
+        "title": "한성컴퓨터, 27인치 QHD 240Hz 게이밍 모니터 'TFG27Q24FL2' 출시",
+        "date": "2026-10-26 17:04",
+        "link": "https://www.betanews.net/article/view/beta202610260046"
+    },
+    {
+        "title": "패닉풀 이어 화면 파손 논란...아이폰 신제품 불량 두고 와글와글",
+        "date": "2026-10-26 16:44",
+        "link": "https://n.news.naver.com/mnews/article/277/0005833607?sid=105"
+    },
+    {
+        "title": "20번도 안 접었는데…애플 첫 폴더블폰 '화면 파손' 논란",
+        "date": "2026-10-26 16:30",
+        "link": "https://n.news.naver.com/mnews/article/422/0000919600?sid=101"
+    },
+    {
+        "title": "애플 내구성 논란에 화웨이는 흥행 부진…삼성 연말 특수 누리나",
+        "date": "2026-10-26 16:26",
+        "link": "http://www.metroseoul.co.kr/article/20261026500524"
+    },
+    {
+        "title": "몇 번이나 펼쳤다고 화면 '쩍' …329만원 폴더블폰 파손 논란",
+        "date": "2026-10-26 16:19",
+        "link": "https://n.news.naver.com/mnews/article/215/0001270501?sid=101"
+    },
+    {
+        "title": "애플 폴더블폰 '힌지 품질 논란'에 파인엠텍 당사 부품 결함과 무관",
+        "date": "2026-10-26 16:18",
+        "link": "https://www.newspim.com/news/view/20261026000814"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰, 출시 6시간 만에 화면 파손 논란...수리비만...",
+        "date": "2026-10-26 16:16",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=205934"
+    },
+    {
+        "title": "7년 만에 삼성에 도전장 내민 애플…첫 폴더블부터 품질 논란",
+        "date": "2026-10-26 16:02",
+        "link": "https://www.etoday.co.kr/news/view/2640183"
+    },
+    {
+        "title": "DS투자증권 자동차에서 쌓은 기술, 로봇으로 확장…전기전자 기업의 새...",
+        "date": "2026-10-26 16:02",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498545"
+    },
+    {
+        "title": "329만원 짜리 애플 첫 폴더블폰, 출시 직후 화면 파손 논란",
+        "date": "2026-10-26 16:00",
+        "link": "https://www.tjb.co.kr/news05/bodo/view/id/105304"
+    },
+    {
+        "title": "아이폰 듀오 품질 논란에...파인엠텍 당사 부품, 결함과 무관",
+        "date": "2026-10-26 16:00",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=64235"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰, 출시 직후 화면 파손 논란…내구성 도마 위",
+        "date": "2026-10-26 15:54",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729198"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰 '아이폰 듀오'…출시 직후 화면 파손 주장",
+        "date": "2026-10-26 15:51",
+        "link": "https://n.news.naver.com/mnews/article/654/0000207493?sid=104"
+    },
+    {
+        "title": "단말 판매 넘어 구독도?…삼성·애플, AI 유료화 카드 만지작",
+        "date": "2026-10-26 15:48",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172781"
+    },
+    {
+        "title": "애플 첫 폴더블폰 '아이폰 듀오' 출시 초반 화면 파손 논란 확산",
+        "date": "2026-10-26 15:46",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3443179"
+    },
+    {
+        "title": "[CEO 성과 점검] [LG디스플레이] 흑자전환 이룬 정철동, '칩플레이션·환...",
+        "date": "2026-10-26 15:46",
+        "link": "https://www.topdaily.kr/articles/112505"
+    },
+    {
+        "title": "'떨어뜨리고 접고' 아이폰 듀오, 혹독한 신고식…힌지 결함 논란도 확산",
+        "date": "2026-10-26 15:44",
+        "link": "https://www.theguru.co.kr/news/article.html?no=108803"
+    },
+    {
+        "title": "'300만 원' 넘는데 왜 이래?…애플 폴더블폰 '화면 파손'에 '발칵'",
+        "date": "2026-10-26 15:40",
+        "link": "https://n.news.naver.com/mnews/article/055/0001398248?sid=101"
+    },
+    {
+        "title": "20번도 안 접었는데 아이폰 듀오 화면 '쩍' 韓기업 불똥…우리 부품 결...",
+        "date": "2026-10-26 15:39",
+        "link": "https://n.news.naver.com/mnews/article/215/0001270495?sid=105"
+    },
+    {
+        "title": "애플, 329만원 '아이폰 듀오' 출시 직후 파손 논란…화면 수리비만 165만...",
+        "date": "2026-10-26 15:36",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=558364"
+    },
+    {
+        "title": "329만원 아이폰 듀오 ‘크랙 게이트’…출시 직후 화면 파손, 수리비 16...",
+        "date": "2026-10-26 15:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0003055276?sid=105"
+    },
+    {
+        "title": "삼성전자 신제품 기대에도 갤럭시 부품주 엇갈려…UTG·나노 소재 주목",
+        "date": "2026-10-26 15:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498510"
+    },
+    {
+        "title": "아이폰 듀오, '뚝' 소리 뒤 화면에 밝은 줄⋯뜯어보니 힌지 결함 가능성",
+        "date": "2026-10-26 15:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601488"
+    },
+    {
+        "title": "'아이폰 듀오' 논란에 힌지 업체 파인엠텍…당사 제품 결함 없다",
+        "date": "2026-10-26 15:16",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900782"
+    },
+    {
+        "title": "329만원 애플 첫 폴더블폰, 출시하자마자 화면 파손 논란",
+        "date": "2026-10-26 15:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0016400911?sid=105"
+    },
+    {
+        "title": "애플, 맥북 에어·아이맥 OLED 전환 준비…출시 시점은 미정",
+        "date": "2026-10-26 15:02",
+        "link": "https://kbench.com/?q=node/282775"
+    },
+    {
+        "title": "LG디스플레이 3.22% 상승…OLED 체질 개선 기대 재점화",
+        "date": "2026-10-26 15:02",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234492"
+    },
+    {
+        "title": "삼성 첫 오버이어 헤드폰 '갤럭시 스튜디오' 출시 임박",
+        "date": "2026-10-26 15:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442386?sid=105"
+    },
+    {
+        "title": "파인엠텍 13.63% 급락…폴더블 힌지 실적 지속성 시험",
+        "date": "2026-10-26 15:00",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234483"
+    },
+    {
+        "title": "애들 첫 폴더블폰(아이폰 듀오) 설계결함 의혹 ‘일파만파’",
+        "date": "2026-10-26 14:56",
+        "link": "https://www.wikitree.co.kr/articles/1169236"
+    },
+    {
+        "title": "“우리 부품 결함 아냐”…‘아이폰 듀오’ 내구성 논란에 파인엠텍 반...",
+        "date": "2026-10-26 14:41",
+        "link": "https://n.news.naver.com/mnews/article/022/0004169757?sid=105"
+    },
+    {
+        "title": "폴더블폰 비웃던 애플의 굴욕..아이폰 듀오, 첫날부터 내구성 논란",
+        "date": "2026-10-26 14:38",
+        "link": "https://kpenews.com/View.aspx?No=4278940"
+    },
+    {
+        "title": "공간컴퓨팅 기대에 에스피지 '훨훨'…VR 콘텐츠·장비주는 '휘청'",
+        "date": "2026-10-26 14:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498476"
+    },
+    {
+        "title": "美애플, 삼성과 부품동맹·LG와 AI홈 연합…협력전략 이원화 '윈윈'",
+        "date": "2026-10-26 14:18",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=94574"
+    },
+    {
+        "title": "반도체는 '초호황', 가전은 원가 부담…전자업계 '실적 슈퍼위크'",
+        "date": "2026-10-26 14:17",
+        "link": "https://n.news.naver.com/mnews/article/119/0003147039?sid=101"
+    },
+    {
+        "title": "애플이 아이폰 감산하자 날벼락 맞은 한국 기업들",
+        "date": "2026-10-26 14:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601285"
+    },
+    {
+        "title": "로봇·전동화 기대에 자동차부품주 차별화…수주 경쟁력이 관건",
+        "date": "2026-10-26 14:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498473"
+    },
+    {
+        "title": "'아이폰 듀오' 설계결함으로 디스플레이 파손, 내가 원인을 찾았습니다...",
+        "date": "2026-10-26 14:08",
+        "link": "https://www.wikitree.co.kr/articles/1169218"
+    },
+    {
+        "title": "PC 시장 21% 뒷걸음질…삼성·LG, 100만원대 노트북으로 '돌파구'",
+        "date": "2026-10-26 14:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729149"
+    },
+    {
+        "title": "아이폰 듀오와 가장 비슷한 폴더블폰은…삼성·구글·모토로라 비교",
+        "date": "2026-10-26 13:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709884"
+    },
+    {
+        "title": "스틸시리즈, 게이밍 마우스 ‘센세이 프로’ 활용 에임 대회 진행",
+        "date": "2026-10-26 13:50",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202610261348363448204ead0791_12"
+    },
+    {
+        "title": "삼성이 키운 폴더블폰 시장, 디스플레이 출하량 44% 증가 전망",
+        "date": "2026-10-26 13:48",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=84900"
+    },
+    {
+        "title": "329만원짜리가 쩍…아이폰 듀오 액정 논란 [영상PICK]",
+        "date": "2026-10-26 13:44",
+        "link": "http://www.metroseoul.co.kr/article/20261026500267"
+    },
+    {
+        "title": "아이폰 듀오 화면 깨져도 애플스토어선 즉시 교체…통신사 구매자는 재...",
+        "date": "2026-10-26 13:36",
+        "link": "https://www.wikitree.co.kr/articles/1169202"
+    },
+    {
+        "title": "애플 '아이폰 듀오', 액정 파손 논란…'힌지' 내구성 우려",
+        "date": "2026-10-26 13:28",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=242438"
+    },
+    {
+        "title": "폴더블폰 신제품 기대에 부품주 희비…유티아이·도우인시스 '휘파람'",
+        "date": "2026-10-26 13:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498444"
+    },
+    {
+        "title": "'아이폰 듀오' 화면 갈라짐 속출…출시 사흘 만에 내구성 논란",
+        "date": "2026-10-26 13:14",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2120418"
+    },
+    {
+        "title": "[분석] LG디스플레이, OLED 비중 역대 최고에도 수익성 회복은 '제자리'",
+        "date": "2026-10-26 12:56",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361244"
+    },
+    {
+        "title": "OLED·배터리는 상승, 카메라·기판은 약세… 아이폰 관련주 온도 차 뚜...",
+        "date": "2026-10-26 12:48",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498440"
+    },
+    {
+        "title": "애플, 터치 OLED 맥북 프로 이번 주 공개…가격도 역대급 예고",
+        "date": "2026-10-26 12:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709866"
+    },
+    {
+        "title": "20번 접었는데 파손…아이폰 듀오, 내구성 논란",
+        "date": "2026-10-26 11:35",
+        "link": "https://n.news.naver.com/mnews/article/016/0002714366?sid=105"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 힌지 내구성 도마…구부리자 내부 화면 파손",
+        "date": "2026-10-26 11:30",
+        "link": "https://kbench.com/?q=node/282763"
+    },
+    {
+        "title": "329만원짜리 아이폰 듀오, 접자마자 깨졌다?…삼성 폴더블 기술력 재조...",
+        "date": "2026-10-26 11:08",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=510415"
+    },
+    {
+        "title": "선익시스템, 中 기업과 80억 규모 OLED 증착장비 계약 이행 완료… 대금...",
+        "date": "2026-10-26 11:08",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396223"
+    },
+    {
+        "title": "수리비만 165만원…통신3사, '아이폰 듀오' 부담 낮춘다",
+        "date": "2026-10-26 11:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729124"
+    },
+    {
+        "title": "329만원 밤샘 줄서기 무색…화면 깨진 애플에 삼성만 웃었다",
+        "date": "2026-10-26 11:00",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=765893"
+    },
+    {
+        "title": "화면 3등분 나는 '아이폰 듀오'…같은 부분만 깨져 내구성 논란",
+        "date": "2026-10-26 10:56",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900709"
+    },
+    {
+        "title": "[투데이온] 삼성 TV 속 LCD 절반 이상 '중국산'…TCL 줄이고 BOE 2배 늘렸...",
+        "date": "2026-10-26 10:44",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=92406"
+    },
+    {
+        "title": "포괄적 ESG에서 구체적 이행으로... 달라지는 미국 기업의 지속가능성 ...",
+        "date": "2026-10-26 10:44",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244859"
+    },
+    {
+        "title": "'329만원' 아이폰 듀오, 출시 직후 액정 파손 논란 … 힌지 설계 결함 의...",
+        "date": "2026-10-26 10:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600077.html"
+    },
+    {
+        "title": "애플, 터치 OLED 맥북프로 28일 공개…가격 얼마나 오를까",
+        "date": "2026-10-26 10:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442346?sid=105"
+    },
+    {
+        "title": "애플, 첫 폴더블폰 품질 논란…삼성 '7년 내공'으로 수성 굳히나",
+        "date": "2026-10-26 10:38",
+        "link": "https://n.news.naver.com/mnews/article/293/0000092119?sid=101"
+    },
+    {
+        "title": "[테크家] 갤럭시 ②ㅣ 유럽 폴더블 시장서 판매·평가 모두 잡았다…AI ...",
+        "date": "2026-10-26 10:16",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=619202"
+    },
+    {
+        "title": "터치스크린 OLED '맥북 프로' 이번 주 출시... 가격 급등 전망",
+        "date": "2026-10-26 10:14",
+        "link": "https://kbench.com/?q=node/282751"
+    },
+    {
+        "title": "팔이 떨어져 나갈 것…스티브 잡스 경고에도 터치스크린 맥북 나온다...",
+        "date": "2026-10-26 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709841"
+    },
+    {
+        "title": "LG디스플레이, 고원가 OLED에 인고의 4분기..돌파구 찾을까?",
+        "date": "2026-10-26 10:08",
+        "link": "https://kpenews.com/View.aspx?No=4278413"
+    },
+    {
+        "title": "같은 곳만 '쩍' 깨지는 아이폰 듀오 뜯어보니…힌지 설계 결함 의혹",
+        "date": "2026-10-26 10:07",
+        "link": "https://n.news.naver.com/mnews/article/003/0014277637?sid=105"
+    },
+    {
+        "title": "[테크 안테나] 삼성전자 LG전자 DB하이텍 샤오미",
+        "date": "2026-10-26 10:04",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418234"
+    },
+    {
+        "title": "아이폰 듀오 크랙 논란 확산에 삼성 Z폴드8 내구성 부각",
+        "date": "2026-10-26 10:04",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=84889"
+    },
+    {
+        "title": "가을 독서 나들이, 책 대신 201g 폴더블… 삼성전자 '갤럭시 Z 폴드8' 전...",
+        "date": "2026-10-26 10:02",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1816089"
+    },
+    {
+        "title": "'칩플레이션'에 中 저가공세 겹악재 … 기로에 선 K-디스플레이",
+        "date": "2026-10-26 09:58",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600063.html"
+    },
+    {
+        "title": "이탈리아, 가전·스마트폰 수리 의무화…한국 기업 AS·부품 공급도 규...",
+        "date": "2026-10-26 09:54",
+        "link": "https://www.impacton.net/news/articleView.html?idxno=30392"
+    },
+    {
+        "title": "피터 틸 애플(AAPL), 2011년 이후 새로 선보인 것 없는 가치주",
+        "date": "2026-10-26 09:52",
+        "link": "http://coinreaders.com/265158"
+    },
+    {
+        "title": "아이폰 듀오, 구매 3시간 만에 화면 파손…애플 무상수리 거부 논란",
+        "date": "2026-10-26 09:46",
+        "link": "https://www.g-enews.com/view.php?ud=2026102609070648659a1f309431_1"
+    },
+    {
+        "title": "애플 아이폰 듀오 분해했더니…힌지에 의심 정황",
+        "date": "2026-10-26 09:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709783"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 화면에 세로·가로줄 생겼다…힌지 결함 논란",
+        "date": "2026-10-26 09:38",
+        "link": "https://kbench.com/?q=node/282745"
+    },
+    {
+        "title": "스티브 잡스 사후 혁신은 없었다…페이팔 창업자, 애플 비판",
+        "date": "2026-10-26 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709819"
+    },
+    {
+        "title": "캐프, 와이퍼 증설·QD 연내 양산 추진",
+        "date": "2026-10-26 09:23",
+        "link": "https://www.newspim.com/news/view/20261026000155"
+    },
+    {
+        "title": "캐프, 베트남 와이퍼 생산능력 5500만 개로 확대…QD 부품 연내 양산",
+        "date": "2026-10-26 09:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=137239"
+    },
+    {
+        "title": "단순 불량 아닌 힌지 자체 결함…애플 '크랙게이트'에 329만원 예약 취...",
+        "date": "2026-10-26 09:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002245928?sid=105"
+    },
+    {
+        "title": "캐프, 베트남 공장 와이퍼 증설·SMT 사업 확대",
+        "date": "2026-10-26 09:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0014277397?sid=101"
+    },
+    {
+        "title": "어메이즈핏, 세계 최초 듀얼 태양광 충전 AMOLED 스마트워치 '티렉스 듀...",
+        "date": "2026-10-26 09:06",
+        "link": "http://www.hortitimes.com/news/articleView.html?idxno=34465"
+    },
+    {
+        "title": "아이패드 미니, 대대적 개편 전망…OLED·A20 프로 탑재하고 가격도 껑충...",
+        "date": "2026-10-26 09:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709794"
+    },
+    {
+        "title": "DMS, 유리기판 장비 연내 양산…내년 중순 공급 목표",
+        "date": "2026-10-26 09:02",
+        "link": "https://dealsite.co.kr/articles/171238"
+    },
+    {
+        "title": "캐프, 베트남 공장 와이퍼 증설",
+        "date": "2026-10-26 09:02",
+        "link": "https://n.news.naver.com/mnews/article/277/0005833263?sid=101"
+    },
+    {
+        "title": "캐프, 와이퍼 연산 5500만개 체제 구축...QD 신규 양산 추진",
+        "date": "2026-10-26 09:00",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=285114"
+    },
+    {
+        "title": "접자마자 화면이 쩍…애플 폴더블폰 '아이폰 듀오' 파손 신고 잇따라",
+        "date": "2026-10-26 08:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709785"
+    },
+    {
+        "title": "LGD, 3분기 흑자 복귀…아쉬운 이익 회복속도",
+        "date": "2026-10-26 08:44",
+        "link": "http://www.datanews.co.kr/news/article.html?no=147077"
+    },
+    {
+        "title": "SK證 도우인시스, 폴더블 흥행에 실적 도약…고객사 다변화 주목",
+        "date": "2026-10-26 08:40",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=137216"
+    },
+    {
+        "title": "'북타입 폴더블'이 바꾼 실적 공식…파인엠텍, 3분기 컨센서스 상회 전...",
+        "date": "2026-10-26 08:36",
+        "link": "https://n.news.naver.com/mnews/article/014/0005594196?sid=101"
+    },
+    {
+        "title": "아이폰 듀오 화면 균열, ‘힌지 레일’ 때문?",
+        "date": "2026-10-26 08:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442295?sid=105"
+    },
+    {
+        "title": "‘20회’ 여닫았을 뿐인데 ‘박살’…아이폰 듀오, 내구성 논란 ‘점입...",
+        "date": "2026-10-26 08:32",
+        "link": "https://n.news.naver.com/mnews/article/016/0002714123?sid=105"
+    },
+    {
+        "title": "[모닝 리포트] 파인엠텍, 3분기 영업익 181억…폴더블폰 수요 확대에 실...",
+        "date": "2026-10-26 08:17",
+        "link": "https://www.newspim.com/news/view/20261026000040"
+    },
+    {
+        "title": "[투데이온] 삼성전자, 튀르키예 1위 통신사와 '5G 동맹' 연장…65만대 공...",
+        "date": "2026-10-26 08:06",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=92391"
+    },
+    {
+        "title": "[분석] OLED 이후···삼성·LG·SK의 차세대 디스플레이 전략",
+        "date": "2026-10-26 08:00",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210492"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 크랙게이트 확산···힌지 파손 결함 의혹",
+        "date": "2026-10-26 07:54",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=41211"
+    },
+    {
         "title": "[IR 분석] 김종덕 LG디스플레이 상무, 물류비 상승 해소 카드 '수요 연동...",
         "date": "2026-10-26 07:00",
         "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312351"
-    },
-    {
-        "title": "애플은 로제, 삼성은 리센느…스마트폰도 ‘K팝 대결’",
-        "date": "2026-10-26 06:31",
-        "link": "https://n.news.naver.com/mnews/article/011/0004675021?sid=101"
     },
     {
         "title": "애플 매장, 반품 사기 막으려 박스 안 열고 아이폰 스캔…봉인 채 재고...",
@@ -33,11 +673,6 @@
         "title": "애플 터치스크린 맥북 프로, 28일 등장하나…2021년 이후 가장 큰 개편 ...",
         "date": "2026-10-26 05:10",
         "link": "https://www.wikitree.co.kr/articles/1169036"
-    },
-    {
-        "title": "삼성 엑시노스, 애플·퀄컴과 정면승부",
-        "date": "2026-10-26 05:05",
-        "link": "https://n.news.naver.com/mnews/article/081/0003692261?sid=105"
     },
     {
         "title": "갈라진 애플...7년 노하우 빛났다 삼성 초격차, 폴더블 주름잡는다",
@@ -75,14 +710,14 @@
         "link": "https://www.wikitree.co.kr/articles/1169023"
     },
     {
+        "title": "“삼성보다 우리가 훨씬 낫다” 끈질긴 도발, 큰소리치더니…중국 ‘접...",
+        "date": "2026-10-25 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002714038?sid=105"
+    },
+    {
         "title": "​'아이폰 듀오'의 야심 찬 출격… 파손도 '듀얼'",
         "date": "2026-10-25 20:00",
         "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876048"
-    },
-    {
-        "title": "329만원 ‘아이폰 듀오’ 벌써 화면 균열?…출시 직후 내구성 논란",
-        "date": "2026-10-25 19:57",
-        "link": "https://n.news.naver.com/mnews/article/666/0000129057?sid=101"
     },
     {
         "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
@@ -110,6 +745,16 @@
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172742"
     },
     {
+        "title": "아이씨에이치, 애플 '아이폰 듀오' 흥행 수혜...공급 물량 확대",
+        "date": "2026-10-25 17:09",
+        "link": "https://n.news.naver.com/mnews/article/293/0000092101?sid=101"
+    },
+    {
+        "title": "300만원 넘게 주고 샀는데 왜 이래…6시간 만에 '날벼락' [정지은의 테...",
+        "date": "2026-10-25 17:02",
+        "link": "https://n.news.naver.com/mnews/article/015/0005346203?sid=105"
+    },
+    {
         "title": "아이폰 듀오, 초기 수요 몰렸지만…내구성 논란·공급부족 변수",
         "date": "2026-10-25 16:58",
         "link": "https://n.news.naver.com/mnews/article/030/0003478392?sid=105"
@@ -135,9 +780,19 @@
         "link": "https://n.news.naver.com/mnews/article/031/0001069050?sid=105"
     },
     {
+        "title": "메모리값 급등에 PC 출하 21% 감소…애플·에이수스는 점유율 확대",
+        "date": "2026-10-25 15:49",
+        "link": "https://n.news.naver.com/mnews/article/031/0001069049?sid=105"
+    },
+    {
         "title": "[현장] “매끈하네” 환호 속 “100만원 차이” 부담⋯ 아이폰 듀오, 소...",
         "date": "2026-10-25 15:34",
         "link": "https://www.viva100.com/article/20261025500358"
+    },
+    {
+        "title": "품절 대란 ‘아이폰 듀오’ 내구성 논란…20번도 안 접었는데 화면 ‘쩍...",
+        "date": "2026-10-25 14:52",
+        "link": "https://n.news.naver.com/mnews/article/020/0003757396?sid=101"
     },
     {
         "title": "힌지 망가지고 화면은 손상… '아이폰 듀오' 내구성 논란",
@@ -185,6 +840,11 @@
         "link": "https://n.news.naver.com/mnews/article/421/0009248252?sid=105"
     },
     {
+        "title": "삼성, 인도 스마트폰 9개 분기 만에 1위…갤A가 견인",
+        "date": "2026-10-25 11:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003478328?sid=105"
+    },
+    {
         "title": "애플 첫 폴더블 아이폰 듀오, 내구성 논란…화면 파손 사례 잇따라",
         "date": "2026-10-25 11:42",
         "link": "https://n.news.naver.com/mnews/article/030/0003478324?sid=105"
@@ -215,29 +875,14 @@
         "link": "https://www.ngonews.kr/news/articleView.html?idxno=241385"
     },
     {
-        "title": "인도 스마트폰 시장 20% 급감했는데…삼성, 9개 분기 만에 1위 탈환",
-        "date": "2026-10-25 11:10",
-        "link": "https://n.news.naver.com/mnews/article/003/0014276319?sid=105"
-    },
-    {
         "title": "액정 수리비만 135만 원… 애플 '아이폰 듀오' 크랙게이트 논란",
         "date": "2026-10-25 11:10",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3731759"
     },
     {
-        "title": "모래 뿌리니 안 접히고 화면 먹통…329만원 '아이폰 듀오' 내구성 논란",
-        "date": "2026-10-25 10:53",
-        "link": "https://n.news.naver.com/mnews/article/003/0014276274?sid=105"
-    },
-    {
         "title": "330만 원 아이폰, 펼치자마자 '쩍'…출시 6시간 만에 액정 파손",
         "date": "2026-10-25 10:34",
         "link": "https://www.abcn.kr/news/articleView.html?idxno=93553"
-    },
-    {
-        "title": "아이폰 듀오, 출시 직후 내구성 논란…힌지·디스플레이 파손 잇따라",
-        "date": "2026-10-25 10:24",
-        "link": "https://n.news.naver.com/mnews/article/029/0003055013?sid=105"
     },
     {
         "title": "2세대 '아이폰 듀오' 내부 화면 키우고 페이스ID 탑재될까",
@@ -258,6 +903,11 @@
         "title": "애플 '아이폰 듀오', 출시 첫날 품귀…예약 배송 내년 1월까지 밀려",
         "date": "2026-10-25 09:04",
         "link": "https://www.aitimes.com/news/articleView.html?idxno=216619"
+    },
+    {
+        "title": "모래 뿌리고 손톱으로 긁었더니… 아이폰듀오 '처참' [영상]",
+        "date": "2026-10-25 09:00",
+        "link": "https://n.news.naver.com/mnews/article/015/0005346128?sid=105"
     },
     {
         "title": "삼성D, 폴더블 OLED ‘초격차’ 잇는다…점유율 66%로 선두 수성",
