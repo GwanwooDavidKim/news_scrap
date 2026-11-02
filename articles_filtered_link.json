@@ -1,5 +1,90 @@
 [
     {
+        "title": "[코스피·코스닥,삼성전자 롯데 기아 삼성전기 케이뱅크 한화오션 효성...",
+        "date": "2026-11-02 08:00",
+        "link": "https://www.public25.com/news/articleView.html?idxno=57644"
+    },
+    {
+        "title": "[TECH한주] K-배터리 제조 원가 혁신의 보이지 않는 거인… 초정밀 롤투...",
+        "date": "2026-11-02 08:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409052"
+    },
+    {
+        "title": "마이크로 LED 주춤한 사이…노트북서 탄력받는 OLED 확장 '주목'",
+        "date": "2026-11-02 06:59",
+        "link": "https://n.news.naver.com/mnews/article/014/0005597709?sid=101"
+    },
+    {
+        "title": "코스피·코스닥 전 거래일(30일) 주요공시?...SOOP 3분기 영업이익 145억...",
+        "date": "2026-11-02 06:30",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500371"
+    },
+    {
+        "title": "[이슈 분석] 500만원 '아이폰 듀오'의 균열… 혁신 시험대 오른 애플의 ...",
+        "date": "2026-11-02 06:30",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026828"
+    },
+    {
+        "title": "아이폰 18 프로 얼마나 팔았나...애플 오늘 장 마감 후 실적 발표",
+        "date": "2026-11-02 06:24",
+        "link": "https://www.g-enews.com/view.php?ud=202611020620119557e250e8e188_1"
+    },
+    {
+        "title": "[내돈내맞] 기자가 직접 맞아본 '에페'…주사 한 방이 남긴 질문",
+        "date": "2026-11-02 06:12",
+        "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80391"
+    },
+    {
+        "title": "애플 아이패드 에어·프로·보급형, 2027년 상반기에 3종 몰려 나올 듯…...",
+        "date": "2026-11-02 06:10",
+        "link": "https://www.wikitree.co.kr/articles/1170925"
+    },
+    {
+        "title": "[오현승의 IT 스토리] ‘AI 지각생’ 애플, 시총 1위 탈환한 까닭",
+        "date": "2026-11-02 06:04",
+        "link": "http://www.segyebiz.com/newsView/20261101508791?OutUrl=naver"
+    },
+    {
+        "title": "올레드 성능·생산성 ‘두 토끼’… LG디스플레이 ‘FLiPP’ 주목",
+        "date": "2026-11-02 06:03",
+        "link": "https://n.news.naver.com/mnews/article/022/0004171600?sid=101"
+    },
+    {
+        "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇...",
+        "date": "2026-11-02 06:02",
+        "link": "https://n.news.naver.com/mnews/article/056/0012285083?sid=121"
+    },
+    {
+        "title": "[속보] 265만원 '아이폰 듀오', 화면 균열 이어 '틈새 논란'…예약 취소...",
+        "date": "2026-11-02 05:34",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=92831"
+    },
+    {
+        "title": "갤럭시 Z 폴드8, 아이폰 듀오보다 100달러 싸고 53g 가볍지만 방수는 IP4...",
+        "date": "2026-11-02 05:10",
+        "link": "https://www.wikitree.co.kr/articles/1170924"
+    },
+    {
+        "title": "애플 AI, 中 ‘큐원’ 품었다",
+        "date": "2026-11-02 05:04",
+        "link": "https://n.news.naver.com/mnews/article/081/0003694665?sid=101"
+    },
+    {
+        "title": "[내구성 확보] 애플 첫 폴더블폰 '듀오', 출시 초 내부 화면 파손 논란",
+        "date": "2026-11-02 00:00",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=621900"
+    },
+    {
+        "title": "애플워치 서머타임 버그, 손목 내릴 때만 1시간 어긋나…워치페이스 전...",
+        "date": "2026-11-01 23:30",
+        "link": "https://www.wikitree.co.kr/articles/1170910"
+    },
+    {
+        "title": "‘나이브스 아웃’ 감독 만든 아이폰 카메라 앱, 필터 아닌 RAW 처리로 ...",
+        "date": "2026-11-01 23:10",
+        "link": "https://www.wikitree.co.kr/articles/1170909"
+    },
+    {
         "title": "OLED 뒤처지면 죽는다… 한·중 '차세대 공정' 경쟁",
         "date": "2026-11-01 19:16",
         "link": "https://n.news.naver.com/mnews/article/029/0003056457?sid=101"
@@ -20,11 +105,6 @@
         "link": "https://n.news.naver.com/mnews/article/018/0006401663?sid=101"
     },
     {
-        "title": "애플·알리바바 AI 동맹 체결…中 출시 아이폰에 큐원 탑재",
-        "date": "2026-11-01 17:11",
-        "link": "https://n.news.naver.com/mnews/article/011/0004677451?sid=104"
-    },
-    {
         "title": "삼성전자, 삼성D서 CSOT 지분 전량 인수...1.27조원",
         "date": "2026-11-01 17:08",
         "link": "https://n.news.naver.com/mnews/article/092/0002443333?sid=105"
@@ -33,6 +113,11 @@
         "title": "[리뷰] MSI MAG 322UP QD-OLED E16: 32형 대화면에 4K·165Hz를 품다…크로...",
         "date": "2026-11-01 17:00",
         "link": "https://www.cnet.co.kr/view/?no=20261030054749"
+    },
+    {
+        "title": "애플, 中서 '큐원' 탑재 AI 12월 출시…4일부터 베타 테스트",
+        "date": "2026-11-01 16:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0009263138?sid=104"
     },
     {
         "title": "만리장성 뚫으려 알리바바 품은 애플...중국 맞춤형 AI 탑재",
@@ -135,9 +220,19 @@
         "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000078441"
     },
     {
+        "title": "손으로 떼어 먹는다.. 스낵파인애플, 망고 일변 제주 아열대과일 시장...",
+        "date": "2026-11-01 09:39",
+        "link": "https://n.news.naver.com/mnews/article/661/0000085877?sid=101"
+    },
+    {
         "title": "논산 강경고, 사과 건네며 마음 전하는 '애플데이' 열었다",
         "date": "2026-11-01 09:24",
         "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917962"
+    },
+    {
+        "title": "영광·래블업·이에스티 등 상장[증시캘린더]",
+        "date": "2026-11-01 09:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006401113?sid=101"
     },
     {
         "title": "애플도 부딪힌 폴더블의 벽…화면 접기가 어려운 이유",
@@ -148,290 +243,5 @@
         "title": "삼성바이오에피스 내년 마일스톤 공백 탓에 역성장? : 김경아 늘어난 제...",
         "date": "2026-11-01 07:00",
         "link": "https://www.huffingtonpost.kr/article/261682"
-    },
-    {
-        "title": "아이폰 듀오, 접으면 18 프로 맥스보다 훨씬 짧아 주머니에 쏙…무게 차...",
-        "date": "2026-11-01 06:10",
-        "link": "https://www.wikitree.co.kr/articles/1170776"
-    },
-    {
-        "title": "아이폰 듀오 대기 89일…한 주 새 약 7% 감소",
-        "date": "2026-11-01 06:02",
-        "link": "https://www.tokenpost.kr/news/tech/430733"
-    },
-    {
-        "title": "내 폰도 갈라졌다…SNS 뒤덮은 아이폰 듀오 '크랙 챌린지'",
-        "date": "2026-11-01 06:01",
-        "link": "https://n.news.naver.com/mnews/article/138/0002246796?sid=105"
-    },
-    {
-        "title": "삼성전자, 갤폴드 신모델 저울질…화면 확대냐 가격 인하냐",
-        "date": "2026-11-01 06:00",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173188"
-    },
-    {
-        "title": "레노버 구글북 15, 1099달러 OLED 하드웨어는 호평인데 OS는 덜 완성됐다...",
-        "date": "2026-11-01 05:10",
-        "link": "https://www.wikitree.co.kr/articles/1170773"
-    },
-    {
-        "title": "애플 최대 경쟁자는 ‘구형’ 아이폰…가격 인상에 교체 수요 위축 우려",
-        "date": "2026-11-01 03:02",
-        "link": "https://www.g-enews.com/view.php?ud=2026103119564513919a1f309431_1"
-    },
-    {
-        "title": "아이폰 듀오 초기 물량 80%가 매장으로…온라인 사전 주문은 배송이 202...",
-        "date": "2026-11-01 02:10",
-        "link": "https://www.wikitree.co.kr/articles/1170767"
-    },
-    {
-        "title": "LG디스플레이, LT소재와 공동 출원했던 美특허 9건 단독보유 전환",
-        "date": "2026-11-01 01:13",
-        "link": "https://n.news.naver.com/mnews/article/092/0002443278?sid=105"
-    },
-    {
-        "title": "모토로라 레이저 울트라 2026, 가격만 200달러 올랐다…리뷰어 “할인 기...",
-        "date": "2026-10-31 23:24",
-        "link": "https://www.wikitree.co.kr/articles/1170759"
-    },
-    {
-        "title": "아이폰 듀오 1주일 써보니 흰 줄 결함 논란에도 “가장 설렜다”…리뷰...",
-        "date": "2026-10-31 23:10",
-        "link": "https://www.wikitree.co.kr/articles/1170758"
-    },
-    {
-        "title": "애플 연동 선물 미결제약정 24시간 7.99% 감소",
-        "date": "2026-10-31 21:22",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/430634"
-    },
-    {
-        "title": "Z 폴드8과 아이폰 듀오 세상에서 갤럭시S26 울트라가 최고인 이유",
-        "date": "2026-10-31 17:54",
-        "link": "https://www.betanews.net/article/view/beta202610310016"
-    },
-    {
-        "title": "샘 올트먼의 '코덱스 키보드'와 '챗GPT 스피커'…AI가 바꾸는 컴퓨터의...",
-        "date": "2026-10-31 17:50",
-        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16264680"
-    },
-    {
-        "title": "갤럭시Z 폴드9만 3종? 삼성 2027년 폴더블 라인업 총정리",
-        "date": "2026-10-31 17:32",
-        "link": "https://www.betanews.net/article/view/beta202610310015"
-    },
-    {
-        "title": "삼성전자 17인치 폴더블 태블릿 개발중",
-        "date": "2026-10-31 17:29",
-        "link": "https://www.kpinews.kr/newsView/1065601291238326"
-    },
-    {
-        "title": "소재·부품 비중 70%로 확대…에프엔에스테크 사상 최대 이익률 도전",
-        "date": "2026-10-31 16:52",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500251"
-    },
-    {
-        "title": "펼치면 17인치, 접으면 8인치... 삼성, 초대형 갤럭시 폴더블 개발중",
-        "date": "2026-10-31 16:42",
-        "link": "https://www.betanews.net/article/view/beta202610310012"
-    },
-    {
-        "title": "애플, ‘시총 1위’ 탈환⋯ 엔비디아 2위로",
-        "date": "2026-10-31 16:04",
-        "link": "https://www.viva100.com/article/20261031500251"
-    },
-    {
-        "title": "애플, 엔비디아 밀어내고 3개월 만에 세계 시총 1위 탈환",
-        "date": "2026-10-31 15:12",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173265"
-    },
-    {
-        "title": "삼성전자, 갤럭시 A18 LTE·코리아 그랜드 페스티벌로 '소비자·소상공인...",
-        "date": "2026-10-31 14:06",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=104016"
-    },
-    {
-        "title": "‘AI에 돈 아낀’ 애플, 시총 1위 탈환…3개월 만에 엔비디아 제쳤다",
-        "date": "2026-10-31 12:04",
-        "link": "https://n.news.naver.com/mnews/article/005/0001882093?sid=101"
-    },
-    {
-        "title": "[데스크 칼럼] 삼성전자 성과급 갈등···정말 회사를 쪼개야 할까?",
-        "date": "2026-10-31 12:00",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=641339"
-    },
-    {
-        "title": "갤럭시 잘 팔리는데 4조원 증발…삼성폰에 무슨 일이",
-        "date": "2026-10-31 12:00",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292011?sid=105"
-    },
-    {
-        "title": "애플, 엔비디아 제치고 3개월 만에 시총 1위 복귀... AI 빅테크 우려 반...",
-        "date": "2026-10-31 11:44",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885503"
-    },
-    {
-        "title": "'AI 지출 최소화' 애플이 1위…AI 투자 우려 재점화",
-        "date": "2026-10-31 11:05",
-        "link": "https://n.news.naver.com/mnews/article/057/0001976058?sid=101"
-    },
-    {
-        "title": "애플, 왕좌 복귀했다…엔비디아 제치고 3개월 만에 시총 1위",
-        "date": "2026-10-31 10:59",
-        "link": "https://n.news.naver.com/mnews/article/277/0005836121?sid=104"
-    },
-    {
-        "title": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리고 시총 1위 탈환",
-        "date": "2026-10-31 10:44",
-        "link": "https://n.news.naver.com/mnews/article/028/0002830077?sid=101"
-    },
-    {
-        "title": "애플, 아이폰 듀오 화면 균열 대응 지침 배포…수리·교체 안내[1일IT템...",
-        "date": "2026-10-31 10:41",
-        "link": "https://n.news.naver.com/mnews/article/014/0005597342?sid=105"
-    },
-    {
-        "title": "유재석, 김광규에 최신형 폴더블폰 쾌척…“너무 무리하는 거 아냐?”",
-        "date": "2026-10-31 10:15",
-        "link": "https://m.entertain.naver.com/article/382/0001302098"
-    },
-    {
-        "title": "애플, 엔비디아 제치고 시총 1위 탈환",
-        "date": "2026-10-31 10:13",
-        "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105"
-    },
-    {
-        "title": "유재석, 김광규에 최신 폴더블폰 선물…주우재 옷까지 ‘통 큰 플렉스’...",
-        "date": "2026-10-31 10:11",
-        "link": "https://m.entertain.naver.com/article/382/0001302097"
-    },
-    {
-        "title": "AI 빅테크 부진에 … 애플, 엔비디아 제치고 시총 1위 탈환",
-        "date": "2026-10-31 10:10",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/31/2026103100018.html"
-    },
-    {
-        "title": "손 안 대고 '눈짓'으로 켠다…55g 괴물 AI 안경 등장",
-        "date": "2026-10-31 10:07",
-        "link": "https://n.news.naver.com/mnews/article/092/0002443267?sid=105"
-    },
-    {
-        "title": "AI 과열에 기술주 급락…'조용한' 애플, 다시 세계 시총 1위 탈환",
-        "date": "2026-10-31 10:06",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66823"
-    },
-    {
-        "title": "AI 투자 과열 우려에 엔비디아 급락…애플, 석 달 만에 시총 1위 탈환",
-        "date": "2026-10-31 10:01",
-        "link": "https://n.news.naver.com/mnews/article/448/0000648103?sid=101"
-    },
-    {
-        "title": "AI 투자 우려에…애플, 엔비디아 제치고 시총 1위",
-        "date": "2026-10-31 09:52",
-        "link": "https://n.news.naver.com/mnews/article/018/0006400616?sid=101"
-    },
-    {
-        "title": "애플, 엔비디아 제치고 시총 1위 탈환…AI 투자 부담에 희비",
-        "date": "2026-10-31 09:30",
-        "link": "https://n.news.naver.com/mnews/article/654/0000208523?sid=104"
-    },
-    {
-        "title": "낸드업계, '슈퍼 갑' 애플에 반격 시작?… 1년 새 메모리 가격 4배 '껑충...",
-        "date": "2026-10-31 09:28",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=324517"
-    },
-    {
-        "title": "애플, 엔비디아 꺾고 석달만에 시총 1위...5조300억달러",
-        "date": "2026-10-31 09:22",
-        "link": "https://www.jasm.co.kr/news/view/323661/?sc=Naver"
-    },
-    {
-        "title": "애플 시총 6,730조원으로 엔비디아 제치고 세계 1위 탈환",
-        "date": "2026-10-31 09:12",
-        "link": "https://www.tokenpost.kr/news/breaking/430466"
-    },
-    {
-        "title": "애플, 엔비디아 꺾었다...세계 시총 1위",
-        "date": "2026-10-31 09:04",
-        "link": "https://n.news.naver.com/mnews/article/050/0000112655?sid=101"
-    },
-    {
-        "title": "삼성D, 창립 14주년 기념식 개최…이청 사장 아산 2단지, 미래 위한 도...",
-        "date": "2026-10-31 09:00",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312786"
-    },
-    {
-        "title": "AI 투자 거품 우려에 엔비디아 흔들…애플, 세계 시총 1위 탈환",
-        "date": "2026-10-31 08:54",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=92772"
-    },
-    {
-        "title": "소수 문제라더니 지침까지 하달…애플 '아이폰 듀오' 조용한 수습 작...",
-        "date": "2026-10-31 08:16",
-        "link": "https://n.news.naver.com/mnews/article/138/0002246780?sid=105"
-    },
-    {
-        "title": "핏빗 에어냐 애플워치냐, 사양보다 먼저 따질 건 구독 여부와 수면·운...",
-        "date": "2026-10-31 08:10",
-        "link": "https://www.wikitree.co.kr/articles/1170662"
-    },
-    {
-        "title": "“펼치니 화면이 깨졌다”…애플 첫 폴더블폰 불량 보고",
-        "date": "2026-10-31 08:06",
-        "link": "https://www.kbmaeil.com/article/20261031500015"
-    },
-    {
-        "title": "아이폰 듀오, 힌지 수율 50%설…초기 공급난에 품질 논란 확산",
-        "date": "2026-10-31 08:02",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026103015192092357"
-    },
-    {
-        "title": "계기판까지 애플답게…'카플레이 울트라' 직접 써보니",
-        "date": "2026-10-31 08:02",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026103016313433479"
-    },
-    {
-        "title": "조금 일찍 도착한 미래…‘아이폰 듀오’와 보낸 일주일[잇:써봐]",
-        "date": "2026-10-31 08:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0006400594?sid=105"
-    },
-    {
-        "title": "애플이 접자 삼성이 웃었다…첫 폴더블폰에 무슨 일이[정길준의 위클리...",
-        "date": "2026-10-31 08:01",
-        "link": "https://n.news.naver.com/mnews/article/243/0000105012?sid=105"
-    },
-    {
-        "title": "'칩플레이션'의 역설… 삼성 MX, 적자에 꺼내든 '고가·프리미엄' 승부수...",
-        "date": "2026-10-31 07:40",
-        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48647"
-    },
-    {
-        "title": "LG전자, 가전·TV 흑자 사수···4분기 원가절감 시험대",
-        "date": "2026-10-31 07:40",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424686"
-    },
-    {
-        "title": "AI 투자 줄인 애플, 엔비디아 꺾고 시총 1위 탈환",
-        "date": "2026-10-31 07:36",
-        "link": "https://n.news.naver.com/mnews/article/215/0001271180?sid=101"
-    },
-    {
-        "title": "[토요리뷰] 아이폰 듀오, '갬성' 충만하지만…UI·UX는 '미완성'",
-        "date": "2026-10-31 07:28",
-        "link": "https://n.news.naver.com/mnews/article/421/0009261975?sid=105"
-    },
-    {
-        "title": "애플, 엔비디아 제치고 시총 1위 탈환…AI 투자 부담에 희비",
-        "date": "2026-10-31 07:08",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000078313"
-    },
-    {
-        "title": "[기획] 구글·애플 인앱결제 ‘637억 철퇴’…게임업계 수수료 부담 줄...",
-        "date": "2026-10-31 07:02",
-        "link": "https://www.sentv.co.kr/article/view/sentv202610300002"
-    },
-    {
-        "title": "애플($AAPL) AI, 11월 4일 중국 베타…알리바바 천문 연동",
-        "date": "2026-10-31 07:02",
-        "link": "https://www.tokenpost.kr/news/breaking/430438"
     }
 ]
