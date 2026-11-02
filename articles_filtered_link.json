@@ -1,5 +1,535 @@
 [
     {
+        "title": "비싼 소재가 무조건 좋다?…애플워치 세라믹-티타늄 내구성 차이는?",
+        "date": "2026-11-02 21:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711876"
+    },
+    {
+        "title": "40만원대 애플TV, 몇 년이나 버틸까…업데이트 이력 보니",
+        "date": "2026-11-02 20:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711865"
+    },
+    {
+        "title": "구글·애플에 637억 과징금 '철퇴'… 30% 결제 수수료 손본다",
+        "date": "2026-11-02 19:50",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1189937"
+    },
+    {
+        "title": "애플 아이폰 듀오…아이폰 18 프로와 비교해보니",
+        "date": "2026-11-02 19:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711830"
+    },
+    {
+        "title": "삼성 'AI 글라스' 젠틀몬스터가 발표한다…내달 한미 출시, 디스플레이...",
+        "date": "2026-11-02 18:22",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=901578"
+    },
+    {
+        "title": "“남는게 없다”…쪼그라든 스마트폰 시장서 1위 지킨 삼성, 수익성 확...",
+        "date": "2026-11-02 18:22",
+        "link": "https://n.news.naver.com/mnews/article/025/0003562265?sid=101"
+    },
+    {
+        "title": "[마포나루의 아침] 혁신이라는 명성 뒤에 숨겨진 애플의 민낯과 아이폰...",
+        "date": "2026-11-02 18:00",
+        "link": "https://www.g-enews.com/view.php?ud=20261102141319591327fa31d75c_1"
+    },
+    {
+        "title": "삼성전자, 3분기 스마트폰 시장 위축에도 글로벌 1위",
+        "date": "2026-11-02 17:58",
+        "link": "https://www.news2day.co.kr/article/20261102500166"
+    },
+    {
+        "title": "갤럭시S27 프로, 프라이버시 디스플레이 탑재 확정됐나…OLED 생산 돌입",
+        "date": "2026-11-02 17:56",
+        "link": "https://kbench.com/?q=node/282986"
+    },
+    {
+        "title": "삼성 10년 만에 프리미엄 헤드폰 부활... ‘갤럭시 스튜디오’ 출시 임...",
+        "date": "2026-11-02 17:40",
+        "link": "https://www.betanews.net/article/view/beta202611020146"
+    },
+    {
+        "title": "글로벌 스마트폰 출하량 2억 5470만 대 그쳐… 삼성 1위·애플 2위 수성",
+        "date": "2026-11-02 17:36",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116583"
+    },
+    {
+        "title": "[단독] 삼성도 '을'로 만든 브로드컴…대법 '1조 부품 강매' 제재 확정",
+        "date": "2026-11-02 17:20",
+        "link": "https://bizhankook.com/articles/broadcom-samsung-abuse-ruling.html"
+    },
+    {
+        "title": "삼성디스플레이, CSOT 지분 전량 삼성전자에 매각",
+        "date": "2026-11-02 17:12",
+        "link": "https://dealsite.co.kr/articles/171891"
+    },
+    {
+        "title": "끝 모를 메모리 대란…스마트폰·IT용 OLED 수요 전망까지 낮췄다",
+        "date": "2026-11-02 17:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005435411?sid=101"
+    },
+    {
+        "title": "아이폰 듀오 출시에도…번호이동 시장 잠잠",
+        "date": "2026-11-02 16:58",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000052"
+    },
+    {
+        "title": "갤럭시 Z 폴드9에 화면 아래 카메라 부활?⋯애플과 폴더블폰 기술 경쟁...",
+        "date": "2026-11-02 16:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601689"
+    },
+    {
+        "title": "옴디아 3분기 세계 스마트폰 출하량 급감",
+        "date": "2026-11-02 16:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878910"
+    },
+    {
+        "title": "스마트폰 출하량 급감에도…삼성전자, 3분기 세계 1위 ‘유지’",
+        "date": "2026-11-02 16:36",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1318952&inflow=N"
+    },
+    {
+        "title": "[진단] 한국 산업의 AI 대전환, 기업 현장에서는 어디까지 왔나",
+        "date": "2026-11-02 16:33",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=747474"
+    },
+    {
+        "title": "류재철 “애플과 스마트홈 기기 공동 개발”…LG전자, AI 홈 생태계 넓힌...",
+        "date": "2026-11-02 16:32",
+        "link": "https://www.etoday.co.kr/news/view/2643161"
+    },
+    {
+        "title": "잡스가 봤다면 기겁했을까…애플이 깨뜨린 금기는",
+        "date": "2026-11-02 16:10",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443468?sid=105"
+    },
+    {
+        "title": "류재철 LG전자 CEO 애플 협업으로 생태계 확장…AI홈 다음은 돌봄",
+        "date": "2026-11-02 16:09",
+        "link": "https://n.news.naver.com/mnews/article/029/0003056627?sid=101"
+    },
+    {
+        "title": "日·EU선 앱마켓 개방·수수료 인하했다는데… 韓선 버티는 구글·애플",
+        "date": "2026-11-02 16:04",
+        "link": "https://n.news.naver.com/mnews/article/366/0001202020?sid=105"
+    },
+    {
+        "title": "LG전자 AI홈, 개별 기기 조작 줄인다…류재철 연결만으론 부족",
+        "date": "2026-11-02 15:46",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=242622"
+    },
+    {
+        "title": "삼성전자, 3분기 스마트폰 출하량 1위…애플과의 격차 130만대",
+        "date": "2026-11-02 15:38",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=755720"
+    },
+    {
+        "title": "옴디아 올 3분기 글로벌 스마트폰 출하량 20% 감소…2013년 이후 3분기...",
+        "date": "2026-11-02 15:20",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409124"
+    },
+    {
+        "title": "구글·애플 과징금, 소송·통상압박 변수",
+        "date": "2026-11-02 15:15",
+        "link": "https://n.news.naver.com/mnews/article/417/0001162951?sid=105"
+    },
+    {
+        "title": "류재철 LG전자 사장 “AI홈, 연결 넘어 돌봄으로”… 애플과 생태계 확...",
+        "date": "2026-11-02 15:13",
+        "link": "https://n.news.naver.com/mnews/article/366/0001201994?sid=105"
+    },
+    {
+        "title": "삼성전자, 스마트폰 시장 급감에도 1위…애플과 130만대 차",
+        "date": "2026-11-02 15:08",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2013006"
+    },
+    {
+        "title": "20% 작아진 스마트폰 시장 ···삼성, 출하량 감소에도 점유율 1위",
+        "date": "2026-11-02 15:03",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=641656"
+    },
+    {
+        "title": "삼성전자, 스마트폰 시장 급랭에도 1위 수성…갤럭시A·폴더블폰 선전",
+        "date": "2026-11-02 15:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021432344390204"
+    },
+    {
+        "title": "삼성전자, 애플 '사과' 자르고 화면 균열 풍자 광고…7년 폴더블 기술력...",
+        "date": "2026-11-02 14:56",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=560414"
+    },
+    {
+        "title": "조위부터 코딩·맥 전용 모니터까지… 벤큐, 11월 한 달간 포토후기 전...",
+        "date": "2026-11-02 14:54",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61165"
+    },
+    {
+        "title": "류재철 LG전자 CEO AI홈 다음 표준은 돌봄 … 애플·MS와 생태계 확장",
+        "date": "2026-11-02 14:46",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200263.html"
+    },
+    {
+        "title": "“역시 삼성전자”…스마트폰 시장 침체 버틴 효자템은 ‘이것’",
+        "date": "2026-11-02 14:46",
+        "link": "https://n.news.naver.com/mnews/article/029/0003056591?sid=101"
+    },
+    {
+        "title": "애플 텃밭에 '저격' 광고 트럭 보낸 삼성…아이폰 '크랙게이트' 공세",
+        "date": "2026-11-02 14:34",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026110210430097280"
+    },
+    {
+        "title": "'갤Z 폴드8' 화면에도 '아이폰 듀오'처럼 줄이 쩍?…1천만뷰 찍은 영상 ...",
+        "date": "2026-11-02 14:23",
+        "link": "https://n.news.naver.com/mnews/article/030/0003481155?sid=105"
+    },
+    {
+        "title": "애플, 2027년 상반기 아이패드 개편 전망…에어 OLED·기본형 AI 지원",
+        "date": "2026-11-02 14:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711833"
+    },
+    {
+        "title": "애플 홈뷰, 숨겨진 기능 포착…보안 카메라로도 쓸 수 있다",
+        "date": "2026-11-02 14:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711829"
+    },
+    {
+        "title": "삼성전자, 스마트폰 시장 위축 속 2분기 연속 세계 1위",
+        "date": "2026-11-02 14:20",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=158166"
+    },
+    {
+        "title": "아이폰 듀오 vs 아이폰 에어, 900달러 차이…무엇이 다른가",
+        "date": "2026-11-02 14:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711811"
+    },
+    {
+        "title": "삼성전자, 첫 AI 스마트 안경 12월 출시⋯메타 독주에 도전장",
+        "date": "2026-11-02 14:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601681"
+    },
+    {
+        "title": "애플 CEO AI를 위한 AI는 출시 안 해…제품 중심 전략 고수",
+        "date": "2026-11-02 14:12",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=216900"
+    },
+    {
+        "title": "에이수스, 그랜드십일절에 게이밍 노트북 4종 선보여",
+        "date": "2026-11-02 13:54",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202611021353072961204ead0791_12"
+    },
+    {
+        "title": "AI 안경 쓴 사람 접근하면 경고… ‘역감시’ 앱 확산",
+        "date": "2026-11-02 13:52",
+        "link": "https://n.news.naver.com/mnews/article/023/0004007285?sid=105"
+    },
+    {
+        "title": "글로벌 스마트폰 출하량 20% 급감에도 삼성, 1위 수성",
+        "date": "2026-11-02 13:46",
+        "link": "https://n.news.naver.com/mnews/article/421/0009264773?sid=105"
+    },
+    {
+        "title": "애플 유산 관리자, 사진·메시지 접근…암호·결제정보는 제외",
+        "date": "2026-11-02 13:36",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=399460"
+    },
+    {
+        "title": "스마트폰 시장 13년 만에 최악…삼성·애플 선방",
+        "date": "2026-11-02 13:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000009"
+    },
+    {
+        "title": "신형 '아이패드 미니' 성능 유출, M5 아이패드 프로보다 싱글코어 성능...",
+        "date": "2026-11-02 13:18",
+        "link": "https://kbench.com/?q=node/282974"
+    },
+    {
+        "title": "세계 스마트폰 시장 13년 만에 '최악의 한파'… 삼성전자, 왕좌 지켰다",
+        "date": "2026-11-02 13:18",
+        "link": "https://theopiniontimes.news/%ec%84%b8%ea%b3%84-%ec%8a%a4%eb%a7%88%ed%8a%b8%ed%8f%b0-%ec%8b%9c%ec%9e%a5-13%eb%85%84-%eb%a7%8c%ec%97%90-%ec%b5%9c%ec%95%85%ec%9d%98-%ed%95%9c%ed%8c%8c-%ec%82%bc%ec%84%b1%ec%a0%84/"
+    },
+    {
+        "title": "아이폰18 프로 맥스 대항마는 '갤럭시 S26 울트라'…안드로이드 최강자...",
+        "date": "2026-11-02 13:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711791"
+    },
+    {
+        "title": "매출 9조 늘고 영업익 10조 줄었다...노태문 DX의 9개월",
+        "date": "2026-11-02 13:00",
+        "link": "https://www.insight.co.kr/news/580165"
+    },
+    {
+        "title": "'애플 폴더블폰' 아이폰 듀오, 14만 번 접었더니",
+        "date": "2026-11-02 12:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443423?sid=105"
+    },
+    {
+        "title": "애플, 내년 상반기 아이패드 3종 출시…에어도 OLED 탑재",
+        "date": "2026-11-02 12:38",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443421?sid=105"
+    },
+    {
+        "title": "15억 초거대 인구를 연결하라, 인도 통신·네트워크 장비(TANE) 시장",
+        "date": "2026-11-02 12:12",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244814"
+    },
+    {
+        "title": "삼성전자, 스마트폰 글로벌 출하량 20% 급감에도 점유율 '세계 1위' 유지",
+        "date": "2026-11-02 12:12",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268340"
+    },
+    {
+        "title": "스마트폰 시장 20% 급감…삼성 1위 수성·중국 업체 타격",
+        "date": "2026-11-02 12:09",
+        "link": "https://n.news.naver.com/mnews/article/031/0001071338?sid=105"
+    },
+    {
+        "title": "늘려도 균일하게 빛나는 옷감형 OLED로 입는 디스플레이 지평 연다…전...",
+        "date": "2026-11-02 12:04",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131844"
+    },
+    {
+        "title": "가격 오르자 신흥시장 타격…3분기 스마트폰 출하량 2013년 이후 최저...",
+        "date": "2026-11-02 11:52",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=901562"
+    },
+    {
+        "title": "애플, 2027년 신형 맥북 프로에 새로운 AI 하드웨어 탑재하나",
+        "date": "2026-11-02 11:50",
+        "link": "https://kbench.com/?q=node/282964"
+    },
+    {
+        "title": "삼성 5780만대 vs 애플 5650만대···스마트폰 왕좌 접전",
+        "date": "2026-11-02 11:46",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92943"
+    },
+    {
+        "title": "구글·애플 인앱결제 과징금…게임업계, 수수료 수천억 절감 주목",
+        "date": "2026-11-02 11:40",
+        "link": "https://n.news.naver.com/mnews/article/629/0000547783?sid=105"
+    },
+    {
+        "title": "아이폰11 프로 → 아이폰18 프로, 가격 얼마나 올랐나 보니…7년 새 20% ...",
+        "date": "2026-11-02 11:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711800"
+    },
+    {
+        "title": "3분기 스마트폰 출하 20% 급감…삼성·애플 점유율은 37%→45%",
+        "date": "2026-11-02 11:34",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=242608"
+    },
+    {
+        "title": "아이패드 에어도 OLED 탑재…애플, 2027년 신제품 3종 출시 전망",
+        "date": "2026-11-02 11:24",
+        "link": "https://kbench.com/?q=node/282963"
+    },
+    {
+        "title": "'세계 1위' 삼성전자 또 일냈다…애플마저 제친 '뜻밖의 효자'",
+        "date": "2026-11-02 11:19",
+        "link": "https://n.news.naver.com/mnews/article/015/0005349145?sid=105"
+    },
+    {
+        "title": "글로벌 스마트폰 출하량 20% 급감...삼성전자 1위 수성",
+        "date": "2026-11-02 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711777"
+    },
+    {
+        "title": "'애플 디벨로퍼 아카데미' 5기 수료생 쇼케이스",
+        "date": "2026-11-02 11:14",
+        "link": "https://n.news.naver.com/mnews/article/003/0014294541?sid=102"
+    },
+    {
+        "title": "OSCARE, 고품질 박막 증착기술 확보… 차세대 OLED 제조 기술 경쟁력 강...",
+        "date": "2026-11-02 11:12",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88708"
+    },
+    {
+        "title": "스마트폰 한파 버틴 삼성…애플 130만대 차로 앞서며 세계 1위",
+        "date": "2026-11-02 11:12",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=5038712"
+    },
+    {
+        "title": "삼성전자, 스마트폰 시장 급랭에도 세계 1위…애플과 격차 130만대",
+        "date": "2026-11-02 11:06",
+        "link": "https://n.news.naver.com/mnews/article/654/0000208805?sid=101"
+    },
+    {
+        "title": "포항 애플 디벨로퍼 아카데미, 9개월간의 앱 개발 여정 결실…5기 쇼케...",
+        "date": "2026-11-02 11:06",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=94050"
+    },
+    {
+        "title": "ASUS, 11번가 '그랜드십일절'서 게이밍 노트북 최대 47% 할인",
+        "date": "2026-11-02 11:04",
+        "link": "https://n.news.naver.com/mnews/article/008/0005435143?sid=105"
+    },
+    {
+        "title": "삼성 폴더블 태블릿 어디까지 커지나…17인치 태블릿 개발 루머",
+        "date": "2026-11-02 11:02",
+        "link": "https://kbench.com/?q=node/282962"
+    },
+    {
+        "title": "애플 실적 발표서 아이폰18 판매 '주목'",
+        "date": "2026-11-02 11:00",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442497"
+    },
+    {
+        "title": "20번 접었는데 화면이 '쩍'…애플 첫 폴더블폰 덮친 '크랙 게이트' [취...",
+        "date": "2026-11-02 10:54",
+        "link": "https://n.news.naver.com/mnews/article/055/0001399888?sid=101"
+    },
+    {
+        "title": "경희대 연구팀, 늘려도 밝기 유지되는 '옷감형 OLED' 개발…헬스케어 확...",
+        "date": "2026-11-02 10:52",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=121278"
+    },
+    {
+        "title": "스마트폰 13년 만에 '최악 한파'…삼성, 22.7% 점유율 1위",
+        "date": "2026-11-02 10:52",
+        "link": "https://www.sentv.co.kr/article/view/sentv202611020087"
+    },
+    {
+        "title": "삼성 3분기 스마트폰 '세계 1위'…갤럭시A 덕",
+        "date": "2026-11-02 10:46",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54182"
+    },
+    {
+        "title": "아이폰 듀오 영향 제한적…10월 번호이동 '제자리걸음'",
+        "date": "2026-11-02 10:35",
+        "link": "https://n.news.naver.com/mnews/article/421/0009264098?sid=105"
+    },
+    {
+        "title": "삼성전자, 스마트폰 시장 부진에도 글로벌 1위 수성 … 애플과 130만대 ...",
+        "date": "2026-11-02 10:28",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200103.html"
+    },
+    {
+        "title": "“왕좌 지킨 삼성” 애플과 초접전",
+        "date": "2026-11-02 10:28",
+        "link": "https://n.news.naver.com/mnews/article/050/0000112712?sid=101"
+    },
+    {
+        "title": "3Q 글로벌 스마트폰 시장 2013년 이후 최저...삼성전자 세계 1위 유지",
+        "date": "2026-11-02 10:28",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=206105"
+    },
+    {
+        "title": "[테크 안테나] 삼성전자 엔비디아 옴디아",
+        "date": "2026-11-02 10:26",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1420640"
+    },
+    {
+        "title": "3분기 전 세계 스마트폰 출하량 20%↓…삼성전자 1위 유지",
+        "date": "2026-11-02 10:18",
+        "link": "https://www.g-enews.com/view.php?ud=20261102101228455527fa31d75c_1"
+    },
+    {
+        "title": "스마트폰 20% 급감에도 1위 지킨 삼성전자, 선방 이유는?",
+        "date": "2026-11-02 10:17",
+        "link": "https://n.news.naver.com/mnews/article/243/0000105076?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 스마트폰 시장 1위 수성...애플과 격차 130만대",
+        "date": "2026-11-02 10:12",
+        "link": "https://www.m-economynews.com/news/article.html?no=72422"
+    },
+    {
+        "title": "스마트폰 업계 ‘한숨’⋯ 모바일 시장, 내년에도 역성장 전망",
+        "date": "2026-11-02 09:58",
+        "link": "https://www.viva100.com/article/20261102500300"
+    },
+    {
+        "title": "아이폰 듀오·갤럭시 Z 폴드8 써보니…두뇌는 애플, 완성도는 삼성",
+        "date": "2026-11-02 09:53",
+        "link": "https://n.news.naver.com/mnews/article/008/0005435023?sid=105"
+    },
+    {
+        "title": "애플, 2027년 아이패드 라인업 대대적 쇄신⋯OLED 확대·AI 성능 강화",
+        "date": "2026-11-02 09:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601673"
+    },
+    {
+        "title": "스마트폰 시장 20% 급감에도…삼성전자, 3분기 세계 1위",
+        "date": "2026-11-02 09:50",
+        "link": "https://n.news.naver.com/mnews/article/001/0016414945?sid=105"
+    },
+    {
+        "title": "경희대 전용민 교수 연구팀, 늘려도 밝은 '스트레처블 OLED' 개발",
+        "date": "2026-11-02 09:48",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=4701"
+    },
+    {
+        "title": "글로벌 스마트폰 출하량 20% 급감…삼성 1위 수성·애플 선방",
+        "date": "2026-11-02 09:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878612"
+    },
+    {
+        "title": "나노입자 제어 기술, 소재·물성 한계 넘어 첨단산업 적용 확대",
+        "date": "2026-11-02 09:44",
+        "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=4033"
+    },
+    {
+        "title": "스마트폰 시장, 칩플레이션 '직격탄'...3분기, 전년비 20%↓",
+        "date": "2026-11-02 09:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=156754"
+    },
+    {
+        "title": "올해 3분기 글로벌 스마트폰 출하량 20% 급감…삼성 1위 유지·애플 선방",
+        "date": "2026-11-02 09:42",
+        "link": "https://n.news.naver.com/mnews/article/023/0004007253?sid=105"
+    },
+    {
+        "title": "충남TP, 디스플레이 소부장 국산화 성과 공개…특허 32건 확보",
+        "date": "2026-11-02 09:30",
+        "link": "http://amenews.kr/news/view.php?idx=68504"
+    },
+    {
+        "title": "선익시스템, 이제는 배를 채울 시간 [베스트 애널리스트 추천 종목]",
+        "date": "2026-11-02 09:19",
+        "link": "https://n.news.naver.com/mnews/article/050/0000112701?sid=101"
+    },
+    {
+        "title": "애플, 프로LED XDR 디스플레이 탑재 맥북 프로 공개…터치스크린·탠덤 ...",
+        "date": "2026-11-02 09:10",
+        "link": "https://www.itworld.co.kr/article/4242999/애플-프로led-xdr-디스플레이-탑재-맥북-프로-공개터치.html"
+    },
+    {
+        "title": "특허도 다수... '크랙게이트' 조롱 영상 조회수 대박 [여의도 Pick!]",
+        "date": "2026-11-02 09:10",
+        "link": "https://news.mtn.co.kr/article/2026110209093610105"
+    },
+    {
+        "title": "삼성전자, 글로벌 스마트폰 시장 침체에도 3Q 출하량 1위",
+        "date": "2026-11-02 09:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730029"
+    },
+    {
+        "title": "기본형 479만원에 램·SSD 폭리까지…애플, 맥북 프로 시중가 수 배 챙기...",
+        "date": "2026-11-02 09:08",
+        "link": "https://n.news.naver.com/mnews/article/138/0002246844?sid=105"
+    },
+    {
+        "title": "아이폰 듀오 화면 결함 확산되나…애플, 매장에 수리 지침 전달",
+        "date": "2026-11-02 08:54",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443341?sid=105"
+    },
+    {
+        "title": "베스트바이, 맥북 프로 사전 주문에 100달러 기프트카드…400달러 오른 ...",
+        "date": "2026-11-02 08:28",
+        "link": "https://www.wikitree.co.kr/articles/1170957"
+    },
+    {
+        "title": "“115만원짜리 아이패드 샀는데”…급속충전하려면 추가 비용?[모닝폰]",
+        "date": "2026-11-02 08:14",
+        "link": "https://n.news.naver.com/mnews/article/018/0006401810?sid=105"
+    },
+    {
+        "title": "코스피·코스닥, 전 거래일(30일) 주요공시",
+        "date": "2026-11-02 08:02",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81096"
+    },
+    {
         "title": "[코스피·코스닥,삼성전자 롯데 기아 삼성전기 케이뱅크 한화오션 효성...",
         "date": "2026-11-02 08:00",
         "link": "https://www.public25.com/news/articleView.html?idxno=57644"
@@ -8,6 +538,11 @@
         "title": "[TECH한주] K-배터리 제조 원가 혁신의 보이지 않는 거인… 초정밀 롤투...",
         "date": "2026-11-02 08:00",
         "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409052"
+    },
+    {
+        "title": "[전날 주요공시] 삼성전자·기아·삼성전기 등",
+        "date": "2026-11-02 07:58",
+        "link": "https://www.etoday.co.kr/news/view/2642730"
     },
     {
         "title": "마이크로 LED 주춤한 사이…노트북서 탄력받는 OLED 확장 '주목'",
@@ -48,11 +583,6 @@
         "title": "올레드 성능·생산성 ‘두 토끼’… LG디스플레이 ‘FLiPP’ 주목",
         "date": "2026-11-02 06:03",
         "link": "https://n.news.naver.com/mnews/article/022/0004171600?sid=101"
-    },
-    {
-        "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇...",
-        "date": "2026-11-02 06:02",
-        "link": "https://n.news.naver.com/mnews/article/056/0012285083?sid=121"
     },
     {
         "title": "[속보] 265만원 '아이폰 듀오', 화면 균열 이어 '틈새 논란'…예약 취소...",
@@ -103,6 +633,11 @@
         "title": "애플 인텔리전스, 중국서 알리바바 '큐원'과 통합",
         "date": "2026-11-01 17:50",
         "link": "https://n.news.naver.com/mnews/article/018/0006401663?sid=101"
+    },
+    {
+        "title": "애플·알리바바 AI 동맹 체결…中 출시 아이폰에 큐원 탑재",
+        "date": "2026-11-01 17:11",
+        "link": "https://n.news.naver.com/mnews/article/011/0004677451?sid=104"
     },
     {
         "title": "삼성전자, 삼성D서 CSOT 지분 전량 인수...1.27조원",
@@ -218,11 +753,6 @@
         "title": "20만번 접어도 안심 못한다…폴더블폰 화면은 왜 깨질까",
         "date": "2026-11-01 09:52",
         "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000078441"
-    },
-    {
-        "title": "손으로 떼어 먹는다.. 스낵파인애플, 망고 일변 제주 아열대과일 시장...",
-        "date": "2026-11-01 09:39",
-        "link": "https://n.news.naver.com/mnews/article/661/0000085877?sid=101"
     },
     {
         "title": "논산 강경고, 사과 건네며 마음 전하는 '애플데이' 열었다",
