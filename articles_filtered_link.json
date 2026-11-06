@@ -1,5 +1,525 @@
 [
     {
+        "title": "아산시의회, 삼성디스플레이 아산캠퍼스 A2동 방문...지역경제 활성화 ...",
+        "date": "2026-11-06 21:00",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=727182"
+    },
+    {
+        "title": "DRAM Price Surge Slows OLED Investment",
+        "date": "2026-11-06 20:36",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280726"
+    },
+    {
+        "title": "니케, PC 런처 보안 사고 악재 뚫고 한일 양국 매출 1위…일본 애플 10번...",
+        "date": "2026-11-06 20:08",
+        "link": "https://www.wikitree.co.kr/articles/1172545"
+    },
+    {
+        "title": "애플 M6 맥북 프로, 지금 살까 기다릴까…변수는 'OLED'",
+        "date": "2026-11-06 20:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713396"
+    },
+    {
+        "title": "아바코, 3분기 잠정 실적 공시…OLED 장비 납품 확대로 4분기 반등 전망",
+        "date": "2026-11-06 19:38",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116723"
+    },
+    {
+        "title": "스마트폰 넘어 차세대 칩과 수저우 생산망 전면에 깐 삼성의 포석",
+        "date": "2026-11-06 19:32",
+        "link": "https://www.g-enews.com/view.php?ud=202611061920472530fbbec65dfb_1"
+    },
+    {
+        "title": "中 OLED 추격에 정부 3689억 투입…삼성·LG 기술 경쟁력 뒷받침",
+        "date": "2026-11-06 19:18",
+        "link": "https://www.ajunews.com/view/20261106143253728"
+    },
+    {
+        "title": "충남도,미래 디스플레이 패권 잡는다…아산에 3688억 투입",
+        "date": "2026-11-06 18:38",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744726"
+    },
+    {
+        "title": "디스플레이협회 아산 연구센터 예타 통과 환영…OLED 초격차 발판 마련...",
+        "date": "2026-11-06 18:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=756352"
+    },
+    {
+        "title": "애플, '아이폰 듀오' 화면 결함 인정…일부 교체 지연",
+        "date": "2026-11-06 18:03",
+        "link": "https://n.news.naver.com/mnews/article/031/0001073028?sid=105"
+    },
+    {
+        "title": "한국화 패치 필요한 FSD... 디지털포스트 PC사랑 2026년 11월호 [Editor's ...",
+        "date": "2026-11-06 18:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61244"
+    },
+    {
+        "title": "D램값 폭등에 OLED 신기술 투자도 제동…삼성·LGD 속도 조절론",
+        "date": "2026-11-06 17:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006405331?sid=101"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 방문… 지역경제 도약 협력 모색",
+        "date": "2026-11-06 17:46",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309322"
+    },
+    {
+        "title": "힐링쉴드, 아이패드 미니 8세대 전용 액정보호필름 9종 출시",
+        "date": "2026-11-06 17:36",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409413"
+    },
+    {
+        "title": "“기술의 가능성, 이제 사업 성과로 보여줄 것”",
+        "date": "2026-11-06 17:28",
+        "link": "https://www.koreatimes.com/article/11630633?utm_source=naver"
+    },
+    {
+        "title": "애플, 아이폰 듀오 결함 인정…교체까지는 ‘하세월’",
+        "date": "2026-11-06 17:06",
+        "link": "https://n.news.naver.com/mnews/article/082/0001406035?sid=105"
+    },
+    {
+        "title": "충남도, 첨단디스플레이 국가연구플랫폼 구축사업 예타 통과",
+        "date": "2026-11-06 17:04",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721057"
+    },
+    {
+        "title": "“아이폰 접겠다더니 신뢰부터 접었다?”…삼성 쫓던 애플, 첫 폴더블 ...",
+        "date": "2026-11-06 17:02",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680175.html"
+    },
+    {
+        "title": "아이폰 듀오 화면 수리·교체 요청 상상 초월…말 바꾸기·유상 수리 ...",
+        "date": "2026-11-06 17:02",
+        "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=35362"
+    },
+    {
+        "title": "내년 아이패드 OLED 물량은...미니용은 삼성D가 공급",
+        "date": "2026-11-06 16:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002444270?sid=105"
+    },
+    {
+        "title": "애플, 아이패드 출하량 27.5% 줄어도 태블릿 시장 1위",
+        "date": "2026-11-06 16:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713397"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 아산캠퍼스 방문, 산업 동향 청취",
+        "date": "2026-11-06 16:42",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417384"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 아산캠퍼스서 지역경제 상생협력 논의",
+        "date": "2026-11-06 16:42",
+        "link": "http://www.dtnews24.com/news/articleView.html?idxno=816941"
+    },
+    {
+        "title": "나인테크, 해외 패널사에 8.6세대 OLED 물류 이송 시스템 공급",
+        "date": "2026-11-06 16:30",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116713"
+    },
+    {
+        "title": "아이폰 듀오, 결함 이어 교체 지연 논란 확산",
+        "date": "2026-11-06 16:30",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=754023"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 방문…기업 투자·지역 상생협력 논의",
+        "date": "2026-11-06 16:19",
+        "link": "https://n.news.naver.com/mnews/article/002/0002464678?sid=102"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 방문 지역경제 상생협력 논의",
+        "date": "2026-11-06 16:12",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1515322"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 아산캠퍼스 A2동 방문해 8.6세대 OLED 상생 ...",
+        "date": "2026-11-06 16:10",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=512759"
+    },
+    {
+        "title": "KH바텍, AIDC 수랭 부품 베트남 생산체계 구축",
+        "date": "2026-11-06 16:06",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215685"
+    },
+    {
+        "title": "아산시의회, 6일 '삼성디스플레이 아산캠퍼스' 방문",
+        "date": "2026-11-06 16:02",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919324"
+    },
+    {
+        "title": "애플도 삼성도 못 피했다…태블릿 불황에 홀로 웃은 레노버",
+        "date": "2026-11-06 15:56",
+        "link": "https://n.news.naver.com/mnews/article/123/0002393544?sid=004"
+    },
+    {
+        "title": "생산기지 넘어 기술 중심지로…충남 디스플레이의 대전환",
+        "date": "2026-11-06 15:54",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1422739"
+    },
+    {
+        "title": "3689억원 규모 첨단 디스플레이 연구플랫폼 예타 통과…협회 기술 경쟁...",
+        "date": "2026-11-06 15:52",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325092"
+    },
+    {
+        "title": "폴더블 아닌데 '200만원' 훌쩍…모토로라, 프리미엄 스마트폰 도전장",
+        "date": "2026-11-06 15:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713401"
+    },
+    {
+        "title": "KH바텍, AI 데이터센터 액체냉각 부품 베트남 생산 추진",
+        "date": "2026-11-06 15:46",
+        "link": "https://www.sentv.co.kr/article/view/sentv202611060144"
+    },
+    {
+        "title": "아산시의회, 삼성디스플레이 아산캠퍼스 방문...지역경제 상생협력 방안...",
+        "date": "2026-11-06 15:46",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721050"
+    },
+    {
+        "title": "디스플레이협회 3689억 국가연구플랫폼 예타 통과 환영",
+        "date": "2026-11-06 15:44",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=65034"
+    },
+    {
+        "title": "빛나는 로고 싫다면…애플, 터미널로 끄는 방법 안내",
+        "date": "2026-11-06 15:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713393"
+    },
+    {
+        "title": "자원순환 없이 녹색대전환 없다...순환경제 없는 'K-GX'의 한계",
+        "date": "2026-11-06 15:40",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=17273"
+    },
+    {
+        "title": "K-디스플레이 '초격차' 굳힌다…3688억원 투입 국가연구플랫폼 예타 통...",
+        "date": "2026-11-06 15:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730767"
+    },
+    {
+        "title": "큐닉스, 포브스코리아 2026 고객신뢰도 1위 프리미엄 브랜드 게이밍모니...",
+        "date": "2026-11-06 15:28",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67251"
+    },
+    {
+        "title": "큐닉스, 포브스코리아 2026 프리미엄 브랜드 게이밍모니터 부문 수상......",
+        "date": "2026-11-06 15:22",
+        "link": "https://www.thebigdata.co.kr/view.php?ud=2026110615122677489aeda69934_23"
+    },
+    {
+        "title": "KH바텍, AI 데이터센터용 수랭 부품 생산 구축...베트남 거점 활용",
+        "date": "2026-11-06 15:18",
+        "link": "https://www.thebigdata.co.kr/view.php?ud=2026110614484434259aeda69934_23"
+    },
+    {
+        "title": "큐닉스, 포브스코리아 2026 고객신뢰도 1위 게이밍모니터 부문 수상…PC...",
+        "date": "2026-11-06 15:12",
+        "link": "https://www.kbsm.net/news/view.php?idx=540667"
+    },
+    {
+        "title": "팔로미노, AI 데이터센터용 마이크로LED 칩 첫 수주",
+        "date": "2026-11-06 15:04",
+        "link": "https://www.tokenpost.kr/news/ai/433899"
+    },
+    {
+        "title": "'첨단 디스플레이 국가연구플랫폼' 예타 통과",
+        "date": "2026-11-06 15:04",
+        "link": "https://n.news.naver.com/mnews/article/030/0003483046?sid=100"
+    },
+    {
+        "title": "나인테크, 254억원 OLED 장비 공급 성과…애플 맥북發 차세대 디스플레...",
+        "date": "2026-11-06 15:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=561719"
+    },
+    {
+        "title": "이모션웨이브, 애플 비전 프로 기반 AI 이머시브 미디어 플랫폼 '나루' ...",
+        "date": "2026-11-06 15:00",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215683"
+    },
+    {
+        "title": "후합성 리간드 교환 없다…이유빈 국민대 석사수료생, 고효율 페로브...",
+        "date": "2026-11-06 14:54",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132159"
+    },
+    {
+        "title": "충남 아산에 3689억 디스플레이 국가연구거점…8개월 만에 예타 통과",
+        "date": "2026-11-06 14:42",
+        "link": "https://www.ekn.kr/web/view.php?key=20261106027056343"
+    },
+    {
+        "title": "애플, 아이폰 듀오 결함 인정했지만…교체 지연에 소비자 불만 확산",
+        "date": "2026-11-06 14:38",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000080296"
+    },
+    {
+        "title": "디스플레이 업계, '첨단 디스플레이 국가연구플랫폼 구축사업' 예타 통...",
+        "date": "2026-11-06 14:36",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254671"
+    },
+    {
+        "title": "[이슈 분석] '아이폰 듀오' 화면 균열, 기구 결함서 AS 대란으로 번진 애...",
+        "date": "2026-11-06 14:34",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027130"
+    },
+    {
+        "title": "애플 'iOS 27.3' 공개 베타 배포…건강 앱 개편하고 시리 AI 기능 확대",
+        "date": "2026-11-06 14:16",
+        "link": "https://kbench.com/?q=node/283127"
+    },
+    {
+        "title": "[메가이슈토픽] 애플 야심작 '아이폰 듀오' 기대 못 미쳐…삼성 '7년 폴...",
+        "date": "2026-11-06 14:10",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573881968390"
+    },
+    {
+        "title": "디스플레이 업계, 3689억 규모 국가연구플랫폼 예타 통과 환영",
+        "date": "2026-11-06 14:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=139037"
+    },
+    {
+        "title": "디스플레이업계 3688억 국가플랫폼 예타 통과 환영… 中 추격 대응 기반...",
+        "date": "2026-11-06 14:10",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285274"
+    },
+    {
+        "title": "애플 첫 폴더블폰 화면 결함, 국내외 교체 지연 불만 이어져",
+        "date": "2026-11-06 14:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=726946"
+    },
+    {
+        "title": "[흔들리는 갤럭시 왕국⑧] 삼성, 스마트폰 판매량 세계 1위인데…매출은...",
+        "date": "2026-11-06 13:54",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=483675"
+    },
+    {
+        "title": "[기자수첩] 329만원짜리 '뽑기'",
+        "date": "2026-11-06 13:52",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=64923"
+    },
+    {
+        "title": "'아이폰 듀오' AS 대란…교체 지연·비용 부담 속출",
+        "date": "2026-11-06 13:48",
+        "link": "https://n.news.naver.com/mnews/article/374/0000542155?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 중국 현지 인터넷 카페(i-café)와 협업…게이밍 올레...",
+        "date": "2026-11-06 13:38",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=446828"
+    },
+    {
+        "title": "디스플레이협회, 3689억 국가연구 예타 통과 '환영'…OLED 초격차 기대...",
+        "date": "2026-11-06 13:19",
+        "link": "https://n.news.naver.com/mnews/article/421/0009274355?sid=101"
+    },
+    {
+        "title": "충남도, 첨단 디스플레이 국가연구사업 예타 통과… 3,699억 투입",
+        "date": "2026-11-06 13:04",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309235"
+    },
+    {
+        "title": "애플 75억달러 회사채에 310억달러 몰렸다",
+        "date": "2026-11-06 13:02",
+        "link": "https://www.naeil.com/news/read/607850?ref=naver"
+    },
+    {
+        "title": "핵심부품 공급 부족 이어지나…태블릿PC 출하량, 3년 만에 최저치",
+        "date": "2026-11-06 13:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=230470"
+    },
+    {
+        "title": "애플, '아이폰 듀오' 결함 인정...무상 교체에도 소비자 불만 높아져",
+        "date": "2026-11-06 12:46",
+        "link": "https://www.cwn.kr/news/articleView.html?idxno=61184"
+    },
+    {
+        "title": "결함 인정한 아이폰 듀오…무상교체 나섰지만 불만 잇따라",
+        "date": "2026-11-06 12:43",
+        "link": "https://n.news.naver.com/mnews/article/055/0001401146?sid=101"
+    },
+    {
+        "title": "애플 ‘아이폰 듀오’ 디스플레이 결함 인정...무상 교체 지연에 소비자...",
+        "date": "2026-11-06 12:08",
+        "link": "https://www.m-economynews.com/news/article.html?no=72692"
+    },
+    {
+        "title": "'중국에 주도권 뺏길라'…3700억 투입해 국책 연구원 세운다",
+        "date": "2026-11-06 12:08",
+        "link": "https://n.news.naver.com/mnews/article/015/0005351110?sid=101"
+    },
+    {
+        "title": "애플, 회사채로 10조원 조달… 발행액 4배 넘는 주문 몰려",
+        "date": "2026-11-06 12:04",
+        "link": "https://n.news.naver.com/mnews/article/366/0001203058?sid=105"
+    },
+    {
+        "title": "'첨단 디스플레이 국가연구플랫폼 구축사업' 예타 통과… 총 3,688.7억 원...",
+        "date": "2026-11-06 12:02",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=26457"
+    },
+    {
+        "title": "OS 상호운용성 막아버리니까 문제…구글·애플에 사전 개방 의무 제안",
+        "date": "2026-11-06 11:58",
+        "link": "https://www.itdaily.kr/news/articleView.html?idxno=242739"
+    },
+    {
+        "title": "충남 아산에 3688억 투입…첨단 디스플레이 국가연구플랫폼 예타 통과",
+        "date": "2026-11-06 11:58",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=753988"
+    },
+    {
+        "title": "아이폰 듀오, 24시간 연속 접힘 테스트 26만회 돌파…화면·힌지 '이상 ...",
+        "date": "2026-11-06 11:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713307"
+    },
+    {
+        "title": "애플 '아이폰 듀오' 결함 무상 교체 약속에도…현장선 지연·판정 혼선",
+        "date": "2026-11-06 11:48",
+        "link": "https://theopiniontimes.news/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%ea%b2%b0%ed%95%a8-%eb%ac%b4%ec%83%81-%ea%b5%90%ec%b2%b4-%ec%95%bd%ec%86%8d%ec%97%90%eb%8f%84%ed%98%84%ec%9e%a5%ec%84%a0/"
+    },
+    {
+        "title": "'아이폰 듀오' 교체 지연…공급 600만대 밑돌 것",
+        "date": "2026-11-06 11:44",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54398"
+    },
+    {
+        "title": "수리 폭주로 교체 불가…화면 깨진 '아이폰 듀오', 이번엔 AS 대란 비...",
+        "date": "2026-11-06 11:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=303071"
+    },
+    {
+        "title": "애플, 아이폰 듀오 결함 인정했지만 교체도 난항…'내년 1월까지 대기'에...",
+        "date": "2026-11-06 11:30",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=561818"
+    },
+    {
+        "title": "애플 부사장 톰 보저가 밝힌 신형 맥북 프로의 경량화·디자인·발광 로...",
+        "date": "2026-11-06 11:30",
+        "link": "https://www.itworld.co.kr/article/4245435/애플의-톰-보거-부사장이-맥북-프로의-무게-디자인-그.html"
+    },
+    {
+        "title": "애플, iOS 27.3 첫 공개 베타 출시 새 건강 앱·아이폰 듀오 편의성 개...",
+        "date": "2026-11-06 11:27",
+        "link": "https://n.news.naver.com/mnews/article/092/0002444193?sid=105"
+    },
+    {
+        "title": "'결함' 아이폰 듀오...'교체 지연·비용 부담' 불만 속출",
+        "date": "2026-11-06 11:23",
+        "link": "https://n.news.naver.com/mnews/article/660/0000120736?sid=102"
+    },
+    {
+        "title": "韓디스플레이, '중국판 PC방' 아이카페 겨냥 '올레드 모니터' 마케팅 확...",
+        "date": "2026-11-06 11:21",
+        "link": "https://n.news.naver.com/mnews/article/003/0014305808?sid=101"
+    },
+    {
+        "title": "충남도, 첨단 디스플레이 국가연구플랫폼 예타 통과",
+        "date": "2026-11-06 11:12",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718019"
+    },
+    {
+        "title": "[기고] 미국 정부 앞세운 빅테크의 압박, 한미동맹 흔들어선 안 된다",
+        "date": "2026-11-06 11:12",
+        "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=10105"
+    },
+    {
+        "title": "'3688억 디스플레이 연구거점' 아산 유치…1511억 축소된 사업비, 실질 ...",
+        "date": "2026-11-06 11:11",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=354016"
+    },
+    {
+        "title": "충남도 아산에 3689억 디스플레이 국가연구거점…예타 통과",
+        "date": "2026-11-06 11:00",
+        "link": "https://www.ajunews.com/view/20261106104147192"
+    },
+    {
+        "title": "아산시 국가연구플랫폼 예타 통과…충남 디스플레이 연구거점 구축 본격...",
+        "date": "2026-11-06 10:56",
+        "link": "https://n.news.naver.com/mnews/article/629/0000549397?sid=102"
+    },
+    {
+        "title": "'결함 인정' 아이폰 듀오 무상 교체, 불만 폭주 '300만원 넘는 고가폰, ...",
+        "date": "2026-11-06 10:54",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=190523"
+    },
+    {
+        "title": "화웨이 차세대 초슬림폰 신작 임박…'메이트 80 에어' 12월 공개 가능성",
+        "date": "2026-11-06 10:54",
+        "link": "https://kbench.com/?q=node/283115"
+    },
+    {
+        "title": "애플, AI 투자 대신 주주환원?…10조 채권에 42조 몰렸다",
+        "date": "2026-11-06 10:50",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880565"
+    },
+    {
+        "title": "넥슨 '템빨' 26일 출시..경쟁형 MMORPG 시장 본격 공략",
+        "date": "2026-11-06 10:50",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2121304"
+    },
+    {
+        "title": "꺼지지 않는 아이폰 듀오 품질 논란…10명 중 4명 살 생각 접었다[1일...",
+        "date": "2026-11-06 10:47",
+        "link": "https://n.news.naver.com/mnews/article/014/0005600466?sid=105"
+    },
+    {
+        "title": "미래 디스플레이 패권은 충남…국가연구플랫폼 구축사업 확정",
+        "date": "2026-11-06 10:44",
+        "link": "https://n.news.naver.com/mnews/article/422/0000923443?sid=100"
+    },
+    {
+        "title": "아이폰 듀오 리뷰 : 329만원짜리 폴더블 아이폰 듀오 “펼치면 최고 접...",
+        "date": "2026-11-06 10:40",
+        "link": "https://www.itworld.co.kr/article/4244946/아이폰-듀오-리뷰-329만원짜리-폴더블-아이폰-듀오-펼.html"
+    },
+    {
+        "title": "지식재산처, 삼성디스플레이와 IP 간담회…심사 일관성 높인다",
+        "date": "2026-11-06 10:37",
+        "link": "https://n.news.naver.com/mnews/article/011/0004679430?sid=105"
+    },
+    {
+        "title": "'크랙게이트'에 수리·교체 지연까지…아이폰 듀오, 구매심리도 흔들",
+        "date": "2026-11-06 10:32",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210965"
+    },
+    {
+        "title": "삼성디스플레이, 中 7억 게이머 공략...업계 최초 'QL-OLED 인증 PC방' 구...",
+        "date": "2026-11-06 10:28",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=33325"
+    },
+    {
+        "title": "충남도, 첨단 디스플레이 국가연구 프로젝트 본격 추진",
+        "date": "2026-11-06 10:26",
+        "link": "https://n.news.naver.com/mnews/article/421/0009273960?sid=102"
+    },
+    {
+        "title": "AI 회의론에도 애플은 달랐다…10조원 회사채에 42조원 몰려",
+        "date": "2026-11-06 10:24",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026110610120973867"
+    },
+    {
+        "title": "제조 결함이라더니 돈 내라?…아이폰 듀오 AS 논란",
+        "date": "2026-11-06 10:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000411"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S27' 윤곽...라인업 확장·AP 3원화",
+        "date": "2026-11-06 10:10",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=269736"
+    },
+    {
+        "title": "애플, 75억달러 규모 회사채 발행…'AI 투자 열풍' 합류",
+        "date": "2026-11-06 10:08",
+        "link": "https://n.news.naver.com/mnews/article/014/0005600432?sid=101"
+    },
+    {
+        "title": "[Biz 포커스] 아산에 3689억 투입 '첨단디스플레이연구원' 들어선다…산...",
+        "date": "2026-11-06 10:06",
+        "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100753"
+    },
+    {
         "title": "“수리 요청 너무 많아 감당 불가”… 애플 ‘아이폰 듀오’ AS 대란에 ...",
         "date": "2026-11-06 09:54",
         "link": "https://www.mediapen.com/news/view/1135667"
@@ -25,6 +545,11 @@
         "link": "http://www.newskr.kr/news/articleView.html?idxno=107770"
     },
     {
+        "title": "화면 교체 하세월…아이폰 듀오 소비자 신뢰에도 금 가나",
+        "date": "2026-11-06 09:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0014305393?sid=105"
+    },
+    {
         "title": "'아이폰 듀오' 품질 논란 이어 수리 지연도…교체 기기 부족",
         "date": "2026-11-06 09:23",
         "link": "https://n.news.naver.com/mnews/article/421/0009273688?sid=105"
@@ -35,11 +560,6 @@
         "link": "https://n.news.naver.com/mnews/article/009/0005759892?sid=105"
     },
     {
-        "title": "애플, 회사채 10조원 발행에 투자자 주문 4배 폭주",
-        "date": "2026-11-06 09:15",
-        "link": "https://n.news.naver.com/mnews/article/016/0002719716?sid=104"
-    },
-    {
         "title": "나인테크, 8.6세대 잉크젯 OLED 라인 장비 공급 확대",
         "date": "2026-11-06 09:14",
         "link": "https://www.cstimes.com/news/articleView.html?idxno=726907"
@@ -48,11 +568,6 @@
         "title": "과기정통부 예타 통과…아산, 차세대 디스플레이 연구 거점 도약",
         "date": "2026-11-06 09:14",
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501804"
-    },
-    {
-        "title": "“10조원 뭉칫돈 몰렸다” 애플 회사채 흥행",
-        "date": "2026-11-06 09:11",
-        "link": "https://n.news.naver.com/mnews/article/050/0000112906?sid=101"
     },
     {
         "title": "LG디스플레이, 4세대 탠덤 WOLED 앞세워 中 프리미엄 게이밍 모니터 시장...",
@@ -140,11 +655,6 @@
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611031656563720104641"
     },
     {
-        "title": "애플, 10조원 회사채 발행…주문 4배 몰려",
-        "date": "2026-11-06 07:54",
-        "link": "https://n.news.naver.com/mnews/article/001/0016425303?sid=101"
-    },
-    {
         "title": "삼성D vs LGD, 차량용·휴머노이드 '탠덤 OLED' 선점 경쟁 본격화",
         "date": "2026-11-06 07:30",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712930"
@@ -205,11 +715,6 @@
         "link": "https://www.wikitree.co.kr/articles/1172277"
     },
     {
-        "title": "애플(AAPL)도 주식 토큰화 거부...발행사들, 보이콧에 멈추나?",
-        "date": "2026-11-06 01:02",
-        "link": "http://coinreaders.com/267892"
-    },
-    {
         "title": "[김대호 인물] 애플 터너스 첫 컨콜 어닝 쇼크",
         "date": "2026-11-05 23:56",
         "link": "https://www.g-enews.com/view.php?ud=202611031129152729906806b77b_1"
@@ -218,11 +723,6 @@
         "title": "거먼 “2027년 초 2세대 맥북 네오”…A19 Pro·12GB 램, 출하 두 배 배경...",
         "date": "2026-11-05 23:16",
         "link": "https://www.wikitree.co.kr/articles/1172269"
-    },
-    {
-        "title": "[기고] 프리미엄 안드로이드폰 칩셋 시장이 재편된다",
-        "date": "2026-11-05 23:05",
-        "link": "https://n.news.naver.com/mnews/article/092/0002444142?sid=110"
     },
     {
         "title": "아이폰 듀오 전용이던 스탠바이, iOS 27.3 베타로 아이폰 11 이후 모델에...",
@@ -245,17 +745,12 @@
         "link": "http://news.ebs.co.kr/ebsnews/allView/60786984/N"
     },
     {
-        "title": "핵융합·해양원자로·차세대 OLED에 2.2조 투입…R&amp;D 예타 3건 시행 결정",
-        "date": "2026-11-05 18:30",
-        "link": "https://n.news.naver.com/mnews/article/003/0014304877?sid=105"
-    },
-    {
         "title": "329만원 주고 산 아이폰 화면이 ‘쩍’…“도저히 못 사겠다” 신뢰도까...",
         "date": "2026-11-05 18:21",
         "link": "https://n.news.naver.com/mnews/article/011/0004679242?sid=105"
     },
     {
-        "title": "[사람&amp;스토리]신혜린 아망뜨진도 대표 진도 애플망고, 전국이 찾는 명...",
+        "title": "[사람&amp;스토리]신혜민 아망뜨진도 대표 진도 애플망고, 전국이 찾는 명...",
         "date": "2026-11-05 18:02",
         "link": "https://www.namdonews.com/news/articleView.html?idxno=928356"
     },
@@ -590,14 +1085,14 @@
         "link": "https://www.joongangenews.com/news/articleView.html?idxno=561320"
     },
     {
-        "title": "삼성전자, 빅테크 고객 확보·특허 협력 병행…'투트랙' 전략 주목",
-        "date": "2026-11-05 10:58",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730554"
-    },
-    {
         "title": "내재화 외치더니 비용 옥죄기…애플, 직원 'AI 예산' 전격 삭감",
         "date": "2026-11-05 10:58",
         "link": "https://n.news.naver.com/mnews/article/018/0006404083?sid=101"
+    },
+    {
+        "title": "삼성전자, 빅테크 고객 확보·특허 협력 병행…'투트랙' 전략 주목",
+        "date": "2026-11-05 10:58",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730554"
     },
     {
         "title": "삼성디스플레이, 中 인터넷 카페 60곳에 QD-OLED 인증점 구축",
@@ -735,6 +1230,11 @@
         "link": "https://www.newspim.com/news/view/20261105000118"
     },
     {
+        "title": "이녹스첨단소재, 모바일 OLED용 OCA 국산화…초도 양산 돌입",
+        "date": "2026-11-05 09:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003482378?sid=105"
+    },
+    {
         "title": "삼성D, 中 인터넷 카페와 'QD-OLED 인증점' 프로모션…현지 시장 공략 가...",
         "date": "2026-11-05 09:31",
         "link": "https://n.news.naver.com/mnews/article/030/0003482377?sid=105"
@@ -745,14 +1245,14 @@
         "link": "https://n.news.naver.com/mnews/article/001/0016423156?sid=101"
     },
     {
-        "title": "이녹스첨단소재, 모바일 OLED용 OCA 국산화...초도 양산 돌입",
-        "date": "2026-11-05 09:26",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712782"
-    },
-    {
         "title": "이녹스첨단소재, 모바일 OLED용 OCA 양산",
         "date": "2026-11-05 09:26",
         "link": "https://www.cstimes.com/news/articleView.html?idxno=726701"
+    },
+    {
+        "title": "이녹스첨단소재, 모바일 OLED용 OCA 국산화...초도 양산 돌입",
+        "date": "2026-11-05 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712782"
     },
     {
         "title": "삼성디스플레이, 업계 최초 中 'i-카페' 손잡고 게이밍 OLED 영토 확장",
@@ -875,11 +1375,6 @@
         "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501408"
     },
     {
-        "title": "대한악안면성형재건외과학회 제65차 종합학술대회…디지털 수술부터 MR...",
-        "date": "2026-11-05 08:40",
-        "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978280"
-    },
-    {
         "title": "삼성디스플레이, 中 게이밍 시장 공략…'QD-OLED 인증점' 60곳 확대",
         "date": "2026-11-05 08:38",
         "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730521"
@@ -910,6 +1405,11 @@
         "link": "https://n.news.naver.com/mnews/article/029/0003057263?sid=101"
     },
     {
+        "title": "애플, 맥북 프로 터치스크린으로 통합하나…기존 모델 단종",
+        "date": "2026-11-05 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443917?sid=105"
+    },
+    {
         "title": "삼성D, 中 PC방 'QD-OLED 인증' 프로모션...올해 60곳 지정 목표",
         "date": "2026-11-05 08:31",
         "link": "https://n.news.naver.com/mnews/article/092/0002443915?sid=105"
@@ -923,11 +1423,6 @@
         "title": "삼성D, 中 PC방 10곳 ‘QD-OLED’ 인증…연말까지 60곳으로 확대",
         "date": "2026-11-05 08:26",
         "link": "https://n.news.naver.com/mnews/article/016/0002719072?sid=101"
-    },
-    {
-        "title": "이녹스첨단소재, 모바일 OLED용 'OCA' 초도 양산 돌입",
-        "date": "2026-11-05 08:25",
-        "link": "https://n.news.naver.com/mnews/article/277/0005838267?sid=101"
     },
     {
         "title": "삼성디스플레이 'QD-OLED' 고사양 게임 최적화…게이밍 신세계 푹 빠진 ...",
